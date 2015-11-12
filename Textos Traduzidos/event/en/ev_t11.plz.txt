@@ -1,0 +1,1327 @@
+[t11_020_100.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:95>Gosh, just look at this place,
+Professor! It's so posh I feel
+I should be wearing a monocle!
+!******************************!
+[t11_020_200.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:171>Ha ha! Quite so, Luke. Every
+fixture and fitting is the very
+height of decadence.<W>
+!------------------------------!
+I'd wager the rest of the train is
+just as grand. How about a little
+exploration?
+!******************************!
+[t11_030_100.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:101>Professor, we never stay in places
+as nice as this. Can't we look
+around the room a little longer?
+!******************************!
+[t11_040_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:107>Come now, Luke. Don't you think you
+should tidy up your things and close
+your bag before we venture out?
+!******************************!
+[t11_045_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:84>Remember, Luke, we're here to find
+the Elysian Box, so don't get too
+sidetracked.
+!******************************!
+[t11_045_200.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:100>You don't have to tell me twice,
+Professor.<W> Now, why don't we start
+by investigating the train?
+!******************************!
+[t11_050_100.gds]
+<01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:160>I hear the rooms at the front of
+the train are so super-duper fancy
+the doorknobs are made of gold!<W>
+!------------------------------!
+But no one's allowed in 'cept for
+REALLY rich people.
+!******************************!
+[t11_050_200.gds]
+<01:00000024><03:10>b2 normal<03:5>NONE<01:00000003><03:101>So, misters, are you REALLY rich?<W>
+'Cause if you are, you can go see
+the super-duper fancy rooms.
+!******************************!
+[t11_050_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>Super-duper fancy rooms...
+!******************************!
+[t11_050_400.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:157>...that none but the extremely
+wealthy can enter.<W>
+!------------------------------!
+If our young friend is correctly
+informed, there must be a set of
+deluxe rooms in the next carriage.
+!******************************!
+[t11_050_500.gds]
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:78>Wow! I'd love to see what those
+look like!<W>
+!------------------------------!
+I bet they're simply smashing!
+!******************************!
+[t11_060_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:60>I wonder what kind of luxuries
+there are in that carriage!
+!******************************!
+[t11_060_200.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:245>Hold it right there, man!<W>
+!------------------------------!
+Sammy Thunder says entrance to
+this carriage is for VIPs only,
+capiche?<W>&setani 8 b2_normal&
+!------------------------------!
+Now, I know you'd like to sneak a
+peek, but the whole carriage's
+been booked, so that's a no-go.&setani 8 b1_normal&
+!******************************!
+[t11_060_400.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:82>The people who reserve rooms
+in this carriage must be super-
+rich mega tycoons!
+!******************************!
+[t11_060_500.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:104>Indeed. I wonder what it must be
+like to have that much space to
+yourself on a train of this calibre.
+!******************************!
+[t11_060_600.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:92>Well, for now I suppose you'll just
+have to keep wondering, eh,
+Professor?<W> Ha ha ha ha!
+!******************************!
+[t11_060_700.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:12>Yes, quite.
+!******************************!
+[t11_070_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:107>Hold it right there, man!<W> Not to
+harsh your mellow, but this part of
+the train is VIP-only, y'hear?<@v>3
+!******************************!
+[t11_080_100.gds]
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:190>Yes, I suppose these accomodations
+will do. I do hope my darling boy
+will be pleased.<W>
+!------------------------------!
+That reminds me, I believe it's
+dindin time for my sweet baby.
+I'm off to visit the dining car. 
+!******************************!
+[t11_085_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:90>Professor, why don't we get
+something to eat? My stomach is
+grumbling something fierce.
+!******************************!
+[t11_090_100.gds]
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:205>My most sincere apologies, sirs,
+but I'm afraid the dining car is
+completely full at the moment.<W>
+!------------------------------!
+If you would kindly wait just a
+short while, I will inform you as
+soon as a table becomes available.
+!******************************!
+[t11_096_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:91>This is one nice dining car!
+I'll bet even the kitchen's really
+posh. What do you think?
+!******************************!
+[t11_096_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:106>Well, that door on the left seems
+to lead to the kitchen. What do you
+say we take a look for ourselves?
+!******************************!
+[t11_100_100.gds]
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:50>Wow, just look at all the stuff
+there is to eat!
+!******************************!
+[t11_100_1000.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:237>Oh boy, I guess the cat's out of
+the bag now.<W>
+!------------------------------!
+Listen, I know it's against the rules
+to keep a pet in the kitchen.<W>
+But... He's my only friend, see?<W>
+!------------------------------!
+Furry or not, he's the only
+pers...er, creature I've got to talk
+to in here.
+!******************************!
+[t11_100_1100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:88>My, he certainly is...generously
+proportioned, isn't he?<W> He's a
+hamster, I presume?
+!******************************!
+[t11_100_1200.gds]
+<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:423>Of course he's a hamster! Their
+quiet dignity makes them the
+noblest of all creatures!<W>
+!------------------------------!
+When I first started working
+here, I needed someone to keep me
+company, so I bought him.<W>
+!------------------------------!
+Thing is, I feed him all the table
+scraps we take back, which makes
+for a diet that's a bit, erm, rich.<W>&setani 14 b2_weep&
+!------------------------------!
+He's really piled on the pounds, and
+to be honest I'm starting to wonder
+if it isn't bad for his health...
+!******************************!
+[t11_100_1400.gds]
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:16>The poor thing!
+!******************************!
+[t11_100_1500.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:211>I wonder... Could I ask you a
+favour?<W> Would you mind looking
+after my friend for a little while?<W>
+!------------------------------!
+When he's here with me, I can't help
+but feed him. But those scraps of
+foie gras and pastry soon add up.
+!******************************!
+[t11_100_1700.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:195>You mean you want us to take care
+of him and help him get into shape?
+Sounds like a great idea to me!<W>
+!------------------------------!
+Erm, I mean, what do you think,
+Professor? Can we please keep him
+for a little while?
+!******************************!
+[t11_100_1800.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:194>Well, I've always said that helping
+rodents in need is among the duties
+of every true gentleman.<W>
+!------------------------------!
+We'd be happy to take custody of
+this hamster until he sheds some
+of that excess baggage.
+!******************************!
+[t11_100_1900.gds]
+<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:92>Oh, thank you so much! It's a
+real weight off my shoulders.
+And off his waist, hopefully!
+!******************************!
+[t11_100_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:98>Yes, it seems that the Molentary
+Express is a first-class operation,
+right down to the kitchen.
+!******************************!
+[t11_100_2000.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:90>You can check on the hamster by
+touching the Hamster icon inside
+the professor's trunk.
+!******************************!
+[t11_100_2100.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:136>Oh, and one more thing. <W>
+!------------------------------!
+Since I won't be seeing the little
+fellow for a while, could you give
+him this apple?<W> He loves them so.
+!******************************!
+[t11_100_2200.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:63>Oh, I'm going to miss my furry
+friend! Please look after him!
+!******************************!
+[t11_100_2300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:33>Don't worry, he's in good hands!
+!******************************!
+[t11_100_300.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:170>Oh my, passengers in the kitchen!
+I'm sorry, but we just can't have
+that.<W>
+!------------------------------!
+Those dirty clothes of yours
+probably violate all sorts of
+health regulations, you know.
+!******************************!
+[t11_100_400.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:79>Why, I'll have you know that there's
+nothing at all dirty about our
+clothes!
+!******************************!
+[t11_100_500.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:206>Say what you like, short stuff, but
+that doesn't change the fact that
+I'm running a kitchen here.<W>
+!------------------------------!
+Did you stop to think about what
+could happen if yucky outside germs
+made it in here because of you?
+!******************************!
+[t11_100_600.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:103>I see your point.<W> Terribly sorry for
+the intrusion and any worry we may
+have caused you, good sir.
+!******************************!
+[t11_100_700.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:59>Oh... All right. I'm sorry too, sir.<W>
+!------------------------------!
+Wait, what's that?
+!******************************!
+[t11_100_900.gds]
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:153>Professor, look here! It seems
+our friend the cook has been
+keeping a pet in the kitchen!<W>
+!------------------------------!
+How arrogant of him to lecture
+other people about germs!
+!******************************!
+[t11_101_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:61>OK, little chap, From now on,
+anywhere I go, you'll go too.
+!******************************!
+[t11_101_200.gds]
+<01:00000054><03:5>NONE<03:5>NONE<01:00000003><03:24>Squeak?<W> Squee-Squeak!
+!******************************!
+[t11_101_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:82>Ha ha! It appears that your way
+with animals has earned you a
+new friend, Luke!
+!******************************!
+[t11_101_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>I think so too, Professor!
+!******************************!
+[t11_110_100.gds]
+<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:63>Oh, I'm going to miss my furry
+friend! Please look after him!
+!******************************!
+[t11_110_200.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:33>Don't worry, he's in good hands!
+!******************************!
+[t11_120_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Looks like there's no one here at
+the moment.
+!******************************!
+[t11_120_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:25>Let's check again later.
+!******************************!
+[t11_130_100.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:74>Say, Professor, does that little
+shack over there seem familiar to
+you?
+!******************************!
+[t11_130_200.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:75>Indeed. Unless I'm mistaken, this
+must be the residence of
+you-know-who.
+!******************************!
+[t11_130_300.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:52>I have a feeling she'll be a big help
+to us again.
+!******************************!
+[t11_140_100.gds]
+<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:71>Ah, there's nothing like travel by
+rail to put a spring in your step!
+!******************************!
+[t11_140_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:107>I couldn't agree more.<W> And there's
+no better way to do it than on a
+train as fine as yours, Mr Beluga.
+!******************************!
+[t11_140_300.gds]
+<01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:33>Hm? So you know my name, do you?
+!******************************!
+[t11_140_400.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:138>But of course. This train and
+its owner have quite a reputation
+in London.<W>
+!------------------------------!
+I've seen your face in the papers
+more than a few times.
+!******************************!
+[t11_140_500.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:83>It's just amazing how you managed
+to establish this railway at such
+a young age.
+!******************************!
+[t11_140_600.gds]
+<01:00000009><03:9>b1 laugh<03:5>NONE<01:00000002><03:115>Ho ho, is that so now?<W>
+!------------------------------!
+I'm sorry, er...my friend, but I
+can't say I know you as well as
+you seem to know me. 
+!******************************!
+[t11_140_700.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:210>The name is Hershel Layton. I'm a
+professor of archaeology by trade,
+but a train enthusiast on the side.<W>
+!------------------------------!
+I've heard tales of this train's
+grandeur, so I decided it was
+time to experience it, first-hand.
+!******************************!
+[t11_140_800.gds]
+<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:187>Well, isn't that something. It
+certainly is a pleasure to meet
+you, Mr...Layton, was it?<W>
+!------------------------------!
+Oh my, just look at how late it's
+gotten. I really have to run.
+Do enjoy your time aboard.
+!******************************!
+[t11_140_900.gds]
+<01:00000009><03:9>b1 laugh<03:5>NONE<01:00000002><03:86>Oh my, just look at how late it's
+gotten. I need to be off. Enjoy
+your time aboard.
+!******************************!
+[t11_150_100.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:88>Why don't we head back to the
+dining car now, Luke? I've worked
+up quite an appetite.
+!******************************!
+[t11_160_100.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:58>Luke, let's drop by our room
+before we go anywhere else.
+!******************************!
+[t11_160_200.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:24>Sounds good, Professor.
+!******************************!
+[t11_170_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:26>Now what do we have here?
+!******************************!
+[t11_170_1000.gds]
+<01:0000000B><03:10>b1 normal<03:5>NONE<01:00000002><03:98>Are you still here?<W> If you have
+time to stand around talking,
+hurry up and bring my boy back!
+!******************************!
+[t11_170_1100.gds]
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:227>It seems the only clues we have to
+go on are this shoe that the tyke
+left behind and his name, Tom.<W>
+!------------------------------!
+I've tried to squeeze more details 
+out of the woman, but it's useless.<W>
+!------------------------------!
+She just keeps demanding I search
+the place.
+!******************************!
+[t11_170_1200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:64>This is one of Tom's shoes?!<W>
+It's positively tiny, isn't it?
+!******************************!
+[t11_170_1300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:66>Yes, I find it quite curious myself,
+Luke. Very puzzling indeed.
+!******************************!
+[t11_170_1400.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:62>I didn't think children with feet
+that size could even walk!
+!******************************!
+[t11_170_1500.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:10>Indeed...
+!******************************!
+[t11_170_200.gds]
+<01:0000000B><03:9>b1 angry<03:5>NONE<01:00000002><03:103>My boy, my sweet little boy! You've
+got to do something right this
+instant! Search the entire train!
+!******************************!
+[t11_170_300.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:60>Madam, please calm down so I
+can understand the situation.
+!******************************!
+[t11_170_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:57>Oh, Inspector Chelmey. I had no
+idea you were on board.
+!******************************!
+[t11_170_500.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:249>Well well! If it isn't Mr Layton!
+What are the chances, eh?<W>
+!------------------------------!
+Well, enough small talk. I have
+other matters to attend to.
+Namely, a missing child.<W>
+!------------------------------!
+It seems this woman's child has 
+gone off somewhere. I don't
+suppose you've seen him around?
+!******************************!
+[t11_170_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>No, I don't believe I've seen
+any young boys.
+!******************************!
+[t11_170_700.gds]
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:197>My little boy wandered off and he 
+hasn't returned yet! I'm simply at
+my wits' end worrying about him!<W>
+!------------------------------!
+Gentlemen, I demand that you drop
+whatever it is you're doing and
+help me find my boy!
+!******************************!
+[t11_170_800.gds]
+<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:67>Hrmph, she's been going on like this
+from the moment I walked in.
+!******************************!
+[t11_170_900.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:185>I understand your concern, madam.
+My assistant and I will be glad
+to aid you in your search.<W>
+!------------------------------!
+We'll have the best chance of
+recovering your son if we start
+searching immediately.
+!******************************!
+[t11_175_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:25>Oh man, I am dog food...
+!******************************!
+[t11_175_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>What's the matter, mister?
+!******************************!
+[t11_175_300.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:216>Wha-? Oh, hey...<W>
+!------------------------------!
+OK, so I snuck into my uncle's room
+and borrowed his camera, right?
+Thing is, then I dropped it.<W>
+!------------------------------!
+I've been here trying to find all
+the pieces for, like, an hour, but
+I've only found one...
+!******************************!
+[t11_175_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:30>That's quite the predicament.
+!******************************!
+[t11_175_500.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:294>Yeah, and if word gets about this
+wrecked camera, I'm gonna catch
+major flak from the bossman.<W>
+!------------------------------!
+Whoa, brain flash incoming!<W>
+Dig this. I'm going to give you
+this busted hunk of junk.<W>
+!------------------------------!
+You do with it what you want, just
+get rid of the thing, will ya?<W>
+OK, catch you on the flipside.
+!******************************!
+[t11_175_600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>Wha-? Hey, come back here!
+!******************************!
+[t11_175_700.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:166>The Camera option has been added
+to the trunk. Reassemble the
+broken parts of the camera there.<W>
+!------------------------------!
+To access it, touch the Trunk icon,
+then touch the Camera icon.
+!******************************!
+[t11_180_100.gds]
+<01:0000002F><03:7>normal<03:5>NONE<01:00000005><03:59>Zzzz. Zzzz. SNORK! Zzzzzzzz...
+Shweet...baby boy... Zzzz.
+!******************************!
+[t11_180_200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:40>How can she sleep at a time like
+this?
+!******************************!
+[t11_180_300.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:173>I imagine she tired herself out
+fretting over her child's
+disappearance.<W>
+!------------------------------!
+Come, Luke. The sooner we find the
+lad, the sooner we can put this
+poor lady's mind at ease.
+!******************************!
+[t11_190_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:45>Oh! Take a look at this, Professor.
+It's...
+!******************************!
+[t11_190_200.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:34>Food scraps, if I'm not mistaken.
+!******************************!
+[t11_190_300.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:73>Do you suppose Tom wandered into
+the kitchen to grab something
+to eat?
+!******************************!
+[t11_190_400.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:109>Well, it is possible, though if that's
+the case, the child certainly is
+lacking in the manners department.
+!******************************!
+[t11_200_100.gds]
+<01:00000004><03:5>NONE<03:5>NONE<01:00000003><03:4>Oh!
+!******************************!
+[t11_200_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:31>Is everything all right, miss?
+!******************************!
+[t11_200_300.gds]
+<01:00000004><03:5>NONE<03:5>NONE<01:00000003><03:32>I'm fine, thank you. Excuse me.
+!******************************!
+[t11_200_400.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:56>Say, did she seem...familiar
+to you at all, Professor?
+!******************************!
+[t11_200_500.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:96>Mm, yes, now that you mention it,
+something about her did seem
+rather...familiar, as you say.
+!******************************!
+[t11_210_100.gds]
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:86>Good day, sirs. May I interest
+you in a refreshing beverage or
+a scrumptious snack?
+!******************************!
+[t11_210_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:141>Sorry, miss, but we are currently
+searching for a small child.<W>
+!------------------------------!
+Have you seen a young boy
+wandering around by himself in
+this carriage?
+!******************************!
+[t11_210_300.gds]
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:136>A little boy, eh?<W> Nope, sorry
+mister, but that doesn't ring any
+bells.<W>
+!------------------------------!
+Ooh, ooh, what happened? Did he
+get lost on the train?
+
+!******************************!
+[t11_210_400.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:74>Yes. Unfortunately, we haven't
+been able to track down the
+missing tot.
+!******************************!
+[t11_210_500.gds]
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:174>You know, I probably shouldn't
+start vicious rumours, but...
+Oh well, I've nothing better to do.<W>
+!------------------------------!
+Did you know that there's a
+weird old woman staying in this
+carriage?
+!******************************!
+[t11_210_600.gds]
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:277>What if she kidnapped the little one
+and has him stowed away in her
+room?<W>
+!------------------------------!
+I know it's probably not true, but
+what if?! She's just so bizarre
+that I can't help wondering...<W>
+!------------------------------!
+But I could get in trouble for
+speaking ill of passengers.
+Just forget I said anything, OK? 
+!******************************!
+[t11_210_700.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>A strange old woman, eh? I wonder
+who she could be talking about.
+!******************************!
+[t11_210_800.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:78>Your guess is as good as mine,
+Luke. But it certainly does make
+one wonder.
+!******************************!
+[t11_211_100.gds]
+<01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:97>I'm simply dying of boredom on this
+train.<W> I can't wait to quit this
+gig and get a real job.
+!******************************!
+[t11_220_100.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:205>Hello there, sonny boys! Ever get
+all knock-kneed and goosebumply
+from terrifyingly hard puzzles?<W>
+!------------------------------!
+Well, have no fear! The beautiful
+and clairvoyant Granny Riddleton
+stands before you ready to help!
+!******************************!
+[t11_220_200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:118>Just as I thought! Who else could
+this tiny house belong to?<W>
+!------------------------------!
+Hey, wait a second! What are you
+doing here anyway?
+!******************************!
+[t11_220_300.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:96>So you've heard of me, eh, shorty?
+Good to know I'm still a hit with
+the young'uns. Ehee hee!
+!******************************!
+[t11_220_400.gds]
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:77>What do you mean? Of course I've
+heard of you! We've met before,
+remember?
+!******************************!
+[t11_220_500.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:164>Hrm. Nope. I suspect you've got the
+wrong granny, boy. Never seen you
+before in my life.<W>
+!------------------------------!
+But you're here now, so that means
+you want to hear my spiel, right?
+!******************************!
+[t11_220_600.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:19>Erm, not really...
+!******************************!
+[t11_220_700.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:124>Oh, no need to be so modest.<W>
+!------------------------------!
+Allow me to thank you for visiting
+me by bestowing a little titbit
+of information on you.
+!******************************!
+[t11_220_800.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:419>My speciality, you see, is puzzles!<W>
+Puzzles people forget about!<W>
+Puzzles people miss!<W>
+!------------------------------!
+Surely you boys've had a few of
+those, eh?<W> No need to turn red.
+It happens to the best of puzzlers.<W>
+!------------------------------!
+What I do, you see, is I take those
+poor, lost little puzzles and invite
+them to come and stay with me.<W>
+!------------------------------!
+I imagine any puzzles you left behind
+have found their way to my shack
+as well, if you want to say hello.
+!******************************!
+[t11_220_900.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:153>If the shack is empty then you'll
+just have to get out there and find
+some more puzzles!<W>
+!------------------------------!
+Now why don't you take a peek
+inside to see what's there?
+!******************************!
+[t11_230_100.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:99>The puzzles packed in the shack are
+the puzzles you two left unsolved.
+Take a peek for yourself.
+!******************************!
+[t11_240_100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:82>Excuse me, sir. Have you seen a
+little boy with a missing shoe
+crawling around?
+!******************************!
+[t11_240_200.gds]
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:111>No, I don't believe so. <W>
+!------------------------------!
+But come to think of it, a couple
+who were just here were talking
+about a child.
+!******************************!
+[t11_240_300.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:92>Interesting. Do you have any idea
+as to where we might find this
+couple now, my good man?
+!******************************!
+[t11_240_400.gds]
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:93>I believe they are staying in the
+fourth carriage, sir. May I suggest
+paying them a visit?
+!******************************!
+[t11_240_500.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:56>A wonderful suggestion. Thank you
+for your assistance.
+!******************************!
+[t11_240_600.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:76>Come along now, Luke. Let's drop in
+on the couple in the fourth
+carriage.
+!******************************!
+[t11_241_100.gds]
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:105>The couple who spoke of the child,
+are staying in the fourth carriage.
+Why don't you pay them a visit?
+!******************************!
+[t11_250_100.gds]
+<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:86>Whoa there, young fellow! You're
+in the wrong room! My wife and I
+are staying here!
+!******************************!
+[t11_250_1000.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:81>I hate to say it, but it looks like
+this hot lead just turned cold,
+Professor.
+!******************************!
+[t11_250_1100.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:94>On the contrary, Luke, we may have
+just stumbled on to some extremely
+valuable information.
+!******************************!
+[t11_250_1200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:29>What do you mean, Professor?
+!******************************!
+[t11_250_1300.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:70>You'll see. First, let's return to
+the scene of Tom's disappearance.
+!******************************!
+[t11_250_200.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:149>We're dreadfully sorry to intrude,
+sir, but we are searching for a
+lost little one.<W>
+!------------------------------!
+Did you happen to see or hear
+anything pertaining to this?
+!******************************!
+[t11_250_300.gds]
+<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:110>Oh, sweetie, I do believe they might
+be talking about that darling cutie
+pie that just passed by. Remember?
+!******************************!
+[t11_250_400.gds]
+<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:89>Uh... Oh! Yes, yes! He was a cute
+one, he was. Small and very clever
+looking, I'd say.
+!******************************!
+[t11_250_500.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:60>So you did see Tom, then?<W>
+He's been missing a while now.
+!******************************!
+[t11_250_600.gds]
+<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:99>Eh? I didn't know whether he was
+a girl or a boy, truth be told.
+Tom's a right nice name though.
+!******************************!
+[t11_250_700.gds]
+<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:89>Oh pishposh, dear. I'll bet my best
+tea set that it was a girl who
+passed by our room.
+!******************************!
+[t11_250_800.gds]
+<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:196>Hmm, yes, now that you mention it,
+I had a feeling that the scamp
+might have been a girl.<W>
+!------------------------------!
+But until you flip the thing on its
+back and get a good long look,
+you never can be sure, can you?
+!******************************!
+[t11_250_900.gds]
+<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:90>Now I'm all confuddled. I don't
+have the faintest idea who we're
+talking about anymore.
+!******************************!
+[t11_250_950.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:9>What?!<@s>
+!******************************!
+[t11_260_100.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:16>Ah, Inspector! 
+!******************************!
+[t11_260_1000.gds]
+<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:107>Oh, there's just no reasoning with
+you. Fine, keep playing detective.
+Nothing'll come of it, I tell you!
+!******************************!
+[t11_260_150.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:84>Tell me, are you any closer to 
+uncovering the whereabouts of
+that missing child?
+!******************************!
+[t11_260_200.gds]
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:77>So you two are still flipping
+furniture trying to find that tyke,
+are you?
+!******************************!
+[t11_260_300.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:55>Hm? Do you mean to say that the
+child has been found?
+!******************************!
+[t11_260_400.gds]
+<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:280>No, no, not at all.<W> What I'm saying
+is that the child is no longer on
+this train.<W>
+!------------------------------!
+I've asked everyone aboard, but
+no one gave me an answer that
+suggested they'd seen the lad.<W>
+!------------------------------!
+This led me to the conclusion
+that the poor child either got off
+the train or fell off it.
+!******************************!
+[t11_260_500.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:11>Fell off?!
+!******************************!
+[t11_260_600.gds]
+<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:267>Yes, it's entirely plausible given
+the way children love to run amok.<W>
+!------------------------------!
+When you combine that with their
+oversized heads, you've got
+yourself a recipe for disaster.<W>
+!------------------------------!
+I'll contact the railway police
+at the next station, so feel free
+to give up on your search.
+!******************************!
+[t11_260_700.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:202>Just a moment, Inspector. The
+windows on this train are very
+high and every exit is manned.<W>
+!------------------------------!
+Given the situation, don't you think
+it's unlikely a child could have
+made it off the train unnoticed?
+!******************************!
+[t11_260_800.gds]
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:107>All right, I'll humour you. So, tell
+me, Layton, where do you think this
+elusive ankle-biter got off to?
+!******************************!
+[t11_260_900.gds]
+<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:94>That I can't say. But something
+tells me that we may have been
+barking up the wrong tree...
+!******************************!
+[t11_270_100.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:199>Well, if it isn't the famous
+Mr Layton, dashing around like he
+knows something I don't.<W>
+!------------------------------!
+I was just about to head over to
+Babette's and inform her that her
+child is no longer aboard the train.
+!******************************!
+[t11_270_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:152>Inspector, we are mere moments
+away from discovering Tom's
+location.<W>
+!------------------------------!
+Could I ask you to give us just
+a while longer to ponder on the 
+situation?
+!******************************!
+[t11_270_300.gds]
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:159>Still don't want to face the truth,
+eh, Layton?<W>
+!------------------------------!
+Fine, since you're so intent on it
+and seeing as Babette is napping
+right now, I'll wait a while longer.
+!******************************!
+[t11_270_400.gds]
+<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:148>The moment she wakes up, though,
+I'm taking my findings to her.
+Got it?<W>
+!------------------------------!
+If you want to prove yourself
+right, bring the boy back before
+that.
+!******************************!
+[t11_270_500.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:48>Understood. I plan to do just that,
+Inspector.
+!******************************!
+[t11_270_600.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:74>We'd better find the girl with
+the dog as quickly as we can,
+Professor.
+!******************************!
+[t11_271_100.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:91>Bring that boy back here before
+Babette wakes up or I'm giving her
+the bad news. Got it?
+!******************************!
+[t11_280_100.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:7>Hmm...
+!******************************!
+[t11_280_200.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:51>What's on your mind, my boy?
+You look distracted.
+!******************************!
+[t11_280_300.gds]
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:95>It's hard to put my finger on why,
+but I feel like someone has been
+watching us for a while.
+!******************************!
+[t11_280_400.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:56>You too? I've been feeling
+that same sensation myself.
+!******************************!
+[t11_280_500.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:50>Do you think that someone might
+be...tailing us?
+!******************************!
+[t11_280_600.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:64>It's certainly possible. Keep an
+eye out for anything unusual.
+!******************************!
+[t11_290_100.gds]
+<01:0000000D><03:10>b1 normal<03:5>NONE<01:00000002><03:67>Greetings, sir. Are you still
+searching for that lost little one?
+!******************************!
+[t11_290_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:118>Indeed, we are still searching.<W>
+!------------------------------!
+Tell me, sir, have you by any chance
+seen a young lady with a small dog
+pass by?
+!******************************!
+[t11_290_300.gds]
+<01:0000000D><03:10>b1 normal<03:5>NONE<01:00000002><03:94>Ah, now that does ring a bell.
+Yes, I believe she was headed
+towards the back of the train.
+!******************************!
+[t11_290_400.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:55>Is that so? Thank you, sir,
+you've been most helpful.
+!******************************!
+[t11_291_100.gds]
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:110>If you're looking for that girl and
+her dog, I believe they were making
+their way to the rear of the train.
+!******************************!
+[t11_310_100.gds]
+<01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:35>Of course! The dog we saw earlier.
+!******************************!
+[t11_310_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:17>Quick! Grab him!
+!******************************!
+[t11_310_300.gds]
+<01:0000000C><03:5>NONE<03:5>NONE<01:00000002><03:5>Yip!
+!******************************!
+[t11_310_400.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:52>To think we were chasing after a
+dog all along...!
+!******************************!
+[t11_310_500.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:66>Ho ho, right you are, Luke.
+Now let's get him back to his owner.
+!******************************!
+[t11_310_600.gds]
+<01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:48>Oh, um... Do you mind if I tag
+along with you?
+!******************************!
+[t11_310_700.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:31>Of course not. Come along now.
+!******************************!
+[t11_320_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:76>Madam Babette's quarters are
+just ahead. Let's bring her dog
+back to her.
+!******************************!
+[t11_330_100.gds]
+<01:0000000B><03:9>b1 smile<03:5>NONE<01:00000002><03:106>Oh, it's a miracle! You're all right!
+My sweet little Tommy-wommy! I've
+missed you so! My baby! My boy!
+!******************************!
+[t11_330_1000.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:85>Erm, maybe we should keep
+Flora's involvement in Tom's
+disappearance to ourselves?
+!******************************!
+[t11_330_1100.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:19>Good idea, my boy.
+!******************************!
+[t11_330_1150.gds]
+<01:00000005><03:10>b1 notalk<03:5>NONE<01:00000006><03:5>Eep.
+!******************************!
+[t11_330_1200.gds]
+<01:0000000B><03:9>b1 smile<03:5>NONE<01:00000002><03:95>I do believe a reward is in order.<W>
+Here, I know it's quite, ahem,
+generous, but I insist! 
+!******************************!
+[t11_330_1300.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:113>Well, that's one mystery solved.<W>
+!------------------------------!
+And with that, let's return to our
+quarters and take a well-deserved
+rest.
+!******************************!
+[t11_330_1400.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:122>Right-o, Professor!<W>
+!------------------------------!
+Gosh, it's hard to believe we came
+to find the Elysian Box and ended
+up hunting down a lost dog!
+!******************************!
+[t11_330_1500.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:274>Well Luke, to reach one's larger
+goals, one must occasionally
+diverge from one's original path.<W>
+!------------------------------!
+To be honest, I'm starting to think
+that the key to finding the Elysian
+Box isn't on this train at all.<W>
+!------------------------------!
+Rather, it may reside in one of the
+train's many destinations.
+!******************************!
+[t11_330_1600.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:76>You could be right, Professor!
+Any idea where the train is
+stopping next?
+!******************************!
+[t11_330_1700.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:78>I hear we'll be making a stop in
+a quaint village by the name
+of Dropstone.
+!******************************!
+[t11_330_1800.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:157>Hmm, that's not the kind of name
+you hear every day. I wonder what
+sort of things we'll find there?<W>
+!------------------------------!
+Oh, I can't wait to get there and
+start exploring!
+!******************************!
+[t11_330_1900.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:48>How much longer until we get there,
+Professor?
+!******************************!
+[t11_330_200.gds]
+<01:0000000C><03:5>NONE<03:5>NONE<01:00000002><03:9>Yip yip!
+!******************************!
+[t11_330_2000.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:102>I'm not entirely sure. Why don't
+we rest until we get there? That
+should make the time pass faster.
+!******************************!
+[t11_330_300.gds]
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:115>THIS is Tom?!<W>
+!------------------------------!
+We were under the impression that
+we were searching for a boy, not a
+mutt with a fancy haircut!
+!******************************!
+[t11_330_400.gds]
+<01:0000000B><03:9>b1 angry<03:5>NONE<01:00000002><03:76>How dare you compare my darling
+Tommykins to some common street
+mongrel?!
+!******************************!
+[t11_330_500.gds]
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:190>Lost dogs are no matter for
+Scotland Yard. Next time he
+goes missing, find him yourself!<W>
+!------------------------------!
+Blimey, some folks haven't an ounce
+of sense. Come on, Barton, we've
+got real cases to solve.
+!******************************!
+[t11_330_600.gds]
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:27>Um... Y-yessir, Inspector.
+!******************************!
+[t11_330_700.gds]
+<01:0000000B><03:6>shout<03:5>NONE<01:00000002><03:92>Don't you walk away from me!
+I want to have a word with you
+about your atrocious manners!
+!******************************!
+[t11_330_800.gds]
+<01:0000000B><03:10>b1 normal<03:5>NONE<01:00000002><03:95>Well, enough of that. Welcome back,
+sweetie. Where did my little
+Tommykins run off to today?
+!******************************!
+[t11_330_900.gds]
+<01:0000000B><03:9>b1 smile<03:5>NONE<01:00000002><03:94>He's such a darling that I feared
+someone might have kidnapped him
+and held him for ransom.
+!******************************!
+[t11_350_100.gds]
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:99>I know it's quite the gift, but you
+rescued my sweet boy, so I insist
+you keep it. Aha ha ha ha!
+!******************************!
+[t11_360_100.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:53>Say, Flora, where've you been
+hiding all this time?
+!******************************!
+[t11_360_200.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:72>Well, until I found that little dog
+I'd just been relaxing in my room.
+!******************************!
+[t11_360_300.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:34>Really? You've got your own room?
+!******************************!
+[t11_360_400.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:56>Sure, I do. It's the middle one in
+the third carriage.
+!******************************!
+[t11_360_500.gds]
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:65>Wow! You do know that's the room
+right next to ours, don't you?
+!******************************!
+[t11_360_600.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:151>You were just a wall away from us
+and I never so much as suspected
+you were there.<W>
+!------------------------------!
+It would seem that my powers of
+observation are rather rusty.
+!******************************!
+[t11_370_100.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:5>Eek!
+!******************************!
+[t11_370_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:60>My word! <W>&setani 1 b4_normal&
+!------------------------------!
+Why has the train stopped?
+!******************************!
+[t11_370_300.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:17>What's going on?
+!******************************!
+[t11_380_100.gds]
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:46>Samuel, you dolt! What did you
+do this time?
+!******************************!
+[t11_380_200.gds]
+<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:172>Hey boss-man, just chill out.
+There's a broken train, like, 
+just sitting on the track.<W>
+!------------------------------!
+Until we can move that thing out
+of our way, we're not going
+anywhere, man. 
+!******************************!
+[t11_380_300.gds]
+<01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:108>Then get your rear in gear and
+move it now!<W>
+!------------------------------!
+I won't have your laziness
+tarnishing the Molentary brand!
+!******************************!
+[t11_380_400.gds]
+<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:63>But, uh, trains are heavy, man!
+How am I supposed to move it?
+!******************************!
+[t11_380_500.gds]
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:154>I will not hear excuses, especially
+not from a layabout conductor like
+you who barely earns his keep!<W>
+!------------------------------!
+I don't care how you do it! Just
+get it done!
+!******************************!
+[t11_380_600.gds]
+<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:63>OK, OK, I'll give it a shot. Just
+turn it down a notch, Unko.
+!******************************!
+[t11_380_700.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:119><3C>''<3E>Unko<3C>''<3E>?!<W>
+!------------------------------!
+I might be your uncle, but I'm also
+president of this railway and I
+demand you address me as such!
+!******************************!
+[t11_380_800.gds]
+<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:56>OK, all right, sure. Whatever you
+say, your majesty...
+!******************************!
+[t11_390_100.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:94>Bah! I'm too nice to that indolent,
+scruffy nephew of mine! All the
+louse does is complain!
+!******************************!
+[t11_400_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:35>What seems to be the problem here?
+!******************************!
+[t11_400_200.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:216>Oh, sorry, Mr Passenger.<W>
+!------------------------------!
+See, there's this giganto freight
+train parked on the tracks and it's
+blocking our way.<W>
+!------------------------------!
+Clearing the tracks is gonna take
+some time, so, um, sit back with
+something fizzy and wait.
+!******************************!
+[t11_400_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>I see.<W> Can I lend you a hand?
+!******************************!
+[t11_400_500.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:144>For real? Aw yeah, that'd be way
+helpful!<W>
+!------------------------------!
+You think you can find a way to
+move the train blocking the
+tracks so we can, like, get moving?
+!******************************!
+[t11_400_600.gds]
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:82>Step aside now. We're not going
+anywhere until that train moves
+off the tracks.
+!******************************!
+[t11_410_100.gds]
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:51>Yes? Well what is it? You need
+something from me?
+!******************************!
+[t11_410_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:52>Actually, sir, we'd be most
+appreciative if you'd-
+!******************************!
+[t11_410_300.gds]
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:385>Whoa, whoa, hold it right there,
+fancy lad! Look at that paltry
+number of puzzles you've solved!<W>
+!------------------------------!
+Look, you might think that you
+can skate by in life doing just the
+bare minimum...<W>
+!------------------------------!
+But that kind of thinking isn't
+what gets you the gold...<W>Or the
+chance to chat with me!<W>
+!------------------------------!
+If you want to chat, show a bit
+more initiative. Come back when
+you've solved 12 or more puzzles!
+!******************************!
+[t11_411_100.gds]
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:386>Whoa, whoa, hold it right there,
+fancy lad! Look at that paltry
+number of puzzles you've solved!<W>
+!------------------------------!
+Look, you might think that you
+can skate by in life doing just the
+bare minimum...<W>
+!------------------------------!
+But that kind of thinking isn't
+what gets you the gold...<W> Or the
+chance to chat with me!<W>
+!------------------------------!
+If you want to chat, show a bit
+more initiative. Come back when
+you've solved 12 or more puzzles!
+!******************************!
+[t11_412_100.gds]
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:197>Look at that! You've managed to
+solve at least 12 puzzles.<W>
+I applaud you!<W> Heartily!<W>
+!------------------------------!
+I can't see how I could dislike a
+couple of ardent puzzle-solvers
+like yourselves. Let's be pals, eh?
+!******************************!
+[t11_430_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:112>Gosh, that woman was just the
+type I'd expect to see on the
+Molentary Express.<W>
+!------------------------------!
+Talk about rich and flashy!
+!******************************!
+[t11_430_200.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:188>Quite. This train is full of many
+well-heeled patrons like the 
+woman we just met.<W>
+!------------------------------!
+We must watch our deeds and words
+here. A formal setting demands
+formal manners, don't you think?
+!******************************!
+[t11_430_300.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:23>Absolutely, Professor!
+!******************************!
+[t11_440_100.gds]
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:152>Goodness me, no need to look so
+put out. Don't you know that
+ladies always go first?<W>
+!------------------------------!
+Especially ladies of a certain
+class, like - aha ha ha - me.
+!******************************!
+[t11_440_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>I'm not sure if <3C>''<3E>class<3C>''<3E> is the
+word she meant to use there.
+!******************************!

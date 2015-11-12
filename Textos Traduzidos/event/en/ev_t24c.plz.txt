@@ -1,0 +1,488 @@
+[t24_600_100.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:47>I've struck gold! I've found a
+hidden puzzle!
+!******************************!
+[t24_601_100.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:44>Here's that hidden puzzle I
+found earlier.
+!******************************!
+[t24_602_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
+!******************************!
+[t24_603_100.gds]
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:50>Wow, that puzzle actually made
+me break a sweat!
+!******************************!
+[t24_604_100.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:43>Why don't we come back to this
+one later?
+!******************************!
+[t24_610_100.gds]
+<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:186>Why does everyone make such a
+kerfuffle about warning people
+away from that castle?<W>
+!------------------------------!
+Even if you wanted to go, it's
+impossible to get up there!<W>
+The forest gate is always locked!
+!******************************!
+[t24_610_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:53>I take it that's the sole path
+to the castle, then?
+!******************************!
+[t24_610_300.gds]
+<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:263>Kee hee! You actually want to go
+there, don't you? It's a weird and
+scary place, but I know the feeling.<W>
+!------------------------------!
+The gate only opens to let this
+old stagecoach through.<W>
+!------------------------------!
+If you hide in the bushes and wait
+for the coach, you might be able
+to sneak in behind it.
+!******************************!
+[t24_610_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:68>So the gate does open! Do you know
+anything about this stagecoach?
+!******************************!
+[t24_610_500.gds]
+<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:273>You've got me there. It heads up to
+the castle every day at about
+the same time.<W>
+!------------------------------!
+Maybe it delivers raw steaks and
+blood for the vampire's dinner!<W>
+But really, I have no idea.<W>
+!------------------------------!
+But, hey, all this talk of
+stagecoaches has reminded me of
+this puzzle about horses.
+!******************************!
+[t24_611_100.gds]
+<01:00000045><03:10>b2 normal<03:5>NONE<01:00000003><03:40>Back for another crack at that
+puzzle?
+!******************************!
+[t24_612_100.gds]
+<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:163>You always hear about vampires
+that are all pale and good looking.<W>
+!------------------------------!
+He might be cold blooded but I
+bet that vamp up in the castle is
+hot, hot , hot! Kee hee!
+!******************************!
+[t24_613_100.gds]
+<01:00000045><03:10>b4 normal<03:5>NONE<01:00000003><03:267>Oh, now I get it. Kee hee hee hee!
+Thanks a million.<W>
+!------------------------------!
+Like I was saying, if you want to go
+through that gate, sneaking in with
+the stagecoach is the only way.<W>
+!------------------------------!
+But you never know what kind of
+dangerous stuff could be hiding in
+the woods, so I say stay here!
+!******************************!
+[t24_614_100.gds]
+<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:102>Hey, I went through all the trouble
+of telling you that puzzle. The
+least you could do is solve it.
+!******************************!
+[t24_620_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:39>It's pitch-black out here,
+Professor.
+!******************************!
+[t24_620_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:170>Yes, without some sort of light, I
+don't believe we'll be able to
+advance.<W>
+!------------------------------!
+But what do we have here?<W> We're in
+luck, my boy! I think someone left
+a lantern here.
+!******************************!
+[t24_621_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:55>Let's see if a little light
+can help us find our way.
+!******************************!
+[t24_622_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Lantern or no, this forest gives me
+goosebumps something rotten.
+!******************************!
+[t24_623_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:110>Aha, now we've got a light.<W>
+!------------------------------!
+Curious though, isn't it? Who would
+leave a perfectly good lantern
+out here?
+!******************************!
+[t24_623_200.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:101>I can't imagine someone simply
+forgot it here. It's almost like
+someone is leaving a trail for us.
+!******************************!
+[t24_624_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:98>If we can't light the way with that
+lantern, how can we make sure we
+don't wander off the path?
+!******************************!
+[t24_630_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>This forest just goes on and on,
+and it's darker than ever here.
+!******************************!
+[t24_630_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:88>Yes, but fortunately somebody left
+behind a second lantern. Let's see
+where we are...
+!******************************!
+[t24_631_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:55>Let's shed a little light on the
+situation, shall we?
+!******************************!
+[t24_632_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Even with the light, this forest
+is still creepy!
+!******************************!
+[t24_633_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:21>Finally, some light!
+!******************************!
+[t24_633_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:59>Now that the path is easier to
+follow, let's move ahead. 
+!******************************!
+[t24_634_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:23>I can't see a thing...
+!******************************!
+[t24_640_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:87>Professor, I hate to say it again,
+but I think we need a little more
+light out here.
+!******************************!
+[t24_640_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:76>All right, let's see if we can
+use this lantern to get our
+bearings back.
+!******************************!
+[t24_641_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:50>We need to light the way before
+we can press on.
+!******************************!
+[t24_642_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:69>I don't care if we have extra light.
+This place is spine-chilling! 
+!******************************!
+[t24_643_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Yay, I can see again! That's much
+better!
+!******************************!
+[t24_644_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:21>I can't see a thing!
+!******************************!
+[t24_650_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Well, look at that! It's a hidden
+puzzle!
+!******************************!
+[t24_651_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:49>Say, this hidden puzzle hasn't
+been solved yet.
+!******************************!
+[t24_652_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
+!******************************!
+[t24_653_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:24>That one was a toughie.
+!******************************!
+[t24_654_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>This puzzle's no piece of cake,
+that's for sure.
+!******************************!
+[t24_660_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Look at this strange mushroom,
+Professor.
+!******************************!
+[t24_660_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:94>Curious, I've never seen this
+type before. Let me study it just
+a moment before we move on.
+!******************************!
+[t24_661_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>I've never seen this type of
+mushroom before. Let me study it
+further before we head off.
+!******************************!
+[t24_662_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:98>I get the feeling something scary
+might jump out of the bushes any
+minute. Let's get a move on!
+!******************************!
+[t24_663_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:74>Now that your curiosity is
+satisfied, can we please move on,
+Professor?
+!******************************!
+[t24_664_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:91>Puzzles are great and all but
+I'd rather focus on getting out
+of this spooky forest now.
+!******************************!
+[t24_670_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>Brrr... When did it get so chilly?
+!******************************!
+[t24_670_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:102>Indeed. It's so cold out here that
+the lake has frozen over...<W> Oh! I
+have an idea for a shortcut.
+!******************************!
+[t24_671_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>I'm certain we'll make it through
+this time.
+!******************************!
+[t24_672_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:92>Brrr! When did the temperature
+decide to dip below freezing?
+This forest is very strange.
+!******************************!
+[t24_673_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:86>Our crossing went as well as could
+be hoped for, but we can't stop
+here. Off we go.
+!******************************!
+[t24_674_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:58>There must be some way to slide
+across that frozen lake.
+!******************************!
+[t24_680_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>Wh-Whoooa! Watch your step here,
+Professor! It's nothing but ice.
+!******************************!
+[t24_680_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:89>There's no snow for us to walk
+on here, so we'll need to tread
+carefully. Here goes...
+!******************************!
+[t24_681_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>This time we'll make it through
+for sure!
+!******************************!
+[t24_682_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Be careful where you walk, Luke.
+One wrong step here will land
+you on your backside.
+!******************************!
+[t24_683_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:134>Well done. It's a miracle we both
+made it across without taking a
+tumble.<W>
+!------------------------------!
+I sense we're getting close, Luke.
+Let's keep moving.
+!******************************!
+[t24_684_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:76>With a little care, we should
+be able to slide across to
+our destination.
+!******************************!
+[t24_690_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:99>And here we are facing another
+frozen lake. It appears to be
+the only way across, so here we go.
+!******************************!
+[t24_691_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>This time I'm certain we'll make
+it through.
+!******************************!
+[t24_692_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:57>Take small steps and watch your
+footing out here, Luke.
+!******************************!
+[t24_693_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>We made it across! Now we've only
+a short distance left to cover
+and we'll be there.
+!******************************!
+[t24_694_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:48>It shouldn't be too difficult to
+slide across.
+!******************************!
+[t24_700_100.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:23>I spy a hidden puzzle!
+!******************************!
+[t24_701_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:44>Here's that hidden puzzle I
+found earlier.
+!******************************!
+[t24_702_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
+!******************************!
+[t24_703_100.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:30>Whew, that was a lot of work!
+!******************************!
+[t24_704_100.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:28>This one's tricky for sure.
+!******************************!
+[t24_710_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Oh, no! We're locked in! There's
+no place to run!
+!******************************!
+[t24_710_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>Calm yourself, Luke. There's bound
+to be another way out of this
+room. Look around you.
+!******************************!
+[t24_710_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:48>I can see the key! If only I could
+reach it...
+!******************************!
+[t24_710_400.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:35>Here, let's see if I can reach it.
+!******************************!
+[t24_711_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:63>Once we have that key, we're as
+good as free. I'm sure of it.
+!******************************!
+[t24_713_100.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:64>There we are. The door is unlocked
+now. Freedom is ours, Luke!
+!******************************!
+[t24_713_200.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:24>Great job, Professor!
+
+!******************************!
+[t24_713_300.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:12>I wonder...
+!******************************!
+[t24_713_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>What's the matter? Let's get out
+of here!
+!******************************!
+[t24_713_500.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:90>Doesn't this all seem a little too
+easy?<W> I almost wonder if Anton
+wants us to escape.
+!******************************!
+[t24_713_600.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:87>Don't be ridiculous, Professor.
+If he lets us escape, there goes
+his midnight snack!
+!******************************!
+[t24_713_700.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:98>True, but at the very least, I'd
+expect someone to be watching 
+us if he meant to keep us here.
+!******************************!
+[t24_713_800.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:7>But...
+!******************************!
+[t24_713_900.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:158>In any case, he doesn't seem to
+have taken a great liking to us.<W>
+!------------------------------!
+Putting some distance between
+him and ourselves seems like
+a prudent course of action.
+!******************************!
+[t24_714_100.gds]
+<01:00000002><03:9>b1 sweep<03:5>NONE<01:00000003><03:84>If we don't get out of here, we're
+going to be dinner for a
+bloodthirsty vampire!
+!******************************!
+[t24_720_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:31>This hatch is shut tight, too.
+!******************************!
+[t24_720_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:86>This hatch serves as the only
+passage out of here. We'll need
+to open it to escape.
+!******************************!
+[t24_721_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:64>We've got to get this hatch open
+if we're to leave this place.
+!******************************!
+[t24_723_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:41>Luke, the hatch is open now.
+Follow me.
+!******************************!
+[t24_724_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>This hatch is the only way out of
+here. We absolutely must open it.
+!******************************!
+[t24_730_100.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:130>I couldn't help but notice you two
+looking at the photos hanging on
+the wall over there.<W>
+!------------------------------!
+Tell me, what do you think of them?
+!******************************!
+[t24_730_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:141>All four seem to do a wonderful
+job of capturing the heart of
+Folsense.<W>
+!------------------------------!
+However, I couldn't help but
+notice that they're out of order.
+!******************************!
+[t24_730_300.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:158>Oh, yes, so you noticed. That's
+just something I did to keep my
+customers on their toes.<W>
+!------------------------------!
+Would you like to try and restore
+them to their proper order? 
+!******************************!
+[t24_731_600.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:150>It always heartens me when
+customers take an interest in my
+photographs.<W>
+!------------------------------!
+Say, do you think you could help me
+out by rearranging these pictures?
+!******************************!
+[t24_732_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:78>My, these photos look stunningly
+new for their age. How do you
+manage that?
+!******************************!
+[t24_732_200.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:71>I'm flattered, but really, I take
+no special measures in that regard.
+!******************************!
+[t24_733_100.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:182>Nicely done. They do look much
+better this way, so thank you 
+for taking care of that.<W>
+!------------------------------!
+To be honest, I've meant to
+rearrange them for a while now,
+but never got around to it.
+!******************************!
+[t24_733_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:197>It was no trouble at all.<W>
+!------------------------------!
+I did notice one thing though.
+Considering their age, these are
+in remarkably good condition.<W>
+!------------------------------!
+Tell me, what's your secret to
+keeping the photographs so
+vibrant?
+!******************************!
+[t24_733_300.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:132>Ha ha, either you flatter me or
+your eyes are playing tricks on
+you.<W>
+!------------------------------!
+I take no special measures in
+preserving my photographs.
+!******************************!
+[t24_733_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:163>How strange. Usually photos this
+old show a little more wear and
+tear from outside elements.<W>
+!------------------------------!
+Well, perhaps the preservation
+methods here are a trade secret.
+!******************************!
+[t24_734_500.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:59>I take it you're not going to sort
+those pictures for me?
+!******************************!

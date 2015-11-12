@@ -1,0 +1,519 @@
+[goal_10.txt]
+Head for Dr Schrader's Home!
+!******************************!
+[goal_100.txt]
+Return Tom to Babette!
+!******************************!
+[goal_110.txt]
+Return to Your Room!
+!******************************!
+[goal_120.txt]
+Take a Look at the Blockage!
+!******************************!
+[goal_130.txt]
+Clear the Tracks!
+!******************************!
+[goal_140.txt]
+Explore the Village!
+!******************************!
+[goal_150.txt]
+Look Around the Plaza!
+!******************************!
+[goal_160.txt]
+Explore until the Competition!
+!******************************!
+[goal_165.txt]
+Go to the Competition!
+!******************************!
+[goal_170.txt]
+Return to the Train Station!
+!******************************!
+[goal_180.txt]
+Find Romie!
+!******************************!
+[goal_190.txt]
+Get Back on the Train!
+!******************************!
+[goal_20.txt]
+Go to Dr Schrader's Door!
+!******************************!
+[goal_200.txt]
+Talk to the Train Crew!
+!******************************!
+[goal_210.txt]
+Go to the Deluxe Carriage!
+!******************************!
+[goal_215.txt]
+Search the Deluxe Carriage!
+!******************************!
+[goal_220.txt]
+Head Back to Your Room!
+!******************************!
+[goal_230.txt]
+Get off the Train!
+!******************************!
+[goal_235.txt]
+Explore the Town!
+!******************************!
+[goal_237.txt]
+Find the Hotel!
+!******************************!
+[goal_240.txt]
+Investigate Around Town!
+!******************************!
+[goal_250.txt]
+Enquire at the Antique Shop!
+!******************************!
+[goal_255.txt]
+Visit the Herzen Museum!
+!******************************!
+[goal_260.txt]
+Gather Clues around Town!
+!******************************!
+[goal_270.txt]
+Visit the Herzen Museum Again!
+!******************************!
+[goal_280.txt]
+Return to the Hotel!
+!******************************!
+[goal_285.txt]
+Head for the North-east Area!
+!******************************!
+[goal_290.txt]
+Visit the Grocer!
+!******************************!
+[goal_30.txt]
+Visit Dr Schrader's Flat!
+!******************************!
+[goal_300.txt]
+Take the Beef Shank to the Dog!
+!******************************!
+[goal_310.txt]
+Collect the Photo Scraps!
+!******************************!
+[goal_320.txt]
+Get the Remaining Photo Scraps!
+!******************************!
+[goal_330.txt]
+Talk to People around Town!
+!******************************!
+[goal_340.txt]
+Return to the Hotel!
+!******************************!
+[goal_35.txt]
+Examine the Room!
+!******************************!
+[goal_350.txt]
+Go to Your Hotel Room!
+!******************************!
+[goal_360.txt]
+Gather More Clues in Town!
+!******************************!
+[goal_370.txt]
+Visit the Herzen Museum!
+!******************************!
+[goal_380.txt]
+Study the Museum's Exhibits!
+!******************************!
+[goal_385.txt]
+Explore the Mine!
+!******************************!
+[goal_390.txt]
+Go to Herzen Castle!
+!******************************!
+[goal_40.txt]
+Explore the Train!
+!******************************!
+[goal_400.txt]
+Examine the Room!
+!******************************!
+[goal_410.txt]
+Find a Way to Escape!
+!******************************!
+[goal_420.txt]
+Flee the Castle!
+!******************************!
+[goal_430.txt]
+Investigate Herzen Castle!
+!******************************!
+[goal_45.txt]
+Head for the Observation Deck!
+!******************************!
+[goal_5.txt]
+Search the Desk Drawers!
+!******************************!
+[goal_50.txt]
+Continue Exploring the Train!
+!******************************!
+[goal_510.txt]
+Find the Last Photo Scrap!
+!******************************!
+[goal_520.txt]
+Find Mr Anderson!
+!******************************!
+[goal_54.txt]
+Head to the Dining Car!
+!******************************!
+[goal_58.txt]
+Go to Your Room in Carriage 3!
+!******************************!
+[goal_59.txt]
+Search for Tom!
+!******************************!
+[goal_60.txt]
+Find the Couple Who've Seen Tom!
+!******************************!
+[goal_70.txt]
+Return to Carriage 4 - Hall!
+!******************************!
+[goal_80.txt]
+Continue Searching for Tom!
+!******************************!
+[goal_85.txt]
+Find the Girl with a Small Dog!
+!******************************!
+[goal_90.txt]
+Talk to the Mystery Girl!
+!******************************!
+[next_10.txt]
+The professor and Luke decide to visit Dr Schrader's home.
+!******************************!
+[next_100.txt]
+The professor, Luke and Flora decide to return Tom to his owner, Babette.
+!******************************!
+[next_110.txt]
+The professor, Luke and Flora decide to return to their quarters to rest.
+!******************************!
+[next_120.txt]
+The professor and Luke decide to investigate the cause of the train's sudden stop.
+!******************************!
+[next_130.txt]
+The professor and Luke decide to clear the track so that the train can get moving again.
+!******************************!
+[next_140.txt]
+The professor, Luke and Flora decide to take in the sights around Dropstone.
+!******************************!
+[next_150.txt]
+The professor, Luke and Flora decide on a spot of sightseeing in front of the village hall.
+!******************************!
+[next_160.txt]
+The professor, Luke and Flora decide to walk around until the livestock competition starts.
+!******************************!
+[next_165.txt]
+The professor, Luke and Flora decide to return to the site of the livestock competition.
+!******************************!
+[next_170.txt]
+The professor, Luke and Flora decide to head back to the train station.
+!******************************!
+[next_180.txt]
+The professor, Luke and Flora decide to look for a man named Romie.
+!******************************!
+[next_190.txt]
+The professor, Luke and Flora decide to return to the train station.
+!******************************!
+[next_20.txt]
+The professor and Luke decide to enter Dr Schrader's home.
+!******************************!
+[next_200.txt]
+The professor, Luke and Flora decide to make some enquiries with the crew of the train.
+!******************************!
+[next_210.txt]
+The professor, Luke and Flora decide to visit the deluxe carriage.
+!******************************!
+[next_215.txt]
+The professor, Luke and Flora decide to search the deluxe carriage.
+!******************************!
+[next_220.txt]
+The professor, Luke and Flora decide to return to their quarters once more.
+!******************************!
+[next_230.txt]
+The professor and Luke decide to get off the train and have a look around.
+!******************************!
+[next_235.txt]
+The professor, Luke and Flora decide to walk around the town.
+!******************************!
+[next_237.txt]
+The professor, Luke and Flora decide to seek out a hotel.
+!******************************!
+[next_240.txt]
+The professor and Luke decide to explore the strange new town.
+!******************************!
+[next_250.txt]
+The professor and Luke decide to visit the local antique shop.
+!******************************!
+[next_255.txt]
+The professor and Luke decide to visit the Herzen Museum.
+!******************************!
+[next_260.txt]
+The professor and Luke decide to search the town for more information.
+!******************************!
+[next_270.txt]
+The professor and Luke decide to pay another visit to the Herzen Museum.
+!******************************!
+[next_280.txt]
+The professor and Luke decide to return to the hotel.
+!******************************!
+[next_285.txt]
+The professor and Luke decide to investigate the north-east corner of town.
+!******************************!
+[next_290.txt]
+The professor and Luke decide to visit the local grocer's.
+!******************************!
+[next_30.txt]
+The professor and Luke decide to enter Dr Schrader's flat.
+!******************************!
+[next_300.txt]
+The professor and Luke decide to take the beef shank to the dog in the alley.
+!******************************!
+[next_310.txt]
+The professor and Luke decide to begin their search for photo scraps in the alley.
+!******************************!
+[next_320.txt]
+The professor and Luke decide to search the rest of the town for the remaining scraps of the photo.
+!******************************!
+[next_330.txt]
+The professor and Luke decide to continue their investigation in town.
+!******************************!
+[next_340.txt]
+The professor and Luke decide to return to the hotel.
+!******************************!
+[next_35.txt]
+The professor and Luke decide to check the inside of the doctor's flat.
+!******************************!
+[next_350.txt]
+The professor and Luke decide to head up to their hotel room.
+!******************************!
+[next_360.txt]
+The professor and Luke decide to look around Folsense for more information.
+!******************************!
+[next_370.txt]
+The professor and Luke decide to revisit the Herzen Museum, knowing that this time it will be open.
+!******************************!
+[next_380.txt]
+The professor and Luke decide to explore the Herzen Museum.
+!******************************!
+[next_385.txt]
+The professor and Luke decide to set out for the mine on the edge of town.
+!******************************!
+[next_390.txt]
+The professor and Luke decide to venture out to Herzen Castle.
+!******************************!
+[next_40.txt]
+The professor and Luke decide to explore the Molentary Express.
+!******************************!
+[next_400.txt]
+The professor and Luke decide to examine the interior of their guest room.
+!******************************!
+[next_410.txt]
+The professor and Luke must find an escape route!
+!******************************!
+[next_420.txt]
+The professor and Luke have to escape from the castle!
+!******************************!
+[next_430.txt]
+The professor and Luke decide to search the castle before leaving.
+!******************************!
+[next_45.txt]
+The professor and Luke decide to visit the train's observation deck.
+!******************************!
+[next_5.txt]
+Luke must find the keys to the professor's car. Search by touching the drawers of the desk!
+!******************************!
+[next_50.txt]
+The professor and Luke decide to begin their investigation of the train.
+!******************************!
+[next_510.txt]
+The professor and Luke decide to go to the gate at the forest's edge to get the last photo scrap.
+!******************************!
+[next_520.txt]
+The professor, Luke and Flora decide to locate the elusive Mr Anderson.
+!******************************!
+[next_54.txt]
+The professor and Luke decide to visit the dining car a second time.
+!******************************!
+[next_58.txt]
+The professor and Luke decide to return to their room in carriage 3.
+!******************************!
+[next_59.txt]
+The professor and Luke decide to help search for Tom, Babette's little boy.
+!******************************!
+[next_60.txt]
+The professor and Luke decide to search for the couple who may have seen Tom.
+!******************************!
+[next_70.txt]
+The professor and Luke decide to return to the site of Tom's disappearance.
+!******************************!
+[next_80.txt]
+The professor and Luke decide to continue their search for Tom.
+!******************************!
+[next_85.txt]
+The professor and Luke decide to search for the young woman seen holding a little dog.
+!******************************!
+[next_90.txt]
+The professor and Luke decide to talk with the girl on the observation deck.
+!******************************!
+[tx_100.txt]
+Return to the Title Screen?  All unsaved progress will be lost.
+!******************************!
+[tx_1000.txt]
+You can't access this feature in this demo.
+!******************************!
+[tx_1001.txt]
+There aren't any puzzles in your Puzzle Index yet.
+!******************************!
+[tx_1100.txt]
+We see that you managed to solve %d puzzles while playing the game. %s
+!******************************!
+[tx_1101.txt]
+Pretty good!
+!******************************!
+[tx_1102.txt]
+Very impressive solving!
+!******************************!
+[tx_1103.txt]
+An almost perfect performance!
+!******************************!
+[tx_1200.txt]
+The Sweethearts' House has been added to Layton's Challenges.
+!******************************!
+[tx_1201.txt]
+The Puzzle Doctor's House has been added to Layton's Challenges.
+!******************************!
+[tx_1300.txt]
+There are currently no puzzles in Granny Riddleton's shack.
+!******************************!
+[tx_1400.txt]
+To my dear friend, %s,
+!******************************!
+[tx_1500.txt]
+Puzzle ??? %s
+!******************************!
+[tx_1501.txt]
+Puzzle W%2d %s
+!******************************!
+[tx_1600.txt]
+You got a photo scrap! There is %d photo scrap left to be collected!
+!******************************!
+[tx_1601.txt]
+You viewed %d hint while solving this puzzle.
+!******************************!
+[tx_200.txt]
+
+!******************************!
+[tx_201.txt]
+You got a %s! Use it to rebuild the camera in the Professor's Trunk!
+!******************************!
+[tx_202.txt]
+You got the ingredient %s! Use it to create new blends!
+!******************************!
+[tx_203.txt]
+You got a new hamster toy! Use this %s to help your hamster get in shape!
+!******************************!
+[tx_204.txt]
+Puzzle %.3d "%s" is now in your Puzzle Index!
+!******************************!
+[tx_205.txt]
+You got %s! You can find items you pick up in the Professor's Trunk.
+!******************************!
+[tx_206.txt]
+The Hamster minigame has been added to the trunk!
+!******************************!
+[tx_207.txt]
+Puzzle %.3d: %s
+!******************************!
+[tx_208.txt]
+Save your progress?
+!******************************!
+[tx_209.txt]
+Save your completed game?
+!******************************!
+[tx_210.txt]
+The Camera minigame has been added to the trunk!
+!******************************!
+[tx_211.txt]
+The Tea Set minigame has been added to the trunk!
+!******************************!
+[tx_212.txt]
+You got a photo scrap! There are %d photo scraps left to be collected!
+!******************************!
+[tx_213.txt]
+You've taken a photo of this location. Something about it seems strange...
+!******************************!
+[tx_214.txt]
+Use the Camera minigame in the trunk to examine the photos you've taken.
+!******************************!
+[tx_215.txt]
+Luke has named the portly hamster "%s".
+!******************************!
+[tx_216.txt]
+You found a torn photo, but Inspector Chelmey confiscated it!
+!******************************!
+[tx_217.txt]
+Flora is now travelling with you! Check who's travelling with you on the top screen.
+!******************************!
+[tx_218.txt]
+Flora has left the group for now. Check who's travelling with you on the top screen. 
+!******************************!
+[tx_219.txt]
+The Old Diary option has been added to the trunk!
+!******************************!
+[tx_220.txt]
+You got a diary key! Use it to open a new chapter of the Old Diary.
+!******************************!
+[tx_221.txt]
+
+!******************************!
+[tx_222.txt]
+You got a photo scrap! You've now got all the  photo scraps!
+!******************************!
+[tx_250.txt]
+Luke and %s are now best friends!
+!******************************!
+[tx_251.txt]
+You've solved all the Camera minigame's mysteries!
+!******************************!
+[tx_252.txt]
+You are now a tea master!
+!******************************!
+[tx_300.txt]
+Solve puzzle %.3d, "%s"?
+!******************************!
+[tx_400.txt]
+No. %.3d: %s
+!******************************!
+[tx_500.txt]
+Overwrite the file named "%s"?
+!******************************!
+[tx_501.txt]
+EMPTY
+!******************************!
+[tx_600.txt]
+It's Tea Time!
+!******************************!
+[tx_601.txt]
+Select a tea, then touch #rServe!#x to serve it.
+!******************************!
+[tx_602.txt]
+You found a hint coin at the bottom of the tea cup!
+!******************************!
+[tx_603.txt]
+Let's take a breather and enjoy a nice cup of tea!
+!******************************!
+[tx_604.txt]
+OK, you've made your choice. Touch #rServe!#x to pour a cup!
+!******************************!
+[tx_700.txt]
+You solved the puzzle "%s"!
+!******************************!
+[tx_701.txt]
+You solved that puzzle without looking at a single hint! Great job! 
+!******************************!
+[tx_702.txt]
+You viewed %d of the hints while solving this puzzle.
+!******************************!
+[tx_800.txt]
+Error Code: %d
+!******************************!
+[tx_801.txt]
+
+!******************************!

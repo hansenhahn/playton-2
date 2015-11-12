@@ -1,0 +1,1092 @@
+[t16_010_100.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:150>Ah, Mr Layton. So glad you could finally join us.<W>
+!------------------------------!
+With you here, we now have every suspect in the murder of Dr  Schrader gathered in this room.
+!******************************!
+[t16_010_1000.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:34>What?! You gotta be kidding, man!
+!******************************!
+[t16_010_1100.gds]
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:241>I know Mr Beluga ordered you to turn over every stone in this town to find the Elysian Box.<W>
+!------------------------------!
+He worked you like a dog and you resented that treatment.<W>
+!------------------------------!
+So you decided you'd beat him to the punch and make off with the precious box. 
+!******************************!
+[t16_010_1200.gds]
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:67>This is an outrage! Samuel, what do you have to say for yourself?
+!******************************!
+[t16_010_1300.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:49>I'm being framed! You're outta your gourd, man!
+!******************************!
+[t16_010_1400.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:92>Hmph, now I see why the box eluded me for so long. You've been holding out on me, Samuel!
+!******************************!
+[t16_010_1500.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:152>No! I haven't, I swear on my favourite leather trousers!<W>
+!------------------------------!
+Come on, unko, you know me. I'm a wild card, but I'd never do anything as crazy as that!
+!******************************!
+[t16_010_1600.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:98>You'll have plenty of time to make your excuses later. From your cell, that is. Now come along.
+!******************************!
+[t16_010_1700.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:99>So the conductor did it! I didn't think he had it in him, but at least we can all rest easy now.
+!******************************!
+[t16_010_1800.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:79>Professor, do you really think Sam could have committed such an awful crime?
+!******************************!
+[t16_010_1900.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:101>Well, all we have to go on is this single torn photograph recovered from the doctor's apartment...
+!******************************!
+[t16_010_200.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:205>A few days ago, renowned archaeologist Dr Andrew Schrader was found dead in his London home.<W>
+!------------------------------!
+His murderer is still at large, but look around you. You could very well be sitting next to the culprit.
+!******************************!
+[t16_010_2000.gds]
+<01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:92>Oh, so that's the Elysian Box?<W> Wow, very fancy. I like the cute goat design on the top!
+!******************************!
+[t16_010_2100.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:24>...Oh, my!<W> Flora...<@s>
+!******************************!
+[t16_010_2200.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:5>Hmm?
+!******************************!
+[t16_010_2300.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:107>Thank you, Flora. I knew something didn't feel quite right, but thanks to you, it's all come into focus.
+!******************************!
+[t16_010_2400.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:30>Really?<W> Do tell, Professor!
+!******************************!
+[t16_010_300.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:102>A suspect? Me?<W> Utter nonsense! What reason could I possibly have to kill a man I don't even know?
+!******************************!
+[t16_010_400.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:200>A bit slow on the uptake, eh?<W> Mr Beluga, every person in this room is after the Elysian Box.<W>
+!------------------------------!
+That box ties each of you to our dead man, so there's no doubt that one of you here did the deed.
+!******************************!
+[t16_010_500.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:157>I'm sure putting this case together has been a triumph of police work, Inspector.<W>
+!------------------------------!
+So, tell me, what facts have you unearthed in these last few days? 
+!******************************!
+[t16_010_510.gds]
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:87>Heh heh, now watch closely, Mr Layton. This is how we unravel mysteries at the Yard.
+!******************************!
+[t16_010_520.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:67>You have my full attention, Inspector. Please, hypothesise away.
+!******************************!
+[t16_010_530.gds]
+<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:513>I first learned of Folsense through evidence obtained in the late Doctor's apartment.<W>
+!------------------------------!
+According to his notes, Schrader spent quite some time here in town researching the Elysian Box.<W>
+!------------------------------!
+When I learned that he died shortly after returning home to London, everything became crystal clear.<W>
+!------------------------------!
+I believe our criminal first spotted the doctor when he was enquiring about the Elysian Box here in town.<W>
+!------------------------------!
+Spying a chance to obtain the coveted box, the fiend followed the doctor to London and murdered him!
+!******************************!
+[t16_010_540.gds]
+<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:94>Oho, now that's a deduction worthy of London's finest. So, out with it then. Who's our man?
+!******************************!
+[t16_010_600.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:461>Hold your horses. I'm getting there.<W> To summarise, the culprit must've been to Folsense before.<W>
+!------------------------------!
+What's more, this person must have also had the ability to travel freely between here and London.<W>
+!------------------------------!
+Now, as we all know, only those affiliated with the Molentary Express have that ability.<W>
+!------------------------------!
+And now all eyes turn to Mr Beluga, eh?<W> Well, turn them back.<W>
+!------------------------------!
+Mr Beluga stated he was in London conducting business that day, and his alibi checked out.
+!******************************!
+[t16_010_700.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>What? But if it's not Mr Beluga...
+!******************************!
+[t16_010_800.gds]
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:65>That's right. Our murderer stands before us, and his name is...
+!******************************!
+[t16_010_900.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:15>Sammy Thunder!
+!******************************!
+[t16_020_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:97>Aw, come on, officer man, my only crime is rockin', and rockin' ain't a crime! YOW! Let me go!
+!******************************!
+[t16_020_1000.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:27>Ow! Take it easy, officer!
+!******************************!
+[t16_020_1100.gds]
+<01:00000006><03:6>shout<03:5>NONE<01:00000001><03:25>Pipe down, you hooligan!
+!******************************!
+[t16_020_1200.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:36>And watch the hair, will you? YOW!
+!******************************!
+[t16_020_200.gds]
+<01:00000006><03:6>shout<03:5>NONE<01:00000001><03:60>You'll come along quietly if you know what's good for you!
+!******************************!
+[t16_020_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:110>Just a moment, Inspector Chelmey.<W>
+!------------------------------!
+I believe we've all committed a large and rather unfortunate oversight.
+!******************************!
+[t16_020_400.gds]
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:65>Can't you see I'm in the middle of something right now, Layton?
+!******************************!
+[t16_020_500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Where are you going with this, Professor?
+!******************************!
+[t16_020_600.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:156>No one here has ever seen the Elysian Box that we've been looking for.<W>
+!------------------------------!
+The one and only piece of visual evidence we possess is this torn photograph.
+!******************************!
+[t16_020_700.gds]
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:23>And? Get to the point!
+!******************************!
+[t16_020_800.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:202>The point is this, Inspector.<W>
+!------------------------------!
+The only person who could know what the Elysian Box looks like is the suspect you're after.<W>
+!------------------------------!
+And it is this person who must have stolen the box in the first place.
+!******************************!
+[t16_020_900.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:51>Yes, and I've got the slippery fellow right here!
+!******************************!
+[t16_040_100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:22>Inspector, look here.
+!******************************!
+[t16_040_1000.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:7>Grr...
+!******************************!
+[t16_040_1100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:123>Well that clears things up nicely.<W>
+!------------------------------!
+If you say you saw a goat, that must mean you've seen the real Elysian Box before.
+!******************************!
+[t16_040_1200.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:12>Why, you...
+!******************************!
+[t16_040_1300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Who are you really?
+!******************************!
+[t16_040_1400.gds]
+<01:00000005><03:9>b4 laugh<03:5>NONE<01:00000003><03:160>Heh heh heh heh heh! A ha ha ha ha ha!<W>
+!------------------------------!
+Nyeh heh heh! Well played, Layton!<W>
+!------------------------------!
+I'm sure you're very proud of yourself for seeing through my disguise again.
+!******************************!
+[t16_040_1500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:37>Holy cow! You're not Flora! You're-
+!******************************!
+[t16_040_200.gds]
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:28>That's the photo I dropped!
+!******************************!
+[t16_040_300.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:198>Indeed. This, for those who don't know, is a piece of evidence recovered by the inspector.<W>
+!------------------------------!
+It's a photo of the Elysian Box, and I have every confidence that this shot depicts the real thing.
+!******************************!
+[t16_040_400.gds]
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:161>So, this little knick-knack here is what started the whole mess?<W>
+!------------------------------!
+To be honest, it's a bit outlandish for my tastes, what with the bizarre frog head on it.
+!******************************!
+[t16_040_500.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:5>Aha!
+!******************************!
+[t16_040_600.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:49>I see you've put the pieces together too, Luke.
+!******************************!
+[t16_040_700.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:87>Inspector, the emblem decorating the top of this box depicts not a frog, but a goat.
+!******************************!
+[t16_040_800.gds]
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:38>A goat?<W> Not by my eyes, it doesn't.
+!******************************!
+[t16_040_900.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:284>That's just it. This photograph is missing the piece containing the goat's eyes.<W>
+!------------------------------!
+In its current form, the image looks like a frog to most people, as was the case with you, Inspector.<W>
+!------------------------------!
+Flora, dear, I believe you said the design looked like a <''>cute goat<''>, did you not?
+!******************************!
+[t16_050_100.gds]
+<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:63>Curse you, Layton!<W> Curse you and that foppish hat of yours!
+!******************************!
+[t16_050_1000.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:95>I've got a lot of questions, and you will answer them once I've escorted you back to London!
+!******************************!
+[t16_050_1100.gds]
+<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:70>Where do you think you're going?!<W> Ha! Got you, you slippery devil!
+!******************************!
+[t16_050_1200.gds]
+<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:72>Ugh! You meddlesome oaf! You have no idea just how slippery I can be! 
+!******************************!
+[t16_050_1300.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:58>ARGH!<W> Don't just stand there! The worm's getting away!
+!******************************!
+[t16_050_1400.gds]
+<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:134>Nyeh heh heh! Fool! Did you really think a soft-bodied flatfoot like yourself could catch me?<W>
+!------------------------------!
+So long, Layton. Nyeh heh heh heh!
+!******************************!
+[t16_050_1500.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:7>Mmm...
+!******************************!
+[t16_050_1600.gds]
+<01:00000006><03:6>shout<03:5>NONE<01:00000001><03:57>Think you can give me the slip, eh? I'll catch you yet!
+!******************************!
+[t16_050_1700.gds]
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:28>Oh, wait for me, inspector!
+!******************************!
+[t16_050_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:11>Don Paolo!
+!******************************!
+[t16_050_300.gds]
+<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:195>I beat you to the box, and given a little more time I would have beaten you to cracking its secret.<W>
+!------------------------------!
+And of course, the Herzen fortune would have been mine.<W> But that ship has sailed now.
+!******************************!
+[t16_050_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:54>So you're the one who had the Elysian Box all along!
+!******************************!
+[t16_050_500.gds]
+<01:0000000A><03:9>b1 laugh<03:5>NONE<01:00000002><03:308>Another brilliant deduction from Layton's apprentice. Clearly he's learned from the best. Nyeh heh!<W>
+!------------------------------!
+But yes, you're right, little man. I stole it off that old fool while he was snoozing on the floor.<W>
+!------------------------------!
+The geezer probably caught a cold sleeping on the ground like that.<W> Not that I care one iota!
+!******************************!
+[t16_050_600.gds]
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:146>Snoozing?<W> But Dr Schrader wouldn't sleep on the floor...<W>
+!------------------------------!
+Hey! Wait a second! If you've been posing as Flora, then where's the real Flora?
+!******************************!
+[t16_050_700.gds]
+<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:453>Oh, she's probably making very small crop circles in that old Dropstone barn I left her in.<W>
+!------------------------------!
+Or maybe she's just sitting there fuming because you bumblers didn't even notice we switched places!<W>
+!------------------------------!
+But I must thank you two dolts for your help. You've given me more than enough information.<W>
+!------------------------------!
+The jig may be up, but the dance is far from over.<W>
+!------------------------------!
+I'm so close to unlocking the secret of the Elysian Box. Now I need merely take this box to th-
+!******************************!
+[t16_050_800.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:36>Hold it right there, you scoundrel!
+!******************************!
+[t16_050_900.gds]
+<01:0000000A><03:9>b1 angry<03:5>NONE<01:00000002><03:5>Gah!
+!******************************!
+[t16_055_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:81>Wow, look at the pair of them shake a leg. I didn't think they had it in them.
+!******************************!
+[t16_055_1000.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>So this is it. The Elysian Box...
+!******************************!
+[t16_055_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>I must say, I never once suspected Don Paolo had been posing as Flora. And for so long!
+!******************************!
+[t16_055_300.gds]
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:105>I just hope the real Flora is OK. We absolutely can't forget to pick her up on the way back to London.
+!******************************!
+[t16_055_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:93>Of course we won't.<W> But I'm sure Flora is having a grand old time playing with the cows.
+!******************************!
+[t16_055_500.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:187>Another thing I can't get out of my head is what Don Paolo said about Dr Schrader.<W>
+!------------------------------!
+The way he was talking, it didn't sound like he killed Dr Schrader.<W> But if he didn't, who did?
+!******************************!
+[t16_055_600.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:179>I think you're spot on there, Luke. Something else is responsible for the doctor's death.<W>
+!------------------------------!
+Right now, I'd say the Elysian Box is the key to learning what that something is.
+!******************************!
+[t16_055_700.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:113>Then it looks we've reached a dead end. Sigh... If only Don Paolo hadn't run off with the-<W>
+!------------------------------!
+Professor! Look!
+!******************************!
+[t16_055_800.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:20>Well, look at that!
+!******************************!
+[t16_055_900.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:80>Don Paolo must've dropped it when he was running away from Inspector Chelmey!
+!******************************!
+[t16_060_100.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:76>At last, the box. Inside sleeps the key to unlocking my family's fortune.
+!******************************!
+[t16_060_1000.gds]
+<01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:57>Oh, is that so?<W> You've got some nerve, you know that?
+!******************************!
+[t16_060_1100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>If what Krantz says is true, I'm afraid I can't hand this box over to you in good conscience, sir.
+!******************************!
+[t16_060_1200.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:105>Hey, Unko, what do you say we give up on chasing this box?<W> I'm sick of sneaking around all the time!
+!******************************!
+[t16_060_1300.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:103>Don't you dare tell me how to run my affairs, Samuel! I think you've forgotten who got you your job!
+!******************************!
+[t16_060_1400.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:355>I never even wanted to be a conductor in the first place!<W>
+!------------------------------!
+Plus, playing errand boy is getting old, man. It's more than a guy like me can take.<W>&setani 8 shout&
+!------------------------------!
+Sammy Thunder wasn't born to work a nine-to-five gig.<W> Sammy Thunder was born to rock out!<W>
+!------------------------------!
+Hey, world! I'm climbing back on the rock train and riding it to the top!<W> YEEEEEEEAH!
+!******************************!
+[t16_060_1500.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:73>Hrrm?! Samuel, what are you babbling on about? Come back here at once!
+!******************************!
+[t16_060_1600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:84>I'm sorry, Mr Beluga, but I think I'll have to hold onto this box for the moment.
+!******************************!
+[t16_060_1700.gds]
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:78>Fine! Do what you want! I hope that awful box curses all of you twice over!
+!******************************!
+[t16_060_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:24>I beg your pardon, sir?
+!******************************!
+[t16_060_300.gds]
+<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:135>Mr Layton, I'm going to ask you to hand over that box now.<W>
+!------------------------------!
+As a son of the late Duke Herzen, I am the rightful owner of that box.
+!******************************!
+[t16_060_400.gds]
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:34>This box belongs to the Herzens?!
+!******************************!
+[t16_060_500.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:199>You hard of hearing, boy?<W> Inside this box is the key to cracking the secret of the Herzen fortune!<W>
+!------------------------------!
+Seeing as how I share the bloodline, that box should pass into my hands and no one else's.
+!******************************!
+[t16_060_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:58>Oh my, that does change things. I suppose we'll have to-
+!******************************!
+[t16_060_700.gds]
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:133>Mr Beluga, listen to yourself.<W>
+!------------------------------!
+You're no more entitled to that box than I am, or any other person in this room for that matter.
+!******************************!
+[t16_060_800.gds]
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:100>You listen here, porter! This is none of your business, so I suggest you keep your cakehole shut!
+!******************************!
+[t16_060_900.gds]
+<01:00000018><03:10>b2 normal<03:5>NONE<01:00000002><03:364>No, I'm sorry, but I won't stand by and watch you claim that box as your own.<W>
+!------------------------------!
+If anyone has a rightful claim to that box, it is the current  duke of Folsense himself.<W>
+!------------------------------!
+Besides, I've heard about you. You turned your back on this town and left of your own free will.<W>
+!------------------------------!
+In my book, your claim to the fortune was lost the day you walked out of Folsense.
+!******************************!
+[t16_065_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:85>Now that we finally have the box, let's return to our room to examine it in peace.
+!******************************!
+[t16_070_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:132>So, it seems Don Paolo wasn't responsible for the doctor's death at all.<W>
+!------------------------------!
+Maybe it really was the Elysian Box that killed him.
+!******************************!
+[t16_070_1000.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Who is this person?
+!******************************!
+[t16_070_1100.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:189>I...I can't tell you any more. But once I'm done, I'm certain this awful curse will go away forever.<W>
+!------------------------------!
+The curse will end and...and everything will be over and done with. And he'll...
+!******************************!
+[t16_070_1200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:45>My dear, what is it that you're getting at?
+!******************************!
+[t16_070_1300.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:254>Heeelp! Somebody! Anybody! Come quickly! Somebody else just got taken away to Herzen Castle!<W>
+!------------------------------!
+The vampire's going to suck his blood and then he'll steal his soul!<W>
+!------------------------------!
+&setani 2 b1_angry&Why did it have to be him? Why? That guy had a heart of gold!
+!******************************!
+[t16_070_1400.gds]
+<01:00000014><03:9>b1 angry<03:5>NONE<01:00000003><03:29>What? No! That's impossible!
+!******************************!
+[t16_070_1500.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:224>Wait! Katia, where are you running off to?!<W>
+!------------------------------!
+She certainly left in a hurry. Maybe all that vampire talk scared her off.<W>
+!------------------------------!
+Do you know what she was talking about, Professor? I could barely follow what she was saying.
+!******************************!
+[t16_070_1600.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:292>I'm as confounded as you are, Luke.<W>
+!------------------------------!
+But after our discussion, I am doubly sure now that this box contains a greater secret.<W>
+!------------------------------!
+The path to understanding everything lies right before us.<W>
+!------------------------------!
+While potentially perilous, opening the box seems to be the only course of action left to us.
+!******************************!
+[t16_070_1700.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:23>Understood, Professor.
+!******************************!
+[t16_070_1800.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:87>Good. Then let's take this to our room so we can open the box away from prying eyes.
+!******************************!
+[t16_070_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:263>Yes, it sounds like he was already on the floor by the time Don Paolo arrived on the scene.<W>
+!------------------------------!
+Perhaps you're right, Luke. The box could very well contain a lethal element that killed the doctor.<W>
+!------------------------------!
+But without opening the box ourselves, how can we be sure?
+!******************************!
+[t16_070_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>Surely you don't mean...?!
+!******************************!
+[t16_070_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:54>I do, Luke. We must open the box. It's the only way.
+!******************************!
+[t16_070_500.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:30>Please just hold on a moment!
+!******************************!
+[t16_070_600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:12>Hmm? Katia?
+!******************************!
+[t16_070_700.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:91>Is there any way I can convince you to let me have that box?<W> It's of vital importance.
+!******************************!
+[t16_070_800.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>Before I do that, I would need to know more first. Why is this box so important to you?
+!******************************!
+[t16_070_900.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:105>I-I'm sorry. It's not for me to say.<W> But I must deliver that box to...to somebody important. I must.
+!******************************!
+[t16_100_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>The box is empty...and we're still alive!
+!******************************!
+[t16_100_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:43>Then it would seem my theory was correct.
+!******************************!
+[t16_100_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:29>What do you mean, Professor?
+!******************************!
+[t16_110_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:96>We must head back into town and do a bit more asking around. I need to confirm my suspicions.
+!******************************!
+[t16_120_100.gds]
+<01:00000018><03:9>b2 smile<03:10>b2 normal<01:00000002><03:95>Good evening, sirs. Please forgive my earlier outburst. That wasn't very professional of me.
+!******************************!
+[t16_120_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:152>Not at all. Your testimony was incredibly helpful.<W>
+!------------------------------!
+Listening to you talk, I got the impression that you are well versed in Herzen family history.
+!******************************!
+[t16_120_300.gds]
+<01:00000018><03:10>b1 normal<03:5>NONE<01:00000002><03:416>Well, I suppose you could say that.<W>
+!------------------------------!
+When he was still alive, Duke Herzen often favoured our fine hotel with his patronage.<W>
+!------------------------------!
+I have very warm memories of his kindness towards me even when I was just a lowly bellboy.<W>
+!------------------------------!
+Back when the duke was still with us, the whole town buzzed with energy and activity.<W>
+!------------------------------!
+But once the mining stopped and the duke passed away, Folsense turned into a gloomy ghost town.
+!******************************!
+[t16_120_400.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:63>Who was the duke's successor? Did he have any other children?
+!******************************!
+[t16_120_500.gds]
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:253>As I recall, Mr Beluga's brother inherited the duke's title.<W>
+!------------------------------!
+That's really all I know about the situation, though I've heard our current duke is quite young.<W>
+!------------------------------!
+Add the vampire rumours, which I'm sure you've heard, and you know everything I do.
+!******************************!
+[t16_120_550.gds]
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:187>To be honest, the current duke doesn't have much influence. It's just an old title, really.<W>
+!------------------------------!
+To be blunt, no one in town seems to care who he is or what he's been doing as of late.
+!******************************!
+[t16_121_100.gds]
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:138>Can you believe Mr Beluga?<W> He just strolls back into town after abandoning Folsense.<W>
+!------------------------------!
+Some people are so selfish, it's astounding.
+!******************************!
+[t16_130_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:321>Safeness! If it isn't my main dudes! You're the only reason I didn't catch that bogus charge.<W>
+!------------------------------!
+To say thanks, I pulled some strings with the museum curator and got him to open the place up for ya.<W>
+!------------------------------!
+It's not much, but maybe you'll find some righteous info there to help your case.<W>
+!------------------------------!
+Make sure you check it out!
+!******************************!
+[t16_130_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:172>Thanks, Sam! It got pretty hairy back there for a little bit, didn't it?!<W>
+!------------------------------!
+I still haven't got over discovering that Mr Beluga is actually part of the Herzen family.
+!******************************!
+[t16_130_300.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:426>Yeah, my uncle never really told me much about it all.<W>
+!------------------------------!
+I just know he had some kind of big bust-up with his dad, the duke, and decided to leave for good.<W>
+!------------------------------!
+He did talk a lot about the brother he left behind, though. He had a real soft spot for the guy.<W>
+!------------------------------!
+But now it looks like that gnarly vampire's running around the castle.<W>
+!------------------------------!
+I hate to say it, but I doubt anyone survived that wicked scary monster moving in.
+!******************************!
+[t16_131_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:165>I got you an all-access pass to check out the Herzen Museum to say thanks for bailing me out.<W>
+!------------------------------!
+I bet you could score some grade-A info there, know what I mean?
+!******************************!
+[t16_140_100.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:352>Welcome, friends. I'm Grinko and I'm the curator of the Herzen Museum.<W>
+!------------------------------!
+We have an extensive collection of artefacts relating to the history of this town and the Herzen family.<W>
+!------------------------------!
+Sammy told me all about you two. I hope you find our resources helpful to your investigation.<W>
+!------------------------------!
+Please feel free to peruse the collection to your heart's content.
+!******************************!
+[t16_141_100.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:96>Feel free to look around the museum if you think anything here might help you in your search.
+!******************************!
+[t16_150_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:290>Inside the museum, Professor Layton and Luke discover relics from the days of the late duke.<W>
+!------------------------------!
+The records at the museum reveal a discrepancy between what they thought they knew and the truth.<W>
+!------------------------------!
+The pair then set out for Herzen Castle in the hope that they might uncover the truth.
+!******************************!
+[t16_160_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>This must be the mine we heard about, Professor.
+!******************************!
+[t16_160_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:95>Yes, and it appears to be sealed off. Just imagine it, Luke. They used to dig for gold here.
+!******************************!
+[t16_160_300.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:186>There must have been a lot of gold down there if it had such a huge effect on the entire town.<W>
+!------------------------------!
+But if it brought so much wealth, why on earth would they ever close the mine down?
+!******************************!
+[t16_160_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:164>That's a question we might be able to answer if we can find some account of what transpired here.<W>
+!------------------------------!
+There's no sense in any more speculation. Let's venture in.
+!******************************!
+[t16_170_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:32>Yuck! It smells rotten in here!
+!******************************!
+[t16_170_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:76>Clearly, the place has been neglected for a considerable  period of time.
+!******************************!
+[t16_170_300.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:112>But everyone in town keeps telling us the mine just closed down a little while ago.<W>
+!------------------------------!
+Are they all mistaken?
+!******************************!
+[t16_170_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:104>With any luck, our investigation of the premises will explain that inconsistency.<W> Move along, Luke.
+!******************************!
+[t16_180_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:32>Have a look at this, Professor.
+!******************************!
+[t16_180_1000.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:59>Yes, or so we've been told. But this has got me thinking.
+!******************************!
+[t16_180_1100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:290>Both this diary and Grinko suggest a connection between the Elysian Box and the events in the mine.<W>
+!------------------------------!
+From what I can tell, all of this traces back to a single man: the duke himself.<W>
+!------------------------------!
+Even if he himself is long gone, his castle may yet contain the answers to all of our questions.
+!******************************!
+[t16_180_1200.gds]
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:79>So, um... Does that mean we have to visit that spooky castle for ourselves? 
+!******************************!
+[t16_180_1300.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:62>Ha ha ha! Do you mean to tell me you're scared of the place?
+!******************************!
+[t16_180_1400.gds]
+<01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:56>Of c-course not! A million vampires wouldn't scare me!
+!******************************!
+[t16_180_1500.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:98>If there truly is a vampire living in that castle, I'd very much like to make his acquaintance.
+!******************************!
+[t16_180_1600.gds]
+<01:00000002><03:8>b4 weep<03:5>NONE<01:00000003><03:90>Don't say things like that, Professor! If we met one, I'm sure he'd eat us on the spot!
+!******************************!
+[t16_180_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:177>Ah, this looks like a miner's diary. This is just the thing we've been looking for, Luke!<W>
+!------------------------------!
+Perhaps it can shed some light on what transpired here. Let's see what it says.
+!******************************!
+[t16_180_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:353>We dug up some funny mineral that I'd never seen before, here in the duke's gold deposit.<W>
+!------------------------------!
+He's sure the ore can be refined into some other kind of precious metal.<W>
+!------------------------------!
+Personally, I feel like there's something sinister about the stuff. Not that the duke cares one bit.<W>
+!------------------------------!
+No, he'll have his way and we'll keep digging. I'd bet my life on that.
+!******************************!
+[t16_180_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:74>Some other kind of precious metal?<W> But I thought this was a gold mine.
+!******************************!
+[t16_180_500.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:239>Ever since we unearthed that awful ore, people have been dropping like flies from some unknown illness.<W>
+!------------------------------!
+There's so many sick people in town that half our miners have stopped coming in to work.<W>
+!------------------------------!
+What in the world is going on here?
+!******************************!
+[t16_180_600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Gosh, that's just terrible.  So many people must have been sick.
+!******************************!
+[t16_180_700.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:281>Folsense's time as a gleaming beacon of prosperity is at an end. This town is cursed and ruined.<W>
+!------------------------------!
+I suspect we're just days away from shutting down this awful mine for good.<W>
+!------------------------------!
+I leave this diary behind so that anyone who tries to reopen the mine may think twice about it.
+!******************************!
+[t16_180_800.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>How odd. The date on this last entry is from just about 50 years ago...
+!******************************!
+[t16_180_900.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:70>But that can't be right. The mine was up and running until recently.
+!******************************!
+[t16_190_100.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:15>Oh, Mr Layton.
+!******************************!
+[t16_190_1000.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:65>Your feeling is right, sir. You see, Folsense is a cursed town.
+!******************************!
+[t16_190_1100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:9>Cursed?!
+!******************************!
+[t16_190_1200.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:290>To call it such may seem base, but I assure you the town's past is the very definition of the word.<W>
+!------------------------------!
+Perhaps the curse is a punishment we are meant to endure for the great mistakes of our past.<W>
+!------------------------------!
+But all nightmares eventually end, and I feel it won't be long now before we awaken.
+!******************************!
+[t16_190_1300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:5>Huh?
+!******************************!
+[t16_190_1400.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:86>I encourage you to head to that castle in the distance and to meet with Duke Anton.
+!******************************!
+[t16_190_1500.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:52>Is this Anton the eldest son of the previous duke?
+!******************************!
+[t16_190_1600.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:293>He is. Duke Anton has presided over Herzen Castle since his father's passing some time ago.<W>
+!------------------------------!
+I served the Herzen family until that day 50 years ago when I left it all behind and fled.<W>
+!------------------------------!
+I don't think Anton will ever forgive me. You see, he's a man who abhors betrayal above all else.
+!******************************!
+[t16_190_1700.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:30>What transpired 50 years ago?
+!******************************!
+[t16_190_1800.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:169>The answers to all your questions can be found at the castle. I urge you to head there.<W>
+!------------------------------!
+Perhaps a voice of reason like yours might persuade Duke Anton to listen.
+!******************************!
+[t16_190_1900.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:69>If you believe it will settle the matter, we'll visit the castle. 
+!******************************!
+[t16_190_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:31>Um... What are you doing here?
+!******************************!
+[t16_190_2000.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:154>Yes, see with your own eyes what's become of this town.<W>
+!------------------------------!
+Perhaps then we'll finally reach the end of this dark tunnel we've been travelling through.
+!******************************!
+[t16_190_2100.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:98>Luke, I believe our destination has become apparent. You know where we must go next, don't you?
+!******************************!
+[t16_190_2200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:253>The people we've talked to are scared to death of the vampire they say is living up in that castle.<W>
+!------------------------------!
+And that chat with the photographer only raises more questions.<W>
+!------------------------------!
+What happened 50 years ago?<W> And what on earth is going on in that castle? 
+!******************************!
+[t16_190_2300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:207>Almost overnight, the Herzen family became incredibly wealthy when they discovered that seam of gold.<W>
+!------------------------------!
+If we can understand the story behind that, our questions about the Elysian Box will be answered.
+!******************************!
+[t16_190_2400.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:122>But how are we going to get into the castle, Professor?<W>
+!------------------------------!
+I don't think it's the kind of place we can just waltz into.
+!******************************!
+[t16_190_2500.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:54>Oh, but I wouldn't say it's impossible by any means.
+!******************************!
+[t16_190_2600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:18>What do you mean?
+!******************************!
+[t16_190_2700.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:212>The tracks we saw on the road to the castle were still very fresh.<W>
+!------------------------------!
+It would seem that the stagecoach is bringing something to the castle every day.<W>
+!------------------------------!
+We need only follow it to find our way to the castle.
+!******************************!
+[t16_190_2800.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:50>Oh, of course. That stagecoach is our ticket in!
+!******************************!
+[t16_190_2900.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:53>Excellent deduction, Luke. Now, shall we get going?
+!******************************!
+[t16_190_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:73>Now, Luke... Sir, if I may be so bold, what brings you to these parts?
+!******************************!
+[t16_190_3000.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:65>I'm ready to go whenever you are, Professor. Just lead the way!
+!******************************!
+[t16_190_400.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:281>Well, to be blunt, sir, I've been doing a bit of, um, spying on you for some time now.<W>
+!------------------------------!
+You've led quite the investigation, and it won't be long before it all snaps into focus for you.<W>
+!------------------------------!
+It is for that reason I feel I  can no longer hide the truth of this place from you.
+!******************************!
+[t16_190_500.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:30>What are you getting at, sir?
+!******************************!
+[t16_190_600.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:139>You've seen my studio. All those pictures of the town there. Those are pictures I took.<W>
+!------------------------------!
+The ones in the station are my work as well.
+!******************************!
+[t16_190_700.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:60>Those photographs have held my interest for some time now.
+!******************************!
+[t16_190_800.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:168>As they should. Mr Layton, do you remember our last meeting in my shop?<W>
+!------------------------------!
+You pointed out a certain strange phenomenon occurring in photos  taken within Folsense.
+!******************************!
+[t16_190_900.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:154>Yes, just one curiosity among the many we've seen in this town.<W>
+!------------------------------!
+It feels as though the whole of Folsense conspires to keep a secret hidden from us.
+!******************************!
+[t16_210_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:24>The gate is shut tight.
+!******************************!
+[t16_210_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:67>In order to get in, we'll simply have to wait for the stagecoach.
+!******************************!
+[t16_210_300.gds]
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:56>Look, there's the stagecoach now!<W> Quick, let's hide!
+!******************************!
+[t16_210_400.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:40>It's open! Professor, the gate's open!
+!******************************!
+[t16_210_500.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:100>And we've escaped their detection! If we're going to enter, now is our only chance. Move quickly!
+!******************************!
+[t16_220_100.gds]
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:115>Do we really have to go through this forest to get there?<W>
+!------------------------------!
+I have to say, I find this place rather...spooky...
+!******************************!
+[t16_220_150.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:10>Ayiiiiii!
+!******************************!
+[t16_220_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:25>Luke! What's the matter?
+!******************************!
+[t16_220_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:53>A g-g-ghost! There's a g-g-ghost in the f-f-forest!
+!******************************!
+[t16_220_400.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:102>Oh Luke, you know that there are no such things as ghosts. Your eyes must be playing tricks on you.
+!******************************!
+[t16_220_500.gds]
+<01:00000002><03:8>b4 weep<03:5>NONE<01:00000003><03:43>But I'm p-positive I s-saw it, Professor!
+!******************************!
+[t16_220_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:104>Deep breaths, Luke. When on edge, even something as harmless as a gnarled tree can look like a ghost.
+!******************************!
+[t16_220_700.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:16>I suppose so...
+!******************************!
+[t16_220_800.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Feeling better?<W> Good. Come along, we mustn't let the stagecoach get too far ahead.
+!******************************!
+[t16_230_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:46>Wow, this place looks even scarier up close!
+!******************************!
+[t16_230_1000.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:77>The rumour does seem to have spread throughout the population of Folsense.
+!******************************!
+[t16_230_1100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:102>Well, do you think maybe it could be, you know, more than a rumour? Mr Parcelle seemed fairly sure!
+!******************************!
+[t16_230_1200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:94>That's what we're here to find out. Just a few more steps and we'll find out for ourselves.
+!******************************!
+[t16_230_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>Feeling nervous again, are you?
+!******************************!
+[t16_230_300.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:44>Not in the slightest! Let's go, Professor!
+!******************************!
+[t16_230_400.gds]
+<01:00000031><03:11>b1 normal2<03:5>NONE<01:00000002><03:28>Gaaaaaah! Somebody help me!
+!******************************!
+[t16_230_500.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:35>What seems to be the problem, sir?
+!******************************!
+[t16_230_600.gds]
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:97>There's a vampire in that castle! I thought I was a goner, but I managed to give him the slip!
+!******************************!
+[t16_230_700.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:33>An actual vampire? Are you sure?
+!******************************!
+[t16_230_800.gds]
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:104>I didn't stick around to check his fangs up close, sonny boy!<W> I've got to get out of here! AUUUUGH!
+!******************************!
+[t16_230_900.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:70>So what do you think about all this vampire business now, Professor?
+!******************************!
+[t16_240_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:122>Well, this certainly isn't the entrance to the mine.<W>
+!------------------------------!
+We should retrace our steps and see where we took a wrong turn.
+!******************************!
+[t16_250_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:41>The gate's locked shut. Let's go, Luke.
+!******************************!
+[t16_260_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:92>This place is certainly full of stuff. Do you suppose this is a picture of the late duke?
+!******************************!
+[t16_260_200.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:19>I believe so, yes.
+!******************************!
+[t16_260_300.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:144>The old Duke Herzen died a while ago and left behind a massive fortune.<W>
+!------------------------------!
+If he's gone, who is this vampire the whole town's talking about?
+!******************************!
+[t16_260_400.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:120>Sam mentioned that Mr Beluga had an older brother here.<W>
+!------------------------------!
+I'd say he's likely the man at the heart of all this talk.
+!******************************!
+[t16_260_500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:140>But if he's Mr Beluga's older brother, he would have to be old and feeble by now.<W>
+!------------------------------!
+Oh, but then, vampires don't age normally, do they?
+!******************************!
+[t16_260_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:36>Hmm... I couldn't possibly comment.
+!******************************!
+[t16_261_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>So, this is the late Duke Herzen.
+!******************************!
+[t16_270_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:54>Professor, take a look at this case of knick-knacks.
+!******************************!
+[t16_270_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:72>These appear to be common household items owned by the Herzen family.
+!******************************!
+[t16_270_300.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:39>Some of them look positively ancient!
+!******************************!
+[t16_270_400.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:70>Quite. The Herzen family clearly has a long and rich family history.
+!******************************!
+[t16_280_100.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:58>That's one impressive statue. It must be of Duke Herzen.
+!******************************!
+[t16_280_200.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:100>This entire museum appears to be dedicated to celebrating his achievements, so I'd have to agree.
+!******************************!
+[t16_280_300.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:60>But wait a second... I thought Mr Beluga owned this place?
+!******************************!
+[t16_280_400.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:32>Yes, I believe that's the case.
+!******************************!
+[t16_280_500.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:90>Then he built this museum in honour of his father...<W> Maybe he's not so bad after all.
+!******************************!
+[t16_290_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>We haven't examined everything in the museum just yet. Let's look around a bit more.
+!******************************!
+[t16_300_100.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:88>Am I correct in believing that you wish to understand the secrets of the Elysian Box?
+!******************************!
+[t16_300_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:66>Yes, that's right. Would you happen to know anything about it? 
+!******************************!
+[t16_300_300.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:285>I'm sure you already know that the Elysian Box is a Herzen family heirloom.<W>
+!------------------------------!
+At Mr Beluga's request, I've been researching the history of Folsense and the Herzen family.<W>
+!------------------------------!
+In doing so, I uncovered a secret in this town's history that reveals the truth behind the Elysian Box.
+!******************************!
+[t16_300_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>Intriguing. What is this secret you speak of?
+!******************************!
+[t16_300_500.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:382>It's easy to ask that question when you don't know what you're getting into, Mr Layton.<W>
+!------------------------------!
+But if you thirst for the truth and are ready to face it, you'd do well to visit the town mine.<W>
+!------------------------------!
+Many miners used to keep little diaries down there to document their time below ground.<W>
+!------------------------------!
+If you can find one of those, you'll have a first-hand account of what transpired back then.
+!******************************!
+[t16_300_600.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:99>Thank you for the advice. We'll have a look for ourselves.<W> Come, Luke, let's head to the mine.
+!******************************!
+[t16_310_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:31>We're here at last, Professor!
+!******************************!
+[t16_310_200.gds]
+<01:00000058><03:5>NONE<03:5>NONE<01:00000002><03:72>Leave this place at once!<W> You have no right to enter Herzen Castle.
+!******************************!
+[t16_310_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>Where is that voice coming from?
+!******************************!
+[t16_310_400.gds]
+<01:00000058><03:5>NONE<03:5>NONE<01:00000002><03:357>Only those possessing exceptional wisdom and bravery are worthy of gaining entrance to this castle.<W>
+!------------------------------!
+It seems you've left a great number of puzzles in town unsolved.<W>
+!------------------------------!
+Such indolence is unfitting of guests of Herzen Castle.<W>
+!------------------------------!
+Should you wish to enter, return when you've solved at least 80 puzzles.<W>
+!------------------------------!
+Now go. We wish you success in your effort.
+!******************************!
+[t16_310_500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:48>D-do you suppose that was the vampire talking?
+!******************************!
+[t16_310_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:236>Oh, Luke, without seeing who's speaking, it's anybody's guess.<W>
+!------------------------------!
+But we'll need to solve at least 80 puzzles if we want to find out.<W>
+!------------------------------!
+Forget about the vampire, let's see if we can't solve a few more puzzles to bolster our total.
+!******************************!
+[t16_311_100.gds]
+<01:00000058><03:5>NONE<03:5>NONE<01:00000002><03:357>Only those possessing exceptional wisdom and bravery are worthy of gaining entrance to this castle.<W>
+!------------------------------!
+It seems you've left a great number of puzzles in town unsolved.<W>
+!------------------------------!
+Such indolence is unfitting of guests of Herzen Castle.<W>
+!------------------------------!
+Should you wish to enter, return when you've solved at least 80 puzzles.<W>
+!------------------------------!
+Now go. We wish you success in your effort.
+!******************************!
+[t16_312_100.gds]
+<01:00000058><03:5>NONE<03:5>NONE<01:00000002><03:137>It would appear you've solved at least 80 puzzles.<W>
+!------------------------------!
+I commend your perseverance and proclaim you worthy of entrance to this castle.
+!******************************!
+[t16_320_100.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:55>I see you've taken quite an interest in that picture.
+!******************************!
+[t16_320_1000.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:16>Greed, perhaps?
+!******************************!
+[t16_320_1100.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:92>Well, yes, there was that.<W> But there was something more than greed infesting his heart.
+!******************************!
+[t16_320_1200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:28>What do you think that was?
+!******************************!
+[t16_320_1300.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:140>I... No, I think it's best if we end this chat here.<W>
+!------------------------------!
+It's not my place to speculate about what goes on in the hearts of other people.
+!******************************!
+[t16_320_1400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:68>Of course.<W> Tell me this, though, if you can. Where is Anton now?
+!******************************!
+[t16_320_1500.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:196>That's a good question. I've heard rumours that he might still be living in that old castle.<W>
+!------------------------------!
+But I can't imagine anyone would live in a place so run down that people call it a vampire den.
+!******************************!
+[t16_320_1600.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:144>Gracious, look at how long we've been chatting. I think it's time for me to get back to work.<W>
+!------------------------------!
+Please look around for as long as you like.
+!******************************!
+[t16_320_1700.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:62>It seems money can't solve all your problems, eh, Professor?
+!******************************!
+[t16_320_1800.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:6>Mm...
+!******************************!
+[t16_320_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:30>Is...this what I think it is?
+!******************************!
+[t16_320_300.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:264>It's a photograph of the entire Herzen family, who were responsible for Folsense's legendary wealth.<W>
+!------------------------------!
+The distinguished older gentleman on the left is Duke Herzen.<W>
+!------------------------------!
+His youngest son, Fredrich, is in the middle, and his eldest son, Anton, is on the right.
+!******************************!
+[t16_320_400.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:96>That Fredrich... That's Mr Beluga, the founder and owner of the Molentary Express, is it not?
+!******************************!
+[t16_320_500.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:469>Oh, you know him?<W>
+!------------------------------!
+Well, in addition to owning a railway, Fredrich is a friend of mine and owner of this museum.<W>
+!------------------------------!
+It's a sad story, really. He cut all ties to his father and left town 50 or so years ago.<W>
+!------------------------------!
+When he left, he took a small portion of the Herzen wealth and used it to start his railway.<W>
+!------------------------------!
+Yes, Fredrich is quite a study in contradictions.<W>
+!------------------------------!
+He disliked his father enough to change his name, but he returned to Folsense to found this museum.
+!******************************!
+[t16_320_510.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:104>I'm sure he has reasons for doing all this, but seeing as he pays my bills, it's not my place to ask.
+!******************************!
+[t16_320_600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:62>Did the feud extend to all the members of the Herzen family?
+!******************************!
+[t16_320_700.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:140>No, Fredrich and Anton were always quite close.<W>
+!------------------------------!
+But their relationship with their father was never the same after that fateful day...
+!******************************!
+[t16_320_800.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:24>What day was that, sir?
+!******************************!
+[t16_320_900.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:153>The day Duke Herzen discovered the vein of gold that brought so much wealth to Folsense.<W>
+!------------------------------!
+He was a different man after that. Something changed him.
+!******************************!

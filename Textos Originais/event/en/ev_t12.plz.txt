@@ -1,0 +1,699 @@
+[t12_010_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:178>The train's looking pretty trashed so we're stopping here for repairs.<W>
+!------------------------------!
+We've got at least three hours till we'll be ready to roll, so why don't you catch the local sights?
+!******************************!
+[t12_010_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>A capital idea! Besides, who knows what information we might stumble upon in the village?
+!******************************!
+[t12_025_100.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:69>Well, Mr Layton! How are you enjoying your time here in Dropstone?
+!******************************!
+[t12_025_1000.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:96>It will. And on that note, I'm afraid I'll have to excuse myself. Good day to you, Mr Layton.
+!******************************!
+[t12_025_1100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:28>Good day to you, Mr Beluga.
+!******************************!
+[t12_025_1200.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:80>My, it's already a year since she passed away. Time truly does just fly by...
+!******************************!
+[t12_025_1300.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:13><''>She<''>?
+!******************************!
+[t12_025_1400.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:51>Who do you think he was talking about, Professor?
+!******************************!
+[t12_025_1500.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:36>I haven't the slightest idea, Luke.
+!******************************!
+[t12_025_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:97>It's delightful. Every once in a while, it's nice to leave the city and enjoy the countryside.
+!******************************!
+[t12_025_300.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:92>The air is so fresh and clean! It must be nice to live here all the time. I'm so jealous!
+!******************************!
+[t12_025_400.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:106>And so you should be, young man! There's something about this place that makes you feel like a new man.
+!******************************!
+[t12_025_500.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:200>And with the village celebrating its 50th anniversary today, our timing couldn't be better.<W>
+!------------------------------!
+Come to think of it, your Molentary Express turned 50 this year, didn't it?<W> Quite the coincidence.
+!******************************!
+[t12_025_600.gds]
+<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:57>Er... Yes, indeed it did. Sheer coincidence, of course.
+!******************************!
+[t12_025_700.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:95>Still, it could have been fun to have a double anniversary celebration here at the festival.
+!******************************!
+[t12_025_800.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:102>Well, we already have a grand 50th anniversary celebration planned at an exclusive venue in London.
+!******************************!
+[t12_025_900.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:99>Oh, is that so?<W> Well, I'm sure your party will be on a par with the excellence of your train. 
+!******************************!
+[t12_030_100.gds]
+<01:0000000F><03:6>shout<03:5>NONE<01:00000003><03:313>Oh, fancy seeing you laddies out and about.<@v>3<W> Me? They booted me off the train until they fix it.<@v>3<W>
+!------------------------------!
+If you're after a few puzzles to pass the time, just take a peek inside my shack of wonders.<@v>3<W>
+!------------------------------!
+I'll be here until I can get back on the train, so just come by if you get a hankering for a puzzle.
+!******************************!
+[t12_031_100.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:199>I tell you, though, those railway folk have some nerve booting me off the train like they did.<W>
+!------------------------------!
+But while I'm waiting, you can take a peek inside that teensy little shack for any lost puzzles.
+!******************************!
+[t12_040_100.gds]
+<01:00000038><03:5>NONE<03:5>NONE<01:00000002><03:58>Oho, and who do we have here? Visitors from out of town?
+!******************************!
+[t12_040_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:98>Indeed we are. We were travelling on the Molentary Express, but we've stopped here for repairs.
+!******************************!
+[t12_040_300.gds]
+<01:00000038><03:5>NONE<03:5>NONE<01:00000002><03:86>If you're here for repairs, there's only one place you could be headed, am I right?
+!******************************!
+[t12_040_400.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:38>Only one place we could be headed?<@s>
+!******************************!
+[t12_040_450.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:23>What do you mean, sir?
+!******************************!
+[t12_040_500.gds]
+<01:00000038><03:5>NONE<03:5>NONE<01:00000002><03:271>Hmm? Oh, I, um, was just thinking out loud. Yep, just talking to myself. Forget about it.<W>
+!------------------------------!
+Here, did you notice the festival that's going on today here in Dropstone?<W>
+!------------------------------!
+Today marks the 50th year since the founding of our village. Make sure you get in on the fun!
+!******************************!
+[t12_050_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:360>I'm tellin' ya man, this sleepy little farming place is, like, the chillest place on Earth.<W>
+!------------------------------!
+My unc- I mean, the boss is wandering around the village and so is that inspector dude.<W>
+!------------------------------!
+The village is celebrating its 50th anniversary right now, so I bet there's tons of stuff to do.<W>
+!------------------------------!
+If I weren't stuck working, I'd definitely go check it out myself.
+!******************************!
+[t12_050_200.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:100>So the village was founded only 50 years ago? That's quite young for a settlement in these parts.
+!******************************!
+[t12_050_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:100>And it's so peaceful here that I really can't believe we'll find any clues about the Elysian Box.
+!******************************!
+[t12_050_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:156>Oh, I wouldn't be so sure of that, Luke.<W>
+!------------------------------!
+Remember, one of the first rules of puzzle solving is that the answer is often in the unlikeliest of places!
+!******************************!
+[t12_050_500.gds]
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:77>Right as always, Professor! I'll be sure to keep my eyes peeled for clues!
+!******************************!
+[t12_051_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:187>Stop those feet, folks. You can't board up yet. The whole train is still busted, you follow?<W>
+!------------------------------!
+The village is partying down, so why don't you go join them while we fix up the train?
+!******************************!
+[t12_060_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:44>Wow, look at all the stuff there is to do!
+!******************************!
+[t12_060_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:65>This must be the festival that everyone's been enthusing about.
+!******************************!
+[t12_060_300.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:55>I've never been to a festival before. It's wonderful!
+!******************************!
+[t12_060_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:154>Oh, that's right, Flora. I'd forgotten how you grew up in that one little village.<W>
+!------------------------------!
+Well, now's your chance to make up for lost time. Let's explore!
+!******************************!
+[t12_060_500.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:39>Yes, let's! Where should we go first?
+!******************************!
+[t12_060_600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:79>Ooh, let's go look at that booth over there! I want to see what they've got!
+!******************************!
+[t12_060_700.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:13>Wait for me!
+!******************************!
+[t12_060_800.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>Ha ha ha! You two watch where you're running or you're liable to  crash into something.
+!******************************!
+[t12_070_100.gds]
+<01:0000003C><03:5>NONE<03:5>NONE<01:00000003><03:85>We're doing some top-secret festival prep back here, so you can't come in yet, OK?
+!******************************!
+[t12_075_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:100>There are some more stalls over the other way. Let's see what kind of stuff they've got going on!
+!******************************!
+[t12_080_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:43>Wow, look at those gigantic cow balloons!
+!******************************!
+[t12_080_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:76>It looks like the villagers are setting up for the livestock competition.
+!******************************!
+[t12_080_300.gds]
+<01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:23>Livestock competition?
+!******************************!
+[t12_080_400.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:22>That sounds like fun!
+!******************************!
+[t12_080_500.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:105>Yes, I'd certainly like to see the competition myself, but it doesn't appear quite ready to start yet.
+!******************************!
+[t12_080_600.gds]
+<01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:61>While we're waiting, can we go and see more of the village?
+!******************************!
+[t12_080_700.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:64>Certainly. We can return later when the competition commences.
+!******************************!
+[t12_080_800.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:5>Yay!
+!******************************!
+[t12_090_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:44>Aww, the competition still hasn't started.
+!******************************!
+[t12_100_100.gds]
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:187>I never forget a face, and I don't know any of yours. You must have come on the Molentary Express.<W>
+!------------------------------!
+Since you're new in town, let me clue you in on a few key facts about Dropstone.
+!******************************!
+[t12_100_200.gds]
+<01:00000031><03:8>b2 weep<03:5>NONE<01:00000002><03:526>I know you're interested, so don't act all bashful and reserved on my account!<W>
+!------------------------------!
+Listen, if you only know one name in Dropstone, make sure it's Mr Anderson's.<W>
+!------------------------------!
+Not only is the man swimming in money, but he basically runs Dropstone.<W>
+!------------------------------!
+But he's a top bloke who treats everyone with respect, even the postman. That'd be me, by the way.<W>
+!------------------------------!
+You can tell a lot about a man by the way he treats his local postie.<W>
+!------------------------------!
+But even nice guys like him have troubles. I hear he spends all his time worrying about his daughter.
+!******************************!
+[t12_100_250.gds]
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:197>That reminds me, I just saw a pair of unusual characters head up towards Mr Anderson's house.<W>
+!------------------------------!
+They said they were policemen from London, but something about them seemed awfully fishy to me.
+!******************************!
+[t12_100_300.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:17>Two people, huh?
+!******************************!
+[t12_100_400.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:59>Are you referring to Inspector Chelmey and his assistant?
+!******************************!
+[t12_100_500.gds]
+<01:00000031><03:10>b1 normal<03:5>NONE<01:00000002><03:121>Chelmey, you say?<W>
+!------------------------------!
+That sounds right. He said he was here on official police business and needed to see Mr Anderson.
+!******************************!
+[t12_100_600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:93>Do you think there's a connection between this Mr Anderson and the Elysian Box, Professor?
+!******************************!
+[t12_100_700.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:155>Well, it seems that Mr Anderson serves as the head of this community.<W>
+!------------------------------!
+It's only natural that he'd know about who and what passes through this area.
+!******************************!
+[t12_100_800.gds]
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:349>He's a big fish, all right. You're bang on the money about that.<W>
+!------------------------------!
+I mean, even the owner of the Molentary Express stops in to pay him a visit when he's in town.<W>
+!------------------------------!
+Yes, I bet those two officers are being waited on like kings at Mr Anderson's as we speak.<W>
+!------------------------------!
+But enough chit-chat. We've got a festival going on now, so go and have some fun!
+!******************************!
+[t12_105_100.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:76>Oh, look at that cute little shop! Do we have time to take a peek inside?
+!******************************!
+[t12_105_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:65>I can't see any harm in it. Let's go and have a look, shall we?
+!******************************!
+[t12_106_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:105>Wait, Luke. I do believe there was a shop that Flora wanted to visit. Why don't we go and have a look?
+!******************************!
+[t12_110_100.gds]
+<01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:89>Greetings! I don't think I've seen you around these parts before. May I ask your name?
+!******************************!
+[t12_110_1000.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:91>I don't mean to pry, but has there been some issue between Mr Anderson and his daughter?
+!******************************!
+[t12_110_1100.gds]
+<01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:104>Well... Yes. Just between you, me and the wall, his daughter has been secretly planning a trip alone.
+!******************************!
+[t12_110_1200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:75>Secretly planning a trip alone? I hope she's not planning to run away...
+!******************************!
+[t12_110_1300.gds]
+<01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:182>What's worse is that the master has started to suspect something is going on behind his back.<W>
+!------------------------------!
+But after much discussion, we servants have decided to give her a warm send-off.
+!******************************!
+[t12_110_1400.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:80>So you're in support of allowing this girl to go off on her own? Why is that?
+!******************************!
+[t12_110_1500.gds]
+<01:00000016><03:9>b1 smile<03:5>NONE<01:00000003><03:105>Because the purpose of the trip is to fulfil the wishes of the young lady mistress's late grandmother.
+!******************************!
+[t12_110_1600.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:63>I see. May I enquire as to what those wishes might have been?
+!******************************!
+[t12_110_1700.gds]
+<01:00000016><03:10>b1 normal<03:5>NONE<01:00000003><03:347>Well...<W> I myself have only heard scraps of the story from other people, so I can't say much.<W>
+!------------------------------!
+But whatever the request, it's one that the young mistress seems to feel is extremely important.<W>
+!------------------------------!
+Oh, look at that. Here I am gossiping away when there's supper to prepare.<W>
+!------------------------------!
+Please excuse me, Professor Layton. I need to get back to work.
+!******************************!
+[t12_110_1800.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:239>Oh, wait a second!<W> ...Rats, she's gone.<W>
+!------------------------------!
+Is it just me, Professor, or does it sound like Mr Anderson's daughter is planning to leave home?<W>
+!------------------------------!
+If she is, doesn't it seem strange to you that the family servants are cheering her on?
+!******************************!
+[t12_110_1900.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:193>Yes, very. And think about the consequences should Mr Anderson find out what's been going on.<W>
+!------------------------------!
+The servants must have a truly solid reason if they've resolved to keep a secret like this.
+!******************************!
+[t12_110_200.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:92>Of course. My name is Hershel Layton, professor of archaeology, Gressenheller University.
+!******************************!
+[t12_110_2000.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:96>What could it possibly be?<W> I'm getting the feeling Dropstone isn't as ordinary as it looks.
+!******************************!
+[t12_110_2100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>You're not the only one, Luke.<W> But enough speculation. Let's go and explore more of the village.
+!******************************!
+[t12_110_2200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:15>OK, Professor!
+!******************************!
+[t12_110_300.gds]
+<01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:187>Charmed, sir. Welcome to Dropstone, Professor Layton.<W>
+!------------------------------!
+My name is Dorothea and I am a maid in the service of the Anderson family.<W>
+!------------------------------!
+Tell me, what brings you to our humble village?
+!******************************!
+[t12_110_400.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:103>My companions and I are after an artefact known as the Elysian Box. Have you heard that name before?
+!******************************!
+[t12_110_500.gds]
+<01:00000016><03:9>b1 smile<03:5>NONE<01:00000003><03:102>Hmm, can't say that I have.<W> But the master is quite knowledgeable about curiosities such as that.
+!******************************!
+[t12_110_600.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:19>The master, madam?
+!******************************!
+[t12_110_700.gds]
+<01:00000016><03:10>b1 normal<03:5>NONE<01:00000003><03:172>Oh yes, excuse my thoughtlessness. I keep forgetting you're new here.<W>
+!------------------------------!
+You see, I'd venture there's not a single resident of our village who doesn't know Mr Anderson.
+!******************************!
+[t12_110_800.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:89>I see. Well, if it's possible, we'd be very grateful for an audience with Mr Anderson.
+!******************************!
+[t12_110_900.gds]
+<01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:100>Normally I'd say he'd be glad to receive you, but lately he's been preoccupied with his daughter.
+!******************************!
+[t12_120_100.gds]
+<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:97>I can see you've made a lovely pot of my favourite herbal tea. Come now, do let me have a cup.
+!******************************!
+[t12_121_100.gds]
+<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:274>Mmm, my word! This tea really hits the spot. You brewed it just right!<W>
+!------------------------------!
+Even a few sips is enough to put some pep in my step. Now I'm raring to go back to work.<W>
+!------------------------------!
+Your tea has done wonders for my mood. You should try lifting other people's spirits with tea as well.
+!******************************!
+[t12_121_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:90>Professor, do you think you can really make someone feel better with just a cup of tea?
+!******************************!
+[t12_121_300.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:91>Of course, Luke. A good cup of tea is one of the greatest comforts a gentleman can know.
+!******************************!
+[t12_121_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Hmm. Well, I suppose you'd know best, Professor.
+!******************************!
+[t12_122_100.gds]
+<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:52>No, no, no. This isn't the tea I was after at all.
+!******************************!
+[t12_123_100.gds]
+<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:101>Hey, I don't see any tea brewing. Whip me up a cup of tea with those three ingredients you've got.
+!******************************!
+[t12_130_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:28>Oh, it's Inspector Chelmey!
+!******************************!
+[t12_130_1000.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:411>Hmph, fine! Let his baronship roll around in the mud with his precious cows. I shall be elsewhere!<W>
+!------------------------------!
+As far as I'm concerned, the whole thing's nothing more than a frivolous distraction for the rich!<W>
+!------------------------------!
+I can only assume his obsession with the box stems from the excess of time and money on his hands.<W>
+!------------------------------!
+If you see anything that might help this investigation, report it to me straight away, you hear?
+!******************************!
+[t12_130_1100.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:69>We are always happy to cooperate, Inspector. Now, please excuse us.
+!******************************!
+[t12_130_1200.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:63>Fine, off you go.<W> Come along, Barton. We've got work to do.
+!******************************!
+[t12_130_1300.gds]
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:21>Hmm? Oh, y-yessir...
+!******************************!
+[t12_130_1400.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:63>All right, we'd better hurry back to the competition grounds!
+!******************************!
+[t12_130_200.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:22>Well, look who it is.
+!******************************!
+[t12_130_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:64>Hello, Inspector. Are you returning from the Anderson estate?
+!******************************!
+[t12_130_400.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:278>Hmph, I don't know where you get your information, Layton, but you're as sly as a fox.<W>
+!------------------------------!
+As a matter of fact, I did just come from there, but Mr Anderson himself wasn't home.<W>
+!------------------------------!
+Seems he's off presiding over some livestock competition or other. A likely story, I'm sure.
+!******************************!
+[t12_130_500.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:100>I'm curious... Have you found a connection between Mr Anderson and the case you're investigating?
+!******************************!
+[t12_130_600.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:475>Not that it's any of your business, but perhaps you can be of help.<W>
+!------------------------------!
+I'd heard rumours that he had tried to find this Elysian Box in the past, so I went to talk to him.<W>
+!------------------------------!
+But when I got to the house the butler told me he wasn't home and that I should leave at once!<W>
+!------------------------------!
+Can you believe it?<W> Mind you, I wouldn't be surprised if he was just pretending not to be at home.<W>
+!------------------------------!
+I went out of my way to go up and see the man. The least he could do is offer me a cuppa!
+!******************************!
+[t12_130_700.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:81>But why would Mr Anderson be interested in the Elysian Box in the first place?
+!******************************!
+[t12_130_800.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:80>It's anyone's guess, Luke. We won't know more until we can ask him in person.
+!******************************!
+[t12_130_900.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:99>In that case, I suppose we should head over to the livestock competition Mr Anderson is judging.
+!******************************!
+[t12_140_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:76>Wow, look at the size of that mansion. I bet you could get lost in there!
+!******************************!
+[t12_140_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:90>It is impressive, to say the least. I'm sure that massive manor belongs to Mr Anderson.
+!******************************!
+[t12_140_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>So that's where Inspector Chelmey and his assistant went, right?
+!******************************!
+[t12_140_400.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:67>I'd like to see this place for myself. Can we go and take a look?
+!******************************!
+[t12_140_500.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:196>No, for now I think our best course of action is to gather what information we can in the village.<W>
+!------------------------------!
+Besides, I imagine the Andersons already have their hands full with their current guests.
+!******************************!
+[t12_150_100.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:33>My goodness, look at this place!
+!******************************!
+[t12_150_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:57>Whew, we made it back in time to catch the competition!
+!******************************!
+[t12_150_300.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:71>If we've been informed correctly, Mr Anderson is judging the entries.
+!******************************!
+[t12_150_400.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:47>So he should be somewhere around here, right?
+!******************************!
+[t12_150_500.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Indeed. I wonder which of the gentlemen walking around here is our man.
+!******************************!
+[t12_150_600.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:103>Uh-oh, it looks like the two men over there are getting pretty hot under the collar about something.
+!******************************!
+[t12_150_700.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:29>I wonder what the matter is.
+!******************************!
+[t12_160_100.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:99>I heard that you've been enquiring around the village about an antique known as the Elysian Box.
+!******************************!
+[t12_160_200.gds]
+<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:217>Oh yeah, that thing. People say it kills whoever manages to prise open its lid. Pandora's Box, they call it.<W>
+!------------------------------!
+I just found out about it during the course of my travels. But that box isn't what I'm really after.
+!******************************!
+[t12_160_300.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:74>Well then, if I may be so bold as to ask, what are you looking for, sir?
+!******************************!
+[t12_160_400.gds]
+<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:338>A phantom town that's nowhere to be found on any map!<W>
+!------------------------------!
+A place only the chosen may visit. The only way in, I hear, is on the Molentary Express.<W>
+!------------------------------!
+That train, and its many mysteries, have been the subject of my research for years.<W>
+!------------------------------!
+From what I can tell, this artefact you're after, this Elysian Box, is also tied to that town.
+!******************************!
+[t12_160_500.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:58>Wow! So when can we set out for it? How do we get there?
+!******************************!
+[t12_160_600.gds]
+<01:00000013><03:9>b1 smile<03:5>NONE<01:00000001><03:277>Yeah... That's the one detail I haven't managed to pin down yet. <W>
+!------------------------------!
+Maybe you whisper a password when you're on the train and WHOOSH, the track goes in a new direction.<W>
+!------------------------------!
+Anyway, it's probably something like that. I'll just have to keep searching until I find a way in.
+!******************************!
+[t12_160_700.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:39>Interesting. Thank you for your time.
+!******************************!
+[t12_160_750.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:92>Professor, did you hear that?!<W> I think we've finally got a new lead on the Elysian Box.
+!******************************!
+[t12_160_800.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:182>It's a bit early to celebrate, but it looks like our journey on the Molentary Express isn't over yet.<W>
+!------------------------------!
+All right, you two. Let's start making our way back towards the station.
+!******************************!
+[t12_160_900.gds]
+<01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:15>OK, Professor!
+!******************************!
+[t12_180_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>I think the livestock competition should be starting soon. We should return to the stage.
+!******************************!
+[t12_190_100.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:57>The place is positively crawling with people, isn't it?
+!******************************!
+[t12_190_200.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:99>Careful, Flora. If you don't watch where you're going, you're likely to run right in to someone.
+!******************************!
+[t12_190_300.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:91>Oops, sorry. This is all so new to me that I forget to pay attention to where I'm going.
+!******************************!
+[t12_190_400.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:74>Understandable. After all, it's quite different to what you're used to.
+!******************************!
+[t12_190_500.gds]
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:140>Wow, Flora, you certainly seem to be excited!<W>
+!------------------------------!
+Just don't stand around gawking for too long or we might accidentally leave you behind.
+!******************************!
+[t12_190_600.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:126>Wow, what's that? Ooh, and look, there's another one over there...<W>
+!------------------------------!
+...Huh?<W>
+!------------------------------!
+Professor?<W> Luke?<W> Where did you two go?
+!******************************!
+[t12_190_700.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:6>Eeek!
+!******************************!
+[t12_200_100.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:35>Oh, no!<W> Professor, Flora's gone!
+!******************************!
+[t12_200_1000.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:23>Oh? What did you hear?
+!******************************!
+[t12_200_1100.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:221>That a man named Romie was asking around after the Elysian Box.<W>
+!------------------------------!
+If we can track him down, maybe he can tell us something we don't know.<W>
+!------------------------------!
+I heard from one person that he's been wandering around near the station.
+!******************************!
+[t12_200_1200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:89>That is interesting news. Let's head to the station and see if we can find this Romie.
+!******************************!
+[t12_200_1300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:81>Good on you, Flora! That's some top-notch intelligence you gathered out there.
+!******************************!
+[t12_200_1400.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:34>Hee hee hee. Aww, it was nothing.
+!******************************!
+[t12_200_200.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:92>Oh, dear. We must have become separated in the crowd back there. Let's retrace our steps.
+!******************************!
+[t12_200_300.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:73>It's going to be awfully hard to find her with all these people about.
+!******************************!
+[t12_200_400.gds]
+<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:46>Now, where could that girl have gone off to?
+!******************************!
+[t12_200_500.gds]
+<01:00000005><03:9>b1 weep2<03:5>NONE<01:00000003><03:6>Whew!
+!******************************!
+[t12_200_600.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:33>Flora, where did you run off to?
+!******************************!
+[t12_200_700.gds]
+<01:00000005><03:8>b1 weep<03:5>NONE<01:00000003><03:138>Sorry, there were so many people that I must have lost you.<W>
+!------------------------------!
+I turned to look at something and, before I knew it, you two were gone.
+!******************************!
+[t12_200_800.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:139>Well, I'm relieved you found your way back to us.<W>
+!------------------------------!
+With so many people around, who knows how long it could have taken us to find you.
+!******************************!
+[t12_200_900.gds]
+<01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:145>I'll be more careful from now on, I promise.<W>
+!------------------------------!
+Although, you know, I heard a few interesting things while I was wandering around over there.
+!******************************!
+[t12_220_100.gds]
+<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:38>Oh, Mr Layton, do you have a moment?
+!******************************!
+[t12_220_1000.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:22>Steady on, Professor!
+!******************************!
+[t12_220_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:40>Certainly. How may I be of assistance?
+!******************************!
+[t12_220_300.gds]
+<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:163>It seems you've done a great deal of investigating today.<W>
+!------------------------------!
+Tell me, during the course of your enquiries, you didn't hear anything about my daughter, did you?
+!******************************!
+[t12_220_400.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:22>Your...daughter, sir?
+!******************************!
+[t12_220_500.gds]
+<01:00000055><03:8>b1 weep<03:10>b1 normal<01:00000002><03:363>Yes, Katia. You see, she hardly ever comes home since her grandmother Sophia passed away.<W>
+!------------------------------!
+Sophia and my daughter were very close, so her death came as a great shock to Katia.<W>
+!------------------------------!
+If you should see her, would you please tell her that her father wishes she'd come home?<W>
+!------------------------------!
+If a fine gentleman such as yourself delivers the message, she just might listen.
+!******************************!
+[t12_220_600.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:89>Unfortunately, our train is leaving soon, so I may not be able to be much help at all.
+!******************************!
+[t12_220_700.gds]
+<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:122>Katia is my - no, our - only child.<W>
+!------------------------------!
+She means everything to me and I'd be forever in your debt if you could help me.
+!******************************!
+[t12_220_800.gds]
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:45>I wonder what kind of person this Katia is.
+!******************************!
+[t12_220_900.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:126>Your guess is as good as mine.<W>
+!------------------------------!
+But judging from her family and upbringing, I'd imagine she's both beautiful and refined.
+!******************************!
+[t12_240_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:172>The Molentary Express is back in business, baby! Get ready to ride, folks!<@v>6<W>
+!------------------------------!
+Hey, you guys better hurry back to your seats, 'cause this train is ready to rock! <@v>3
+!******************************!
+[t12_260_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:28>What's going on over there?
+!******************************!
+[t12_260_200.gds]
+<01:00000001><03:10>b3 normal<03:5>NONE<01:00000002><03:66>I believe we may have stumbled upon Mr Anderson's dear daughter.
+!******************************!
+[t12_260_300.gds]
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:42>That's a cracking send-off she's having.
+!******************************!
+[t12_260_400.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:73>Considering the size of the party, I doubt she's just going on holiday.
+!******************************!
+[t12_280_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:151>We're not finished repairing the train yet.<W>
+!------------------------------!
+I'd say you're gonna need to have solved, oh, 30 or more puzzles before we can get this train fixed.
+!******************************!
+[t12_281_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:104>Seriously, until you solve at least 30 puzzles, repairs on this train are never going to be finished.
+!******************************!
+[t12_282_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:80>Yow, you've got at least 30 puzzles under your belt! Who's the rock star now?
+!******************************!
+[t12_290_100.gds]
+<01:00000015><03:5>NONE<03:5>NONE<01:00000002><03:267>Sob... Sniffle... Parting with one so dear to your heart is even more painful than the tightest wig.<W>
+!------------------------------!
+When she was a child, I used to read to her until she fell asleep.<W> She looked just like an angel.<W>
+!------------------------------!
+Oh, nothing cuts so deep as separation's knife! Sob...
+!******************************!
+[t12_290_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:78>Cripes, I don't know about that.<W> I've never really given it much thought.
+!******************************!
+[t12_290_300.gds]
+<01:00000015><03:5>NONE<03:5>NONE<01:00000002><03:140>Oh, fret not. I wasn't expecting one as young as yourself to fully understand my malaise.<W>
+!------------------------------!
+Don't mind me. I'll just excuse myself now.
+!******************************!
+[t12_290_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:92>Do you think he just got dumped?<W> Actually, he seemed sad in a different way, didn't he?
+!******************************!
+[t12_290_500.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:105>Best not to pry too deeply into the private affairs of others, Luke. It's not becoming of a gentleman.
+!******************************!
+[t12_290_600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:25>You're right, Professor.
+!******************************!
+[t12_300_100.gds]
+<01:00000015><03:5>NONE<03:5>NONE<01:00000002><03:299>Oh dear, oh dear. The train's scheduled to depart any minute now and she's still not here.<W>
+!------------------------------!
+Everyone's efforts will have been in vain if she misses her train out of town... Oh my, oh my.<W>
+!------------------------------!
+Maybe women just need more time to get ready for things like this... Oh, why must she make me worry?
+!******************************!
+[t12_300_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:45>Excuse me, but are you waiting for someone?
+!******************************!
+[t12_300_300.gds]
+<01:00000015><03:11>b1 normal2<03:5>NONE<01:00000002><03:86>It's none of your business! We haven't even told the master about what we're doing!
+!******************************!
+[t12_300_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:104>Luke, perhaps it's best to leave him be. Sometimes it's best not to barge into the affairs of others.
+!******************************!
+[t12_300_500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:87>Well, if he doesn't want us to talk to him, maybe he shouldn't be thinking out loud!
+!******************************!
+[t12_320_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:63>Look at all these stalls! Now this is what I call a festival.
+!******************************!
+[t12_320_200.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:64>Ooh, I just love all the hustle and bustle. It's so wonderful!
+!******************************!
+[t12_320_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:56>Shall we take in some more of the plaza's sights then?
+!******************************!
+[t12_320_400.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:12>Definitely!
+!******************************!
+[t12_330_100.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:69>Hold on a moment, Professor... Could that man over there be Romie?
+!******************************!

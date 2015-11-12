@@ -1,0 +1,1547 @@
+[t22_000_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Look at this little monument here,
+Professor.
+!******************************!
+[t22_000_200.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:79>It appears to be commemorating
+something. Let's see what's written
+on it... 
+!******************************!
+[t22_001_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>I'd almost forgotten about the
+puzzle here.
+
+!******************************!
+[t22_002_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>If this monument was built just
+50 years ago, Dropstone is
+actually a very young village.
+!******************************!
+[t22_003_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:93>According to the writing here, this
+village was founded by its first
+settler 50 years ago.
+!******************************!
+[t22_003_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:97>50 years sounds like a long time
+for a person, but I suppose it's
+not very long for a village.
+!******************************!
+[t22_003_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:10>Quite so.
+!******************************!
+[t22_003_400.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:200>But this fact just invites more
+questions. Why did this settler
+come here in the first place?<W>
+!------------------------------!
+It's hard to believe he or she
+simply set forth from their old
+residence to found a new village...
+!******************************!
+[t22_004_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>I can't quite make sense of it.
+!******************************!
+[t22_010_100.gds]
+<01:00000039><03:10>b2 normal<03:5>NONE<01:00000002><03:77>Hey there, fellas! I'm in a real
+bind here. Help an old gal out,
+will you?
+!******************************!
+[t22_010_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:38>What seems to be the problem,
+madam?
+!******************************!
+[t22_010_300.gds]
+<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:141>My sweet little bird fell down
+a hole in the ground.<W>
+!------------------------------!
+I want to help the poor thing,
+but I just can't reach her. Do you
+have any ideas?
+!******************************!
+[t22_010_400.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:42>I believe there's something we
+can try. 
+!******************************!
+[t22_011_100.gds]
+<01:00000039><03:10>b2 normal<03:5>NONE<01:00000002><03:60>She's so close, but I can't reach
+her. Save my poor chick!
+!******************************!
+[t22_012_100.gds]
+<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:43>Boy, was I worried! Thanks for
+your help.
+!******************************!
+[t22_013_100.gds]
+<01:00000039><03:9>b1 smile<03:5>NONE<01:00000002><03:224>There's my little birdie!
+I was worried she'd be stuck down
+there forever.<W>
+!------------------------------!
+I wish I had some way of thanking
+you properly...<W>
+!------------------------------!
+Oh, I know! Here, you can have this
+tea set and these lovely herbs.
+Take 'em, I insist!
+!******************************!
+[t22_013_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:225>To access the tea set, touch the
+Trunk icon, then touch the Tea
+Set icon.<W>
+!------------------------------!
+The Tea Set allows you to mix and
+brew a variety of herbal teas.<W>
+!------------------------------!
+Add multiple measures of a herb
+to increase that herb's effect on
+the tea.
+!******************************!
+[t22_014_100.gds]
+<01:00000039><03:10>b2 normal<03:5>NONE<01:00000002><03:55>Please, you have to help me.
+I miss my little birdie!
+!******************************!
+[t22_030_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>We never did manage to meet
+Mr Anderson, did we?
+!******************************!
+[t22_030_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:84>Yes, what a pity. I had a feeling
+he'd provide us with a lead on
+the Elysian Box.
+!******************************!
+[t22_030_300.gds]
+<01:00000033><03:5>NONE<03:5>NONE<01:00000002><03:188>Hey there, fellows! I haven't seen
+you round these parts before.<W>
+!------------------------------!
+I heard you chatting about Mr
+Anderson and thought to myself,
+<3C>''<3E>Hey, I can help!<3C>''<3E>.<W>
+!------------------------------!
+Here, I'll point him out.
+!******************************!
+[t22_031_100.gds]
+<01:00000033><03:5>NONE<03:5>NONE<01:00000002><03:105>You listening?<W> Pay attention to
+what I tell you about Mr Anderson,
+and finding him will be a breeze.
+!******************************!
+[t22_032_100.gds]
+<01:00000033><03:5>NONE<03:5>NONE<01:00000002><03:98>Mr Anderson is a pillar of the
+community. He's made this village a
+place I'm glad to call home.
+!******************************!
+[t22_033_100.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:69>Good day, sir. I'm searching for one
+Mr Anderson. Might you be him?
+!******************************!
+[t22_033_1000.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:102>So she made efforts of her own to
+search for it?<W> Fascinating. Tell
+me, where might Sophia be now?
+!******************************!
+[t22_033_1100.gds]
+<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:190>She...she left us last year. In her
+last days, she spent a lot of time
+holed up in her room, writing.<W>
+!------------------------------!
+Sadly, I never found out why she
+was so intent on getting her hands
+on that box.
+!******************************!
+[t22_033_1200.gds]
+<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:32>I see. I'm sorry for your loss.
+!******************************!
+[t22_033_1300.gds]
+<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:180>Thank you. Well, my mother may
+have known something about the
+subject, but she's gone now.<W>
+!------------------------------!
+Now you know as much as I do.
+I regret that I couldn't be
+more help to you, sir. 
+!******************************!
+[t22_033_1400.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:96>Not at all, Mr Anderson. I've
+learned a great deal from our
+conversation. You have my thanks.
+!******************************!
+[t22_033_1500.gds]
+<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:73>Oh, one thing before you go,
+Mr Layton. Please take a look
+around you.
+!******************************!
+[t22_033_1600.gds]
+<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:351>These picturesque hills... These
+happy people. Dropstone has been
+blessed with so much.<W>
+!------------------------------!
+Sophia built this place from
+scratch into a village full of
+warmth and cameraderie.<W>
+!------------------------------!
+Dropstone must never be allowed
+to wither and die like so many
+other villages.<W>
+!------------------------------!
+After all, this place owes its
+current prosperity to the many
+sacrifices she made.
+!******************************!
+[t22_033_1700.gds]
+<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:141>Ah, forgive my ramblings. Once I
+start talking, I sometimes have
+trouble stopping.<W>
+!------------------------------!
+Enjoy your time in Dropstone and
+be well. Good day.
+!******************************!
+[t22_033_1800.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Hmm... Looks like that was another
+dead-end lead.
+!******************************!
+[t22_033_1900.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:311>Oh, I wouldn't say that, Luke.<W>
+!------------------------------!
+It would appear this village is
+inextricably linked to the
+Elysian Box.<W>
+!------------------------------!
+I also find Mr Anderson's choice of
+words interesting. I wonder what
+he meant by <3C>''<3E>sacrifices<3C>''<3E>.<W>
+!------------------------------!
+Well, that is something for us to
+ponder later. For now, let's make
+our way to the station.
+!******************************!
+[t22_033_200.gds]
+<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:81>The one and only, my friend! And
+with whom do I have the pleasure
+of speaking?
+!******************************!
+[t22_033_2000.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:22>All right, professor!
+!******************************!
+[t22_033_2100.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:160>I've often thought the same thing
+myself, Luke.<W>&setani 1 b2_smile&
+!------------------------------!
+Now, why don't we  make our
+way back to the station? It should
+be time to leave soon. 
+!******************************!
+[t22_033_300.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:200>The name is Hershel Layton. My
+friends and I have come to this fine
+place in search of the Elysian Box.<W>
+!------------------------------!
+I thought a man of influence such
+as yourself might be able to offer
+us some direction. 
+!******************************!
+[t22_033_400.gds]
+<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:88>The Elysian Box, you say?<W>
+Why would you want to go chasing
+after a thing like that?
+!******************************!
+[t22_033_500.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:36>I take it you are familiar with it?
+!******************************!
+[t22_033_600.gds]
+<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:183>Familiar? No. I've heard the
+rumours, of course, and I know it's
+referred to as Pandora's Box.<W>
+!------------------------------!
+I also believe my dear mother once
+searched for the very box of which
+you speak.
+!******************************!
+[t22_033_700.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:32>Interesting. Please, elaborate.
+!******************************!
+[t22_033_800.gds]
+<01:00000055><03:11>b1 normal2<03:5>NONE<01:00000002><03:208>Ah, well, my birth mother died
+when I was very young.<W>
+!------------------------------!
+The mother I speak of is actually
+my mother-in-law, Sophia.<W>
+!------------------------------!
+She founded this village way back
+when. The kindest soul I've ever
+met. Sharp, too.
+!******************************!
+[t22_033_900.gds]
+<01:00000055><03:10>b1 normal<03:5>NONE<01:00000002><03:261>I married into her family, but she
+treated me like her own flesh and
+blood.<W>
+!------------------------------!
+Since I never knew my own mother,
+I suppose it would be fair to call
+Sophia my real mother.<W>
+!------------------------------!
+Even after my wife passed away, 
+Sophia continued to treat me as
+one of her own.
+!******************************!
+[t22_033_950.gds]
+<01:00000055><03:8>b1 weep<03:10>b1 normal<01:00000002><03:94>Sophia looked high and low for that
+box, but she never could find what
+she was looking for.
+!******************************!
+[t22_034_100.gds]
+<01:00000033><03:5>NONE<03:5>NONE<01:00000002><03:102>You listening? Pay attention to
+what I tell you about Mr Anderson
+and finding him will be a breeze.
+!******************************!
+[t22_040_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:82>By the look of things here, the
+competition should get underway
+any minute now.
+!******************************!
+[t22_040_1000.gds]
+<01:00000011><03:5>NONE<03:5>NONE<01:00000001><03:86>I'm tellin' you, that ain't no cow
+of mine. My girl was perfect from
+horns to tail!
+!******************************!
+[t22_040_1100.gds]
+<01:00000030><03:5>NONE<03:5>NONE<01:00000002><03:158>See what I mean?<W> There's just no
+convincing him.<W>
+!------------------------------!
+We can't start the contest with him
+carrying on, but I don't know how
+we can clear the situation up.
+!******************************!
+[t22_040_1200.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:88>I'll take care of this!
+The cows are sure to know if any
+monkey business has gone on.
+!******************************!
+[t22_040_1300.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:82>Of course, why didn't I think of
+that myself? I'll leave this one
+to you, Luke.
+!******************************!
+[t22_040_1400.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:50>Um, excuse me, ladies, can you help
+us out here?
+!******************************!
+[t22_040_1500.gds]
+<01:00000012><03:5>NONE<03:5>NONE<01:00000002><03:14>Nrmoo? Moooo!
+!******************************!
+[t22_040_1600.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:7>I see.
+!******************************!
+[t22_040_1700.gds]
+<01:00000012><03:5>NONE<03:5>NONE<01:00000002><03:23>Mmmmoooooooo! Moo moo.
+!******************************!
+[t22_040_1800.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:34>Did you find out anything of use?
+!******************************!
+[t22_040_1900.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:87>I certainly did. If I had to sum
+up our conversation, it'd go
+something like this...
+!******************************!
+[t22_040_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:81>Uh-oh, Professor, I think those
+two men over there are rowing
+with each other.
+!******************************!
+[t22_040_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:51>I wonder what's got those two
+gentlemen so riled.
+!******************************!
+[t22_040_400.gds]
+<01:00000011><03:5>NONE<03:5>NONE<01:00000001><03:179>Just look at that mangy hide!
+Anyone with two eyes can see
+that's no bovine of mine!<W>
+!------------------------------!
+I know what's going on here.
+Someone's swapped my prize cow
+for this low-class heifer!
+!******************************!
+[t22_040_500.gds]
+<01:00000030><03:5>NONE<03:5>NONE<01:00000002><03:91>Well, what do you want me to do
+about it? Can you at least point
+out which cow is yours?
+!******************************!
+[t22_040_600.gds]
+<01:00000011><03:5>NONE<03:5>NONE<01:00000001><03:39>Now how do you expect me to do
+that? 
+!******************************!
+[t22_040_700.gds]
+<01:00000030><03:8>b2 weep<03:5>NONE<01:00000002><03:36>Oh dear. This is going to get ugly.
+!******************************!
+[t22_040_800.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:22>What's wrong, mister?
+!******************************!
+[t22_040_900.gds]
+<01:00000030><03:11>b1 normal2<03:5>NONE<01:00000002><03:83>This fella here seems convinced
+someone's swapped his prize cow
+for another cow.
+!******************************!
+[t22_041_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:26>OK, let's try this again!
+!******************************!
+[t22_043_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:140>It looks like these two ladies
+swapped places while waiting
+for the competition to start.<W>
+!------------------------------!
+Things should be all sorted out
+now though!
+!******************************!
+[t22_043_1000.gds]
+<01:00000030><03:5>NONE<03:5>NONE<01:00000002><03:98>You shouldn't have swapped your
+cow back, Clabber. If you'd kept
+quiet you'd be the winner, eh?
+!******************************!
+[t22_043_1100.gds]
+<01:00000011><03:9>b2 shout<03:5>NONE<01:00000001><03:81>I was robbed! Robbed! The
+competition must've been rigged.
+Rigged, I tell you!
+!******************************!
+[t22_043_1200.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:101>To think, he went through all that
+trouble to get his cow back, and
+ended up losing because of it.
+!******************************!
+[t22_043_1300.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:81>Yes, I suppose it goes to show that
+things don't always go as planned in
+life.
+!******************************!
+[t22_043_1400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:77>Right you are, Professor.<W> Say,
+shouldn't Mr Anderson be around
+here now?
+!******************************!
+[t22_043_1500.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:93>It's going to take some effort to
+find him in a crowd this dense.
+Let's look around a bit.
+!******************************!
+[t22_043_200.gds]
+<01:00000011><03:5>NONE<03:5>NONE<01:00000001><03:103>Oh, you betcha! Look at that build!
+That lustrous sheen! That soulful
+gaze! That's my cow, no doubt!
+!******************************!
+[t22_043_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:26>So everything's OK, then?
+!******************************!
+[t22_043_400.gds]
+<01:00000011><03:5>NONE<03:5>NONE<01:00000001><03:89>Better than OK, kid! With my darlin'
+back, I'm a shoo-in for that blue
+ribbon. Thanks!
+!******************************!
+[t22_043_500.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:52>Well, Luke, you certainly have a way
+with animals.
+!******************************!
+[t22_043_600.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:34>Aw, it's nothing really. Hee hee.
+!******************************!
+[t22_043_700.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:64>Look over here, you two. They're
+about to announce the winner.
+!******************************!
+[t22_043_800.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:65>And the winner of this year's
+Dropstone Dairy Crown is...<@W>6<@W>6
+!******************************!
+[t22_043_850.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:48>Oscar's show-stopping bovine
+beauty, Mootilda!
+!******************************!
+[t22_043_900.gds]
+<01:00000011><03:9>b3 angry<03:5>NONE<01:00000001><03:80>Hold on now! You mean to tell me
+my sweet Behemooth didn't take
+first place?!
+!******************************!
+[t22_044_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:26>Hmm... Nope, I'm stumped.
+!******************************!
+[t22_050_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:32>Look at this poster, Professor.
+!******************************!
+[t22_050_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>Yes, yes, it's quite lovely, Luke.
+Oh, but there's something quite
+odd about the picture.
+!******************************!
+[t22_050_300.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:35>Huh? What do you mean,
+Professor?
+!******************************!
+[t22_051_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:63>Let me see if I can find what's so
+strange about this poster.
+!******************************!
+[t22_052_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>I wonder if the artist who painted
+this ever noticed the mistake.
+!******************************!
+[t22_053_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:56>I knew there was something strange
+about that picture!
+!******************************!
+[t22_054_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:57>Hmm... I'm not sure I see
+anything out of the ordinary.
+!******************************!
+[t22_060_100.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:46>Look at all the fruits and veg
+on this cart.
+!******************************!
+[t22_060_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:62>It probably belongs to the person
+running that little stand.
+!******************************!
+[t22_060_300.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:90>Oh, but it looks like one of
+the wheels is dented. That must
+make it difficult to move.
+!******************************!
+[t22_060_400.gds]
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:30>Yeah, I bet it's a real pain.
+!******************************!
+[t22_060_500.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:71>Oh, but you know, that reminds me
+of a puzzle about a dented wheel...
+!******************************!
+[t22_061_100.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:31>So, about that dented wheel...
+!******************************!
+[t22_062_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:73>There are so many things on this
+cart, it must be hard to push
+around!
+!******************************!
+[t22_063_100.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:59>That's right, Luke! You sure
+worked that one out quickly.
+!******************************!
+[t22_063_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:132>If you've got any more puzzles,
+I've got answers!<W>
+!------------------------------!
+I'm impressed you knew a puzzle
+like that. I'd never heard that
+one before.
+!******************************!
+[t22_063_300.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:53>Well, I try my best to impress
+the professor! Hehe.
+!******************************!
+[t22_064_100.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:52>Don't worry. You can come back
+and solve it later.
+!******************************!
+[t22_070_100.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:31>What are all these arrows for?
+!******************************!
+[t22_070_200.gds]
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:28>Oh, it's a fairground game.
+!******************************!
+[t22_070_300.gds]
+<01:00000010><03:5>NONE<03:5>NONE<01:00000001><03:140>Hey there, squirts. Try your hand
+at this game of mine?<W>
+!------------------------------!
+I tell you what, since business is
+so slow right now, the first try is
+on me.
+!******************************!
+[t22_070_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:59>Gosh, really mister? Come on,
+Flora, we can try together!
+!******************************!
+[t22_071_100.gds]
+<01:00000010><03:5>NONE<03:5>NONE<01:00000001><03:67>Well, if it isn't my little
+friends. Back to play again,
+are we?
+!******************************!
+[t22_072_100.gds]
+<01:00000010><03:5>NONE<03:5>NONE<01:00000001><03:128>Festivals like this are a
+time to let your hair down.<W>
+!------------------------------!
+Believe me, if you're not having
+fun now, you'll regret it tomorrow!
+!******************************!
+[t22_073_100.gds]
+<01:00000010><03:5>NONE<03:5>NONE<01:00000001><03:76>Nicely done, shorty. Here's a
+little something for that
+fine performance.
+!******************************!
+[t22_073_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:25>Really? Gosh, thank you!
+!******************************!
+[t22_074_100.gds]
+<01:00000010><03:5>NONE<03:5>NONE<01:00000001><03:85>Aww, come  now. As long as I'm
+running this stall, playing won't
+cost you a penny.
+!******************************!
+[t22_080_100.gds]
+<01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:137>Oh dear, I forgot to get apples
+for tonight's meal.<W>
+!------------------------------!
+Say, that reminds me of a
+puzzle I once heard. Would
+you care to hear it, sir?
+!******************************!
+[t22_081_100.gds]
+<01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:50>Oh, back to try that one
+about the apples again?
+!******************************!
+[t22_082_100.gds]
+<01:00000016><03:9>b1 smile<03:5>NONE<01:00000003><03:152>I do so enjoy your company,
+Professor Layton.<W>
+!------------------------------!
+Tell me, if the Molentary Express
+couldn't be repaired, would you
+ever consider settling down here?
+!******************************!
+[t22_083_100.gds]
+<01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:85>That's the answer all right.
+So, where will you be heading
+next, Professor Layton?
+!******************************!
+[t22_083_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:73>Once our train is in working order,
+we'll be moving onto the next town.
+!******************************!
+[t22_083_300.gds]
+<01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:225>Oh, then I expect you'll run into
+the young mistress. She's leaving
+on the Molentary Express today.<W>
+!------------------------------!
+Should you bump into her, do
+say hello.<W>
+!------------------------------!
+Oh, and remember, please keep
+Miss Katia's trip a secret
+from the master.
+!******************************!
+[t22_084_100.gds]
+<01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:82>Do you mean to tell me this puzzle
+is beyond you?<W> How terribly
+disappointing.
+!******************************!
+[t22_090_100.gds]
+<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:256>Oh, hello there, you two. Your
+timing is impeccable.<W>
+!------------------------------!
+See, I'm trying to wrap this
+flower I grew to give to a friend.<W>
+!------------------------------!
+I've got green fingers when it
+comes to plants, but I'm all thumbs
+when it comes to wrapping.<W>
+!------------------------------!
+Help an old gal out, would you?
+!******************************!
+[t22_091_100.gds]
+<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:54>Oh, do you want to help me
+wrap these pesky flowers?
+!******************************!
+[t22_092_100.gds]
+<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:197>Now that my bud looks all smart,
+I'm going to take it over to
+Mr Anderson to cheer him up.<W>
+!------------------------------!
+I hear his daughter's been keeping
+some big secrets from him and
+it's made the poor man heartsick.
+!******************************!
+[t22_093_100.gds]
+<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:91>Well, that's about the finest
+wrapping job I've ever seen. You
+saved me a world of pain.
+!******************************!
+[t22_093_200.gds]
+<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:249>Now let me return the favour
+with a few helpful titbits
+about that tea set I gave you.<W>
+!------------------------------!
+I'm sure you know the basics
+of brewing, yes?<W>
+!------------------------------!
+Put in one measure of each of the
+three ingredients I gave you to make
+a nice cup of Citrus Classic tea.
+!******************************!
+[t22_093_300.gds]
+<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:403>However, there's a lot of room
+for experimentation.<W>
+!------------------------------!
+For example, try brewing two
+parts Brisk Berry with one part
+something else.<W>
+!------------------------------!
+Get it right and you'll make a
+sweet, crisp tea that is just
+wonderful. <W>
+!------------------------------!
+If you happen to pick up any
+other tea herbs, try creating
+more blends of your own.<W>
+!------------------------------!
+There's a whole world of complex
+flavours waiting to be discovered.
+You just need to find them.
+!******************************!
+[t22_094_100.gds]
+<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:100>My, it seems that you're all
+thumbs too! Here, give it back.
+I'll try and take care of it myself.
+!******************************!
+[t22_100_100.gds]
+<01:00000036><03:5>NONE<03:5>NONE<01:00000002><03:48>Urgh!<W> Hurgh!<W> Phew!<W>
+That should to do it.
+!******************************!
+[t22_100_200.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:48>Good afternoon. What are you
+doing there, sir?
+!******************************!
+[t22_100_300.gds]
+<01:00000036><03:10>b1 normal<03:5>NONE<01:00000002><03:62>Me? Oh, I'm just doing a little
+fishing in this here lake.
+
+!******************************!
+[t22_100_400.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:52>Sounds like a lot of work.
+Have you had much luck?
+!******************************!
+[t22_100_500.gds]
+<01:00000036><03:5>NONE<03:5>NONE<01:00000002><03:105>Actually, that's a good question.<W>
+Now that I think about it, how many
+have I managed to catch today?
+!******************************!
+[t22_101_100.gds]
+<01:00000036><03:5>NONE<03:5>NONE<01:00000002><03:87>Want to see me catch some fish?<W>
+OK, prepare to have your socks
+knocked off, kiddo!
+!******************************!
+[t22_102_100.gds]
+<01:00000036><03:5>NONE<03:5>NONE<01:00000002><03:153>The fish here are so tasty
+because the water is as pure
+as can be.<W>
+!------------------------------!
+If I keep catching fish at this rate,
+I'm set for breakfast, lunch and
+dinner!
+!******************************!
+[t22_103_100.gds]
+<01:00000036><03:5>NONE<03:5>NONE<01:00000002><03:52>Woo hoo! What a haul! Tonight I
+feast like a king!
+!******************************!
+[t22_104_100.gds]
+<01:00000036><03:5>NONE<03:5>NONE<01:00000002><03:31>What's wrong? Don't like fish?
+!******************************!
+[t22_110_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:62>Look at this crazy-looking
+tree, Professor. It's all warped.
+!******************************!
+[t22_110_200.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:174>With a structure like that, it must
+be quite old. I wonder how long
+it's been here.<W>
+!------------------------------!
+Oh, Luke, our little conversation
+reminded me of a puzzle I know.
+Care to hear it?
+!******************************!
+[t22_110_300.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:9>Why not!
+!******************************!
+[t22_111_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>Let's take another look at that
+tree puzzle.
+!******************************!
+[t22_112_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:75>Dropstone's natural beauty is
+really a thing of wonder, don't you
+think?
+!******************************!
+[t22_113_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:174>Perhaps I should have prepared
+something a bit more challenging
+for you, Luke.<W>
+!------------------------------!
+Well, we'll save that for next
+time. For now let's continue
+our walk about the village.
+!******************************!
+[t22_114_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>Think carefully about the
+information and you'll find your
+way to the answer soon enough.
+!******************************!
+[t22_120_100.gds]
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:320>Hey there, good seeing you again.<W>
+!------------------------------!
+Tell me, how's the festival
+treating you?<W> Make sure you
+enjoy it all while you can, eh?<W>
+!------------------------------!
+Truth is, I'd like to be out
+there having fun with you, but
+I've got post to deliver.<W>
+!------------------------------!
+The directions I received for my
+deliveries were a bit vague,
+though. Maybe you could help me?
+!******************************!
+[t22_121_100.gds]
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:69>I really need to know where to
+deliver all this stuff. Please help!
+!******************************!
+[t22_122_100.gds]
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:59>I should go now. The post won't
+deliver itself, you know.
+!******************************!
+[t22_123_100.gds]
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:92>Ah, now I understand. Right, I'd
+better get moving. No rest for
+the postman and all that.
+!******************************!
+[t22_124_100.gds]
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:61>Sorry to waste your time when
+you could be at the festival.
+!******************************!
+[t22_130_100.gds]
+<01:00000040><03:5>NONE<03:5>NONE<01:00000002><03:489>Gracious, the weather couldn't be
+finer for celebrating Dropstone's
+fancy 50th.<W>
+!------------------------------!
+My memory's not what it used to be,
+but you're not from around here,
+are you? Waiting for the train?<W>
+!------------------------------!
+How do I know, you ask?<W>
+!------------------------------!
+Well, this isn't the first time it's
+happened. As fancy as that train
+is, it must be in rotten shape.<W>
+!------------------------------!
+Chin up, sonny. More often than
+not, the train gets fixed in a few
+hours.<W>
+!------------------------------!
+What with the festival and all,
+there's plenty to see and do here
+in the meantime.
+!******************************!
+[t22_130_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:180>Thank you for the information.<W>
+!------------------------------!
+If I could trouble you for a moment,
+though, I'd like to ask about
+a relic known as the Elysian Box.<W>
+!------------------------------!
+You may also know it as
+Pandora's Box.
+!******************************!
+[t22_130_300.gds]
+<01:00000040><03:8>b2 weep<03:5>NONE<01:00000002><03:103>Oh, dear me!<W>
+!------------------------------!
+Ahem. I mean, oh dear me, I've
+never heard of the dreadful
+thing.<W> Never, you hear?
+!******************************!
+[t22_130_400.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:4>Hm?
+!******************************!
+[t22_130_500.gds]
+<01:00000040><03:11>b1 normal2<03:5>NONE<01:00000002><03:246>Hmph, well, I'm not sure if I
+want to talk to you any more.<W>
+!------------------------------!
+To be frank, I was in high spirits
+till you came along. Now I'm
+grumpier than a cat in the rain.<W>
+!------------------------------!
+If you want to prove you're sorry
+for ruining my day, solve this here
+puzzle.
+!******************************!
+[t22_131_100.gds]
+<01:00000040><03:5>NONE<03:5>NONE<01:00000002><03:111>Oh, ready to take another swing at
+that puzzle?<W>
+!------------------------------!
+Good. That's the kind of attitude
+that'll get you places.
+!******************************!
+[t22_132_100.gds]
+<01:00000040><03:5>NONE<03:5>NONE<01:00000002><03:190>Listen, for your own sake, don't
+go around spouting off about the
+you-know-what box.<W>
+!------------------------------!
+Bringing that topic up in the wrong
+places could get you a lot of
+ugly looks. And who wants that?
+!******************************!
+[t22_133_100.gds]
+<01:00000040><03:5>NONE<03:5>NONE<01:00000002><03:130>That's the ticket! Very nice.<W>
+!------------------------------!
+You've got a good head on those
+shoulders, sonny.<W> Mind you,
+you'd need one to wear that hat.
+!******************************!
+[t22_134_100.gds]
+<01:00000040><03:11>b1 normal2<03:5>NONE<01:00000002><03:183>Phooey! This is what's wrong
+with young people these days.
+They don't think.<W>
+!------------------------------!
+They can't even solve a simple
+puzzle like this one. Try again when
+you've found your grey matter.
+!******************************!
+[t22_140_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:25>What a cute little farm.
+!******************************!
+[t22_140_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:198>Yes, and the weather is so nice
+that even the animals grazing in
+the field seem to be in a good mood.<W>
+!------------------------------!
+Hmm, this seems like the perfect
+time for a quick puzzle. See if
+you can solve this one.
+!******************************!
+[t22_141_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:53>Give that puzzle about the four
+horses another try.
+!******************************!
+[t22_142_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:76>Were I to venture a guess, I'd say
+this farm also belongs to
+Mr Anderson.
+!******************************!
+[t22_143_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:73>The animals out on the farm look
+like they're really enjoying the
+sun.
+!******************************!
+[t22_143_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>Of course, Luke. Animals enjoy
+nature's glory as much as you
+and I do, if not more so. 
+!******************************!
+[t22_144_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:59>Give it a little more thought
+and we can try again later.
+!******************************!
+[t22_150_100.gds]
+<01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:176>You ever heard the old saying
+<3C>''<3E>the clothes maketh the man?<3C>''<3E><W>
+!------------------------------!
+Well, from the look of your duds, I'd
+say you've got your act together,
+so try this puzzle on for size.
+!******************************!
+[t22_151_100.gds]
+<01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:83>Will solving this puzzle make
+you more fashionable?<W> In my book,
+it just might!
+!******************************!
+[t22_152_100.gds]
+<01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:125>Yeah, I'm just about the slickest
+dresser in all of Dropstone.<W>
+!------------------------------!
+See this hat? No one else can pull
+off a look this edgy.
+!******************************!
+[t22_153_100.gds]
+<01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:260>Shirts and trousers that don't
+match are the epitome of tacky.
+That's fashion rule number one.<W>
+!------------------------------!
+Rule number two?<W> No one can pull
+off sequins.<W>
+!------------------------------!
+But with that swish suit of yours,
+you're golden. No swanky nightclub
+will turn you away. I guarantee it!
+!******************************!
+[t22_154_100.gds]
+<01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:80>Giving up already?<W> Now that's one
+attitude that's always out of
+style, man.
+!******************************!
+[t22_160_100.gds]
+<01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:728>This whole festival's being put on
+by the Andersons, the wealthiest
+family in the village.<W>
+!------------------------------!
+As you're new here, let me fill
+you in on that family.<W>
+!------------------------------!
+The Andersons live in the mansion
+at the north end of town. Makes
+you turn green with envy, eh?<W>
+!------------------------------!
+Anyway, Mr Anderson has a young
+daughter who's grown up to become
+quite a beautiful young lady.<W>
+!------------------------------!
+Her name is Katia and she's the
+most unusual combination of
+both beautiful and sweet.<W>
+!------------------------------!
+Plus, I hear she's very respectful
+towards her father, unlike most
+youngsters.<W>
+!------------------------------!
+The only thing kids these days love
+more than talking back to their
+parents are those baggy jeans!<W>
+!------------------------------!
+Oh, sorry, I do believe I've gone
+off on a bit of a rant. Did you need
+something from me?
+!******************************!
+[t22_160_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:98>Actually, yes. Tell me, madam, 
+have you ever heard of a rare
+antique known as the Elysian Box?
+!******************************!
+[t22_160_300.gds]
+<01:00000032><03:10>b2 notalk<03:5>NONE<01:00000003><03:8>Hmmm...
+!******************************!
+[t22_160_400.gds]
+<01:00000032><03:10>b2 angry2<03:5>NONE<01:00000003><03:185>That name's new to me, hmmm...
+I can't help you at all, so will you
+leave me alone now?<W>
+!------------------------------!
+Oh, but you know, you did just
+remind me of a gem of a puzzle
+I know that concerns a box.
+!******************************!
+[t22_161_100.gds]
+<01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:69>You know, you don't have to solve
+this puzzle if you don't want to.
+!******************************!
+[t22_162_100.gds]
+<01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:99>What? I thought we'd finished
+talking. If you've nothing else
+to say, I'd like to be left alone.
+!******************************!
+[t22_163_100.gds]
+<01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:206>Well, hang me on the washing line
+and call me a bath mat, I never
+thought you'd solve that one.<W>
+!------------------------------!
+You seem like a nice man, so I'll be
+straight with you. I wouldn't talk
+about that box in these parts.
+!******************************!
+[t22_163_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:9>But why?
+!******************************!
+[t22_163_300.gds]
+<01:00000032><03:10>b2 angry2<03:5>NONE<01:00000003><03:86>Well, it's complicated. Now, I've
+given you my advice, so smarten up
+and follow it.
+!******************************!
+[t22_164_100.gds]
+<01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:93>You know, if you don't want to
+solve the puzzle, you don't have to
+pretend that you can't.
+!******************************!
+[t22_170_100.gds]
+<01:00000038><03:5>NONE<03:5>NONE<01:00000002><03:186>Can you believe this weather?
+It really is the perfect day for
+a festival.<W>
+!------------------------------!
+The sunshine has me in such a good
+mood, I'm gonna go ahead and tell
+you a puzzle I've had tucked away.
+!******************************!
+[t22_171_100.gds]
+<01:00000038><03:5>NONE<03:5>NONE<01:00000002><03:47>Heya, back for a second helping of
+my puzzle?
+!******************************!
+[t22_172_100.gds]
+<01:00000038><03:5>NONE<03:5>NONE<01:00000002><03:83>Sometimes I think about how full
+of mystery the world is...and it
+blows my mind.
+!******************************!
+[t22_173_100.gds]
+<01:00000038><03:5>NONE<03:5>NONE<01:00000002><03:344>Cripes, you just breezed through
+my best puzzle. I didn't see that
+coming.<W>
+!------------------------------!
+While we're talking puzzles, have
+you ever heard about that
+mysterious puzzle-collecting lady?<W>
+!------------------------------!
+I hear she gathers and stores all
+the lost puzzles of the world.<W>
+!------------------------------!
+How she does it is a conundrum
+wrapped in an enigma-stuffed
+mystery. Y'know, a mystenigdrum.
+!******************************!
+[t22_174_100.gds]
+<01:00000038><03:5>NONE<03:5>NONE<01:00000002><03:93>Don't tell me you're going to
+leave this one unsolved. I broke
+out my best puzzle for you!
+!******************************!
+[t22_180_100.gds]
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:209>Boy oh boy, I'm in a tight spot. I
+wanted to make a clean cut in this
+board, but I botched it right up.<W>
+!------------------------------!
+It's pretty much useless as it is.
+Can you think of a way to turn
+the pieces into a solid square?
+!******************************!
+[t22_181_100.gds]
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:95>I've been waiting for you to come
+back. You are going to help me fix
+this board, aren't you?
+!******************************!
+[t22_182_100.gds]
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:102>My husband does the cooking and I
+handle the hard labour.<W> No bother
+for a strapping lass like me!
+!******************************!
+[t22_183_100.gds]
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:92>Woo hoo, that so did the trick!
+Thanks! Now I can finally get back
+to building that shed.
+!******************************!
+[t22_184_100.gds]
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:57>Are you saying you won't help a
+woodworker in distress?
+!******************************!
+[t22_190_100.gds]
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:102>Oh, hi there. I've got another
+board problem on my hands. Here's
+the shape I'm going for this time.
+!******************************!
+[t22_191_100.gds]
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:99>Thank goodness you're back.
+I really don't think I'll ever solve
+this problem without your help.
+!******************************!
+[t22_192_100.gds]
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:135>Sheds are great because you can
+just throw all your stuff in there
+willy-nilly and forget about it!<W>
+!------------------------------!
+Thanks so much for your help!
+!******************************!
+[t22_193_100.gds]
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:136>You're really something else!<W>
+Something amazing!<W>
+!------------------------------!
+I thought I'd have to scrap this
+board, but now I can use it to build
+my shed.
+!******************************!
+[t22_194_100.gds]
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:78>So, what you're saying is that
+you're just going to watch me
+flounder here?
+!******************************!
+[t22_200_100.gds]
+<01:0000003E><03:5>NONE<03:5>NONE<01:00000002><03:47>Zzzzzzzz... Sneeerk! Myaaa...
+Nyum nyum nyum.
+!******************************!
+[t22_200_200.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:64>Um, Professor? I think this chap
+here fell asleep standing up!
+!******************************!
+[t22_200_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:107>Judging by his uniform, he must be
+a security guard. I certainly don't
+approve of sleeping on the job...
+!******************************!
+[t22_200_400.gds]
+<01:0000003E><03:5>NONE<03:5>NONE<01:00000002><03:91>Zzz... Perimeter is secuuure...
+Please confirm identity by
+solving this puzzle... Snork!
+!******************************!
+[t22_201_100.gds]
+<01:0000003E><03:5>NONE<03:5>NONE<01:00000002><03:73>Zzzz... Nyum nyum nyum! Can I ask
+you...to solve this puzzle?
+Snooore.
+!******************************!
+[t22_202_100.gds]
+<01:0000003E><03:5>NONE<03:5>NONE<01:00000002><03:71>Zzzz... The area is secure, sir...
+Five more minutes please... Zzz...
+!******************************!
+[t22_203_100.gds]
+<01:0000003E><03:5>NONE<03:5>NONE<01:00000002><03:70>Correct answer confiiiiirmed...
+Zzzzzz... Well done, sir... Snooore.
+!******************************!
+[t22_203_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:107>He must be hopelessly addicted to
+puzzles if he's talking about them
+in his sleep. Even I don't do that!
+!******************************!
+[t22_203_300.gds]
+<01:0000003E><03:5>NONE<03:5>NONE<01:00000002><03:23>Nyum nyum... Zzzzzz...
+!******************************!
+[t22_204_100.gds]
+<01:0000003E><03:5>NONE<03:5>NONE<01:00000002><03:76>Please return later to solve
+puzzle and confirm identity...
+Snoooooore...
+!******************************!
+[t22_210_100.gds]
+<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:332>Hey there! I'm a world traveller,
+but I'm stuck here until I can score
+a ticket on the Molentary Express.<W>
+!------------------------------!
+I was hoping for a freebie, so
+I told Mr Beluga one of my puzzles
+to break the ice.<W>
+!------------------------------!
+Unfortunately for me, he got all
+hot under the collar when he
+couldn't solve it.<W>
+!------------------------------!
+Here, maybe you'll have better
+luck with it.
+!******************************!
+[t22_211_100.gds]
+<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:55>If you're here to try this puzzle
+again, be my guest.
+!******************************!
+[t22_212_100.gds]
+<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:168>Yep, a ride on the Molentary
+Express costs more money than I
+can scrape together.<W>
+!------------------------------!
+See, I'm a rambling man.<W> If only I
+could afford to ramble by luxury
+train...
+!******************************!
+[t22_213_100.gds]
+<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:280>You're a clever lot, aren't you? <W>
+!------------------------------!
+With people like you around, maybe
+we might actually solve the
+mystery of the Molentary Express.<W>
+!------------------------------!
+People say that the train
+occasionally makes a stop at a
+phantom town found on no map.<W>
+!------------------------------!
+Could just be a wild rumour,
+though. Who knows?
+!******************************!
+[t22_213_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>An uncharted town?! Wow, I wonder
+if that's true!
+!******************************!
+[t22_214_100.gds]
+<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:57>What do you think?<W> It's a real gem
+of a puzzle, yeah?
+!******************************!
+[t22_220_100.gds]
+<01:0000003C><03:5>NONE<03:5>NONE<01:00000003><03:113>Eenie meenie minie moe...
+Gosh, I just can't decide!<W>
+!------------------------------!
+Oh, hi there. Do you, um, need
+something or something?
+!******************************!
+[t22_220_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:97>We are currently in search of an
+item known as the Elysian Box.
+Does that name ring any bells?
+!******************************!
+[t22_220_300.gds]
+<01:0000003C><03:5>NONE<03:5>NONE<01:00000003><03:102>The Elysian Box? Nope, never
+heard of it.<W> But I do know a great
+puzzle about a box! Check it out!
+!******************************!
+[t22_221_100.gds]
+<01:0000003C><03:5>NONE<03:5>NONE<01:00000003><03:106>Oh hey, it's you again. I can tell
+by the look on your face that you
+want to try that box puzzle again!
+!******************************!
+[t22_222_100.gds]
+<01:0000003C><03:5>NONE<03:5>NONE<01:00000003><03:61>Like I said before, I've never
+heard of your silly box, OK?
+!******************************!
+[t22_223_100.gds]
+<01:0000003C><03:5>NONE<03:5>NONE<01:00000003><03:97>Jeepers, you must be some kind
+of puzzle genius!<W> Oh, right, what
+did you want to know again?
+!******************************!
+[t22_223_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:67>I was wondering if you might know
+anything about the Elysian Box.
+!******************************!
+[t22_223_300.gds]
+<01:0000003C><03:9>b1 smile<03:5>NONE<01:00000003><03:102>Let's see... Let's see...<W> Nope, I
+haven't got a clue. If I were you,
+I'd try asking someone else.
+!******************************!
+[t22_223_400.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:9>I see...
+!******************************!
+[t22_224_100.gds]
+<01:0000003C><03:5>NONE<03:5>NONE<01:00000003><03:102>Hey, what gives? I thought you
+said you wanted to solve my puzzle.
+You know, the one about the box?
+!******************************!
+[t22_230_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:62>If I'm not mistaken, this building
+must be the village hall.
+!******************************!
+[t22_230_200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:49>Yup, but it looks like it's closed
+for the day.
+!******************************!
+[t22_230_300.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:192>Well, they probably wanted to give
+everyone a chance to enjoy
+today's festivities.<W>
+!------------------------------!
+Luke, this reminds me of a puzzle
+set in front of a village hall like
+this one. Care to give it a go?
+!******************************!
+[t22_230_400.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:26>You know I do, Professor!
+!******************************!
+[t22_231_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:45>Here's the puzzle about the
+election, Luke.
+!******************************!
+[t22_232_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:102>I'd hoped to ask a few questions at
+the village hall, but since it's
+closed, we'll have to give up.
+!******************************!
+[t22_233_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Well done. Now, we really should
+get back to investigating the
+village.
+!******************************!
+[t22_234_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>Giving up so soon, my boy? Pity.
+!******************************!
+[t22_240_100.gds]
+<01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:105>What, you're still here? Hound me
+all you like, but all you'll get for
+your trouble is another puzzle!
+!******************************!
+[t22_241_100.gds]
+<01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:95>You know, you're not obligated
+to solve my puzzle. Feel free
+to walk away whenever you like.
+!******************************!
+[t22_242_100.gds]
+<01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:95>I gave you a puzzle because I felt
+like it and that's it. Don't go
+reading too much into it.
+!******************************!
+[t22_243_100.gds]
+<01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:175>Don't think you're hot stuff just
+because you solved some piffling
+puzzle.<W>
+!------------------------------!
+Still, watching you twist your brain
+for the answer was fun in its own
+way. Nice work there!
+!******************************!
+[t22_244_100.gds]
+<01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:53>I know my puzzles are tricky, but
+did you even try?
+!******************************!
+[t22_250_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>This cat sculpture certainly
+is...expressive.
+!******************************!
+[t22_250_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:91>Yep, he's a cute one. Oh, if you
+like cats, Professor, I've got just
+the puzzle for you!
+!******************************!
+[t22_251_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:64>So, you're going to give my cat
+puzzle another try, Professor?
+!******************************!
+[t22_252_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>That sculpture really is cute. I
+just love cats.
+!******************************!
+[t22_253_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:33>You always make it look so easy!
+!******************************!
+[t22_254_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Aw, you're really giving up on
+my puzzle?
+!******************************!
+[t22_260_100.gds]
+<01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:204>What are you bugging me for?<W> Don't
+just come up to me and start
+talking like you know me, OK?<W>
+!------------------------------!
+I was dreaming up the world's most
+amazing hat, but you came along
+and derailed my train of thought!
+!******************************!
+[t22_260_200.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:35>Oh, I did?<W> I'm sorry about that.
+!******************************!
+[t22_260_300.gds]
+<01:0000003A><03:10>b1 normal<03:5>NONE<01:00000002><03:102>Sorry, are you?<W> Well, don't just
+say it, prove it!<W> By solving this
+amazing puzzle I thought up.
+!******************************!
+[t22_261_100.gds]
+<01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:97>Solve this puzzle and I'll forget
+about you ruining the conversation
+I was having with myself.
+!******************************!
+[t22_262_100.gds]
+<01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:103>That's a pretty swish hat you've
+got there, sunshine. It gets my
+seal of approval.<W> But only just! 
+!******************************!
+[t22_263_100.gds]
+<01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:186>Oh, so that's how it works.
+OK, since you solved that for
+me, you're back in my good books.<W>
+!------------------------------!
+Besides, two snappy dressers like
+us shouldn't fight - we'd get our
+clothes all dirty.
+!******************************!
+[t22_264_100.gds]
+<01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:103>First you interrupt my internal
+monologue, then you don't solve my
+puzzle. Talk about disappointing!
+!******************************!
+[t22_270_100.gds]
+<01:0000003D><03:5>NONE<03:5>NONE<01:00000003><03:301>Hey, fellows, pleasure to meet you.
+My name's Albert, and I am beautiful
+Dropstone's number one fan.<W>
+!------------------------------!
+I heard you've been running around
+Dropstone asking questions, but
+you haven't talked to me yet!<W>
+!------------------------------!
+If you solve this puzzle then I,
+the king of Dropstone trivia, will
+answer your questions.
+!******************************!
+[t22_271_100.gds]
+<01:0000003D><03:5>NONE<03:5>NONE<01:00000003><03:43>Ready to try again? All right,
+here goes!
+!******************************!
+[t22_272_100.gds]
+<01:0000003D><03:5>NONE<03:5>NONE<01:00000003><03:191>For some reason, all the old-timers
+here are really cagey about the
+origins of Dropstone.<W>
+!------------------------------!
+I've got a hunch that something
+strange must've happened here
+before the village was founded.
+!******************************!
+[t22_273_100.gds]
+<01:0000003D><03:5>NONE<03:5>NONE<01:00000003><03:151>Expertly solved! Oh, it gave me
+chills, it really did!<W>
+!------------------------------!
+OK, ask away. If you've got any
+questions about the village or
+its history, I'm your man.
+!******************************!
+[t22_273_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:173>It's slightly off topic, but do you
+know anything about a relic known
+as the Elysian Box?<W>
+!------------------------------!
+You may have heard people
+referring to it as <3C>''<3E>Pandora's
+Box<3C>''<3E> as well.
+!******************************!
+[t22_273_300.gds]
+<01:0000003D><03:5>NONE<03:5>NONE<01:00000003><03:418>Hm, it's hard to believe, but you've
+gone beyond my area of expertise.
+I've never heard of the thing.<W>
+!------------------------------!
+What I can tell you is that older
+people in this village jump at the
+very mention of the supernatural.<W>
+!------------------------------!
+From what I gather, it seems they
+have some connection to the
+village in the days of its founding.<W>
+!------------------------------!
+Unfortunately, that's all the info I
+can really give you on that
+subject. Sorry to let you down.
+!******************************!
+[t22_274_100.gds]
+<01:0000003D><03:9>b1 smile<03:5>NONE<01:00000003><03:75>What, you don't have any interest
+in finding out more about the
+village?
+!******************************!
+[t22_280_100.gds]
+<01:00000040><03:5>NONE<03:5>NONE<01:00000002><03:484>I must admit, I was sceptical at
+first, but you really know how
+to communicate with those cows.<W>
+!------------------------------!
+Everyone's been busting their buns
+to get Dropstone ready for
+today's festivities.<W>
+!------------------------------!
+Thank goodness you saved the day.
+It would've been a mess if that spat
+back there ruined the celebration.<W>
+!------------------------------!
+Yep, everyone's been working like
+mad. I spent all day yesterday
+making flags.<W>
+!------------------------------!
+I helped put them up, too, and
+while I worked, I thought up a
+puzzle. You want to hear it, right?
+!******************************!
+[t22_281_100.gds]
+<01:00000040><03:5>NONE<03:5>NONE<01:00000002><03:34>Here's a genuine Kostya original!
+!******************************!
+[t22_282_100.gds]
+<01:00000040><03:5>NONE<03:5>NONE<01:00000002><03:82>I'm so relieved you came by
+and saved the contest from
+turning into a punch-up.
+!******************************!
+[t22_283_100.gds]
+<01:00000040><03:5>NONE<03:5>NONE<01:00000002><03:87>Pretty good, right?<W> I may be
+getting older, but I can still
+cook up a mean puzzle!
+!******************************!
+[t22_284_100.gds]
+<01:00000040><03:5>NONE<03:5>NONE<01:00000002><03:56>Oh, come on now! You can't leave
+this beauty unsolved.
+!******************************!
+[t22_290_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:174>How's that festival treating you,
+dudes?<W> Pretty righteous, huh!<W>
+!------------------------------!
+This train isn't ready to move quite
+yet, so while you're waiting, I'll lay
+this sweet puzzle on you.
+!******************************!
+[t22_291_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:88>Whazzat? You don't wanna go back
+to your room till you've solved my
+puzzle? Right on.
+!******************************!
+[t22_292_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:72>We're about ready to get going, so
+hurry back to your seats, will ya? 
+!******************************!
+[t22_293_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:84>Way to rock it! Now, get back
+to your seats, 'cause we're just
+about ready to go.
+!******************************!
+[t22_294_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:79>Don't let this puzzle get you down,
+dudes. Come back and try again
+sometime.
+!******************************!

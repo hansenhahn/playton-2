@@ -1,0 +1,1234 @@
+[t30_000_100.gds]
+<01:00000022><03:9>b2 smile<03:5>NONE<01:00000001><03:61>Keh heh heh! Now there's a couple of mugs I've seen before!
+!******************************!
+[t30_000_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:17>Hey, I know you!
+!******************************!
+[t30_000_300.gds]
+<01:00000022><03:5>NONE<03:5>NONE<01:00000001><03:203>And I know fate, 'cause that's what brought you, me and that swanky tea set of yours together.<W>
+!------------------------------!
+Now that we're all reunited, I say we celebrate with a cup of tea. Brew me something nice, would ya?
+!******************************!
+[t30_000_400.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:33>You want us to make tea for you?
+!******************************!
+[t30_000_500.gds]
+<01:00000022><03:5>NONE<03:5>NONE<01:00000001><03:286>That's right, whippersnapper, but nothing fancy. A cup of Citrus Classic will do the trick.<W>
+!------------------------------!
+It's so easy to make, even a baby could do it.<W> A baby with a magic tea set, that is.<W>
+!------------------------------!
+Anyhoo, all you need is some Oasis Leaf, a little Brisk Berry and a sprinkle of Citronia Seed.
+!******************************!
+[t30_001_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Fantabulous! A smile spreads across Stachenscarfen's face. He seems restored and cheerful.
+!******************************!
+[t30_001_100.gds]
+<01:00000022><03:9>b2 smile<03:5>NONE<01:00000001><03:396>Keh heh heh. Not a bad cup of tea you make, shorty.<W>
+!------------------------------!
+Of course, you couldn't have pulled it off without my expert direction, so don't get cocky.<W>
+!------------------------------!
+You know, this town is filled with thirsty folks.<W>
+!------------------------------!
+You've got the tea set, so the way I see it, it's your responsibility to help people!<W>
+!------------------------------!
+If you manage to help everyone out with a tea break, good things will happen.<W> This I promise.
+!******************************!
+[t30_001_200.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:93>Gosh, Professor, what do you think? How much good can we really do with just a cup of tea?
+!******************************!
+[t30_001_300.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:88>Oh, a fair bit, Luke. A gentleman never underestimates the power of a hot cup of tea.
+!******************************!
+[t30_001_400.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:92>Hmm, well, when you put it like that I suppose it couldn't hurt to spread some happiness.
+!******************************!
+[t30_002_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Unfortunately, Stachenscarfen doesn't like the tea you prepared.
+!******************************!
+[t30_002_100.gds]
+<01:00000022><03:9>b1 angry<03:5>NONE<01:00000001><03:108>What? Did I mumble? I said a hot cup of Citrus Classic is what I'm after!<W> Citrus! Classic!<W> It's easy!
+!******************************!
+[t30_003_100.gds]
+<01:00000022><03:9>b1 angry<03:5>NONE<01:00000001><03:148>Now what kind of attitude is that? You've only just started! You can't give up now!<W>
+!------------------------------!
+Look, the Citrus Classic is a basic tea. You can do this.
+!******************************!
+[t30_004_100.gds]
+<01:00000022><03:9>b2 smile<03:5>NONE<01:00000001><03:136>Want to try again, eh? Keh heh heh!<W>
+!------------------------------!
+That's the spirit, friend. Keep it up and you'll be brewing with the best of them before long.
+!******************************!
+[t30_010_100.gds]
+<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:58>A-dur... Hey, you boys are from out-of-town, am I right?
+!******************************!
+[t30_010_200.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:47>You certainly are. How did you work that out?
+!******************************!
+[t30_010_300.gds]
+<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:94>Du-ur!<W> 'Cause I am too. Plus, I've got a trick for working out who's local and who's not.
+!******************************!
+[t30_010_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:60>Wow, that sounds handy! Can you teach me how to do it too?
+!******************************!
+[t30_010_500.gds]
+<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:180>Dur... sure, why not.<W> But not for free!<W> Tell ya what, I've been feeling a bit down lately.<W>
+!------------------------------!
+If you can make me go <''>hur hur hur<''> again, I'll show you how to do it. 
+!******************************!
+[t30_010_600.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>Well, I imagine we might be able to whip up a classic cup of tea that will excite your tastebuds.
+!******************************!
+[t30_010_700.gds]
+<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:91>Ooh, that sounds durlicious. I haven't had tea in...ur...um... a very long time... Ages!
+!******************************!
+[t30_011_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Now that's good tea! A smile spreads across Derby's face as he lets out a contented <''>hur hur<''>.
+!******************************!
+[t30_011_100.gds]
+<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:105>A hur hur, now that's the stuff. I tell you, the classics really are the best. That goes for tea, too.
+!******************************!
+[t30_011_200.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:109>We've held up our end of the deal, so spill the beans. How do you tell outsiders from locals in this town?
+!******************************!
+[t30_011_300.gds]
+<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:156>Oh, it's a piece of, urrr, pudding.<W> Just get up real close...<W>and give 'em a sniff.<W>
+!------------------------------!
+Seems like most people from out-of-town town smell like roses.
+!******************************!
+[t30_011_400.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:9>I see...
+!******************************!
+[t30_012_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:70>Unfortunately, the tea you prepared isn't quite what Derby's after.
+!******************************!
+[t30_012_100.gds]
+<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:145>Dur, are you sure this is the right tea?<W>
+!------------------------------!
+'Cause I was thinking it'd be something a little more, durr, timeless.<W> You know, a classic cup.
+!******************************!
+[t30_013_100.gds]
+<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:48>Say, weren't you going to make some tasty tea?
+!******************************!
+[t30_014_100.gds]
+<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:68>Du-ur! I'm still waiting for that classic cup of tea you promised.
+!******************************!
+[t30_020_100.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:58>Are you quite all right, madam? You look a bit fatigued.
+!******************************!
+[t30_020_200.gds]
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:173>Ooh, I was in a world of my own there, love. Sorry, pet, I'm just a bit tired. And thirsty!<W>
+!------------------------------!
+It's right dead in there and all. I think a nice sit down is what I need.
+!******************************!
+[t30_020_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:96>Your job must be very taxing. Make sure to allow some time in your schedule for recuperation.
+!******************************!
+[t30_020_400.gds]
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:123>Oooh! Don't go worrying about me, love. You'll get wrinkles.<W>
+!------------------------------!
+You're right, though, I need to schedule some Vera-time.
+!******************************!
+[t30_020_500.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:86>If you'd like, I think we could prepare you a nice cup of tea. How does that sound?
+!******************************!
+[t30_020_600.gds]
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:217>Oooh, you're a man after my own heart. I'm gaspin' for a cuppa!<W>
+!------------------------------!
+I need a lift after the day I've had. Could you make me something refreshing?<W>
+!------------------------------!
+Oooh, and make sure you sweeten it right up and all, sugar lump.
+!******************************!
+[t30_020_700.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:80>I think we might be able to make something that fits the bill.<W> Let's see...
+!******************************!
+[t30_021_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Absolutely delightful! A smile spreads across Vera's face. She seems restored and in high spirits.
+!******************************!
+[t30_021_100.gds]
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:492>Oooh, now that is divine. I do like a man who knows his way 'round a teapot.<W>
+!------------------------------!
+There's a lot of new faces passing through town these days, but yours is the best of the lot, love.<W>
+!------------------------------!
+In fact, just a little while ago, an older gentleman came to town with a box all studded with gems.<W>
+!------------------------------!
+Lookswise, he didn't hold a candle to you, of course, but he had a touch of class, I'd say.<W>
+!------------------------------!
+Now if you two ever get tired of running around, stop in any time and say hi, you hear? Tee hee hee.
+!******************************!
+[t30_022_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:58>Unfortunately, the tea you made wasn't to Vera's liking.
+!******************************!
+[t30_022_100.gds]
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:99>Crikey, you could paint the walls with that! I'm after something sweet and light, love. Like me!
+!******************************!
+[t30_023_100.gds]
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:92>What?! I'm thirsty and you're just going to leave me? You're just like all the other men!
+!******************************!
+[t30_024_100.gds]
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:96>Oooh, are you here to deliver that sweet, refreshing cup of tea that I asked for? What a man!
+!******************************!
+[t30_030_100.gds]
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:99>I love sweet stuff, but there's not much of it here in Folsense. Do you think you could help me?
+!******************************!
+[t30_030_200.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:40>Hmm... How to satisfy a sweet tooth...
+!******************************!
+[t30_030_300.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:45>I know! Why don't we make you a cup of tea?
+!******************************!
+[t30_030_400.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:20>Capital idea, Luke.
+!******************************!
+[t30_030_500.gds]
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:144>Tea? Gosh, I was hoping for sugar- coated choco-cookie cupcakes... But I suppose tea could be tasty.<W>
+!------------------------------!
+Just make sure it's EXTRA sweet, OK?
+!******************************!
+[t30_031_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Now that's a tasty cup of tea!<W> Joanie grins widely. She seems restored and in high spirits.
+!******************************!
+[t30_031_100.gds]
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:199>Mmm! You know, that wasn't half bad at all. Actually, it was pretty tasty! Thanks a million!<W>
+!------------------------------!
+That's the first sweet thing I've had since Mum made me give up cola. She says it rots your teeth.
+!******************************!
+[t30_032_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:63>Unfortunately, Joanie isn't a huge fan of the tea you brewed.
+!******************************!
+[t30_032_100.gds]
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:99>No, no, no. I want SWEET tea! Sweet like sugar-coated honey! Sweet enough to make my teeth hurt!
+!******************************!
+[t30_033_100.gds]
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:101>Pfff, if you can't make a sweet tea, just say so. You don't have to pretend you know how to do it.
+!******************************!
+[t30_034_100.gds]
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:64>Sooo, did you bring me a sweet tea like I asked for this time?
+!******************************!
+[t30_040_100.gds]
+<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:125>Hey there, top hat. You look like a bit of a bookworm.<W>
+!------------------------------!
+I don't suppose you know anything about fortune-telling, do you?
+!******************************!
+[t30_040_200.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:46>What sort of divination do you have in mind?
+!******************************!
+[t30_040_300.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:84>There's this tea with Oasis Leaf in it that lets you predict peoples' love lives.
+!******************************!
+[t30_040_400.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:92>Wow, I've never heard of any tea like that. Professor, can we try making a cup? Pleeease?
+!******************************!
+[t30_040_500.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:115>I'm all for experiments, Luke.<W>
+!------------------------------!
+We'll give it a go, but tell me, sir,  whose love life will we be forecasting?
+!******************************!
+[t30_040_600.gds]
+<01:00000044><03:11>b1 normal2<03:5>NONE<01:00000002><03:153>Well, I'm a handsome lad, so I don't really need my romantic fortune told...<W>
+!------------------------------!
+But if you're brewing it anyway, I'll read the leaves when it's done.
+!******************************!
+[t30_040_700.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:58>That...sounds fine. Now, let's get to brewing, shall we?
+!******************************!
+[t30_041_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>That hit the spot! A smile spreads across Rory's face. He seems restored and cheerful.
+!******************************!
+[t30_041_100.gds]
+<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:123>Oh yeah, these  will do nicely.<W>
+!------------------------------!
+See how the tea leaves are positioned just so?<W> They're trying to tell us something.
+!******************************!
+[t30_041_200.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:28>Cool! So, what can you see?
+!******************************!
+[t30_041_300.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:45>Hmm, it doesn't look good for the poor lad.
+!******************************!
+[t30_041_400.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:51>What lad? Whose love life did you just peek into?
+!******************************!
+[t30_041_500.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:148>The vampire who lives at the edge of town. I hear he's in love with some human girl.<W>
+!------------------------------!
+I decided to see how that relationship's gonna work out.
+!******************************!
+[t30_041_600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:130>Oh... that sounds like bad news, doesn't it?<W>
+!------------------------------!
+I mean, it's only a matter of time before he breaks down and drinks her blood.
+!******************************!
+[t30_041_700.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:72>Too right. Oh yeah, just as I thought, this one's gonna end in tears.
+!******************************!
+[t30_041_800.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:57>I don't know if you really need tea leaves to see that.
+!******************************!
+[t30_042_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:58>Unfortunately, the tea you brewed isn't to Rory's taste.
+!******************************!
+[t30_042_100.gds]
+<01:00000044><03:9>b1 angry<03:5>NONE<01:00000002><03:75>Nah, you've got it all wrong. The tea I'm after is smoky and a bit sour.
+!******************************!
+[t30_043_100.gds]
+<01:00000044><03:9>b1 angry<03:5>NONE<01:00000002><03:68>Do us both a favour and come back when you can get my tea right. 
+!******************************!
+[t30_044_100.gds]
+<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:70>So, the tea I'm after is one that lets me predict folk's love lives.
+!******************************!
+[t30_050_100.gds]
+<01:00000041><03:10>b1 normal<03:5>NONE<01:00000002><03:255>Now that's one spectacular tea set you've got there. You could brew a mean Sugar Smoke tea with that.<W>
+!------------------------------!
+You ever had Sugar Smoke tea?<W> Brewing it's a doddle.<W>
+!------------------------------!
+All you need to do is take your basic Citrus Classic and make one little substitution.
+!******************************!
+[t30_050_200.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:108>Is that so? We're open to giving it a shot. Let's see just how difficult this Sugar Smoke tea is to make.
+!******************************!
+[t30_051_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:90>Just the ticket! A smile spreads across Garland's face. He seems restored and cheerful.
+!******************************!
+[t30_051_100.gds]
+<01:00000041><03:9>b1 smile<03:5>NONE<01:00000002><03:104>Mmm. That's nice tea, and drinking it out of a nice porcelain cup like this makes it all the tastier.
+!******************************!
+[t30_051_200.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:102>I've got to say, it's a miracle you could even taste the tea with this place smelling like it does.
+!******************************!
+[t30_051_300.gds]
+<01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:244>I do love garlic, though. It's a wonder food! Oh, and don't get me started on how well it keeps!<W>
+!------------------------------!
+Here, take a look at this chap. I've been holding onto him for 10 years.<W>
+!------------------------------!
+One sniff is guaranteed to send vampires running for the hills.
+!******************************!
+[t30_051_400.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:148>Did you say 10-year-old garlic? Blech!<W>
+!------------------------------!
+Carry one of those around with you and vampires won't be the only ones trying to stay out of your way.
+!******************************!
+[t30_052_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:70>Unfortunately, Garland is a bit underwhelmed by the tea you brewed.
+!******************************!
+[t30_052_100.gds]
+<01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:96>Eh, this isn't the tea I was talking about. There's a certain kind of smokiness it's missing.
+!******************************!
+[t30_053_100.gds]
+<01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:131>Calling it a day with the tea?<W>
+!------------------------------!
+That's a shame. I just know that in those fancy cups of yours, the right tea would be amazing.
+!******************************!
+[t30_054_100.gds]
+<01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:94>Hey, I'm still dying for a cup of something fruity with a whisper of something smoky in it.
+!******************************!
+[t30_060_100.gds]
+<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:40>Hmm, now how did that recipe go again?
+!******************************!
+[t30_060_200.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:25>Having trouble, my dear?
+!******************************!
+[t30_060_300.gds]
+<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:199>A bit. I'm trying to remember all the things Mum said would help cure a cold, but I've forgotten.<W>
+!------------------------------!
+Let's see, I need a clover, and some kind of leaf, aaand... Hmm... Nng... There's one more...
+!******************************!
+[t30_060_400.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:186>It sounds like your mother was talking about ingredients for a blended tea.<W>
+!------------------------------!
+I think with what you've told us, we might be able to make a cup of tea for you to try, if you'd like.
+!******************************!
+[t30_060_500.gds]
+<01:0000004C><03:9>b1 smile<03:5>NONE<01:00000003><03:25>Really? That'd be great!
+!******************************!
+[t30_060_600.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:97>Good. Let's see... We'll need the two things you mentioned plus something that works on colds.
+!******************************!
+[t30_061_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:63>Yummy! Marina smiles widely. She seems restored and cheerful.
+!******************************!
+[t30_061_100.gds]
+<01:0000004C><03:9>b1 smile<03:5>NONE<01:00000003><03:251>Thanks! This tea is great. It makes my tummy feel all warm inside!<W>
+!------------------------------!
+I'm going to try making this for my dad! Sometimes when I look at him, he seems so old and tired. <W>
+!------------------------------!
+Maybe the garlic fumes from his shop are playing funny tricks on my eyes.
+!******************************!
+[t30_062_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:61>Unfortunately, the tea you brewed isn't what Marina wanted.
+!******************************!
+[t30_062_100.gds]
+<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:98>Um, are you sure this tea can fight colds? I think medicine should taste more bitter than this.
+!******************************!
+[t30_063_100.gds]
+<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:43>Aw, and I was all excited about that tea!
+!******************************!
+[t30_064_100.gds]
+<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:106>If you want to make a tea that  acts as cold medicine, you'll need  some kind of leaf and some clovers.
+!******************************!
+[t30_070_100.gds]
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:45>Is s-somebody there? C-can anybody help me?
+!******************************!
+[t30_070_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:56>Are you all right there, madam? Your legs are shaking.
+!******************************!
+[t30_070_300.gds]
+<01:00000045><03:9>b1 smile<03:5>NONE<01:00000003><03:178>M-my circulation's isn't v-very good, so I get the ch-chills really easily.<W>
+!------------------------------!
+When it gets b-bad like this, my legs w-wobble so much that I feel like I'm s-standing on ice.
+!******************************!
+[t30_070_400.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:22>That sounds terrible!
+!******************************!
+[t30_070_500.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:83>Indeed it does. Might we offer you a little tea to help you overcome that chill?
+!******************************!
+[t30_071_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:86>Tasty! Lila beams, a rosy glow returning to her cheeks and her chills disappearing.
+!******************************!
+[t30_071_100.gds]
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:81>Tee hee hee! Thanks a million, you two. Now I'm toasty to the tips of my toes!
+!******************************!
+[t30_071_200.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:53>Glad to see it helped. Are you now fully recovered?
+!******************************!
+[t30_071_300.gds]
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:17>No, not exactly.
+!******************************!
+[t30_071_400.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:74>Hmm. I suppose the tea wasn't as effective as I had originally thought.
+!******************************!
+[t30_071_500.gds]
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:158>Oh no, the chills are all gone, but now I've got a cramp from all that shivering.<W> Ow! OW OW!<W>
+!------------------------------!
+Hey, something's moving behind your shoulder over there!
+!******************************!
+[t30_071_600.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:33>I don't see anything back there.
+!******************************!
+[t30_071_700.gds]
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:210>Oops! It was probably just a trick of the light. Tee hee hee!<W>
+!------------------------------!
+That seems to happen to a lot of people in Folsense.<W>
+!------------------------------!
+Anyhoo, never you mind all that, and thanks sooo much for helping me out. I mean it.
+!******************************!
+[t30_072_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Unfortunately, the tea you brewed for Lila doesn't fit the bill.
+!******************************!
+[t30_072_100.gds]
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:85>Um, my legs s-still won't stop shaking. Are you sure that t-tea you gave me works?
+!******************************!
+[t30_073_100.gds]
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:99>What, are you g-going to just leave me out here like this?<W> I'm g-gonna turn into an ice p-pop.
+!******************************!
+[t30_074_100.gds]
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:144>You've g-got to help me. I don't want to b-be stuck shivering like this all n-night.<W>
+!------------------------------!
+I need a t-tea that'll warm me up on the d-d-double!
+!******************************!
+[t30_080_100.gds]
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:104>All right there, boys. What kind of place does Folsense seem like to you outsiders? I'm curious, see.
+!******************************!
+[t30_080_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:57>Well, it seems to be quite the resplendent place to me.
+!******************************!
+[t30_080_300.gds]
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:244>Resplewhat?<W> If you're trying to call it fancy, like, then I'd be agreein' with you.<W>
+!------------------------------!
+But now the mine's been shut down, we can kiss goodbye to the town's income source and my job.<W>
+!------------------------------!
+This town's dying. It just don't knows it yet, see.
+!******************************!
+[t30_080_400.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:129>That's a rather bleak thing to say.<W>
+!------------------------------!
+Honestly, it sounds as if you need to lift your spirits. What say I make you some tea?
+!******************************!
+[t30_080_500.gds]
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:180>Well, I can't say no to an offer like that. But I gotta tell you, I'm picky about what I drink.<W>
+!------------------------------!
+I like my miner's tea with a bit of kick, see. You got anything a bit spicy?
+!******************************!
+[t30_081_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:99>Now that's good tea! A smile spreads across Dylan's face. He seems restored and in high spirits.
+!******************************!
+[t30_081_100.gds]
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:101>Proper miner's tea, that is, boys! Tastes good and strong, just like what we brewed down the mine.
+!******************************!
+[t30_081_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:52>I'm glad to hear the tea meets with your approval.
+!******************************!
+[t30_081_300.gds]
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:276>Much obliged, boys.<W> But listen, take it from me, as an old boy who knows.<W>
+!------------------------------!
+Closing down the mine like we did is more dangerous for this town than any vampire.<W>
+!------------------------------!
+With no money coming in from gold, it's just a matter of time before Folsense turns into a ghost town. 
+!******************************!
+[t30_082_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:74>Unfortunately, the tea you brewed isn't quite what Dylan's looking for.
+!******************************!
+[t30_082_100.gds]
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:182>What'd you do to scare the tea, lads? It's positively pale! Much too wimpy for a miner like me.<W>
+!------------------------------!
+Sorry, boyo. It's going to take something with a lot more kick to sort me out.
+!******************************!
+[t30_083_100.gds]
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:76>Make a promise and walk away, is it? You out-of-towners are all the same!
+!******************************!
+[t30_084_100.gds]
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:81>Strong and spicy now, boys. I need something potent to cheer me up these days.
+!******************************!
+[t30_090_100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:67>Something the matter?<W> You look rather downtrodden, my good man.
+!******************************!
+[t30_090_200.gds]
+<01:00000018><03:10>b2 normal<03:5>NONE<01:00000002><03:179>Oh, don't mind me, sir. I just get a little gloomy when I think about how slow business has been lately.<W>
+!------------------------------!
+To be honest, just thinking about it puts a raincloud over my head.
+!******************************!
+[t30_090_300.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:132>Well, how would you like a cup of tea?<W>
+!------------------------------!
+I'd be happy to make one for you, and you'd be surprised what it can do for your mood.
+!******************************!
+[t30_090_400.gds]
+<01:00000018><03:9>b2 smile<03:5>NONE<01:00000002><03:83>I'd appreciate it. Maybe something spicy will cure me of this case of the blues.
+!******************************!
+[t30_091_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:79>Ahhhhh! A smile spreads across Krantz's face. He seems relaxed and cheerful.
+!******************************!
+[t30_091_100.gds]
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:360>Oh my, that is delicious. Mmm, each sip reveals more flavours. It's like the tea I drank as a child.<W>
+!------------------------------!
+Back then, Duke Herzen would visit our hotel often, and no one spread ridiculous rumours about vampires.<W>
+!------------------------------!
+Yes, they were simpler times, but when you look at what gold did to the people here...<W>
+!------------------------------!
+Well, let's just say I preferred the days gone by.
+!******************************!
+[t30_092_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:68>Unfortunately, the tea you brewed for Krantz doesn't fit the bill.
+!******************************!
+[t30_092_100.gds]
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:181>Oh, don't worry about me, sir. Time is a one-way street and moves all on its own.<W>
+!------------------------------!
+I just have to accept that things won't go back to the way they were all those years ago...
+!******************************!
+[t30_093_100.gds]
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:91>Oh, so sorry, sir. I didn't mean to burden you with my troubles. Please pay me no heed. 
+!******************************!
+[t30_094_100.gds]
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:179>I know I ought to put on a smile for our customers, but I'm in no mood to do so.<W>
+!------------------------------!
+Do you really think a cup of tea will return me to my normal, cheery self?<W> I do hope so.
+!******************************!
+[t30_100_100.gds]
+<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:8>Sigh...
+!******************************!
+[t30_100_200.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:41>What seems to be the matter, young man?
+!******************************!
+[t30_100_300.gds]
+<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:87>Oh, I was stressing about something that happened a while ago. It's nothing, really.
+!******************************!
+[t30_100_400.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:96>All the same, how about a cup of tea?<W> Who knows, you might feel a bit less glum afterwards.
+!******************************!
+[t30_100_500.gds]
+<01:00000047><03:10>b1 normal<03:5>NONE<01:00000003><03:181>Well... It won't do any harm.<W> But you should know that I won't drink just any old swill!<W>
+!------------------------------!
+I might look young, but I've got an extremely refined palate when it comes to tea.
+!******************************!
+[t30_100_600.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:101>Duly noted. I'm sure we can whip something up that will please that sophisticated palate of yours.
+!******************************!
+[t30_101_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>Now that's good tea! A smile spreads across Duke's face. He seems restored and cheerful.
+!******************************!
+[t30_101_100.gds]
+<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:269>Mmm, I have to give it to you, sir, you do know how to brew.<W>
+!------------------------------!
+As thanks, let me slip you a little  tip. Steer clear of the paranormal when talking to people in town.<W>
+!------------------------------!
+Ever since that rumour about Folsense being cursed, everyone's terrified of stuff like that.
+!******************************!
+[t30_102_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:72>Unfortunately, the tea you brewed isn't quite what Duke's looking for.
+!******************************!
+[t30_102_100.gds]
+<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:63>Ugh, this is baby tea for babies. I've had enough, thank you.
+!******************************!
+[t30_103_100.gds]
+<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:123>That's right, quit while you're still ahead.<W>
+!------------------------------!
+You couldn't possibly create a tea suitable for my adult tastes anyway.
+!******************************!
+[t30_104_100.gds]
+<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:100>So do you have a tea that I'll like?<W>
+!------------------------------!
+Remember, make my tea like me: sophisticated and refined.
+!******************************!
+[t30_110_100.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:164>I've ruined three rolls of film today while trying to develop them and, frankly, it's got me irked.<W>
+!------------------------------!
+Or perhaps it's simply that I've run out of coffee today.
+!******************************!
+[t30_110_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:93>You sound like you could use a cup of tea. It might just take the edge off things for you.
+!******************************!
+[t30_110_300.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:178>That sounds wonderful. I'd be most grateful if you'd make me a cup.<W>
+!------------------------------!
+I'm not picky. Make me a tea that's a little bit bitter and a little bit sweet and I'll be a happy man.
+!******************************!
+[t30_110_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:62>Leave it to me, sir. I think you'll be pleasantly surprised.
+!******************************!
+[t30_111_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Ah, now that hit the spot! A smile spreads across Joseph's face. He seems refreshed and cheerful.
+!******************************!
+[t30_111_100.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:94>My goodness! Tea this good almost makes me consider trading in my coffee mug for a tea cup.
+!******************************!
+[t30_111_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:56>You're too kind, sir. I'm glad to hear you enjoyed it.
+!******************************!
+[t30_111_300.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:198>In truth, the reason I've been down is because every photo I've taken recently has come out strangely.<W>
+!------------------------------!
+Things that shouldn't be there show up. I never had problems like this back in the day.
+!******************************!
+[t30_112_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:68>Unfortunately, the tea you brewed for Joseph doesn't do the trick.
+!******************************!
+[t30_112_100.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:84>Hmm. It's a fine effort for sure, but I believe I'll stick to coffee from now on.
+!******************************!
+[t30_113_100.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:52>What a pity. Are all tea drinkers this unreliable?
+!******************************!
+[t30_114_100.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:85>I tend to like my tea somewhat bitter. Do you have anything you could brew for me?
+!******************************!
+[t30_120_100.gds]
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:27>Ooh ooh! Did you see that?
+!******************************!
+[t30_120_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:15>Huh? See what?
+!******************************!
+[t30_120_300.gds]
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:76>The ghost, of course! One just floated by all oogity-boogitying, I swear!
+!******************************!
+[t30_120_400.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:29>Drat. I must have missed it.
+!******************************!
+[t30_120_500.gds]
+<01:0000003B><03:9>b1 smile<03:5>NONE<01:00000002><03:179>That's the twelfth time today he's flown by. This must be the best spot for ghost watching.<W>
+!------------------------------!
+I've been here for hours! It's all just so fascinating! I'm utterly captivated!
+!******************************!
+[t30_120_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:94>I'm sure it's all very exciting, but would you care to take a  break and have a cup of tea?
+!******************************!
+[t30_120_700.gds]
+<01:0000003B><03:10>b1 normal<03:5>NONE<01:00000002><03:262>That sounds great! I screech like a banshee every time I spot a ghost, and boy, is my throat sore!<W>
+!------------------------------!
+But if I'm going to take a tea break, let's make it a mysterious one.<W> WooooOOOoooo!<W>
+!------------------------------!
+Ahem... That means I'd like something sweet and kind of unusual.
+!******************************!
+[t30_121_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:87>Scrumptious! A smile spreads across Clarice's face. She seems restored and cheerful.
+!******************************!
+[t30_121_100.gds]
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:94>Hey, there really is something a little mysterious about the way this tea tastes. Good job!
+!******************************!
+[t30_121_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:23>I'm glad you liked it.
+!******************************!
+[t30_121_300.gds]
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:168>Oh, yeah, it was great.<W>
+!------------------------------!
+Let me thank you by telling you where all the spookiest ghosts in town hang out.<W>
+!------------------------------!
+Folsense has got loads of great ghost-watching spots!
+!******************************!
+[t30_121_400.gds]
+<01:00000002><03:8>b4 weep<03:5>NONE<01:00000003><03:55>Thanks for the offer, but I'm scared enough as it is!
+!******************************!
+[t30_122_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:71>Unfortunately, the tea you brewed for Clarice doesn't quite suit her.
+!******************************!
+[t30_122_100.gds]
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:69>I can't detect any trace of mystery in this tea. Is it just...tea?
+!******************************!
+[t30_123_100.gds]
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:68>Such a shame. I was really looking forward to that cup of mystery.
+!******************************!
+[t30_124_100.gds]
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:76>I need a tea that's both unusual and sweet in flavour. Don't botch it up!
+!******************************!
+[t30_130_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:9>Ugghh...
+!******************************!
+[t30_130_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:29>What seems to be ailing you?
+!******************************!
+[t30_130_300.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:171>Every day I stand out here for hours and hours. All that standing makes my knees creak like crazy.<W>
+!------------------------------!
+I should really start scheduling a mid-shift break or something. 
+!******************************!
+[t30_130_400.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:142>Being a doorman does sound like an exhausting job.<W>
+!------------------------------!
+Perhaps a cup of tea would help restore your spirits? I'd be happy to brew you some.
+!******************************!
+[t30_130_500.gds]
+<01:0000001B><03:10>b1 normal<03:5>NONE<01:00000001><03:193>OK, but I should warn you, working at a five-star restaurant has made me a fussy drinker.<W>
+!------------------------------!
+But if you can brew up something that tastes mild with a hint of spice, I'll be a happy camper.
+!******************************!
+[t30_131_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:79>Now that's good tea! Felix seems restored and ready to do some karate kicks.
+!******************************!
+[t30_131_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:379>I know good tea when I taste it. This tea, my friend, is simply out of this world!<W>
+!------------------------------!
+Working as a doorman in the best restaurant in town, I have to be on the ball 100 percent of the time.<W>
+!------------------------------!
+I mean, back in the day, even the duke's son and his fianc<'e>e used to come here.<W>
+!------------------------------!
+When you've got customers like that, service has to be perfect from the second they turn up.
+!******************************!
+[t30_131_200.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:30>Wow, Folsense's elite, eh?  
+!******************************!
+[t30_131_300.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:139>That's right, little man.<W>
+!------------------------------!
+Come to think of it, I haven't seen those two for a while now. I really hope they visit us again some time.
+!******************************!
+[t30_132_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:68>Unfortunately, the tea you brewed doesn't go over well with Felix.
+!******************************!
+[t30_132_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:74>I hate to sound ungrateful, but this tea just isn't doing the business.
+!******************************!
+[t30_133_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:99>I don't blame you for giving up. After all, the tea I'm after does involve some complex brewing.
+!******************************!
+[t30_134_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:102>A mild yet slightly spicy tea is what I'm after. Think you can make something that'll fit the bill?
+!******************************!
+[t30_140_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:62>You two, there's an emergency! We're all in big trouble now!
+!******************************!
+[t30_140_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:29>Oh, no! Wh-what's going on? 
+!******************************!
+[t30_140_300.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:212>It's my tea! It's not sweet at all! How's a man supposed to fight vampires without sweet tea?!<W> HOW?<W>
+!------------------------------!
+I was going to go home and brew up some more, but I can't leave my post. We're trapped here like rats!
+!******************************!
+[t30_140_400.gds]
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:17>Oh, is that all?
+!******************************!
+[t30_140_500.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:133>What do you mean, <''>is that all<''>?<W>
+!------------------------------!
+What'll we do if the vampire busts in? How will I quench my thirst mid-vanquish?<W> Hmmm?
+!******************************!
+[t30_140_600.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:66>Exactly what kind of tea would allow you to continue your fight?
+!******************************!
+[t30_140_700.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:184>It's a secret monster-fighting recipe handed down from my great- great grandfather.<W>
+!------------------------------!
+It's got Joy Root Clover and  a little something else for a thirst-obliterating smoky taste!
+!******************************!
+[t30_140_800.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:93>I see.<W> I believe we might be able to make you something that would approximate that tea.
+!******************************!
+[t30_140_900.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:82>Oho, aren't you well prepared! All right then, if you can brew it, bring it on!
+!******************************!
+[t30_141_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Now that's good tea! Geoff seems restored and cheerful...and ready to kick some vampire rump.
+!******************************!
+[t30_141_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:209>Mmm, oh yes, now that hits the spot! I've gotta hand it to you, you really came through for me here.<W>
+!------------------------------!
+You've done a great thing for the people of this town. They'll be safe now, thanks to my protection!
+!******************************!
+[t30_141_200.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:91>I'm sure you're trying your best, but I think you can afford to relax just a little bit!
+!******************************!
+[t30_141_300.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:264>Relax? Listen to me, boy, you can't underestimate vampires!<W>
+!------------------------------!
+They're cunning creatures. Just when you think you've spotted one, kazaaam! He vanishes on you!<W>
+!------------------------------!
+The bottom line is: don't tempt fate when it comes to vampires, so stay away from Herzen Castle!
+!******************************!
+[t30_142_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:65>Unfortunately, the tea you made for Geoff doesn't do the trick.
+!******************************!
+[t30_142_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:107>Blech, what's this swill?<W> Next time you make a pot of this, do me a favour and give it to the vampire.
+!******************************!
+[t30_143_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:97>The safety of the town's at, um, stake, and you've got the nerve to just cut and run? Cowards!
+!******************************!
+[t30_144_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:163>Hey, is that tea almost ready? That vampire could be here any minute!<W>
+!------------------------------!
+I need a tea that can stand up to my thirst ASAP! And remember, it's got to be sweet!
+!******************************!
+[t30_150_100.gds]
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:33>Oh, my... So...very...thirsty...
+!******************************!
+[t30_150_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:24>Are you all right, sir?
+!******************************!
+[t30_150_300.gds]
+<01:0000004E><03:10>b1 normal<03:5>NONE<01:00000002><03:201>To be honest, I've been better, sonny boy.<W> The name's Gregorio, and I love chess like pigs love mud.<W>
+!------------------------------!
+I've been standing here all day pondering my next move and, well, it's pretty brutal work.
+!******************************!
+[t30_150_400.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:47>Would a cup of tea help that thirst of yours?
+!******************************!
+[t30_150_500.gds]
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:42>That'd be mighty kind of you, sonny boy.
+!******************************!
+[t30_150_600.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:101>I'll see what I can make. Once you're refreshed, thinking up your next move should be much easier.
+!******************************!
+[t30_151_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:71>Checkmate! Gregorio seems refreshed and ready to make his next move!
+!******************************!
+[t30_151_100.gds]
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:87>Ahhh, now that's a refreshing cup of tea!<W> Oh, of course! Queen to Bishop 6. Check!
+!******************************!
+[t30_151_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:75>See? A little tea can work wonders! You've already found your next move!
+!******************************!
+[t30_151_300.gds]
+<01:0000004E><03:10>b1 normal<03:5>NONE<01:00000002><03:304>As my way of saying thanks, here's a little factoid for you, sonny.<W>
+!------------------------------!
+In the Herzen Museum, you can find books with the chess strategies used by aristocrats of the past.<W>
+!------------------------------!
+The peculiar thing is that no new strategies have been developed in the last 50 years.<W>
+!------------------------------!
+It's almost like time has stopped.
+!******************************!
+[t30_152_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:70>Unfortunately, the tea you brewed for Gregorio doesn't do the trick.
+!******************************!
+[t30_152_100.gds]
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:101>Sorry, sonny boy, but this tea doesn't cut the mustard. I guess I'm in a stalemate with my thirst.
+!******************************!
+[t30_153_100.gds]
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:72>I do hope you'll come back with some tea. Chess is thirsty work, son.
+!******************************!
+[t30_154_100.gds]
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:95>Thank goodness you came back to make me tea. I can't get on with my chess game until you do.
+!******************************!
+[t30_160_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:181>I love Citronia fruit, and I put it in everything: smoothies, pancakes, cakes, even spaghetti.<W>
+!------------------------------!
+But I think I've pretty much run out of ways to eat it, and that gets me down.
+!******************************!
+[t30_160_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:50>Have you ever tried their seeds in a tea before?
+!******************************!
+[t30_160_300.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:80>Oh, that's a good idea. But I heard that too much tea makes it hard to sleep.
+!******************************!
+[t30_160_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:100>Ha ha, don't you worry! I'll put a little something in it so you won't have any trouble sleeping.
+!******************************!
+[t30_160_500.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:97>Thanks, mister. Since I don't have to worry about going to sleep, I'm gonna drink a bucketful!
+!******************************!
+[t30_161_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:61>Mm mmmm! Niles has found a new way to enjoy Citronia fruit!
+!******************************!
+[t30_161_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:95>Wow, that tea was great! I wasn't really a stresshead before, but now I'm super chilled out!
+!******************************!
+[t30_161_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Good. I was hoping you'd like it.
+!******************************!
+[t30_161_300.gds]
+<01:00000046><03:10>b1 normal<03:5>NONE<01:00000003><03:369>It was nice of you to share your tea, so let me tell you a secret in return.<W>
+!------------------------------!
+Most people will tell you to stay away from the forest 'cause it's scary but I know a trick.<W>
+!------------------------------!
+As long as you tell yourself that nothing scary's gonna happen in the forest, it won't!<W>
+!------------------------------!
+People only see spooky stuff in the forest because they're scared. It's weird, but it's true.
+!******************************!
+[t30_162_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:63>Unfortunately, Niles doesn't like the tea you brewed for him.
+!******************************!
+[t30_162_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:59>This tea is awfully strong. Do you have anything lighter?
+!******************************!
+[t30_163_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:60>So, you really can't make that tea you were talking about?
+!******************************!
+[t30_164_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:122>I want a light tea that won't keep me up at night, OK?<W>
+!------------------------------!
+Oh, and please make sure there's some Citronia Seed in there.
+!******************************!
+[t30_170_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:27>Oh dear... Oh dearie me...
+!******************************!
+[t30_170_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:39>Are you all right? What's the matter?
+!******************************!
+[t30_170_300.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:99>Sigh... While pancakes are good for the soul, all that syrup just wreaks havoc on my complexion!
+!******************************!
+[t30_170_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Nonsense, madam, you look lovely.
+!******************************!
+[t30_170_500.gds]
+<01:0000003F><03:9>b1 smile<03:5>NONE<01:00000002><03:50>But just look at this skin! It's dull dull dull!
+!******************************!
+[t30_170_600.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:87>Well, if it's troubling you that much, may I suggest a cup of radiance-boosting tea?
+!******************************!
+[t30_170_700.gds]
+<01:0000003F><03:10>b1 normal<03:5>NONE<01:00000002><03:135>Really? You'd be my hero if you could make something like that!<W>
+!------------------------------!
+After all, worrying about my skin is only going to make it worse!
+!******************************!
+[t30_171_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:85>Ah, lovely! A rosy glow returns to Gertie's face. She seems restored and cheerful.
+!******************************!
+[t30_171_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:104>Oh, now that was just wonderful.<W>
+!------------------------------!
+Does my skin look better? How much better? Two times better? Five?
+!******************************!
+[t30_171_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>For what it's worth, I think the best thing you can do for your skin is to stop fretting so much.
+!******************************!
+[t30_171_300.gds]
+<01:0000003F><03:10>b1 normal<03:5>NONE<01:00000002><03:180>I'm sorry. It's just that these past few years I feel like I've suddenly aged a great deal.<W>
+!------------------------------!
+I mean, I'm obviously still a knockout, but somehow I just feel older, you know?
+!******************************!
+[t30_172_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:67>Unfortunately, the tea you brewed for Gertie didn't do the trick.
+!******************************!
+[t30_172_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:75>You know, this tea tastes kind of funny. This can't be good for my skin!
+!******************************!
+[t30_173_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:69>Does this mean you think my skin is beyond hope?!<W>
+!------------------------------!
+ Oh, nooooooo!
+!******************************!
+[t30_174_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:92>Healthy skin needs vitamins.  Brew me something with some prettifying vitamins in it, OK?
+!******************************!
+[t30_180_100.gds]
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:110>See these sunglasses?<W> They're my favourite pair, but no matter how I wipe 'em, everything's still blurry.
+!******************************!
+[t30_180_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:149>From where I stand, the lenses look just fine.<W>
+!------------------------------!
+Perhaps the root of the problem isn't your glasses at all. Tell me, do your eyes feel strained?
+!******************************!
+[t30_180_300.gds]
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:94>Hmm, now that you mention it, I suppose they do. Blow me down! Aren't you the fast thinker!
+!******************************!
+[t30_180_400.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:99>If you can learn to relax, your eyes might feel better. How about a cup of nice tea to that end?
+!******************************!
+[t30_180_500.gds]
+<01:0000004D><03:11>b1 normal2<03:5>NONE<01:00000002><03:153>Tea, eh? Well, if it's no bother, I'll take you up on that offer.<W>
+!------------------------------!
+Something relaxing and, what the heck, a little spicy and earthy would be great.
+!******************************!
+[t30_181_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Now that's good tea! A smile spreads across Ray's face. He seems restored and in high spirits.
+!******************************!
+[t30_181_100.gds]
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:187>Ooh, that's one spicy finish. I am loving it! And, you know, I think my eyes do feel better.<W>
+!------------------------------!
+Thanks for the tea. It really helped me out.<W>&setani 1 b1_normal& Huh. Ack, not again!
+!******************************!
+[t30_181_200.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:28>What's the matter now, sir?
+!******************************!
+[t30_181_300.gds]
+<01:0000004D><03:10>b1 normal<03:5>NONE<01:00000002><03:86>I can still see that stupid fog. Maybe the air in Folsense is just really polluted.
+!******************************!
+[t30_182_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:63>Unfortunately, the tea you made for Ray doesn't do the trick.
+!******************************!
+[t30_182_100.gds]
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:102>Psh, I was into the idea, but this tea's for babies. It just doesn't have the spicy kick I'm after.
+!******************************!
+[t30_183_100.gds]
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:152>Whoa, whoa, whoa now! Where are you running off to?<W>
+!------------------------------!
+I might be wrong, but I was under the impression that somebody was going to brew me some tea.
+!******************************!
+[t30_184_100.gds]
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:96>My eyes are strained and I need to relax. Gimme some tea and make sure it's got a spicy kick.
+!******************************!
+[t30_190_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:29>Now this is a sticky wicket.
+!******************************!
+[t30_190_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:31>Can I help you with something?
+!******************************!
+[t30_190_300.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:101>I have all these new items to appraise, but I'm so fatigued that I can't seem to make any headway.
+!******************************!
+[t30_190_400.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:160>You do seem to have a rather daunting task on your hands.<W>
+!------------------------------!
+I think you'd be more productive if you took a short break. Can I interest you in a cup of tea?
+!******************************!
+[t30_190_500.gds]
+<01:00000019><03:10>b1 normal<03:5>NONE<01:00000001><03:99>That would be heavenly! I'd really appreciate it if you could make something relaxing but spicy.
+!******************************!
+[t30_191_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Now that's good tea! A smile spreads across Dawsons's face. He seems restored and in high spirits.
+!******************************!
+[t30_191_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
+!******************************!
+[t30_192_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:62>Unfortunately, the tea you brewed wasn't to Dawson's liking.
+!******************************!
+[t30_192_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:92>Hm, I don't believe this tea is quite to my taste. How can I relax with a bad cup of tea?
+!******************************!
+[t30_193_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:97>I'm a busy man, you know.  If you're here to play jokes, I'll have to ask you to go elsewhere.
+!******************************!
+[t30_194_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:106>I find the best teas for unwinding have a hint of spice to them. Are you up to the task of brewing one?
+!******************************!
+[t30_200_100.gds]
+<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:32>Sigh... What to do, what to do?
+!******************************!
+[t30_200_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:62>You seem troubled, madam. May I be of any assistance to you?
+!******************************!
+[t30_200_300.gds]
+<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:95>Yes, I'm quite troubled, and what's worse, I have no one with whom I can discuss the matter.
+!******************************!
+[t30_200_400.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:106>Well, how would you like a hot cup of tea? If nothing else, it should bring a bit of cheer to your day.
+!******************************!
+[t30_200_500.gds]
+<01:00000029><03:10>b1 normal<03:5>NONE<01:00000002><03:279>Well, I am tired of mulling over the issue, so I suppose I might as well take a break.<W>
+!------------------------------!
+I don't mean to sound picky, but please keep in mind that I have certain preferences.<W>
+!------------------------------!
+On a day like today, I do believe a nice, strong tea with a pinch of Dream Fluff is in order.
+!******************************!
+[t30_201_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:102>Splendid drinkability! Thanks to your brew, Opal is ready to return to obsessing over her troubles!
+!******************************!
+[t30_201_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
+!******************************!
+[t30_202_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:65>Unfortunately, the tea you brewed for Opal didn't do the trick.
+!******************************!
+[t30_202_100.gds]
+<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:88>This tea is rather...pedestrian. I don't really feel any different than I did before.
+!******************************!
+[t30_203_100.gds]
+<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:143>Oh, please don't trouble yourself over my predicament.<W>
+!------------------------------!
+In the end, I suppose this truly is an issue I simply need to sort out on my own.
+!******************************!
+[t30_204_100.gds]
+<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:95>I'd be most grateful if you'd brew me a cup of good, strong tea with some Dream Fluff in it.
+!******************************!
+[t30_210_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:196>Ugh, I'm not cut out for all this running around, man. Check out how gnarly my shoulders are.<W>
+!------------------------------!
+This is my strumming arm, man.  How am I supposed to hold my axe when I'm all tense like this?
+!******************************!
+[t30_210_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:47>I didn't know you could play the guitar, Sam!
+!******************************!
+[t30_210_300.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:187>Aw yeah, born to rock, man!<W> But hey, I hear there's a tea that fixes, like, everything.<W>
+!------------------------------!
+Messed-up shoulders, paper cuts, split ends, whatever. You name it, that tea will fix it.
+!******************************!
+[t30_210_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:66>Hmm... That's certainly the first time I've heard of such a tea.
+!******************************!
+[t30_210_500.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:303>Yeah, man. I'm, uh, a little foggy on the specifics, but I hear all sorts of good stuff about that blend.<W>
+!------------------------------!
+One sip fills you with energy AND mellows you out at the same time!<W> Far out, huh?<W>
+!------------------------------!
+Now, everything I'm sayin's just a rumour I heard, but if that tea's out there, I gotta get me some!
+!******************************!
+[t30_210_600.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:106>Well, you've intrigued me, Sammy. Let's see if we can't discover the composition of this mystery blend.
+!******************************!
+[t30_210_700.gds]
+<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:100>Wha-? For real? You're gonna make me a cup of the magic juice?<W> Oh, man, this is gonna be sweet!
+!******************************!
+[t30_211_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:42>YEEEEOW! Sammy's back and ready to rock!
+!******************************!
+[t30_211_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:301>YEEEEEEOW! That tea is so good, it made me hit a high note, man. Talk about an original flavour.<W>
+!------------------------------!
+To top it off, my shoulders feel loose and ready to tackle whatever guitar solo's coming my way.<W>
+!------------------------------!
+Rock fans of the future are going to remember you as the man who saved Sammy Thunder's career!
+!******************************!
+[t30_212_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Unfortunately, the tea you brewed for Sammy didn't do the trick.
+!******************************!
+[t30_212_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:78>THIS is the brew?<W> I dunno, man. My shoulders still feel pretty messed up.
+!******************************!
+[t30_213_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:86>Aw, come on, don't bail on me like that! I was sure you'd come through for me here.
+!******************************!
+[t30_214_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:190>Listen, you've got to hook me up with a tea that can loosen up these shoulder cramps.<W>
+!------------------------------!
+Make sure it's got some of that crispy stuff in it. You know what I'm talking about, right, man?
+!******************************!
+[t30_220_100.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:198>The Herzen Museum holds a most impressive collection of writings recovered from the family.<W>
+!------------------------------!
+The other day, while thumbing through an old account of castle provisions, I discovered something.
+!******************************!
+[t30_220_200.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:80>Interesting. Please do continue. I have a weak spot for matters of this sort.
+!******************************!
+[t30_220_300.gds]
+<01:0000002D><03:5>NONE<03:11>b1 normal2<01:00000001><03:386>I read an account about a very special tea.<W>
+!------------------------------!
+It was said to commemorate <''>the extinguishing of a great fire, and the spark of a new one<''>.<W>
+!------------------------------!
+Sadly, it seems the ingredients for this wondrous tea have been lost to the sands of time.<W>
+!------------------------------!
+Oh, what I wouldn't give for a chance to savour that historic blend...<W>&setani 1 b1_normal2&
+!------------------------------!
+I suppose that's impossible now. Sigh...
+!******************************!
+[t30_220_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:105>Not necessarily, my good man.<W>
+!------------------------------!
+Perhaps we can use modern ingredients to recreate this legendary tea.
+!******************************!
+[t30_220_500.gds]
+<01:0000002D><03:10>b1 normal<03:5>NONE<01:00000001><03:92>Your knowledge of tea is clearly expansive, Mr Layton, but...could it really be possible?
+!******************************!
+[t30_220_600.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:77>I can't guarantee I'll get it right, but I'll see what I can come up with. 
+!******************************!
+[t30_221_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:69>Oh, wonderful! You've made all Grinko's beverage dreams come true!
+!******************************!
+[t30_221_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
+!******************************!
+[t30_222_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:67>Unfortunately, the tea you brewed for Grinko didn't do the trick.
+!******************************!
+[t30_222_100.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:197>Alas, I suppose it really is impossible to create this tea without those ancient ingredients.<W>
+!------------------------------!
+I'm sorry to say it, but there was nothing miraculous about that average cup of tea I just had.
+!******************************!
+[t30_223_100.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:98>I suppose that's the trouble with legends. You never get to see - or taste - them for yourself.
+!******************************!
+[t30_224_100.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:92>To brew that legendary tea, you'll likely need something that symbolises the fire, right?
+!******************************!
+[t30_230_100.gds]
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:38>Ah, memories... Those were the days.
+!******************************!
+[t30_230_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:21>Reminiscing, are we?
+!******************************!
+[t30_230_300.gds]
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:188>Yeah... Back in the day we had this cafe in town that brewed the most amazing tea.<W>
+!------------------------------!
+I mean, folks would flock to Folsense by the hundreds to taste this wonder tea, as it was called.
+!******************************!
+[t30_230_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>It sounds like that cafe was the place to be.
+!******************************!
+[t30_230_500.gds]
+<01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:156>Too right it was!<W>
+!------------------------------!
+You know, you look like you know a thing or two about tea.<W>
+!------------------------------!
+I don't suppose you could brew me a cup of that wonder tea, would you?
+!******************************!
+[t30_230_600.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:77>It's certainly a challenge I'm willing to take up. I'll see what I can do.
+!******************************!
+[t30_230_700.gds]
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:134>Well, good luck to you. I kind of remember that the tea had something spicy going on.<W>
+!------------------------------!
+But that's all the help I can give you. 
+!******************************!
+[t30_231_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:71>Now that's wonder tea! Hopper gives your concoction a big thumbs up.
+!******************************!
+[t30_231_100.gds]
+<01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:207>Oh yes, this is it!<W>
+!------------------------------!
+Me and my mates would play cards late into the night while downing cup after cup of this.<W>
+!------------------------------!
+I wasn't sure you had it in you, but you really came through for me here. Cheers mate!
+!******************************!
+[t30_231_200.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:40>Glad to be of assistance, my good man.
+!******************************!
+[t30_231_300.gds]
+<01:00000048><03:11>b1 normal2<03:5>NONE<01:00000002><03:368>You're a brainy one, but you're not the first clever-clogs to visit this town. We used to get loads of 'em.<W>
+!------------------------------!
+Just a little while back, an old man from London came through here. He said he was an archaeologist.<W>
+!------------------------------!
+We played cards and put the world to rights. He was in town researching something or other.<W>
+!------------------------------!
+I wonder if he ever found what he was looking for.
+!******************************!
+[t30_232_10.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:67>Unfortunately, the tea you brewed for Hopper didn't do the trick.
+!******************************!
+[t30_232_100.gds]
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:157>Looks like you'd need a miracle to brew that wonder tea.<W>
+!------------------------------!
+Sorry for getting all excited. I should've realised that making that tea would be impossible.
+!******************************!
+[t30_233_100.gds]
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:98>Don't feel bad about leaving. It's wonder tea, but it's as hard to make as it is nice to drink.
+!******************************!
+[t30_234_100.gds]
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:273>That tea was out of this world, I tell you. Even now I remember that flavour. Mmm mmm.<W>
+!------------------------------!
+I don't remember what went into that tea, but it seemed a really crazy blend.<W>
+!------------------------------!
+About all I can remember is that the last ingredient the cafe owner put in was something spicy.
+!******************************!
