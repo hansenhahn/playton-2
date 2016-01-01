@@ -1,168 +1,168 @@
 [t11_020_100.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:95>C√©us, olhe este lugar, Professor! Ele √© t√£o chique que sinto que deveria estar usando um mon√≥culo!
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:95>CÈus, olhe este lugar, Professor! Ele È t„o chique que sinto que deveria estar usando um monÛculo!
 !******************************!
 [t11_020_200.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:171>Ha ha! Por a√≠, Luke. O luxo transparece em cada detalhe.<W>
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:171>Ha ha! Por aÌ, Luke. O luxo transparece em cada detalhe.<W>
 !------------------------------!
-Eu posso apostar que o resto do trem √© t√£o luxuoso quanto. Que tal uma pequena explora√ß√£o?
+Eu posso apostar que o resto do trem È t„o luxuoso quanto. Que tal uma pequena exploraÁ„o?
 !******************************!
 [t11_030_100.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:101>Professor, n√≥s nunca estivemos em um lugar t√£o legal quanto este. N√£o podemos olhar a cabine um pouco mais?
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:101>Professor, nÛs nunca estivemos em um lugar t„o legal quanto este. N„o podemos olhar a cabine um pouco mais?
 !******************************!
 [t11_040_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:107>Poxa, Luke. Voc√™ n√£o acha que deve juntar suas coisas e trancar sua mala antes de sa√≠rmos por a√≠?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:107>Poxa, Luke. VocÍ n„o acha que deve juntar suas coisas e trancar sua mala antes de saÌrmos por aÌ?
 !******************************!
 [t11_045_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:84>Lembre-se, Luke, que estamos atr√°s da Caixa El√≠sia, ent√£o n√£o v√° se dispersar por a√≠.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:84>Lembre-se, Luke, que estamos atr·s da Caixa ElÌsia, ent„o n„o v· se dispersar por aÌ.
 !******************************!
 [t11_045_200.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:100>N√£o precisa dizer duas vezes, Professor.<W> Ent√£o, por que n√£o come√ßamos investigando o trem?
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:100>N„o precisa dizer duas vezes, Professor.<W> Ent„o, por que n„o comeÁamos investigando o trem?
 !******************************!
 [t11_050_100.gds]
-<01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:160>Ouvi dizer que as cabines da frente do trem s√£o t√£o luxuosas a ponto das ma√ßanetas serem feitas de ouro!<W>
+<01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:160>Ouvi dizer que as cabines da frente do trem s„o t„o luxuosas a ponto das maÁanetas serem feitas de ouro!<W>
 !------------------------------!
-Mas ningu√©m pode entrar l√°, exceto pessoas REALMENTE ricas.
+Mas ninguÈm pode entrar l·, exceto pessoas REALMENTE ricas.
 !******************************!
 [t11_050_200.gds]
-<01:00000024><03:10>b2 normal<03:5>NONE<01:00000003><03:101>Ent√£o,senhores, voc√™s s√£o REALMENTE ricos?<W> Porque se forem, podem ir ver as cabines super luxuosas.
+<01:00000024><03:10>b2 normal<03:5>NONE<01:00000003><03:101>Ent„o,senhores, vocÍs s„o REALMENTE ricos?<W> Porque se forem, podem ir ver as cabines super luxuosas.
 !******************************!
 [t11_050_300.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>Cabines super luxuosas...
 !******************************!
 [t11_050_400.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:157>...que ningu√©m, exceto as extremamente ricas, podem entrar.<W>
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:157>...que ninguÈm, exceto as extremamente ricas, podem entrar.<W>
 !------------------------------!
-Se nosso jovem amigo estiver bem informado, devem haver algumas cabines de luxo no pr√≥ximo vag√£o.
+Se nosso jovem amigo estiver bem informado, devem haver algumas cabines de luxo no prÛximo vag„o.
 !******************************!
 [t11_050_500.gds]
 <01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:78>Uau! Adoraria ver como elas se parecem!<W>
 !------------------------------!
-Aposto que elas s√£o espetaculares!
+Aposto que elas s„o espetaculares!
 !******************************!
 [t11_060_100.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:60>Fico pensando nos tipos de luxo dispon√≠veis no outro vag√£o!
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:60>Fico pensando nos tipos de luxo disponÌveis no outro vag„o!
 !******************************!
 [t11_060_200.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:245>Para a√≠ mesmo, cara!<W>
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:245>Para aÌ mesmo, cara!<W>
 !------------------------------!
-Sammy Thunder avisa que a entrada para este vag√£o √© apenas para VIPs, capiche?<W>&setani 8 b2_normal&
+Sammy Thunder avisa que a entrada para este vag„o È apenas para VIPs, capiche?<W>&setani 8 b2_normal&
 !------------------------------!
-Sei que voc√™s gostariam de dar uma olhadinha, mas o vag√£o est√° lotado, ent√£o n√£o vai rolar.&setani 8 b1_normal&
+Sei que vocÍs gostariam de dar uma olhadinha, mas o vag„o est· lotado, ent„o n„o vai rolar.&setani 8 b1_normal&
 !******************************!
 [t11_060_400.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:82>As pessoas que reservam cabines neste vag√£o devem ser podres de rica!
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:82>As pessoas que reservam cabines neste vag„o devem ser podres de rica!
 !******************************!
 [t11_060_500.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:104>De fato. Imagino como deve ser ter tanto espa√ßo assim para voc√™ em um trem desse calibre.
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:104>De fato. Imagino como deve ser ter tanto espaÁo assim para vocÍ em um trem desse calibre.
 !******************************!
 [t11_060_600.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:92>Bem, acho que, por enquanto, vai ficar s√≥ na sua imagina√ß√£o, n√©, Professor?<W> Ha ha ha ha!
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:92>Bem, acho que, por enquanto, vai ficar sÛ na sua imaginaÁ„o, nÈ, Professor?<W> Ha ha ha ha!
 !******************************!
 [t11_060_700.gds]
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:12>Por enquanto, sim.
 !******************************!
 [t11_070_100.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:107>Fiquem onde est√£o, caras!<W> N√£o quero estragar com a brincadeira de voc√™s, mas esta parte do trem √© apenas para VIPs, sacaram?<@v>3
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:107>Fiquem onde est„o, caras!<W> N„o quero estragar com a brincadeira de vocÍs, mas esta parte do trem È apenas para VIPs, sacaram?<@v>3
 !******************************!
 [t11_080_100.gds]
-<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:190>Sim, acredito que estas acomoda√ß√µes v√£o servir. Espero que agrade meu querido menino.<W>
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:190>Sim, acredito que estas acomodaÁıes v„o servir. Espero que agrade meu querido menino.<W>
 !------------------------------!
-Isso faz-me lembrar que talvez j√° esteja no hor√°rio da janta do meu bebezinho. Hora de visitar o vag√£o-restaurante.
+Isso faz-me lembrar que talvez j· esteja no hor·rio da janta do meu bebezinho. Hora de visitar o vag„o-restaurante.
 !******************************!
 [t11_085_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:90>Professor, por que n√£o pegamos algo para comer? Meu est√¥mago n√£o para de roncar.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:90>Professor, por que n„o pegamos algo para comer? Meu estÙmago n„o para de roncar.
 !******************************!
 [t11_090_100.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:205>Minhas mais sinceras desculpas, senhores, mas temo que o vag√£o-restaurante esteja lotado no momento.<W>
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:205>Minhas mais sinceras desculpas, senhores, mas temo que o vag„o-restaurante esteja lotado no momento.<W>
 !------------------------------!
-Se n√£o se importarem de esperar um pouquinho, avisarei-lhes quando uma mesa vagar.
+Se n„o se importarem de esperar um pouquinho, avisarei-lhes quando uma mesa vagar.
 !******************************!
 [t11_096_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:91>Este √© um belo vag√£o-restaurante! Aposto que at√© mesmo a cozinha √© luxuosa. O que acha?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:91>Este È um belo vag„o-restaurante! Aposto que atÈ mesmo a cozinha È luxuosa. O que acha?
 !******************************!
 [t11_096_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:106>Bem, aquela porta a esquerda parece levar √† cozinha. Que tal irmos olhar por conta pr√≥pria?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:106>Bem, aquela porta a esquerda parece levar ‡ cozinha. Que tal irmos olhar por conta prÛpria?
 !******************************!
 [t11_100_100.gds]
-<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:50>Uau, olha s√≥ a quantidade de coisas que h√° para comer!
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:50>Uau, olha sÛ a quantidade de coisas que h· para comer!
 !******************************!
 [t11_100_1000.gds]
 <01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:237>Ah droga, parece que meu segredo foi revelado.<W>
 !------------------------------!
-Escutem, eu sei que √© contra as regras manter animais na cozinha.<W> Mas... Ele √© meu √∫nico amigo, sabe?<W>
+Escutem, eu sei que È contra as regras manter animais na cozinha.<W> Mas... Ele È meu ˙nico amigo, sabe?<W>
 !------------------------------!
-Peludo ou n√£o, ele √© a √∫nica pess...er, criatura que tenho para conversar aqui.
+Peludo ou n„o, ele È a ˙nica pess...er, criatura que tenho para conversar aqui.
 !******************************!
 [t11_100_1100.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:88>Nossa, ele √©...generosamente grande, n√©?<W> Presumo que ele seja um hamster, certo?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:88>Nossa, ele È...generosamente grande, nÈ?<W> Presumo que ele seja um hamster, certo?
 !******************************!
 [t11_100_1200.gds]
-<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:423>√â claro que ele √© um hamster! Sua compostura os torna a mais nobre entre todas as criaturas!<W>
+<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:423>… claro que ele È um hamster! Sua compostura os torna a mais nobre entre todas as criaturas!<W>
 !------------------------------!
-Quando eu comecei a trabalhar aqui, precisava de algu√©m para me fazer companhia, ent√£o eu comprei ele.<W>
+Quando eu comecei a trabalhar aqui, precisava de alguÈm para me fazer companhia, ent„o eu comprei ele.<W>
 !------------------------------!
-O problema √© que alimento ele com todas as sobras de comida dos pratos, o que acaba sendo uma dieta, err, bem rica em calorias.<W>&setani 14 b2_weep&
+O problema È que alimento ele com todas as sobras de comida dos pratos, o que acaba sendo uma dieta, err, bem rica em calorias.<W>&setani 14 b2_weep&
 !------------------------------!
-Ele est√° bem fora de forma e, para ser honesto, fico pensando se isso n√£o vai fazer mal √† sa√∫de dele...
+Ele est· bem fora de forma e, para ser honesto, fico pensando se isso n„o vai fazer mal ‡ sa˙de dele...
 !******************************!
 [t11_100_1400.gds]
 <01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:16>Pobre criaturinha!
 !******************************!
 [t11_100_1500.gds]
-<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:211>Tive uma ideia... Posso pedir um favor a voc√™s?<W> Se importariam de cuidar do meu amigo por um tempinho?<W>
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:211>Tive uma ideia... Posso pedir um favor a vocÍs?<W> Se importariam de cuidar do meu amigo por um tempinho?<W>
 !------------------------------!
-Quando ele est√° aqui comigo, n√£o posso fazer nada al√©m de aliment√°-lo. S√≥ que esses peda√ßos de foie grass e tortas v√£o apenas engord√°-lo mais ainda.
+Quando ele est· aqui comigo, n„o posso fazer nada alÈm de aliment·-lo. SÛ que esses pedaÁos de foie grass e tortas v„o apenas engord·-lo mais ainda.
 !******************************!
 [t11_100_1700.gds]
-<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:195>Voc√™ est√° pedindo para cuidarmos e colocarmos ele em forma? Parece uma grande ideia para mim!<W>
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:195>VocÍ est· pedindo para cuidarmos e colocarmos ele em forma? Parece uma grande ideia para mim!<W>
 !------------------------------!
-Err, quero dizer, o que voc√™ acha, Professor? Podemos, por favor, ficar com ele por um tempo?
+Err, quero dizer, o que vocÍ acha, Professor? Podemos, por favor, ficar com ele por um tempo?
 !******************************!
 [t11_100_1800.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:194>Bem, eu sempre disse que ajudar roedores em necessidade faz parte dos deveres de um verdadeiro cavalheiro.<W>
 !------------------------------!
-Ficaremos felizes em termos a cust√≥dia deste hamster at√© ele se livrar desse peso extra.
+Ficaremos felizes em termos a custÛdia deste hamster atÈ ele se livrar desse peso extra.
 !******************************!
 [t11_100_1900.gds]
-<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:92>Ah, muito obrigado! √â um peso que voc√™ tira dos meus ombros. E da cintura dele, espero!
+<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:92>Ah, muito obrigado! … um peso que vocÍ tira dos meus ombros. E da cintura dele, espero!
 !******************************!
 [t11_100_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:98>Sim, parece que o Molentary Express √© de primeira classe, at√© mesmo na cozinha.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:98>Sim, parece que o Molentary Express È de primeira classe, atÈ mesmo na cozinha.
 !******************************!
 [t11_100_2000.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:90>Voc√™ pode interagir com o hamster tocando o √≠cone Hamster dentro da mala do professor.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:90>VocÍ pode interagir com o hamster tocando o Ìcone Hamster dentro da mala do professor.
 !******************************!
 [t11_100_2100.gds]
 <01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:136>Ah, e mais uma coisa.<W>
 !------------------------------!
-J√° que n√£o vou ver meu pequeno camarada por um tempo, poderiam dar esta ma√ßa a ele?<W> Ele adora elas.
+J· que n„o vou ver meu pequeno camarada por um tempo, poderiam dar esta maÁa a ele?<W> Ele adora elas.
 !******************************!
 [t11_100_2200.gds]
 <01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:63>Ah, vou sentir falta do meu amigo peludo! Por favor, cuidem dele!
 !******************************!
 [t11_100_2300.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:33>N√£o se preocupe, ele estar√° em boas m√£os!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:33>N„o se preocupe, ele estar· em boas m„os!
 !******************************!
 [t11_100_300.gds]
-<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:170>Oh c√©us, passageiros na cozinha! Sinto muito, mas voc√™s n√£o podem permanecer aqui.<W>
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:170>Oh cÈus, passageiros na cozinha! Sinto muito, mas vocÍs n„o podem permanecer aqui.<W>
 !------------------------------!
-Essas suas roupas sujas violam todos os tipos de normas sanit√°rias.
+Essas suas roupas sujas violam todos os tipos de normas sanit·rias.
 !******************************!
 [t11_100_400.gds]
-<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:79>Saiba que n√£o tem nada de sujo sobre as nossas roupas!
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:79>Saiba que n„o tem nada de sujo sobre as nossas roupas!
 !******************************!
 [t11_100_500.gds]
-<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:206>Diga o que quiser, baixinho, mas n√£o muda o fato de que eu estou no comando dessa cozinha.<W>
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:206>Diga o que quiser, baixinho, mas n„o muda o fato de que eu estou no comando dessa cozinha.<W>
 !------------------------------!
-Voc√™ parou para pensar no que poderia acontecer se germes nojentos entrassem aqui por sua causa?
+VocÍ parou para pensar no que poderia acontecer se germes nojentos entrassem aqui por sua causa?
 !******************************!
 [t11_100_600.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:103>Entendo seu ponto de vista.<W> Pe√ßo sinceras desculpas pela invas√£o e por qualquer preocupa√ß√£o que tenhamos causado, bom senhor.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:103>Entendo seu ponto de vista.<W> PeÁo sinceras desculpas pela invas„o e por qualquer preocupaÁ„o que tenhamos causado, bom senhor.
 !******************************!
 [t11_100_700.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:59>Ah... Tudo bem. Tamb√©m sinto muito, senhor.<W>
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:59>Ah... Tudo bem. TambÈm sinto muito, senhor.<W>
 !------------------------------!
-Espere, o que √© isso?
+Espere, o que È isso?
 !******************************!
 [t11_100_900.gds]
 <01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:153>Professor, olhe aqui! Parece que nosso amigo, o cozinheiro, tem mantido um animal na cozinha!<W>
@@ -170,7 +170,7 @@ Espere, o que √© isso?
 Que arrogante da parte dele dar uma aula para outras pessoas sobre germes!
 !******************************!
 [t11_101_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:61>Certo, carinha, a partir de agora, onde quer que eu v√°, voc√™ vai tamb√©m.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:61>Certo, carinha, a partir de agora, onde quer que eu v·, vocÍ vai tambÈm.
 !******************************!
 [t11_101_200.gds]
 <01:00000054><03:5>NONE<03:5>NONE<01:00000003><03:24>Squeak?<W> Squee-Squeak!
@@ -179,66 +179,66 @@ Que arrogante da parte dele dar uma aula para outras pessoas sobre germes!
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:82>Ha ha! Parece que seu jeito com os animais rendeu-lhe um novo amigo, Luke!
 !******************************!
 [t11_101_400.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>Tamb√©m acho, Professor!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>TambÈm acho, Professor!
 !******************************!
 [t11_110_100.gds]
 <01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:63>Ah, eu vou sentir falta do meu amigo peludo! Por favor, cuidem dele!
 !******************************!
 [t11_110_200.gds]
-<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:33>N√£o se preocupe, ele estar√° em boas m√£os!
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:33>N„o se preocupe, ele estar· em boas m„os!
 !******************************!
 [t11_120_100.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Parece que n√£o h√° ningu√©m aqui no momento.
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Parece que n„o h· ninguÈm aqui no momento.
 !******************************!
 [t11_120_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:25>Vamos verificar de novo mais tarde.
 !******************************!
 [t11_130_100.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:74>Diga, Professor, aquela pequena cabana n√£o lhe parece familiar?
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:74>Diga, Professor, aquela pequena cabana n„o lhe parece familiar?
 !******************************!
 [t11_130_200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:75>√â verdade. A n√£o ser que eu esteja enganado, esta deve ser a resid√™ncia de voc√™-sabe-quem.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:75>… verdade. A n„o ser que eu esteja enganado, esta deve ser a residÍncia de vocÍ-sabe-quem.
 !******************************!
 [t11_130_300.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:52>Tenho a impress√£o de que ela ser√° novamente de grande ajuda.
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:52>Tenho a impress„o de que ela ser· novamente de grande ajuda.
 !******************************!
 [t11_140_100.gds]
 <01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:71>Ah, nada como viajar sob trilhos para colocar energia nesse corpo!
 !******************************!
 [t11_140_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:107>N√£o tenho como n√£o concordar.<W> E n√£o h√° maneira melhor de fazer isso do que em um trem t√£o confort√°vel como o seu, Mr Beluga.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:107>N„o tenho como n„o concordar.<W> E n„o h· maneira melhor de fazer isso do que em um trem t„o confort·vel como o seu, Mr Beluga.
 !******************************!
 [t11_140_300.gds]
-<01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:33>Ahn? Ent√£o voc√™ sabe meu nome?
+<01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:33>Ahn? Ent„o vocÍ sabe meu nome?
 !******************************!
 [t11_140_400.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:138>Claro que sim. Este trem e seu dono t√™m uma reconhecida reputa√ß√£o em Londres.<W>
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:138>Claro que sim. Este trem e seu dono tÍm uma reconhecida reputaÁ„o em Londres.<W>
 !------------------------------!
 Vi seu rosto nos jornais muitas vezes.
 !******************************!
 [t11_140_500.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:83>√â simplesmente incr√≠vel como voc√™ conseguiu criar esta ferrovia t√£o jovem.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:83>… simplesmente incrÌvel como vocÍ conseguiu criar esta ferrovia t„o jovem.
 !******************************!
 [t11_140_600.gds]
-<01:00000009><03:9>b1 laugh<03:5>NONE<01:00000002><03:115>Ho ho, ent√£o √© isso?<W>
+<01:00000009><03:9>b1 laugh<03:5>NONE<01:00000002><03:115>Ho ho, ent„o È isso?<W>
 !------------------------------!
-Sinto muito, er...meu amigo, mas n√£o posso dizer que lhe conhe√ßo t√£o bem quanto voc√™ me conhece.
+Sinto muito, er...meu amigo, mas n„o posso dizer que lhe conheÁo t„o bem quanto vocÍ me conhece.
 !******************************!
 [t11_140_700.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:210>Meu nome √© Hershel Layton. Sou professor de arqueologia por profiss√£o, e entusiasta de trens por amor.<W>
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:210>Meu nome È Hershel Layton. Sou professor de arqueologia por profiss„o, e entusiasta de trens por amor.<W>
 !------------------------------!
-Ouvi hist√≥rias sobre a grandiosidade deste trem, ent√£o decidi que era hora de conhec√™-lo em primeira m√£o.
+Ouvi histÛrias sobre a grandiosidade deste trem, ent„o decidi que era hora de conhecÍ-lo em primeira m„o.
 !******************************!
 [t11_140_800.gds]
-<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:187>Bem, j√° √© um come√ßo. Certamente √© um prazer conhec√™-lo, Mr...Layton, certo?<W>
+<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:187>Bem, j· È um comeÁo. Certamente È um prazer conhecÍ-lo, Mr...Layton, certo?<W>
 !------------------------------!
-Oh c√©us, olhe que horas j√° s√£o. Realmente tenho que ir. Aproveite seu tempo abordo.
+Oh cÈus, olhe que horas j· s„o. Realmente tenho que ir. Aproveite seu tempo abordo.
 !******************************!
 [t11_140_900.gds]
-<01:00000009><03:9>b1 laugh<03:5>NONE<01:00000002><03:86>Oh c√©us, olhe que horas j√° s√£o. Realmente tenho que ir. Aproveite seu tempo abordo.
+<01:00000009><03:9>b1 laugh<03:5>NONE<01:00000002><03:86>Oh cÈus, olhe que horas j· s„o. Realmente tenho que ir. Aproveite seu tempo abordo.
 !******************************!
 [t11_150_100.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:88>Por que n√£o voltamos para o vag√£o-restaurante, Luke? O passeio abriu-me o apetite.
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:88>Por que n„o voltamos para o vag„o-restaurante, Luke? O passeio abriu-me o apetite.
 !******************************!
 [t11_160_100.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:58>Luke, vamos passar na nossa cabine antes de ir a qualquer outro lugar.
@@ -247,61 +247,61 @@ Oh c√©us, olhe que horas j√° s√£o. Realmente tenho que ir. Aproveite seu tempo a
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:24>Pode ser, Professor.
 !******************************!
 [t11_170_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:26>O que est√° acontecendo aqui?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:26>O que est· acontecendo aqui?
 !******************************!
 [t11_170_1000.gds]
-<01:0000000B><03:10>b1 normal<03:5>NONE<01:00000002><03:98>Voc√™ ainda est√° aqui?<W> Se tem tempo para ficar a√≠ parado conversando, ent√£o apresse-se e traga meu menino de volta!
+<01:0000000B><03:10>b1 normal<03:5>NONE<01:00000002><03:98>VocÍ ainda est· aqui?<W> Se tem tempo para ficar aÌ parado conversando, ent„o apresse-se e traga meu menino de volta!
 !******************************!
 [t11_170_1100.gds]
-<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:227>Parece que as √∫nicas pistas que temos s√£o este sapato que a crian√ßa deixou para tr√°s e o seu nome, Tom.<W>
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:227>Parece que as ˙nicas pistas que temos s„o este sapato que a crianÁa deixou para tr·s e o seu nome, Tom.<W>
 !------------------------------!
-Tentei obter mais informa√ß√µes da mulher, mas n√£o deu certo.<W>
+Tentei obter mais informaÁıes da mulher, mas n„o deu certo.<W>
 !------------------------------!
-Ela s√≥ fica ordenando que eu fa√ßa buscas no recinto.
+Ela sÛ fica ordenando que eu faÁa buscas no recinto.
 !******************************!
 [t11_170_1200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:64>Este √© um dos sapatos de Tom?!<W> Parece bem pequeno, n√©?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:64>Este È um dos sapatos de Tom?!<W> Parece bem pequeno, nÈ?
 !******************************!
 [t11_170_1300.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:66>Sim, acho bastante curioso, Luke. Bastante intrigante, na verdade.
 !******************************!
 [t11_170_1400.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:62>N√£o acho que crian√ßas com esse tamanho de p√© podem at√© mesmo caminhar!
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:62>N„o acho que crianÁas com esse tamanho de pÈ podem atÈ mesmo caminhar!
 !******************************!
 [t11_170_1500.gds]
-<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:10>√â verdade...
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:10>… verdade...
 !******************************!
 [t11_170_200.gds]
-<01:0000000B><03:9>b1 angry<03:5>NONE<01:00000002><03:103>Meu menino, meu doce menino! Voc√™ precisa fazer alguma coisa! Procure por todo este trem!
+<01:0000000B><03:9>b1 angry<03:5>NONE<01:00000002><03:103>Meu menino, meu doce menino! VocÍ precisa fazer alguma coisa! Procure por todo este trem!
 !******************************!
 [t11_170_300.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:60>Madame, por favor, acalme-se para que eu possa entender a situa√ß√£o.
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:60>Madame, por favor, acalme-se para que eu possa entender a situaÁ„o.
 !******************************!
 [t11_170_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:57>Ah, Inspetor Chelmey. N√£o sabia que voc√™ estava a bordo.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:57>Ah, Inspetor Chelmey. N„o sabia que vocÍ estava a bordo.
 !******************************!
 [t11_170_500.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:249>Veja s√≥! Se n√£o √© Mr Layton! Quais s√£o as chances, n√©?<W>
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:249>Veja sÛ! Se n„o È Mr Layton! Quais s„o as chances, nÈ?<W>
 !------------------------------!
-Bem, chega de papo-furado. Tenho coisas para resolver. Em outras palavras, encontrar uma crian√ßa perdida.<W>
+Bem, chega de papo-furado. Tenho coisas para resolver. Em outras palavras, encontrar uma crianÁa perdida.<W>
 !------------------------------!
-Parece que o filho desta mulher sumiu. Por acaso voc√™s n√£o viram ele por a√≠?
+Parece que o filho desta mulher sumiu. Por acaso vocÍs n„o viram ele por aÌ?
 !******************************!
 [t11_170_600.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>N√£o, n√£o lembro de termos vistos crian√ßas no trem.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>N„o, n„o lembro de termos vistos crianÁas no trem.
 !******************************!
 [t11_170_700.gds]
-<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:197>Meu garotinho fugiu e n√£o voltou at√© agora! Estou morrendo de preocupa√ß√£o por ele!<W>
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:197>Meu garotinho fugiu e n„o voltou atÈ agora! Estou morrendo de preocupaÁ„o por ele!<W>
 !------------------------------!
-Cavalheiros, exijo que parem o que est√£o fazendo e ajudem-me a encontrar meu garoto!
+Cavalheiros, exijo que parem o que est„o fazendo e ajudem-me a encontrar meu garoto!
 !******************************!
 [t11_170_800.gds]
-<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:67>Hrmph, ela est√° agindo assim desde que cheguei.
+<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:67>Hrmph, ela est· agindo assim desde que cheguei.
 !******************************!
 [t11_170_900.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:185>Entendo sua preocupa√ß√£o, madame. Eu e meu assistente ficaremos felizes em ajud√°-la em sua busca.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:185>Entendo sua preocupaÁ„o, madame. Eu e meu assistente ficaremos felizes em ajud·-la em sua busca.<W>
 !------------------------------!
-Aumentaremos a chance de encontrar seu filho se come√ßarmos as buscas imediatamente.
+Aumentaremos a chance de encontrar seu filho se comeÁarmos as buscas imediatamente.
 !******************************!
 [t11_175_100.gds]
 <01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:25>Ah velho, que toupeira eu sou...
@@ -312,27 +312,27 @@ Aumentaremos a chance de encontrar seu filho se come√ßarmos as buscas imediatame
 [t11_175_300.gds]
 <01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:216>Ahn? Ah, oi...<W>
 !------------------------------!
-Ent√£o, eu invadi a cabine do meu tio e peguei a c√¢mera dele emprestada, certo? O problema √© que eu derrubei ela.<W>
+Ent„o, eu invadi a cabine do meu tio e peguei a c‚mera dele emprestada, certo? O problema È que eu derrubei ela.<W>
 !------------------------------!
-Estou aqui tentando encontrar todas as pe√ßas a mais de uma hora, mas consegui encontrar apenas uma...
+Estou aqui tentando encontrar todas as peÁas a mais de uma hora, mas consegui encontrar apenas uma...
 !******************************!
 [t11_175_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:30>Voc√™ parece bem enrascado.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:30>VocÍ parece bem enrascado.
 !******************************!
 [t11_175_500.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:294>Sim, e se a not√≠cia da c√¢mera quebrada se espalhar, meu tio vai comer meu couro.<W>
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:294>Sim, e se a notÌcia da c‚mera quebrada se espalhar, meu tio vai comer meu couro.<W>
 !------------------------------!
-Opa, tive uma ideia sagaz!<W> Saca s√≥. Vou dar este peda√ßo de lixo para voc√™.<W>
+Opa, tive uma ideia sagaz!<W> Saca sÛ. Vou dar este pedaÁo de lixo para vocÍ.<W>
 !------------------------------!
-Voc√™ pode fazer o que quiser com isto, apenas livre-se dele, beleza?<W> Por essa voc√™ n√£o esperava.
+VocÍ pode fazer o que quiser com isto, apenas livre-se dele, beleza?<W> Por essa vocÍ n„o esperava.
 !******************************!
 [t11_175_600.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>O q-? Ei, voltem aqui!
 !******************************!
 [t11_175_700.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:166>A op√ß√£o C√¢mera foi adicionada a mala. Remonte as partes da c√¢mera l√°.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:166>A opÁ„o C‚mera foi adicionada a mala. Remonte as partes da c‚mera l·.<W>
 !------------------------------!
-Para acess√°-la, toque o √≠cone Mala, ent√£o toque o √≠cone C√¢mera.
+Para acess·-la, toque o Ìcone Mala, ent„o toque o Ìcone C‚mera.
 !******************************!
 [t11_180_100.gds]
 <01:0000002F><03:7>normal<03:5>NONE<01:00000005><03:59>Zzzz. Zzzz. RONC! Zzzzzzzz... Meu doce...menino... Zzzz.
@@ -341,325 +341,325 @@ Para acess√°-la, toque o √≠cone Mala, ent√£o toque o √≠cone C√¢mera.
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:40>Como ela pode dormir numa hora dessas?
 !******************************!
 [t11_180_300.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:173>Acho que o desespero pelo sumi√ßo de filho cansou ela.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:173>Acho que o desespero pelo sumiÁo de filho cansou ela.<W>
 !------------------------------!
-Vamos, Luke. Quanto mais cedo encontrarmos a crian√ßa, mas cedo esta pobre mulher descansar√° em paz.
+Vamos, Luke. Quanto mais cedo encontrarmos a crianÁa, mas cedo esta pobre mulher descansar· em paz.
 !******************************!
 [t11_190_100.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:45>Oh! Olhe isto, Professor. √â...
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:45>Oh! Olhe isto, Professor. …...
 !******************************!
 [t11_190_200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:34>Restos de comida, se n√£o estou enganado.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:34>Restos de comida, se n„o estou enganado.
 !******************************!
 [t11_190_300.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:73>Acha que o Tom invadiu a cozinha para pegar algo para comer?
 !******************************!
 [t11_190_400.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:109>Bem, √© poss√≠vel, mas se esse for o caso, ent√£o ele est√° precisando de umas aulas sobre boas maneiras.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:109>Bem, È possÌvel, mas se esse for o caso, ent„o ele est· precisando de umas aulas sobre boas maneiras.
 !******************************!
 [t11_200_100.gds]
 <01:00000004><03:5>NONE<03:5>NONE<01:00000003><03:4>Oh!
 !******************************!
 [t11_200_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:31>Est√° tudo bem, senhora?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:31>Est· tudo bem, senhora?
 !******************************!
 [t11_200_300.gds]
 <01:00000004><03:5>NONE<03:5>NONE<01:00000003><03:32>Estou bem, obrigada. Desculpe-me
 !******************************!
 [t11_200_400.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:56>Ela n√£o lhe parecia...familiar, Professor?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:56>Ela n„o lhe parecia...familiar, Professor?
 !******************************!
 [t11_200_500.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:96>Hmm, agora que voc√™ falou, sim, algo nela me pareceu...familiar, como voc√™ disse.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:96>Hmm, agora que vocÍ falou, sim, algo nela me pareceu...familiar, como vocÍ disse.
 !******************************!
 [t11_210_100.gds]
-<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:86>Bom dia, senhores. Voc√™s estariam interessados numa refrescante bebida, ou deleciosas bolachinhas?
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:86>Bom dia, senhores. VocÍs estariam interessados numa refrescante bebida, ou deleciosas bolachinhas?
 !******************************!
 [t11_210_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:141>Desculpe-me, senhora, mas estamos no momento atr√°s de uma crian√ßa.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:141>Desculpe-me, senhora, mas estamos no momento atr·s de uma crianÁa.<W>
 !------------------------------!
-Por acaso voc√™ viu um menino andando por a√≠ sozinho neste vag√£o?
+Por acaso vocÍ viu um menino andando por aÌ sozinho neste vag„o?
 !******************************!
 [t11_210_300.gds]
-<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:136>Um garotinho, √©?<W> N√£o, desculpe-me senhor, mas n√£o vi nada do tipo.<W>
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:136>Um garotinho, È?<W> N„o, desculpe-me senhor, mas n„o vi nada do tipo.<W>
 !------------------------------!
 Ooh, ooh, o que aconteceu? Por acaso ele se perdeu pelo trem?
 !******************************!
 [t11_210_400.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:74>Sim. Infelizmente ainda n√£o conseguimos achar a criancinha perdida.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:74>Sim. Infelizmente ainda n„o conseguimos achar a criancinha perdida.
 !******************************!
 [t11_210_500.gds]
-<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:174>Sabe, eu n√£o deveria ficar por a√≠ espalhando boatos, mas... Ah bem, n√£o tenho nada melhor para fazer.<W>
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:174>Sabe, eu n„o deveria ficar por aÌ espalhando boatos, mas... Ah bem, n„o tenho nada melhor para fazer.<W>
 !------------------------------!
-Voc√™ sabia que tem uma velha estranha neste vag√£o?
+VocÍ sabia que tem uma velha estranha neste vag„o?
 !******************************!
 [t11_210_600.gds]
 <01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:277>E se ela raptou o menino e cozinhou ele em sua cabine?<W>
 !------------------------------!
-Sei que provavelmente n√£o √© verdade, mas e se fosse?! Ela √© t√£o bizarra que n√£o consigo deixar de imaginar...<W>
+Sei que provavelmente n„o È verdade, mas e se fosse?! Ela È t„o bizarra que n„o consigo deixar de imaginar...<W>
 !------------------------------!
-Mas eu poderia ter problemas por ficar falando besteiras para os passageiros. Apenas esque√ßa o que eu falei, beleza?
+Mas eu poderia ter problemas por ficar falando besteiras para os passageiros. Apenas esqueÁa o que eu falei, beleza?
 !******************************!
 [t11_210_700.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>Uma velha estranha, √©? Imagino sobre quem ser√° que ela est√° falando.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>Uma velha estranha, È? Imagino sobre quem ser· que ela est· falando.
 !******************************!
 [t11_210_800.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:78>Seu palpite √© t√£o bom quanto o meu, Luke. Mas certamente √© de se fazer pensar.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:78>Seu palpite È t„o bom quanto o meu, Luke. Mas certamente È de se fazer pensar.
 !******************************!
 [t11_211_100.gds]
-<01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:97>Estou simplesmente morrendo de t√©dio neste trem.<W> N√£o vejo a hora de largar esse trampo e encontrar um emprego de verdade.
+<01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:97>Estou simplesmente morrendo de tÈdio neste trem.<W> N„o vejo a hora de largar esse trampo e encontrar um emprego de verdade.
 !******************************!
 [t11_220_100.gds]
-<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:205>Ol√°, meus amores! Alguma vez j√° tiveram arrepios e tremeram as pernas por causa de enigmas assustadoramente dif√≠ceis?<W>
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:205>Ol·, meus amores! Alguma vez j· tiveram arrepios e tremeram as pernas por causa de enigmas assustadoramente difÌceis?<W>
 !------------------------------!
-Bem, n√£o temam! A bela e clarividente Vov√≥ Riddleton est√° diante de voc√™ para ajud√°-los!
+Bem, n„o temam! A bela e clarividente VovÛ Riddleton est· diante de vocÍ para ajud·-los!
 !******************************!
 [t11_220_200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:118>Como eu pensava! De quem mais essa cabaninha poderia ser?<W>
 !------------------------------!
-Ei, espere um segundo! O que voc√™ est√° fazendo aqui?
+Ei, espere um segundo! O que vocÍ est· fazendo aqui?
 !******************************!
 [t11_220_300.gds]
-<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:96>Ent√£o voc√™ ouviu falar de mim, hein, baixinho? Bom saber que ainda estou na boca dos jovens. Ehee hee!
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:96>Ent„o vocÍ ouviu falar de mim, hein, baixinho? Bom saber que ainda estou na boca dos jovens. Ehee hee!
 !******************************!
 [t11_220_400.gds]
-<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:77>O que voc√™ acha? √â claro que j√° ouvi falar de voc√™! N√≥s nos encontramos antes, n√£o se lembra?
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:77>O que vocÍ acha? … claro que j· ouvi falar de vocÍ! NÛs nos encontramos antes, n„o se lembra?
 !******************************!
 [t11_220_500.gds]
-<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:164>Hum. Negativo. Suspeito que voc√™ esteja se confundindo nas vov√≥s, garoto. Nunca vi voc√™s antes em toda minha vida.<W>
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:164>Hum. Negativo. Suspeito que vocÍ esteja se confundindo nas vovÛs, garoto. Nunca vi vocÍs antes em toda minha vida.<W>
 !------------------------------!
-Mas se est√£o aqui agora, √© porque querem conversar comigo, certo?
+Mas se est„o aqui agora, È porque querem conversar comigo, certo?
 !******************************!
 [t11_220_600.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:19>Err, na verdade n√£o...
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:19>Err, na verdade n„o...
 !******************************!
 [t11_220_700.gds]
-<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:124>Oh, n√£o seja t√£o modesto.<W>
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:124>Oh, n„o seja t„o modesto.<W>
 !------------------------------!
-Permitam-me agradec√™-los por me vistarem lhes dando uma pequena informa√ß√£o.
+Permitam-me agradecÍ-los por me vistarem lhes dando uma pequena informaÁ„o.
 !******************************!
 [t11_220_800.gds]
-<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:419>Minha especialidade, como podem ver, s√£o enigmas!<W> Enigmas que as pessoas esquecem!<W> Enigmas que as pessoas perdem!<W>
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:419>Minha especialidade, como podem ver, s„o enigmas!<W> Enigmas que as pessoas esquecem!<W> Enigmas que as pessoas perdem!<W>
 !------------------------------!
-Certamente voc√™s garotos tem alguns desses, n√©?<W> N√£o precisam ficar vermelhos. Acontece com os melhors resolvedores de enigmas.<W>
+Certamente vocÍs garotos tem alguns desses, nÈ?<W> N„o precisam ficar vermelhos. Acontece com os melhors resolvedores de enigmas.<W>
 !------------------------------!
-O que eu fa√ßo, como v√™, √© encontrar esses pobres enigmas perdidos e convidar para ficarem comigo.<W>
+O que eu faÁo, como vÍ, È encontrar esses pobres enigmas perdidos e convidar para ficarem comigo.<W>
 !------------------------------!
-Acredito que voc√™s possam dar um ol√° a todos os enigmas, que deixaram pelo caminho, dentro da minha cabana.
+Acredito que vocÍs possam dar um ol· a todos os enigmas, que deixaram pelo caminho, dentro da minha cabana.
 !******************************!
 [t11_220_900.gds]
-<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:153>Se a cabana estiver vazia, ent√£o √© porque voc√™s ainda n√£o perderam os enigmas e ter√£o que sair para ach√°-los!<W>
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:153>Se a cabana estiver vazia, ent„o È porque vocÍs ainda n„o perderam os enigmas e ter„o que sair para ach·-los!<W>
 !------------------------------!
-Agora, por que n√£o entram e veem o que tem l√° dentro?
+Agora, por que n„o entram e veem o que tem l· dentro?
 !******************************!
 [t11_230_100.gds]
-<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:99>Os enigmas dentro da cabana s√£o aquelas que voc√™s esqueceram de resolver. Vejam por voc√™s mesmo.
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:99>Os enigmas dentro da cabana s„o aquelas que vocÍs esqueceram de resolver. Vejam por vocÍs mesmo.
 !******************************!
 [t11_240_100.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:82>Desculpe-me, senhor. Por acaso voc√™ n√£o viu uma crian√ßa sem um dos sapatos andando por a√≠?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:82>Desculpe-me, senhor. Por acaso vocÍ n„o viu uma crianÁa sem um dos sapatos andando por aÌ?
 !******************************!
 [t11_240_200.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:111>Acredito que n√£o.<W>
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:111>Acredito que n„o.<W>
 !------------------------------!
-Mas parando para pensar, um casal que estava aqui agora a pouco estava conversando sobre uma crian√ßa.
+Mas parando para pensar, um casal que estava aqui agora a pouco estava conversando sobre uma crianÁa.
 !******************************!
 [t11_240_300.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:92>Interessante. Voc√™ tem alguma ideia de onde podemos encontrar esse casal, meu bom homem?
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:92>Interessante. VocÍ tem alguma ideia de onde podemos encontrar esse casal, meu bom homem?
 !******************************!
 [t11_240_400.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:93>Acredito que eles estejam no quarto vag√£o, senhor. Posso sugerir que lhes fa√ßam uma visita?
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:93>Acredito que eles estejam no quarto vag„o, senhor. Posso sugerir que lhes faÁam uma visita?
 !******************************!
 [t11_240_500.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:56>Uma fant√°stica sugest√£o. Obrigado por sua ajuda.
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:56>Uma fant·stica sugest„o. Obrigado por sua ajuda.
 !******************************!
 [t11_240_600.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:76>Vamos indo, Luke. Vamos encontrar o casal do quarto vag√£o.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:76>Vamos indo, Luke. Vamos encontrar o casal do quarto vag„o.
 !******************************!
 [t11_241_100.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:105>O casal, que estava falando da crian√ßa, est√° no quarto vag√£o. Por que n√£o vai visit√°-los?
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:105>O casal, que estava falando da crianÁa, est· no quarto vag„o. Por que n„o vai visit·-los?
 !******************************!
 [t11_250_100.gds]
-<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:86>Calma a√≠, jovenzinho! Voc√™ est√° na cabine errada! Eu e minha esposa estamos aqui!
+<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:86>Calma aÌ, jovenzinho! VocÍ est· na cabine errada! Eu e minha esposa estamos aqui!
 !******************************!
 [t11_250_1000.gds]
 <01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:81>Detesto dizer isso, mas parece que nossa pista esfriou, Professor.
 !******************************!
 [t11_250_1100.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:94>Pelo contr√°rio, Luke, acho que acabamos de topar com algumas informa√ß√µes extremamente valiosas.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:94>Pelo contr·rio, Luke, acho que acabamos de topar com algumas informaÁıes extremamente valiosas.
 !******************************!
 [t11_250_1200.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:29>O que quer dizer, Professor?
 !******************************!
 [t11_250_1300.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:70>Voc√™ ver√°. Primeiro, vamos voltar √† cena do desaparecimento de Tom.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:70>VocÍ ver·. Primeiro, vamos voltar ‡ cena do desaparecimento de Tom.
 !******************************!
 [t11_250_200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:149>Sentimos muito pela invas√£o, senhor, mas estamos procurando por uma crian√ßa perdida.<W>
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:149>Sentimos muito pela invas„o, senhor, mas estamos procurando por uma crianÁa perdida.<W>
 !------------------------------!
-Por acaso voc√™s viram ou ouviram algo relacionado a isso?
+Por acaso vocÍs viram ou ouviram algo relacionado a isso?
 !******************************!
 [t11_250_300.gds]
-<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:110>Oh, querido, acredito que eles estajam falando daquela gracinha que passou por n√≥s. Lembra-se?
+<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:110>Oh, querido, acredito que eles estajam falando daquela gracinha que passou por nÛs. Lembra-se?
 !******************************!
 [t11_250_400.gds]
 <01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:89>Uh... Oh! Sim, sim! Ele era uma gracinha mesmo. Pequeno e bastante esperto, por assim dizer.
 !******************************!
 [t11_250_500.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:60>Ent√£o voc√™s viram o Tom?<W> Est√£o procurando ele a algum tempo j√°.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:60>Ent„o vocÍs viram o Tom?<W> Est„o procurando ele a algum tempo j·.
 !******************************!
 [t11_250_600.gds]
-<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:99>Hein? Eu n√£o sabia dizer se ele era um garoto, ou uma garota, para dizer a verdade. Mas Tom √© mesmo um √≥timo nome.
+<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:99>Hein? Eu n„o sabia dizer se ele era um garoto, ou uma garota, para dizer a verdade. Mas Tom È mesmo um Ûtimo nome.
 !******************************!
 [t11_250_700.gds]
-<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:89>Oh besteira, querida. Posso apostar o meu melhor conjunto de ch√° que foi uma menina que passou por n√≥s.
+<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:89>Oh besteira, querida. Posso apostar o meu melhor conjunto de ch· que foi uma menina que passou por nÛs.
 !******************************!
 [t11_250_800.gds]
-<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:196>Hmm, sim, agora que voc√™ mencionou, tive a impress√£o de que o arteiro era uma garota.<W>
+<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:196>Hmm, sim, agora que vocÍ mencionou, tive a impress„o de que o arteiro era uma garota.<W>
 !------------------------------!
-Mas at√© que voc√™ vire-os de costa e d√™ uma boa olhada, n√£o h√° como ter certeza, n√£o √©?
+Mas atÈ que vocÍ vire-os de costa e dÍ uma boa olhada, n„o h· como ter certeza, n„o È?
 !******************************!
 [t11_250_900.gds]
-<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:90>Agora eu me perdi. N√£o tenho mais a menor ideia de quem n√≥s estamos falando.
+<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:90>Agora eu me perdi. N„o tenho mais a menor ideia de quem nÛs estamos falando.
 !******************************!
 [t11_250_950.gds]
-<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:9>O qu√™?!<@s>
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:9>O quÍ?!<@s>
 !******************************!
 [t11_260_100.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:16>Ah, Inspetor! 
 !******************************!
 [t11_260_1000.gds]
-<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:107>Ah, l√° vem voc√™ com esses papos sem sentido. Ent√£o continue bancando o detetive. Voc√™ n√£o vai chegar a lugar algum, fique certo disso!
+<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:107>Ah, l· vem vocÍ com esses papos sem sentido. Ent„o continue bancando o detetive. VocÍ n„o vai chegar a lugar algum, fique certo disso!
 !******************************!
 [t11_260_150.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:84>Diga-me, voc√™ esta de alguma forma pr√≥ximo de revelar o mist√©rio sobre a crian√ßa desaparecida?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:84>Diga-me, vocÍ esta de alguma forma prÛximo de revelar o mistÈrio sobre a crianÁa desaparecida?
 !******************************!
 [t11_260_200.gds]
-<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:77>Ent√£o voc√™s ainda est√£o revirando os m√≥veis atr√°s daquele garoto?
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:77>Ent„o vocÍs ainda est„o revirando os mÛveis atr·s daquele garoto?
 !******************************!
 [t11_260_300.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:55>Hm? Voc√™ quer dizer que a crian√ßa foi encontrada?
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:55>Hm? VocÍ quer dizer que a crianÁa foi encontrada?
 !******************************!
 [t11_260_400.gds]
-<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:280>N√£o, n√£o, n√£o at√© agora.<W> O que estou dizendo √© que a crian√ßa n√£o se encontra mais neste trem.<W>
+<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:280>N„o, n„o, n„o atÈ agora.<W> O que estou dizendo È que a crianÁa n„o se encontra mais neste trem.<W>
 !------------------------------!
-Eu interroguei todos a bordo, mas ningu√©m me deu uma resposta que sugerisse que tenham visto o menino.<W>
+Eu interroguei todos a bordo, mas ninguÈm me deu uma resposta que sugerisse que tenham visto o menino.<W>
 !------------------------------!
-Isso me leva a concluir que a pobre crian√ßa desceu ou caiu do trem.
+Isso me leva a concluir que a pobre crianÁa desceu ou caiu do trem.
 !******************************!
 [t11_260_500.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:11>Caiu?!
 !******************************!
 [t11_260_600.gds]
-<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:267>Sim, o que √© extramemente plaus√≠vel, visto que crian√ßas adoram sair correndo por a√≠ sem cuidado.<W>
+<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:267>Sim, o que È extramemente plausÌvel, visto que crianÁas adoram sair correndo por aÌ sem cuidado.<W>
 !------------------------------!
-Quando combina isso mais suas cabe√ßas desproporcionalmente grandes, voc√™ tem os ingredientes certos para um desastre.<W>
+Quando combina isso mais suas cabeÁas desproporcionalmente grandes, vocÍ tem os ingredientes certos para um desastre.<W>
 !------------------------------!
-Contatarei a pol√≠cia ferrovi√°ria na pr√≥xima esta√ß√£o, ent√£o sinta-se convidado a desistir de sua busca.
+Contatarei a polÌcia ferrovi·ria na prÛxima estaÁ„o, ent„o sinta-se convidado a desistir de sua busca.
 !******************************!
 [t11_260_700.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:202>Apenas um minuto, Inspentor. As janelas neste trem s√£o bem altas e cada sa√≠da √© vigiada.<W>
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:202>Apenas um minuto, Inspentor. As janelas neste trem s„o bem altas e cada saÌda È vigiada.<W>
 !------------------------------!
-Dada a situa√ß√£o, n√£o acha improv√°vel que uma crian√ßa tenha sa√≠do do trem sem ningu√©m ter visto?
+Dada a situaÁ„o, n„o acha improv·vel que uma crianÁa tenha saÌdo do trem sem ninguÈm ter visto?
 !******************************!
 [t11_260_800.gds]
-<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:107>Tudo bem, estou ouvindo voc√™. Ent√£o, diga-me, Layton, onde voc√™ acha que esse pestinha escorregadio est√°?
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:107>Tudo bem, estou ouvindo vocÍ. Ent„o, diga-me, Layton, onde vocÍ acha que esse pestinha escorregadio est·?
 !******************************!
 [t11_260_900.gds]
-<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:94>Isso eu n√£o posso dizer. Mas alguma coisa me diz que estamos seguindo a dire√ß√£o errada...
+<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:94>Isso eu n„o posso dizer. Mas alguma coisa me diz que estamos seguindo a direÁ„o errada...
 !******************************!
 [t11_270_100.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:199>Veja s√≥, se n√£o √© o famoso Mr Layton, vagando por a√≠ como se soubesse algo que eu n√£o sei.<W>
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:199>Veja sÛ, se n„o È o famoso Mr Layton, vagando por aÌ como se soubesse algo que eu n„o sei.<W>
 !------------------------------!
-Estava prestes a visitar Babette e inform√°-la que sua crian√ßa n√£o se encontra mais a bordo do trem.
+Estava prestes a visitar Babette e inform·-la que sua crianÁa n„o se encontra mais a bordo do trem.
 !******************************!
 [t11_270_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:152>Inspetor, estamos a poucos instantes de descobrir a localiza√ß√£o de Tom.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:152>Inspetor, estamos a poucos instantes de descobrir a localizaÁ„o de Tom.<W>
 !------------------------------!
-Posso lhe pedir um pouco mais de tempo para pensar na situa√ß√£o?
+Posso lhe pedir um pouco mais de tempo para pensar na situaÁ„o?
 !******************************!
 [t11_270_300.gds]
-<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:159>Ainda n√£o querendo enfrentar a verdade, hein, Layton?<W>
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:159>Ainda n„o querendo enfrentar a verdade, hein, Layton?<W>
 !------------------------------!
-Tudo bem, j√° que voc√™ est√° t√£o decidido e Babette est√° dormindo neste exato momento, irei esperar mais um pouco.
+Tudo bem, j· que vocÍ est· t„o decidido e Babette est· dormindo neste exato momento, irei esperar mais um pouco.
 !******************************!
 [t11_270_400.gds]
-<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:148>Por√©m, no momento em que ela acordar, irei mostrar o que descobri a ela. Entendido?<W>
+<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:148>PorÈm, no momento em que ela acordar, irei mostrar o que descobri a ela. Entendido?<W>
 !------------------------------!
-Se voc√™ quer provar que est√° certo, traga o garoto antes disso.
+Se vocÍ quer provar que est· certo, traga o garoto antes disso.
 !******************************!
 [t11_270_500.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:48>Entendido. Planejo fazer exatamente isso, Inspetor.
 !******************************!
 [t11_270_600.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:74>√â melhor encontrarmos logo essa garota com o cachorro, Professor.
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:74>… melhor encontrarmos logo essa garota com o cachorro, Professor.
 !******************************!
 [t11_271_100.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:91>Traga o garoto aqui antes de Babette acordar ou darei a ela as m√°s novas. Entendido?
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:91>Traga o garoto aqui antes de Babette acordar ou darei a ela as m·s novas. Entendido?
 !******************************!
 [t11_280_100.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:7>Hmm...
 !******************************!
 [t11_280_200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:51>No que voc√™ est√° pensando, meu garoto? Voc√™ parece distra√≠do.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:51>No que vocÍ est· pensando, meu garoto? VocÍ parece distraÌdo.
 !******************************!
 [t11_280_300.gds]
-<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:95>√â dif√≠cil dizer o porqu√™, mas tenho a impress√£o de que algu√©m tem nos vigiado a algum tempo.
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:95>… difÌcil dizer o porquÍ, mas tenho a impress„o de que alguÈm tem nos vigiado a algum tempo.
 !******************************!
 [t11_280_400.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:56>Voc√™ tamb√©m? Estava com a mesma sensa√ß√£o.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:56>VocÍ tambÈm? Estava com a mesma sensaÁ„o.
 !******************************!
 [t11_280_500.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:50>Acha que algu√©m possa estar...nos seguindo?
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:50>Acha que alguÈm possa estar...nos seguindo?
 !******************************!
 [t11_280_600.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:64>√â certamente poss√≠vel. Mantenha um olho em qualquer coisa fora do comum.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:64>… certamente possÌvel. Mantenha um olho em qualquer coisa fora do comum.
 !******************************!
 [t11_290_100.gds]
-<01:0000000D><03:10>b1 normal<03:5>NONE<01:00000002><03:67>Sauda√ß√µes, senhor. Ainda procurando a crian√ßa perdida?
+<01:0000000D><03:10>b1 normal<03:5>NONE<01:00000002><03:67>SaudaÁıes, senhor. Ainda procurando a crianÁa perdida?
 !******************************!
 [t11_290_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:118>Sim, ainda estamos procurando.<W>
 !------------------------------!
-Diga-me, senhor, h√° alguma chance de voc√™ ter visto passar por aqui uma jovem com um cachorro pequeno?
+Diga-me, senhor, h· alguma chance de vocÍ ter visto passar por aqui uma jovem com um cachorro pequeno?
 !******************************!
 [t11_290_300.gds]
-<01:0000000D><03:10>b1 normal<03:5>NONE<01:00000002><03:94>Ah, tenho a impress√£o que sim. Acredito que ela estava seguindo em dire√ß√£o ao fim do trem.
+<01:0000000D><03:10>b1 normal<03:5>NONE<01:00000002><03:94>Ah, tenho a impress„o que sim. Acredito que ela estava seguindo em direÁ„o ao fim do trem.
 !******************************!
 [t11_290_400.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:55>√â tudo? Muito obrigado, senhor, voc√™ foi de grande ajuda.
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:55>… tudo? Muito obrigado, senhor, vocÍ foi de grande ajuda.
 !******************************!
 [t11_291_100.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:110>Se voc√™ est√° procurando por aquela garota e seu cachorro, acredito que eles tenham ido para o √∫ltimo vag√£o do trem.
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:110>Se vocÍ est· procurando por aquela garota e seu cachorro, acredito que eles tenham ido para o ˙ltimo vag„o do trem.
 !******************************!
 [t11_310_100.gds]
-<01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:35>√â claro! O c√£o que vimos antes.
+<01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:35>… claro! O c„o que vimos antes.
 !******************************!
 [t11_310_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:17>R√°pido! Pegue ele!
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:17>R·pido! Pegue ele!
 !******************************!
 [t11_310_300.gds]
 <01:0000000C><03:5>NONE<03:5>NONE<01:00000002><03:5>Auf!
 !******************************!
 [t11_310_400.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:52>E pensar que est√°vamos atr√°s de um cachorro todo esse tempo...!
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:52>E pensar que est·vamos atr·s de um cachorro todo esse tempo...!
 !******************************!
 [t11_310_500.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:66>Ho ho, isso mesmo, Luke. Agora, vamos devolv√™-lo para seu dono.
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:66>Ho ho, isso mesmo, Luke. Agora, vamos devolvÍ-lo para seu dono.
 !******************************!
 [t11_310_600.gds]
-<01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:48>Oh, um... Se importaria se eu fosse com voc√™s?
+<01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:48>Oh, um... Se importaria se eu fosse com vocÍs?
 !******************************!
 [t11_310_700.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:31>Claro que n√£o. Venha conosco.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:31>Claro que n„o. Venha conosco.
 !******************************!
 [t11_320_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:76>O vag√£o de Madame Babette est√° logo a frente. Vamos devolver para ela seu cachorro.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:76>O vag„o de Madame Babette est· logo a frente. Vamos devolver para ela seu cachorro.
 !******************************!
 [t11_330_100.gds]
-<01:0000000B><03:9>b1 smile<03:5>NONE<01:00000002><03:106>Oh, √© um milagre! Meu doce Tomzinho! Senti tanto sua falta! Meu garoto! Meu beb√™!
+<01:0000000B><03:9>b1 smile<03:5>NONE<01:00000002><03:106>Oh, È um milagre! Meu doce Tomzinho! Senti tanto sua falta! Meu garoto! Meu bebÍ!
 !******************************!
 [t11_330_1000.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:85>Err, talvez devessemos manter o envolvimento de Flora no sumi√ßo de Tom apenas para n√≥s?
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:85>Err, talvez devessemos manter o envolvimento de Flora no sumiÁo de Tom apenas para nÛs?
 !******************************!
 [t11_330_1100.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:19>Boa ideia, meu garoto.
@@ -668,93 +668,93 @@ Diga-me, senhor, h√° alguma chance de voc√™ ter visto passar por aqui uma jovem 
 <01:00000005><03:10>b1 notalk<03:5>NONE<01:00000006><03:5>Au au.
 !******************************!
 [t11_330_1200.gds]
-<01:0000000B><03:9>b1 smile<03:5>NONE<01:00000002><03:95>Acredito que seja necess√°ria uma recompensa.<W>
-Aqui, sei que √© bem, ahem, generosa, mas eu insisto!
+<01:0000000B><03:9>b1 smile<03:5>NONE<01:00000002><03:95>Acredito que seja necess·ria uma recompensa.<W>
+Aqui, sei que È bem, ahem, generosa, mas eu insisto!
 !******************************!
 [t11_330_1300.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:113>Bem, mist√©rio resolvido.<W>
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:113>Bem, mistÈrio resolvido.<W>
 !------------------------------!
 E com isso, vamos voltar para nossa cabine e tirar um merecido descanso.
 !******************************!
 [t11_330_1400.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:122>Certo, Professor!<W>
 !------------------------------!
-Caramba, √© dif√≠cil de imaginar que viemos at√© aqui para procurar pela Caixa El√≠sia e acabamos atr√°s de um cachorro perdido!
+Caramba, È difÌcil de imaginar que viemos atÈ aqui para procurar pela Caixa ElÌsia e acabamos atr·s de um cachorro perdido!
 !******************************!
 [t11_330_1500.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:274>Bem, Luke, para atingir objetivos maiores, √†s vezes √© necess√°rio desviar do caminho original.<W>
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:274>Bem, Luke, para atingir objetivos maiores, ‡s vezes È necess·rio desviar do caminho original.<W>
 !------------------------------!
-Para ser honesto, come√ßo a achar que a chave para encontrar a Caixa El√≠sia n√£o est√° neste trem.<W>
+Para ser honesto, comeÁo a achar que a chave para encontrar a Caixa ElÌsia n„o est· neste trem.<W>
 !------------------------------!
-Por√©m, ela pode estar em um dos muitos destinos deste trem.
+PorÈm, ela pode estar em um dos muitos destinos deste trem.
 !******************************!
 [t11_330_1600.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:76>Voc√™ pode ter raz√£o, Professor! Alguma ideia sobre a pr√≥xima parada do trem?
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:76>VocÍ pode ter raz„o, Professor! Alguma ideia sobre a prÛxima parada do trem?
 !******************************!
 [t11_330_1700.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:78>Ouvi que iremos fazer uma parada em um pacato vilarejo de nome Dropstone.
 !******************************!
 [t11_330_1800.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:157>Hmm, n√£o √© o tipo de nome que se ouve todo dia. Que tipo de coisas iremos encontrar l√°?<W>
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:157>Hmm, n„o È o tipo de nome que se ouve todo dia. Que tipo de coisas iremos encontrar l·?<W>
 !------------------------------!
-Ah, n√£o vejo a hora de descer l√° e come√ßar a explorar!
+Ah, n„o vejo a hora de descer l· e comeÁar a explorar!
 !******************************!
 [t11_330_1900.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:48>Quanto tempo mais at√© chegarmos l√°, Professor?
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:48>Quanto tempo mais atÈ chegarmos l·, Professor?
 !******************************!
 [t11_330_200.gds]
 <01:0000000C><03:5>NONE<03:5>NONE<01:00000002><03:9>Arf arf!
 !******************************!
 [t11_330_2000.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:102>N√£o tenho tanta certeza. Por que n√£o descansamos at√© chegarmos l√°? Isso deve fazer o tempo passar mais r√°pido.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:102>N„o tenho tanta certeza. Por que n„o descansamos atÈ chegarmos l·? Isso deve fazer o tempo passar mais r·pido.
 !******************************!
 [t11_330_300.gds]
-<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:115>ESTE √© o Tom?!<W>
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:115>ESTE È o Tom?!<W>
 !------------------------------!
-T√≠nhamos a impress√£o de que est√°vamos procurando por um menino, n√£o um vira-lata com penteado engra√ßado!
+TÌnhamos a impress„o de que est·vamos procurando por um menino, n„o um vira-lata com penteado engraÁado!
 !******************************!
 [t11_330_400.gds]
 <01:0000000B><03:9>b1 angry<03:5>NONE<01:00000002><03:76>Como se atreve a comparar meu Tom-tom a um sarnento de rua qualquer?!
 !******************************!
 [t11_330_500.gds]
-<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:190>C√£es perdidos n√£o s√£o problema da Scotland Yard. Da pr√≥xima vez que ele se perder, procure por conta pr√≥pria!<W>
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:190>C„es perdidos n„o s„o problema da Scotland Yard. Da prÛxima vez que ele se perder, procure por conta prÛpria!<W>
 !------------------------------!
-Caramba, algumas pessoas n√£o tem no√ß√£o. Vamos, Barton, temos casos de verdade para resolver.
+Caramba, algumas pessoas n„o tem noÁ„o. Vamos, Barton, temos casos de verdade para resolver.
 !******************************!
 [t11_330_600.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:27>Um... Sim senhor, Inspetor.
 !******************************!
 [t11_330_700.gds]
-<01:0000000B><03:6>shout<03:5>NONE<01:00000002><03:92>N√£o se afaste de mim! Quero ter uma palavrinha com voc√™ sobre esses seus modos abomin√°veis!
+<01:0000000B><03:6>shout<03:5>NONE<01:00000002><03:92>N„o se afaste de mim! Quero ter uma palavrinha com vocÍ sobre esses seus modos abomin·veis!
 !******************************!
 [t11_330_800.gds]
-<01:0000000B><03:10>b1 normal<03:5>NONE<01:00000002><03:95>Bem, chega disso. Bem vindo de volta, minha do√ßura. Onde meu Tomzinho foi hoje?
+<01:0000000B><03:10>b1 normal<03:5>NONE<01:00000002><03:95>Bem, chega disso. Bem vindo de volta, minha doÁura. Onde meu Tomzinho foi hoje?
 !******************************!
 [t11_330_900.gds]
-<01:0000000B><03:9>b1 smile<03:5>NONE<01:00000002><03:94>Ele √© t√£o querido que tive medo que algu√©m tive sequestrado ele para pedir resgate.
+<01:0000000B><03:9>b1 smile<03:5>NONE<01:00000002><03:94>Ele È t„o querido que tive medo que alguÈm tive sequestrado ele para pedir resgate.
 !******************************!
 [t11_350_100.gds]
-<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:99>Sei que √© um belo presente, mas voc√™ resgatou meu menino, ent√£o insisto para que fique com ele. Aha ha ha ha!
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:99>Sei que È um belo presente, mas vocÍ resgatou meu menino, ent„o insisto para que fique com ele. Aha ha ha ha!
 !******************************!
 [t11_360_100.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:53>Diga, Flora, onde voc√™ estava se escondendo todo esse tempo?
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:53>Diga, Flora, onde vocÍ estava se escondendo todo esse tempo?
 !******************************!
 [t11_360_200.gds]
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:72>Bem, depois que eu encontrei aquele cachorrinho, fiquei descansando na minha cabine.
 !******************************!
 [t11_360_300.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:34>S√©rio? Voc√™ tem sua pr√≥pria cabine?
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:34>SÈrio? VocÍ tem sua prÛpria cabine?
 !******************************!
 [t11_360_400.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:56>Claro que sim. √â a do meio no terceiro vag√£o.
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:56>Claro que sim. … a do meio no terceiro vag„o.
 !******************************!
 [t11_360_500.gds]
-<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:65>Uau! Voc√™ sabia que essa era a cabine ao lado da nossa, n√£o √©?
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:65>Uau! VocÍ sabia que essa era a cabine ao lado da nossa, n„o È?
 !******************************!
 [t11_360_600.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:151>Voc√™ estava a apenas uma parede de dist√¢ncia de n√≥s e em nenhum momento eu suspeitei que voc√™ estivesse aqui.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:151>VocÍ estava a apenas uma parede de dist‚ncia de nÛs e em nenhum momento eu suspeitei que vocÍ estivesse aqui.<W>
 !------------------------------!
-Ao que tudo indica, meus poderes de observa√ß√£o est√£o um pouco enferrujados!
+Ao que tudo indica, meus poderes de observaÁ„o est„o um pouco enferrujados!
 !******************************!
 [t11_370_100.gds]
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:5>Aii!
@@ -765,52 +765,52 @@ Ao que tudo indica, meus poderes de observa√ß√£o est√£o um pouco enferrujados!
 Por que o trem parou?!
 !******************************!
 [t11_370_300.gds]
-<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:17>O que est√° acontecendo?
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:17>O que est· acontecendo?
 !******************************!
 [t11_380_100.gds]
-<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:46>Samuel, seu incompetente! O que voc√™ fez dessa vez?
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:46>Samuel, seu incompetente! O que vocÍ fez dessa vez?
 !******************************!
 [t11_380_200.gds]
-<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:172>Ei, chefinho, segura o grito a√≠. Parece que h√° um trem quebrado no meio dos trilhos.<W>
+<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:172>Ei, chefinho, segura o grito aÌ. Parece que h· um trem quebrado no meio dos trilhos.<W>
 !------------------------------!
-At√© tirarmos ele do caminho, n√£o iremos a lugar algum, cara.
+AtÈ tirarmos ele do caminho, n„o iremos a lugar algum, cara.
 !******************************!
 [t11_380_300.gds]
-<01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:108>Ent√£o mexa-se e tire-o de l√°!<W>
+<01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:108>Ent„o mexa-se e tire-o de l·!<W>
 !------------------------------!
-N√£o vou deixar que sua pregui√ßa manche a marca Molentary!
+N„o vou deixar que sua preguiÁa manche a marca Molentary!
 !******************************!
 [t11_380_400.gds]
-<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:63>Mas, uh, trens s√£o pesados, cara! Como espera que eu mova ele?
+<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:63>Mas, uh, trens s„o pesados, cara! Como espera que eu mova ele?
 !******************************!
 [t11_380_500.gds]
-<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:154>N√£o quero desculpas, ainda mais vindo de um condutor pregui√ßoso que nem voc√™, que mal vale o sal√°rio que recebe!<W>
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:154>N„o quero desculpas, ainda mais vindo de um condutor preguiÁoso que nem vocÍ, que mal vale o sal·rio que recebe!<W>
 !------------------------------!
-N√£o me importa de que modo voc√™ vai fazer! Apenas fa√ßa!
+N„o me importa de que modo vocÍ vai fazer! Apenas faÁa!
 !******************************!
 [t11_380_600.gds]
-<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:63>Certo, certo, pode deixar que vou tentar. Apenas relaxa a√≠, Titio.
+<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:63>Certo, certo, pode deixar que vou tentar. Apenas relaxa aÌ, Titio.
 !******************************!
 [t11_380_700.gds]
 <01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:119><''>Titio<''>?!<W>
 !------------------------------!
-Posso ser seu tio, mas tamb√©m sou o presidente desta ferrovia, ent√£o exijo que me trate como tal!
+Posso ser seu tio, mas tambÈm sou o presidente desta ferrovia, ent„o exijo que me trate como tal!
 !******************************!
 [t11_380_800.gds]
 <01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:56>Certo, tudo bem, pode deixar. Como quiser, vossa majestade...
 !******************************!
 [t11_390_100.gds]
-<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:94>Bah! Eu sou muito bom para esse meu sobrinho insolente e debochado! Tudo o que ele sabe fazer √© reclamar!
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:94>Bah! Eu sou muito bom para esse meu sobrinho insolente e debochado! Tudo o que ele sabe fazer È reclamar!
 !******************************!
 [t11_400_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:35>Que problema temos aqui?
 !******************************!
 [t11_400_200.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:216>Ah, perd√£o, Mr Passageiro.<W>
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:216>Ah, perd„o, Mr Passageiro.<W>
 !------------------------------!
-Veja, h√° este enorme trem parado nos trilhos bloqueando nossa passagem.<W>
+Veja, h· este enorme trem parado nos trilhos bloqueando nossa passagem.<W>
 !------------------------------!
-Limpar os trilhos ir√° levar algum tempo, ent√£o, hum, pe√ßo para que sente-se e espere.
+Limpar os trilhos ir· levar algum tempo, ent„o, hum, peÁo para que sente-se e espere.
 !******************************!
 [t11_400_400.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>Entendo.<W> Posso ajudar em alguma coisa?
@@ -821,55 +821,55 @@ Limpar os trilhos ir√° levar algum tempo, ent√£o, hum, pe√ßo para que sente-se e
 Acha que pode mover esse trem bloqueando os trilhos para que possamos, tipo assim, seguir viagem?
 !******************************!
 [t11_400_600.gds]
-<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:82>Um passo attr√°s, por favor. N√£o iremos a lugar algum enquanto n√£o tirarmos esse trem dos trilhos.
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:82>Um passo attr·s, por favor. N„o iremos a lugar algum enquanto n„o tirarmos esse trem dos trilhos.
 !******************************!
 [t11_410_100.gds]
 <01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:51>Sim? O que foi? Precisa de algo?
 !******************************!
 [t11_410_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:52>Na verdade, senhor, n√£o adorar√≠amos se voc√™-
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:52>Na verdade, senhor, n„o adorarÌamos se vocÍ-
 !******************************!
 [t11_410_300.gds]
-<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:385>Opa, opa, espere a√≠ mesmo, engomadinho! Olha s√≥ essa pequena quantidade de enigmas que voc√™ resolveu!<W>
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:385>Opa, opa, espere aÌ mesmo, engomadinho! Olha sÛ essa pequena quantidade de enigmas que vocÍ resolveu!<W>
 !------------------------------!
-Olha, voc√™ pode at√© achar que pode se dar bem na vida fazendo apenas o m√≠nimo necess√°rio...<W>
+Olha, vocÍ pode atÈ achar que pode se dar bem na vida fazendo apenas o mÌnimo necess·rio...<W>
 !------------------------------!
-Mas esse tipo de pensamento n√£o vai lhe levar a lugar algum...<W>Ou dar a chande de conversar comigo!<W>
+Mas esse tipo de pensamento n„o vai lhe levar a lugar algum...<W>Ou dar a chande de conversar comigo!<W>
 !------------------------------!
 Se quiser conversar, mostre um pouco mais de iniciativa. Volte quando tiver resolvido 12 ou mais enigmas!
 !******************************!
 [t11_411_100.gds]
-<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:386>Opa, opa, espere a√≠ mesmo, engomadinho! Olha s√≥ essa pequena quantidade de enigmas que voc√™ resolveu!<W>
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:386>Opa, opa, espere aÌ mesmo, engomadinho! Olha sÛ essa pequena quantidade de enigmas que vocÍ resolveu!<W>
 !------------------------------!
-Olha, voc√™ pode at√© achar que pode se dar bem na vida fazendo apenas o m√≠nimo necess√°rio...<W>
+Olha, vocÍ pode atÈ achar que pode se dar bem na vida fazendo apenas o mÌnimo necess·rio...<W>
 !------------------------------!
-Mas esse tipo de pensamento n√£o vai lhe levar a lugar algum...<W>Ou dar a chande de conversar comigo!<W>
+Mas esse tipo de pensamento n„o vai lhe levar a lugar algum...<W>Ou dar a chande de conversar comigo!<W>
 !------------------------------!
 Se quiser conversar, mostre um pouco mais de iniciativa. Volte quando tiver resolvido 12 ou mais enigmas!
 !******************************!
 [t11_412_100.gds]
-<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:197>Olha isso! Voc√™ conseguir resolver pelo menos 12 enigmas. Aplausos para voc√™!<W> De cora√ß√£o!<W>
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:197>Olha isso! VocÍ conseguir resolver pelo menos 12 enigmas. Aplausos para vocÍ!<W> De coraÁ„o!<W>
 !------------------------------!
-N√£o consigo entender como n√£o gostei de dois apaixonados resolvedores de enigmas como voc√™s. Vamos ser amigos, n√©?
+N„o consigo entender como n„o gostei de dois apaixonados resolvedores de enigmas como vocÍs. Vamos ser amigos, nÈ?
 !******************************!
 [t11_430_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:112>C√©us, essa mulher √© o exato tipo de pessoas que eu esperaria ver no Molentary Express.<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:112>CÈus, essa mulher È o exato tipo de pessoas que eu esperaria ver no Molentary Express.<W>
 !------------------------------!
 Falando sobre riquezas e futilidades!
 !******************************!
 [t11_430_200.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:188>√â verdade. Este trem est√° cheio de pessoas afortunadas, como essa mulher que acabamos de conhecer.<W>
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:188>… verdade. Este trem est· cheio de pessoas afortunadas, como essa mulher que acabamos de conhecer.<W>
 !------------------------------!
-Precisamos cuidar nossas palavras aqui. Uma ocasi√£o formal exige formalidades, n√£o acha?
+Precisamos cuidar nossas palavras aqui. Uma ocasi„o formal exige formalidades, n„o acha?
 !******************************!
 [t11_430_300.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:23>Absolutamente, Professor!
 !******************************!
 [t11_440_100.gds]
-<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:152>C√©us, n√£o precisa me olhar com tanta raiva. N√£o sabia que senhoras sempre em primeiro lugar?<W>
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:152>CÈus, n„o precisa me olhar com tanta raiva. N„o sabia que senhoras sempre em primeiro lugar?<W>
 !------------------------------!
 Especialmente senhoras de certa classe, como - aha ha ha - eu.
 !******************************!
 [t11_440_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>N√£o tenho certeza se <''>classe<''> √© a palavra que ela queria usar aqui.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>N„o tenho certeza se <''>classe<''> È a palavra que ela queria usar aqui.
 !******************************!
