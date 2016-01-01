@@ -1,49 +1,66 @@
 [t25_000_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:98>That is a fascinating painting.<W>
 !------------------------------!
-Have you ever seen such a convincing illustration of a ball?
+Have you ever seen such a
+convincing illustration of a
+ball?
 !******************************!
 [t25_000_300.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:182>From what we've seen of this castle, I'm certain the ball was extremely opulent.<W>
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:182>From what we've seen of this
+castle, I'm certain the ball was
+extremely opulent.<W>
 !------------------------------!
-My, it's getting late. There's time for a quick puzzle and then it's off to sleep, all right?
+My, it's getting late. There's time
+for a quick puzzle and then it's off
+to sleep, all right?
 !******************************!
 [t25_001_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:31>Care to try this puzzle again?
 !******************************!
 [t25_002_100.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:55>The brushwork on this painting is simply magnificent.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:55>The brushwork on this painting is
+simply magnificent.
 !******************************!
 [t25_003_100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:110>It really is a magnificent picture.<W>
 !------------------------------!
-...Oh, what's this? Luke, tell me, do these two look familiar to you?
+...Oh, what's this? Luke, tell me, do
+these two look familiar to you?
 !******************************!
 [t25_003_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:99>It looks like Anton...and is that Katia? Or are my eyes playing tricks on me? I must be tired...
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:99>It looks like Anton...and is that
+Katia? Or are my eyes playing
+tricks on me? I must be tired...
 !******************************!
 [t25_003_300.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:68>A good question, but one best left for tomorrow. For now, we rest.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:68>A good question, but one best left
+for tomorrow. For now, we rest.
 !******************************!
 [t25_003_400.gds]
-<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:55>I suppose so. Now that you mention it, I'm exhausted!
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:55>I suppose so. Now that you mention
+it, I'm exhausted!
 !******************************!
 [t25_004_100.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:30>Gosh, that one sure is tough.
 !******************************!
 [t25_010_100.gds]
-<01:00000052><03:8>b1 weep<03:5>NONE<01:00000003><03:57>Did you hear that?! Anton's going to eat us for dinner!
+<01:00000052><03:8>b1 weep<03:5>NONE<01:00000003><03:57>Did you hear that?! Anton's going
+to eat us for dinner!
 !******************************!
 [t25_010_200.gds]
-<01:00000051><03:5>NONE<03:5>NONE<01:00000002><03:62>Luke, listen to me. Take a deep breath and collect yourself.
+<01:00000051><03:5>NONE<03:5>NONE<01:00000002><03:62>Luke, listen to me. Take a deep
+breath and collect yourself.
 !******************************!
 [t25_010_300.gds]
 <01:00000052><03:5>NONE<03:5>NONE<01:00000003><03:7>But...
 !******************************!
 [t25_010_400.gds]
-<01:00000051><03:9>b1 smile<03:5>NONE<01:00000002><03:137>There's no cause for worry, my boy. Whoever tied these ropes was clearly no sailor.<W>
+<01:00000051><03:9>b1 smile<03:5>NONE<01:00000002><03:137>There's no cause for worry, my
+boy. Whoever tied these ropes
+was clearly no sailor.<W>
 !------------------------------!
-With a little work, I may be able to get free.
+With a little work, I may be able
+to get free.
 !******************************!
 [t25_011_100.gds]
 <01:00000051><03:5>NONE<03:5>NONE<01:00000002><03:15>One more time.
@@ -52,68 +69,99 @@ With a little work, I may be able to get free.
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:36>We're finally free. Thank goodness.
 !******************************!
 [t25_013_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:96>We're finally free, but there's no time to stand around. We must find a way out, and quickly!
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:96>We're finally free, but there's
+no time to stand around. We must
+find a way out, and quickly!
 !******************************!
 [t25_014_100.gds]
 <01:00000051><03:5>NONE<03:5>NONE<01:00000002><03:25>I can't quite get loose.
 !******************************!
 [t25_020_100.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:41>Professor, take a look at this picture.
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:41>Professor, take a look at this
+picture.
 !******************************!
 [t25_020_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:68>There he is. The current head of the Herzen family, large as life.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:68>There he is. The current head of
+the Herzen family, large as life.
 !******************************!
 [t25_020_300.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:65>You mean the head vampire of the Herzen family, large as death!
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:65>You mean the head vampire of the
+Herzen family, large as death!
 !******************************!
 [t25_020_400.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:11>Strange...
 !******************************!
 [t25_020_500.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:60>Strange? What's so strange about this portrait, Professor?
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:60>Strange? What's so strange about
+this portrait, Professor?
 !******************************!
 [t25_020_600.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:152>This picture. It's far too worn to have been made in recent years.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:152>This picture. It's far too
+worn to have been made in
+recent years.<W>
 !------------------------------!
-Yet you saw Anton yourself. The man and his portrait are virtually identical.
+Yet you saw Anton yourself.
+The man and his portrait are
+virtually identical.
 !******************************!
 [t25_020_700.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:144>I see what you're getting at. He doesn't age...<W>
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:144>I see what you're getting at. He
+doesn't age...<W>
 !------------------------------!
-So he really is a vampire! I knew it! We need to get out of here this instant, Professor!
+So he really is a vampire! I knew
+it! We need to get out of here
+this instant, Professor!
 !******************************!
 [t25_020_800.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:208>Perhaps those rumours in the town weren't entirely unfounded.<W>
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:208>Perhaps those rumours in the town
+weren't entirely unfounded.<W>
 !------------------------------!
-But running about in a panic has never solved anything.<W>
+But running about in a panic has
+never solved anything.<W>
 !------------------------------!
-Why don't we take a moment to clear our heads with this puzzle about portraits.
+Why don't we take a moment to
+clear our heads with this puzzle
+about portraits.
 !******************************!
 [t25_020_900.gds]
-<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:57>A puzzle?! Is this really the time or place, Professor?
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:57>A puzzle?! Is this really the
+time or place, Professor?
 !******************************!
 [t25_021_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:88>As I was saying, I know a rather wonderful puzzle that deals with a few works of art.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:88>As I was saying, I know a rather
+wonderful puzzle that deals
+with a few works of art.
 !******************************!
 [t25_022_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:82>A vampire. One of the unageing... One of the *gulp* undead... Could it be true?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:82>A vampire. One of the unageing...
+One of the *gulp* undead...
+Could it be true?
 !******************************!
 [t25_023_100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:140>That was fun, wasn't it, Luke.<W>
 !------------------------------!
-It may not have seemed like the ideal time for a puzzle, but keeping calm in a time of stress is vital.
+It may not have seemed like the
+ideal time for a puzzle, but keeping
+calm in a time of stress is vital.
 !******************************!
 [t25_023_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:101>I appreciate the sentiment, Professor, but right now solving puzzles is the last thing on my mind.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:101>I appreciate the sentiment,
+Professor, but right now solving
+puzzles is the last thing on my mind.
 !******************************!
 [t25_024_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:42>We need to make a run for it, Professor!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:42>We need to make a run for it,
+Professor!
 !******************************!
 [t25_030_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:91>Take care that you don't slip, Luke. The floor is polished to an almost blinding shine. 
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:91>Take care that you don't slip,
+Luke. The floor is polished to an
+almost blinding shine. 
 !******************************!
 [t25_030_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:83>Wow, you're right. It's like a mirror. Who do you think does all this polishing?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:83>Wow, you're right. It's like a
+mirror. Who do you think does
+all this polishing?
 !******************************!
 [t25_030_300.gds]
 <01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:23>That would be me, sir.
@@ -122,99 +170,153 @@ It may not have seemed like the ideal time for a puzzle, but keeping calm in a t
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:22>Eek! It's the butler!
 !******************************!
 [t25_030_500.gds]
-<01:0000001D><03:9>b1 smile<03:5>NONE<01:00000002><03:212>Yes, it most certainly is. I don't mean to be presumptuous, but what are you two doing up at this hour?<W>
+<01:0000001D><03:9>b1 smile<03:5>NONE<01:00000002><03:212>Yes, it most certainly is. I don't
+mean to be presumptuous, but what
+are you two doing up at this hour?<W>
 !------------------------------!
-If you're having trouble falling asleep, I suggest a good strong puzzle to clear and relax the mind.
+If you're having trouble falling
+asleep, I suggest a good strong
+puzzle to clear and relax the mind.
 !******************************!
 [t25_030_600.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:51>You're...not going to try to stop us or anything?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:51>You're...not going to try to
+stop us or anything?
 !******************************!
 [t25_030_700.gds]
-<01:0000001D><03:9>b1 laugh<03:5>NONE<01:00000002><03:439>Stop you?<W> Young sir, I haven't the foggiest notion what you're talking about.<W>
+<01:0000001D><03:9>b1 laugh<03:5>NONE<01:00000002><03:439>Stop you?<W> Young sir, I haven't the
+foggiest notion what you're talking
+about.<W>
 !------------------------------!
-Now where was I?<W> Ah yes, that puzzle.<W>
+Now where was I?<W> Ah yes, that
+puzzle.<W>
 !------------------------------!
-This hall has been fitted with a hidden door but, to my chagrin, I've forgotten where.<W>
+This hall has been fitted with a
+hidden door but, to my chagrin,
+I've forgotten where.<W>
 !------------------------------!
-However, I do recall an old saying the servants used in days past to remember the location of the door.<W>
+However, I do recall an old saying
+the servants used in days past to
+remember the location of the door.<W>
 !------------------------------!
-I will now relate to you that saying, and your task, dear guests, will be to work out the door's location.
+I will now relate to you that saying,
+and your task, dear guests, will be
+to work out the door's location.
 !******************************!
 [t25_031_100.gds]
-<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:66>There's a secret door hidden in  this old hall. Can you find it?
+<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:66>There's a secret door hidden in 
+this old hall. Can you find it?
 !******************************!
 [t25_032_100.gds]
-<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:65>Hmm. Hmmmm. Good. The exit is directly behind you, dear guests.
+<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:65>Hmm. Hmmmm. Good. The exit is
+directly behind you, dear guests.
 !******************************!
 [t25_033_100.gds]
 <01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:182>Masterfully solved, sirs.<W>
 !------------------------------!
-Now that you've had that little nightcap, might I suggest returning to your quarters?<W>
+Now that you've had that
+little nightcap, might I suggest
+returning to your quarters?<W>
 !------------------------------!
-These old halls can get quite draughty in the dead of night.
+These old halls can get quite
+draughty in the dead of night.
 !******************************!
 [t25_033_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:44>I'll keep that in mind. Good night to you.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:44>I'll keep that in mind.
+Good night to you.
 !******************************!
 [t25_033_300.gds]
 <01:0000001D><03:9>b1 laugh<03:5>NONE<01:00000002><03:33>Hmm. Hmmmm. Yes. And to you too.
 !******************************!
 [t25_034_100.gds]
-<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:99>Ah, I see you're quite tired. Please do excuse me. I never intended to detain you for so long...
+<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:99>Ah, I see you're quite tired. Please
+do excuse me. I never intended
+to detain you for so long...
 !******************************!
 [t25_040_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:149>I've never seen such an immense boiler before.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:149>I've never seen such an immense
+boiler before.<W>
 !------------------------------!
-This must be the castle's main power source. For some reason though, it's not currently in use.
+This must be the castle's main
+power source. For some reason
+though, it's not currently in use.
 !******************************!
 [t25_040_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:77>And what do you make of these other contraptions? They're all so gigantic!
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:77>And what do you make of these
+other contraptions? They're all so
+gigantic!
 !******************************!
 [t25_040_300.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:182>Were I to venture a guess, I'd say this equipment was used to mine gold in the area.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:182>Were I to venture a guess, I'd say
+this equipment was used to mine
+gold in the area.<W>
 !------------------------------!
-It's probably the same equipment used to create that large hole in the castle's flooring.
+It's probably the same equipment
+used to create that large hole
+in the castle's flooring.
 !******************************!
 [t25_040_400.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:193>So that's why this place is so draughty.<W>
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:193>So that's why this place is so
+draughty.<W>
 !------------------------------!
-Oh, look at that bizarre smoke coming out of the hole!<W>
+Oh, look at that bizarre smoke
+coming out of the hole!<W>
 !------------------------------!
-Don't get too close to it, Professor. I bet breathing it is probably terrible for you.
+Don't get too close to it,
+Professor. I bet breathing it is
+probably terrible for you.
 !******************************!
 [t25_040_500.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:168>Whoever dug this shaft must have been an expert at using that machinery.<W>
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:168>Whoever dug this shaft must have
+been an expert at using that
+machinery.<W>
 !------------------------------!
-One misplaced scrape of the shovel could have sent the whole foundation crashing down. 
+One misplaced scrape of the shovel
+could have sent the whole
+foundation crashing down. 
 !******************************!
 [t25_040_600.gds]
-<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:93>Not to be rude, but I don't think we really have the time to admire the miner's handiwork.
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:93>Not to be rude, but I don't think
+we really have the time to admire
+the miner's handiwork.
 !******************************!
 [t25_040_700.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:126>Oh yes, quite right, my boy.<W>
 !------------------------------!
-Hmmm... I believe we can open the door above us if we get this boiler up and running again.
+Hmmm... I believe we can open the
+door above us if we get this boiler
+up and running again.
 !******************************!
 [t25_041_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>If we get this boiler running again, the door above us should open.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>If we get this boiler running again,
+the door above us should open.
 !******************************!
 [t25_042_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:81>By the look of it, this boiler has been out of commission for quite some time.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:81>By the look of it, this boiler has
+been out of commission for quite
+some time.
 !******************************!
 [t25_043_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:85>Good work, my boy. Now, upward and outward. I don't see any other way out of here.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:85>Good work, my boy. Now, upward
+and outward. I don't see any other
+way out of here.
 !******************************!
 [t25_044_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:85>If we don't get that door open soon, Anton's going to turn us into vampire fodder!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:85>If we don't get that door
+open soon, Anton's going to turn
+us into vampire fodder!
 !******************************!
 [t25_054_100.gds]
-<01:0000001E><03:5>NONE<03:5>NONE<01:00000002><03:61>Pick any blade you like, Layton, but don't keep me waiting.
+<01:0000001E><03:5>NONE<03:5>NONE<01:00000002><03:61>Pick any blade you like, Layton,
+but don't keep me waiting.
 !******************************!
 [t25_064_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:45>Did you find Anton's words confusing, Luke?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:45>Did you find Anton's words
+confusing, Luke?
 !******************************!
 [t25_064_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:124>Not at all, Professor!<W>
 !------------------------------!
-I know that Anton's words are the key to the puzzle. I just need to think about them some more.
+I know that Anton's words are the
+key to the puzzle. I just need to
+think about them some more.
 !******************************!

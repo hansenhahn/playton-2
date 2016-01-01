@@ -11,76 +11,107 @@
 <01:00000005><03:8>b1 weep<03:5>NONE<01:00000003><03:19>Me? I, well, um...
 !******************************!
 [t15_020_500.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:81>Come now, Luke. A gentleman never forces a lady to say more than she wants to.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:81>Come now, Luke. A gentleman never
+forces a lady to say more than she
+wants to.
 !******************************!
 [t15_020_600.gds]
-<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:54>Oops, of course. Where are my manners? Sorry, Flora.
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:54>Oops, of course. Where are my
+manners? Sorry, Flora.
 !******************************!
 [t15_020_700.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:130>Oh, don't give it a second thought.<W>
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:130>Oh, don't give it a second
+thought.<W>
 !------------------------------!
-Say, how'd your investigation go? Did you find out anything more about the Elysian Box?
+Say, how'd your investigation go?
+Did you find out anything more
+about the Elysian Box?
 !******************************!
 [t15_020_800.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:167>A bit, but nothing concrete. What we need is more time to comb the area for clues.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:167>A bit, but nothing concrete. What
+we need is more time to comb the
+area for clues.<W>
 !------------------------------!
-We could be quite a while, so if you feel tired, go ahead and turn in, dear.
+We could be quite a while, so if
+you feel tired, go ahead and turn
+in, dear.
 !******************************!
 [t15_020_900.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:59>I will. I sure hope you two find a good, solid lead soon!
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:59>I will. I sure hope you two find
+a good, solid lead soon!
 !******************************!
 [t15_040_100.gds]
 <01:00000050><03:6>shout<03:5>NONE<01:00000001><03:10>Groowf...
 !******************************!
 [t15_040_200.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:86>Our friend the bulldog seems to have had a change in temperament since we last met.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:86>Our friend the bulldog seems to
+have had a change in temperament
+since we last met.
 !******************************!
 [t15_040_300.gds]
 <01:00000050><03:5>NONE<03:8>b2 weep<01:00000001><03:22>Groooooowl... Grrr...
 !******************************!
 [t15_040_400.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:88>He looks really hungry, Professor. I think he'll let us pass if we bring him a snack.
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:88>He looks really hungry, Professor.
+I think he'll let us pass if we bring
+him a snack.
 !******************************!
 [t15_040_500.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:130>Very well. I seem to remember a grocer's beneath the watchtower.<W>
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:130>Very well. I seem to remember a
+grocer's beneath the watchtower.<W>
 !------------------------------!
-I'm sure we can find a suitable snack for our friend there.
+I'm sure we can find a suitable
+snack for our friend there.
 !******************************!
 [t15_041_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:119>I seem to remember a grocer's beneath the watchtower.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:119>I seem to remember a grocer's
+beneath the watchtower.<W>
 !------------------------------!
-I'm sure we can find a suitable snack for our friend there.
+I'm sure we can find a suitable
+snack for our friend there.
 !******************************!
 [t15_140_100.gds]
-<01:00000041><03:10>b1 normal<03:5>NONE<01:00000002><03:63>Greetings and welcome back, shoppers. What can I get for you?
+<01:00000041><03:10>b1 normal<03:5>NONE<01:00000002><03:63>Greetings and welcome back,
+shoppers. What can I get for you?
 !******************************!
 [t15_140_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:52>I wonder, sir, if you by any chance sell dog food?
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:52>I wonder, sir, if you by any
+chance sell dog food?
 !******************************!
 [t15_140_300.gds]
-<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:159>Well, that's the most interesting request I've heard all day.<W>
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:159>Well, that's the most interesting
+request I've heard all day.<W>
 !------------------------------!
-I don't have anything in a tin, but this leftover beef shank'll make Rover sit up and beg!
+I don't have anything in a tin,
+but this leftover beef shank'll
+make Rover sit up and beg!
 !******************************!
 [t15_140_400.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:58>That should do nicely. Would you mind parting with it? 
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:58>That should do nicely. Would you
+mind parting with it?
+
 !******************************!
 [t15_140_500.gds]
-<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:48>Not at all. I just hope your dog likes garlic.
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:48>Not at all. I just hope your dog
+likes garlic.
 !******************************!
 [t15_140_600.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>I'm sure that won't be a problem.
 !******************************!
 [t15_140_700.gds]
-<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:168>Good, good. Now, I won't charge a penny, but would you mind solving this puzzle I've got here?<W>
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:168>Good, good. Now, I won't charge
+a penny, but would you mind
+solving this puzzle I've got here?<W>
 !------------------------------!
-I've been mulling it over for days and I'm starting to lose sleep!
+I've been mulling it over for days
+and I'm starting to lose sleep!
 !******************************!
 [t15_160_100.gds]
 <01:00000050><03:6>shout<03:5>NONE<01:00000001><03:27>Groowf! Growf rowrf rowrf!
 !******************************!
 [t15_160_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:52>Here's our chance, Luke! Throw him the beef shank!
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:52>Here's our chance, Luke! Throw
+him the beef shank!
 !******************************!
 [t15_160_300.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:30>I'm already on it! Here goes!
@@ -89,24 +120,29 @@ I've been mulling it over for days and I'm starting to lose sleep!
 <01:00000050><03:10>b1 normal<03:5>NONE<01:00000001><03:26>Grooooowf?<W> Sniff sniff?
 !******************************!
 [t15_160_500.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:44>I think our little offering did the trick!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:44>I think our little offering did the
+trick!
 !******************************!
 [t15_160_600.gds]
 <01:00000050><03:5>NONE<03:5>NONE<01:00000001><03:11>Woof woof!
 !******************************!
 [t15_160_700.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:126>I don't think this doggy's going to be doing any snarling anytime soon.<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:126>I don't think this doggy's going to
+be doing any snarling anytime soon.<W>
 !------------------------------!
-We can finally explore the rest of the town now!
+We can finally explore the rest of
+the town now!
 !******************************!
 [t15_170_100.gds]
 <01:00000014><03:10>b1 normal<03:5>NONE<01:00000003><03:18>Oh, it's you two.
 !******************************!
 [t15_170_1000.gds]
-<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:48>It would seem to be the only possibility, yes.
+<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:48>It would seem to be the only
+possibility, yes.
 !******************************!
 [t15_170_200.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:49>Hey, I know you! You're Mr Anderson's daughter!
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:49>Hey, I know you! You're Mr
+Anderson's daughter!
 !******************************!
 [t15_170_300.gds]
 <01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:23>Yes, my name is Katia.
@@ -115,402 +151,620 @@ We can finally explore the rest of the town now!
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:29>What brings you to Folsense?
 !******************************!
 [t15_170_500.gds]
-<01:00000014><03:10>b2 normal<03:5>NONE<01:00000003><03:102>I'm sorry, but I can't really talk about it.<W> Excuse me, I have to get back to my search. Goodbye.
+<01:00000014><03:10>b2 normal<03:5>NONE<01:00000003><03:102>I'm sorry, but I can't really talk
+about it.<W> Excuse me, I have to get
+back to my search. Goodbye.
 !******************************!
 [t15_170_600.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:49>Katia, wait a minute! What are you looking for?
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:49>Katia, wait a minute!
+What are you looking for?
 !******************************!
 [t15_170_700.gds]
 <01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:21>Wow, she moves fast.
 !******************************!
 [t15_170_800.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:169>So Katia was headed to Folsense all along, just as we were...<W>
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:169>So Katia was headed to Folsense
+all along, just as we were...<W>
 !------------------------------!
-Luke, I believe we've uncovered the identity of the third party asking around about the Elysian Box.
+Luke, I believe we've uncovered the
+identity of the third party asking
+around about the Elysian Box.
 !******************************!
 [t15_170_900.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:51>So, Katia is looking for the Elysian Box as well!
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:51>So, Katia is looking for the Elysian
+Box as well!
 !******************************!
 [t15_180_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Following a trail of torn paper, Luke and Layton set out in search of the missing photograph.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Following a trail of torn paper,
+Luke and Layton set out in search
+of the missing photograph.
 !******************************!
 [t15_180_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:175>In the course of tracking down the photograph pieces, the pair learn much about Folsense.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:175>In the course of tracking down
+the photograph pieces, the pair
+learn much about Folsense.<W>
 !------------------------------!
-Rumours of strange diseases and the mine's closing only raise more questions.
+Rumours of strange diseases and
+the mine's closing only raise
+more questions.
 !******************************!
 [t15_180_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>With the mystery deepening, Professor Layton and Luke finally reassemble the torn photo.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>With the mystery deepening,
+Professor Layton and Luke finally
+reassemble the torn photo.
 !******************************!
 [t15_200_100.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:19>Gosh, Professor...
 !******************************!
 [t15_200_1000.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:105>With that piece missing, the emblem looks completely different.<W> Less evil and more like a, um, frog.
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:105>With that piece missing, the emblem
+looks completely different.<W> Less
+evil and more like a, um, frog.
 !******************************!
 [t15_200_1100.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:151>Well, if we lose anymore pieces, it won't look like anything at all.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:151>Well, if we lose anymore pieces,
+it won't look like anything at all.<W>
 !------------------------------!
-Let's paste the remaining pieces down so we don't lose anymore to the wind.
+Let's paste the remaining pieces
+down so we don't lose anymore to
+the wind.
 !******************************!
 [t15_200_200.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:97>Luke, were I to venture a guess, I'd say that what we see before us is the Elysian Box itself.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:97>Luke, were I to venture a guess, I'd
+say that what we see before us is
+the Elysian Box itself.
 !******************************!
 [t15_200_300.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:97>Oh, look! The design on the top of the box looks the same as the one in front of the fountain!
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:97>Oh, look! The design on the top of
+the box looks the same as the one
+in front of the fountain!
 !******************************!
 [t15_200_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:133>Yes, I noticed the resemblance myself.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:133>Yes, I noticed the resemblance
+myself.<W>
 !------------------------------!
-What an unusual emblem. The imagery seems to resemble some sort of monster, doesn't it?
+What an unusual emblem. The
+imagery seems to resemble some
+sort of monster, doesn't it?
 !******************************!
 [t15_200_500.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:98>Well, that seems appropriate, doesn't it? I mean, the box did kill poor Dr Schrader, after all.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:98>Well, that seems appropriate,
+doesn't it? I mean, the box did kill
+poor Dr Schrader, after all.
 !******************************!
 [t15_200_600.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:213>Well, perhaps it did, and perhaps it didn't. We won't know until we have the actual item in our hands.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:213>Well, perhaps it did, and perhaps it
+didn't. We won't know until we have
+the actual item in our hands.<W>
 !------------------------------!
-For now, our best course of action might be to show this photo to the townsfolk and see what they say.
+For now, our best course of action
+might be to show this photo to the
+townsfolk and see what they say.
 !******************************!
 [t15_200_700.gds]
-<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:110>Sounds good to me. Who knows, maybe the photo will help jog someone's memory or-<W>&setani 2 b1_shout&
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:110>Sounds good to me. Who knows,
+maybe the photo will help jog
+someone's memory or-<W>&setani 2 b1_shout&
 !------------------------------!
 Ach!
 !******************************!
 [t15_200_800.gds]
-<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:78>What are we going to do now?!<W> The wind blew away one of the photo pieces!
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:78>What are we going to do now?!<W>
+The wind blew away one of the
+photo pieces!
 !******************************!
 [t15_200_900.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:46>This is quite an unfortunate turn of events.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:46>This is quite an unfortunate turn
+of events.
 !******************************!
 [t15_220_100.gds]
 <01:00000007><03:10>b1 normal<03:5>NONE<01:00000002><03:23>Professor Layton! Sir!
 !******************************!
 [t15_220_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:46>Barton, my good man, whatever is the matter?
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:46>Barton, my good man, whatever
+is the matter?
 !******************************!
 [t15_220_300.gds]
-<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:164>The inspector has found the person responsible for Dr Schrader's murder.<W>
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:164>The inspector has found the person
+responsible for Dr Schrader's
+murder.<W>
 !------------------------------!
-I have strict orders to round everyone up at the hotel as quickly as possible, sir.
+I have strict orders to round
+everyone up at the hotel as quickly
+as possible, sir.
 !******************************!
 [t15_220_400.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:74>Understood. We shall head there without delay. Come, Luke, let's hurry.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:74>Understood. We shall head there
+without delay. Come, Luke, let's
+hurry.
 !******************************!
 [t15_230_100.gds]
-<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:69>Hey! Whatever you do, don't play in the forest on the edge of town.
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:69>Hey! Whatever you do, don't play
+in the forest on the edge of town.
 !******************************!
 [t15_230_1000.gds]
-<01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:62>Well then, you should have it. I was going to throw it away.
+<01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:62>Well then, you should have it.
+I was going to throw it away.
 !******************************!
 [t15_230_200.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:20>Oh? And why's that?
 !******************************!
 [t15_230_300.gds]
-<01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:171>It's what I heard from the people who went treasure hunting in that dusty castle outside town.<W>
+<01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:171>It's what I heard from the people
+who went treasure hunting in that
+dusty castle outside town.<W>
 !------------------------------!
-They also said that a vampire with BIG fangs lives up there.<W> Yikes!
+They also said that a vampire with
+BIG fangs lives up there.<W> Yikes!
 !******************************!
 [t15_230_400.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:71>Are you talking about the vampire they say lives up in Herzen Castle?
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:71>Are you talking about the vampire
+they say lives up in Herzen Castle?
 !******************************!
 [t15_230_500.gds]
-<01:0000004B><03:8>b1 weep<03:5>NONE<01:00000003><03:82>Well, gosh, if you knew what I was talking about, why'd you make me explain it?
+<01:0000004B><03:8>b1 weep<03:5>NONE<01:00000003><03:82>Well, gosh, if you knew what I was
+talking about, why'd you make me
+explain it?
 !******************************!
 [t15_230_600.gds]
-<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:257>Anyway, even though the whole fang thing sounds creepy, that old vampire's nothing to be scared of.<W>
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:257>Anyway, even though the whole fang
+thing sounds creepy, that old
+vampire's nothing to be scared of.<W>
 !------------------------------!
-As long as you have a cross or some garlic, you'll be right as rain.<W>
+As long as you have a cross or
+some garlic, you'll be right as rain.<W>
 !------------------------------!
-Actually, I bet you a slice of garlic bread would be enough to do the trick!
+Actually, I bet you a slice of
+garlic bread would be enough to
+do the trick!
 !******************************!
 [t15_230_700.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:16>Garlic bread...
 !******************************!
 [t15_230_800.gds]
-<01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:96>Listen, I meant to ask you two. Do you know what this is? The wind blew it over here earlier.
+<01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:96>Listen, I meant to ask you two.
+Do you know what this is? The wind
+blew it over here earlier.
 !******************************!
 [t15_230_900.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:60>Oh! That's one of the photograph scraps we're looking for!
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:60>Oh! That's one of the photograph
+scraps we're looking for!
 !******************************!
 [t15_231_100.gds]
-<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:77>Those treasure hunters said not to play in the forest on the edge of town.
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:77>Those treasure hunters said not
+to play in the forest on the edge
+of town.
 !******************************!
 [t15_240_100.gds]
-<01:00000043><03:10>b1 normal<03:5>NONE<01:00000001><03:417>Folsense, the gilded town.<W> Oh aye,  that's what they used to call this place when I were a little one.<W>
+<01:00000043><03:10>b1 normal<03:5>NONE<01:00000001><03:417>Folsense, the gilded town.<W> Oh aye, 
+that's what they used to call this
+place when I were a little one.<W>
 !------------------------------!
-I used to work down the mine that gave the town its nickname, see.<W>
+I used to work down the mine that
+gave the town its nickname, see.<W>
 !------------------------------!
-Well, I did till they closed it down a few years ago, isn't it?<W>
+Well, I did till they closed it down a
+few years ago, isn't it?<W>
 !------------------------------!
-Even now, I sometimes catch crooks sneaking down into the mine to see if anything's down there.<W>
+Even now, I sometimes catch crooks
+sneaking down into the mine to see
+if anything's down there.<W>
 !------------------------------!
-They always come back with nothing, though. Count on that, boyo.
+They always come back with
+nothing, though. Count on that,
+boyo.
 !******************************!
 [t15_240_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:78>We've certainly heard rumours of the great fortune Duke Herzen left behind.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:78>We've certainly heard rumours of
+the great fortune Duke Herzen
+left behind.
 !******************************!
 [t15_240_300.gds]
 <01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:346>You a treasure hunter too, boyo?<W>
 !------------------------------!
-In that case, take it from me, the real money's not in that mine. It's in the duke's castle, isn't it?<W>
+In that case, take it from me, the
+real money's not in that mine. It's
+in the duke's castle, isn't it?<W>
 !------------------------------!
-You might have a bit of trouble getting in, mind, considering there's a vampire living up there.<W>
+You might have a bit of trouble
+getting in, mind, considering
+there's a vampire living up there.<W>
 !------------------------------!
-All right, enough moidering. I've to get back to workin' out what this scrap of paper by 'ere is.
+All right, enough moidering. I've
+to get back to workin' out what
+this scrap of paper by 'ere is.
 !******************************!
 [t15_240_400.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:83>I know! I know! It's a scrap of a photo, and we've been looking all over for it!
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:83>I know! I know! It's a scrap of a
+photo, and we've been looking all
+over for it!
 !******************************!
 [t15_240_500.gds]
-<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:109>Oh, so this thing's yours, is it?<W> Well, I haven't got any use for it, so you'd better take it, isn't it?
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:109>Oh, so this thing's yours, is it?<W>
+Well, I haven't got any use for it,
+so you'd better take it, isn't it?
 !******************************!
 [t15_241_100.gds]
-<01:00000043><03:10>b1 normal<03:5>NONE<01:00000001><03:308>I used to work down the mines that gave the town its nickname, see.<W>
+<01:00000043><03:10>b1 normal<03:5>NONE<01:00000001><03:308>I used to work down the mines that
+gave the town its nickname, see.<W>
 !------------------------------!
-Well, I did till they closed 'em all a few years ago, isn't it?<W>
+Well, I did till they closed 'em
+all a few years ago, isn't it?<W>
 !------------------------------!
-Even now, I sometimes catch crooks sneaking down into the mine to see if anything's down there.<W>
+Even now, I sometimes catch crooks
+sneaking down into the mine to see
+if anything's down there.<W>
 !------------------------------!
-They always come back with nothing, though. Count on that, boyo.
+They always come back with
+nothing, though. Count on that,
+boyo.
 !******************************!
 [t15_250_100.gds]
-<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:78>Hiya, folks. What are you two doing out here? Lookin' for something, maybe?
+<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:78>Hiya, folks. What are you two doing
+out here? Lookin' for something,
+maybe?
 !******************************!
 [t15_250_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:100>Indeed we are. We're looking for scraps of a torn photograph. Have you seen anything of the sort?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:100>Indeed we are. We're looking for
+scraps of a torn photograph. Have
+you seen anything of the sort?
 !******************************!
 [t15_250_300.gds]
-<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:292>So, rubbish, then, yeah? Anyway... I'm pretty sure I saw one over by the gate to the forest.<W>
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:292>So, rubbish, then, yeah? Anyway...
+I'm pretty sure I saw one over by
+the gate to the forest.<W>
 !------------------------------!
-But anyway, I just have to tell you how amazed I am at the number of out-of-towners I've met today.<W>
+But anyway, I just have to tell you
+how amazed I am at the number of
+out-of-towners I've met today.<W>
 !------------------------------!
-I just met a girl who wanted directions to Herzen Castle, and now I bump into you two.
+I just met a girl who wanted
+directions to Herzen Castle,
+and now I bump into you two.
 !******************************!
 [t15_250_400.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:17>A girl, you say?
 !******************************!
 [t15_250_500.gds]
-<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:93>She looked like a classy lass. Probably in her late teens?<W> She's not with you two, then?
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:93>She looked like a classy lass.
+Probably in her late teens?<W>
+She's not with you two, then?
 !******************************!
 [t15_250_600.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:44>He must be talking about Katia, Professor.
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:44>He must be talking about Katia,
+Professor.
 !******************************!
 [t15_250_700.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>She would certainly fit the description.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>She would certainly fit the
+description.
 !******************************!
 [t15_250_800.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:49>Do you think she's after Duke Herzen's fortune?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:49>Do you think she's after Duke
+Herzen's fortune?
 !******************************!
 [t15_250_900.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:260>I didn't get that impression from our brief meeting, but something is odd, that's for certain.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:260>I didn't get that impression from
+our brief meeting, but something
+is odd, that's for certain.<W>
 !------------------------------!
-But enough talk. We've got a lead on the location of the final photo scrap.<W>
+But enough talk. We've got a lead
+on the location of the final photo
+scrap.<W>
 !------------------------------!
-We must make our way to the forest gate before the wind blows our clue away.
+We must make our way to the forest
+gate before the wind blows our
+clue away.
 !******************************!
 [t15_260_100.gds]
-<01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:287>Taking in the sights, are you? Have you heard of the Herzen Museum?<W>
+<01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:287>Taking in the sights, are you?
+Have you heard of the Herzen
+Museum?<W>
 !------------------------------!
-It's got all sorts of antiques from Folsense's most important family.<W>
+It's got all sorts of antiques from
+Folsense's most important family.<W>
 !------------------------------!
-I'd recommend you visit it, but the curator, Grinko, is almost never there.<W>
+I'd recommend you visit it, but the
+curator, Grinko, is almost never
+there.<W>
 !------------------------------!
-If you ever find the place open, consider yourself lucky.
+If you ever find the place open,
+consider yourself lucky.
 !******************************!
 [t15_260_1000.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:33>Oh, that's a scrap of the photo!
 !******************************!
 [t15_260_1100.gds]
-<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:83>You were lookin' for this thing?<W> Then by all means, take it! Here, it's yours.
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:83>You were lookin' for this thing?<W>
+Then by all means, take it!
+Here, it's yours.
 !******************************!
 [t15_260_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:89>Yes, we noticed. We were hoping to visit, but the museum was closed when we passed by.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:89>Yes, we noticed. We were hoping
+to visit, but the museum was closed
+when we passed by.
 !******************************!
 [t15_260_300.gds]
-<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:101>Word is the museum's owner ordered Grinko to lock it up and run around town looking for something.
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:101>Word is the museum's owner ordered
+Grinko to lock it up and run around
+town looking for something.
 !******************************!
 [t15_260_400.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:63>The owner, you say? Do you happen to know who this person is?
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:63>The owner, you say? Do you happen
+to know who this person is?
 !******************************!
 [t15_260_500.gds]
-<01:00000048><03:11>b1 normal2<03:5>NONE<01:00000002><03:195>Course, everyone does. It's the same fella who owns the Molentary Express, if you can believe it.<W>
+<01:00000048><03:11>b1 normal2<03:5>NONE<01:00000002><03:195>Course, everyone does. It's the
+same fella who owns the Molentary
+Express, if you can believe it.<W>
 !------------------------------!
-Maybe building museums is some weird hobby for the rich, but it seems like a waste to me.
+Maybe building museums is some
+weird hobby for the rich, but it
+seems like a waste to me.
 !******************************!
 [t15_260_600.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:98>Hmm. It would seem Mr Beluga owns not only the Molentary Express but the Herzen Museum as well.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:98>Hmm. It would seem Mr Beluga owns
+not only the Molentary Express but
+the Herzen Museum as well.
 !******************************!
 [t15_260_700.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:71>How odd. What use would Mr Beluga have for a little museum like that?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:71>How odd. What use would Mr Beluga
+have for a little museum like that?
 !******************************!
 [t15_260_800.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:109>Who can say?<W> For now, what's clear is that Mr Beluga may have ties to the Herzens he's kept quiet about.
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:109>Who can say?<W> For now, what's clear
+is that Mr Beluga may have ties to
+the Herzens he's kept quiet about.
 !******************************!
 [t15_260_900.gds]
-<01:00000048><03:2> <03:5>NONE<01:00000002><03:96>Done chin-wagging, you two?<W> Good, then look here at this litter I picked up off the ground.
+<01:00000048><03:2> <03:5>NONE<01:00000002><03:96>Done chin-wagging, you two?<W> Good,
+then look here at this litter I
+picked up off the ground.
 !******************************!
 [t15_261_100.gds]
-<01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:156>Maybe building museums is some weird thing rich people like to do. You know, like collecting gold hats.<W>
+<01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:156>Maybe building museums is some
+weird thing rich people like to do.
+You know, like collecting gold hats.<W>
 !------------------------------!
-Anyway, if you ask me, it seems like a waste.
+Anyway, if you ask me, it seems
+like a waste.
 !******************************!
 [t15_270_100.gds]
-<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:186>Why does everyone make such a kerfuffle about warning people away from that castle?<W>
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:186>Why does everyone make such a
+kerfuffle about warning people
+away from that castle?<W>
 !------------------------------!
-Even if you wanted to go, it's impossible to get up there!<W> The forest gate is always locked!
+Even if you wanted to go, it's
+impossible to get up there!<W>
+The forest gate is always locked!
 !******************************!
 [t15_270_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:53>I take it that's the sole path to the castle, then?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:53>I take it that's the sole path
+to the castle, then?
 !******************************!
 [t15_270_300.gds]
-<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:263>Kee hee! You actually want to go there, don't you? It's a weird and scary place, but I know the feeling.<W>
+<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:263>Kee hee! You actually want to go
+there, don't you? It's a weird and
+scary place, but I know the feeling.<W>
 !------------------------------!
-The gate only opens to let this old stagecoach through.<W>
+The gate only opens to let this
+old stagecoach through.<W>
 !------------------------------!
-If you hide in the bushes and wait for the coach, you might be able to sneak in behind it.
+If you hide in the bushes and wait
+for the coach, you might be able
+to sneak in behind it.
 !******************************!
 [t15_270_400.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:75>What's so special about that stagecoach that the gate opens only for it?
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:75>What's so special about that
+stagecoach that the gate opens
+only for it?
 !******************************!
 [t15_270_500.gds]
-<01:00000045><03:9>b1 smile<03:5>NONE<01:00000003><03:250>It heads up to the castle every day at about the same time.<W>
+<01:00000045><03:9>b1 smile<03:5>NONE<01:00000003><03:250>It heads up to the castle every
+day at about the same time.<W>
 !------------------------------!
-Maybe it delivers raw steaks and blood for the vampire's dinner!<W> But really, I have no idea.<W>
+Maybe it delivers raw steaks and
+blood for the vampire's dinner!<W>
+But really, I have no idea.<W>
 !------------------------------!
-All kinds of dangerous stuff happens in the woods, so I say just stay out of there!
+All kinds of dangerous stuff
+happens in the woods, so I say
+just stay out of there!
 !******************************!
 [t15_280_100.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:73>Let's see now, we seem to have pieced together most of the photograph.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:73>Let's see now, we seem to have
+pieced together most of the
+photograph.
 !******************************!
 [t15_280_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:53>There's still that one pesky piece missing, though.
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:53>There's still that one pesky
+piece missing, though.
 !******************************!
 [t15_280_300.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:158>The wind must have carried it off somewhere.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:158>The wind must have carried it off
+somewhere.<W>
 !------------------------------!
-I wouldn't worry too much, though. With enough patience, I'm sure we'll find it. Let's keep looking, Luke.
+I wouldn't worry too much, though.
+With enough patience, I'm sure we'll
+find it. Let's keep looking, Luke.
 !******************************!
 [t15_290_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:34>Say, Professor, could that be...?
 !******************************!
 [t15_290_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:105>A piece of the photograph?<W> I'd say so. Sharp eyes, Luke. I'll place it in my trunk for safe keeping.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:105>A piece of the photograph?<W> I'd say
+so. Sharp eyes, Luke. I'll place
+it in my trunk for safe keeping.
 !******************************!
 [t15_300_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:59>Luke, do you see that piece of the photograph over there?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:59>Luke, do you see that piece of
+the photograph over there?
 !******************************!
 [t15_300_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:92>I do! Great, Professor! I hope it hasn't got all soggy from lying on the ground out here.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:92>I do! Great, Professor! I hope it
+hasn't got all soggy from lying
+on the ground out here.
 !******************************!
 [t15_300_300.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:79>Hmm...<W>&setani 1 b4_smile& Don't worry, Luke. It looks more or less intact.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:79>Hmm...<W>&setani 1 b4_smile&
+Don't worry, Luke. It looks more or
+less intact.
 !******************************!
 [t15_310_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:85>Hey, there's another scrap of the photo.<W> Inspector Chelmey certainly got around!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:85>Hey, there's another scrap of
+the photo.<W> Inspector Chelmey
+certainly got around!
 !******************************!
 [t15_320_100.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:89>Look at that. There's another shred of the photograph sitting in that pile of rubbish.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:89>Look at that. There's another
+shred of the photograph sitting in
+that pile of rubbish.
 !******************************!
 [t15_320_200.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:47>You stay here, Professor. I'll go and get it.
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:47>You stay here, Professor. I'll go
+and get it.
 !******************************!
 [t15_320_300.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:72>Watch your footing, Luke. That pile of rubbish looks quite precarious.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:72>Watch your footing, Luke. That pile
+of rubbish looks quite precarious.
 !******************************!
 [t15_320_400.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:203>Here it is! <W>&setani 2 b2_normal&
 !------------------------------!
-What I can't work out is why the inspector was rooting around in the rubbish in the first place.<W>
+What I can't work out is why the
+inspector was rooting around in
+the rubbish in the first place.<W>
 !------------------------------!
-Did he really think that the criminal would be hiding out here?
+Did he really think that the
+criminal would be hiding out here?
 !******************************!
 [t15_320_500.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:81>Hard to say. He could have just been sifting through it for clues or the like.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:81>Hard to say. He could have just
+been sifting through it for clues
+or the like.
 !******************************!
 [t15_330_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:56>Professor, I see a piece of the photograph over there!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:56>Professor, I see a piece of the
+photograph over there!
 !******************************!
 [t15_330_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:80>Nicely done, Luke. I'll just tuck this away in my trunk so we don't lose it. 
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:80>Nicely done, Luke. I'll just tuck
+this away in my trunk so we don't
+lose it. 
 !******************************!
 [t15_340_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Luke, is that another of the missing fragments of our photograph I see?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Luke, is that another of the
+missing fragments of our
+photograph I see?
 !******************************!
 [t15_340_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:29>It is! Nice find, Professor!
 !******************************!
 [t15_350_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:47>Professor, there's a piece of the photograph!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:47>Professor, there's a piece of the
+photograph!
 !******************************!
 [t15_350_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:38>Excellent. I'll put it with the rest.
 !******************************!
 [t15_360_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Oh, I think this is part of our torn photograph.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Oh, I think this is part of our
+torn photograph.
 !******************************!
 [t15_360_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:36>Well done, Luke. I'll hold onto it.
 !******************************!
 [t15_370_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:82>Look, Professor! I think we've stumbled across another piece of our photograph.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:82>Look, Professor! I think we've
+stumbled across another piece of
+our photograph.
 !******************************!
 [t15_370_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>Indeed we have. I'll hold on to that for now.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>Indeed we have. I'll hold on to
+that for now.
 !******************************!
 [t15_380_100.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:102>I don't think we've done a very thorough job searching this alley. Let's investigate a bit further.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:102>I don't think we've done a very
+thorough job searching this alley.
+Let's investigate a bit further.
 !******************************!
 [t15_390_100.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:102>Let's see. We've picked up seven scraps so far but I suppose we've still got more work ahead of us.
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:102>Let's see. We've picked up seven
+scraps so far but I suppose we've
+still got more work ahead of us.
 !******************************!
 [t15_390_200.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:304>Yes, the job's far from over. It would seem we're about half way there, give or take a piece.<W>
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:304>Yes, the job's far from over. It
+would seem we're about half way
+there, give or take a piece.<W>
 !------------------------------!
-But we've walked the length of this alley and I think it's safe to say we won't find anything else here.<W>
+But we've walked the length of this
+alley and I think it's safe to say
+we won't find anything else here.<W>
 !------------------------------!
-I say we focus the remainder of our search on other places the inspector might have visited.
+I say we focus the remainder of our
+search on other places the
+inspector might have visited.
 !******************************!
 [t15_400_100.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:20>Here's another one.
 !******************************!
 [t15_410_100.gds]
-<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:55>Whoa, there! Sneaking up on someone is not cool, man!
+<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:55>Whoa, there! Sneaking up on
+someone is not cool, man!
 !******************************!
 [t15_410_1000.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:64>Do you think they're out here looking for the Elysian Box too?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:64>Do you think they're out here
+looking for the Elysian Box too?
 !******************************!
 [t15_410_1100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:23>They may very well be.
 !******************************!
 [t15_410_200.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:35>What are you doing out here, Sam?
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:35>What are you doing out here,
+Sam?
 !******************************!
 [t15_410_300.gds]
-<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:105>Oh, it's the biggest pain. See, little dude, I've been tearing my hair out looking for Pan...<W> Uh-oh.
+<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:105>Oh, it's the biggest pain. See,
+little dude, I've been tearing my
+hair out looking for Pan...<W> Uh-oh.
 !******************************!
 [t15_410_400.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:42>What was that you were looking for, Sam?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:42>What was that you were looking
+for, Sam?
 !******************************!
 [t15_410_500.gds]
-<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:171>Looking for Pandora, man! Used to play the keys in my old band. She rocked, dude.<W>
+<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:171>Looking for Pandora, man! Used
+to play the keys in my old band.
+She rocked, dude.<W>
 !------------------------------!
-But enough about ol' Sammy! What are you mellow fellows doing out in these parts?
+But enough about ol' Sammy!
+What are you mellow fellows
+doing out in these parts?
 !******************************!
 [t15_410_600.gds]
 <01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:34>We can't tell you! It's a secret!
 !******************************!
 [t15_410_700.gds]
-<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:194>Oh, is that how it is?<W> Fine then.  Well, I guess we've both got secrets to keep, eh, little man?<W>
+<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:194>Oh, is that how it is?<W> Fine then. 
+Well, I guess we've both got
+secrets to keep, eh, little man?<W>
 !------------------------------!
-What I'm doing out here is way secret, so keep outta my way, cool? <W> OK then, I'm out.
+What I'm doing out here is way
+secret, so keep outta my way,
+cool? <W> OK then, I'm out.
 !******************************!
 [t15_410_800.gds]
-<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:71>No doubt about it, there's something fishy going on here, Professor!
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:71>No doubt about it, there's
+something fishy going on here,
+Professor!
 !******************************!
 [t15_410_900.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:79>Indeed. Sam is out here on Mr Beluga's orders. Of that, I'm all but certain.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:79>Indeed. Sam is out here on
+Mr Beluga's orders. Of that,
+I'm all but certain.
 !******************************!
 [t15_430_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:94>That bulldog is blocking our path to the north-east corner.<W> Hmm... How to get through...?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:94>That bulldog is blocking our path
+to the north-east corner.<W> Hmm...
+How to get through...?
 !******************************!
