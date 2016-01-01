@@ -1,0 +1,10 @@
+Pasta ANI
+
+- Nesta pasta estão contidos todos os sprites do jogo, categorizados em dois arquivos
+	- ARC
+	- ARJ
+
+Pasta BG
+
+- Nesta pasta estão contidos todos os fundos de tela do jogo, categorizados em um arquivo
+	- ARC
