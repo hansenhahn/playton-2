@@ -1,0 +1,6 @@
+A fonte usada para a tradução dos textos normais é:
+* Tahoma
+* Tamanho 18
+* Anti-aliasing ON
+* Hinting Leve
+* Distância entre caracteres 0
