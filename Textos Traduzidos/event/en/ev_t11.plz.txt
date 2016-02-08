@@ -24,7 +24,7 @@ Eu posso apostar que o resto do trem é tão luxuoso quanto. Que tal uma pequena e
 Mas ninguém pode entrar lá, exceto pessoas REALMENTE ricas.
 !******************************!
 [t11_050_200.gds]
-<01:00000024><03:10>b2 normal<03:5>NONE<01:00000003><03:101>Então,senhores, vocês são REALMENTE ricos?<W> Porque se forem, podem ir ver as cabines super luxuosas.
+<01:00000024><03:10>b2 normal<03:5>NONE<01:00000003><03:101>Então, senhores, vocês são REALMENTE ricos?<W> Porque se forem, podem ir ver as cabines super luxuosas.
 !******************************!
 [t11_050_300.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>Cabines super luxuosas...
@@ -853,7 +853,7 @@ Se quiser conversar, mostre um pouco mais de iniciativa. Volte quando tiver reso
 Não consigo entender como não gostei de dois apaixonados resolvedores de enigmas como vocês. Vamos ser amigos, né?
 !******************************!
 [t11_430_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:112>Céus, essa mulher é o exato tipo de pessoas que eu esperaria ver no Molentary Express.<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:112>Céus, essa mulher é o exato tipo de pessoa que eu esperaria ver no Molentary Express.<W>
 !------------------------------!
 Falando sobre riquezas e futilidades!
 !******************************!
