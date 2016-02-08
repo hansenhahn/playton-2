@@ -1,0 +1,745 @@
+[t15_020_100.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:21><<5E>?>Eh? <<5E>?>Y Flora?
+!******************************!
+[t15_020_200.gds]
+<01:00000005><03:10>b2 normal<03:5>NONE<01:00000003><03:22><<5E>!>Ay, qu<'e> susto!
+!******************************!
+[t15_020_300.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:45><<5E>!>Flora! <<5E>?>D<'o>nde te hab<'i>as metido?
+!******************************!
+[t15_020_400.gds]
+<01:00000005><03:8>b1 weep<03:5>NONE<01:00000003><03:19>Pues yo... Esto...
+!******************************!
+[t15_020_500.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:90>Luke, un caballero nunca fuerza a
+una se<-n>orita a decir m<'a>s de lo que
+ella quiere.
+!******************************!
+[t15_020_600.gds]
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:68>Huy, pues claro. <<5E>!>Qu<'e> falta de
+educaci<'o>n! Perdona, Flora.
+!******************************!
+[t15_020_700.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:113>No pasa nada.<W>
+!------------------------------!
+En fin, <<5E>?>qu<'e> tal va la
+investigaci<'o>n? <<5E>?>Saben algo
+m<'a>s sobre la Caja El<'i>sea?
+!******************************!
+[t15_020_800.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:171>Tenemos algunas pistas, pero
+debemos seguir investigando
+por el pueblo.<W>
+!------------------------------!
+Esto podr<'i>a llevarnos un rato.
+Si est<'a>s cansada, qu<'e>date aqu<'i>,
+no te preocupes.
+!******************************!
+[t15_020_900.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:71>Eso har<'e>. <<5E>!>Espero que encuentren
+pronto algo de informaci<'o>n!
+!******************************!
+[t15_040_100.gds]
+<01:00000050><03:6>shout<03:5>NONE<01:00000001><03:27><<5E>!>Grrrr... Grrr... Guau!
+!******************************!
+[t15_040_200.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:70>Parece que nuestro amigo el
+bulldog est<'a> m<'a>s tranquilo
+ahora.
+!******************************!
+[t15_040_300.gds]
+<01:00000050><03:5>NONE<03:8>b2 weep<01:00000001><03:27><<5E>!>Arf! <<5E>!>Grrr... Guau!
+!******************************!
+[t15_040_400.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:96>Parece que tiene hambre, profesor.
+Creo que nos dejar<'a> pasar si
+le llevamos algo de comer.
+!******************************!
+[t15_040_500.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:149>Estupendo, recuerdo que hemos
+pasado por una tienda de
+ultramarinos cerca de la torre.<W>
+!------------------------------!
+Seguro que all<'i> podemos
+encontrar algo que le guste.
+!******************************!
+[t15_041_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:138>Recuerdo que hemos pasado por
+una tienda de ultramarinos
+cerca de la torre.<W>
+!------------------------------!
+Seguro que all<'i> podemos
+encontrar algo que le guste.
+!******************************!
+[t15_140_100.gds]
+<01:00000041><03:10>b1 normal<03:5>NONE<01:00000002><03:87>Saludos, y bienvenidos a mi
+humilde negocio de nuevo.
+<<5E>?>En qu<'e> puedo ayudarles?
+!******************************!
+[t15_140_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:43>Solo buscamos algo de comida
+para perros.
+!******************************!
+[t15_140_300.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:176>Je, je, esta va a ser la compra
+m<'a>s rara que me hagan en todo
+el d<'i>a.<W>
+!------------------------------!
+Pues no tengo pienso, pero seguro
+que estos restos de pierna de
+cordero le gustan al chucho.
+!******************************!
+[t15_140_400.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:47>Perfecto. <<5E>?>Le importa que
+nos la llevemos?
+!******************************!
+[t15_140_500.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:66>La verdad es que no, pero espero
+que a su perro le guste el ajo.
+!******************************!
+[t15_140_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:49>Estoy convencido de que no
+ser<'a> un problema.
+!******************************!
+[t15_140_700.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:179>Bien, bien. No les cobrar<'e>, pero
+espero que a cambio me ayuden
+con este puzle.<W>
+!------------------------------!
+Llevo toda la semana intentando
+dar con la soluci<'o>n. <<5E>!>Es que
+ya no puedo ni dormir!
+!******************************!
+[t15_160_100.gds]
+<01:00000050><03:6>shout<03:5>NONE<01:00000001><03:36><<5E>!>Grrr... Guau! <<5E>!>Grrr... Guau!
+!******************************!
+[t15_160_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:54><<5E>!>Ahora, Luke! <<5E>!><'E>chale la pierna
+de cordero!
+!******************************!
+[t15_160_300.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:22><<5E>!>Ya voy! <<5E>!>Toma!
+!******************************!
+[t15_160_400.gds]
+<01:00000050><03:10>b1 normal<03:5>NONE<01:00000001><03:26><<5E>?>Guauuu?<W> Gr... Gr...
+!******************************!
+[t15_160_500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:34><<5E>!>Creo que le est<'a> gustando!
+!******************************!
+[t15_160_600.gds]
+<01:00000050><03:5>NONE<03:5>NONE<01:00000001><03:20><<5E>!>Guau! <<5E>!>Guau!
+!******************************!
+[t15_160_700.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:127>Creo que este animalito no
+volver<'a> a gru<-n>irnos en un buen
+rato.<W>
+!------------------------------!
+<<5E>!>Por fin podremos explorar el resto
+del pueblo!
+!******************************!
+[t15_170_100.gds]
+<01:00000014><03:10>b1 normal<03:5>NONE<01:00000003><03:17>Ah, son ustedes.
+!******************************!
+[t15_170_1000.gds]
+<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:25>Ciertamente, es posible.
+!******************************!
+[t15_170_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:59><<5E>!>Eh, yo s<'e> qui<'e>n eres: la hija
+del Sr. Anderson!
+!******************************!
+[t15_170_300.gds]
+<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:23>S<'i>, me llamo Katia.
+!******************************!
+[t15_170_400.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:33><<5E>?>Y qu<'e> te trae a Folsense?
+!******************************!
+[t15_170_500.gds]
+<01:00000014><03:10>b2 normal<03:5>NONE<01:00000003><03:108>Lo siento, pero no puedo hablar
+de este asunto.<W> Disculpen, debo
+continuar con mi b<'u>squeda. Adi<'o>s.
+!******************************!
+[t15_170_600.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:49><<5E>!>Katia, espera!
+<<5E>?>Qu<'e> es lo que buscas?
+!******************************!
+[t15_170_700.gds]
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:25>Uf, qu<'e> r<'a>pida es.
+!******************************!
+[t15_170_800.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:147>As<'i> que tiene que <''>continuar con
+su b<'u>squeda<''>...<W>
+!------------------------------!
+Katia debe de ser la tercera
+persona que iba preguntando
+por la Caja El<'i>sea.
+!******************************!
+[t15_170_900.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:49>Entonces ella tambi<'e>n va
+buscando la caja...
+!******************************!
+[t15_180_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Luke y el profesor se ponen
+en marcha para buscar todos los
+pedazos de la fotograf<'i>a rota.
+!******************************!
+[t15_180_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:211>Durante su b<'u>squeda consiguen
+m<'a>s informaci<'o>n sobre Folsense.<W>
+!------------------------------!
+Corren rumores acerca de
+extra<-n>as enfermedades y del
+cierre de la mina.<W>
+!------------------------------!
+Pero solo les dejan m<'a>s
+inc<'o>gnitas por despejar.
+!******************************!
+[t15_180_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>Luke y el profesor consiguen
+recomponer la foto, pero el
+misterio se va complicando...
+!******************************!
+[t15_200_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:12>Profesor...
+!******************************!
+[t15_200_1000.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:106>Sin ese trozo, el emblema parece
+totalmente diferente.<W> Menos
+siniestro y m<'a>s como una... <<5E>?>rana?
+!******************************!
+[t15_200_1100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:160>Pues no debemos perder m<'a>s
+pedazos o no parecer<'a> nada.<W>
+!------------------------------!
+Ser<'a> mejor que peguemos los
+fragmentos que nos quedan para
+que no volvamos a perder otro.
+!******************************!
+[t15_200_200.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:92>Si no me equivoco, dir<'i>a que
+lo que tenemos aqu<'i> es la
+mism<'i>sima Caja El<'i>sea.
+!******************************!
+[t15_200_300.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:87><<5E>!>Pero si la decoraci<'o>n de la
+tapa es la misma que vimos
+enfrente de la fuente!
+!******************************!
+[t15_200_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:134>S<'i>, yo tambi<'e>n me he dado
+cuenta.<W>
+!------------------------------!
+Se trata de un emblema curioso.
+Parece representar un animal con
+cuernos, <<5E>?>no crees?
+!******************************!
+[t15_200_500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:99>Tiene sentido, <<5E>?>no? Al fin y al
+cabo, esa caja ha acabado con la
+vida del pobre Dr. Schrader.
+!******************************!
+[t15_200_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:211>Es una posibilidad que no debemos
+descartar, pero no lo sabremos
+hasta que no demos con ella.<W>
+!------------------------------!
+Por ahora, deber<'i>amos mostrar la
+foto a los habitantes del pueblo
+por si nos dieran m<'a>s informaci<'o>n.
+!******************************!
+[t15_200_700.gds]
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:95>Me parece bien. Quiz<'a>s la foto
+les refresque la memoria o...<W>&setani 2 b1_shout&
+!------------------------------!
+<<5E>!>No!
+!******************************!
+[t15_200_800.gds]
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:82><<5E>!><<5E>?>Qu<'e> hacemos ahora?!<W> <<5E>!>El viento
+se ha llevado uno de los pedazos!
+!******************************!
+[t15_200_900.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:27>Es ciertamente inoportuno.
+!******************************!
+[t15_220_100.gds]
+<01:00000007><03:10>b1 normal<03:5>NONE<01:00000002><03:35><<5E>!>Profesor Layton! <<5E>!>Se<-n>or!
+!******************************!
+[t15_220_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:42>Barton, buen hombre, 
+<<5E>?>qu<'e> ocurre?
+!******************************!
+[t15_220_300.gds]
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:145>El inspector ha encontrado al
+culpable del asesinato del
+Dr. Schrader.<W>
+!------------------------------!
+Tengo <'o>rdenes de llevar a todos al
+hotel de inmediato, se<-n>or.
+!******************************!
+[t15_220_400.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:77>De acuerdo, vamos para all<'a>
+ahora mismo. Vamos, Luke,
+apresur<'e>monos.
+!******************************!
+[t15_230_100.gds]
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:67><<5E>!>Eh! No vay<'a>is a jugar al bosque
+que est<'a> a las afueras.
+!******************************!
+[t15_230_1000.gds]
+<01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:46>Pues aqu<'i> lo ten<'e>is.
+Yo iba a tirarlo.
+!******************************!
+[t15_230_200.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:22><<5E>?>Y eso por qu<'e>?
+!******************************!
+[t15_230_300.gds]
+<01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:157>Eso me han dicho los que han ido
+buscando tesoros al castillo.<W>
+!------------------------------!
+Parece que all<'i> vive un vampiro
+con unos colmillos enormes.<W>
+<<5E>!>Qu<'e> repel<'u>s!
+!******************************!
+[t15_230_400.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:71><<5E>?>Te refieres al vampiro que
+dicen que vive en el Castillo
+Herzen?
+!******************************!
+[t15_230_500.gds]
+<01:0000004B><03:8>b1 weep<03:5>NONE<01:00000003><03:51>Si ya lo sab<'i>as, <<5E>?>para qu<'e>
+me preguntas?
+!******************************!
+[t15_230_600.gds]
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:192>Bueno, eso de que haya
+un vampiro da escalofr<'i>os,
+pero no pasa nada.<W>
+!------------------------------!
+Si llev<'a>is ajo, estar<'e>is seguros.<W>
+!------------------------------!
+Seguro que incluso con una
+rebanada de pan de ajo ten<'e>is
+bastante.
+!******************************!
+[t15_230_700.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:15><<5E>?>De verdad?
+!******************************!
+[t15_230_800.gds]
+<01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:129><<5E>!>Pues claro, todo el mundo lo sabe!<W>
+!------------------------------!
+Ah, por cierto, <<5E>?>sab<'e>is qu<'e> es
+esto? El viento lo ha tra<'i>do
+por aqu<'i>.
+!******************************!
+[t15_230_900.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:75><<5E>!>Pues claro! <<5E>!>Es uno de los trozos
+de la foto que estamos buscando!
+!******************************!
+[t15_231_100.gds]
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:91>La gente que ha ido por ah<'i> dice
+que es mejor no ir a jugar al
+bosque de las afueras.
+!******************************!
+[t15_240_100.gds]
+<01:00000043><03:10>b1 normal<03:5>NONE<01:00000001><03:321>Folsense, el pueblo dorado.<W>
+As<'i> lo llamaban antes, <<5E>?>saben?<W>
+!------------------------------!
+Yo trabajaba en la mina que
+le dio ese nombre al pueblo.
+La cerraron hace unos a<-n>os.<W>
+!------------------------------!
+A veces a<'u>n me cruzo con
+chavales que van por all<'i> a
+ver si encuentran algo.<W>
+!------------------------------!
+Pero siempre vuelven con las
+manos vac<'i>as; ah<'i> no queda nada.
+!******************************!
+[t15_240_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:90>S<'i>, hemos o<'i>do los rumores
+acerca de la gran fortuna que
+dej<'o> el duque Herzen.
+!******************************!
+[t15_240_300.gds]
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:342>As<'i> que ustedes tambi<'e>n han
+venido en busca de grandes
+tesoros, <<5E>?>eh?<W>
+!------------------------------!
+Pues sepan una cosa: la fortuna
+no est<'a> en la mina. Est<'a> en el
+castillo.<W>
+!------------------------------!
+Claro que entrar puede ser
+dif<'i>cil con eso de que all<'i>
+vive un vampiro...<W>
+!------------------------------!
+Pero basta de charleta, a<'u>n
+tengo que descubrir qu<'e> es
+esto que me he encontrado.
+!******************************!
+[t15_240_400.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:94><<5E>!>Yo lo s<'e>, yo lo s<'e>! <<5E>!>Es un
+trozo de foto, y lo hemos
+buscado por todas partes!
+!******************************!
+[t15_240_500.gds]
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:74>Ah, <<5E>?>esto es suyo?<W> Bueno, a m<'i>
+no me hace falta, aqu<'i> tienen.
+!******************************!
+[t15_241_100.gds]
+<01:00000043><03:10>b1 normal<03:5>NONE<01:00000001><03:252>Yo trabajaba en la mina que
+le dio ese nombre al pueblo.
+La cerraron hace unos a<-n>os.<W>
+!------------------------------!
+A veces a<'u>n me encuentro a
+chavales que van por all<'i> a
+ver si encuentran algo.<W>
+!------------------------------!
+Pero siempre vuelven con las
+manos vac<'i>as, ah<'i> no queda nada.
+!******************************!
+[t15_250_100.gds]
+<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:70>Hola, amigos. <<5E>?>Qu<'e> hac<'e>is
+por aqu<'i>? <<5E>?>Busc<'a>is algo?
+!******************************!
+[t15_250_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:74>S<'i>, fragmentos de una foto.
+<<5E>?>No habr<'a> visto alguno por aqu<'i>?
+!******************************!
+[t15_250_300.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:301><<5E>?>Que vais buscando basura? Ah,
+s<'i>, creo que he visto uno de esos
+trozos en la puerta del bosque.<W>
+!------------------------------!
+Pero oye, qu<'e> casualidad. Hoy me
+he encontrado con un mont<'o>n de
+forasteros.<W>
+!------------------------------!
+Hace poco pas<'o> una chica que me
+pregunt<'o> c<'o>mo llegar al Castillo
+Herzen, y ahora vosotros dos.
+!******************************!
+[t15_250_400.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:30><<5E>?>C<'o>mo era esa muchacha?
+!******************************!
+[t15_250_500.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:74>Era una chica bastante mona.<W>
+Entonces no va con vosotros,
+<<5E>?>verdad?
+!******************************!
+[t15_250_600.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:35>Creo que habla de Katia, profesor.
+!******************************!
+[t15_250_700.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:44>S<'i>, esa podr<'i>a ser su descripci<'o>n.
+!******************************!
+[t15_250_800.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:55><<5E>?>Cree que va en busca de la
+fortuna de los Herzen?
+!******************************!
+[t15_250_900.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:258>No me dio esa impresi<'o>n cuando
+la conocimos, pero esto es
+extra<-n>o, sin duda.<W>
+!------------------------------!
+En fin, sigamos adelante. Ya
+tenemos una pista sobre d<'o>nde
+puede estar el <'u>ltimo pedazo.<W>
+!------------------------------!
+Tenemos que llegar a esa puerta
+antes de que el viento se lo
+lleve.
+!******************************!
+[t15_260_100.gds]
+<01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:288>De turismo por aqu<'i>, <<5E>?>eh?
+<<5E>?>Han o<'i>do hablar del Museo
+Herzen?<W>
+!------------------------------!
+Tiene antig<:u>edades de la
+familia m<'a>s importante de
+Folsense.<W>
+!------------------------------!
+Sin embargo, Grinko,
+el conservador, casi
+nunca est<'a> all<'i>.<W>
+!------------------------------!
+Si lo encuentran abierto
+alguna vez, consid<'e>rense
+afortunados.
+!******************************!
+[t15_260_1000.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:34><<5E>!>Uno de los trozos de la foto!
+!******************************!
+[t15_260_1100.gds]
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:62><<5E>?>Andaban buscando esto?<W> Pues
+aqu<'i> tienen, todo suyo.
+!******************************!
+[t15_260_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:74>Ya nos hemos dado cuenta.
+Antes hemos ido a verlo,
+pero estaba cerrado.
+!******************************!
+[t15_260_300.gds]
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:146>Dicen que el due<-n>o del museo vino
+a pedirle a Grinko que lo cerrara
+y se fue por donde hab<'i>a venido.<W>
+!------------------------------!
+Al parecer, iba en busca de algo.
+!******************************!
+[t15_260_400.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:43><<5E>?>El due<-n>o? <<5E>?>De qui<'e>n se trata?
+!******************************!
+[t15_260_500.gds]
+<01:00000048><03:11>b1 normal2<03:5>NONE<01:00000002><03:201>Todo el mundo sabe qui<'e>n es.
+El mismo tipo que tambi<'e>n es
+due<-n>o del Molentary Express, s<'i>.<W>
+!------------------------------!
+A lo mejor los ricos fundan
+museos por afici<'o>n, pero a m<'i>
+me parece tirar el dinero.
+!******************************!
+[t15_260_600.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:71>Al parecer, el Sr. Beluga tambi<'e>n
+es propietario del Museo Herzen.
+!******************************!
+[t15_260_700.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:82>Pues qu<'e> raro. <<5E>?>Para qu<'e> iba
+a querer el Sr. Beluga un
+museo como ese?
+!******************************!
+[t15_260_800.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:89>No podemos saberlo.<W> Por ahora,
+est<'a> claro que est<'a> relacionado
+con los Herzen.
+!******************************!
+[t15_260_900.gds]
+<01:00000048><03:2> <03:5>NONE<01:00000002><03:87><<5E>?>Han acabado ya de cuchichear?<W>
+Pues miren lo que me he
+encontrado por el suelo.
+!******************************!
+[t15_261_100.gds]
+<01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:88>A lo mejor los ricos fundan
+museos por hobby, pero a m<'i>
+me parece tirar el dinero.
+!******************************!
+[t15_270_100.gds]
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:165><<5E>?>Por qu<'e> intentan asustar a
+la gente para que no vaya al
+castillo?<W>
+!------------------------------!
+<<5E>?>Qu<'e> m<'a>s da?<W> De todas formas,
+el camino est<'a> bloqueado por
+una puerta.
+!******************************!
+[t15_270_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:60>Y ese es el <'u>nico acceso al
+castillo, <<5E>?>no es as<'i>?
+!******************************!
+[t15_270_300.gds]
+<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:231>Aaah, <<5E>?>que quieren ir all<'i>?
+Lo entiendo, aunque es un lugar
+muy raro y tenebroso.<W>
+!------------------------------!
+Pues abren la puerta una vez
+al d<'i>a para que pase un coche.<W>
+!------------------------------!
+Si se esconden entre los arbustos,
+a lo mejor pueden pasar detr<'a>s.
+!******************************!
+[t15_270_400.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:72><<5E>!>Entonces s<'i> que abren la puerta!
+<<5E>?>Y sabe algo de este coche?
+!******************************!
+[t15_270_500.gds]
+<01:00000045><03:9>b1 smile<03:5>NONE<01:00000003><03:246>Suele ir al castillo todos los
+d<'i>as, siempre sobre la misma hora.<W>
+!------------------------------!
+<<5E>!>A lo mejor le llevan carne cruda
+al vampiro!<W> Bueno, la verdad
+es que no tengo ni idea.<W>
+!------------------------------!
+Pero en el bosque pasa de todo,
+yo de ustedes me andar<'i>a con
+cuidado.
+!******************************!
+[t15_280_100.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:82>A ver, parece que ya hemos
+recogido casi todos los pedazos
+de la fotograf<'i>a.
+!******************************!
+[t15_280_200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:39><<5E>!>S<'i>, pero a<'u>n falta un trozo!
+!******************************!
+[t15_280_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:143>Se lo debe de haber llevado
+el viento.<W>
+!------------------------------!
+Pero ser<'a> mejor no preocuparse.
+Seguro que, con paciencia, lo
+encontraremos. Sigamos buscando.
+!******************************!
+[t15_290_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:46>Profesor, <<5E>?>cree que eso
+podr<'i>a ser...?
+!******************************!
+[t15_290_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:99><<5E>?>Uno de los trozos de la
+fotograf<'i>a?<W> Eso parece.
+Muy bien, lo guardar<'e> en el ba<'u>l.
+!******************************!
+[t15_300_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:73>Luke, <<5E>?>ves eso? <<5E>?>No es uno de los
+fragmentos de la fotograf<'i>a?
+!******************************!
+[t15_300_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67><<5E>!>Caracoles, pues s<'i>! Espero
+que no se haya empapado ah<'i>.
+!******************************!
+[t15_300_300.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:96>Mmm...<W>&setani 1 b4_smile&
+No te preocupes, Luke. Parece
+que est<'a> m<'a>s o menos intacto.
+!******************************!
+[t15_310_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:83><<5E>!>All<'i> hay otro trozo!<W>
+Pues s<'i> que ha caminado
+el inspector Chelmey...
+!******************************!
+[t15_320_100.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:83>Mira, all<'i> hay otro de los trozos
+de la foto, encima del mont<'o>n de
+basura.
+!******************************!
+[t15_320_200.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:45>Qu<'e>dese ah<'i>, profesor. Ya lo
+cojo yo.
+!******************************!
+[t15_320_300.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:60>Ten cuidado; ese mont<'o>n de
+basura parece muy inestable.
+!******************************!
+[t15_320_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:195><<5E>!>Ya est<'a>! <W>&setani 2 b2_normal&
+!------------------------------!
+Pero no me cabe en la cabeza
+qu<'e> hac<'i>a el inspector revolviendo
+la basura.<W>
+!------------------------------!
+<<5E>?>Cre<'i>a que iba a encontrar al
+culpable por aqu<'i> escondido?
+!******************************!
+[t15_320_500.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:98>Qui<'e>n sabe. Cabe la posibilidad
+de que estuviera buscando pistas
+entre los restos de comida.
+!******************************!
+[t15_330_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:38><<5E>!>Profesor, all<'i> hay otro trozo!
+!******************************!
+[t15_330_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:70>Muy bien, Luke. Voy a guardarlo
+en el ba<'u>l para que no se pierda.
+!******************************!
+[t15_340_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:35><<5E>?>Ese es otro de los fragmentos?
+!******************************!
+[t15_340_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:38><<5E>!>Pues s<'i>, bien visto, profesor!
+!******************************!
+[t15_350_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:33>All<'i> hay otro pedazo de foto.
+!******************************!
+[t15_350_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:41>Excelente, lo guardar<'e> en mi ba<'u>l.
+!******************************!
+[t15_360_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:37>Esto tambi<'e>n es parte de la foto.
+!******************************!
+[t15_360_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:35>Bien hecho, Luke. Ya lo guardo yo.
+!******************************!
+[t15_370_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>Eso parece otro pedazo de la foto.
+!******************************!
+[t15_370_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:23>S<'i>, lo guardar<'e>.
+!******************************!
+[t15_380_100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:86>Creo que no hemos explorado
+este callej<'o>n a fondo. Sigamos
+buscando por aqu<'i>.
+!******************************!
+[t15_390_100.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:80>A ver, llevamos siete trozos.
+Me parece que a<'u>n nos queda
+mucho por hacer.
+!******************************!
+[t15_390_200.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:297>S<'i>, a<'u>n no hemos acabado.
+Parece que nos queda la mitad,
+m<'a>s o menos.<W>
+!------------------------------!
+Pero ya hemos explorado este
+callej<'o>n minuciosamente. No creo
+que encontremos m<'a>s trozos aqu<'i>.<W>
+!------------------------------!
+Ser<'a> mejor que concentremos la
+b<'u>squeda en otros lugares que
+pueda haber visitado el inspector.
+!******************************!
+[t15_400_100.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:18>Aqu<'i> hay otro.
+!******************************!
+[t15_410_100.gds]
+<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:82><<5E>!>Eh, t<'i>os! <<5E>!>No mola nada eso
+de ir por ah<'i> siguiendo a los dem<'a>s!
+!******************************!
+[t15_410_1000.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:53><<5E>!>Seguro que est<'a>n buscando
+la Caja El<'i>sea!
+!******************************!
+[t15_410_1100.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:20>Es una posibilidad.
+!******************************!
+[t15_410_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:36><<5E>?>Qu<'e> hace por aqu<'i>, Sammy?
+!******************************!
+[t15_410_300.gds]
+<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:69>Uf, si yo les contara... Llevo
+todo el d<'i>a buscando...<W> Oh, oh.
+!******************************!
+[t15_410_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:20><<5E>?>Qu<'e> buscaba?
+!******************************!
+[t15_410_500.gds]
+<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:138>A una tal Pandora, que tocaba
+el teclado en mi grupo. Se le
+daba de miedo.<W>
+!------------------------------!
+<<5E>?>Y ustedes, qu<'e> hacen dando
+vueltas por el pueblo?
+!******************************!
+[t15_410_600.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:52><<5E>!>Es un secreto! No se lo podemos
+decir a nadie.
+!******************************!
+[t15_410_700.gds]
+<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:199><<5E>?>Eh? <<5E>?>Esas tenemos?<W> Aaaah,
+s<'i>, yo tambi<'e>n tengo secretos,
+<<5E>?>saben?<W>
+!------------------------------!
+Y lo que yo hago por aqu<'i> es mi
+secreto, as<'i> que d<'e>jenme en paz,
+<<5E>?>estamos?<W> Vale, pues me piro.
+!******************************!
+[t15_410_800.gds]
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:49>Profesor, creo que todo
+esto es muy sospechoso.
+!******************************!
+[t15_410_900.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:81>En efecto, eso parece. Sammy
+sigue <'o>rdenes del Sr. Beluga.
+Eso es evidente.
+!******************************!
+[t15_430_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:101>Ese bulldog bloquea el paso
+hacia la esquina nordeste.<W> Mmm...
+<<5E>?>C<'o>mo podr<'i>amos pasar?...
+!******************************!

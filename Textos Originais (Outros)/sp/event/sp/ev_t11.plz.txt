@@ -1,0 +1,1314 @@
+[t11_020_100.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:93><<5E>!>Caracoles! <<5E>!>Mire, profesor,
+este sitio es el m<'a>s lujoso
+que he visto en mi vida!
+!******************************!
+[t11_020_200.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:207><<5E>!>Ja, ja, ja! Tienes raz<'o>n, Luke. La
+decoraci<'o>n de este compartimento
+es sumamente exquisita.<W>
+!------------------------------!
+Estoy convencido de que el resto
+del tren tambi<'e>n debe de ser
+majestuoso. Salgamos a explorar.
+!******************************!
+[t11_030_100.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:132>Profesor, nunca estamos en
+sitios tan acogedores como
+este.<W>
+!------------------------------!
+<<5E>?>No podemos seguir explorando
+la habitaci<'o>n un poco m<'a>s?
+!******************************!
+[t11_040_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:106>Luke, <<5E>?>no te parece que deber<'i>as
+recoger tus cosas en la maleta
+antes de que salgamos a explorar?
+!******************************!
+[t11_045_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:86>Recuerda, Luke, hemos venido
+en busca de la Caja El<'i>sea, no
+vayas a despistarte.
+!******************************!
+[t11_045_200.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:107>No har<'a> falta que me lo diga dos
+veces, profesor.<W> <<5E>?>Por qu<'e> no
+empezamos a investigar el tren?
+!******************************!
+[t11_050_100.gds]
+<01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:180><<5E>!>Dicen que las cabinas del segundo
+vag<'o>n son tan superlujosas que las
+manillas de las puertas son de oro!<W>
+!------------------------------!
+Pero no admiten a nadie en ese
+vag<'o>n que no sea megarrico.
+!******************************!
+[t11_050_200.gds]
+<01:00000024><03:10>b2 normal<03:5>NONE<01:00000003><03:104><<5E>?>Y vosotros, sois ricos?<W> Si lo
+sois, podr<'e>is pasar al vag<'o>n de las
+cabinas superlujosas...
+!******************************!
+[t11_050_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:26><<5E>?>Cabinas superlujosas?
+!******************************!
+[t11_050_400.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:160>En las que solo los clientes
+adinerados pueden entrar...<W>
+!------------------------------!
+Si la peque<-n>a tiene raz<'o>n,
+debe de haber compartimentos
+de lujo en el vag<'o>n de al lado.
+!******************************!
+[t11_050_500.gds]
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:73><<5E>!>Canastos, pues yo quiero verlos!
+<<5E>!>Tienen que ser impresionantes!
+!******************************!
+[t11_060_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:52><<5E>!>Me pregunto qu<'e> lujos
+esconde ese vag<'o>n!
+!******************************!
+[t11_060_200.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:260><<5E>!>A ver, parando el carro!<W>
+!------------------------------!
+Sammy Thunder, que es el menda,
+dice que aqu<'i> solo entran los
+peces gordos.<W>&setani 8 b2_normal&
+!------------------------------!
+Ya s<'e> que les molar<'i>a hurgar por
+ah<'i>, pero el vag<'o>n est<'a> reservado,
+as<'i> es la cosa.&setani 8 b1_normal&
+!******************************!
+[t11_060_400.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:93><<5E>?>Que todo el vag<'o>n est<'a> completo?
+Seguro que lo han reservado unos
+supermagnates.
+!******************************!
+[t11_060_500.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:100>Muy probablemente. Debe de ser
+muy c<'o>modo tener un vag<'o>n entero
+para uno solo en este tren.
+!******************************!
+[t11_060_600.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:69><<5E>!>Pues parece que nunca
+lo sabremos, profesor!<W>
+<<5E>!>Je, je, je!
+!******************************!
+[t11_060_700.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:5>Mmm.
+!******************************!
+[t11_070_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:91><<5E>!>Eh, quietecitos ah<'i>!<W> No es
+por aguarles la fiesta, pero
+esta es la zona VIP.<@v>3
+!******************************!
+[t11_080_100.gds]
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:199>Tendremos que conformarnos
+con este compartimento. Espero
+que mi ni<-n>ito se encuentre a gusto.<W>
+!------------------------------!
+Lo que me recuerda que es la
+hora de comer de mi cari<-n>ito.
+Tendr<'e> que ir al restaurante.
+!******************************!
+[t11_085_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:78>Profesor, <<5E>?>y si comemos algo?
+<<5E>!>El est<'o>mago me ruge como un le<'o>n!
+!******************************!
+[t11_090_100.gds]
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:99>Lo lamento, se<-n>or. Les avisar<'e>
+en cuanto quede libre alguna
+mesa. Disculpen las molestias.
+!******************************!
+[t11_096_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:95><<5E>!>Vaya, menudo restaurante!
+Seguro que hasta la cocina ser<'a>
+ostentosa, <<5E>?>a que s<'i>?
+!******************************!
+[t11_096_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:80>Parece que la puerta de la cocina
+es la de la izquierda. Entremos a
+explorar.
+!******************************!
+[t11_100_100.gds]
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:32><<5E>!>Este sitio es incre<'i>ble!
+!******************************!
+[t11_100_1000.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:242><<5E>!>Huy, vaya! Me has pillado.<W>
+!------------------------------!
+Cr<'e>eme, s<'e> que no est<'a> bien tener
+animales en la cocina.<W> Pero es
+que es mi <'u>nico amigo, <<5E>?>sabes?<W>
+!------------------------------!
+Aunque est<'e> cubierto de pelo,
+es la <'u>nica perso... animal con
+quien puedo hablar.
+!******************************!
+[t11_100_1100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:71>Vaya, es muy... corpulento, <<5E>?>no es
+as<'i>?<W> <<5E>?>Es un h<'a>mster?
+!******************************!
+[t11_100_1200.gds]
+<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:378>S<'i>, un h<'a>mster, el m<'a>s noble
+miembro del reino animal.<W>
+!------------------------------!
+Es que, cuando empec<'e> a trabajar
+aqu<'i> necesitaba compa<-n><'i>a, as<'i>
+que me lo compr<'e>.<W>
+!------------------------------!
+Pero claro, le doy de comer
+todas las sobras, y esta dieta
+es un poco, ejem, consistente.<W>&setani 14 b2_weep&
+!------------------------------!
+S<'e> que est<'a> rellenito y, si no
+baja de peso, <<5E>!>podr<'i>a ser fatal
+para su salud!
+!******************************!
+[t11_100_1400.gds]
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:22><<5E>!>Pobre h<'a>mster!
+!******************************!
+[t11_100_1500.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:207>Por eso me gustar<'i>a pedirte un
+favor, muchacho.<W> <<5E>?>Podr<'i>as
+quedarte con <'e>l un tiempecito?<W>
+!------------------------------!
+Cuando est<'a> conmigo acabo d<'a>ndole
+comida, pero el fuagr<'a>s y los
+dulces engordan mucho...
+!******************************!
+[t11_100_1700.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:189><<5E>?>Entonces quiere que nos lo
+quedemos y le ayudemos a ponerse
+en forma? <<5E>!>Genial!<W>
+!------------------------------!
+Huy... Esto... Profesor, <<5E>?>qu<'e>
+le parece? <<5E>?>Podemos qued<'a>rnoslo
+un tiempo, por favor?
+!******************************!
+[t11_100_1800.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:150>Bueno, creo que un caballero debe
+ayudar siempre a quien lo necesite,
+sea un h<'a>mster o no.<W>
+!------------------------------!
+Ser<'a> un placer cuidar de <'e>l
+por el momento.
+!******************************!
+[t11_100_1900.gds]
+<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:63>Oh, muchas gracias. No saben
+el peso que me quitan de encima.
+!******************************!
+[t11_100_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:94>En efecto, Luke. Se nota hasta
+en la cocina que el Molentary
+Express es un tren de primera.
+!******************************!
+[t11_100_2000.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:102>Toca el icono del h<'a>mster en el
+ba<'u>l del profesor para acceder a
+la opci<'o>n del h<'a>mster.
+!******************************!
+[t11_100_2100.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:110>Oh, una cosa m<'a>s.<W>
+!------------------------------!
+Como no nos vamos a ver en un
+tiempo, denle esta manzana, por
+favor.<W> Le encantan.
+!******************************!
+[t11_100_2200.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:66><<5E>!>Peque<-n>o, te voy a echar de menos!
+<<5E>!>Cu<'i>denmelo bien!
+!******************************!
+[t11_100_2300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:46><<5E>!>No se preocupe, est<'a> en
+buenas manos!
+!******************************!
+[t11_100_300.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:193><<5E>!>Oh, no, no puede ser! <<5E>!>Pasajeros
+en la cocina! Lo siento, pero no
+pueden andar por aqu<'i>.<W>
+!------------------------------!
+Los de sanidad me van a poner
+una sanci<'o>n como sigan aqu<'i>
+con esas ropas sucias.
+!******************************!
+[t11_100_400.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:47>Oiga, que nosotros nunca
+llevamos ropa sucia.
+!******************************!
+[t11_100_500.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:179>Digas lo que digas, yo soy
+el jefe de cocina y no puedo
+permitirlo.<W>
+!------------------------------!
+<<5E>?>Sabes lo que podr<'i>a pasar si se
+acaban metiendo aqu<'i> g<'e>rmenes por
+culpa de unos pasajeros?
+!******************************!
+[t11_100_600.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:99>Tiene raz<'o>n.<W> Por favor, disculpe
+nuestra intrusi<'o>n y las molestias
+que le hemos causado.
+!******************************!
+[t11_100_700.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:65>Mmm... Bueno, yo tambi<'e>n lo siento.<W>
+!------------------------------!
+Eh, <<5E>?>qu<'e> es eso?
+!******************************!
+[t11_100_900.gds]
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:127><<5E>!>Mire, profesor! <<5E>!>Pero si el
+cocinero tiene una mascota en
+la cocina!<W>
+!------------------------------!
+<<5E>!>Y nos estaba dando lecciones
+de higiene!
+!******************************!
+[t11_101_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:81>Bueno, peque<-n>o, a partir de
+ahora, t<'u> y yo iremos juntos
+a todas partes.
+!******************************!
+[t11_101_200.gds]
+<01:00000054><03:5>NONE<03:5>NONE<01:00000003><03:29><<5E>?>Iiik?<W> <<5E>!>Iiiiiiiiiik!
+!******************************!
+[t11_101_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92><<5E>!>Ja, ja! Al parecer, has hecho
+un nuevo amigo gracias a tu
+habilidad con los animales.
+!******************************!
+[t11_101_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:16><<5E>!>Eso parece!
+!******************************!
+[t11_110_100.gds]
+<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:66><<5E>!>Peque<-n>o, te voy a echar de menos!
+<<5E>!>Cu<'i>denmelo bien!
+!******************************!
+[t11_110_200.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:46><<5E>!>No se preocupe, est<'a> en
+buenas manos!
+!******************************!
+[t11_120_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:33>Parece que aqu<'i> no hay nadie.
+!******************************!
+[t11_120_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:23>Volvamos m<'a>s tarde.
+!******************************!
+[t11_130_100.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:59><<5E>!>Anda, profesor! <<5E>?>Le suena esa
+caba<-n>a de ah<'i>?
+!******************************!
+[t11_130_200.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:95>En efecto, muchacho. Si no me
+equivoco, esta debe de ser la
+residencia de ya sabes qui<'e>n.
+!******************************!
+[t11_130_300.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:62>Tengo el presentimiento de que
+volver<'a> a ayudarnos mucho.
+!******************************!
+[t11_140_100.gds]
+<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:93><<5E>!>Ah, c<'o>mo me gusta viajar en tren!
+Es una de esas cosas que le
+suben la moral a uno.
+!******************************!
+[t11_140_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:101>Estoy completamente de acuerdo.<W>
+Y si es en uno tan lujoso como el
+suyo, tanto mejor, Sr. Beluga.
+!******************************!
+[t11_140_300.gds]
+<01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:30>As<'i> que sabe qui<'e>n soy.
+!******************************!
+[t11_140_400.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:226>Por supuesto. Su reputaci<'o>n en
+Londres es solo comparable a la
+de este tren.<W>
+!------------------------------!
+Le he visto en los peri<'o>dicos
+m<'a>s de una vez.<W>
+!------------------------------!
+Resulta impresionante que lograra
+construir este ferrocarril cuando
+era tan joven.
+!******************************!
+[t11_140_500.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:85>Resulta impresionante que lograra
+construir este ferrocarril cuando
+era tan joven.
+!******************************!
+[t11_140_600.gds]
+<01:00000009><03:9>b1 laugh<03:5>NONE<01:00000002><03:129>Ja, ja, <<5E>?>en serio?<W>
+!------------------------------!
+Lo siento mucho... caballero, pero
+me parece que no lo conozco ni la
+mitad de bien que usted a m<'i>.
+!******************************!
+[t11_140_700.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:195>Soy Hershel Layton, profesor
+de arqueolog<'i>a de profesi<'o>n y
+aficionado a los trenes.<W>
+!------------------------------!
+Despu<'e>s de o<'i>r un sinf<'i>n de
+maravillas sobre este tren,
+decid<'i> verlo por m<'i> mismo.
+!******************************!
+[t11_140_800.gds]
+<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:165>Muy interesante. Encantado
+de conocerlo, Sr.... Layton,
+<<5E>?>verdad?<W>
+!------------------------------!
+Vaya, vaya, qu<'e> tarde se ha hecho.
+Tengo que marcharme. Por favor,
+disfrute del viaje.
+!******************************!
+[t11_140_900.gds]
+<01:00000009><03:9>b1 laugh<03:5>NONE<01:00000002><03:92>Vaya, vaya, qu<'e> tarde se ha hecho.
+Tengo que marcharme. Por favor,
+disfrute del viaje.
+!******************************!
+[t11_150_100.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:55>Luke, volvamos al restaurante.
+Me ha entrado apetito.
+!******************************!
+[t11_160_100.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:63>Pasemos por nuestra habitaci<'o>n
+antes de seguir explorando.
+!******************************!
+[t11_160_200.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:10><<5E>!>Vale!
+!******************************!
+[t11_170_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:25>Mmm. <<5E>?>Qu<'e> es esto?
+!******************************!
+[t11_170_1000.gds]
+<01:0000000B><03:10>b1 normal<03:5>NONE<01:00000002><03:131><<5E>?>Pero a<'u>n est<'a>n ah<'i>?<W>
+!------------------------------!
+<<5E>!>Pues si tienen tiempo para
+tanta ch<'a>chara, dense prisa
+y tr<'a>iganme a mi ni<-n>ito!
+!******************************!
+[t11_170_1100.gds]
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:233>Las <'u>nicas pistas son este
+zapato, que se le debi<'o> de caer
+al peque<-n>o, y su nombre, Tom.<W>
+!------------------------------!
+He intentado que esta se<-n>ora
+me diera m<'a>s datos, pero no
+hay manera.<W>
+!------------------------------!
+No hace m<'a>s que pedirme que
+registre el tren.
+!******************************!
+[t11_170_1200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:75><<5E>?>Que este es uno de los zapatos
+de Tom?<W> Pero si es diminuto, <<5E>?>no?
+!******************************!
+[t11_170_1300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:37>S<'i>, es ciertamente curioso, Luke.
+!******************************!
+[t11_170_1400.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:95>Lo m<'a>s raro es que la mayor<'i>a
+de los ni<-n>os con ese n<'u>mero a<'u>n
+no saben andar.
+!******************************!
+[t11_170_1500.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:5>Mmm.
+!******************************!
+[t11_170_200.gds]
+<01:0000000B><03:9>b1 angry<03:5>NONE<01:00000002><03:97><<5E>!>Mi peque<-n>o! <<5E>!>Mi chiquit<'i>n!
+<<5E>!>Tienen que hacer algo!
+<<5E>!>Registren todo el tren!
+!******************************!
+[t11_170_300.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:70>Se<-n>ora, tranquil<'i>cese. P<'o>ngame
+al tanto de la situaci<'o>n.
+!******************************!
+[t11_170_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:80>Oh, inspector Chelmey, no sab<'i>a
+que usted tambi<'e>n viajaba en
+este tren.
+!******************************!
+[t11_170_500.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:263><<5E>!>Vaya, el Sr. Layton en persona!
+<<5E>!>Qu<'e> casualidad!<W>
+!------------------------------!
+Bueno, basta de ch<'a>chara.
+Tengo qu<'e> hacer. En concreto,
+encontrar a un ni<-n>o desaparecido.<W>
+!------------------------------!
+Seg<'u>n parece, el hijo de esta
+mujer se ha escapado. <<5E>?>No lo
+habr<'a>n visto por aqu<'i>?
+!******************************!
+[t11_170_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:52>No, no hemos visto a ning<'u>n
+ni<-n>o peque<-n>o.
+!******************************!
+[t11_170_700.gds]
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:195><<5E>!>Mi peque<-n><'i>n se ha escapado y
+a<'u>n no ha vuelto! <<5E>!>Me muero de
+preocupaci<'o>n!<W>
+!------------------------------!
+<<5E>!>Se<-n>ores, les exijo que registren
+el tren inmediatamente! <<5E>!>Encuentren
+a mi ni<-n>ito!
+!******************************!
+[t11_170_800.gds]
+<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:42>Grrr, lleva as<'i> desde que
+he llegado.
+!******************************!
+[t11_170_900.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:172>Entiendo su preocupaci<'o>n, se<-n>ora.
+Mi amigo y yo la ayudaremos en
+la b<'u>squeda.<W>
+!------------------------------!
+Pero debemos ponernos manos
+a la obra de inmediato y no
+perder m<'a>s tiempo.
+!******************************!
+[t11_175_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:29>Ay, ay, ay, qu<'e> l<'i>o...
+!******************************!
+[t11_175_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:25><<5E>?>Pasa algo, se<-n>or?
+!******************************!
+[t11_175_300.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:224><<5E>?>Eh? Ah, hola...<W>
+!------------------------------!
+Pues... Es que le cog<'i> la c<'a>mara
+a mi t<'i>o, <<5E>?>no? Y bueno, es que...
+se me ha ca<'i>do.<W>
+!------------------------------!
+Llevo aqu<'i> m<'a>s de una hora
+intentando encontrar todas las
+piezas, pero solo tengo esta...
+!******************************!
+[t11_175_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>Ya veo que est<'a> en un apuro.
+!******************************!
+[t11_175_500.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:276>Pues s<'i>, <<5E>!>y como se entere
+mi t<'i>o, me corta las orejas,
+por lo menos!<W>
+!------------------------------!
+<<5E>!>Eh, pero qu<'e> idea!<W> Miren, yo
+les doy esta chatarra y ya se
+apa<-n>an ustedes como quieran.<W>
+!------------------------------!
+Hala, esto ya no es asunto
+m<'i>o.<W> Ahora me piro y si eso
+ya nos vemos por ah<'i>.
+!******************************!
+[t11_175_600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:36><<5E>?>Qu<'e>? <<5E>!>Eh, vuelva aqu<'i>!
+!******************************!
+[t11_175_700.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:201>La opci<'o>n de la c<'a>mara se ha
+a<-n>adido al ba<'u>l. Reconstruye la
+c<'a>mara con las piezas perdidas.<W>
+!------------------------------!
+Para acceder a ella, toca el
+icono del ba<'u>l y despu<'e>s el
+icono de la c<'a>mara.
+!******************************!
+[t11_180_100.gds]
+<01:0000002F><03:7>normal<03:5>NONE<01:00000005><03:66>Zzzz. Zzzz. <<5E>!>Jjjzzzz! Zzzzzzzz...
+Mi... chiquit<'i>n... Zzzz.
+!******************************!
+[t11_180_200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:24>Est<'a> como un tronco.
+!******************************!
+[t11_180_300.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:161>Eso parece. Supongo que estar<'a>
+agotada por la preocupaci<'o>n.<W>
+!------------------------------!
+Vamos, Luke. Cuanto antes
+encontremos al peque<-n>o, antes
+podr<'a> descansar tranquila.
+!******************************!
+[t11_190_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:37>C<'a>scaras, mire, profesor.
+Son...
+!******************************!
+[t11_190_200.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:30>Restos de comida, al parecer.
+!******************************!
+[t11_190_300.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:57><<5E>?>Cree que Tom entr<'o> en
+la cocina para picar algo?
+!******************************!
+[t11_190_400.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:99>Es muy posible, aunque si ese
+es el caso, dir<'i>a que al ni<-n>o
+le falta algo de educaci<'o>n.
+!******************************!
+[t11_200_100.gds]
+<01:00000004><03:5>NONE<03:5>NONE<01:00000003><03:8><<5E>!>Oh!
+!******************************!
+[t11_200_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:30><<5E>?>Ocurre algo, se<-n>orita?
+!******************************!
+[t11_200_300.gds]
+<01:00000004><03:5>NONE<03:5>NONE<01:00000003><03:28>No, no pasa nada. Disculpe.
+!******************************!
+[t11_200_400.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:35><<5E>?>No le suena de algo esa chica?
+!******************************!
+[t11_200_500.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:79>Pues s<'i>, ahora que lo dices,
+hay algo en ella que me resulta...
+familiar.
+!******************************!
+[t11_210_100.gds]
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:111>Muy buenas, se<-n>ores pasajeros.
+<<5E>?>Puedo ofrecerles algo de beber,
+o quiz<'a>s un delicioso tentempi<'e>?
+!******************************!
+[t11_210_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:149>Lo lamento, se<-n>orita, pero ahora
+estamos ocupados buscando a un
+ni<-n>o perdido.<W>
+!------------------------------!
+<<5E>?>No habr<'a> visto a un ni<-n>o
+peque<-n>o por aqu<'i>?
+!******************************!
+[t11_210_300.gds]
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:133><<5E>?>Un ni<-n>o, dice?<W> Pues no, lo
+siento, no me suena nada.<W>
+!------------------------------!
+Oooh, oooh, <<5E>?>y qu<'e> ha pasado?
+<<5E>?>Se ha perdido en el tren?
+!******************************!
+[t11_210_400.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:46>S<'i>, y a<'u>n no hemos podido
+encontrarlo.
+!******************************!
+[t11_210_500.gds]
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:171>Huy, la verdad es que no deber<'i>a
+andar cotilleando por aqu<'i>, pero
+tampoco tengo nada que hacer.<W>
+!------------------------------!
+<<5E>?>Saben que en este vag<'o>n viaja
+una anciana un poco rara?
+!******************************!
+[t11_210_600.gds]
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:298><<5E>?>Y si ha sido ella la que ha
+raptado al ni<-n>o y lo esconde
+en su habitaci<'o>n?<W>
+!------------------------------!
+Vale, seguro que no es verdad,
+pero <<5E>?>y si lo fuera? Es tan rara
+que no me extra<-n>ar<'i>a nada.<W>
+!------------------------------!
+Huy, me podr<'i>a meter en un l<'i>o
+por decir estas cosas de los
+clientes. No digan nada, <<5E>?>vale?
+!******************************!
+[t11_210_700.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:57>Conque una anciana rara...
+<<5E>?>La habremos visto antes?
+!******************************!
+[t11_210_800.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:36>Yo tambi<'e>n me lo pregunto, Luke.
+!******************************!
+[t11_211_100.gds]
+<01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:103><<5E>!>Qu<'e> aburrimiento!<W> Tengo unas
+ganas locas de dejar este curro
+y buscar un trabajo decente...
+!******************************!
+[t11_220_100.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:218><<5E>!>Buenas, muchachos! <<5E>?>Sol<'e>is
+quedaros atascados sin remedio y
+sin poder resolver alg<'u>n puzle?<W>
+!------------------------------!
+<<5E>!>Pues est<'a>is de suerte! <<5E>!>La
+clarividente y bella yaya Enigmina
+os guiar<'a> durante la aventura!
+!******************************!
+[t11_220_200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:136><<5E>!>Aj<'a>, ya lo sospechaba!
+<<5E>?>De qui<'e>n iba a ser si no
+esta caba<-n>a?<W>
+!------------------------------!
+Pero <<5E>!>un momento! <<5E>?>Qu<'e> hace
+usted aqu<'i>?
+!******************************!
+[t11_220_300.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:126><<5E>?>As<'i> que ya hab<'i>as o<'i>do hablar de
+m<'i>, chico? Je, je, je. <<5E>!>Veo que a<'u>n
+tengo gancho con los j<'o>venes!
+!******************************!
+[t11_220_400.gds]
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:122><<5E>?>Eh? <<5E>?>Qu<'e> quiere decir? <<5E>!>Claro que
+he o<'i>do hablar de usted! Pero si ya
+nos conocemos, <<5E>?>no se acuerda?
+!******************************!
+[t11_220_500.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:156>Mmm. No. Creo que te refieres a
+otra yaya, chico. Es la primera
+vez que te veo.<W>
+!------------------------------!
+Pero si est<'a>s aqu<'i>, es porque
+quieres o<'i>r mi charla, <<5E>?>no?
+!******************************!
+[t11_220_600.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:31>Esto... La verdad es que no...
+!******************************!
+[t11_220_700.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:126>Venga, venga, no hace falta
+hacerse el modesto.<W>
+!------------------------------!
+Deja que te agradezca la
+visita ofreci<'e>ndote algo de
+informaci<'o>n.
+!******************************!
+[t11_220_800.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:368>Mi especialidad son los puzles.<W>
+Los puzles que se pasan por alto,<W>
+los que quedan olvidados.<W>
+!------------------------------!
+Seguro que os ha ocurrido.<W> No os
+sonroj<'e>is, les pasa a los mejores.<W>
+!------------------------------!
+Yo recojo los puzles abandonados
+y olvidados y me los traigo a casa.<W>
+!------------------------------!
+Seguro que los puzles que hay<'a>is
+olvidado est<'a>n ah<'i> dentro tambi<'e>n,
+por si quer<'e>is pasar a saludar.
+!******************************!
+[t11_220_900.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:158>Si la caba<-n>a est<'a> vac<'i>a, <<5E>!>es que
+ten<'e>is que ir a buscar m<'a>s puzles!<W>
+!------------------------------!
+<<5E>?>Por qu<'e> no ech<'a>is un vistazo a
+ver qu<'e> encontr<'a>is?
+!******************************!
+[t11_230_100.gds]
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:98>Los puzles de la caba<-n>a son los
+que hab<'e>is dejado sin resolver.
+Pasad a echar un vistazo.
+!******************************!
+[t11_240_100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:100>Disculpe, se<-n>or, <<5E>?>ha visto por
+aqu<'i> a un ni<-n>o peque<-n>o al que
+le faltara un zapato?
+!******************************!
+[t11_240_200.gds]
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:114>No, creo que no.<W>
+!------------------------------!
+Pero ahora que lo dice, hace
+un rato hab<'i>a aqu<'i> una pareja
+que hablaba de un ni<-n>o.
+!******************************!
+[t11_240_300.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:80>Mmm. <<5E>?>Y no sabr<'a> d<'o>nde podemos
+encontrar a esta pareja, buen
+hombre?
+!******************************!
+[t11_240_400.gds]
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:107>Me parece recordar que viajaban
+en el vag<'o>n n<'u>mero cuatro.
+<<5E>?>Por qu<'e> no les hacen una visita?
+!******************************!
+[t11_240_500.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:50>Me parece una idea muy acertada.
+Muchas gracias.
+!******************************!
+[t11_240_600.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:67>Vamos, Luke. Tenemos que visitar
+a la pareja del cuarto vag<'o>n.
+!******************************!
+[t11_241_100.gds]
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:107>La pareja que hablaba de un
+ni<-n>o viaja en el cuarto vag<'o>n,
+<<5E>?>por qu<'e> no les hacen una visita?
+!******************************!
+[t11_250_100.gds]
+<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:85><<5E>!>Un momento! Se ha equivocado
+de habitaci<'o>n. Aqu<'i> viajamos
+mi mujer y yo.
+!******************************!
+[t11_250_1000.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:69>Profesor, me temo que esta pista
+ha resultado totalmente in<'u>til.
+!******************************!
+[t11_250_1100.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:81>Al contrario, Luke, puede
+que hayamos dado con una
+informaci<'o>n muy valiosa.
+!******************************!
+[t11_250_1200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:25><<5E>?>Qu<'e> quiere decir?
+!******************************!
+[t11_250_1300.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:76>Ahora ver<'a>s, pero primero,
+volvamos al lugar donde
+desapareci<'o> Tom.
+!******************************!
+[t11_250_200.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:115>Disculpe la intromisi<'o>n, pero
+estamos buscando a un peque<-n>o.<W>
+!------------------------------!
+<<5E>?>No sabr<'a>n ustedes algo al
+respecto?
+!******************************!
+[t11_250_300.gds]
+<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:96>Cari<-n>o, creo que se refieren
+a esa ricura que acaba de pasar
+por aqu<'i>, <<5E>?>te acuerdas?
+!******************************!
+[t11_250_400.gds]
+<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:104><<5E>?>Eh?... <<5E>!>Ah, s<'i>! Era una criatura
+adorable, y ten<'i>a pinta de ser
+inteligente, <<5E>?>verdad?
+!******************************!
+[t11_250_500.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:68><<5E>?>As<'i> que han visto a Tom?<W>
+Lleva varias horas desaparecido.
+!******************************!
+[t11_250_600.gds]
+<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:103><<5E>?>Eh? Ah, pues mire, no s<'e> si
+era chico o chica, ahora que lo
+dice. Pero Tom suena bien, s<'i>.
+!******************************!
+[t11_250_700.gds]
+<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:77>Oh, bizcochito, me apostar<'i>a
+mi mejor juego de t<'e> a que
+era chica...
+!******************************!
+[t11_250_800.gds]
+<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:155>Mmm, s<'i>, s<'i>, es verdad, ya me
+parec<'i>a a m<'i> que era chica.<W>
+!------------------------------!
+Pero a no ser que lleve un
+lacito en la cabeza, es dif<'i>cil
+decirlo, <<5E>?>no?
+!******************************!
+[t11_250_900.gds]
+<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:88><<5E>!>Huy! Ahora estoy confundida.
+No tengo la menor idea de qui<'e>n
+estamos hablando.
+!******************************!
+[t11_250_950.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:19><<5E>!><<5E>?>Qu<'e>?!<@s>
+!******************************!
+[t11_260_100.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:19><<5E>!>Ah, inspector!
+!******************************!
+[t11_260_1000.gds]
+<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:124>No se puede razonar con usted.<W>
+!------------------------------!
+De acuerdo, sigan jugando a los
+detectives, pero no descubrir<'a>n
+nada, se lo aseguro.
+!******************************!
+[t11_260_150.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:79><<5E>?>Ha encontrado alguna otra
+pista acerca del paradero del
+ni<-n>o perdido?
+!******************************!
+[t11_260_200.gds]
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:90>As<'i> que a<'u>n est<'a>n parti<'e>ndose
+los cuernos para encontrar al
+chaval, <<5E>?>eh?
+!******************************!
+[t11_260_300.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:52><<5E>?>Quiere decir que ya han
+encontrado al ni<-n>o?
+!******************************!
+[t11_260_400.gds]
+<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:250>No, no, en absoluto.<W> Lo que
+quiero decir es que el ni<-n>o
+ya no se encuentra a bordo.<W>
+!------------------------------!
+Ya he preguntado a todo el
+mundo y nadie lo ha visto.<W>
+!------------------------------!
+Por lo tanto, podemos concluir que
+el pobrecillo debi<'o> de bajarse
+o incluso caerse del tren.
+!******************************!
+[t11_260_500.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:17><<5E>!><<5E>?>Caerse?!
+!******************************!
+[t11_260_600.gds]
+<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:283>S<'i>, todos sabemos que a los ni<-n>os
+les encanta ir corriendo como
+locos por ah<'i>.<W>
+!------------------------------!
+Si a esto sumamos el hecho de
+que tienen unas cabezas enormes,
+el resultado es una desgracia.<W>
+!------------------------------!
+De esto ya se encargar<'a> la
+polic<'i>a, as<'i> que ya pueden
+abandonar la b<'u>squeda.
+!******************************!
+[t11_260_700.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:222>Un momento, inspector. Las
+ventanas del tren est<'a>n muy altas
+y las salidas est<'a>n bloqueadas.<W>
+!------------------------------!
+As<'i> las cosas, <<5E>?>no cree que es poco
+probable que un ni<-n>o se bajara del
+tren sin que nadie se diera cuenta?
+!******************************!
+[t11_260_800.gds]
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:99>De acuerdo, Layton, contin<'u>e.
+<<5E>?>Ad<'o>nde cree entonces que puede
+haber ido este renacuajo?
+!******************************!
+[t11_260_900.gds]
+<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:95>No lo s<'e>, pero mi intuici<'o>n me
+dice que hemos partido de una
+suposici<'o>n err<'o>nea.
+!******************************!
+[t11_270_100.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:180>Hombre, pero si es el famoso
+Sr. Layton, con su secretismo
+y su sombrero.<W>
+!------------------------------!
+Ahora iba a la habitaci<'o>n de la
+Sra. Babette para decirle que
+su hijo ya no est<'a> en el tren.
+!******************************!
+[t11_270_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:140>Inspector, estamos a punto de
+descubrir d<'o>nde se encuentra Tom.<W>
+!------------------------------!
+Conc<'e>dame unos minutos para
+ponderar la situaci<'o>n, por favor.
+!******************************!
+[t11_270_300.gds]
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:166>A<'u>n no quiere enfrentarse a la
+realidad, <<5E>?>eh, Layton?<W>
+!------------------------------!
+De acuerdo, ya que insiste, y
+dado que la Sra. Babette sigue
+durmiendo, esperar<'e> un poco m<'a>s.
+!******************************!
+[t11_270_400.gds]
+<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:156>Pero se lo advierto, en cuanto
+se despierte, pienso pasarle el
+informe, <<5E>?>estamos?<W>
+!------------------------------!
+Si quiere demostrar que tiene
+raz<'o>n, traiga al ni<-n>o antes.
+!******************************!
+[t11_270_500.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:49>Entendido. Esa es precisamente
+mi intenci<'o>n.
+!******************************!
+[t11_270_600.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:64>M<'a>s vale que encontremos a la
+chica del perro cuanto antes.
+!******************************!
+[t11_271_100.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:103>Traigan al ni<-n>o antes de que
+se despierte la Sra. Babette
+o se lo contar<'e> todo, <<5E>?>entendido?
+!******************************!
+[t11_280_100.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:7>Mmm...
+!******************************!
+[t11_280_200.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:56><<5E>?>En qu<'e> piensas, muchacho?
+Pareces distra<'i>do.
+!******************************!
+[t11_280_300.gds]
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:115>No sabr<'i>a decirle por qu<'e>, pero
+tengo la sensaci<'o>n de que alguien
+lleva todo el d<'i>a vigil<'a>ndonos.
+!******************************!
+[t11_280_400.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:79>T<'u> tambi<'e>n, <<5E>?>eh? Yo llevo
+todo el d<'i>a con la misma
+sensaci<'o>n.
+!******************************!
+[t11_280_500.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:32><<5E>?>Cree que alguien nos sigue?
+!******************************!
+[t11_280_600.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:57>Es muy posible, s<'i>. Mantente
+alerta en todo momento.
+!******************************!
+[t11_290_100.gds]
+<01:0000000D><03:10>b1 normal<03:5>NONE<01:00000002><03:76>Buenas tardes, se<-n>ores. <<5E>?>Siguen
+buscando al peque<-n>o desaparecido?
+!******************************!
+[t11_290_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:90>En efecto, seguimos buscando.<W>
+!------------------------------!
+<<5E>?>No habr<'a> visto pasar a una
+joven con un perrito?
+!******************************!
+[t11_290_300.gds]
+<01:0000000D><03:10>b1 normal<03:5>NONE<01:00000002><03:100>Hum, eso s<'i> que me suena.
+S<'i>, creo que se dirig<'i>a hacia
+los <'u>ltimos vagones del tren.
+!******************************!
+[t11_290_400.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:59><<5E>?>Ah, s<'i>? Muchas gracias, nos
+ha sido de gran ayuda.
+!******************************!
+[t11_291_100.gds]
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:95>Si est<'a>n buscando a la chica y
+su perro, creo que se dirig<'i>an
+hacia el final del tren.
+!******************************!
+[t11_310_100.gds]
+<01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:39><<5E>!>Pues claro! <<5E>!>El perro de antes!
+!******************************!
+[t11_310_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:28><<5E>!>R<'a>pido, atr<'a>palo!
+!******************************!
+[t11_310_300.gds]
+<01:0000000C><03:5>NONE<03:5>NONE<01:00000002><03:10><<5E>!>Guau!
+!******************************!
+[t11_310_400.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:66>Y pensar que hemos estado
+buscando a un perro todo
+el d<'i>a...
+!******************************!
+[t11_310_500.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:72>Ja, ja, as<'i> es, Luke.
+Ahora debemos devolv<'e>rselo
+a su due<-n>a.
+!******************************!
+[t11_310_600.gds]
+<01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:39>Oh, huy... <<5E>?>Puedo ir yo tambi<'e>n?
+!******************************!
+[t11_310_700.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:36>Claro que s<'i>, acomp<'a><-n>anos.
+!******************************!
+[t11_320_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:83>El compartimento de la
+Sra. Babette est<'a> por all<'i>.
+Llev<'e>mosle el perro.
+!******************************!
+[t11_330_100.gds]
+<01:0000000B><03:9>b1 smile<03:5>NONE<01:00000002><03:118><<5E>!>Oh, por fin, mi angelito, est<'a>s
+bien! <<5E>!>Mi peque<-n>o Tommy! <<5E>!>No sabes
+cu<'a>nto te he echado de menos!
+!******************************!
+[t11_330_1000.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:91>Esto... Quiz<'a>s sea mejor que
+no comentemos nada sobre el
+papel de Flora en todo esto.
+!******************************!
+[t11_330_1100.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:22>Buena idea, muchacho.
+!******************************!
+[t11_330_1150.gds]
+<01:00000005><03:10>b1 notalk<03:5>NONE<01:00000006><03:5>Mmm.
+!******************************!
+[t11_330_1200.gds]
+<01:0000000B><03:9>b1 smile<03:5>NONE<01:00000002><03:147>En cualquier caso, creo que se
+merecen una recompensa.<W>
+!------------------------------!
+Aqu<'i> tienen. Puede parecer
+demasiado generoso, <<5E>!>pero
+insisto en que lo acepten!
+!******************************!
+[t11_330_1300.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:97>Bueno, un misterio menos.<W>
+!------------------------------!
+Volvamos a nuestro compartimento
+a descansar. Nos lo hemos ganado.
+!******************************!
+[t11_330_1400.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:133><<5E>!>De acuerdo, profesor!<W>
+!------------------------------!
+<<5E>?>Qui<'e>n iba a decir que <'i>bamos a
+pasar de buscar la Caja El<'i>sea a
+meternos en este l<'i>o?
+!******************************!
+[t11_330_1500.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:273>Para alcanzar un objetivo, a
+veces es necesario desviarse
+del camino, Luke.<W>
+!------------------------------!
+Empiezo a sospechar que no
+encontraremos ninguna pista sobre
+la Caja El<'i>sea en este tren.<W>
+!------------------------------!
+Pero es probable que s<'i> topemos
+con informaci<'o>n interesante en
+alguna de las paradas.
+!******************************!
+[t11_330_1600.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:73><<5E>!>C<'o>rcholis, menuda teor<'i>a!
+<<5E>?>Ad<'o>nde ir<'a> el tren ahora?
+!******************************!
+[t11_330_1700.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:72>Creo que vamos a parar en
+un pueblecito pintoresco
+llamado Dropstone.
+!******************************!
+[t11_330_1800.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:135><<5E>!>Qu<'e> nombre m<'a>s raro! Me pregunto
+qu<'e> encontraremos all<'i>.<W>
+!------------------------------!
+<<5E>!>Qu<'e> ganas tengo de llegar y
+empezar a investigar!
+!******************************!
+[t11_330_1900.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:59><<5E>?>Y sabe cu<'a>nto falta para llegar
+all<'i>, profesor?
+!******************************!
+[t11_330_200.gds]
+<01:0000000C><03:5>NONE<03:5>NONE<01:00000002><03:16><<5E>!>Guau, guau!
+!******************************!
+[t11_330_2000.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:125>No estoy seguro, pero el tiempo no
+va a pasar m<'a>s deprisa por que nos
+quedemos aqu<'i> esperando.<W>
+!------------------------------!
+Vamos a descansar.
+!******************************!
+[t11_330_300.gds]
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:143><<5E>?>Que este es Tom?<W>
+!------------------------------!
+<<5E>!>Se<-n>ora, cre<'i>amos que est<'a>bamos
+buscando a un ni<-n>o, no a un chucho
+con un corte de pelo extravagante!
+!******************************!
+[t11_330_400.gds]
+<01:0000000B><03:9>b1 angry<03:5>NONE<01:00000002><03:87>Pero <<5E>!><<5E>?>c<'o>mo se atreve a
+comparar a mi Tomil<'i>n con
+un chucho cualquiera?!
+!******************************!
+[t11_330_500.gds]
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:219>Los perros perdidos no son
+competencia de Scotland Yard.<W>
+!------------------------------!
+Si le vuelve a ocurrir,
+b<'u>squelo usted misma.<W>
+!------------------------------!
+Grrr... Hay gente que no tiene
+ni pizca de sentido com<'u>n. Barton,
+vamos a resolver casos de verdad.
+!******************************!
+[t11_330_600.gds]
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:29>Eh... S... S<'i>, inspector.
+!******************************!
+[t11_330_700.gds]
+<01:0000000B><03:6>shout<03:5>NONE<01:00000002><03:100><<5E>!>Eh, no se vaya! <<5E>!>No me deje
+con la palabra en la boca!
+<<5E>!>A<'u>n no he acabado con usted!
+!******************************!
+[t11_330_800.gds]
+<01:0000000B><03:10>b1 normal<03:5>NONE<01:00000002><03:105>En fin, dejemos ese asunto.
+Cari<-n><'i>n, me alegro de que hayas
+vuelto. <<5E>?>Ad<'o>nde hab<'i>as ido?
+!******************************!
+[t11_330_900.gds]
+<01:0000000B><03:9>b1 smile<03:5>NONE<01:00000002><03:85>Es tan precioso que tem<'i>a que
+alguien lo hubiera raptado para
+pedir un rescate.
+!******************************!
+[t11_350_100.gds]
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:112>S<'e> que es un regalo muy generoso,
+pero como han rescatado a mi nene,
+tienen que aceptarlo. <<5E>!>Ja, ja, ja!
+!******************************!
+[t11_360_100.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:50>Flora, <<5E>?>d<'o>nde has estado todo
+este tiempo?
+!******************************!
+[t11_360_200.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:77>He pasado el tiempo en mi
+habitaci<'o>n hasta que he visto
+a este perrito.
+!******************************!
+[t11_360_300.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:47><<5E>!>Hala! <<5E>?>Tienes tu propia
+habitaci<'o>n?
+!******************************!
+[t11_360_400.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:59>S<'i>, es el compartimento del
+medio del tercer vag<'o>n.
+!******************************!
+[t11_360_500.gds]
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:65><<5E>!>Ah<'i> va! <<5E>?>Sabes que est<'a>
+justo al lado del nuestro?
+!******************************!
+[t11_360_600.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:169>Estabas en el compartimento de al
+lado... Ni siquiera se me hab<'i>a
+pasado por la cabeza.<W>
+!------------------------------!
+Parece que mi capacidad de
+observaci<'o>n se est<'a> quedando
+oxidada.
+!******************************!
+[t11_370_100.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:10><<5E>!>Aaay!
+!******************************!
+[t11_370_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:68><<5E>!>Oh!<W>&setani 1 b4_normal&
+!------------------------------!
+<<5E>?>Por qu<'e> se ha parado el tren?
+!******************************!
+[t11_370_300.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:17><<5E>?>Qu<'e> pasa?
+!******************************!
+[t11_380_100.gds]
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:50>Samuel, in<'u>til, <<5E>?>y ahora
+qu<'e> has hecho?
+!******************************!
+[t11_380_200.gds]
+<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:166>Eh, jefe... Relax, que vivir<'a>s
+m<'a>s. Hay un tren tirado en
+medio de las v<'i>as, <<5E>?>sabes?<W>
+!------------------------------!
+O despejamos el camino o nos
+quedamos aqu<'i> para los restos.
+!******************************!
+[t11_380_300.gds]
+<01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:136>Entonces, <<5E>?>a qu<'e> esperas?
+<<5E>!>Mu<'e>vete!<W>
+!------------------------------!
+<<5E>!>No voy a dejar que tu
+holgazaner<'i>a manche el nombre
+del Molentary Express!
+!******************************!
+[t11_380_400.gds]
+<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:86><<5E>!>Oye, que es un tren, no una
+lentilla! <<5E>?>C<'o>mo quieres que
+lo mueva yo solo?
+!******************************!
+[t11_380_500.gds]
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:151><<5E>!>D<'e>jate de excusas! <<5E>!>Eres el
+revisor m<'a>s vago que ha tenido
+el Molentary Express!<W>
+!------------------------------!
+No me importa c<'o>mo lo hagas,
+pero <<5E>!>hazlo ya!
+!******************************!
+[t11_380_600.gds]
+<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:71>Bueno, calma y tranquilidad. Voy
+a ver qu<'e> se puede hacer, t<'i>o.
+!******************************!
+[t11_380_700.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:137><<5E>!><<5E>?><''>T<'I>O<''>?!<W>
+!------------------------------!
+<<5E>!>S<'i>, soy tu t<'i>o, pero tambi<'e>n el
+presidente de esta empresa y te
+exijo que me trates como tal!
+!******************************!
+[t11_380_800.gds]
+<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:58>Bueno, vale, s<'i>. Lo que t<'u>
+digas, SE<-N>OR t<'i>o.
+!******************************!
+[t11_390_100.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:95>Me porto demasiado bien con el
+holgaz<'a>n de mi sobrino. <<5E>!>Y no
+hace m<'a>s que quejarse!
+!******************************!
+[t11_400_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:37>Perdone, <<5E>?>cu<'a>l es el problema?
+!******************************!
+[t11_400_200.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:190>Esto, perd<'o>n, se<-n>or pasajero.
+El caso es que hay un tren de
+carga enorme bloqueando las v<'i>as.<W>
+!------------------------------!
+Esto puede llevar un rato, as<'i>
+que, pues, eso, paciencia y
+buenos alimentos.
+!******************************!
+[t11_400_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:38>Aj<'a>, ya veo.<W> <<5E>?>Puedo ayudarle?
+!******************************!
+[t11_400_500.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:143><<5E>?>En serio? <<5E>!>Colega, eso nos
+vendr<'i>a de miedo!<W>
+!------------------------------!
+<<5E>?>Sabe c<'o>mo podemos mover el tren
+para que podamos seguir con
+nuestro rollo?
+!******************************!
+[t11_400_600.gds]
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:84>Aparten, por favor. De aqu<'i> no nos
+vamos hasta que movamos ese tren
+de ah<'i>.
+!******************************!
+[t11_410_100.gds]
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:32><<5E>?>S<'i>? <<5E>?>Quer<'i>an algo?
+!******************************!
+[t11_410_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>La verdad es que nos ayudar<'i>a
+mucho si...
+!******************************!
+[t11_410_300.gds]
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:379>Eh, eh, espere un momento,
+caballero. <<5E>!>Pero si no ha resuelto
+m<'a>s que unos pocos puzles!<W>
+!------------------------------!
+Pues si cree que puede ir por
+la vida haciendo siempre el m<'i>nimo
+esfuerzo...<W>
+!------------------------------!
+Con esa actitud nunca llegar<'a>
+lejos...<W> <<5E>!>ni conseguir<'a> nada
+de m<'i>!<W>
+!------------------------------!
+Si quiere que hablemos, tiene que
+mostrar ambici<'o>n. <<5E>!>Vuelva cuando
+haya resuelto al menos 12 puzles!
+!******************************!
+[t11_411_100.gds]
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:379>Eh, eh, espere un momento,
+caballero. <<5E>!>Pero si no ha resuelto
+m<'a>s que unos pocos puzles!<W>
+!------------------------------!
+Pues si cree que puede ir por
+la vida haciendo siempre el m<'i>nimo
+esfuerzo...<W>
+!------------------------------!
+Con esa actitud nunca llegar<'a>
+lejos...<W> <<5E>!>ni conseguir<'a> nada
+de m<'i>!<W>
+!------------------------------!
+Si quiere que hablemos, tiene que
+mostrar ambici<'o>n. <<5E>!>Vuelva cuando
+haya resuelto al menos 12 puzles!
+!******************************!
+[t11_412_100.gds]
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:193>Hombre, pero si ya ha resuelto
+al menos 12 puzles.<W>
+<<5E>!>Estupendo!<W> <<5E>!>Asombroso!<W>
+!------------------------------!
+As<'i> me gusta, gente en<'e>rgica,
+ambiciosa. Esa es la gente que me
+gusta contar entre mis amigos.
+!******************************!
+[t11_430_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:89>Esa es la t<'i>pica se<-n>ora que
+viaja en un tren como este:
+<<5E>!>rica y extravagante!
+!******************************!
+[t11_430_200.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:184>Cierto, Luke. Este tren est<'a> lleno
+de clientes adinerados como esa
+se<-n>ora.<W>
+!------------------------------!
+Por eso debemos ser discretos y
+mostrar buena educaci<'o>n; la
+situaci<'o>n as<'i> lo requiere.
+!******************************!
+[t11_430_300.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:28><<5E>!>Por supuesto, profesor!
+!******************************!
+[t11_440_100.gds]
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:145><<5E>!>Esto es escandaloso! <<5E>?>No saben
+que deben dejar pasar primero
+a las mujeres?<W>
+!------------------------------!
+Sobre todo a mujeres de alta
+alcurnia, como yo, ji, ji.
+!******************************!
+[t11_440_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:81><<5E>?>De alta alcurnia? <<5E>?>Seguro que no
+querr<'i>a decir <''>gran<''> alcurnia?
+!******************************!
