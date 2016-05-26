@@ -1,0 +1,14 @@
+--- /ani/bgani
+--- /ani/ending
+--- /ani/event
+NOK /ani/eventchr/en
+--- /ani/eventobj
+NOK /ani/lukeletter/en
+OK  /ani/map/en
+NOK /ani/menu/bag/en
+NOK /ani/menu/jiten/en
+NOK /ani/menu/nazoba/en
+OK  /ani/menu/save/en
+NOK /ani/menu/secret/en
+NOK /ani/menu/wifi/en
+NOK /ani/name/en
