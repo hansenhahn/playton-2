@@ -1,15 +1,15 @@
 [hintcoin.txt]
-You got a hint coin!
+Você encontrou
+uma moeda de dica!
 !******************************!
 [tobj0.txt]
-It's more beautiful
-than I could ever
-have imagined!
+É mais bonito do que eu
+sequer poderia imaginar!
 !******************************!
 [tobj1.txt]
-A lovely view is the
-perfect antidote to
-working long hours.
+Uma adorável vista é a
+cura perfeita após longas
+horas de trabalho.
 !******************************!
 [tobj10.txt]
 This seems like a nice,
@@ -467,9 +467,9 @@ chair's been placed
 over here?
 !******************************!
 [tobj2.txt]
-These weighty tomes
-are the source of the
-Professor's wisdom.
+Estes pesados livros
+são a fonte da sabedoria
+do Professor.
 !******************************!
 [tobj20.txt]
 This relaxing picture
@@ -522,9 +522,9 @@ a blur! We must be
 going really fast!
 !******************************!
 [tobj3.txt]
-There's all sorts of
-documents on these
-shelves as well.
+Há todos os tipos de
+documentos nestas
+estantes.
 !******************************!
 [tobj30.txt]
 My, what a delightful
@@ -576,9 +576,9 @@ train, it's kind of dim
 and dreary here.
 !******************************!
 [tobj4.txt]
-Apparently,
-uncomfortable chairs
-make you cleverer.
+Aparentemente, poltronas
+desconfortáveis o tornam
+mais inteligente.
 !******************************!
 [tobj40.txt]
 The curtains here are
@@ -628,9 +628,9 @@ Is this a bucket...or a
 cauldron?
 !******************************!
 [tobj5.txt]
-Every gentleman needs
-some greenery in his
-study.
+Todos os cavalheiros
+devem ter algumas plantas
+em seus escritórios.
 !******************************!
 [tobj50.txt]
 The scenery flies by
@@ -682,9 +682,9 @@ corridors are high
 quality too.
 !******************************!
 [tobj6.txt]
-I wonder what all
-these weird and
-wonderful things are?
+Fico imaginando o que são
+estas coisas estranhas
+e maravilhosas...
 !******************************!
 [tobj60.txt]
 There's no time right
@@ -735,9 +735,9 @@ lot going on in the
 area!
 !******************************!
 [tobj7.txt]
-That pile is going to
-collapse if we don't
-tidy up soon!
+Esta pilha vai cair
+se não fizermos nada
+logo!
 !******************************!
 [tobj70.txt]
 A plant or some other

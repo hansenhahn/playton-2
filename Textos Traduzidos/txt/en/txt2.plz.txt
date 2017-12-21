@@ -1,5 +1,5 @@
 [goal_10.txt]
-Head for Dr Schrader's Home!
+Siga para a Casa do Doutor Schrader!
 !******************************!
 [goal_100.txt]
 Return Tom to Babette!
@@ -140,7 +140,7 @@ Investigate Herzen Castle!
 Head for the Observation Deck!
 !******************************!
 [goal_5.txt]
-Search the Desk Drawers!
+Vasculhe as Gavetas da Escrivaninha!
 !******************************!
 [goal_50.txt]
 Continue Exploring the Train!
@@ -366,8 +366,8 @@ The professor and Luke decide to
 venture out to Herzen Castle.
 !******************************!
 [next_40.txt]
-The professor and Luke decide to
-explore the Molentary Express.
+O professor e Luke decidem explorar
+o Molentary Express.
 !******************************!
 [next_400.txt]
 The professor and Luke decide to
@@ -391,9 +391,9 @@ The professor and Luke decide to
 visit the train's observation deck.
 !******************************!
 [next_5.txt]
-Luke must find the keys to the
-professor's car. Search by
-touching the drawers of the desk!
+Luke deve encontrar as chaves do
+carro do professor. Encontre elas
+tocando as gavetas da escrivaninha!
 !******************************!
 [next_50.txt]
 The professor and Luke decide to
@@ -490,7 +490,7 @@ There are currently no puzzles
 in Granny Riddleton's shack.
 !******************************!
 [tx_1400.txt]
-To my dear friend,
+Para meu querido amigo,
 %s,
 !******************************!
 [tx_1500.txt]
@@ -532,9 +532,9 @@ Puzzle %.3d
 is now in your Puzzle Index!
 !******************************!
 [tx_205.txt]
-You got %s!
-You can find items you pick
-up in the Professor's Trunk.
+Você encontrou %s!
+Você pode ver os itens encontrados
+na Mala do Professor.
 !******************************!
 [tx_206.txt]
 The Hamster minigame has

@@ -285,14 +285,14 @@ free to run away once properly
 scared.
 !******************************!
 [id_1.txt]
-The Elysian Box is an antique said
-to bring death upon anyone who
-dares open its lid. According to
-rumours, the box has already
-claimed many lives and is known
-as "Pandora's Box" in many parts
-of the world. Could such dark
-rumours be true?
+A Caixa Elísia é uma antiguidade
+cuja lenda fala sobre matar qualquer
+um que se atreva a abri-la. Conforme
+os boatos, a caixa já reivindicou
+muitas vidas e é conhecida como
+"Caixa de Pandora" em muitas partes
+do mundo. Podem esses rumores
+nefastos serem verdadeiros?
 !******************************!
 [id_10.txt]
 A large, ominous symbol in the
@@ -378,7 +378,7 @@ Could a vampire actually be living
 up in Herzen Castle?
 !******************************!
 [it_1.txt]
-The Elysian Box
+A Caixa Elísia
 !******************************!
 [it_10.txt]
 The Goat Emblem
@@ -504,7 +504,7 @@ Tom's 2nd Shoe
 The Beef Shank
 !******************************!
 [item_4.txt]
-Layton's Keys
+As Chaves de Layton
 !******************************!
 [d_1.txt]
 Today I received a letter from
@@ -1924,13 +1924,13 @@ Olha só essa cabine!
 !******************************!
 [m1_3.txt]
 Sim, vejo claramente porque alguns
-chamam o Expresso Molentary
+chamam o Molentary Express
 !******************************!
 [m1_4.txt]
-de um cruzeiro sobre trilhos.
+um cruzeiro sobre trilhos.
 !******************************!
 [m1_5.txt]
-Esse sofá é fantástico!
+Este sofá é fantástico!
 !******************************!
 [m1_6.txt]
 Mas nunca se esqueça, Luke.

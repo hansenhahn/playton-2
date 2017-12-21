@@ -1390,7 +1390,7 @@ Anton as He Truly Is
 Sophia's Last Message
 !******************************!
 [t_58.txt]
-<8D><C5><8C>ã<82><CC><8E>è<8E><86>
+<8D><C5><8C><E3><82><CC><8E>è<8E><86>
 !******************************!
 [t_6.txt]
 Chasing After the Girl
@@ -1892,59 +1892,59 @@ What's this?
 What's happening?
 !******************************!
 [m1_0.txt]
-Ei, olhe, chegamos!
+Hey, look, there it is.
 !******************************!
 [m1_1.txt]
-Isso sim que é luxo!
+Now this is what I call deluxe!
 !******************************!
 [m1_11.txt]
-Todos que a abrem morrem?
+All who open it die?
 !******************************!
 [m1_12.txt]
-Isso me parece bizarro demais.
+Sounds awfully fishy to me.
 !******************************!
 [m1_13.txt]
-Talvez seja.
+Perhaps so. 
 !******************************!
 [m1_14.txt]
-Mas nós vimos acontecer com nossos
-próprios olhos.
+But we've seen it happen with our
+very own eyes.
 !******************************!
 [m1_15.txt]
-A resposta está ai fora, Luke.
+The answer is out there, Luke.
 !******************************!
 [m1_16.txt]
-Tenho apenas que encontrá-la.
+But I just need to find it.
 !******************************!
 [m1_17.txt]
-Nós vamos. Tenho certeza disso.
+We will. I know it.
 !******************************!
 [m1_2.txt]
-Olha só essa cabine!
+Just look at this room!
 !******************************!
 [m1_3.txt]
-Sim, vejo claramente porque alguns
-chamam o Expresso Molentary
+Yes, I can certainly see why
+some call the Molentary Express
 !******************************!
 [m1_4.txt]
-de um cruzeiro sobre trilhos.
+a cruise ship on rails.
 !******************************!
 [m1_5.txt]
-Esse sofá é fantástico!
+This sofa's great!
 !******************************!
 [m1_6.txt]
-Mas nunca se esqueça, Luke.
+Now don't forget, Luke. 
 !******************************!
 [m1_7.txt]
-Um cavalheiro sempre presta atenção
-aos seus modos.
+A gentleman pays attention to his
+manners.
 !******************************!
 [m1_8.txt]
-Não importa a ocasião.
+In every setting.
 !******************************!
 [m1_9.txt]
-Então, qual é a história por trás
-dessa Caixa Elísia?
+So what's the story behind this
+Elysian Box anyway?
 !******************************!
 [m21_0.txt]
 Grandfather...

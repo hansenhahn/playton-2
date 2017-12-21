@@ -1,54 +1,53 @@
 [t10_030_100.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:24>Luke, olhe aqui.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:24>Luke, venha aqui.
 !******************************!
 [t10_030_1000.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:94>Se desejar interagir com algo, Luke,
-apenas se aproxime e toque-o.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:94>Luke, caso queira interagir com algo,
+aproxime-se e toque o objeto.
 !******************************!
 [t10_030_200.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:24>O que é isso, Professor?
 !******************************!
 [t10_030_300.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:67>É uma carta do meu querido amigo
-e mentor, Dr Andrew Schrader.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:67>É uma carta do meu mentor e querido
+amigo, Doutor Andrew Schrader.
 !******************************!
 [t10_030_400.gds]
-<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:26>Está tudo bem?
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:26>Está tudo bem com ele?
 !******************************!
 [t10_030_500.gds]
-<01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:104>Caro Hershel. Sendo o arqueólogo que
-sei que é, tenho certeza de que conhece
-esse item chamado de Caixa Elísia.
+<01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:104>Caro Hershel. Sendo o exímio arqueólogo
+que sei que é, estou certo de que está a
+par desse item chamado Caixa Elísia.
 !******************************!
 [t10_030_501.gds]
-<01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:493>Este apelido parece ser muito
+<01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:493>Esse parece ser um nome muito
 apropriado, uma vez que dizem que
 todos que a abrem morrem.<W>
 !------------------------------!
-É claro que não acredito nesses rumores,
-mas quando o meu interesse é fisgado, eu
-simplesmente sou obrigado a investigar.<W>
+É claro que não acredito nessas lendas,
+mas quando o meu interesse é fisgado,
+simplesmente me obrigo a investigar.<W>
 !------------------------------!
 É por isso que fico muito feliz em lhe
-dizer que este elusivo artefato está
+dizer que esse elusivo artefato está
 finalmente em minhas mãos.<W>
 !------------------------------!
-Além disso, acredito estar por um triz
-de revelar um grande mistério conectado
-a esta caixa.<W>
+Além disso, acredito estar a um
+passo de revelar um grande mistério
+relacionado a essa caixa.<W>
 !------------------------------!
-Por enquanto, vamos apenas dizer que
-tenho uma teoria, apesar de ainda não
-ser capaz de prová-la.
+Por enquanto, diremos apenas que tenho
+uma teoria, ainda que não seja capaz
+de prová-la.
 !******************************!
 [t10_030_502.gds]
-<01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:290>Inicialmente, era minha intenção
-finalizar minha pesquisa antes de me
-atrever a abrir seu conteúdo.<W>
+<01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:290>Minha intenção inicial era
+finalizar minhas pesquisas antes de
+me atrever a abrir seu conteúdo.<W>
 !------------------------------!
-Mas devo confessar que minha
-curiosidade é simplesmente
-incontrolável.<W>
+Mas confesso que minha curiosidade
+é simplesmente incontrolável.<W>
 !------------------------------!
 No improvável caso de algo vir a
 acontecer comigo, por favor, termine
@@ -59,9 +58,9 @@ Andrew Schrader
 
 !******************************!
 [t10_030_503.gds]
-<01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:98>É claro, ela é mais conhecida por
-<''>Caixa de Pandora<''>, em referência
-ao famoso mito.
+<01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:98>É claro, ela é mais conhecida
+pelo nome <''>Caixa de Pandora<''>,
+em referência ao famoso mito.
 !******************************!
 [t10_030_600.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:173>De acordo com o carimbo, esta carta
@@ -73,11 +72,11 @@ de que algo terrível aconteceu...
 !******************************!
 [t10_030_700.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:74>Bem, sua intuição geralmente não
-falha!<W> Digo que devemos ir até lá
+falha!<W> Sugiro irmos até lá
 agora mesmo!
 !******************************!
 [t10_030_800.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:115>Luke, antes de irmos, você faria
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:115>Luke, antes de irmos, você teria
 a bondade de pegar as chaves
 do meu carro?<W>
 !------------------------------!
@@ -88,12 +87,11 @@ daquela escrivaninha.
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:29>Pode deixar, Professor!<W> Ahn...
 !******************************!
 [t10_032_100.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:154>Nós nunca iremos ligar o carro
-a não ser que encontremos as
-chaves, Luke.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:154>Não será possível ligar o carro
+até encontrarmos as chaves, Luke.<W>
 !------------------------------!
-Se desejar interagir com algo, Luke,
-apenas se aproxime e toque-o.
+Caso queira interagir com algo,
+aproxime-se e toque o objeto.
 !******************************!
 [t10_035_100.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:30>Ah, aqui estão, Professor!
@@ -103,7 +101,7 @@ apenas se aproxime e toque-o.
 vamos indo!
 !******************************!
 [t10_035_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:49>Você sabe como se movimentar,
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:49>Você sabe como andar,
 não é, Luke?
 !******************************!
 [t10_035_400.gds]
@@ -112,23 +110,22 @@ Antes de tudo, eu toco o sapato no
 canto inferior direito.
 !******************************!
 [t10_035_500.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:84>Então eu simplesmente toco em uma
-das pequenas flechas que aparecem
-para caminhar naquela direção.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:84>Então toco em uma das
+pequenas flechas que aparecerão
+para seguir naquela direção.
 !******************************!
 [t10_035_600.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:103>Exatamente. Toda vez que quiser
-se movimentar, comece tocando o
-ícone do sapato. Vamos lá, tente.
+andar, comece tocando o ícone
+do sapato. Vamos lá, tente.
 !******************************!
 [t10_036_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:110>É isso aí, meu garoto.<W> Como dizem,
-não há investigação sem um pouco
-de caminhada.
+não há como investigar sem caminhar.
 !******************************!
 [t10_036_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:61>Com certeza, Professor.<W> Agora,
-podemos ir?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:61>Com certeza, Professor.<W> Podemos
+ir agora?
 !******************************!
 [t10_045_100.gds]
 <01:00000000><03:9>b3 smile<03:5>NONE<01:00000002><03:83>Ah, já ia me esquecendo.<W> Antes de
@@ -136,24 +133,25 @@ irmos, deixe-me lembrá-lo como usar
 esta mala.
 !******************************!
 [t10_045_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>Para abrir a mala, apenas toque
-no ícone no canto superior direito
-da tela.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>Para abrir a mala, toque
+no ícone no canto superior
+direito da tela.
 !******************************!
 [t10_045_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:129>Dentro dela há todos os tipos de
 funções e informações úteis
 organizadas em diferentes ícones.<W>
 !------------------------------!
-Toque um ícone para usá-lo.
+Toque um ícone para acessar
+seu conteúdo.
 !******************************!
 [t10_045_400.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:81>Para guardar o progresso que fizemos
-durante nossa investigação, toque no
+durante nossa investigação, toque o
 ícone Salvar.
 !******************************!
 [t10_045_500.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>Toque o ícone Índice de Enigmas para
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>Toque o ícone Livro de Enigmas para
 visualizar todos os enigmas que
 encontramos até o momento.
 !******************************!
@@ -167,12 +165,12 @@ jogados novamente selecionando-os
 a partir desta tela.<W>
 !------------------------------!
 Também podemos ver a localização de
-enigmas que desistimos de resolver, de
-maneira que possamos revisitá-los.
+enigmas que desistimos de resolver,
+de modo que possamos revisitá-los.
 !******************************!
 [t10_045_700.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>Toque o ícone Diário para ler
-minhas anotações pessoais sobre
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>Toque o ícone Memórias do Layton para
+ler minhas anotações pessoais sobre
 eventos importantes da história.
 !******************************!
 [t10_045_800.gds]
@@ -180,20 +178,20 @@ eventos importantes da história.
 sempre que precisar acessá-la!
 !******************************!
 [t10_050_100.gds]
-<01:0000002E><03:5>NONE<03:5>NONE<01:00000002><03:208>Ei, e aí, senhor. Nunca vi você por
+<01:0000002E><03:5>NONE<03:5>NONE<01:00000002><03:208>Bom dia, amigo. Nunca vi você por
 aqui antes.<W> Quer ouvir uma informação
 útil? <W>&setani 46 b1_smile&
 !------------------------------!
 Muito bem. Vê aquela caixa de correio
-ali?<W> Poderia tocá-la com sua stylus
+ali?<W> Pode tocá-la com a sua stylus
 para mim?
 !******************************!
 [t10_051_100.gds]
-<01:0000002E><03:9>b1 smile<03:5>NONE<01:00000002><03:57>O que está esperando, companheiro?<W>
+<01:0000002E><03:9>b1 smile<03:5>NONE<01:00000002><03:57>O que está esperando, chapa?<W>
 Toque a caixa de correio, não eu!
 !******************************!
 [t10_060_100.gds]
-<01:0000002E><03:5>NONE<03:5>NONE<01:00000002><03:182>Ei, espere só um segundo.<W>
+<01:0000002E><03:5>NONE<03:5>NONE<01:00000002><03:182>Ei, espere um segundo.<W>
 !------------------------------!
 Você é um rosto novo. Quer ouvir uma
 informação fresquinha, senhor? <W>&setani 46 b1_smile&
@@ -203,15 +201,15 @@ Poderia tocá-la com sua stylus
 para mim?
 !******************************!
 [t10_070_100.gds]
-<01:0000002E><03:5>NONE<03:5>NONE<01:00000002><03:97>Ei, estou tentando lhe mostrar umas
-coisas úteis aqui. Escute o que eu tenho
-a lhe dizer, companheiro.
+<01:0000002E><03:5>NONE<03:5>NONE<01:00000002><03:97>Ei, estou tentando lhe dar umas
+informações úteis. Escute o que
+tenho a lhe dizer, companheiro.
 !******************************!
 [t10_080_100.gds]
 <01:0000002E><03:5>NONE<03:5>NONE<01:00000002><03:471>Brilhante! Isto que você achou é
 uma moeda de dica.<W>
 !------------------------------!
-Já se sentiu alguma vez preso
+Já se sentiu alguma vez travado
 na solução de um enigma?<W>
 !------------------------------!
 É nessas horas que eu aposto que você
@@ -233,7 +231,7 @@ dizer. Até mais ver, senhor.
 !******************************!
 [t10_090_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>Tenho certeza de que este é
-o apartamento do Dr Schrader.
+o apartamento do Doutor Schrader.
 !******************************!
 [t10_090_1000.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:103>De fato. Por sorte, o doutor ainda
@@ -241,7 +239,7 @@ mantém sua chave extra aqui.<W>
 Vamos dar uma olhada lá dentro?
 !******************************!
 [t10_090_200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:90>Dr Schrader? Você está em casa?<W>
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:90>Doutor Schrader? Está em casa?<W>
 É Hershel Layton. Eu vim assim que
 li sua carta.
 !******************************!
@@ -254,7 +252,7 @@ lá de dentro, Professor. E se...
 !******************************!
 [t10_090_500.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:140>Agora não é hora de teorias baratas,
-Luke. Nós devemos abrir esta porta.<W>
+Luke. Devemos abrir esta porta.<W>
 !------------------------------!
 Hmm, parece estar trancada por dentro.
 Como vamos entrar?
@@ -266,7 +264,7 @@ Como vamos entrar?
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:15>Ah, é claro!
 !******************************!
 [t10_090_800.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:200>Em um dia desses, eu e o doutor saímos
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:200>Num dia desses, eu e o doutor saímos
 para um passeio. Ao retornarmos, ele
 percebeu que havia perdido sua chave.<W>
 !------------------------------!
@@ -301,11 +299,11 @@ estão aqui!
 <01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:29>Isso é terrível, Professor.
 !******************************!
 [t10_120_300.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:76>Você acha que a Caixa Elísia fez isso
-ao Dr Schrader quando ele a abriu?
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:76>Acha que a Caixa Elísia fez isso ao
+Doutor Schrader quando ele a abriu?
 !******************************!
 [t10_120_400.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:92>Eu honestamente não sei, Luke.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:92>Honestamente não sei, Luke.<W>
 Mas isso pode esperar. Agora
 precisamos avisar a polícia!
 !******************************!
@@ -323,29 +321,30 @@ o Molentary Express?
 <01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:157>Olhe isso, Professor. Não há destino
 escrito na passagem.<W>
 !------------------------------!
-Eu nunca tinha visto uma passagem que
-não informasse para onde ela está lhe
+Nunca tinha visto uma passagem que
+não informasse aonde ela está lhe
 levando. Muito estranho!
 !******************************!
 [t10_120_900.gds]
-<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:26>Sim, de fato, muito estranho.
+<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:26>Sim, é muito estranho.
 !******************************!
 [t10_140_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:136>O Dr Schrader deu a entender que
-ele estava de posse da Caixa Elísia.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:136>O Doutor Schrader deu a entender
+que estava de posse da Caixa Elísia.<W>
 !------------------------------!
-Ainda assim, não há nada nessa casa
-que sugira ser esse artefato.
+Ainda assim, não há nada neste
+apartamento que indique ser esse
+artefato.
 !******************************!
 [t10_140_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:57>Talvez a pessoa que tenha feito
 isto estivesse atrás da caixa?
 !******************************!
 [t10_140_300.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:155>Uma interessante teoria, Luke, mas
-por enquanto é só isso.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:155>Uma teoria interessante, Luke, mas
+não passa disso por enquanto.<W>
 !------------------------------!
-Contudo, temos uma direção para
+Contudo, temos uma pista para
 entendermos os eventos de hoje. Em
 outras palavras, aquela passagem.
 !******************************!
@@ -364,11 +363,11 @@ a chave para resolvermos esse
 mistério no trem?
 !******************************!
 [t10_150_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:198>O Dr Schrader fez o seu melhor para nos
-apontar à direção do Molentary Express
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:198>O Doutor Schrader fez o seu melhor
+para nos guiar ao Molentary Express
 caso algo acontecesse a ele.<W>
 !------------------------------!
-Tão certo quanto neblina numa manhã
-londrina, tenho certeza que esse trem
-nos levará às respostas que buscamos.
+Tenho tanta certeza quanto neblina numa
+manhã londrina que esse trem nos
+levará às respostas que buscamos.
 !******************************!
