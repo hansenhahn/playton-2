@@ -541,10 +541,10 @@ The Hamster minigame has
 been added to the trunk!
 !******************************!
 [tx_207.txt]
-Puzzle %.3d: %s
+Enigma %.3d: %s
 !******************************!
 [tx_208.txt]
-Save your progress?
+Salvar seu progresso?
 !******************************!
 [tx_209.txt]
 Save your completed game?
@@ -631,7 +631,7 @@ Overwrite the file
 named "%s"?
 !******************************!
 [tx_501.txt]
-EMPTY
+VAZIO
 !******************************!
 [tx_600.txt]
 It's Tea Time!

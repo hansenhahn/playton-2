@@ -2092,19 +2092,19 @@ Luke, pare! Este é seu rosto!
 Preste atenção, Luke!
 !******************************!
 [m5_0.txt]
-Professor Layton and Luke sped
-away from the city,
+Professor Layton e Luke
+deixaram para trás a cidade,
 !******************************!
 [m5_1.txt]
 <HOLD>
 !******************************!
 [m5_2.txt]
-unaware of the secrets that awaited
-them down those iron tracks.
+alheios aos segredos que os
+aguardavam nesses trilhos.
 !******************************!
 [m5_3.txt]
-unaware of the secrets that awaited
-them down those iron tracks.
+alheios aos segredos que os
+aguardavam nesses trilhos.
 !******************************!
 [m6_0.txt]
 Excuse me.

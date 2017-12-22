@@ -2,10 +2,10 @@
 Escritório de Layton
 !******************************!
 [p_10.txt]
-Carriage 4 - Hall
+Vagão 4 - Corredor
 !******************************!
 [p_100.txt]
-Granny R's Room
+Cabine da Vovó R
 !******************************!
 [p_11.txt]
 Dining Car 5
@@ -242,7 +242,7 @@ Dark Forest Exit
 Rickety Bridge
 !******************************!
 [p_8.txt]
-Layton's Room
+Cabine do Layton
 !******************************!
 [p_80.txt]
 Castle Gate
@@ -275,7 +275,7 @@ Secret Room
 Dark Forest Exit
 !******************************!
 [p_9.txt]
-Carriage 3 - Hall
+Vagão 3 - Corredor
 !******************************!
 [p_90.txt]
 Folsense Station
