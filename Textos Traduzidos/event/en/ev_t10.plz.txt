@@ -110,7 +110,7 @@ Antes de tudo, eu toco o sapato no
 canto inferior direito.
 !******************************!
 [t10_035_500.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:84>Então toco em uma das
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:84>Então toco uma das
 pequenas flechas que aparecerão
 para seguir naquela direção.
 !******************************!
@@ -332,8 +332,8 @@ levando. Muito estranho!
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:136>O Doutor Schrader deu a entender
 que estava de posse da Caixa Elísia.<W>
 !------------------------------!
-Ainda assim, não há nada neste
-apartamento que indique ser esse
+Ainda assim, não havia nada neste
+apartamento que indicasse ser esse
 artefato.
 !******************************!
 [t10_140_200.gds]
@@ -354,7 +354,7 @@ estou pensando, Professor?
 !******************************!
 [t10_140_500.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:87>Com certeza, Luke.<W> Acredito que
-a viagem abordo do Molentary Express
+a viagem a bordo do Molentary Express
 seja necessária.
 !******************************!
 [t10_150_100.gds]

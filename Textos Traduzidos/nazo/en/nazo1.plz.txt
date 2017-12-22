@@ -1,37 +1,39 @@
 [n1.dat]
-<0001>Dr Schrader's Map
+<0001>Mapa do Doutor Schrader
 <02><0A><09><08><12><5B><1A><01><00><04><01><FF>
-Several pieces have been cut out of the
-middle of the map to Dr Schrader's home.
-Complete the map by sliding the pieces with
-the stylus and inserting them in the right 
-places.
+Diversas peças foram cortadas do mapa
+para a casa do Doutor Schrader. Complete
+o mapa deslizando as peças com sua stylus
+e inserindo-as nos locais certos.
 
-It may sound simple, but don't forget that
-you can move or remove pieces, including the
-one already in the middle of the map.
+Pode parecer simples, mas não esqueça que
+você pode mover e remover peças, incluindo
+a que já está no meio do mapa.
 !******************************!
-Excellent work!
+Excelente trabalho!
 
-Now, let's hurry to the doctor's flat!
+Agora, corra para o apartamento
+do doutor!
 !******************************!
-Too bad!
+Que pena!
 
-Read the puzzle carefully and try again.
+Leia o enigma cuidadosamente e
+tente novamente.
 !******************************!
-Including the one piece that's in the
-middle of the map from the start, you
-have six pieces to move around but only
-five spaces to place them in.
+Incluindo a peça posicionada desde
+o começo no meio do mapa, você tem
+no total seis peças, mas apenas
+cinco espaços onde colocá-las.
 
-This means one of the pieces is not
-actually part of the map.
+Isto quer dizer que uma das peças
+não faz parte do mapa.
 !******************************!
-Take a close look at the missing pieces
-and the rest of the map. If you connect
-the road patterns at the edges of the
-pieces with those at the edges of the
-missing spaces, you won't go wrong.
+Dê uma boa olhadas nas peças e
+no resto do mapa. Tente conectar
+as estradas nos cantos das peças
+com as estradas nos cantos dos espaços
+vazios. Não tem como errar!
+
 !******************************!
 Did you notice that the piece positioned
 in the middle of the map at the start of
@@ -552,25 +554,28 @@ away with shoes costing <po>30, as well as
 <po>20 in change.
 !******************************!
 [n2.dat]
-<0003>Which Key?
+<0003>Qual Chave?
 <00><14><12><10><12><04><12><02><4C><04><01><FF>
-Which of these keys opens the door?
+Qual destas chaves abre a porta?
 
-Use the stylus to move the keys and find
-the one that fits the lock.
+Use a stylus para mover as chaves e
+descobrir qual encaixa perfeitamente
+na fechadura.
 
-Careful observation of the shapes of the
-keys is required to find the right one!
+É necessário observar cuidadosamente
+o formato de cada chave para achar
+a correta!
 !******************************!
-That's right!
+Está certo!
 
-How long did it take you to realise that the
-grips of the keys could also be inserted
-into the lock?
+Quanto tempo você levou para perceber
+que o corpo das chaves também poderia
+ser inserido na fechadura?
 
-This little lesson about the danger of
-making assumptions should serve you well
-in your puzzle-solving adventures.
+Esta pequena lição sobre o perigo em
+fazer suposições serve como um alerta
+para suas aventuras solucionando
+enigmas.
 !******************************!
 Too bad!
 
@@ -1068,28 +1073,27 @@ on this?
 
 !******************************!
 [n3.dat]
-<0004>A Secure Room
+<0004>Uma Sala Segura
 <00><1E><1B><18><12><05><05><03><EB><03><01><FF>
-Given that the doctor's flat is on the
-eighth floor and that the door was securely
-locked, you might think that there was no
-way in or out of this room.
-However, a single suspicious detail provides
-a clue as to what went on here.
+Dado que o apartamento do doutor fica
+no oitavo andar e a porta estava bem
+trancada, pode-se pensar que não há
+como entrar ou sair desta sala.
+Contudo, um pequeno e curioso detalhe dá
+pistas do que pode ter acontecido aqui.
 
-Look in all four directions and examine the
-room carefully. When you think you've found
-the tell-tale detail, circle it with the
-stylus and touch #rSubmit#x. Be sure to
-circle only one object, or else your answer
-won't count!
-
+Olhe nas quatro direções e examine o quarto
+com atenção. Quando achar ter encontrado
+o detalhe revelador, circule-o com a stylus
+e toque #rEnviar#x. Certifique-se de circular
+apenas um objeto, caso contrário sua
+resposta será inválida!
 !******************************!
-Well spotted!
+Muito bem percebido!
 
-For some reason, part of the curtain has
-been ripped clean off! What could have
-happened here?
+Por alguma razão, parte da curtina
+está rasgada! O que pode ter acontecido
+aqui?
 !******************************!
 Too bad!
 

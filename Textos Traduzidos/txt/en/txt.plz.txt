@@ -2065,31 +2065,31 @@ Well then, I'll simply have to cancel.
 Professor!
 !******************************!
 [m3_1.txt]
-No, Andrew...
+Não, Andrew...
 !******************************!
 [m4_0.txt]
-Excuse me!
+Com licença!
 !******************************!
 [m4_1.txt]
-Huh? Hey, it's you!
+Huh? Ei, é você!
 !******************************!
 [m4_2.txt]
-Well, Inspector Chelmey's the name.
+Bem, meu nome é Inspetor Chelmey.
 !******************************!
 [m4_4.txt]
-You two found the body, did you?
+Vocês dois encontraram o corpo, correto?
 !******************************!
 [m4_5.txt]
-Wh-what in the blazes?
+M-Mas que raios?
 !******************************!
 [m4_6.txt]
-No, Luke! Let him go!
+Não, Luke! Deixe ele em paz!
 !******************************!
 [m4_7.txt]
-Luke, stop that! That's his face!
+Luke, pare! Este é seu rosto!
 !******************************!
 [m4_8.txt]
-Listen here, Luke!
+Preste atenção, Luke!
 !******************************!
 [m5_0.txt]
 Professor Layton and Luke sped

@@ -1,5 +1,5 @@
 [goal_10.txt]
-Siga para a Casa do Doutor Schrader!
+Siga para a Casa do Dr Schrader!
 !******************************!
 [goal_100.txt]
 Return Tom to Babette!
@@ -35,7 +35,7 @@ Find Romie!
 Get Back on the Train!
 !******************************!
 [goal_20.txt]
-Go to Dr Schrader's Door!
+Siga até a Porta do Dr Schrader!
 !******************************!
 [goal_200.txt]
 Talk to the Train Crew!
@@ -83,7 +83,7 @@ Head for the North-east Area!
 Visit the Grocer!
 !******************************!
 [goal_30.txt]
-Visit Dr Schrader's Flat!
+Entre no Apartamento do Dr Schrader!
 !******************************!
 [goal_300.txt]
 Take the Beef Shank to the Dog!
@@ -527,9 +527,9 @@ Use this %s to help
 your hamster get in shape!
 !******************************!
 [tx_204.txt]
-Puzzle %.3d
+Enigma %.3d
 "%s"
-is now in your Puzzle Index!
+foi adicionado ao Livro de Enigmas!
 !******************************!
 [tx_205.txt]
 Você encontrou %s!
@@ -577,9 +577,9 @@ Luke has named the portly
 hamster "%s".
 !******************************!
 [tx_216.txt]
-You found a torn photo,
-but Inspector Chelmey
-confiscated it!
+Você encontrou uma fotografia
+rasgada, mas o Inspetor Chelmey
+confiscou-a!
 !******************************!
 [tx_217.txt]
 Flora is now travelling with

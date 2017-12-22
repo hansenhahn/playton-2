@@ -807,27 +807,27 @@ able to see an ominous-looking goat's
 head in the middle of the photo.
 !******************************!
 [n116.dat]
-<0002>The Doctor's Home
+<0002>O Apartamento do Doutor
 <03><0F><0C><09><11><03><05><74><EB><03><01><FF>
-Find Dr Schrader's window from the details
-in his letter.
+Encontre a janela do Doutor Schrader
+a partir da descrição em sua carta.
 
-<''>In the morning, I often wake up to the
-sound of music drifting in from a nearby
-flat. Looking out, I spy a flag fluttering
-gently outside my window, take a single sip
-of my tea and turn my attention to the
-morning sun. Not many flats in London
-have a view of the sunrise anymore,
-you know.<''>
+<''>Pela manhã, geralmente acordo com o som
+de uma música escapando de um apartamento
+próximo. Olhando pela janela, vejo uma
+bandeira balançando calmamente, tomo um
+pequeno gole do meu chá e passo a admirar
+o nascer do sol. Sabe, não são muitos 
+apartamentos em Londres que possuem uma
+vista do nascer do sol.<''>
 
-Circle the window from which the doctor
-views the sunrise.
+Circule a janela em que o doutor
+vê o nascer do sol.
 !******************************!
-That's right!
+Está certo!
 
-Now that you know where it is, head for
-the doctor's home!
+Agora que você sabe onde é, siga para
+o apartamento do doutor!
 !******************************!
 Too bad!
 
