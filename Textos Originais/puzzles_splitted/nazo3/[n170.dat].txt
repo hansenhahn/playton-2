@@ -1,0 +1,40 @@
+<0173>The Rotating Arrow
+<00><00><00><00><31><01><02><AA><E8><03><02><FF>
+Here we have a pentagon with equal sides.
+As shown in Figure 1, a square with sides
+the same length as one side of the pentagon
+sits flush against the five-sided shape.
+It's labelled with an arrow pointing up.
+If you flip the square along the pentagon
+as shown in Figure 2, the arrow on the
+square changes direction.
+
+Using the diagram below, work out which
+direction the arrow faces if you continue
+to flip the square anticlockwise along the
+pentagon back to its original position.
+!******************************!
+You did it!
+
+There's nothing all that difficult about
+this puzzle, but it does require you to
+do a little creative thinking before
+you can arrive at the answer.
+!******************************!
+Too bad!
+
+Don't get discouraged. Collect your
+thoughts and try again!
+!******************************!
+This puzzle may seem like a pain to
+solve, but if you follow the example
+given and visualise each of the steps,
+it's really not all that hard.
+
+Try sketching out each flip of the
+square using the Memo Function.
+!******************************!
+
+!******************************!
+
+!******************************!

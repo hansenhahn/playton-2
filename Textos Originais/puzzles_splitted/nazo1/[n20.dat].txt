@@ -1,0 +1,59 @@
+<0021>Pass It On!
+<00><14><12><10><51><06><16><14><F6><03><02><02>
+Eight people are playing a communication
+game. In this game, one player has to get
+their message across to seven other
+people.
+
+It takes one minute to pass along the
+message, and each time the message is
+spoken, it can only have one recipient.
+Using these rules, what's the shortest
+amount of time required for the message to
+pass to all seven other players?
+!******************************!
+Very nice!
+
+If the original messenger spreads the word
+as shown above, the game can be completed
+in three minutes. During that time, the
+original messenger can tell three people the
+message, and the people who hear the
+message within the first two minutes can go
+on to become messengers themselves.
+
+When an emergency arises, information
+networks structured in the above fashion
+can help get the word out fast.
+!******************************!
+Too bad!
+
+Are you sure you're not being led astray by
+the wording of the puzzle?
+!******************************!
+<''>Each time the message is spoken, it
+can only have one recipient.<''>
+
+What you need to remember here is that
+any one person can only spread the
+message to one other person at a time.
+
+Try reading the puzzle again while
+bearing the above in mind.
+
+!******************************!
+Every time a given person relays the
+message to another person, the number
+of people who know the message will
+increase by one. 
+!******************************!
+One minute after the game starts,
+two people will know the message.
+
+If each of those people then goes on to
+spread the message, by the end of the
+second minute, a total of four people
+will know the message.
+
+Can you see where this is going?
+!******************************!

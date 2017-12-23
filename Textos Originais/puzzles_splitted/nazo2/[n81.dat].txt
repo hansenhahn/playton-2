@@ -1,0 +1,47 @@
+<0082>Restarting the Lift
+<00><1E><1B><18><11><49><0F><51><F5><03><04><FF>
+The wires connecting the lift to the button
+controlling it have somehow been severed.
+However, if you can connect the
+negative (-) and positive (+) wires on the
+top to the wires carrying the same charge
+below, you can fix the lift. To do this,
+draw lines between sets of terminals.
+Draw two lines to connect each positive and
+negative terminal to its counterpart and
+get the lift running again.
+!******************************!
+We're back in business!
+
+The lift is working again!
+!******************************!
+Too bad!
+
+Did you make sure to connect the positive
+wire (+) and negative wire (-) to wires
+with the same charge?
+!******************************!
+You need to connect wires with the same
+symbol together. So + goes with + and
+- with another -.
+
+If you examine the tangle of wires,
+finding the solution should be simple
+enough.
+!******************************!
+To make things simpler, identify the
+wires that are connected to some other
+area off the screen and eliminate them
+as possible answers.
+
+In the top row of wires, the rightmost
+wire and the one third from the right
+run off the screen.
+!******************************!
+The leftmost terminal in the top set
+of four is connected to the wire
+carrying a negative (-) current.
+
+Now it's up to you to work out the other
+three terminals you need to use.
+!******************************!

@@ -1,0 +1,37 @@
+<0015>Tom's True Identity
+<00><1E><1B><18><12><09><19><0E><FF><03><02><FF>
+Professor Layton has a feeling that Tom
+may not be the kind of boy he was assumed
+to be...
+
+Move the L-shaped pieces around and
+arrange them into a + shape in the middle
+of the board to reveal Tom's true identity.
+
+
+!******************************!
+Good work!
+!******************************!
+N/A
+!******************************!
+Those L-shaped pieces are quite awkward
+to move around, aren't they?
+
+If only you could change the shape of
+the pieces into something easier to
+move around.
+
+Something like a square, perhaps?
+!******************************!
+Pair each L-shaped piece with a small
+square block and treat each pair as
+a single unit to be moved.
+!******************************!
+Since you're looking at Hint 3, you
+probably aren't having much joy with
+this kind of puzzle.
+
+When you get better at solving these
+puzzles, though, you might want to
+try to complete this one in 20 moves!
+!******************************!

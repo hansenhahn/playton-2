@@ -1,0 +1,50 @@
+<0141>Disappearing Act 6
+<00><63><58><4D><01><01><1D><8A><02><04><02><FF>
+Just as before, you can move any ball on
+the board below as long as it satisfies
+the following conditions:
+<->To move, jump your selected ball over an
+adjacent space occupied by another ball
+into an empty space on the other side.
+You can't jump diagonally.
+<->Once you've made the jump, the ball you
+jumped over disappears from the board.
+<->To complete the puzzle, you must remove all
+balls from the board except for one.
+
+OK, enough rules. Start getting rid of those
+balls!
+!******************************!
+Masterfully done!
+!******************************!
+Too bad!
+!******************************!
+You have quite a few balls to get rid
+of, so you'll have to do a lot of jumping.
+Just make sure you aren't choosing your
+moves at random, or you'll end up getting
+stuck before you can finish.
+
+Plan out your jumps so that you never
+leave any balls out away from the group
+where you won't be able to reach them
+later.
+!******************************!
+As you reduce the number of balls on
+the board, those remaining take on a
+configuration that you've previously
+solved.
+
+If you've made it this far, this puzzle is
+in the bag for you.
+!******************************!
+Sorry, there are no more hints to be had
+for this puzzle.
+
+You may have heard that proper
+solitaire players don't consider these
+puzzles complete unless the remaining
+ball ends up in the centre space. One
+step at a time, though. Let's finish this
+puzzle first.
+!******************************!

@@ -1,0 +1,54 @@
+<0111>How Many Turns?
+<00><32><2D><28><11><25><03><6E><E9><03><04><3F>
+Chelmey sent his squad out to investigate
+an incident. Before leaving, he said this:
+<''>I want you to search the entire area shown
+on this map. Take any route you want, but
+report how many times you turned in the
+process. You're free to turn left or right,
+but U-turns are strictly forbidden!<''>
+
+The bobbies completed their shift and
+returned to report their turns. Judging by
+their reports, though, it seems at least
+one man was loafing on the job. Touch the
+numbers you think are suspicious to mark
+them with an X.
+!******************************!
+Sharp thinking!
+
+The two men who took 105 and 113 turns
+must have been slacking off. Since the men
+started out on a horizontal path, you can
+infer that if they turned an odd number of
+times, they'd end up on a vertical path.
+Conversely, if they made an even number of
+turns, they'd end up on a horizontal road.
+
+Any bobby who did his job properly would
+have to turn an even number of times to
+get back to the station, which is at the
+end of a horizontal road.
+!******************************!
+Too bad!
+
+Think hard about the puzzle and try again.
+!******************************!
+If one of the policemen had said he
+turned a total of 1,000 times during the
+course of his investigation, the
+inspector would have no reason to doubt
+the bobby was telling the truth.
+!******************************!
+With U-turns forbidden, there's a
+certain logic you should be able to
+find in all this confusion.
+!******************************!
+Leaving the station and turning an
+odd number of times, regardless of
+the number, will land you on a vertical
+street. Conversely, turn an even number
+of times after leaving the station and
+you'll end up on a road that runs
+horizontally across the screen.
+!******************************!

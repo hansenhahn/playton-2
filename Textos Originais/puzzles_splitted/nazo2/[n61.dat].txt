@@ -1,0 +1,42 @@
+<0062>Smell the Roses Again
+<00><28><24><20><12><26><18><3D><FE><03><04><FF>
+Nothing smells quite as sweet as
+freshly-cut roses. Can you fill the room
+with their delightful fragrance?
+
+Touch a square with your stylus to place a
+rose. The fragrance of each rose reaches
+two squares in all directions, but can't
+penetrate walls. If the fragrance of two
+or more roses overlap, the resulting smell
+will be overpowering, so make sure to keep
+your roses spaced out. Touch an existing
+rose to remove it.
+!******************************!
+Mmm!
+
+With those roses in place, the whole room
+will smell great!
+!******************************!
+Too bad!
+
+Did you make sure to space the roses far
+enough apart to keep their scents from
+overlapping?
+!******************************!
+Start by placing a rose in the
+bottom-left corner of the room, then
+just take it from there.
+!******************************!
+If you know where one rose goes,
+placing the rest shouldn't prove to be
+too much of a challenge.
+
+Place the second rose as close as you
+can to the rose in the bottom-left
+corner without causing their scents
+to overlap.
+!******************************!
+In total, you need to place seven roses
+to finish this puzzle.
+!******************************!

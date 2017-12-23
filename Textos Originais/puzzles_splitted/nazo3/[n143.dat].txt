@@ -1,0 +1,46 @@
+<0146>Angles in a Box
+<00><46><3F><38><12><01><16><8F><F6><03><02><FF>
+On the diagram below, A, B and C indicate the
+centre point of three edges of the cube.
+These points are connected by lines.
+
+How many degrees is the internal angle ABC
+at the point where lines AB and BC meet?
+!******************************!
+Good job!
+
+The answer is 120 degrees.
+
+If you continued to connect the middle
+points of the edges in this way, you would
+draw a regular hexagon. And the internal
+angles in regular hexagons are always
+120 degrees!
+
+!******************************!
+Too bad!
+
+This puzzle is more about visualisation
+than calculation.
+!******************************!
+There's no need to do any complicated
+calculations. Visualisation is the
+important part.
+
+The three points are each on the centre
+points of the edges of a regular cube.
+!******************************!
+The three points are each the centre
+point of a regular cube's edge. Think
+about the other centre points. What
+would happen if you continued
+connecting centre points in this
+fashion?
+!******************************!
+Think about the regular geometric
+figures you could create that include
+points A, B and C.
+
+You could create a regular hexagon,
+couldn't you?
+!******************************!

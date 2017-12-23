@@ -1,0 +1,65 @@
+<0065>The Ancient Map
+<00><19><16><13><11><28><05><40><EB><03><04><FF>
+An ancient map depicts the possible spots
+of a vast fortune along with these
+directions:
+<''>Inscribe the numbers 1 to 6 in the map's
+blank spaces so that each set of numbers
+in a straight line has the same sum.
+This sum must be the largest one possible
+given the condition described above. Then
+grab your shovel and race to the spot
+marked 1, for it is there that your
+treasure resides!<''>
+The number 4 has been filled in for you.
+Circle the spot where the treasure is hidden.
+!******************************!
+You did it!
+
+The treasure is buried in roughly the
+centre of the map.
+
+The sum you needed to work with was 10.
+You could organise the numbers so that
+each line added up to a total of nine, but
+that is not the highest possible sum.
+!******************************!
+Too bad!
+
+Are you certain each line of numbers adds
+up to the same total?
+
+Oh, and what about the sum of each line?
+Is it the largest number possible given the
+conditions?
+!******************************!
+The number 4 is already in place, so your
+task is to decide where the numbers 1,
+2, 3, 5 and 6 go.
+
+Remember, your goal is to make every set
+of numbers in a straight line add up to
+the same total. Pay special attention to
+the two lines that use the number 4, as
+they are crucial to solving the puzzle.
+ 
+!******************************!
+Focus your attention on the spot on the
+far right and how it forms a line with
+the number 4.
+
+Were you to insert a smaller number like
+1 or 2 here, your total for the whole
+line couldn't be any larger than 6.
+With a total like that, there'd be no
+place for you to put the number 6,
+making the puzzle unsolvable. So, what
+should go in that far right spot?
+!******************************!
+When arranged properly, each line of
+numbers can add up to either 9 or 10.
+The puzzle asked you to use the largest
+sum possible, so you know you should
+be aiming to make each line add up
+to 10.
+!******************************!

@@ -1,0 +1,57 @@
+<0037>World's Best Golfer
+<00><19><16><13><11><19><16><24><F6><03><03><FF>
+A  pro golfer has the amazing ability to
+consistently putt distances of 3, 5, 7 and
+11 metres. Strangely enough, though, those
+are the only distances he can putt.
+
+Currently, our golfer stands on the green
+with his ball 20 metres from the hole.
+What's the fewest number of strokes he can
+use to get the ball into the hole?
+
+Assume that if the ball is hit farther than
+the distance remaining to the hole, it will
+roll over to the other side without going
+into the cup. 
+!******************************!
+Good job!
+
+If our friend the pro golfer putts two
+diagonal shots as shown above, he can
+sink the ball in two shots. No one ever
+said the golfer had to putt directly
+towards the hole, did they?
+
+Sure, in order to sink the putt using
+the method shown above, he'd need to
+calculate the angle of each shot
+perfectly, but that's probably why they
+call him a pro!
+!******************************!
+Too bad!
+
+Remember, this is a pro golfer we're talking
+about. He can do some pretty amazing things.
+!******************************!
+The correct solution doesn't involve the
+golfer overshooting the hole.
+!******************************!
+There's no reason our golfing friend
+should have to hit each putt straight
+towards the hole.
+
+Perhaps he could put his ball in a better
+position with a shot that travels
+diagonally.
+!******************************!
+Picture the golfer taking a diagonal
+shot relative to the hole. If he hits the
+ball exactly 11 metres and angles the
+shot so that this first putt puts him
+exactly halfway between his starting
+position and the hole...
+
+Do you see where this is going?
+
+!******************************!

@@ -1,0 +1,49 @@
+<0132>Sharing Paintings
+<00><28><24><20><71><51><02><84><E8><03><04><FF>
+Two brothers have inherited their parents'
+five-piece art collection. According to the
+will, the older brother will get a set of
+paintings worth twice what the younger
+brother gets. In order to ascertain the
+value of the paintings, the brothers called
+in a valuer, who valued each painting as
+shown below. For his services, the valuer
+was promised the one painting left over
+after the brothers divided the art
+according to their parents' wishes.
+
+Assuming that individual paintings can't be
+divided, which one does the valuer get?
+!******************************!
+That's right!
+
+The valuer receives painting E.
+
+The older brother inherits paintings A, C
+and D, which are worth <po>120,000 in total.
+The younger brother gets a single painting
+worth <po>60,000, half of what his brother
+gets.
+
+In the end, the valuer takes home the
+most expensive painting of all. My, isn't
+that convenient!
+
+!******************************!
+Too bad!
+
+Maybe you should run through your
+calculations one more time.
+!******************************!
+The valuer is well remunerated for his
+work.
+!******************************!
+None of the paintings the older brother
+gets are worth more than any single
+painting the younger brother receives.
+!******************************!
+The older brother inherits three
+paintings and the younger brother
+inherits one painting.
+
+!******************************!

@@ -1,0 +1,44 @@
+<0137>One True Sword
+<00><32><28><1E><11><51><05><87><EB><03><04><FF>
+<''>A true warrior always keeps his blade in
+hand.<''>
+
+These are Anton's last words to Professor
+Layton before the start of their duel.
+Can you find the one real sword among
+Anton's collection?
+
+Circle your selection to draw your
+weapon of choice!
+!******************************!
+Nicely done!
+
+<''>A true warrior always keeps his 
+blade in hand.<''>
+
+Anton's words were a subtle hint that all
+the swords on the wall were for show.
+The only real sword is the one sitting
+in the hand of the suit of armour! 
+!******************************!
+Too bad!
+
+Anton's words are a hint to you. 
+Think about what they suggest!
+!******************************!
+Can you picture the professor using a
+curved sword? It doesn't really seem to
+fit his style, does it?
+!******************************!
+Intricately decorated swords are too
+ornate to be of much practical use.
+!******************************!
+No sword on the wall could belong to a
+true warrior. After all, a blade on the
+wall can't be considered <''>in hand<''>.
+Study the picture. Does anyone in the
+picture have a sword <''>in hand<''>?
+
+Perhaps one of those suits of armour
+knows the answer...
+!******************************!

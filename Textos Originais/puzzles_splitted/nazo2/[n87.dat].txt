@@ -1,0 +1,41 @@
+<0088>The Frog's Path
+<00><1E><1B><18><11><57><16><57><F6><03><04><FF>
+A frog sits perched on the white space in
+the diagram below. This little guy has an
+unusual jump. His first jump travels one
+space, his second jump travels two spaces,
+and his third jump travels three spaces.
+After his third jump, he repeats this
+pattern. The frog can't change his
+direction mid-jump, but he can turn around
+between jumps.
+
+This frog's goal is to land exactly on the
+green space. What is the fewest number of
+jumps he needs to make to complete this
+task?
+!******************************!
+That's the way to do it!
+
+As shown in this diagram, if you make
+the frog jump back the way he came
+twice, he can make it to the green square
+in 12 hops.
+!******************************!
+Too bad!
+
+Give the puzzle another try.
+!******************************!
+The solution for this puzzle requires
+the frog to jump back the way he came
+a number of times.
+!******************************!
+Have you ever heard the saying
+<''>one step forward, two steps back<''>?
+
+This line is useful to remember, but don't
+follow its advice too literally. 
+
+!******************************!
+The frog will need to backtrack twice.
+!******************************!

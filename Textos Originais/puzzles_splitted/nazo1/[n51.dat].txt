@@ -1,0 +1,47 @@
+<0052>Hat Weather
+<00><1E><1B><18><71><18><0B><33><F1><03><03><FF>
+There is a fellow with very particular rules
+about when he wears his hat.
+<->When it's sunny, he always wears his hat.
+<->When it's rainy, he doesn't wear his hat.
+<->When it's cloudy, he doesn't wear his
+hat unless it's been cloudy for two days in
+a row, in which case he wears his hat on the
+second of these days.
+
+Below is a schedule of when this fellow
+decided to wear his hat over the course of
+one week. Use the panels to fill in the
+weather for each day of the week.
+!******************************!
+Excellent!
+
+If you assume that the Monday shown was
+the second cloudy day in a row, then our
+friend must have worn his hat on that day.
+The rest of the solution then falls right
+into place.
+!******************************!
+Too bad!
+
+Think hard about the man's rules concerning
+his hat and try again.
+!******************************!
+Start by placing a rain tile on each
+day where our friend didn't wear a hat.
+!******************************!
+Once you place the rain tiles down as
+described in Hint 1, you may notice that
+there are no more places left for your
+cloud tile.
+
+You could place it down on one of the
+days with a hat if that day was the
+second day of cloudy weather in a row,
+but no two days in this week appear to
+have been cloudy...
+!******************************!
+If the weather was cloudy on the Sunday
+of the previous week, he could wear his
+hat on Monday.
+!******************************!

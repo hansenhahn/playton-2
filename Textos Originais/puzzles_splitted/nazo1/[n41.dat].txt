@@ -1,0 +1,33 @@
+<0042>Board Cutter 1
+<00><19><16><13><11><1F><09><29><EF><03><03><05>
+Here we have an oddly shaped board.
+
+Since this board is rather unwieldy as
+it is, you've decided to cut it into two
+pieces and rejoin these pieces to form a
+square.
+
+Assuming you aren't allowed to flip either
+of the pieces over once the board is cut,
+where should you make the cut in order to
+make a square out of the pieces?
+!******************************!
+Excellent!
+
+Easier than it looks, isn't it?
+!******************************!
+Too bad!
+
+Are you sure that the way you've split the
+board will allow you to recombine the pieces
+into a square?
+!******************************!
+The final square will be four units tall by
+four units wide.
+!******************************!
+You have to cut the board in two
+separate places to solve this puzzle.
+!******************************!
+Doesn't that area around the hole in the
+board look like a good place to cut?
+!******************************!

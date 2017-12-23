@@ -1,0 +1,58 @@
+<0104>Disappearing Act 4
+<00><2D><28><23><01><38><1D><8A><02><04><04><FF>
+You know the drill by now. You can move
+any ball on the board below as long as it
+satisfies the following conditions:
+<->To move, jump your selected ball over an
+adjacent space occupied by another ball
+into an empty space on the other side.
+You can't jump diagonally.
+<->Once you've made the jump, the ball you
+jumped over disappears from the board.
+<->To complete the puzzle, you must remove all
+balls from the board except for one.
+
+OK, enough rules. Try it for yourself!
+!******************************!
+Nice!
+
+The only condition for solving these puzzles
+was eliminating all but one ball from the
+board, but the true solution to these
+puzzles requires you to finish with the ball
+positioned in the centre space.
+
+Perhaps that will provide some incentive
+for you to revisit a few of these peg
+solitaire puzzles.
+
+
+!******************************!
+Too bad!
+!******************************!
+These puzzles are a lot more fun if you
+experiment and try to come to the
+answer on your own. Don't depend on
+Hints 2 and 3 to give away too much
+of the puzzle.
+
+Start this puzzle by moving the ball
+in the centre of the second row from
+the top.
+!******************************!
+No more hints to be had here! Instead,
+here's a little fun fact. Did you know
+that peg solitaire is actually known as
+brainvita in India?
+
+Oh, and just so you know, Hint 3 is
+also trivia.
+!******************************!
+There are many games known as solitaire,
+some using boards divided into spaces
+and some using playing cards.
+On a related note, a very large number
+of computer games you could call
+solitaire games have been made since
+the early days of video games.
+!******************************!

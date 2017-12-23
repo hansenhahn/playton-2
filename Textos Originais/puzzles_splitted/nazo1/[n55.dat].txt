@@ -1,0 +1,53 @@
+<0056>The Door's Code
+<00><28><24><20><11><09><1A><37><00><04><02><29>
+In order to pass through this door, Luke
+and Layton must arrange the symbols
+according to the following rules:
+
+<->The star must be next to the moon.
+<->The X must be second from the top.
+<->The circle must be somewhere above the
+diamond.
+<->The moon must be located two places below
+the diamond.
+
+Give it a shot!
+!******************************!
+You're in!
+
+Good job cracking that code!
+!******************************!
+Too bad!
+
+Look over the puzzle one more time.
+
+!******************************!
+<''>The X must be second from the top.<''>
+
+As you know exactly where the X should
+go, start by placing this symbol. Once
+this is done, move on to the other
+conditions.
+!******************************!
+<''>The moon must be located two places
+below the diamond.<''>
+
+If the moon is two places below the
+diamond, then the diamond must be in
+one of the top three spots. X already
+occupies the second spot, so the
+diamond is in either the first or
+third space from the top.
+!******************************!
+<''>The circle must be somewhere above
+the diamond.<''>
+
+If you combine the above statement
+with the information from Hint 2,
+it's clear that the only place you
+can put the diamond is the third
+spot from the top. Once you've placed
+the diamond, you should have enough
+symbols in place to solve the rest
+of the puzzle easily. 
+!******************************!

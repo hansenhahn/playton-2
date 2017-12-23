@@ -1,0 +1,34 @@
+<0134>Steam Power
+<00><28><24><20><12><57><03><86><54><04><04><FF>
+Which valves do you need to open to send
+steam from the boiler into 2, but not
+1 or 3?
+
+All valves start in the closed position.
+Answer using the solution that requires
+opening the fewest number of valves.
+Touch a valve to open or close it.
+!******************************!
+Well done!
+
+You only need to open three valves to
+direct steam to 2 and not 3 or 1.
+!******************************!
+Too bad!
+
+Are you sure some of that steam didn't
+make its way to areas 1 or 3?
+!******************************!
+Portions of the pipes connected to 2
+also head to 1 and 3. Make sure that
+you don't open any valves that let
+steam reach these other areas.
+!******************************!
+In the solution, the steam is sent from
+the middle of the three pipes coming
+out of the boiler.
+!******************************!
+The solution to this puzzle requires
+that you open three valves. At the
+first fork in the pipe, head upwards.
+!******************************!

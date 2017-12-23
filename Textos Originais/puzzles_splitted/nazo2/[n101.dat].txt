@@ -1,0 +1,47 @@
+<0102>Disappearing Act 2
+<00><23><1F><1B><01><2D><1D><8A><02><04><04><2D>
+Here's a different configuration for you
+to try. As with last time, you can move
+any ball on the board below as long as it
+satisfies the following conditions:
+<->To move, jump your selected ball over an
+adjacent space occupied by another ball
+into an empty space on the other side.
+You can't jump diagonally.
+<->Once you've made the jump, the ball you
+jumped over disappears from the board.
+<->To complete the puzzle, you must remove all
+balls from the board except for one.
+
+OK, enough rules. Try it for yourself!
+!******************************!
+You got it!
+
+Peg solitaire is a puzzle with a long history.
+It's thought to have first come into
+popularity around the 17th century.
+!******************************!
+Too bad!
+!******************************!
+Your options for a first jump are fairly
+limited. It has to be one of the four
+balls surrounding the centre ball. The
+tough part is deciding what to do next.
+
+For your second move, pop a ball into
+the space that opened up when you
+moved the first one.
+!******************************!
+Next, move a ball into the open centre
+space.
+!******************************!
+Read carefully, because this next move
+is key.
+
+You need to take the ball now sitting 
+in the centre space and move it in the
+direction that you moved your ball in
+the first move.
+
+The rest of the puzzle is up to you.
+!******************************!

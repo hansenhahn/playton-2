@@ -1,0 +1,34 @@
+<0169>Territory War
+<00><00><00><00><11><01><05><A6><EB><03><02><FF>
+Three kings have become entangled in a
+territory dispute over the land shown
+below. They have decided to divide the
+land by colouring it red, blue and yellow
+after their national colours. The rule for
+dividing land is that each territory must
+not border another territory of the same
+colour. If territory A is red and territory
+B is blue, what colour is territory C?
+
+Circle that colour's king and touch #rSubmit#x
+to enter your answer.
+!******************************!
+That's right!
+
+If you divide the land correctly, C must be
+blue.
+!******************************!
+Too bad!
+
+The only way to solve a puzzle like this is
+to actually do it!
+!******************************!
+Try actually marking the territories
+using the Memo Function to make sure
+you don't make adjacent ones the same
+colour.
+!******************************!
+
+!******************************!
+
+!******************************!

@@ -1,0 +1,55 @@
+<0142>The Scholar's Life
+<00><3C><36><30><12><01><16><8B><F6><03><03><FF>
+The following words are written on a famous
+mathematician's grave.
+
+<''>Following the 1/6th of my life I spent as a
+child, I spent 1/12th of my life as a young
+man. Then, 1/7th of my life later, I got
+married. Five years after I was wed, I was
+blessed with a child, but sadly, he only lived
+half the time I was alive before passing
+away. Today, four years after his death, I
+too will depart from this world.<''>
+
+Can you work out how many years the
+mathematician lived?
+!******************************!
+Very nice!
+
+The mathematician was alive for 84 years.
+Setting up a linear equation, as shown
+above, makes short work of this puzzle.
+
+Interestingly enough, a puzzle very similar
+to the one you just solved is said to be
+written upon the headstone of the grave of
+Diophantus, a famous ancient Greek
+mathematician.
+!******************************!
+Too bad!
+
+This puzzle takes some brainpower, but
+keep at it.
+!******************************!
+Try setting up a linear equation where
+this mathematician's life in years
+equals x.
+!******************************!
+Would you rather not use hard maths to
+solve this puzzle? Have no fear, you
+can also solve this problem without
+using a linear equation.
+
+By adding together 1/6, 1/12, 1/7 and
+1/2 of this man's life, you can express
+the length of the mathematician's life
+as fractions, minus the parts that were
+five and four years long. You can find
+the answer using only this information.
+!******************************!
+The lowest common denominator of 1/2,
+1/6, 1/7 and 1/12 seems to be the same
+as the length of the mathematician's life
+expressed in years.
+!******************************!

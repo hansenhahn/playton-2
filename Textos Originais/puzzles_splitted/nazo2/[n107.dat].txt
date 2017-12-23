@@ -1,0 +1,42 @@
+<0108>The Knight's Tour 3
+<00><46><3F><38><01><35><11><6B><F7><03><04><FF>
+Lead the knight on a trip around the board.
+
+Chess knights move two squares forwards
+and one square perpendicular on each
+turn. The initial direction can be up,
+down, left or right.
+
+Move this knight around the entire board,
+landing on each square only once. 
+
+!******************************!
+Well done!
+!******************************!
+Too bad!
+!******************************!
+Sorry, there aren't any more useful
+hints. Just have fun solving this
+classic puzzle!
+!******************************!
+Shogi, often known as Japanese chess,
+has a piece similar to the knight
+in Western chess.
+
+However, unlike knights in Western chess,
+shogi knights can only advance down
+towards the other end of the board.
+Perhaps Western knights were just
+more flexible than their Japanese
+counterparts.
+!******************************!
+If you're really stuck, take a break
+by setting a smaller goal. You could try
+getting stuck in the fewest number of
+moves possible, or move the knight so
+that it traces the shape of a letter.
+Better yet, combine these little games.
+For example, draw two Ys horizontally,
+then try to get your knight stuck in
+as few turns as possible.
+!******************************!

@@ -1,0 +1,34 @@
+<0127>Slippery Crossings 2
+<00><1E><1B><18><12><4D><1B><7F><01><04><04><FF>
+The lake in front of the professor is
+frozen solid. The ice is thick enough to
+stand on, but so slippery that any movement
+in any direction causes him to slide
+uncontrollably in that direction until he
+hits a wall. While he is stationary, you
+can change the professor's direction by
+touching the arrows around him.
+
+Can you guide the professor through this
+slippery lake to the goal?
+
+!******************************!
+You made it!
+
+Feel like you're getting the hang of these
+puzzles? Just remember, if you ever come
+across a frozen lake in real life, be sure
+to keep off it. Those things are dangerous!
+!******************************!
+Too bad!
+!******************************!
+At the first wall you come to, head left.
+!******************************!
+Your next move should be to head up
+towards the top of the screen.
+!******************************!
+Don't get impatient while you're out
+there skating around. It may take you
+the equivalent of two laps around the
+lake to get where you need to be.
+!******************************!

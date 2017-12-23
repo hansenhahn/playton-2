@@ -1,0 +1,51 @@
+<0054>Painting the Flag
+<00><19><16><13><12><19><16><35><F6><03><03><FF>
+You have a pristine white flag that you want
+to dye into three sections as shown below.
+You have three dyes.
+
+No two adjacent sections of the flag can be
+the same colour, each section can only be
+one colour and you can't change the number
+or size of these sections.
+
+If you aren't allowed to mix the dyes, how
+many distinct flag designs are possible? 
+
+!******************************!
+Sharp thinking!
+
+Once you incorporate the white colour of
+the unpainted flag into your designs, you
+actually have four colours you can work
+with. If you assign a colour to the left
+section of the flag and list all designs
+possible, you get a total of nine variations.
+
+Multiply this number by four, which
+represents the number of colours at your
+disposal, to get the answer: 36 variations.
+!******************************!
+Too bad!
+
+Give the puzzle another try.
+!******************************!
+You have three dyes you can use on the
+flag, but that doesn't mean those are
+the only colours at your disposal.
+!******************************!
+Maybe you've noticed that the white
+colour of the flag's fabric is another
+colour you can use in making your
+designs.
+!******************************!
+Adding white to the three dyes you have,
+there are four colours you can use to
+make flag designs.
+
+If the left section of your flag is red,
+for example, then combining the other
+two dyes and the flag's own white colour
+in the remaining two sections gives you a
+total of nine distinct designs.
+!******************************!

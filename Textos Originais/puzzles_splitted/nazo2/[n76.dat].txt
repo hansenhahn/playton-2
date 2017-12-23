@@ -1,0 +1,61 @@
+<0077>Balancing Ornaments
+<00><1E><14><0A><11><46><1A><4C><00><04><04><46>
+Small ornaments dangle from a metal bar, and
+they've thrown the bar off balance.
+
+The five ornament strings are spaced
+equally apart and each type of ornament
+weighs a different amount. Three light
+ornaments weigh the same as one heavy
+ornament, while two light ornaments weigh
+the same as a medium ornament.
+
+Place one of the three ornaments in the
+rectangle into the space marked <''>?<''> to
+restore the bar's balance.
+!******************************!
+Good job!
+
+The crescent moon ornament is just heavy
+enough to balance things out. A single
+star ornament weighs the same as one sun
+and one moon together. The strand of
+ornaments that is supposed to
+counterbalance the one with a <''>?<''> doesn't
+have any star-shaped ornaments, but if you
+compare the ornaments as shown above you
+can work out what should go in the <''>?<''>
+space regardless.
+!******************************!
+Too bad!
+
+Concentrate on working out which of the
+three ornaments must be the heaviest.
+!******************************!
+The middle strand of ornaments doesn't
+affect the balance of the bar, so ignore
+it.
+
+Also, the two strands hanging at the
+ends of the bar are the same weight, so
+try comparing the ornaments on the far
+left to the ornaments on the far right.
+You might find out something new.
+!******************************!
+Look at the strands on the far left and
+the far right. While they both contain
+sun and moon ornaments, only the far
+right strand has a star.
+By comparing the ornaments on these
+two strands, you can probably work
+out how many suns and moons it takes
+to equal the weight of a star.
+!******************************!
+A single star weighs the same as one
+sun and one moon.
+
+Now that you know the weight of one
+star, you should now be able to compare
+the two strands next to the middle
+strand.
+!******************************!

@@ -1,0 +1,51 @@
+<0064>Stones in a Vase
+<00><14><12><10><11><28><16><3F><F6><03><04><FF>
+<''>This vase holds 101 stones, each identical
+in size and feel. There are 50 black stones
+and 51 white stones. Now, put on this
+blindfold, reach in, and pull out as many
+stones as you like. When you're finished, if
+you've removed an equal number of black and
+white stones, you'll receive a number of gold
+coins equal to the number of stones you
+pulled out.<''>
+
+How many stones should you remove to give
+yourself the best chance of getting the
+most money possible?
+!******************************!
+Well done!
+
+If you remove 100 stones from the vase,
+only one will remain inside. If that
+remaining stone is white, it means you've
+sucessfully removed 50 stones of each
+colour. Of course, removing just two
+stones would give you the same chance of
+winning the coins as removing 100 stones,
+but the amount of money you receive for
+sucessfully removing 100 stones dwarfs the
+reward you'd receive for two stones.
+!******************************!
+Too bad!
+
+In situations like this one, it pays to go
+for the big money, so don't hold back!
+
+!******************************!
+Since the stones are of the same size
+and feel, there is absolutely no way to
+tell them apart while removing them.
+!******************************!
+The chances of you winning those coins
+are about 50/50.
+
+There's no way of ensuring that you'll
+win the coins.
+!******************************!
+Let's think about this for a moment.
+
+Whether you pull out two stones or 100
+stones, your chances of winning the gold
+are the same: 50/50.
+!******************************!

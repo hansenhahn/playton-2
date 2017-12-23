@@ -1,0 +1,54 @@
+<0047>The Mayoral Election
+<00><19><16><13><12><1C><16><2E><F6><03><03><FF>
+Three people at odds with one another are
+running for mayor in the upcoming town
+election. They are all locals of the town,
+which has a voter population of 40.
+In order to win, a candidate must get
+more votes than any other candidate.
+
+If each of the 40 voters casts a single
+vote and every vote is recognised, what
+is the fewest number of votes a candidate
+needs to secure victory?
+!******************************!
+That's right!
+
+The winner needs at least 20 votes.
+
+Since each of the candidates dislikes the
+other two, they will probably all vote for
+themselves. 40 votes minus those three
+votes leaves 37 votes. The winner will need
+over half the votes, or 19. Add the winning
+candidate's personal vote to that and you
+get 20 votes. Even if another candidate
+gathered all the remaining 18 votes, that
+wouldn't be enough to overcome the
+candidate with 20 votes. 
+!******************************!
+Too bad!
+
+Think hard about the clues you've been
+given and try again.
+!******************************!
+Think about how many votes will be cast
+in the town excluding the three cast by
+the candidates themselves.
+!******************************!
+The three candidates themselves also
+have the right to vote.
+
+Of course, since each of them wants to
+win, you can take it for granted that
+each candidate will vote for themselves.
+!******************************!
+40 votes minus the three votes cast
+by the candidates leaves you with 37
+votes.
+
+Find the number of votes it takes to
+gain a majority in a pool of 37 voters
+and add one additional vote to that sum
+to get your answer.
+!******************************!

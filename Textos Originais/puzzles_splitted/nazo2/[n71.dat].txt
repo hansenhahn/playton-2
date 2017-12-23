@@ -1,0 +1,54 @@
+<0072>Scrambled Photos
+<00><23><1F><1B><12><2B><10><47><F6><03><04><09>
+Four photographs decorate the wall of
+Joseph's photo studio. Each photo depicts
+the same area and was taken at the exact
+same time of day. However, each photo was
+taken at a different point in time, and if
+you look carefully, you can work out the
+order in which these pictures were taken.
+Enter your answer using the letters
+attached to each picture, starting with
+the earliest, like so: ABCD.
+!******************************!
+Good eye!
+
+The correct order is CDBA.
+
+In C, the street light has yet to be
+installed, but in D, the light has been built.
+In B, there's a new building in the
+background and the restaurant's window is
+broken. Finally, in A, the broken window seen
+in B has been patched up and some of the
+lights in the restaurant's sign have burned
+out. What's more, the door of the photo
+studio has been painted a different colour.
+!******************************!
+Too bad!
+
+Examine the four pictures again in case you
+missed a crucial detail.
+!******************************!
+Start by scanning all four pictures
+for differences between them.
+
+For example, maybe the buildings are
+different in one or two of the photos...
+!******************************!
+Photo C is the only one where the stairs
+aren't illuminated, because there's no
+visible street light.
+
+Photos C and D are both missing that big
+orange building in the background. By
+contrast, the building and street light
+are visible in photos A and B.
+!******************************!
+The door to the photo studio is the same
+colour in all pictures except for A.
+Also, in B, one of the restaurant
+windows is broken. However, the window
+is patched up in A, so A must have
+been taken after B.
+!******************************!

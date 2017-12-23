@@ -1,0 +1,48 @@
+<0024>A Strip of Paper
+<01><0A><09><08><11><09><16><17><F6><03><02><FF>
+After trying to fold a strip of paper in
+half, you notice that one side of the
+folded strip is one centimetre longer than
+the other. Determined to get it right, you
+fold the strip again, only to discover that
+now the other end of the folded strip is
+one centimetre longer than the other.
+
+You've now made two fold creases in the
+strip. What is the distance in millimetres
+between the two creases?
+!******************************!
+That's right!
+
+The distance between the creases is one
+centimetre, or 10 millimetres.
+
+If you're having trouble visualising this,
+imagine that the matchbox shown above has
+a height of one centimetre.
+
+Now imagine that one of the matchbox's
+sides was removed. It looks just like
+your strip of paper after being folded
+twice! The excess length of your folds
+is represented by the remaining side.
+!******************************!
+Too bad!
+
+Start by considering where the first fold
+along the paper strip must be positioned.
+!******************************!
+Think about how much longer one <''>half<''> of
+the strip was compared to the other one
+after the first fold.
+!******************************!
+Remember, you're being asked to answer
+in millimetres.
+!******************************!
+Consider the location of the first fold.
+The second fold must have been
+positioned one centimetre away from
+this location.
+
+Does that clear things up for you?
+!******************************!

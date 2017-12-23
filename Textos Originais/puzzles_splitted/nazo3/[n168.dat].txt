@@ -1,0 +1,35 @@
+<0171>The M<:o>bius Puzzle
+<00><00><00><00><11><01><02><A8><E8><03><02><FF>
+By twisting a thin strip of paper once and
+using some tape to form a ring with it, you
+can make a ring with one continuous
+surface. If you started to draw a line on
+one side, it would eventually cover both
+sides and join back up with itself. This
+is the famous M<:o>bius strip.
+
+Now, if you cut along this line with a pair
+of scissors, which shape would the paper
+make: A, B or C?
+!******************************!
+Very good!
+
+This is a fun puzzle to try in real life.
+You end up with one very long ring.
+
+Try it out and see how many twists you
+end up with.
+!******************************!
+Too bad!
+
+You know, if you have some paper, a pair
+of scissors and some tape...
+!******************************!
+You know, twisting before forming a ring
+yields a completely different result
+than cutting an untwisted ring.
+!******************************!
+
+!******************************!
+
+!******************************!

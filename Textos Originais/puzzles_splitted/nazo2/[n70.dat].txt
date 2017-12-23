@@ -1,0 +1,57 @@
+<0071>How Old Is She?
+<00><1E><1B><18><12><39><16><46><F6><03><04><3E>
+A boy and girl are chatting at a local cafe.
+Looking up from his drink, the boy says:
+
+<''>You know, I'm 20, which is twice the
+age you were when I was the age you are
+now... Isn't that interesting?<''>
+
+As you can see, this boy isn't the most
+concise of speakers, but using what he's
+said, how old is the girl he's chatting to?
+!******************************!
+Nice!
+
+A careful read of the puzzle reveals that
+when the boy was the girl's current age,
+her age was half of the boy's current age.
+The boy's current age is 20, and half of
+that is 10, so the girl must have been 10
+back then.
+
+Once you realise this, it's obvious that
+the girl must be 15 at present.
+!******************************!
+Too bad!
+
+Decide upon a number from which to begin
+your reasoning, and take it from there.
+!******************************!
+Start by working out how old the girl was
+back when the boy was her current age.
+
+What relationship does the girl's past
+age have with the boy's current age?
+
+
+!******************************!
+Maybe you already picked up on this, but
+if you double the girl's age when the
+boy was her current age, you get the
+boy's current age of 20.
+
+!******************************!
+Using the facts in Hint 2, you can
+ascertain that the girl was 10 back when
+the boy was the girl's current age. 
+Since then, X years have passed,
+the boy has become 20, and the girl has
+become her current age. If you can
+find a number of years that, when added
+to 10 and subtracted from 20, yield the
+same age, you're very close to finding
+the girl's current age.
+
+Now what could X be?
+!******************************!

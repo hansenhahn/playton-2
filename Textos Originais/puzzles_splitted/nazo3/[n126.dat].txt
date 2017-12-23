@@ -1,0 +1,38 @@
+<0126>Slippery Crossings 1
+<00><14><12><10><11><4D><1B><7E><01><04><04><FF>
+The lake in front of the professor is
+frozen solid. The ice is thick enough to
+stand on, but so slippery that any movement
+in any direction causes him to slide
+uncontrollably in that direction until he
+hits a wall. While he is stationary, you
+can change the professor's direction by
+touching the arrows around him.
+
+Can you guide the professor through this
+slippery lake to the goal?
+
+!******************************!
+Whew!
+
+That was super slippery!
+
+But you can't stop now!
+!******************************!
+Too bad!
+!******************************!
+When you hit the first wall, head right!
+!******************************!
+After heading right as described in
+Hint 1, you'll hit another wall. Don't
+try to head up to the goal from there.
+!******************************!
+In order to reach the goal, you must
+first stop in a position directly below it.
+
+There are two short walls lining the
+path that leads straight up to the goal.
+Take the professor on a course that
+leads him straight into the right-most
+of those two walls. 
+!******************************!

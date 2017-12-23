@@ -1,0 +1,47 @@
+<0097>A Starry Sky
+<00><28><24><20><11><4C><1A><60><00><04><04><FF>
+It's said that ancient peoples came up with
+constellations by staring up at the stars
+in the night sky. Here's a star-laden puzzle
+to celebrate their achievements.
+
+Below is a 6 x 6 grid of sky and stars
+arranged into nine larger blocks. Arrange
+these nine blocks so that each row and
+column contains three stars. Blocks without
+surrounding outlines can't be moved.
+!******************************!
+Brilliant!
+
+The constellation is a bit...abstract, but
+oh well.
+!******************************!
+Too bad!
+
+There's at least one row or column in your
+solution that doesn't have three stars.
+!******************************!
+You need to find a foothold to get
+started, and the stars that are locked
+in place should do nicely. Remember, if
+two stars are locked into a row, you can
+only place one more there.
+!******************************!
+The topmost row of blocks has two
+blocks that are locked into place. Within
+this row of blocks are two rows of
+stars. The top row has two stars locked
+in place and the bottom row has one.
+Therefore, the one block you can place
+in this row must have one star in its top
+row and two in its bottom row.
+!******************************!
+Let's take a look at the leftmost
+column of blocks, which also has two
+blocks locked in place.
+The left column of stars contained
+here has only one star locked in place,
+as does the right column. So, the block
+that goes here must have two stars in
+both its left and right rows.
+!******************************!

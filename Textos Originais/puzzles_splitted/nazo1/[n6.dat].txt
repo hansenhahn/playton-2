@@ -1,0 +1,54 @@
+<0007>Four Couples
+<00><14><12><10><11><0B><05><06><EB><03><02><FF>
+Four couples sit in a crowded dining car.
+All diners are sitting next to or across
+from their partners:
+
+<->The Joneses are sitting by the aisle.
+<->The moustachioed Mr O'Connor is sitting
+next to his wife.
+<->Mr Lambert is sitting opposite his wife.
+
+Using the information above, can you
+determine where Mrs Hadley is sitting?
+Circle her and touch #rSubmit#x.
+!******************************!
+That's right!
+
+Moustachioed Mr O'Connor is sitting next to
+his wife, so all the people on the left must
+be sitting next to their spouses.
+Mr Lambert is sitting opposite his wife, so
+he must be sitting at the right-hand table.
+
+The Joneses are sitting by the aisle, so
+they must be c and g. That leaves e and
+f as the Hadleys.
+!******************************!
+Too bad!
+
+Think hard about the clues you've been
+given and try again.
+!******************************!
+The moustachioed Mr O'Connor is b.
+Since both c and f are men, his wife has
+to be a. 
+!******************************!
+The Joneses are both sitting by the
+aisle, which means they must be sitting
+opposite each other.
+
+Since you know b is Mr O'Connor, c and g
+must be Mr and Mrs Jones.
+!******************************!
+Where is Mr Lambert in all this?
+
+We now know a and b to be the O'Connors,
+so the people sitting opposite them must
+also be a couple. But they can't be the
+Lamberts because the Lamberts have to
+be sitting opposite each other.
+
+You should now be able to identify all
+four couples.
+!******************************!

@@ -1,0 +1,32 @@
+<0125>Forest Mushrooms
+<00><32><2D><28><12><4C><0F><7D><F5><03><04><FF>
+Collect all the mushrooms in this forest as
+you pass through. Each circular clearing on
+the map contains mushrooms.
+
+You don't want to spend too long in this
+creepy forest though, so find the quickest
+route through that visits each clearing
+only once.
+!******************************!
+Mushtastic!
+
+You clearly realised that you don't need to
+use every single path.
+!******************************!
+Too bad!
+
+Check again to make sure you didn't
+miss something.
+!******************************!
+Go right first!
+!******************************!
+You approach the exit from the right.
+!******************************!
+Don't give up!
+
+Hints 1 and 2 should shorten the course
+for you significantly. 
+
+Also, you don't need to use every path.
+!******************************!

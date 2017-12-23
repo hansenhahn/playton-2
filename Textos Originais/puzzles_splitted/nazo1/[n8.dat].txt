@@ -1,0 +1,58 @@
+<0009>Stacked Glasses
+<00><0A><08><06><12><0B><02><08><E8><03><02><FF>
+The owner of a four-star restaurant
+assigns a young waiter the task of stacking
+glasses in a decorative way. Eager to
+please, the waiter immediately draws five
+separate designs and shows them to the
+owner. The owner takes one glance at the
+designs and, with a look of irritation, turns
+to the boy and cries, <''>This design is
+preposterous! What were you thinking?<''>.
+
+Which of the five designs is the owner
+talking about?
+!******************************!
+Exactly right!
+
+The restaurant owner was talking about
+sketch D. If you look closely, you can see
+that the first and second row of glasses
+couldn't possibly be arranged in the
+manner depicted.
+
+The simple 2D sketch didn't take into
+account the rim of the glass.
+
+!******************************!
+Too bad!
+
+Why do you suppose a simple drawing made
+the restaurant owner so angry?
+!******************************!
+<''>This design is preposterous!<''>
+
+The owner wasn't angry because the
+design in question was hard to assemble.
+He was upset because the design was
+physically impossible to replicate in
+real life.
+
+
+
+
+!******************************!
+A and C could probably be achieved with
+steady hands and a lot of patience.
+
+That leaves B, D and E.
+!******************************!
+There is one design that can be drawn
+in 2D but, in reality, stacks the
+glasses in an impossible way.
+
+On paper, each cup is represented by a
+single U-shaped line, but real glasses
+have more to them than that, namely
+sides and a rim on top.
+!******************************!

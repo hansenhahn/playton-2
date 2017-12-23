@@ -1,0 +1,32 @@
+<0170>A Sure Win
+<00><00><00><00><11><01><1A><A7><00><04><02><FF>
+In this game, players take turns moving
+stones one space up, down, left, right or
+diagonally to an open space. The goal is
+to line up three of your stones, as in
+noughts and crosses. Based on the board
+layout below, there is one move that white
+can make to ensure victory in the following
+turn.
+
+Make that move and touch #rSubmit#x.
+!******************************!
+Brilliant!
+
+Did you see the answer right away?
+!******************************!
+Too bad!
+
+Try again!
+!******************************!
+In this setup, black is one move away
+from victory. If you don't block black's
+winning move, you will lose.
+
+Can you see now where a white stone
+needs to go?
+!******************************!
+
+!******************************!
+
+!******************************!

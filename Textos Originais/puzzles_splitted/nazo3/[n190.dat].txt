@@ -1,0 +1,41 @@
+<0193>The Cleaning Robot
+<00><00><00><00><11><01><05><BE><EB><03><02><FF>
+Scientists in a research lab have built a
+robot to clean the long corridors. Because
+the robot isn't quite complete yet, it can
+be programmed to turn only right or only
+left. The specific corners where it turns
+can also be programmed.
+
+The scientists want to give the robot a
+route so that it cleans every part of the
+hallway, but doesn't clean any part of the
+hallway twice. From which point should they
+start the robot? Choose from A-E and
+circle your answer. The robot can move
+through intersections twice.
+!******************************!
+Affirmative!
+
+The robot starts from point E and should be
+programmed to turn only right. It could also
+be programmed for left-only turns if it
+starts at the end of the route shown here.
+However you program it, it sounds like a
+difficult robot to use! 
+!******************************!
+Too bad!
+
+Starting from there won't do the trick.
+!******************************!
+You should try as many routes as
+possible. If you really can't work it
+out, there's one place that's a little
+different from the others.
+
+That's the spot!
+!******************************!
+
+!******************************!
+
+!******************************!

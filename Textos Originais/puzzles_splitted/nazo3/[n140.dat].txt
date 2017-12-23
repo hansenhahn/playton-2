@@ -1,0 +1,51 @@
+<0143>Letter Calculations
+<00><3C><36><30><12><01><1A><8C><00><04><03><FF>
+If you take the problem 11 x 11 = 121 and
+replace the 1s with As and the 2s with Bs,
+you get AA x AA = ABA.
+
+A similarly-generated letter equation would
+be AA x AA = BBCC. Can you work out what A,
+B and C equal in the above equation? The
+values of A and B may or may not have
+changed from the first example.
+!******************************!
+Sharp thinking!
+
+88 x 88 = 7744
+
+The numbers work out perfectly if you
+assign A a value of 8, B a value of 7 and
+C a value of 4.
+
+This equation may seem daunting at first,
+but if you bear in mind that the
+potential values of A are limited,
+everything starts coming together
+
+!******************************!
+Too bad!
+
+Try running through your calculations
+one more time.
+!******************************!
+Each letter is represented by a single-
+digit,  so the possibilities for
+each letter represents are fairly
+limited.
+!******************************!
+If you start by replacing A with 1 and
+work your way through all the other
+possible digits for A, you'll find your
+answer before long. What's more, if you
+use a calculator, trying out every
+possibility will take only a minute or two.
+
+But if you can, try to solve it just
+using your head.
+!******************************!
+Try substituting each digit for A and
+working your way up, as detailed in
+Hint 2. You'll find the answer in the
+last half of your search. 
+!******************************!

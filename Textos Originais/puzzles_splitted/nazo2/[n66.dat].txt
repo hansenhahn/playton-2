@@ -1,0 +1,49 @@
+<0067>Sammy's Working Week
+<00><28><24><20><51><24><16><42><F6><03><04><FF>
+<''>So, let's say today is my day off. If
+yesterday wasn't also a day off, then I'm
+off again tomorrow. If, on the other hand,
+I was off yesterday, then tomorrow I'll
+have to work. Now, let's say I worked today.
+What a drag. If I didn't work two days
+before today, I'll have to head to work
+tomorrow. But if I did work two days ago,
+I'm off tomorrow. Yeow!<''>
+
+Assuming a standard 365-day year and
+ignoring weekdays and holidays, use what
+Sammy told you to work out the number of
+days he works in a year.
+!******************************!
+Score!
+
+Sammy's lengthy and convoluted explanation
+may have been hard to understand, but his
+work schedule is simple. He works three
+days in a row, rests for two, and then
+repeats the pattern. Put a different way,
+Sammy works three out of every five days.
+3/5ths of a 365-day year gives you 219
+work days per year.
+
+That's a pretty sweet deal he's got
+going on.
+!******************************!
+Too bad!
+
+See if you can't organise Sammy's rambling
+description into something a little easier
+to understand.
+!******************************!
+Sammy's work and rest schedule repeats
+itself every five days.
+!******************************!
+Sammy's schedule is a cycle that
+consists of three days on the job
+followed by two days off.
+!******************************!
+Sammy works 3/5 of the days in the
+year. With that fact under your belt,
+you should be able to find the answer
+using a simple calculation.
+!******************************!

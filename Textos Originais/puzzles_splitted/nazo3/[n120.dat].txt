@@ -1,0 +1,60 @@
+<0120>Tug of War
+<00><1E><1B><18><12><40><03><78><E9><03><04><40>
+Teams of horses are participating in
+tug-of-war matches. All teams are drawn
+from an eight-horse stable. The first three
+matches end in draws as shown:
+
+Match 1: A B C D vs. E F G H
+Match 2: H C B vs. G A
+Match 3: D A vs. F H E
+
+If you want the fourth match to result in a
+draw as well, which horses should be on the
+team pulling against E and F?
+
+Touch a horse to add it to the team.
+!******************************!
+Well done!
+
+Of course, other match-ups might work, but
+the only one you can be sure will end in a
+tie based on this information is horse D.
+!******************************!
+Too bad!
+
+Use the results of the earlier matches
+to find the correct team.
+!******************************!
+There's no need to do any complicated
+calculations. The same horses compete
+several times, and since a tie means the
+teams are equal, think about what might
+happen with different matchups.
+!******************************!
+You can think about the results of the 
+first and third matches in the following
+way:
+
+A B C D = E F G H
+D A = F H E
+
+Subtract the bottom equation from the
+top equation and you can come up with
+the following:
+
+B C = G
+!******************************!
+Take the information from Hint 2 and the
+results of the second match together
+to infer the following:
+
+H C B = G A
+B C = G
+
+Subtracting one from the other gives:
+
+H = A
+
+Use this to make a new team.
+!******************************!

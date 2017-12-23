@@ -1,0 +1,43 @@
+<0033>Fishing Net
+<00><14><12><10><12><21><16><20><F6><03><03><FF>
+A large net has been cast out in a pond to
+catch some fish. The pond's surface is small,
+but it's actually wider underwater, so parts
+of the sunken net are no longer visible
+from the surface.
+
+Assuming that there are no tears in the net
+and that the whole rim of the net is
+constructed of a single length of rope that
+ends on the shore, how many of the fish
+visible in the pond will be caught when the
+net is pulled up?
+!******************************!
+That's right!
+
+To solve this puzzle, you need to imagine
+how the unseen parts of the net connect,
+which should look something like the
+illustration above.
+
+As you can see, the net will catch a
+total of seven fish.
+!******************************!
+Too bad!
+
+Are you sure you're counting them
+correctly?
+!******************************!
+Why not try sketching the parts of the
+net that you can't see?
+!******************************!
+When fully drawn out, the net is one
+strange and complicated shape.
+!******************************!
+Since the rim of the whole net is
+fashioned from a single piece of rope
+with no tears, take the drawing you
+did for Hint 1 and count the number
+of fish on the inside of the net.
+There's your answer.
+!******************************!

@@ -1,0 +1,49 @@
+<0135>The Magic Lock
+<00><32><2D><28><11><58><1A><CD><00><04><04><FF>
+It seems that the lock here is some sort of
+magic square. In order to solve it, position
+the remaining numbers so that each string
+of four vertical, horizontal and diagonal
+numbers adds up to the same total.
+
+Solve the magic square to open the hatch!
+!******************************!
+Very nice!
+
+Each horizontal, vertical and diagonal line
+of four tiles adds up to 18 when placed in
+the correct positions.
+
+Now, onward to freedom!
+!******************************!
+Too bad!
+
+At least one string of four numbers isn't
+adding up to the same total as all the
+others.
+!******************************!
+You're out to make each horizontal,
+vertical and diagonal line of four
+numbers equal the same number, so first
+you need to find that number.
+
+The total is there for you to find, so
+just examine the square until you see it.
+!******************************!
+One diagonal string of numbers appears
+to be in place already. The numbers
+within it add up to 18.
+!******************************!
+Now that you know each string of
+numbers needs to add up to 18, all you
+need to do is fill in the blank spaces
+with the correct tiles. As you start
+filling in spaces on the square, you'll
+be left with fewer and fewer squares
+to work with.
+
+Lay down a line, make sure it totals 18
+and then keep on working with what
+you've got. You'll make your way to the
+solution sooner or later.
+!******************************!

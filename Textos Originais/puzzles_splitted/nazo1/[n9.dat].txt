@@ -1,0 +1,44 @@
+<0010>A Work of Art
+<01><0F><0D><0B><12><0B><16><09><F6><03><02><FF>
+The drawing below is made up of curved lines
+that intersect to create sections. If you
+want to colour in the entire canvas so that
+no section touches a section of the same
+colour, what's the fewest number of colours
+you can use?
+You can use a colour as many times as you
+like as long as it doesn't touch a section
+with the same colour.
+
+Once you have your answer, touch
+#rInput Answer#x and enter the number of
+colours. 
+
+!******************************!
+That's right!
+
+You'll need three colours to fill in the
+drawing. Most of the drawing can be done
+with two colours, but one pesky area in
+the bottom-left corner requires a third
+colour to complete.
+!******************************!
+Too bad!
+
+Think about it and have another shot.
+!******************************!
+There's no trick here.
+
+You might have an easier time if you
+use the Memo Function to mark sections
+of the drawing.
+!******************************!
+Why don't you take a closer look at
+the corners of the drawing?
+!******************************!
+You can complete most of the drawing
+using only two colours, but did you
+notice there's one pesky area down in
+the bottom-left corner that requires
+an additional colour?
+!******************************!

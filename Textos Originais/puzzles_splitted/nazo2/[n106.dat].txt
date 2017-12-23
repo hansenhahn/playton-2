@@ -1,0 +1,40 @@
+<0107>The Knight's Tour 2
+<00><32><2D><28><01><35><11><6A><F7><03><04><41>
+Lead the knight on a trip around the board.
+
+Chess knights move two squares forwards
+and one square perpendicular on each
+turn. The initial direction can be up,
+down, left or right.
+
+Move this knight around the entire board,
+landing on each square only once. 
+
+!******************************!
+Well done!
+!******************************!
+Too bad!
+!******************************!
+There are multiple solutions to this one,
+so before you start busting your brain,
+try moving things around according to
+your own set of rules. It beats just
+shuffling the piece around randomly.
+
+!******************************!
+As a general plan of attack, start by
+travelling around the perimeter of the
+board and, once you feel the time is
+right, head in towards the centre of
+the board.
+
+By the way, this is the last hint for
+this puzzle. Hint 3 is just trivia.
+!******************************!
+This is an example of a knight's tour
+puzzle. These puzzles are classics, but
+the depth and elegance of their
+solutions have kept them fresh for
+generations.
+
+!******************************!

@@ -1,0 +1,39 @@
+<0150>The Knight's Tour 4
+<00><63><51><48><02><01><11><93><F7><03><04><FF>
+Lead the knight on a trip around the board.
+
+Chess knights move two squares forwards
+and one square perpendicular on each turn.
+The initial direction can be up, down, left
+or right.
+
+Move this knight around the entire board,
+landing on each square only once. 
+
+!******************************!
+Wonderful!
+!******************************!
+Too bad!
+!******************************!
+This board is 8 x 8, just like an ordinary
+chessboard. That means this puzzle is
+just like the original Knight's Tour.
+
+There are no hints to be had here!
+Just work it out on your own.
+!******************************!
+The Knight's Tour usually involves
+returning the knight to the starting
+space at the end of the tour. If you're
+trying to accomplish this, then choosing
+the correct starting space is very
+important. Why not use the Memo
+Function to help you?
+!******************************!
+There are many avid chess researchers
+in Europe and the US who write detailed
+papers with elegant solutions to chess
+puzzles. Looking through resources like
+these is one more way of enjoying chess
+puzzles.
+!******************************!

@@ -1,0 +1,62 @@
+<0109>Walking the Dog
+<00><32><2D><28><11><40><16><6C><F6><03><04><1B>
+A young girl takes her dog out for a walk
+with her dad. The girl starts walking with
+the dog on a leash 10 seconds before the
+dad starts. The second the dad steps out,
+the girl takes the dog off the leash and
+the dog runs over to the dad. Upon reaching
+him, the dog turns around and heads for the
+girl. The dog keeps doing this until the dad
+catches up with the girl. If the dog moves
+at five metres per second, the father at
+two metres per second and the daughter at
+one metre per second, how far does the dog
+run by the time the dad catches up to his
+daughter?
+!******************************!
+Perfect!
+
+The dog will have run 50 metres in total.
+
+The dog runs for the entire time it takes
+for the father to catch up with his
+daughter. Since the daughter has a 10
+metre head start and her dad gains on her
+at a rate of one metre per second, he'll
+catch up in 10 seconds. The dog is running
+at a rate of five metres per second, so
+the answer must be 50 metres.
+!******************************!
+Too bad!
+
+Are you sure you aren't overthinking this
+one?
+!******************************!
+Puzzles with long explanations often
+have traps hidden in their phrasing.
+Try not to get caught out.
+
+The dad moves at two metres per second
+and the daughter moves at one metre
+per second, so for every second that
+passes, the distance between the two
+shrinks by one metre.
+!******************************!
+The father sets out 10 seconds after
+his daughter. The daughter walks at a
+rate of one metre per second, so she's
+already 10 metres ahead of her father
+when he starts walking.
+
+Using what you know from this hint and
+the last one, you should be able to
+work out that the father catches up to
+his daughter in 10 seconds.
+!******************************!
+The dog runs at a rate of five metres
+per second.
+
+The father catches up to his daughter
+in exactly 10 seconds.
+!******************************!

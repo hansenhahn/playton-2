@@ -1,0 +1,54 @@
+<0020>The Shoe Shop Thief
+<01><19><16><13><11><0A><16><13><F6><03><02><FF>
+A woman in a shoe shop pays for a <po>30 pair
+of shoes with a <po>50 note. The salesman
+doesn't have enough change, so he goes to
+the shop next door to break the <po>50 note,
+returns to his shop and gives the woman her
+change. A while later, the shopkeeper from
+next door storms into the shoe shop.
+It turns out that the note he gave her was
+a fake! The mortified shoe salesman gives
+the shopkeeper <po>50 from the till to
+apologise. Neither the customer nor the
+shoes she took are found.
+
+In total, how much did the shoe shop lose?
+!******************************!
+Well done!
+
+The shoes the customer made off with
+cost <po>30, and the change the salesman
+gave her cost him another <po>20, bringing
+his total losses to <po>50.
+
+The salesman received <po>50 of real money
+in exchange for the fake note from the
+shopkeeper next door, and then gave her
+<po>50 back when she discovered the note he
+gave her was fake. These last two
+transactions cancel each other out.
+!******************************!
+Too bad!
+
+Think hard about the puzzle and try again.
+!******************************!
+Had the shoe salesman not gone next
+door to get change, he might never have
+realised he lost money.
+
+How much would he have lost if he had
+the change in the till?
+!******************************!
+Since he used a fake note, the change
+the salesman got from next door was
+essentially <''>money for nothing<''>.
+He gained <po>50.
+
+In returning the money, he later lost
+<po>50.
+!******************************!
+The sneaky customer ended up getting
+away with shoes costing <po>30, as well as
+<po>20 in change.
+!******************************!

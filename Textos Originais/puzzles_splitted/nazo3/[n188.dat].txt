@@ -1,0 +1,32 @@
+<0191>Pattern Recognition
+<00><00><00><00><11><01><02><BC><E8><03><02><FF>
+Which pattern matches the one in the
+top-left corner? Is it A, B or C?
+
+The top-left pattern has had its contents
+flipped left to right and its colours
+inverted and changed to black and white.
+!******************************!
+Good eye!
+
+The answer is B. The areas circled in A and C
+are different from the black-and-white
+pattern.
+!******************************!
+Too bad!
+
+Look very closely!
+!******************************!
+First try looking at the centres of the
+patterns.
+
+The really hard part is the difference
+in the triangles around the edges.
+Look closely at the shades of grey!
+
+
+!******************************!
+
+!******************************!
+
+!******************************!

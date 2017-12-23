@@ -1,0 +1,44 @@
+<0186>Three Ladies
+<00><00><00><00><51><01><1A><B7><00><04><02><FF>
+Can you work out the names of each of
+these three ladies?
+A :<''>The woman next to me is Judy.<''>
+B: <''>I'm Ellie. Pleasure to meet you!<''>
+C: <''>The woman next to me? Her name's Anna.<''>
+
+Keep track of what each lady said to help
+you deduce their names. There's a catch,
+though. While Judy is always truthful,
+Ellie occasionally lies and Anna tells
+fibs every chance she gets.
+Arrange the nameplates at the bottom of
+the screen so that each plate correctly
+labels its owner.
+!******************************!
+That's right!
+
+A is Ellie, B is Anna and C is Judy.
+
+A says that B is Judy, so you know that
+A can't be our honest friend Judy.
+B claims to be Ellie, so we know this
+person can't be Judy either.
+
+Therefore, you know that C must be Judy,
+and if that's so, B must be Anna.
+With everyone else now identified, you
+can be sure that A is Ellie.
+!******************************!
+Too bad!
+
+Think logically about the clues you've been
+given.
+!******************************!
+The other two ladies keep talking about
+B. Who could she possibly be? Remember
+that Judy never lies.
+!******************************!
+
+!******************************!
+
+!******************************!

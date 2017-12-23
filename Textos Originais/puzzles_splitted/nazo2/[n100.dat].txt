@@ -1,0 +1,44 @@
+<0101>Disappearing Act 1
+<00><1E><1B><18><01><29><1D><8A><02><04><04><FF>
+Here's a classic puzzle. The rules are
+simple. You can move any ball on the
+board below as long as it satisfies the
+following conditions:
+<->To move, jump your selected ball over an
+adjacent space occupied by another ball
+into an empty space on the other side.
+You can't jump diagonally.
+<->Once you've made the jump, the ball you
+jumped over disappears from the board.
+<->To complete the puzzle, you must remove all
+balls from the board except for one.
+
+OK, enough rules. Try it for yourself!
+!******************************!
+Well done!
+
+This is one configuration of a puzzle known
+as peg solitaire. As the name suggests, the
+traditional version of this game is played
+with pegs that you insert into holes in the
+game board.
+!******************************!
+Too bad!
+!******************************!
+To make the first of the balls disappear,
+jump the ball in the centre of the
+cross over the ball to its immediate left
+or right.
+!******************************!
+Move the ball at the very bottom into
+the space formerly occupied by the
+centre ball.
+
+With just a few balls to go now, you
+should be able to sail through the rest
+of this puzzle.
+!******************************!
+With puzzles of this type, your first
+move will often determine whether or
+not you'll be able to solve the puzzle.
+!******************************!

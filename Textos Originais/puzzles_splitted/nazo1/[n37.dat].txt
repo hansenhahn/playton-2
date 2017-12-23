@@ -1,0 +1,71 @@
+<0038>Four Horses
+<00><23><1F><1B><32><20><16><25><F6><03><03><08>
+You have four horses, all of which travel at
+different speeds. In travelling from point A
+to point B, these horses take one, two, four
+and six hours respectively.
+
+One day, you decide to move all your horses
+from point A to point B. However, you can
+only move a maximum of two horses at a time,
+and you need to ride a horse back to
+point A each time you return to move your
+other horses. Knowing you can only move as
+fast as the slowest horse you're travelling
+with, what's the fewest number of hours it
+will take to move all the horses?
+!******************************!
+That's right!
+
+To start, take your one- and two-hour
+horses. Then ride your one-hour horse
+back. Next, ride out on your four- and
+six-hour horses, and return on your
+two-hour horse. At this point you've been
+moving horses for 11 hours - three in the
+first excursion, and eight in the next.
+
+Now you should be back at point A with your
+one- and two-hour horses. Ride them both
+across to point B to finish the task in 
+13 hours.
+!******************************!
+Too bad!
+
+Think hard about what the puzzle is asking
+you to do.
+!******************************!
+When crossing back over from B to A, you
+want to move as quickly as possible, so
+make sure you put yourself in a position
+to cross over to A on the one-hour
+horse when possible.
+
+However, if you always make travelling
+back on your one-hour horse your top
+priority, you may end up wasting time on
+other legs of the journey. Don't assume
+you always need to return from B to A
+on the one-hour horse.
+!******************************!
+In order to move all your horses from
+A to B in the shortest amount of time,
+you'll need to cross over from A to B
+three times and return from B to A
+twice.
+
+How do you make the most effective use
+of this limited number of crossings?
+!******************************!
+First, bring your one-hour and two-hour
+horses over to B, then return to A on
+your one-hour horse.
+
+Next, bring your four- and six-hour
+horses over to B and return to A on
+your two-hour horse.
+
+This method minimises the overall amount
+of time necessary to move all your
+horses to point B.
+!******************************!

@@ -1,0 +1,62 @@
+<0139>Coast to Coast
+<00><46><3F><38><72><01><16><88><F6><03><02><FF>
+A woman boards a non-stop flight leaving Los
+Angeles at 12:00 and arrives in New York at
+20:00. The next day, the same woman leaves
+New York at 12:00 and flies back to Los
+Angeles. The flight is unaffected by jet
+streams and takes the same amount of time
+to reach its destination as it did the
+previous day. The time difference means it
+is always three hours later in New York
+than in Los Angeles. Can you work out what
+time the plane arrives back in Los Angeles?
+#rGive your answer in 24-hour notation.#x
+!******************************!
+Good job!
+
+The plane arrives back in Los Angeles at
+14:00.
+
+Due to the three-hour time difference,
+when it's 12:00 in Los Angeles, it's 15:00
+in New York. The plane gets into New York at
+20:00, so the duration of the flight must be
+five hours. The flight back to Los Angeles
+also takes five hours, meaning that it
+arrived at 17:00 New York time. Factor in
+the time difference to get the plane's
+arrival in Los Angeles: 14:00.
+!******************************!
+Too bad!
+
+Factoring in that bothersome time
+difference can be tricky, but as long as
+you remember to account for it, you'll
+arrive at the correct answer without too
+much work.
+!******************************!
+Think about the rotation of the Earth.
+The time in locations farther to the
+east is ahead of that of more western
+locales.
+
+Therefore, given a three-hour time
+difference, when it's 12:00 in
+Los Angeles, it must be 15:00 in New York.
+!******************************!
+Taking into account the time difference,
+the plane left Los Angeles at 15:00
+New York time and landed at 20:00.
+Therefore, the flight itself must have
+taken five hours.
+!******************************!
+The time difference has the reverse
+effect on the flight returning to Los
+Angeles.
+
+If the plane to Los Angeles left New
+York at noon New York time, you could
+also say it left New York at 09:00
+Los Angeles time.
+!******************************!

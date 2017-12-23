@@ -1,0 +1,38 @@
+<0057>Smell the Roses
+<00><1E><1B><18><11><0D><18><38><FE><03><02><FF>
+Ah, there's nothing like freshly-cut roses
+to boost your spirits. Can you help Sammy
+freshen up the whole carriage with their
+fragrance?
+
+Touch a square with your stylus to place a
+rose. The fragrance of each rose reaches
+two squares in all directions, but can't
+penetrate walls. If the fragrance of two or
+more roses overlap, the resulting smell will
+be overpowering, so make sure to keep your
+roses spaced out. Touch an existing rose
+to remove it.
+!******************************!
+Well done!
+
+Five roses were just enough to freshen up
+the carriage.
+!******************************!
+Too bad!
+
+Did you make sure to space those roses far
+enough apart to keep their scents from
+overlapping?
+!******************************!
+Here's a handy hint.
+
+Start from the corners of the carriage.
+!******************************!
+Place a rose in the bottom-right corner
+of the carriage, then think about where
+everything else needs to go.
+!******************************!
+To solve this puzzle, you need to put
+roses in five different spots.
+!******************************!

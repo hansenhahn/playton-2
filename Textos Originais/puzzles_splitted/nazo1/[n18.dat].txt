@@ -1,0 +1,61 @@
+<0019>The Train Journey
+<01><14><12><10><12><09><16><12><F6><03><02><FF>
+A number of people are on a train. At the
+first station the train pulls into, 1/6 of
+the people on board get off. At the next
+station, 1/5 of the remaining passengers
+get off. This pattern continues so that at
+the next station 1/4 get off, then 1/3 and
+then 1/2. Then, at the final station, all
+remaining passengers get off the train.
+
+Assuming no one got on the train during the
+journey, what is the lowest number of
+people who could have been on the train
+when it set out?
+!******************************!
+Good work!
+
+If you assume the train started out with
+six passengers, then only one person
+would have to get off at each station.
+
+This puzzle can be really tough if you
+don't remember to reduce the number of
+people remaining on the train at each
+station along the way.
+!******************************!
+Too bad!
+
+Think hard about the information you've
+been given and try again. This puzzle comes
+together quite easily once you realise a
+certain simple principle.
+!******************************!
+Since the puzzle tells you that no one
+got on the train during the journey,
+it's safe to say that the number of
+passengers on the train never
+increased.
+!******************************!
+Since 1/6 of the passengers get off at
+the first station, you know the number
+must be divisible by six. Start by
+choosing a number that's divisible by
+six and see what happens.
+
+The principle by which this puzzle
+is solved should soon become evident.
+!******************************!
+Imagine that 30 passengers are on the
+train when it departs. At the first
+station, the train loses 1/6 of its
+passengers, meaning five people get off.
+At the next station, 1/5 of the
+remaining 25, or five people, get off.
+At the next station, 1/4 of the
+remaining 20, which is to say five more
+people, get off.
+
+Do you notice a pattern here?
+!******************************!

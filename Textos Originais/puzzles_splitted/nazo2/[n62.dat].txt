@@ -1,0 +1,40 @@
+<0063>Numbered Cards
+<00><19><16><13><12><28><1A><3E><50><04><04><2E>
+Cards labelled 1 to 6 are arranged in order
+as shown below. Rearrange them so that
+they satisfy the following conditions.
+
+1. The sum of the numbers on the top row
+must be one less than the sum of the
+numbers of the bottom row.
+2. The two cards in the right column must
+add up to five.
+3. The 5 card must be to the immediate left
+of the 4 card.
+4. The 1 card must be placed in the left
+column.
+!******************************!
+Good job!
+
+This is one of those puzzles where the
+answer becomes clear as long as you
+remember to follow the conditions you've
+been given. 
+!******************************!
+Too bad!
+
+Think hard about the conditions for this
+puzzle.
+!******************************!
+The sum of all the cards is 21.
+
+Knowing this, you can deduce that the
+top row of three cards in your solution
+should add up to 10, while the bottom row
+must add up to 11.
+!******************************!
+The 1 card belongs in the top row.
+!******************************!
+Put the 4 card in the middle column of
+cards.
+!******************************!

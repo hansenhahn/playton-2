@@ -1,0 +1,36 @@
+<0202>The Bus's Route
+<00><00><00><00><11><01><09><C7><EF><03><02><FF>
+A very large bus approaches a town.
+Since the streets of this town are so
+narrow, the bus can only turn at corners
+where there are no buildings and only
+in the direction the corner allows.
+
+The bus arrives from the south, so can you
+find the shortest route for the bus if it
+wants to exit to the east? Trace a line
+from the starting point to the goal.
+!******************************!
+Great!
+
+Following the rules of the puzzle, the route
+in map A is the quickest route.
+
+However, under ordinary circumstances, the
+bus can also go in reverse, so if it drove
+forwards, as in map B, reversed around the
+corner and then exited, that would actually
+be the quickest.
+!******************************!
+Too bad!
+
+Try a different route.
+!******************************!
+Drive until you hit a wall, then turn
+right. Keep going until you hit a wall...
+Then it's up to you to puzzle out.
+!******************************!
+
+!******************************!
+
+!******************************!

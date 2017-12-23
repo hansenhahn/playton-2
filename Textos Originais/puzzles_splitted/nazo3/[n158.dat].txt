@@ -1,0 +1,34 @@
+<0161>Stacked Dice
+<00><00><00><00><11><01><16><9E><F6><03><02><FF>
+Look at the dice stacked below. Though you
+can't see it, the faces that touch other
+dice all share the same number. If that's
+the case, which number should go on the
+question mark?
+
+Of course, all of these dice have the same
+layout of numbers.
+!******************************!
+You did it!
+
+The face in question should have a one on
+it. You needed to visualise the numbers you
+couldn't see and deduce the position of the
+last die from that.
+
+!******************************!
+Too bad!
+
+This puzzle requires visualisation and
+deduction.
+!******************************!
+It helps to know that opposite faces on
+a single die always add up to seven.
+
+Use that as the basis for your
+deduction.
+!******************************!
+
+!******************************!
+
+!******************************!

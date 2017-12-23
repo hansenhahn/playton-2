@@ -1,0 +1,34 @@
+<0197>Crazy Dice
+<00><00><00><00><11><01><16><C2><F6><03><02><FF>
+There are two dice, A and B. The pictures
+show each die from two different angles.
+Maybe the dice maker was up to no good,
+but the dots on each face are all completely
+random. You can see all the faces here, so
+if you were to roll both dice, the highest
+total you could get would be nine. 
+
+Knowing this, what is the lowest number
+you could get? Remember, only the numbers
+visible on the sides facing up count.
+
+!******************************!
+That's right!
+
+The dice don't have to be lined up like they
+are in the picture. If you position the dice
+like the picture shown here, you get the
+lowest possible number: one. Of course, it's
+not likely anyone would ever roll this
+configuration naturally...
+!******************************!
+Too bad!
+
+Try thinking of some more possibilities...
+!******************************!
+This puzzle is...a bit mean.
+!******************************!
+
+!******************************!
+
+!******************************!

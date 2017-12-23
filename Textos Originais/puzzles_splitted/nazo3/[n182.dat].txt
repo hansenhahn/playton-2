@@ -1,0 +1,34 @@
+<0185>Miscalculation
+<00><00><00><00><11><01><16><B6><F6><03><02><FF>
+Mike has always been terrible at maths.
+He's asked to multiply #ra certain
+number#x by 9, then add 7, but instead
+he multiplies by 7 and adds 9.
+
+He soon notices his error and, in a
+panic, tries the problem again. When he
+does the problem correctly, however,
+he ends up getting the same
+answer as he did the first time.
+
+What is this #rcertain number#x?
+!******************************!
+Well done!
+
+The number is one.
+
+If you do the maths, it all works out.
+!******************************!
+Too bad!
+
+The answer doesn't add up.
+!******************************!
+Try creating an equation.
+
+Then again, you might just be able to
+use intuition to guess the answer...
+!******************************!
+
+!******************************!
+
+!******************************!

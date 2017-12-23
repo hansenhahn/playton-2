@@ -1,0 +1,36 @@
+<0018>The Shoe Maze
+<00><14><12><10><11><09><17><11><FD><03><02><FF>
+Here's a maze that's made up of shoes.
+
+Your task is to travel from the start point
+to the goal. You may only travel horizontally
+or vertically one space at a time, and you
+must alternate between left and right
+shoes every step. Also, you may not pass
+through any of the walls in the maze.
+
+Touch each space one at a time to highlight
+the path you want to take. If you make a
+misstep, you can deselect that space by
+touching it again.
+!******************************!
+Good job!
+
+That was some fancy footwork!
+!******************************!
+Too bad!
+
+Did you make sure to alternate between the
+left and right shoes every step of the way?
+!******************************!
+Working backwards from the goal is a
+great tactic that can help you find
+the answer.
+!******************************!
+The solution requires you to step on
+exactly 19 squares, including the start
+point and the goal.
+!******************************!
+From the start point, begin your walk by
+taking a step to the right.
+!******************************!

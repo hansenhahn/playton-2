@@ -1,0 +1,36 @@
+<0189>The Lion's Escape
+<00><00><00><00><11><01><05><BA><EB><03><02><FF>
+
+A lion has escaped from its cage in the zoo.
+It appears that you, the zookeeper, forgot
+to lock the cage.
+
+This lion is an extremely ferocious specimen,
+and you are the only person left in the zoo.
+
+Circle the safest place to hide until help
+arrives.
+ 
+!******************************!
+Well done!
+
+You want to hide in the escaped lion's cage!
+Since you're the zookeeper, you can go in
+and lock the door.
+
+As the lion is now running around the
+zoo, hiding inside the cage is your safest
+option! 
+!******************************!
+Too bad!
+
+Try thinking about it a little bit more.
+!******************************!
+Don't look for a place where the lion
+won't find you. Instead, try looking for
+a place where the lion can't get you.
+!******************************!
+
+!******************************!
+
+!******************************!

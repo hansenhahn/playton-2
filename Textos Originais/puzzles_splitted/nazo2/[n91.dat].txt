@@ -1,0 +1,52 @@
+<0092>Precious Metals
+<00><28><24><20><11><25><17><5B><FD><03><04><FF>
+Lucky you! You've inherited a five-square
+plot of land that's rich in precious metals.
+Each chunk of copper ore has a value of
+one, each silver chunk has a value of three
+and each gold chunk has a whopping value of
+five. You're allowed to pick five squares
+of land for yourself, but the five squares
+must be connected to each other. Squares
+diagonal to one another don't count as
+connected.
+
+Your task is to claim the most valuable
+five-square plot possible. Can you do it?
+!******************************!
+You're rich!
+
+The plot of land displayed is the only one
+that acheives a value of 10, the highest
+value possible given the conditions of the
+puzzle.
+!******************************!
+Too bad!
+
+Nope, that's not it.
+!******************************!
+Gold ore is worth a whopping five times
+more than copper, so focus on claiming
+some of that.
+
+Wouldn't it be great if you could find
+a five-square plot of land with two
+pieces of gold ore on it? Sadly, that
+doesn't seem likely.
+!******************************!
+Unfortunately, no single five-square
+plot of land contains two pieces of
+gold ore.
+
+Now, it should be easy to find a plot
+that has two pieces of silver ore on
+it, but remember, your first priority
+is choosing the plot with the highest
+total value.
+!******************************!
+Copper is worth one, silver is worth
+three and gold is worth five. Given
+these values, you should be able to find
+a single plot of land worth 10. Find
+this plot and you've found your answer.
+!******************************!

@@ -1,0 +1,32 @@
+<0121>Light the Way 1
+<00><14><12><10><01><4B><1F><79><04><04><04><FF>
+Use lamps to light up the dark forest paths!
+For each lamp, assume its light reaches to
+the end of any straight road. Use the
+fewest lamps possible to light all the paths.
+
+So, where should the lamps go?
+!******************************!
+Good job!
+
+The paths were quite scary, but that was
+just because it was dark...right?
+!******************************!
+Too bad!
+!******************************!
+The fewest number of lamps you need
+is four.
+!******************************!
+The straight paths are easy enough to
+contend with because a lamp will light
+an entire straight path end-to-end.
+
+The problem is the diagonals. Think
+about how to light all the diagonal
+paths first.
+!******************************!
+You need to place lamps at the end of
+the three diagonal paths, and the last
+lamp will go on one of four possible
+corners.
+!******************************!

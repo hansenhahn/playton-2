@@ -1,0 +1,53 @@
+<0087>Different Suits
+<00><28><24><20><11><44><0A><56><50><04><04><FF>
+Below are 16 cards. There are four cards
+from each suit: diamonds, clubs, spades
+and hearts. The cards are arranged in a 4x4
+grid as shown below, and four cards have
+already been placed down.
+
+Arrange the remaining cards so that each
+vertical column, horizontal row and 
+#rdiagonal line#x of four cards contains
+one card from each suit. Touch a card to
+change its suit.
+!******************************!
+Nicely done!
+
+Did that one give your brain a workout?
+It's a great puzzle to set up with real
+cards and share with a friend.
+!******************************!
+Too bad!
+
+Check over your solution to make sure
+you didn't make any mistakes.
+!******************************!
+There's a card on the table that belongs
+to the row the heart is in, the column
+the club is in and the diagonal line the
+diamond is in. Therefore, you can safely
+conclude that this card must be a spade.
+This is the kind of logic you'll need to
+use to solve this puzzle.
+
+!******************************!
+What card do you suppose belongs in the
+bottom-left corner? This column already
+has a diamond and heart in it and
+there's a spade to the immediate right
+of this space, so the card in question
+must be a club.
+
+Knowing this, you can also fill in the
+last card in the leftmost column, which
+has to be a spade.
+!******************************!
+The card in the top-right corner is a
+spade and the one at the bottom of that
+same column is a heart.
+
+The rest of the solution is up to you,
+but it shouldn't be too hard to work
+out.
+!******************************!

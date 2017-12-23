@@ -1,0 +1,36 @@
+<0194>Cracking the Code
+<00><00><00><00><11><01><0A><BF><53><04><02><FF>
+Find the four-digit code that opens this
+safe. You can use the digits 0 to 5 in your
+answer, but each digit can only be used
+once. The small lights next to each row of
+digits are the key to finding the code, as
+they tell you how much in common that row
+has with the code. A white light indicates a
+digit that is in the code but in a different
+place in the sequence. An orange light
+indicates a digit that is in the code and in
+the correct spot. Touch the digits at the
+bottom of the screen to change them, then
+touch #rSubmit#x when you have your answer.
+!******************************!
+You cracked it!
+
+This was a rather hard puzzle, but it's
+fun when your guesses start to work out.
+!******************************!
+Too bad!
+
+This one is pretty tough...
+!******************************!
+From the lights next to the third row,
+you can tell that the four digits in the
+code are 3102. Finding the correct order
+is just a matter of checking the other
+rows, though some educated guessing
+might work just as well.
+!******************************!
+
+!******************************!
+
+!******************************!

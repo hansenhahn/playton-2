@@ -1,0 +1,42 @@
+<0046>Odd Shape Out
+<00><14><0F><0A><11><1A><05><2D><EB><03><03><FF>
+You have a box as shown below. Using the
+white cubes as standard units, the box is
+two cubes wide by three cubes long by two
+cubes tall. Two white cubes are permanently
+attached to the floor of the box.
+
+Three of the four shapes A to D shown
+below can be placed together in the box
+to fill the box to the top with no gaps.
+
+Find the shape that doesn't fit into the
+box using the conditions described above,
+and circle the letter next to it.
+!******************************!
+Sharp thinking!
+
+D is the only shape of the four that
+doesn't fit.
+
+Was it hard to visualise the shapes fitting
+into the box?
+
+!******************************!
+Too bad!
+
+Give the puzzle another try.
+!******************************!
+Think of the box as having a top layer
+and a bottom layer, and consider them
+separately.
+!******************************!
+Did you notice that shape C fits
+perfectly into the space available on
+the bottom layer of the box?
+!******************************!
+Following the information in Hint 2, all
+you have left to do is find the shapes
+that fill the remaining 2 x 3 cube space
+on the top layer. 
+!******************************!

@@ -1,0 +1,22 @@
+<0148>Eight Cards
+<00><46><3F><38><12><01><1A><91><00><04><04><FF>
+These cards, numbered 1 to 8, can be used
+to make two multiplication equations. One
+is given here, but can you work out the
+second one?
+!******************************!
+Well done!
+
+The answer is 582 x 3 = 1746.
+!******************************!
+Too bad!
+
+Perhaps you made a calculation error?
+!******************************!
+The number on the right of the equation
+has four digits, the first of which is 1.
+!******************************!
+The last digit in the answer is 6.
+!******************************!
+The single-digit multiplier is 3.
+!******************************!

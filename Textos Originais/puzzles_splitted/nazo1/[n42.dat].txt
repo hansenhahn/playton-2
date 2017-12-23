@@ -1,0 +1,39 @@
+<0043>Board Cutter 2
+<00><1E><16><13><11><1F><0F><2A><F5><03><03><06>
+Well, here we have yet another
+inconveniently-shaped board. This one's
+even more unwieldy than the last, so you
+need to cut it into two pieces that you can
+reassemble to form a rectangle.
+
+Assuming you aren't allowed to flip either of
+the pieces over once the board is cut,
+where should you make the cut in order to
+make a rectangle out of the pieces?
+!******************************!
+Very nice!
+
+Aren't these board-cutting puzzles fun?
+!******************************!
+Too bad!
+
+Give it one more try and see what develops.
+!******************************!
+Just like in the first board-cutting
+puzzle, you need to cut the board in two
+places to make a second piece. Don't
+forget, since you'll be combining these
+two pieces into a single rectangle, you
+need to make sure all the little gaps and
+protrusions in your two boards fit
+together snugly.
+!******************************!
+After you make your cuts, you won't
+need to rotate either piece to make
+them fit together as a rectangle.
+!******************************!
+One side of the rectangle is four units.
+To make a piece with that length, try
+cutting the board four units above
+or four units below a corner.
+!******************************!

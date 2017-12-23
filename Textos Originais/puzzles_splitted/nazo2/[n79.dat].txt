@@ -1,0 +1,46 @@
+<0080>The Puzzling Lift
+<00><28><24><20><02><48><19><4F><FF><03><04><FF>
+The circuit board for the lift contains a
+puzzle. According to the instructions, you
+need to make the blue and red balls switch
+places in order to restore power to the
+lift. Are you up to the task?
+!******************************!
+Good job!
+
+So, how many moves did it take you to
+complete the task? If you did it in 12
+moves, give yourself a pat on the back!
+
+Oh... Listen! Do you hear that? It sounds
+like the lift is up and running again.
+!******************************!
+Too bad!
+!******************************!
+There are several ways you could go
+about solving this puzzle. One sure-fire
+technique is to work with those
+L-shaped blocks. You can free up some
+extra room by moving these blocks so
+that they fit together neatly with
+neighbouring blocks.
+
+!******************************!
+In order to get both of those balls to
+swap places, you first need to move one
+ball out of its hole and park it
+somewhere while you move the other one.
+To do so, clear out some space by
+gathering all those L-shaped blocks
+on either the left or right side of
+the box.
+!******************************!
+If the method from Hint 2 isn't working
+for you, here's another technique you
+can try. Create space by slotting
+L-shaped blocks together to create
+rectangles. In order to do this your goal
+should be to move the L-shaped blocks
+to the opposite edges of the box before
+combining them.
+!******************************!

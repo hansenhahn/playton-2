@@ -1,0 +1,51 @@
+<0075>Sweets for Five
+<00><19><16><13><12><38><09><4A><EF><03><04><28>
+You have a box of four different kinds of
+sweets arranged in no particular order.
+Your job is to divide these treats into
+five equal portions. To do so, you need
+to make sure each portion contains the
+exact same number and variety of sweets.
+
+Got it? Good, then get started!
+!******************************!
+Sweet!
+
+The puzzle's solution is shown above.
+
+Now remember, those sweets are for
+everyone, so don't forget to share!
+!******************************!
+Too bad!
+
+Give the puzzle another try.
+!******************************!
+First, count out how many sweets you
+have. There are four types of sweet.
+You only have five of the first three
+types, but 10 of the fourth type.
+You therefore have to put two of this
+fourth type of sweet into each of the
+five portions.
+!******************************!
+Look for sweets that are one per
+portion, in other words, sweets of
+which there are only five in total.
+If you find two of these sweets next to
+each other, you can draw a line between
+them, since they can't be in the same
+portion.
+
+Start by drawing in these lines.
+!******************************!
+Do you see the three of the same kind
+of sweet in the third row? The leftmost
+two sweets there are part of a single
+portion. The third of those three
+sweets and the identical sweet directly
+below it are part of a different portion.
+
+Now that you know that much, you
+shouldn't have too much trouble
+finishing the puzzle.
+!******************************!

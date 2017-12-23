@@ -1,0 +1,49 @@
+<0090>The Unusual Fountain
+<00><14><12><10><11><34><05><59><EB><03><04><FF>
+The fountain shown below has the unusual
+ability to indicate the age of those who
+approach it.
+
+For example, if a five-year-old child were
+to approach, the fountain would fire off
+water from spouts A, B, C, D and E in that
+order. For age 15, the middle spout would
+fire, followed by spouts A to E. For
+someone aged 30, the middle spout would
+fire off three times. Given the fountain's
+method of indicating age, there's one
+utterly useless spout on the fountain.
+Find and circle this spout.
+!******************************!
+Good catch!
+
+The spout marked J is basically useless.
+A to I represent a unit of one year each,
+displaying numbers from 1-9, and the middle
+spout represents a unit of 10 years, spout
+J will never be used. 
+!******************************!
+Too bad!
+
+Think about the fountain's method of
+indicating age.
+!******************************!
+The puzzle asks for you to find a spout
+that's utterly useless, meaning the 
+spout never gets used. Which one could
+that be?
+!******************************!
+Read over the conditions that cause
+each spout to spray water, then try
+applying that knowledge. For example,
+think about how the fountain would
+indicate the ages from 10 to 20.
+!******************************!
+Spout A fires off to indicate one year,
+A and B fire for two, A, B and C for
+three, A, B, C and D for four and so on.
+
+So, if spouts A-I all firing off one
+after another are meant to indicate
+nine, then...
+!******************************!

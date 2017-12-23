@@ -1,0 +1,31 @@
+<0026>Train Swap
+<00><19><16><13><11><14><19><19><FF><03><02><03>
+Swap the positions of the two trains along
+the tracks. Move the carriages one at a
+time and make sure that the numbers by the
+side of the track match the numbers on
+each carriage.
+!******************************!
+That's right!
+
+Now hurry back to the train. It's behind
+schedule as it is!
+!******************************!
+
+!******************************!
+The first step is to get the carriages
+from the shorter train onto the top
+track.
+!******************************!
+Move the red carriage marked 1 to the
+space on the far right side of the upper
+track. After that, move all the green
+carriages to the lower track and you'll
+be able to slide that first red carriage
+into its assigned spot.
+!******************************!
+Apply the method described in Hint 2
+to move the other carriages and you'll
+have those trains switched around in
+no time!
+!******************************!

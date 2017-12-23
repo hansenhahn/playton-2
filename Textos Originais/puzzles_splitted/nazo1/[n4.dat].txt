@@ -1,0 +1,35 @@
+<0005>Luke's Trunk
+<00><1E><1B><18><12><08><1A><04><00><04><02><FF>
+Luke's belongings are all over the place
+and need to be packed away in his trunk. 
+
+Use the stylus to move objects into the
+trunk, making sure that none of them
+overlap. When everything has been placed
+neatly into the trunk, touch #rSubmit#x.
+!******************************!
+Good work!
+
+Luke should be able to close the trunk
+properly now.
+!******************************!
+Too bad!
+
+Are you sure some items aren't overlapping
+each other?
+!******************************!
+You can use little items like the
+telescope or harmonica to fill in small
+gaps later, so place the larger items in
+the trunk first. 
+!******************************!
+That unwieldy frying pan and spatula set
+go in the bottom-left corner. Luke's
+teddy bear belongs in the top-right
+corner. That should be enough to get
+you started.
+!******************************!
+The book goes in the top-left corner.
+
+You should be able to work out the rest.
+!******************************!

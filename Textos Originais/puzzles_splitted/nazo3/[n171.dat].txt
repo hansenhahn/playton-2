@@ -1,0 +1,33 @@
+<0174>A Row of Dice
+<00><00><00><00><11><01><02><AB><E8><03><02><FF>
+A number of dice are arranged in a row as
+shown below. Can you work out which of
+A to D belongs in the spot marked with a
+question mark?
+
+All the dice are arranged so that where
+one die touches another, the two faces
+that are touching have the same number on
+them. Assume all the dice are identical.
+!******************************!
+Great work!
+
+C is the correct die!
+
+Once you realise that each set of opposing
+sides on a die adds up to seven, and that
+all the touching faces are either ones or
+sixes, you can use logic to work out the
+rest.
+!******************************!
+Too bad!
+
+Think hard about the clues you've been
+given and try again.
+!******************************!
+Can you see any ones or sixes?
+!******************************!
+
+!******************************!
+
+!******************************!

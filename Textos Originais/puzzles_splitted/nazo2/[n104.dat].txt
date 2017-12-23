@@ -1,0 +1,63 @@
+<0105>Disappearing Act 5
+<00><3C><36><30><01><44><1D><8A><02><04><04><FF>
+Get ready, because this one's going to be
+rough. Just like before, you can move
+any ball on the board below as long as it
+satisfies the following conditions:
+<->To move, jump your selected ball over an
+adjacent space occupied by another ball
+into an empty space on the other side.
+You can't jump diagonally.
+<->Once you've made the jump, the ball you
+jumped over disappears from the board.
+<->To complete the puzzle, you must remove all
+balls from the board except for one.
+
+OK, enough rules. Try it for yourself!
+!******************************!
+Nicely done!
+
+One variation of this puzzle challenges the
+player to complete the puzzle in the fewest
+number of moves possible.
+
+For the purposes of this puzzle, multiple
+consecutive jumps using a single ball count
+as only one move. If you've got some time on
+your hands, why not try this puzzle again
+and see how few moves you need to
+complete it?
+!******************************!
+Too bad!
+!******************************!
+Surely it's more fun to think this one
+through on your own...
+
+...OK, fine, you can have a hint, but
+just one. Do not start off this puzzle
+by moving a ball into the centre space.
+Instead, your first goal should be to
+move things so you get rid of one of
+those four balls at the very edge of
+the shape. But where to start?
+!******************************!
+OK, OK, you can have another hint.
+
+Start by moving one of the balls three
+spaces in on the third row up. Move this
+ball down to clear one ball and then
+across to remove the ball at the bottom
+of the shape. Then move a ball in the
+third row up in the same direction as
+your last move. Next, move the ball you
+used from move one into the spot that
+just opened up.
+!******************************!
+If you follow Hint 2 and continue
+playing a little yourself, you should
+be able to arrange the remaining balls
+into a shape that's almost the same as
+the pine tree you saw in <''>Disappearing
+Act 3<''>. Use what you've learned to finish
+the rest of this puzzle.
+!******************************!

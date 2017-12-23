@@ -1,0 +1,55 @@
+<0017>The Ant's Journey
+<00><19><16><13><12><08><09><10><EF><03><02><FF>
+Busy ants work tirelessly carrying food
+back to their nest. One such ant was
+returning with food when she bumped into an
+acquaintance in front of the nest.
+
+<''>What are you playing at? Didn't you notice
+that you took the #rlongest path possible
+back to the nest#x? Think about where you're
+going next time!<''>
+
+Knowing that the ant never travelled on the
+same path twice, can you trace the route
+the returning ant walked to get to her
+nest?
+!******************************!
+That's right!
+
+Perhaps all the heavy lifting kept this little
+ant from thinking about her path home. If
+only she'd thought about where she was
+going, she could have saved herself a lot of
+walking!
+!******************************!
+Too bad!
+
+Think hard about the puzzle and try again.
+!******************************!
+When tracing out a route back to the
+nest, leave as few paths untouched as
+possible.
+!******************************!
+Assuming the top of the screen to be
+north, go south from the start point
+and then go west at the first
+opportunity.
+
+At the next junction, head north to the
+top of the map.   
+
+When you reach a T-junction at the top
+of the map, head west again. When you
+then hit a wall, take the path leading
+south.
+!******************************!
+From the point you ended up at after
+following the directions in Hint 2, head
+east at the first available point, and
+then take the next path that heads
+south.
+
+Once you get that far, the rest of the
+route should be a breeze.
+!******************************!

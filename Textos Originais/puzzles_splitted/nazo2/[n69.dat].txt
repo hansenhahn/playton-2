@@ -1,0 +1,44 @@
+<0070>Jewelled Necklaces
+<00><1E><1B><18><71><39><0F><45><F5><03><04><FF>
+<''>I have this old necklace that's not really
+to my taste anymore. I decided to sell it
+but, when I was getting it valued the other
+day, I realised something strange.
+
+Each stone is worth a different amount, but
+there's a way for me to break the necklace
+up into three smaller ones that are all
+worth the same total. Can you work out
+where to make the cuts?<''>
+!******************************!
+That's right!
+
+Each strand of gems is worth <po>2,600.
+Not a bad wedge!
+!******************************!
+Too bad!
+
+Give the puzzle another try.
+!******************************!
+You'll have a tough time if you just
+dive straight into adding up different
+strings of gems. There's an order in
+which you should proceed. Why don't you
+start by adding up the total value of
+the necklace?
+!******************************!
+The total value of the necklace is
+<po>7,800. You want to divide the necklace
+into three sections of equal value, so
+each section of the necklace in your
+solution will need to be worth <po>2,600.
+!******************************!
+No single strand will contain more than
+one of the three stones worth <po>1000 or
+more. Coincidentally, each of these three
+stones will form an end for each strand.
+
+Now all you need to work out is which
+side of each <po>1000-plus stone connects
+to another stone.
+!******************************!

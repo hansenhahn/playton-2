@@ -1,0 +1,51 @@
+<0094>Puzzling Cubes
+<00><28><1E><14><11><36><10><5D><F6><03><04><FF>
+Eight cubes have been created based on the
+flat plan shown below. These have been
+combined to build a larger cube. One of the
+eight small cubes has had the letters on
+each of its faces erased. The big cube has
+been constructed in such a way that all of
+the smaller cubes' faces that aren't visible
+are pressed against the same-lettered face
+of another cube.
+
+Knowing this, can you work out what letter
+belongs on the face the arrow is pointing
+to? Your answer will be one letter, from
+A to F.
+!******************************!
+That's right!
+
+The correct letter is B.
+
+Whew. That was a tough puzzle, wasn't it?
+!******************************!
+Too bad!
+
+Don't just take a guess and run with it!
+You need to logically work your way towards
+the answer. It's that kind of puzzle.
+
+!******************************!
+The answer to this puzzle won't simply
+pop into your head when you make some
+key realisation. You need to work your
+way to it.
+
+Three different cubes are touching
+three different faces of the cube in
+question. Find the letters that must
+be on those faces of the unmarked cube.
+
+!******************************!
+If the unmarked cube had its faces
+restored, all four letters on the right
+side of the big cube would be Cs. Note
+how all four Cs don't point the same way.
+!******************************!
+Did you work out which letters are
+on the hidden faces of the unmarked
+cube?
+They are A, D and E.
+!******************************!

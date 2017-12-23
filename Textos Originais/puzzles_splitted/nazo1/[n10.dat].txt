@@ -1,0 +1,42 @@
+<0011>Trees in the Forest
+<00><14><12><10><12><12><09><0A><EF><03><02><FF>
+The forest below contains four different
+types of trees. Use the stylus to divide the
+forest into four sections, each containing
+one of each type of tree.
+!******************************!
+Very nice!
+
+Now take a moment to admire the gorgeous
+scenery!
+!******************************!
+Too bad!
+
+Don't panic if you get stuck. Just look for
+areas where all four types of trees are
+connected one after the other.
+!******************************!
+If you find two of the same type of tree
+next to each other, then you know that
+those two trees must be separated by a
+line.
+
+That should get you started.
+!******************************!
+Let's focus on the trees in the
+bottom-left part of the picture. If you
+drew lines according to the information
+in Hint 1, this section of the picture
+should be easy to work out. The section
+you create should have an L shape.
+!******************************!
+The tree in the top-left corner and
+the one to its immediate right belong
+to different sections. The same goes
+for the tree in the top-right corner
+and the one directly below it.
+
+Use these hints as stepping stones to
+solve the rest of the puzzle.
+
+!******************************!

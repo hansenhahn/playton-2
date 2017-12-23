@@ -1,0 +1,38 @@
+<0048>Who's Mr Anderson?
+<00><19><16><13><11><1D><05><2F><EB><03><03><FF>
+<''>I just saw Mr Anderson around here a
+minute ago. He shouldn't be too hard to
+spot, what with that beard and hat. Yup,
+he's a real gentleman, and he always looks
+smart with his cane and that dapper little
+bow tie. Oh, and he doesn't wear glasses,
+in case you're wondering. Look, there he is
+now!<''>
+
+Using the clues in the above statement, can
+you find and circle Mr Anderson in the
+crowd?
+!******************************!
+Good eye!
+
+It looks like the wind tried to carry off
+Mr Anderson's hat!
+!******************************!
+Too bad!
+
+Think hard about the clues you've been
+given and try again.
+!******************************!
+Keep in mind that all this information is
+describing Mr Anderson as he was
+<''>a minute ago<''>.
+
+Things can change, so don't rely too
+heavily on the description. 
+!******************************!
+The wind in Dropstone seems
+exceptionally strong today.
+!******************************!
+<''>Over there! See the guy chasing after
+his hat? That's him!<''>
+!******************************!

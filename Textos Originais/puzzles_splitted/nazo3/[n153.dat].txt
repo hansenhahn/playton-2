@@ -1,0 +1,37 @@
+<0156>Tile Equation
+<00><00><00><00><12><01><1A><99><00><04><02><FF>
+Below is an addition equation using tiles
+numbered 0 to 9. There's just one small
+problem: the equation doesn't add up!
+Move the tiles to make the equation work.
+Only the answer involving the fewest number
+of moves will be accepted.
+!******************************!
+That's right!
+
+Since the puzzle asks you to answer with
+the fewest number of moves possible, the
+only correct solution is to swap the 0
+with the 2 and the 5 with the 6.
+
+Of course, if you could rotate the tiles,
+there's a solution that requires even fewer
+moves. Perhaps you'd like to look for that
+one as well?
+!******************************!
+Too bad!
+
+Did you make a calculation mistake?
+Or perhaps there's an answer that
+requires fewer moves than you used?
+!******************************!
+There are plenty of solutions if you
+were free to make lots of moves, but
+you need the answer involving the
+fewest moves. Also, only numbers in the
+two right-most columns move.
+!******************************!
+
+!******************************!
+
+!******************************!
