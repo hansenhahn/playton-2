@@ -216,199 +216,196 @@ este mistério.
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:11>Com certeza.
 !******************************!
 [t21_023_350.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:116>I think we finally have a good
-grasp of this train's layout.<W>
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:116>Acho que finalmente temos
+uma boa ideia do desenho do trem.<W>
 !------------------------------!
-It's high time we began our
-investigation proper.
+É hora de começarmos nossa 
+investigação.
 !******************************!
 [t21_023_400.gds]
-<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:32>OK, Professor, let's get to it!
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:32>Certo, Professor, vamos lá!
 !******************************!
 [t21_024_100.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:56>Hmm... I think you've stumped me
-this time, Professor.
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:56>Humm... acho que você me
+pegou desta vez, Professor.
 !******************************!
 [t21_024_200.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:85>Cheer up, Luke. It happens to the
-best of us. You can try again
-later if you like.
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:85>Anime-se, Luke. Acontece com
+os melhores. Você pode tentar mais
+tarde se quiser.
 !******************************!
 [t21_024_300.gds]
-<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:180>Oh, I'm already cheery. How could
-I not be with scenery like this to
-look at?<W>
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:180>Oh, eu estou animado. Como não
+estar com um cenário desses?<W>
 !------------------------------!
-It's so nice out here that I almost
-forgot we're supposed to be
-searching for the Elysian Box.
+Está tão bom aqui fora que quase
+esqueci que deveríamos estar procurando
+pela Caixa Elísia.
 !******************************!
 [t21_024_400.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:123>I can't say I blame you, Luke.
-But that box led poor Andrew
-to his death. <W>
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:123>Não culpo você, Luke. Mas aquela caixa
+levou o pobre Andrew a morte.<W>
 !------------------------------!
-Come what may, I will solve this
-mystery.
+Não importa como, irei resolver
+este mistério.
 !******************************!
 [t21_024_420.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:11>Of course.
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:11>Com certeza.
 !******************************!
 [t21_024_450.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:122>I think we finally have a good
-grasp of this train's layout.<W>
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:122>Acho que finalmente temos
+uma boa ideia do desenho do trem.<W>
 !------------------------------!
-I think it's high time we began
-a proper investigation.
+É hora de começarmos nossa 
+investigação.
 !******************************!
 [t21_024_500.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:32>OK, Professor, let's get to it!
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:32>Certo, Professor, vamos lá!
 !******************************!
 [t21_030_100.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:79>It looks like there's finally
-some room for us in the dining
-car, Professor.
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:79>Parece que finalmente vagou um lugar
+para nós no vagão-restaurante,
+Professor.
 !******************************!
 [t21_030_1000.gds]
-<01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:50>Feh! Get that mess out of my sight
-this instant!
+<01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:50>Meh! Tire essa bagunça da minha frente
+agora mesmo!
 !******************************!
 [t21_030_1100.gds]
-<01:0000000E><03:8>b2 weep<03:5>NONE<01:00000002><03:57>But of course. I-I'm very sorry
-to have displeased you.
+<01:0000000E><03:8>b2 weep<03:5>NONE<01:00000002><03:57>É claro. S-sinto muito
+em ter lhe aborrecido.
 !******************************!
 [t21_030_1200.gds]
-<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:103>And another thing! Look at these
-vases and that picture! Talk about
-tacky! Replace them immediately!
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:103>E mais uma coisa! Olhe estes vasos e
+aquele quadro! Que coisa mais brega!
+Troque-os imediatamente!
 !******************************!
 [t21_030_1300.gds]
-<01:0000000D><03:8>b1 weep<03:5>NONE<01:00000002><03:71>But, sir, that piece is a
-quintessential work by the
-world-renowned-
+<01:0000000D><03:8>b1 weep<03:5>NONE<01:00000002><03:71>Mas, senhor, aquele quadro é um
+trabalho quintessencial do
+mundialmente renomado-
 !******************************!
 [t21_030_1400.gds]
-<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:85>I don't care if the Queen of
-England painted it! Replace it
-and be quick about it!
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:85>Não ligo se a Rainha da Inglaterra
+pintou o quadro! Troque-o e
+seja rápido!
 !******************************!
 [t21_030_1500.gds]
-<01:0000000D><03:8>b1 weep<03:5>NONE<01:00000002><03:67>O-of course, sir. I'll start making
-the arrangements immediately.
+<01:0000000D><03:8>b1 weep<03:5>NONE<01:00000002><03:67>C-certamente, senhor. Farei
+a troca agora mesmo.
 !******************************!
 [t21_030_1600.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:100>Isn't that the same man we saw
-earlier? I don't think I've ever
-seen anyone so bossy.<W> And loud.
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:100>Este não é o mesmo homem que vimos
+mais cedo? Acho que nunca tinha visto
+alguém tão mandão.<W> E barulhento.
 !******************************!
 [t21_030_1700.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:105>That was, indeed, Mr Beluga.<W>
-It's a shame that picture wasn't to
-his taste. I think it's marvellous.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:105>Ele mesmo, Sr Beluga.<W> É uma pena
+que o quadro não fosse do seu agrado.
+Eu o achei maravilhoso.
 !******************************!
 [t21_030_1800.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:71>Speaking of pictures, Luke,
-I have a most intriguing puzzle
-for you.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:71>Falando em quadros, Luke, eu tenho
+um enigma desafiador para você.
 !******************************!
 [t21_030_200.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:87>I'd wager there are at least a
-few seats available now. Let's
-have a look, shall we?
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:87>Posso apostar que há alguns
+lugares disponíveis para nós agora.
+Vamos lá dar uma olhada?
 !******************************!
 [t21_030_300.gds]
-<01:0000000D><03:9>b1 smile<03:5>NONE<01:00000002><03:93>Welcome back, sirs. My deepest
-apologies for the long wait.
-Let me show you to your seats.
+<01:0000000D><03:9>b1 smile<03:5>NONE<01:00000002><03:93>Bem-vindos novamente, senhores. Minhas
+mais sinceras desculpas pela demora.
+Deixe-me mostrar seus lugares.
 !******************************!
 [t21_030_400.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:33>Great! It's finally time to eat!
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:33>Ótimo! Finalmente vamos comer!
 !******************************!
 [t21_030_500.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:25>My sentiments exactly.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:25>Digo o mesmo.
 
 !******************************!
 [t21_030_600.gds]
-<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:69>Wow, look at all these choices!
-It's enough to make my head spin!
-
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:69>Uau, olhe só todas estas opções!
+São tantas que fico até tonto só
+de olhar!
 !******************************!
 [t21_030_700.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:65>Oh, look over there.<W> There's some
-sort of commotion going on.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:65>Oh, olhe lá.<W> Parece estar
+acontecendo algum tipo de confusão.
 !******************************!
 [t21_030_800.gds]
-<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:103>You call this haute cuisine?<W> I call
-it slop!<W> Are you telling me you
-serve this to our customers?
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:103>Chama isso de alta gastronomia?<W> Eu chamo
+de gororoba!<W> Está me dizendo que você
+serve isso aos seus clientes?
 !******************************!
 [t21_030_900.gds]
-<01:0000000E><03:8>b1 weep<03:5>NONE<01:00000002><03:43>I-I'll make up some more right away,
-sir!
+<01:0000000E><03:8>b1 weep<03:5>NONE<01:00000002><03:43>I-irei fazer mais agora mesmo,
+senhor!
 !******************************!
 [t21_033_100.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:126>Expertly solved, Luke.<W>
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:126>Extraordinário, Luke.<W>
 !------------------------------!
-After a puzzle like that and a
-filling meal, I feel a rest is in
-order. Let's retire to our room.
+Após uma refeição completa e um enigma, acho
+que podemos nos dar o luxo de descansar
+um pouco. Vamos para nossa cabine.
 !******************************!
 [t21_033_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:460>Hello there! Sorry to interrupt
-your game, but there's something
-important you should know.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:460>Olá! Desculpe
+interromper seu jogo, mas há algo 
+importante que precisa saber.<W>
 !------------------------------!
-As you progress through the story,
-some puzzles will disappear from
-their original locations.<W>
+Conforme você avança na história,
+alguns enigmas irão desaparecer de
+seus locais originais.<W>
 !------------------------------!
-These puzzles are then moved to
-Granny Riddleton's shack, where
-they can be solved at any time.<W>
+Esses enigmas são movidos para a 
+cabana da Vovó Riddleton, onde podem
+ser resolvidos a qualquer momento.<W>
 !------------------------------!
-Here is the first set of puzzles
-to be sent to the shack.<W>
+Aqui está o primeiro conjunto de
+enigmas a serem enviados à cabana.<W>
 !------------------------------!
-If no puzzles appear on the next
-screen, it means there are no
-unsolved puzzles to send right now.
+Se não aparecerem enigmas na próxima
+tela, então não há enigmas não
+resolvidos para enviar para lá no momento.
 !******************************!
 [t21_034_100.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:82>Do you mind if we take a short
-break from puzzles for now? I'm
-still digesting.
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:82>Você ficaria chateado se déssemos
+uma pausa nos enigmas por agora? Ainda
+estou fazendo a digestão.
 !******************************!
 [t21_034_200.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:33>Hmm. I suppose you have a point.
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:33>Humm. Você tem razão.
 !******************************!
 [t21_034_300.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>Come to think of it, after that
-lovely meal I could use a break
-too. Let's head back to our room.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>Pensando bem, podemos descansar
+um pouco depois daquela adorável
+refeição. Vamos voltar para nossa cabine.
 !******************************!
 [t21_034_400.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:460>Hello there! Sorry to interrupt
-your game, but there's something
-important you should know.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:460>Olá! Desculpe
+interromper seu jogo, mas há algo 
+importante que precisa saber.<W>
 !------------------------------!
-As you progress through the story,
-some puzzles will disappear from
-their original locations.<W>
+Conforme você avança na história,
+alguns enigmas irão desaparecer de
+seus locais originais.<W>
 !------------------------------!
-These puzzles are then moved to
-Granny Riddleton's shack, where
-they can be solved at any time.<W>
+Esses enigmas são movidos para a 
+cabana da Vovó Riddleton, onde podem
+ser resolvidos a qualquer momento.<W>
 !------------------------------!
-Here is the first set of puzzles
-to be sent to the shack.<W>
+Aqui está o primeiro conjunto de
+enigmas a serem enviados à cabana.<W>
 !------------------------------!
-If no puzzles appear on the next
-screen, it means there are no
-unsolved puzzles to send right now.
+Se não aparecerem enigmas na próxima
+tela, então não há enigmas não
+resolvidos para enviar para lá no momento.
 !******************************!
 [t21_040_100.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:46>What's this? Something's fallen
-behind here.
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:46>O que é aquilo? Algo parece
+ter caído ali.
 !******************************!
 [t21_040_200.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:83>It appears to be a cap of some
