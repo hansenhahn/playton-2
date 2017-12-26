@@ -1,14 +1,50 @@
 --- /ani/bgani
 --- /ani/ending
 --- /ani/event
-NOK /ani/eventchr/en
+ OK /ani/eventchr/en
 --- /ani/eventobj
 NOK /ani/lukeletter/en
-OK  /ani/map/en
-NOK /ani/menu/bag/en
-NOK /ani/menu/jiten/en
-NOK /ani/menu/nazoba/en
-OK  /ani/menu/save/en
-NOK /ani/menu/secret/en
+ OK /ani/map/en
+ OK /ani/menu/bag/en
+ OK /ani/menu/jiten/en
+ OK /ani/menu/nazoba/en
+ OK /ani/menu/save/en
+ OK /ani/menu/secret/en
 NOK /ani/menu/wifi/en
-NOK /ani/name/en
+ OK /ani/name/en
+--- /ani/nazo/bridge
+--- /ani/nazo/common
+--- /ani/nazo/couple
+--- /ani/nazo/cut
+ OK /ani/nazo/cut/en
+--- /ani/nazo/drawinput
+ OK /ani/nazo/drawinput/en
+--- /ani/nazo/freebutton
+--- /ani/nazo/iceskate
+--- /ani/nazo/knight
+--- /ani/nazo/lamp
+--- /ani/nazo/onoff
+--- /ani/nazo/pancake
+--- /ani/nazo/pegsolitaire
+--- /ani/nazo/rose
+--- /ani/nazo/slide
+--- /ani/nazo/system
+ OK /ani/nazo/system/en
+--- /ani/nazo/tile
+ OK /ani/nazo/tile/en
+--- /ani/nazo/tilerotate
+--- /ani/nazo/touch
+--- /ani/nazo/tracebutton
+ OK /ani/nazo/tracebutton/en
+--- /ani/sub
+--- /ani/subgame/camera
+ OK /ani/subgame/camera/en
+--- /ani/subgame/ham
+ OK /ani/subgame/ham/en
+--- /ani/subgame/photo
+ OK /ani/subgame/photo/en
+--- /ani/subgame/tea
+NOK /ani/subgame/tea/en
+ OK /ani/system/btn/en
+ OK /ani/title/en
+--- /ani/tobj
