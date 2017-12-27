@@ -10,7 +10,7 @@ NOK /ani/lukeletter/en
  OK /ani/menu/nazoba/en
  OK /ani/menu/save/en
  OK /ani/menu/secret/en
-NOK /ani/menu/wifi/en
+ OK /ani/menu/wifi/en
  OK /ani/name/en
 --- /ani/nazo/bridge
 --- /ani/nazo/common
@@ -44,7 +44,7 @@ NOK /ani/menu/wifi/en
 --- /ani/subgame/photo
  OK /ani/subgame/photo/en
 --- /ani/subgame/tea
-NOK /ani/subgame/tea/en
+ OK /ani/subgame/tea/en
  OK /ani/system/btn/en
  OK /ani/title/en
 --- /ani/tobj
