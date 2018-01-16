@@ -48,18 +48,18 @@ as cabines super luxuosas.
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>Cabines super luxuosas...
 !******************************!
 [t11_050_400.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:157>...que ninguém, exceto as
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:157>...que ninguém, exceto as pessoas
 extremamente ricas, podem entrar.<W>
 !------------------------------!
-Se nosso jovem amigo estiver bem
-informado, devem haver algumas
+Se nossa jovem amiga estiver bem
+informada, devem haver algumas
 cabines de luxo no próximo vagão.
 !******************************!
 [t11_050_500.gds]
 <01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:78>Uau! Adoraria ver como
 elas se parecem!<W>
 !------------------------------!
-Aposto que elas são espetaculares!
+Aposto que são espetaculares!
 !******************************!
 [t11_060_100.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:60>Fico pensando nos tipos de luxo
@@ -204,9 +204,9 @@ que você tira dos meus ombros.
 E da cintura dele, espero!
 !******************************!
 [t11_100_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:98>Sim, parece que o Molentary Express
-é um trem de primeira classe, inclusive
-sua cozinha.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:98>Sim, parece que até mesmo
+a cozinha do Molentary Express é
+de primeira classe.
 !******************************!
 [t11_100_2000.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:90>Você pode interagir com o hamster

@@ -1,178 +1,178 @@
 [t13_020_100.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:96>N√£o consigo parar de pensar nessa cidade fantasma da qual acabamos de ouvir. Ser√° que os rumores s√£o verdadeiros?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:96>N„o consigo parar de pensar nessa cidade fantasma da qual acabamos de ouvir. Ser· que os rumores s„o verdadeiros?
 !******************************!
 [t13_020_200.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:79>Bem, nossa pr√≥xima parada √© a perfeitamente normal cidade de Luxenbelle.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:79>Bem, nossa prÛxima parada È a perfeitamente normal cidade de Luxenbelle.
 !******************************!
 [t13_020_300.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Ent√£o como fazemos para chegar at√© a cidade fantasma?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Ent„o como fazemos para chegar atÈ a cidade fantasma?
 !******************************!
 [t13_020_400.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:175>Esta √© uma excelente pergunta que ainda n√£o tenho resposta, Luke.<W>
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:175>Esta È uma excelente pergunta que ainda n„o tenho resposta, Luke.<W>
 !------------------------------!
-Mas se o Molentary Express para de fato em lugares desconhecidos, a tripula√ß√£o ir√° saber de algo.
+Mas se o Molentary Express para de fato em lugares desconhecidos, a tripulaÁ„o ir· saber de algo.
 !******************************!
 [t13_020_500.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:90>Bem pensado, Professor! Ent√£o vamos procurar por pistas pelo trem, enquanto n√£o chegamos a Luxenbelle.
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:90>Bem pensado, Professor! Ent„o vamos procurar por pistas pelo trem, enquanto n„o chegamos a Luxenbelle.
 !******************************!
 [t13_030_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>Parece que n√£o h√° nenhuma maneira de entrar...
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>Parece que n„o h· nenhuma maneira de entrar...
 !******************************!
 [t13_030_200.gds]
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:7>Hmm...
 !******************************!
 [t13_040_100.gds]
-<01:0000000F><03:11>b1 normal2<03:5>NONE<01:00000003><03:218>Finalmente consertaram o trem. Eu estaria pulando de alegria, se n√£o fosse pela dificuldade de reunir os enigmas perdidos com toda essa bagun√ßa acontecendo.<W>
+<01:0000000F><03:11>b1 normal2<03:5>NONE<01:00000003><03:218>Finalmente consertaram o trem. Eu estaria pulando de alegria, se n„o fosse pela dificuldade de reunir os enigmas perdidos com toda essa bagunÁa acontecendo.<W>
 !------------------------------!
-N√≥s n√£o n√£o iremos passar por este caminho outra vez, ent√£o melhor voltar √† Dropstone caso tenha esquecido algum enigma l√°.
+NÛs n„o n„o iremos passar por este caminho outra vez, ent„o melhor voltar ‡ Dropstone caso tenha esquecido algum enigma l·.
 !******************************!
 [t13_050_100.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:83>Que estranho...<W>&setani 5 b1_weep2& De repente, passei a sentir um cansa√ßo...
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:83>Que estranho...<W>&setani 5 b1_weep2& De repente, passei a sentir um cansaÁo...
 !******************************!
 [t13_050_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:107>Qual o problema, Flora?<W>&setani 2 b1_weep&
 !------------------------------!
-Uaaa... Caramba, do nada comecei tamb√©m a sentir sono...
+Uaaa... Caramba, do nada comecei tambÈm a sentir sono...
 !******************************!
 [t13_050_300.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:117>Muito bem, voc√™s dois, agora n√£o √© hora para brincadeiras...<W>&setani 1 b1_angry&
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:117>Muito bem, vocÍs dois, agora n„o È hora para brincadeiras...<W>&setani 1 b1_angry&
 !------------------------------!
-Oh c√©us...tamb√©m estou me sentindo cansado.
+Oh cÈus...tambÈm estou me sentindo cansado.
 !******************************!
 [t13_120_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>Acredito que tenh√°mos chegado na pr√≥xima parada.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>Acredito que tenh·mos chegado na prÛxima parada.
 !******************************!
 [t13_120_200.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:55>Mas eu n√£o vejo a Flora, Professor. Onde ela pode estar?
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:55>Mas eu n„o vejo a Flora, Professor. Onde ela pode estar?
 !******************************!
 [t13_120_300.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:48>Oi pra voc√™s. Fico feliz em ver que finalmente acordaram.
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:48>Oi pra vocÍs. Fico feliz em ver que finalmente acordaram.
 !******************************!
 [t13_120_400.gds]
-<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:35>Flora! Onde voc√™s estava?
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:35>Flora! Onde vocÍs estava?
 !******************************!
 [t13_120_500.gds]
-<01:00000005><03:8>b1 weep<03:5>NONE<01:00000003><03:98>Desculpa, mas eu estava me sentindo sufocada dentro desse vag√£o, ent√£o quando paramos, sa√≠ para pegar um ar fresco.
+<01:00000005><03:8>b1 weep<03:5>NONE<01:00000003><03:98>Desculpa, mas eu estava me sentindo sufocada dentro desse vag„o, ent„o quando paramos, saÌ para pegar um ar fresco.
 !******************************!
 [t13_120_600.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:131>Voc√™ saiu sozinha?<W> Est√° maluca?!<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:131>VocÍ saiu sozinha?<W> Est· maluca?!<W>
 !------------------------------!
-√â perigoso l√° fora. Quem sabe as bizarrices que est√£o a espreita!
+… perigoso l· fora. Quem sabe as bizarrices que est„o a espreita!
 !******************************!
 [t13_120_700.gds]
 <01:00000005><03:9>b1 weep2<03:5>NONE<01:00000003><03:45>Oh, tudo bem, prometo ser mais cuidadosa a partir de agora.
 !******************************!
 [t13_120_800.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:192>Me√ßa sua voz, Luke. Um cavalheiro deve sempre lembrar de tratar uma dama com respeito e gentileza.<W>
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:192>MeÁa sua voz, Luke. Um cavalheiro deve sempre lembrar de tratar uma dama com respeito e gentileza.<W>
 !------------------------------!
-Bom, agora que estamos todos juntos novamente, por que n√£o descemos do trem e descobrimos onde estamos?
+Bom, agora que estamos todos juntos novamente, por que n„o descemos do trem e descobrimos onde estamos?
 !******************************!
 [t13_130_100.gds]
-<01:0000002B><03:5>NONE<03:5>NONE<01:00000003><03:117>Bom dia, senhor. Estou voltando para Luxenbelle, onde leciono ci√™ncias.<W>
+<01:0000002B><03:5>NONE<03:5>NONE<01:00000003><03:117>Bom dia, senhor. Estou voltando para Luxenbelle, onde leciono ciÍncias.<W>
 !------------------------------!
-Aonde voc√™ e seus companheiros est√£o indo?
+Aonde vocÍ e seus companheiros est„o indo?
 !******************************!
 [t13_130_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:316>Nosso destino √©, veja bem, uma inc√≥gnita. Como v√™, estamos viajando em busca de uma rel√≠quia chamada Caixa El√≠sia.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:316>Nosso destino È, veja bem, uma incÛgnita. Como vÍ, estamos viajando em busca de uma relÌquia chamada Caixa ElÌsia.<W>
 !------------------------------!
-N√≥s descobrimos algumas evid√™ncias anedotais sugerindo que a caixa est√° conectada a esta estranha cidade...<W>
+NÛs descobrimos algumas evidÍncias anedotais sugerindo que a caixa est· conectada a esta estranha cidade...<W>
 !------------------------------!
-Uma cidade fantasma que n√£o aparece em nenhuma mapa humano.<W> Isto lhe parece familiar?
+Uma cidade fantasma que n„o aparece em nenhuma mapa humano.<W> Isto lhe parece familiar?
 !******************************!
 [t13_130_300.gds]
-<01:0000002B><03:5>NONE<03:5>NONE<01:00000003><03:387>Bem, caramba, voc√™ tem uma bela aventura em suas m√£os, n√©?<W>
+<01:0000002B><03:5>NONE<03:5>NONE<01:00000003><03:387>Bem, caramba, vocÍ tem uma bela aventura em suas m„os, nÈ?<W>
 !------------------------------!
-Ao mesmo tempo em que n√£o posso dizer que tenha escutado sobre essa cidade da qual voc√™ fala, posso lhe contar sobre um conto que escutei.<W>
+Ao mesmo tempo em que n„o posso dizer que tenha escutado sobre essa cidade da qual vocÍ fala, posso lhe contar sobre um conto que escutei.<W>
 !------------------------------!
 Alguns dizem que o Molentary Express para em uma cidade estranha aterrorizada por um vampiro.<W>
 !------------------------------!
-Primeiro rumores sobre um vampiro, e agora cidades fantasmas. C√©us, √© como se estiv√©ssemos vivendo um conto de terror.
+Primeiro rumores sobre um vampiro, e agora cidades fantasmas. CÈus, È como se estivÈssemos vivendo um conto de terror.
 !******************************!
 [t13_131_100.gds]
-<01:0000002B><03:5>NONE<03:5>NONE<01:00000003><03:101>Ficar s√≥ uns minutos sentado nesse sof√° j√° √© o suficiente para me dar sono. Ele √© confort√°vel demais.
+<01:0000002B><03:5>NONE<03:5>NONE<01:00000003><03:101>Ficar sÛ uns minutos sentado nesse sof· j· È o suficiente para me dar sono. Ele È confort·vel demais.
 !******************************!
 [t13_140_100.gds]
-<01:00000027><03:5>NONE<03:5>NONE<01:00000003><03:176>Bom dia, senhor. Meu nome √© Conrad. Sou um estudante do vilarejo de Dropstone.<W>
+<01:00000027><03:5>NONE<03:5>NONE<01:00000003><03:176>Bom dia, senhor. Meu nome È Conrad. Sou um estudante do vilarejo de Dropstone.<W>
 !------------------------------!
-Estou indo para Luxenbelle, ent√£o, ao que parece, estaremos viajando juntos por um tempo.
+Estou indo para Luxenbelle, ent„o, ao que parece, estaremos viajando juntos por um tempo.
 !******************************!
 [t13_140_150.gds]
-<01:00000027><03:5>NONE<03:5>NONE<01:00000003><03:309>Voc√™ j√° ouviu falar do longo t√∫nel que h√° no caminho at√© Luxenbelle?<W>
+<01:00000027><03:5>NONE<03:5>NONE<01:00000003><03:309>VocÍ j· ouviu falar do longo t˙nel que h· no caminho atÈ Luxenbelle?<W>
 !------------------------------!
-Quando o trem passa por ele, todas as luzes a bordo s√£o desligadas.<W>
+Quando o trem passa por ele, todas as luzes a bordo s„o desligadas.<W>
 !------------------------------!
-Al√©m disso, uma vez o trem estando dentro do t√∫nel, todos os acessos ao vag√£o de luxo s√£o interrompidos.<W>
+AlÈm disso, uma vez o trem estando dentro do t˙nel, todos os acessos ao vag„o de luxo s„o interrompidos.<W>
 !------------------------------!
-E se algu√©m precisar ir ao banheiro no escuro?!ss
+E se alguÈm precisar ir ao banheiro no escuro?!ss
 !******************************!
 [t13_140_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:88>Algo muito estranho deve acontecer para que proibam o acesso ao vag√£o de luxo.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:88>Algo muito estranho deve acontecer para que proibam o acesso ao vag„o de luxo.
 !******************************!
 [t13_140_300.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:143>√â claro, tudo faz sentido! Como n√£o percebi isso antes?<W>
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:143>… claro, tudo faz sentido! Como n„o percebi isso antes?<W>
 !------------------------------!
-Luke, acho que resolvi o mist√©rio. R√°pido, para o vag√£o de luxo!
+Luke, acho que resolvi o mistÈrio. R·pido, para o vag„o de luxo!
 !******************************!
 [t13_140_400.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:33>Estou logo atr√°s de voc√™, Professor!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:33>Estou logo atr·s de vocÍ, Professor!
 !******************************!
 [t13_141_100.gds]
-<01:00000027><03:5>NONE<03:5>NONE<01:00000003><03:98>Uaaaa...<W> De repente, come√ßo a sentir muito sono. Viajar de trem sempre me d√° muito sono.
+<01:00000027><03:5>NONE<03:5>NONE<01:00000003><03:98>Uaaaa...<W> De repente, comeÁo a sentir muito sono. Viajar de trem sempre me d· muito sono.
 !******************************!
 [t13_150_100.gds]
-<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:138>Como est√° indo meu amiguinho?<W>
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:138>Como est· indo meu amiguinho?<W>
 !------------------------------!
-Sei que seria dif√≠cil sem ele por perto, mas eu n√£o tinha me dado conta do qu√£o solit√°rio seria.<W> Pelo menos ele est√° feliz?
+Sei que seria difÌcil sem ele por perto, mas eu n„o tinha me dado conta do qu„o solit·rio seria.<W> Pelo menos ele est· feliz?
 !******************************!
 [t13_150_200.gds]
-<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:85>N√£o se preocupe, ele est√° indo bem! Ele vai estar em forma logo logo!
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:85>N„o se preocupe, ele est· indo bem! Ele vai estar em forma logo logo!
 !******************************!
 [t13_150_300.gds]
-<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:244>√â muito bom ouvir isso. N√£o me desaponte, certo?<W>
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:244>… muito bom ouvir isso. N„o me desaponte, certo?<W>
 !------------------------------!
-No momento, estou para fechar a cozinha e ir dormir at√© chegarmos a Luxenbelle.<W>
+No momento, estou para fechar a cozinha e ir dormir atÈ chegarmos a Luxenbelle.<W>
 !------------------------------!
-A maior parte do trem √© desligada nesta parte da viagem, ent√£o sugiro que voltem para sua cabine e descansem.
+A maior parte do trem È desligada nesta parte da viagem, ent„o sugiro que voltem para sua cabine e descansem.
 !******************************!
 [t13_151_100.gds]
-<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:103>Praticamente o trem todo √© desligado at√© chegarmos em Luxenbelle, ent√£o por que n√£o v√£o tirar uma soneca na sua cabine?
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:103>Praticamente o trem todo È desligado atÈ chegarmos em Luxenbelle, ent„o por que n„o v„o tirar uma soneca na sua cabine?
 !******************************!
 [t13_160_100.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:92>Sinto muito senhor, mas n√£o estamos abertos no momento. Visite-nos mais tarde.
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:92>Sinto muito senhor, mas n„o estamos abertos no momento. Visite-nos mais tarde.
 !******************************!
 [t13_160_200.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:23>|Voc√™ est√° realmente fechado?!
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:23>VocÍ est· realmente fechado?!
 !******************************!
 [t13_160_300.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:333>Sim, como pode ver, em nosso caminho at√© Luxenbelle iremos passar por um longo e escuro t√∫nel.<W>
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:333>Sim, como pode ver, em nosso caminho atÈ Luxenbelle iremos passar por um longo e escuro t˙nel.<W>
 !------------------------------!
-Enquanto estivermos no t√∫nel, nenhuma das belas vistas que tanto agradam os frequentadores de nosso restaurante estar√£o vis√≠veis.<W>
+Enquanto estivermos no t˙nel, nenhuma das belas vistas que tanto agradam os frequentadores de nosso restaurante estar„o visÌveis.<W>
 !------------------------------!
-√â o desejo do Mr Beluga que todos os frequentadores possam admirar a paisagem enquanto jantam.<W>
+… o desejo do Mr Beluga que todos os frequentadores possam admirar a paisagem enquanto jantam.<W>
 !------------------------------!
-Assim, chegamos √† suspens√£o tempor√°ria de nossos servi√ßos.
+Assim, chegamos ‡ suspens„o tempor·ria de nossos serviÁos.
 !******************************!
 [t13_160_400.gds]
-<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:94>Uau, isso que eu chamo de uma opera√ß√£o de classe. Mr Beluga realmente pensou em tudo, n√©?!
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:94>Uau, isso que eu chamo de uma operaÁ„o de classe. Mr Beluga realmente pensou em tudo, nÈ?!
 !******************************!
 [t13_161_100.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:92>Minhas desculpas, meu bom senhor, mas n√£o estamos abertos no momento. Visite-nos mais tarde.
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:92>Minhas desculpas, meu bom senhor, mas n„o estamos abertos no momento. Visite-nos mais tarde.
 !******************************!
 [t13_170_100.gds]
-<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:90>Finalmente, algo para fazer. J√° faz eras desde a √∫ltima vez fiz alguma coisa.
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:90>Finalmente, algo para fazer. J· faz eras desde a ˙ltima vez fiz alguma coisa.
 !******************************!
 [t13_170_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:63>O que quer dizer com isso? Voc√™ n√£o acabou de consertar o trem?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:63>O que quer dizer com isso? VocÍ n„o acabou de consertar o trem?
 !******************************!
 [t13_170_300.gds]
-<01:00000023><03:11>b2 normal2<03:5>NONE<01:00000001><03:100>Meio que sim, mas antes de voltar a descansar ... Oops!<W> Hm, quero dizer, nada! Est√° tudo bem!
+<01:00000023><03:11>b2 normal2<03:5>NONE<01:00000001><03:100>Meio que sim, mas antes de voltar a descansar ... Oops!<W> Hm, quero dizer, nada! Est· tudo bem!
 !******************************!
 [t13_171_100.gds]
-<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:92>Finalmente, algo para fazer. J√° faz eras desde a √∫ltima vez fiz alguma coisa.
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:92>Finalmente, algo para fazer. J· faz eras desde a ˙ltima vez fiz alguma coisa.
 !******************************!
 [t13_180_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>C√©us! Olhe este lugar! √â incr√≠vel!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>CÈus! Olhe este lugar! … incrÌvel!
 !******************************!
 [t13_180_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>Sim, ele √© bem mais luxuoso que os vag√µes normais. Os bilhetes devem custar uma fortuna.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>Sim, ele È bem mais luxuoso que os vagıes normais. Os bilhetes devem custar uma fortuna.
 !******************************!
