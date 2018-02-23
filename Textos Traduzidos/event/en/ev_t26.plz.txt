@@ -1,0 +1,276 @@
+[t26_000_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:21>Dê uma experimentada neste.
+!******************************!
+[t26_001_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Pronto para tentar novamente?
+!******************************!
+[t26_002_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>De volta a resolver este enigma, não é?
+!******************************!
+[t26_003_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:25>Expertamente resolvido, meu garoto!
+!******************************!
+[t26_004_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:27>Tendo dificuldades?
+!******************************!
+[t26_010_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Aqui, dê uma olhada neste enigma.
+!******************************!
+[t26_011_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:26>Tente de novo, se lhe interessar.
+!******************************!
+[t26_012_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>Não deu para evitar resolvê-lo, deu?
+!******************************!
+[t26_013_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:35>Genial! Sabia que era capaz de resolvê-lo.
+!******************************!
+[t26_014_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:43>Este enigma não é mole, é?
+!******************************!
+[t26_020_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Tente este.
+!******************************!
+[t26_021_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Pronto para tentar novamente?
+!******************************!
+[t26_022_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:65>O traço de um bom enigma é ser um
+a qual se volta de novo e de novo.
+!******************************!
+[t26_023_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:21>Muito bom, meu jovem!
+!******************************!
+[t26_024_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:16>Busilíos?
+!******************************!
+[t26_030_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Aqui, olhe este enigma.
+!******************************!
+[t26_031_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>Dê outra chance, se quiser.
+!******************************!
+[t26_032_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Se importaria de resolver novamente?
+!******************************!
+[t26_033_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:43>Muito bom, Luke. Eu sabia que conseguiria!
+!******************************!
+[t26_034_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>Este enigma é uma noz difícil de quebrar.
+!******************************!
+[t26_040_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:29>Aqui, tente resolver este enigma, Luke.
+!******************************!
+[t26_041_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Pronto para tentar novamente?
+!******************************!
+[t26_042_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:35>De volta para outra porção, não é?
+!******************************!
+[t26_043_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:61>Um trabalho de alto nível, Luke! Não
+que eu esperasse menos de você.
+!******************************!
+[t26_044_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:30>Tendo problemas?
+!******************************!
+[t26_050_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Aqui, olhe este enigma.
+!******************************!
+[t26_051_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:21>Vá em frente, tente outra vez.
+!******************************!
+[t26_052_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>Impossível resistir resolvê-lo,
+não é?
+!******************************!
+[t26_053_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:59>Devo dizer, estou impressionado com
+suas habilidades, meu menino.
+!******************************!
+[t26_054_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>Este enigma está dando uma bela luta.
+!******************************!
+[t26_060_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>Aqui, Luke, tente este.
+!******************************!
+[t26_061_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Pronto para tentar outra vez?
+!******************************!
+[t26_062_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:49>Você não consegue ficar longe deste
+enigma, consegue?
+!******************************!
+[t26_063_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:44>Bem feito, Luke.
+Eu sabia que tinha a garra!
+!******************************!
+[t26_064_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:28>Você parece empacado.
+!******************************!
+[t26_070_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Por que não dá uma chance a este?
+!******************************!
+[t26_071_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>Não dói dar outra chance.
+!******************************!
+[t26_072_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:51>Não pôde resisitir resolvê-lo, pôde?
+!******************************!
+[t26_073_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:60>Maravilhoso, meu menino. Suas habilidades
+estão melhorando a toda hora.
+!******************************!
+[t26_074_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>Este é bem dificultoso,
+não é?
+!******************************!
+[t26_080_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:44>Se importa de tentar este aqui?
+!******************************!
+[t26_081_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Pronto para tentar de novo?
+!******************************!
+[t26_082_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>De volta para tentar resolvê-lo, não está?
+!******************************!
+[t26_083_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:38>Foi perfeito, meu garoto.
+Bom trabalho!
+!******************************!
+[t26_084_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>Aquele foi bem desafiador.
+!******************************!
+[t26_090_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Aqui, dê uma olhada neste enigma.
+!******************************!
+[t26_091_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:23>Tente novamente, se quiser.
+!******************************!
+[t26_092_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>Não pôde se opor a resolvê-lo, não é?
+!******************************!
+[t26_093_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:72>Ah, não há nada tão gratificante
+quanto um enigma resolvido, há?
+!******************************!
+[t26_094_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:51>Este enigma está sendo um
+tanto intratável, não é?
+!******************************!
+[t26_100_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:26>Aqui, tente este, Luke.
+!******************************!
+[t26_101_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:29>Pronto para dar outra tacada?
+!******************************!
+[t26_102_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>De volta para resolvê-lo, não é?
+!******************************!
+[t26_103_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:45>Estou impressionado! Fez este parecer
+fácil.
+!******************************!
+[t26_104_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:64>Não deixe isso te incomodar, meu garoto.
+Todos empacam de vez em quando.
+!******************************!
+[t26_110_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:40>Luke, meu menino, dê uma olhada
+neste.
+!******************************!
+[t26_111_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:19>Queres tentar novamente?
+!******************************!
+[t26_112_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:48>Um bom enigma é sempre um prazer
+revisitar.
+!******************************!
+[t26_113_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:35>Maravilhoso. Eu sabia que era capaz disso!
+!******************************!
+[t26_114_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:40>Este enigma não é canja, é?
+!******************************!
+[t26_120_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Por que não dá a este uma chance?
+!******************************!
+[t26_121_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Pronto para tentar novamente?
+!******************************!
+[t26_122_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>Voltou para resolvê-lo, não é?
+!******************************!
+[t26_123_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>Assim mesmo, Luke! Bom trabalho!
+!******************************!
+[t26_124_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:24>Tendo dificuldades?
+!******************************!
+[t26_130_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Luke, dê uma olhada neste enigma.
+!******************************!
+[t26_131_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:23>Tentem novamente se quiser.
+!******************************!
+[t26_132_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>Pronto para outra rodada?
+!******************************!
+[t26_133_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>Muito bom, Luke. Sabia que era
+capaz de resolvê-lo!
+!******************************!
+[t26_134_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:31>Este enigma não é tarefa fácil.
+!******************************!
+[t26_140_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:26>Aqui, tente este, Luke.
+!******************************!
+[t26_141_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Pronto para tentar outra vez?
+!******************************!
+[t26_142_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:43>De volta para resolver este enigma?
+!******************************!
+[t26_143_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:54>Um trabalho louvável, Luke!
+Demonstrou grande perspicácia!
+!******************************!
+[t26_144_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:49>Ora ora, este enigma está
+mostrando-se deveras problemático.
+!******************************!
+[t26_500_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:181>Ah, olá! Acabou de entrar num
+cantinho secreto exclusivo para os
+fãs da série do Professor Layton!<W>
+!------------------------------!
+Temos um presente especial para
+você que esperamos que goste!<W>
+Diverta-se!
+!******************************!
+[t26_503_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:246>E então, gostou de seu
+presentinho misterioso?<W>
+!------------------------------!
+Este enigma não está listado em seu
+Livro de Enigmas, mas pode vir aqui
+e resolvê-lo quando bem entender.<W>
+!------------------------------!
+Divirta-se, e curta o resto de
+seu tempo jogando Professor
+Layton e a Caixa de Pandora.
+!******************************!
+[t26_504_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:246>E então, gostou de seu
+presentinho misterioso?<W>
+!------------------------------!
+Este enigma não está listado em seu
+Livro de Enigmas, mas pode vir aqui
+e resolvê-lo quando bem entender.<W>
+!------------------------------!
+Divirta-se, e curta o resto de
+seu tempo jogando Professor
+Layton e a Caixa de Pandora.
+!******************************!
