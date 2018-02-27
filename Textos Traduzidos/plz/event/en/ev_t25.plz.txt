@@ -1,0 +1,321 @@
+[t25_000_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:98>Aquela é uma pintura fascinante.<W>
+!------------------------------!
+Já viu ilustração tão
+convincente de um baile antes?
+!******************************!
+[t25_000_300.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:182>
+Do que vimos deste castelo até
+agora, tenho certeza de que o baile
+foi ridiculamente pomposo.<W>
+!------------------------------!
+Céus, está ficando tarde. Só mais
+um enigma rápido e então vamos
+direto para a cama, está bom?
+!******************************!
+[t25_001_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:31>Não poderia tentar o enigma novamente?
+!******************************!
+[t25_002_100.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:55>As pinceladas neste retrato
+são simplesmente magníficas.
+!******************************!
+[t25_003_100.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:110>Com certeza uma imagem marcante.<W>
+!------------------------------!
+...Ah, o que é isto? Luke, diga-me,
+estes dois te parecem familiares?
+!******************************!
+[t25_003_200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:99>Parece o Anton do lado da...
+Katia? Será que os meus olhos estão
+me enganando? Deve ser o cansaço...
+!******************************!
+[t25_003_300.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:68>Ótima pergunta, mas melhor deixá-la
+para amanhã. No momento, é melhor descansar.
+!******************************!
+[t25_003_400.gds]
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:55>Acho que sim. E agora
+que falei, estou esgotado!
+!******************************!
+[t25_004_100.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:30>Deus, esse é complicado mesmo.
+!******************************!
+[t25_010_100.gds]
+<01:00000052><03:8>b1 weep<03:5>NONE<01:00000003><03:57>Ouviu aquilo?! O Anton
+vai nos comer no jantar!
+!******************************!
+[t25_010_200.gds]
+<01:00000051><03:5>NONE<03:5>NONE<01:00000002><03:62>Luke, escute-me.
+Respire fundo e recomponha-se.
+!******************************!
+[t25_010_300.gds]
+<01:00000052><03:5>NONE<03:5>NONE<01:00000003><03:7>Mas...
+!******************************!
+[t25_010_400.gds]
+<01:00000051><03:9>b1 smile<03:5>NONE<01:00000002><03:137>Não há com o que se preocupar,
+meu garoto. Estes nós com certeza
+não são de marinheiro.<W>
+!------------------------------!
+Com um pouquinho de trabalho,
+talvez seja possível eu me libertar.
+!******************************!
+[t25_011_100.gds]
+<01:00000051><03:5>NONE<03:5>NONE<01:00000002><03:15>Mas uma vez.
+!******************************!
+[t25_012_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:36>Finalmente livre. Graças aos céus.
+!******************************!
+[t25_013_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:96>Podemos estar livres, mas não
+é hora de ficarmos parados.
+!------------------------------!
+Devemos encontrar uma maneira de
+fugir, e rápido!
+!******************************!
+[t25_014_100.gds]
+<01:00000051><03:5>NONE<03:5>NONE<01:00000002><03:25>Não consigo me soltar.
+!******************************!
+[t25_020_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:41>Professor, dê uma olhada nesta imagem.
+!******************************!
+[t25_020_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:68>Aqui está ele. O chefe da
+família Herzen, cheio de vida.
+!******************************!
+[t25_020_300.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:65>Você quer dizer o vampiro-chefe
+da família Herzen, cheio de morto!
+!******************************!
+[t25_020_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:11>Estranho...
+!******************************!
+[t25_020_500.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:60>Estranho? O que tem de tão
+estranho neste retrato, Professor?
+!******************************!
+[t25_020_600.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:152>Esta pintura. Está desgastada
+demais para ser dos anos recentes.<W>
+!------------------------------!
+E você viu o Anton pessoalmente.
+O homem e seu retrato são praticamente
+idênticos.
+!******************************!
+[t25_020_700.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:144>Entendo onde quer chegar. Ele
+não envelhece...<W>
+!------------------------------!
+Então ele deve ser mesmo vampiro!
+Eu sabia! Precisamos sair daqui agora
+mesmo, Professor!
+!******************************!
+[t25_020_800.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:208>É sim capaz de que os rumores na
+cidade tenham certo fundamento.<W>
+!------------------------------!
+Mas disparar em pânico nunca
+resolveu nada.<W>
+!------------------------------!
+Por que não aproveitamos a oportunidade
+e desanuviamos nossas cabeças com este
+enigma sobre retratos.
+!******************************!
+[t25_020_900.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:57>
+Um enigma!? É mesmo a hora e o
+lugar certo para isso, Professor?
+!******************************!
+[t25_021_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:88>...<W> Como eu ia dizendo, sei de um
+certo enigma fantástico que se relaciona
+a diversos trabalhos artísticos.
+!******************************!
+[t25_022_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:82>
+Um vampiro. Um dos que nunca
+envelhecem... Um dos *glup* mortos-vivos...
+Será p-p-possível?
+!******************************!
+[t25_023_100.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:140>Ora, foi divertido, não é, Luke?<W>
+!------------------------------!
+Podia não parecer o momento mais
+apropriado para um enigma, mas manter-se
+calmo em situações de nervosismo é indispensável.
+!******************************!
+[t25_023_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:101>Agradeço a intenção, Professor,
+mas no momento resolver enigmas é a
+última coisa passando pela minha cabeça.
+!******************************!
+[t25_024_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:42>Temos que sair correndo,
+Professor!
+!******************************!
+[t25_030_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:91>Cautela ao passo, Luke.
+O chão está num lustrar quase cegante.
+Deve ser facílimo escorregar.
+!******************************!
+[t25_030_200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:83>
+Nossa, é verdade! Chega a parecer
+um espelho. Quem você acha que faz
+toda a lustração?
+!******************************!
+[t25_030_300.gds]
+<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:23>Este seria eu, amo.
+!******************************!
+[t25_030_400.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:22>Iic! É o mordomo!
+!******************************!
+[t25_030_500.gds]
+<01:0000001D><03:9>b1 smile<03:5>NONE<01:00000002><03:212>Yes, it most certainly is. I don't
+mean to be presumptuous, but what
+are you two doing up at this hour?<W>
+!------------------------------!
+Se estão tendo problemas para dormir,
+eu sugiro uma forte dose de um enigma
+para aliviar e descansar a mente.
+!******************************!
+[t25_030_600.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:51>Você... não vai tentar
+nos deter ou coisa do tipo?
+!******************************!
+[t25_030_700.gds]
+<01:0000001D><03:9>b1 laugh<03:5>NONE<01:00000002><03:439>Detê-los?<W> Jovem amo, não tenho nem a
+mais ofuscada percepção sobre o que está falando.<W>
+!------------------------------!
+Agora onde eu estava?<W>
+Ah sim, aquele enigma.<W>
+!------------------------------!
+This hall has been fitted with a
+hidden door but, to my chagrin,
+I've forgotten where.<W>
+!------------------------------!
+However, I do recall an old saying
+the servants used in days past to
+remember the location of the door.<W>
+!------------------------------!
+I will now relate to you that saying,
+and your task, dear guests, will be
+to work out the door's location.
+!******************************!
+[t25_031_100.gds]
+<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:66>Tem uma porta secreta neste
+corredor velho. Consegue encontrá-la?
+!******************************!
+[t25_032_100.gds]
+<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:65>Hum. Hummm. Ótimo. A saída está
+logo atrás de vocês, caros hóspedes.
+!******************************!
+[t25_033_100.gds]
+<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:182>Resolvido com destreza, meus amos.<W>
+!------------------------------!
+Now that you've had that
+little nightcap, might I suggest
+returning to your quarters?<W>
+!------------------------------!
+These old halls can get quite
+draughty in the dead of night.
+!******************************!
+[t25_033_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:44>Manterei isso em conta.
+Boa noite para você.
+!******************************!
+[t25_033_300.gds]
+<01:0000001D><03:9>b1 laugh<03:5>NONE<01:00000002><03:33>Hum. Hummm. Sim. E para os senhores também.
+!******************************!
+[t25_034_100.gds]
+<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:99>Ah, I see you're quite tired. Please
+do excuse me. I never intended
+to detain you for so long...
+!******************************!
+[t25_040_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:149>Jamais vi tamanha caldeira.<W>
+!------------------------------!
+Deve ser a fonte de energia do
+castela. Por algum motivo, porém,
+não está sendo usada.
+!******************************!
+[t25_040_200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:77>E o que deduz sobre as outras
+engenhocas? São todas enormes!
+!******************************!
+[t25_040_300.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:182>Se fosse arriscar um palpite, eu diria
+que este equipamento foi usado
+para minerar ouro.<W>
+!------------------------------!
+It's probably the same equipment
+used to create that large hole
+in the castle's flooring.
+!******************************!
+[t25_040_400.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:193>So that's why this place is so
+draughty.<W>
+!------------------------------!
+Ah, olhe para aquela fumaça
+bizarra saindo do buraco!<W>
+!------------------------------!
+Não chegue muito perto, Professor.
+Aposto que respirá-la fará horrores
+à sua saúde.
+!******************************!
+[t25_040_500.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:168>Whoever dug this shaft must have
+been an expert at using that
+machinery.<W>
+!------------------------------!
+Uma cavada mal colocada
+causatia todo o alicerce
+a desmoronar.
+!******************************!
+[t25_040_600.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:93>Não querendo ser grosso, mas não
+acho que seja a melhor hora para
+apreciar a obra do minerador.
+!******************************!
+[t25_040_700.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:126>Ah sim, tens toda a razão, meu rapaz.<W>
+!------------------------------!
+Humm... creio que possamos abrir
+a porta a nossa cime se fizermos
+a caldeira volta a funcionar.
+!******************************!
+[t25_041_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>Se fizermos a caldeira funcionar,
+a porta acima deverá se abrir.
+!******************************!
+[t25_042_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:81>Pela aparência, esta caldeira está
+inativa há um bom tempo.
+!******************************!
+[t25_043_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:85>Bom trabalho, meu jovem. Agora, para
+a cima e para a fora. Não vejo outra
+saída daqui.
+!******************************!
+[t25_044_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:85>Se não abrirmos aquela porta
+logo logo, o Anton nos fará ração
+de vampiro!
+!******************************!
+[t25_054_100.gds]
+<01:0000001E><03:5>NONE<03:5>NONE<01:00000002><03:61>Pegue a espada que quiser, Layton,
+mas não me deixe esperando.
+!******************************!
+[t25_064_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:45>Você achou as palavras do
+Anton obtusas, Luke?
+!******************************!
+[t25_064_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:124>Nem um pouco, Professor!<W>
+!------------------------------!
+Eu sei que o que ele disse é a
+chave deste enigma. Eu só preciso
+pensar nelas mais um pouco.
+!******************************!
