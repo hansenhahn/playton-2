@@ -1,0 +1,8 @@
+Alterei, no endereço 0x9d79, o valor 0x01 por 0x00.
+Esse valor refere-se a distância mínima entre caracteres no texto. (NÃO FOI PRECISO ALTERAR!!)
+
+Inserir esse arquivo como "Compression" no CT2
+
+Em 0x1f158 estão o tamanho de cada caractere, iniciando em 0x20 " "
+
+ã - 1f21c

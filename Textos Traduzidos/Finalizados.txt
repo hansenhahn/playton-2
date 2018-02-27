@@ -1,5 +1,0 @@
-event/en/ev_t10.plz.txt - Textos do prólogo         100% T 100% R1 0% R2
-event/en/ev_t11.plz.txt - Textos do capítulo 1      100% T 100% R1 0% R2
-event/en/ev_t13.plz.txt - Textos do capítulo ?      100% T 0% R1 0% R2
-event/en/ev_t20.plz.txt - Textos do prólogo         100% T 100% R1 0% R2
-event/en/ev_t21.plz.txt - Textos do capítulo 1      0% T 0% R1 0% R2
