@@ -1,0 +1,1383 @@
+[t24_000_100.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:220>Vocês estão em Folsense agora, crianças,
+então sonhem e sonhem alto!
+Porque aqui, tudo é possível.<W>
+!------------------------------!
+Tomem, um enigma de boas vindas
+pra vocês.<W>
+!------------------------------!
+Ele celebra uma praça, que
+nem esta em que estamos agora.
+!******************************!
+[t24_001_100.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:59>Voltaram pra outra dose do enigma
+que eu dei pra vocês?
+!******************************!
+[t24_002_100.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:103>Folsense, Folsense, tão boa que nem...
+Espera, o quê? Enfim, aqui todos
+os seus sonhos se realizam.
+!******************************!
+[t24_003_100.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:189>Muita gente vem pra Folsense com
+ambições de riqueza e glória, mas
+não parece ser o caso de vocês.<W>
+!------------------------------!
+Como alguém que conhece a cidade
+de cabo a rabo, só dou um conselho:
+fiquem longe da floresta ao noroeste.
+!******************************!
+[t24_004_100.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:80>Eu aqui tentando ser receptivo
+e vocês resolvem desistir?<W>
+Eu, hein.
+!******************************!
+[t24_020_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:24>Mas que flor elegante!
+!******************************!
+[t24_020_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:23>E tem um cheirinho tão bom!
+!******************************!
+[t24_020_300.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:89>Ah, e falando em flores... conhece
+este enigma aqui, Luke?
+!******************************!
+[t24_021_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:77> Luke, você ainda não resolveu
+o enigma sobre as as rosas,
+não é mesmo?
+!******************************!
+[t24_022_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:72>O senhor tem toda razão -- tem alguma
+coisa muito relaxante nas
+flores.
+!******************************!
+[t24_023_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:47>Pronto! Enigma resolvido.
+!******************************!
+[t24_023_1000.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:94>É só um palpite, mas acredito
+que as rosas do Sammy
+continham um ingrediente extra...
+!******************************!
+[t24_023_1100.gds]
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:81>E ele botou todo mundo pra
+dormir. Por isso um dos vagões
+teve que mudar de direção!
+!*******************************!
+[t24_023_1200.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:110>Exatamente, meu rapaz.<W>
+!------------------------------!
+Acredito que somente os passageiros
+dos vagões de luxo foram levados (trazidos?)
+para Folsense.
+!******************************!
+[t24_023_200.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:81>Nada transmite tanta tranquilidade
+em um ambiente quanto um
+buquê de flores recém-feito.
+!******************************!
+[t24_023_300.gds]
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:85>Com certeza! As flores do
+Expresso Molentary* me deixaram
+tão relaxado..
+!******************************!
+[t24_023_400.gds]
+<01:00000001><03:9>b1 smile<03:10>b1 normal<01:00000002><03:170>Ah, sim. As que o condutor
+deixou para nós nas suítes (rooms).
+Realmente, eram muito calmantes.<W>
+!------------------------------!
+Hmm... Mas é claro! Estava tão
+óbvio... Não sei como não pensei
+nisso antes.
+!******************************!
+[t24_023_500.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:29>Do que está falando, Professor?
+!******************************!
+[t24_023_600.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:91>Luke, lembre-se de quando os
+trens trocaram de trilhos.*
+Percebeu alguma coisa na hora?
+!******************************!
+[t24_023_700.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:101>Olha... pra ser sincero, não lembro de muita
+coisa, não. Eu (divaguei) durante a
+coisa toda, minha memória tá meio falha.
+!******************************!
+[t24_023_800.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:233>É natural estar. O sono
+repentino que caiu sobre nós
+não foi coincidência.<W>
+!------------------------------!
+E mais: também não creio que tenha
+sido coincidência termos acordado
+assim que chegamos em Folsense...<W>
+!------------------------------!
+Não... aposto que essa nossa
+soneca era parte de um plano
+maior.
+!******************************!
+[t24_023_900.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:25>Que plano?
+!******************************!
+[t24_024_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:29>Hmm... Complicado.
+!******************************!
+[t24_030_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:32>Ah, mas que bagunça...
+!******************************!
+[t24_030_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:24>Qual o problema, meu bom
+homem?
+!******************************!
+[t24_030_300.gds]
+<01:00000019><03:10>b1 normal<03:5>NONE<01:00000001><03:256>Eu tinha montado um conjunto de
+cartas de um modo  extremamente
+específico.<W>
+!------------------------------!
+Mas infelizmente as deixei
+cair enquanto espanava o pó delas.
+Como estou desastrado hoje...<W>
+!------------------------------!
+Não vou conseguir vendê-las
+a menos que as ponha de volta
+em sua posição original.
+!******************************!
+[t24_030_400.gds]
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:88>Esse parece um trabalho pra
+mim! Deixa comigo, eu reorganizo
+as cartas num piscar de olhos!
+!******************************!
+[t24_031_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:47>Voltou para me ajudar, meu
+jovem?
+!******************************!
+[t24_032_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:91>Todos estes objetos são de
+grande valor, então por favor,
+não toquem, só olhem.
+!******************************!
+[t24_033_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:20>Tcharam! Prontinho.
+!******************************!
+[t24_033_200.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:88>Ah! Ótimo trabalho, meu jovem!
+Tem muita habilidade com
+enigmas pra alguém da sua idade.
+!******************************!
+[t24_033_300.gds]
+<01:00000002><03:9>b4 laugh<03:5>NONE<01:00000003><03:28>Ah, obrigado. He heh.
+!******************************!
+[t24_034_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:99>O que foi, o enigma é difícil demais
+pra você? Acho que não devia ter
+esperado tanto de um menino.
+!******************************!
+[t24_040_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:144>Eu simplesmente adoroo antiguidades,
+mas gosto ainda mais de
+enigmas.<W>
+!------------------------------!
+Tenho aqui um enigma clássico
+que adoraria compartilhar com
+vocês, se quiserem.
+!******************************!
+[t24_040_200.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:29>Ficaríamos honrados em ouvi-lo.
+!******************************!
+[t24_040_300.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:105>Fantástico. O enigma envolve
+um certo vaso raríssimo de minha
+coleção. Está exposto bem ali.
+!******************************!
+[t24_041_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:46>Voltaram para resolver o enigma
+do vaso do rei?
+!******************************!
+[t24_042_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:199>Muitos dos moradores desta cidade
+dão mais valor a ouro e prata
+do que ao que realmente importa.<W>
+!------------------------------!
+Na minha opinião, os verdadeiros
+tesouros de Folsense são os objetos
+que a acompanharam em sua longa história.
+!******************************!
+[t24_043_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:63>Resolvido com maestria. Um cérebro
+como o seu é um verdadeiro
+artigo de colecionador!
+!******************************!
+[t24_044_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:87>Não se sente apto a encarar o
+desafio deste enigma ancestral?<W>
+Que pena ouvir isso.
+!******************************!
+[t24_050_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:429>Hmm uhmmm, as ervas neste chá são
+divinas.<W>
+!------------------------------!
+Sejam folhas de chá ou antiguidades,
+artigos de qualidade sempre fascinam
+o coração humano.<W>
+!------------------------------!
+Eis um ótimo exemplo disso:
+um raro texto ancestral que guardo
+em minha coleção particular.<W>
+!------------------------------!
+O enigma que se esconde em suas
+páginas vem alimentando
+imaginações há várias gerações.<W>
+!------------------------------!
+Ainda não acreditam?<W> Deem uma
+olhada, então. É o tipo da coisa...
+tem que ver para crer, hã?
+!******************************!
+[t24_051_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:20>Voltaram para tentar mais
+uma vez? 
+!******************************!
+[t24_052_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:202>Vocês me parecem ser intrínsecos
+conhecedores dos elementos da vida
+que retêm verdadeiro valor.<W>
+!------------------------------!
+Eu acreditava que essa virtude
+tivesse se perdido entre os mais
+jovens, mas vocês provaram o contrário.
+!******************************!
+[t24_053_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:176>Muito bem! A sabedoria que vocês
+demonstram renova minhas
+esperanças na sociedade.<W>
+!------------------------------!
+Em uma cidade tão dominada pela
+ganância quanto Folsense, conhecer
+rapazes como vocês é uma benção.
+!******************************!
+[t24_054_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:60>Vejo que minha parafernália
+velha não lhes interessa.
+Uma pena.
+!******************************!
+[t24_060_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:61>Professor, acho que encontrei um
+enigma secreto aqui.
+!******************************!
+[t24_061_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:33>O enigma secreto de novo!
+!******************************!
+[t24_062_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:1>
+!******************************!
+[t24_063_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:61>O senhor parece estar tendo bastante
+dificuldade com esse enigma,
+Professor!
+!******************************!
+[t24_064_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:69>Deve ser difícil mesmo, pra dar
+dor de cabeça até pro senhor,
+Professor!
+!******************************!
+[t24_070_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:71>E aí, duplinha animal. Tão perto de
+achar aquilo lá que
+tavam procurando?
+!******************************!
+[t24_070_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:153>Está tudo nos conformes.
+Obrigado por perguntar.<W>
+!------------------------------!
+Ah, mas Sam... sendo o condutor,
+não tem problema o senhor estar
+longe do trem?
+!******************************!
+[t24_070_300.gds]
+<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:356>Pfft, affe, cara. Que mané trem.
+Mesmo se eu ligasse pra isso, hoje
+é meu dia de folga.<W>
+!------------------------------!
+Mas cá estou eu. Primeiro me mandam
+ir atrás da Caixa Elisiana* e
+depois me acusam de assassinato!<W>
+!------------------------------!
+Que saco, meu! Sammy Thunder
+não é assassino não, cara!<W>&setani 8 b1_normal&
+!------------------------------!
+Com essa loucura toda, não tem
+hora melhor pra pegar um enigma
+e relaxar. Saquem só.
+!******************************!
+[t24_071_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:80>Pedindo bis pro enigma?
+Vai deixar vocês de cabelo em
+pé, pode ter certeza!
+!******************************!
+[t24_072_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:144>E agora fica a perfunta: o que
+é que eu vou fazer com o
+resto do meu dia?<W>
+!------------------------------!
+Eu queria ficar só relaxando,
+mas acho que o chefe não ia
+curtir muito a ideia.
+!******************************!
+[t24_073_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:350>Resposta maneira! Tão boa que
+chega dá vontade de tocar
+AQUELA nota aguda.<W> KERRANG!<W>
+!------------------------------!
+Sabe de uma coisa? O chefe é
+um cara de muita sorte. Quero
+dizer, tem até o próprio trem!<W>
+!------------------------------!
+Enquanto isso, olha pra gente:
+no meio do nada, procurando pelo
+tesouro de um velhote aí.<W>
+!------------------------------!
+Não me entendam mal: uma grana
+extra sempre cai bem, mas ás vezes o
+chefe fica ganancioso pra chuchu.
+!******************************!
+[t24_074_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:33>Ah, não me deixa na expectativa,
+bróder.
+!******************************!
+[t24_080_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:130>Lamento, senhor, mas não posso
+deixá-lo entrar vestido desse jeito.
+Temos regras quanto à vestimenta.<W>
+!------------------------------!
+Se incomoda de deixar o
+seu chapéu comigo?
+
+!******************************!
+[t24_080_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>Entendo. O senhor está dizendo que só
+podemos entrar se eu lhe der
+este chapéu?
+!******************************!
+[t24_081_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:56>Sentimos muito, senhor, mas precisa
+tirar o chapéu antes de entrar.
+!******************************!
+[t24_082_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:72>Vocês dois são os clientes mais
+estranhos com quem já me deparei.
+!******************************!
+[t24_083_100.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:61>Pronto! Como o senhor pediu, eu
+lhe forneci um chapéu.
+!******************************!
+[t24_083_200.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:5>Hã?
+!******************************!
+[t24_083_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:58>Erm, Professor, eu não acho que tenha
+sido isso que ele quis dizer.
+!******************************!
+[t24_083_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:65>Não importa: não vou tirar o meu
+chapéu. Avante, Luke.
+!******************************!
+[t24_083_500.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:62>Mas eu queria tanto entrar lá*
+pra comer!* (contexto)
+!******************************!
+[t24_083_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:102>Só em ocasiões muito especiais
+eu tiro meu chapéu. E assunto
+encerrado.
+!******************************!
+[t24_083_700.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:35>Acho que isso é denso demais
+pra mim...
+!******************************!
+[t24_084_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:90>Desculpem, mas regras são
+regras. Se não der o chapéu,
+não entra.
+!******************************!
+[t24_090_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:149>Os negócios andam mais fracos
+do que um gatinho gripado,
+se me perdoam a comparação.(improvisei)<W>
+!------------------------------!
+E sem clientes, infelizmente fico
+sem muito o que fazer.
+!******************************!
+[t24_090_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:62>O senhor cumpre alguma outra
+função aqui além de vigiar a
+porta?
+!******************************!
+[t24_090_300.gds]
+<01:0000001B><03:10>b1 normal<03:5>NONE<01:00000001><03:165>Tarefas pequenas aqui e ali. Por
+exemplo, o chefe me pediu para fazer
+cópias extras do menú.<W>
+!------------------------------!
+Mas pra ser franco, é uma dor
+de cabeça sem tamanho!
+Podem me ajudar?
+!******************************!
+[t24_091_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:46>Quer dizer então que vão me
+ajudar com os menús?
+!******************************!
+[t24_092_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:169>Este restaurante tem uma longa
+tradição de servir à elite de
+Folsense.<W>
+!------------------------------!
+Por isso é meu dever como
+porteiro barrar todos que não
+seguem o código de vestimenta.
+!******************************!
+[t24_093_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:87>Ah, é simples assim? Achei
+que exigia algum tipo de
+macete complicado.
+!******************************!
+[t24_093_200.gds]
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:100>Devem ter maneiras mais simples
+de fazer isso. O seu chefe quer
+mesmo você fazendo desta?*
+!******************************!
+[t24_093_300.gds]
+<01:0000001B><03:11>b1 normal2<03:5>NONE<01:00000001><03:90>Ha ha ha! Ninguém vai notar.
+Sempre ficam ocupados demais
+escolhendo o que vão comer.
+!******************************!
+[t24_093_400.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:25>Se é o que o senhor tá dizendo...
+!******************************!
+[t24_094_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:72>Quer saber? Deixem pra lá.
+Eu acho um jeito de resolver isso
+sozinho. Desculpem o incômodo.
+!******************************!
+[t24_100_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:158>Ohoh... oi, bonitão. Você deve ser
+o príncipe alto e esbelto que o
+meu horóscopo previu!<W>
+!------------------------------!
+Diz que vai entrar pra ver a
+apresentação, docinho...
+!******************************!
+[t24_100_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:49>Minhas desculpas, madame, mas
+estamos em meio a uma-
+!******************************!
+[t24_100_300.gds]
+<01:0000001C><03:10>b1 smile2<03:5>NONE<01:00000003><03:193>Haha, não precisa ficar tímido...<W>
+Posso ver como está corando.
+Nem tente esconder com o chapéu!<W>
+!------------------------------!
+Ah, e quem é o seu amiguinho aí?
+Que rapazinho mais esbelto!
+Não é não, docinho?
+!******************************!
+[t24_100_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:10>Eu? Er...
+!******************************!
+[t24_100_500.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:95>Perdão por mudar de assunto, mas
+não pude deixar de notar o Sr.
+Beluga entrando em seu cabaré.
+!******************************!
+[t24_100_600.gds]
+<01:0000001C><03:10>b1 normal<03:5>NONE<01:00000003><03:37>Ah, quer dizer então que você
+é amigo do Sr. Bê?*(Mr. B)
+!******************************!
+[t24_100_700.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:72>Mais ou menos.<W> Diga-me, o Sr. Beluga
+vem aqui com frequência? 
+!******************************!
+[t24_100_800.gds]
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:349>É, pode-se dizer que ele é
+um adorador das artes...<W>
+!------------------------------!
+Mas eu não sou mulher de sair fofocando
+sobre os meus clientes com o primeiro
+bonitão que encontro na rua.<W>
+!------------------------------!
+Ah, mas você é um SENHOR conquistador...
+Charmoso, elegante e ainda por
+cima tão cavalheiro.<W>
+!------------------------------!
+Prove que tem um cérebro por trás
+desse rostinho lindo e talvez eu
+fique... com a língua mais solta.
+!******************************!
+[t24_101_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:31>Oooii... Voltou pra outra dose, meu bem?
+!******************************!
+[t24_102_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:114>Não tenho mais nada pra falar
+sobre o Sr. Bê*, docinho.<W>
+!------------------------------!
+Eu danço chamamé,
+não "onde-tá". Desculpinha!
+!******************************!
+[t24_103_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:268>Ai, gente... inteligente E bonito!
+Espero que não saia por aí resolvendo
+enigmas pra tudo quanto é mulher...<W>
+!------------------------------!
+Bom, o Sr. Bê* está sim lá dentro*
+atrás de alguma coisa, mas
+o que essa coisa é, claro que eu não sei.<W>
+!------------------------------!
+Não deve estar perto de achar,
+já que toda vez que o vejo
+por aqui ele está de mau humor.
+!******************************!
+[t24_103_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:92>Ele chegou a falar sobre o que estava
+atrás? Sobre uma "Caixa Elisiana"*?
+Ou talvez... uma "Caixa de Pandora"?
+!******************************!
+[t24_103_300.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:278>Bom, tinha uma Pandora que trabalhava
+aqui. O cabelo dela era lindo,
+castanho-ruivo... mas caixa, não.<W>
+!------------------------------!
+É, garanhão, eu não sei do que ele
+está atrás. Pelo menos pra mim
+não falou.<W>
+!------------------------------!
+Seja o que for, ele disse estar preparado
+pra fazer o que for preciso pra adquirir,
+então deve ser importante.
+!******************************!
+[t24_104_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:51>Não tenho mais nada a dizer pra
+vocês quanto ao Sr. Bê*.
+!******************************!
+[t24_110_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:94>Mudou de ideia, docinho?
+Decidiu entrar pra dar uma olhadinha
+no cabaré?
+!******************************!
+[t24_110_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:15>Erm... Não, eu...
+!******************************!
+[t24_110_300.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:106>Ah, olha só essas bochechinhas
+corando! Não tem pra que
+ficar acanhado, bonitão!<W>
+!------------------------------!
+Tomem, experimentem este enigma aqui.
+Pra relaxar.
+!******************************!
+[t24_111_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:27>Voltou para resolver o enigma?
+!******************************!
+[t24_112_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:182>Quando estiver com vontade de extravasar,
+sabe onde me encontrar, chuchuzinho.<W>
+Nada é melhor do que um pouquinho de cabaré!<W>
+!------------------------------!
+Dá uma refrescada nas partes que nada
+mais consegue refrescar. É o que eu
+sempre digo.
+!******************************!
+[t24_113_100.gds]
+<01:0000001C><03:9>b2 smile<03:5>NONE<01:00000003><03:102>Olha, que menino esperto. Eu
+AMO meninos espertos.
+Me dão um calor aqui, sabe?
+!******************************!
+[t24_113_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:14>Esperto? E-eu?
+!******************************!
+[t24_113_300.gds]
+<01:0000001C><03:11>b1 normal2<03:5>NONE<01:00000003><03:95>Ai, que graça: corando de novo!
+Você é um amorzinho.<W> Volte
+quando quiser, meu bem!
+!******************************!
+[t24_114_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:39>O que foi? Ficou travado nesse
+enigma?
+!******************************!
+[t24_120_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:84>Professor, o estúdio fotográfico
+fica perto daqui. Por que a gente
+não dá uma passada lá?
+!******************************!
+[t24_120_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:77>É uma ótima ideia. Talvez os
+funcionários do estúdio tenham
+informações importantes para dar.
+!******************************!
+[t24_120_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:279>Veja só estas fotos da cidade, Luke.
+O fotógrafo com certeza tem um
+dom para captar detalhes.<W>
+!------------------------------!
+Mas ao observá-las com cuidado,
+pode-se perceber que não
+estão em ordem cronológica.<W>
+!------------------------------!
+Acha que consegue reorganizá-las
+para voltarem à ordem em que deviam
+estar expostas?
+!******************************!
+[t24_121_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:52>Reordene as fotos para ficarem
+na ordem em que foram tiradas.
+!******************************!
+[t24_122_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:86>É admirável o quão bem-preservadas
+estas velhas fotos estão.
+Como será que o fizeram?
+!******************************!
+[t24_123_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:99>Pronto. Usando essas fotos como indícios,
+fica claro que Folsense tem um
+passado rico e longevo.
+!******************************!
+[t24_123_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:90>Cor*!(?) Se reunirmos mais fotos como
+esta, aposto que veremos em detalhe
+como a cidade se desenvolveu.
+!******************************!
+[t24_123_300.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:102>Teoria interessante, Luke. Mas se
+essas fotos são tão antigas
+assim, por que parecem tão novas?
+!******************************!
+[t24_123_400.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:60>Agora que o senhor falou, é verdade...
+Elas parecem bem recentes.
+!******************************!
+[t24_123_500.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:144>Fotos antigas assim normalmente
+mostrariam sinais de deterioração.<W>
+!------------------------------!
+Me pergunto qual será o método
+adotado por este estúdio para manter
+as fotos tão imaculadas...
+!******************************!
+[t24_124_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:28>Analise as fotos cuidadosamente.
+!******************************!
+[t24_130_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:184>Ninguém na cidade quer brincar
+comigo, e por isso eu
+tô sempre sozinho.<W> Hmpf!<W>
+!------------------------------!
+E vocês? Querem brincar? Conheço
+uma brincadeira super legal,
+se chama <''>Resolver Enigma<''>!
+!******************************!
+[t24_131_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:17>Vem, vamos brincar!
+!******************************!
+[t24_132_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:99>Antes eu corria direto por aqui, mas
+tô me cansando super rápido esses
+dias. Será que eu tô ficando velho?
+!******************************!
+[t24_133_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:176>Ah... sabia que esse enigma ia
+ser fácil demais pro senhor, mas
+também, né? Eu ainda sou criança.<W>
+!------------------------------!
+Não conheço nenhum enigma mais
+difícil que esse. Vai ver os
+adultos da cidade saibam.
+!******************************!
+[t24_134_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:61>Ei, aonde vocês vão?
+Ainda têm que resolver
+o enigma!
+!******************************!
+[t24_140_100.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:47>Olá, cavalheiros. Em que
+lhes posso ser útil?
+!******************************!
+[t24_140_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:93>Precisamos com urgência de
+comida para um cachorro faminto.
+O senhor teria como nos ajudar?
+!******************************!
+[t24_140_300.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:159>Preciso admitir, esse é
+o pedido mais interessante que
+recebi hoje.<W>
+!------------------------------!
+Embalado eu não tenho nada, mas
+essas sobras de pernil* (beef shank) vão
+fazer o seu totó pular de alegria!!******************************!
+[t24_140_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:65>Perfeito. Aceitaria se desfazer
+delas? 
+
+!******************************!
+[t24_140_500.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:47>Claro. Só espero que o cãozinho
+goste de alho.
+!******************************!
+[t24_140_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Estou certo de que isso não
+será empecilho.
+!******************************!
+[t24_140_700.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:166>Certo. Bom, não vou lhes cobrar
+dinheiro, mas terão de resolver
+este enigma.<W>
+!------------------------------!
+Estou empacado nele há
+dias. Está começando a me tirar
+o sono!
+!******************************!
+[t24_141_800.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:57>Ah, aí estão vocês. Podem
+me ajudar a resolver este
+enigma?
+!******************************!
+[t24_142_1000.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:205>Não ouse menosprezar o alho,
+menino. É ele que nos protege
+dos vampiros.<W>
+!------------------------------!
+Se bem que, considerando a falta
+de clientes, começo a achar que
+também repele eles. Ha!
+!******************************!
+[t24_142_900.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Nossa, o cheiro de alho aqui tá
+tão forte que eu tô começando
+a ficar tonto.
+!******************************!
+[t24_143_1100.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:126>Só um verdadeiro amante de alho -
+que nem eu - é capaz de resolver
+este enigma.<W>
+!------------------------------!
+Tomem. Vocês provaram que
+merecem o pernil*.
+!******************************!
+[t24_143_1200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:22>Você recebeu um *pernil.
+!******************************!
+[t24_144_1300.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:82>Ei, não lembram do trato? É
+só resolverem o enigma que o
+pernil* é de vocês.
+!******************************!
+[t24_150_100.gds]
+<01:0000004C><03:5>NONE<03:5>NONE<01:00000003><03:71>A loja do papai fede tanto
+que se eu não brincar aqui
+fora, eu desmaio.
+!******************************!
+[t24_150_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:25>Que chato. Desmaiar não é
+legal!
+!******************************!
+[t24_150_300.gds]
+<01:0000004C><03:9>b1 smile<03:5>NONE<01:00000003><03:108>Tá tudo bem. Eu trouxe uns lanchinhos
+comigo, então pelo menos entediada
+não fico.<W> Eu divido com vocês.!******************************!
+[t24_151_100.gds]
+<01:0000004C><03:5>NONE<03:5>NONE<01:00000003><03:27>Vamos dividir a comida que
+eu trouxe.
+!******************************!
+[t24_152_100.gds]
+<01:0000004C><03:5>NONE<03:5>NONE<01:00000003><03:100>A loja do papai tem umas coisas
+bem legais... só não se esqueçam
+de tampar o nariz quando entrarem nela!******************************!
+[t24_153_100.gds]
+<01:0000004C><03:5>NONE<03:5>NONE<01:00000003><03:52>Legal, a divisão deu certo!
+Toma, esses são os de vocês.
+!******************************!
+[t24_153_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:86>Ah, muito obrigado!<W>&setani 2 b1_weep&
+!------------------------------!
+...Urg! Blérh! Tem gosto de alho
+cru!
+!******************************!
+[t24_153_300.gds]
+<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:101>Ops! Acho que o alho na loja
+afetou o gosto da minha comida.
+Vou ter que jogar fora.
+!******************************!
+[t24_154_100.gds]
+<01:0000004C><03:5>NONE<03:5>NONE<01:00000003><03:43>Que foi? Não gosta desse
+tipo de lanche?
+!******************************!
+[t24_160_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:45>Bah*! Malditos vampiros... saiam
+da minha propriedade!
+!******************************!
+[t24_160_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:33>O... o senhor está bem, moço?
+!******************************!
+[t24_160_300.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:100>Hrm?! Quem vem lá?<W>
+!------------------------------!
+Aliás, não precisam dizer!
+Eu reconheço lacaios vampíricos
+em qualquer lugar!
+!******************************!
+[t24_160_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:99>Espera aí, do que o senhor tá
+falando? A gente só veio investigar
+um grito que veio daqui.
+!******************************!
+[t24_160_500.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:201>Não adianta tentar me enganar,
+mocinho! Eu conheço muito bem
+essas mentiras de vampiro!<W>
+!------------------------------!
+Se querem mesmo me convencer de que
+não são vampiros, vão resolver este
+enigma. E rápido!
+!******************************!
+[t24_161_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:88>Primeiro dizem que vão resolver o
+enigma, depois desistem. Típico
+de vampiro!
+!******************************!
+[t24_162_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:73>Estão vendo aquele castelo? Aquele
+ao longe?<W> É o covil do
+vampiro.
+!******************************!
+[t24_162_200.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:136>Já o vi várias vezes lá no topo,
+vestido com a sua capa
+cara de vampiro!<W>
+!------------------------------!
+Ele está de olho em mim. De
+olho em todos na cidade que
+lutarão para protegê-la!
+!******************************!
+[t24_163_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:208>Nada mal para um vampiro.<W>
+A menos que... vocês não sejam
+mesmo lacaios do coisa ruim!<W>
+!------------------------------!
+Já que é assim, é bom seguirem o
+meu conselho: fiquem longe daquele
+castelo lá ao longe.
+!******************************!
+[t24_163_200.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:97>É ninho de uma das mais sinistras
+criaturas semi-vivas que existem.
+Um vampiro de verdade, em carne e osso... mortos!
+!******************************!
+[t24_163_300.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:30>Um vampiro em carne em osso?
+!******************************!
+[t24_163_400.gds]
+<01:00000042><03:10>b1 notalk<03:5>NONE<01:00000004><03:28>Não me faça repetir a profanidade!
+!******************************!
+[t24_164_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:96>Não conseguem resolver o meu enigma!<W>
+É como eu suspeitava. São aliados
+do vampiro!
+!******************************!
+[t24_170_100.gds]
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:92>Hola, amigo-san! Como é bom te ver
+de novo! Já estava crente de que
+nunca mais veria outra alma viva!
+!******************************!
+[t24_170_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:17>Aí, eu conheço o senhor!
+!******************************!
+[t24_170_300.gds]
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:153>Eu estava em uma viagem around the
+world e, até onde lembro,
+estava en transito para o Egito.<W>
+!------------------------------!
+Me digam, please, há quanto tempo
+foram feitas as pirâmides?
+!******************************!
+[t24_170_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:68>Sinto muito, senhor, mas aqui não é
+o Egito. Lembra-se de como veio
+parar aqui?
+!******************************!
+[t24_170_500.gds]
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:247>Nem faço ideia, my friend.<W>
+!------------------------------!
+Uma hora estou on my way pra
+África, na outra estou aqui.<W>
+!------------------------------!
+Como não tinha ninguém por perto,
+comecei a fuçar nessa coisa pra
+passar o tempo, mas acho que quebrei!<W>
+!------------------------------!
+Podem me ajudar a consertá-la,
+s'il vous pla<<5E>i>t?
+!******************************!
+[t24_171_100.gds]
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:85>Ah, ni hao de novo. Me ajudem aqui
+com este puzzle, bitte. Ele é
+um pé no bag.
+!******************************!
+[t24_172_100.gds]
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:71>Oh my God! Como foi que eu vim
+parar aqui?<W> Era para eu estar
+em um trem rumo ao Egito.
+!******************************!
+[t24_173_100.gds]
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:109>Ah, wunderbar! Muito arigatô, mein amie!
+Agora que minha mente está tranquilizada,
+posso enfim sair desta tumba empoeirada.
+!******************************!
+[t24_174_100.gds]
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:84>Essa não... vou acabar virando
+uma múmia nesta pirâmide e não
+vou resolver esse enigma.
+0!******************************!
+[t24_180_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Olha só, tem alguma coisa escrita
+aqui na parede.
+!******************************!
+[t24_180_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:70>Realmente: um enigma.
+Que tal analisarmos ela com
+mais cuidado?
+!******************************!
+[t24_181_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>Bom, vamos tentar mais uma vez.
+!******************************!
+[t24_182_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>Aposto que as pessoas que trabalhavam
+aqui também resolveram esse
+enigma.
+!******************************!
+[t24_182_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>O que significa que elas eram
+verdadeiramente inteligentes.
+!******************************!
+[t24_183_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:121>Até que enfim consegui resolver!<W>
+!------------------------------!
+Mas não é estranho, Professor?
+Por que alguém se daria ao trabalho
+de colocar um enigma aqui?
+!******************************!
+[t24_183_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:84>Talvez os mineradores gostassem
+de fazer enigmas para passar o
+tempo entre um turno e outro.
+!******************************!
+[t24_184_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:37>Podemos voltar para resolver
+esse enigma mais tarde.
+!******************************!
+[t24_190_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>A porta não quer abrir, Professor.
+!******************************!
+[t24_190_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:56>De fato. Parece que precisamos
+primeiro resolver este
+enigma.
+!******************************!
+[t24_191_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>Bom, hora de tentar resolver o
+enigma mais uma vez.
+!******************************!
+[t24_192_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:72>Este mecanismo parece ser o
+que controla o acesso ao
+fundo da mina.
+!******************************!
+[t24_192_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:77>Faz sentido. Não é como se desse
+para dar livre acesso ao público
+a uma mina de ouro.
+!******************************!
+[t24_193_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:49>Maravilha, a porta se abriu.
+Prossigamos.
+!******************************!
+[t24_194_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:65>Não podemos avançar até
+resolvermos este complexo enigma.
+!******************************!
+[t24_200_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:139>Precisamos deste elevador para
+continuarmos a nos adentrar na
+mina, mas parece estar quebrado...<W>
+!------------------------------!
+O que podemos fazer para
+consertá-lo...?
+!******************************!
+[t24_200_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:106>A-há: há uma placa de circuitos
+aqui. Acho que podemos usá-la
+pra restaurar a energia no elevador.
+!******************************!
+[t24_200_300.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:109>Vejamos...<W>
+!------------------------------!
+Hmm, entendi. Siga as instruções
+na placa de circuito, Luke.
+Isso deverá solucionar nosso problema.
+!******************************!
+[t24_201_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:67>Podemos usar esta placa de circuito
+para consertar o elevador.
+!******************************!
+[t24_202_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:55>O elevador voltou a funcionar,
+Luke. Sigamos em frente.
+!******************************!
+[t24_203_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:56>Ah, o elevador tá fazendo um barulho.
+Acho que consertamos ele!
+!******************************!
+[t24_203_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:60>Perfeito. Creio que agora
+devamos usá-lo para descer.
+!******************************!
+[t24_204_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:76>Nossa exploração da mina terá de
+esperar até consertarmos este
+velho elevador.
+!******************************!
+[t24_210_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:95>O que acha, Luke?<W> Será que
+este cofre contém alguns dos
+diários de que Grinko nos falou?
+!******************************!
+[t24_210_200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:62>Bom, só vamos saber depois
+de abrir...<W> Como é que se
+abre?
+!******************************!
+[t24_210_300.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:73>A tranca parece bastante complicada.
+Deixe-me ver se consigo
+decifrar o código.
+!******************************!
+[t24_211_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:75>O cofre parece bem lacrado, mas
+creio ser capaz de achar uma
+forma de abri-lo.
+!******************************!
+[t24_212_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:57>Não há mais o que fazer aqui.
+Vamos voltar para a cidade.
+!******************************!
+[t24_213_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Consegui.
+!******************************!
+[t24_214_100.gds]
+<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:43>Hmm... Abrir cofres certamente
+não é fácil, não concorda?
+!******************************!
+[t24_220_100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:79>Já recuperamos os documentos
+que viemos pegar. Por hora, é
+melhor voltarmos.
+!******************************!
+[t24_220_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:48>Mas como assim?<W> O elevador
+não tá funcionando!
+!******************************!
+[t24_220_300.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:91>É, isso é um problema.<W> Ah, mas
+veja só: há um painel* de botões
+na parede.
+!******************************!
+[t24_220_400.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:84>Com certeza um desses botões
+pode ser usado para fazer o elevador
+subir. Mas estão desconectados.
+!******************************!
+[t24_221_100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:84>Um desses botões deve ativar
+o elevador, mas precisamos
+reconectá-los.
+!******************************!
+[t24_222_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:34>Vamos sair daqui, Professor.
+!******************************!
+[t24_223_100.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:77>Os botões parecem estar funcionando.
+Devemos conseguir sair da mina
+agora.
+!******************************!
+[t24_224_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:40>Temos que consertar o elevador,
+Professor.
+!******************************!
+[t24_230_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:293>Eu não sou de me gabar, mas as
+panquecas que eu preparo são as
+melhores do mundo!<W>
+!------------------------------!
+O único problema é que apesar do
+sabor delas ser divino, é difícil
+deixar o tamanho delas consistente.<W>
+!------------------------------!
+E servi-las acaba dando a maior
+trabalheira porque é preciso empilha-las
+direitinho.<W> Eu mostro para vocês.
+!******************************!
+[t24_231_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:81>Não conseguem resistir à
+tentação de mais panquecas,
+hã? Sei como se sentem.
+!******************************!
+[t24_232_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:80>As minhas panquecas são tão
+macias e fofinhas que chega dá
+vontade de deitar nelas!
+!******************************!
+[t24_233_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:165>Nossa! As suas mãos foram tão rápidas
+que parecia até que você estava fazendo
+malabarismo com as panquecas!<W>
+!------------------------------!
+Da próxima vez que eu
+preparar outra porção, podem
+comer quantos quiserem!
+!******************************!
+[t24_234_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:88>Não gostam de panquecas apetitosas?<W>
+Tudo bem. Acho que gosto
+não se discute...
+!******************************!
+[t24_240_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:231>Voltaram para ver de novo
+minha magia culinária
+em ação?<W>
+!------------------------------!
+Eu ando preparando panquecas
+na velocidade da luz. Agora
+tem mais do que nunca.<W>
+!------------------------------!
+Mas, infelizmente, assim como
+da última vez, não consigo
+fazê-las do mesmo tamanho.
+!******************************!
+[t24_241_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:52>Voltaram para mais uma porção
+de panquecas gostosas?
+!******************************!
+[t24_242_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:192>Bom, a minha farinha acabou
+e, portanto, lamento informar, não
+dá mais para fazer panquecas.<W>
+!------------------------------!
+Eu até compraria mais na
+mercearia*, mas aí as minhas
+panquecas ficariam puro alho.
+!******************************!
+[t24_243_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:197>Fantástico! É a primeira vez
+que vejo alguém fazendo
+panquecas com tanta delicadeza!<W>
+!------------------------------!
+Qualquer outra pessoa que tentasse
+empilha-las assim já estaria coberta
+de massa a esta altura.
+!******************************!
+[t24_244_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:54>Ah, entendi. Estão cheios
+demais para comer panquecas,
+não é mesmo?
+!******************************!
+[t24_250_100.gds]
+<01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:72>É raro ver gente nova por aqui!
+Estão passeando pela cidade?
+!******************************!
+[t24_250_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:132>Quase isso, sim. Mas não
+estamos aqui por turismo.<W>
+!------------------------------!
+Estamos em busca de uma
+antiguidade conhecida como a Caixa
+Elisiana*. O senhor já ouviu falar?
+!******************************!
+[t24_250_300.gds]
+<01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:258>Hmm... não, é a primeira vez
+que escuto o nome. Bem que eu
+queria ter informações para dar.<W>
+!------------------------------!
+Ah, mas não posso deixar visitantes
+de nossa grande cidade saírem
+de mãos vazias.<W>
+!------------------------------!
+Tomem. Não é um chaveiro,
+mas levem como lembrança daqui
+de Folsense.
+!******************************!
+[t24_251_100.gds]
+<01:00000049><03:9>b1 laugh<03:5>NONE<01:00000002><03:76>Que bom que voltaram.
+Não terminaram o enigma
+da última vez.
+!******************************!
+[t24_252_100.gds]
+<01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:103>Aquele boato assolou* a cidade
+uns anos atrás, mas não consigo
+me lembrar quando exatamente ele aconteceu* (começou?)
+!******************************!
+[t24_253_100.gds]
+<01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:307>Bom trabalho, rapazes.<W>
+!------------------------------!
+Lamento dizer, mas se a investigação
+de vocês da Caixa Elisiana os trouxe
+até aqui, é porque está errada.<W>
+!------------------------------!
+É que vários dos Folsensianos
+que eram especialistas abandonaram
+a cidade faz uns anos já.<W>
+!------------------------------!
+Tudo começou com um boato
+estranho que percorreu a
+cidade como uma doença.
+!******************************!
+[t24_253_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:112>Então mesmo se este for o
+lugar certo, não há mais
+quem consultar...<W>
+!------------------------------!
+Diga-me, que boato foi esse?
+!******************************!
+[t24_253_300.gds]
+<01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:175>Uma bobagem aí sobre uma maldição...
+para ser franco não estou muito
+certo do que se tratava.<W>
+!------------------------------!
+Mas ás vezes me pergunto onde
+foram parar todas aquelas pessoas
+que deixaram Folsense.
+!******************************!
+[t24_254_100.gds]
+<01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:40>Mil desculpas. Não gostaram do
+meu enigma?
+!******************************!
+[t24_260_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:93>Nossa, este lugar tem pinturas* (obras de arte? depende do local)
+bem incomuns. Nem sei como
+interpretar esse quadro aqui.
+!******************************!
+[t24_260_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:48>Hm? A qual quadro você se
+refere, Luke?
+!******************************!
+[t24_260_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:60>Esse aqui.<W> Será que essas
+formas esquisitas são algum
+tipo de código?
+!******************************!
+[t24_260_400.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:60>Me parece que você encontrou
+um enigma. Dê só uma olhada.
+!******************************!
+[t24_261_100.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:33>Dê mais uma olhada nisso, Luke.
+!******************************!
+[t24_262_100.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:114>Dá para imaginar, usar enigmas
+para decorar a própria casa?<W>
+!------------------------------!
+O dono deste lugar deve ser
+um grande entusiasta.
+
+!******************************!
+[t24_263_100.gds]
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:28>Ah, agora eu entendi como funciona.
+!******************************!
+[t24_264_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:40>Eu não entendo esse enigma
+nem um pouco.
+!******************************!
+[t24_270_100.gds]
+<01:0000004D><03:10>b1 normal<03:5>NONE<01:00000002><03:162>Vocês devem ter nervos de aço
+para terem chegado até aqui.<W>
+!------------------------------!
+Mas isso não vai me impedir de
+testá-los. Vejam se conseguem
+resolver este enigma.
+!******************************!
+[t24_271_100.gds]
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:87>Homens de verdade nunca desistem de
+um enigma. E vocês, são
+homens ou fedelhos?
+!******************************!
+[t24_272_100.gds]
+<01:0000004D><03:10>b1 normal<03:5>NONE<01:00000002><03:168>Se pretendem continuar floresta
+adentro, vão precisar de um
+pouco de iluminação.<W>
+!------------------------------!
+Ou muita iluminação se resolverem
+usar óculos escuros, que nem eu.
+A questão é: é bem escuro entrando aqui.
+!******************************!
+[t24_273_100.gds]
+<01:0000004D><03:11>b1 normal2<03:5>NONE<01:00000002><03:336>Agora, sim. Vocês dois
+resolveram o enigma* com maestria.<W>
+!------------------------------!
+É o seguinte: o Castelo Herzen
+fica do outro lado desta
+floresta.<W>
+!------------------------------!
+Ninguém se atreve a chegar nem
+perto, mas ouvi dizer que o enorme tesouro
+do duque está lá, dando sopa.<W>
+!------------------------------!
+Se pretendem ir lá, fiquem espertos
+pra não serem pegos pelo vampiro,
+ou seja lá o que for que tem lá.
+!******************************!
+[t24_274_100.gds]
+<01:0000004D><03:10>b1 normal<03:5>NONE<01:00000002><03:83>Que tipo de homem larga um
+enigma pela metade? Um que
+é só metade de um homem!
+!******************************!
+[t24_280_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:21>Ah, um enigma escondido!
+!******************************!
+[t24_281_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:44>Aqui está o enigma escondido
+que eu tinha encontrado antes.
+!******************************!
+[t24_282_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:1>
+!******************************!
+[t24_283_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:34>Ufa! Esse deu trabalho!
+!******************************!
+[t24_284_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:28>Que enigma difícil.
+!******************************!
+[t24_290_100.gds]
+<01:0000004A><03:5>NONE<03:5>NONE<01:00000002><03:160>Cruzes, como vocês dois andam!
+Chega fico cansado só de
+olhar. A hur hur hur!**<W>
+!------------------------------!
+Por que não descansam um pouco
+com este meu enigma aqui?
+!******************************!
+[t24_291_100.gds]
+<01:0000004A><03:5>NONE<03:5>NONE<01:00000002><03:65>Dur,** fazendo mais uma parada nessa
+andada incessante de vocês?
+!******************************!
+[t24_292_100.gds]
+<01:0000004A><03:5>NONE<03:5>NONE<01:00000002><03:103>Eu, hein. Vocês gostam mesmo de
+andar pra lá e pra cá, né?<W> Eu
+nunca faria isso. Ia ficar todo suado*.
+!******************************!
+[t24_293_100.gds]
+<01:0000004A><03:5>NONE<03:5>NONE<01:00000002><03:167>Cruzes, vocês resolveram esse enigma
+tão rápido que chega minha
+cabeça tá até girando.<W>
+!------------------------------!
+Vocês são aquele tipo de
+gente que faz de tudo, hur*?<W>
+Fico cansado só de pensar.
+!******************************!
+[t24_294_100.gds]
+<01:0000004A><03:5>NONE<03:5>NONE<01:00000002><03:92>Dur, achei que fossem gênios. Talvez
+eu devesse ir procurar a solução
+pro meu enigma em outro lugar.
+!******************************!

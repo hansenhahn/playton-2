@@ -589,171 +589,166 @@ atrás daquela coisa, mas aquele menino
 é tão útil quanto um pente pra carecas.
 !******************************!
 [t14_190_400.gds]
-<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:162>Ahh, não fique assim, amor. Vai criar
-
-Oooh, don't fret like that, love.
-You'll get wrinkles in that
-distinguished brow of yours.<W>
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:162>Ahh, acalme o coração, querido.
+Não vai querer que apareçam rugas nesse
+seu lindo sombrancelhão, né?<W><W>
 !------------------------------!
-'Ey up then, Mr B, duck. How about
-coming inside for a catch-up?
+Então, Sr B, que tal entrar e
+se divertir um pouco?
 !******************************!
 [t14_190_500.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:70>Professor, did you see that?
-Mr Beluga just went into that
-cabaret.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:70>Professor, você viu aquilo?
+O Sr Beluga acabou de entrar naquele
+cabaré.
 !******************************!
 [t14_190_600.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:36>Let's take a closer look, shall we?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:36>Vamos olhar mais de perto.
 !******************************!
 [t14_200_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:11>GEEYAAAAH!
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:11>AAAHHHHH!
 !******************************!
 [t14_200_200.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:76>Augh!<W>
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:76>Ai!<W>
 !------------------------------!
-That scared me silly, Professor!
-What's making that awful racket?
+Que barulho bizarro foi esse, Professor?
+Chegou a me assustar!
 !******************************!
 [t14_200_300.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:89>I don't know, but I think it's coming
-from right above us. Quick, Luke,
-up the stairs!
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:89>Não sei, mas acho que vem logo
+acima de nós. Rápido, Luke, para
+as escadas!
 !******************************!
 [t14_210_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Finding a lead out here is slow
-going, isn't it?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Está difícil encontrar pistas
+aqui fora, né?
 !******************************!
 [t14_210_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:78>Indeed. The Herzen Museum seems
-to be our only hope for finding real
-clues.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:78>É verdade. Ao que tudo indica,
+o Museu Herzen é a última esperança
+para encontrarmos uma pista.
 !******************************!
 [t14_210_300.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:128>Gosh, if that's the case, maybe we 
-should revisit the museum.<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:128>Céis, se é esse o caso, talvez
+a gente deva revisitar o museu.<W>
 !------------------------------!
-You never know, it might have
-opened up while we were away.
+Vai saber, quem sabe abriram ele
+enquanto estávamos aqui.
 !******************************!
 [t14_210_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>You have a point, Luke. I hope the
-museum proves more useful to us
-this time than it did the last.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>Faz sentido o que disse, Luke. Espero que
+o museu nos seja mais útil agora
+do que foi na última vez.
 !******************************!
 [t14_220_100.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:42>Well look at that. The gate is open
-now.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:42>Ora, ora, olhe isso. O portão
+está aberto!
 !******************************!
 [t14_220_200.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:30>Now we can finally go inside!
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:30>Agora finalmente podemos entrar!
 !******************************!
 [t14_230_100.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:29>Mmm? Luke, do you hear that?
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:29>Hmm? Luke, ouviu isso?
 !******************************!
 [t14_230_1000.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:28>Ah, yes! Now I've got it!<@s>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:28>Ah, claro! Lembrei!<@s>
 !******************************!
 [t14_230_1100.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:23>What is it, Professor?
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:23>O que foi, Professor?
 !******************************!
 [t14_230_1200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:103>We must locate Inspector Chelmey
-at once. I need to see that photo
-he acquired from the crime scene.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:103>Temos que falar com o Inspetor
+Chelmey. Preciso ver aquela foto que
+ele confiscou na cena do crime.
 !******************************!
 [t14_230_1300.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:62>But this town is so big. How are
-we going to track him down?
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:62>Mas esta cidade é enorme. Como vamos
+achar ele?
 !******************************!
 [t14_230_1400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:97>Well, it's quite late now. He may
-have returned to the hotel for the
-night. What do you think?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:97>Bem, já está tarde. Talvez ele tenha
+voltado para o hotel. O que você acha?
 !******************************!
 [t14_230_1500.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:70>I think you're probably right.
-Quick, let's head back to the
-hotel!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:70>Acho que você tem razão. Certo,
+vamos voltar para o hotel!
 !******************************!
 [t14_230_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:62>It sounds like the conductor and
-Mr Beluga are rowing again.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:62>Parece que o fiscal e o Sr Beluga
+estão discutindo outra vez.
 !******************************!
 [t14_230_300.gds]
-<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:108>Nothing?<W> You don't even have so
-much as a lead on it? I thought I
-told you to find it and find it fast!
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:108>Nada?<W> Você não tem mesmo uma
+pista dela? Pensei ter te dito para 
+encontrá-la, e rápido!
 !******************************!
 [t14_230_400.gds]
-<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:407>Unko, you gotta cut me some slack.
-It's no piece of cake sneaking
-around with the fuzz on my tail.<W>
+<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:407>Titio, para de me pressionar assim.
+Não é fácil sair por aí com você
+gritando nos meus ouvidos o tempo todo.<W>
 !------------------------------!
-Plus that professor dude from
-London has been out playing
-detective.<W>
+Além disso, tem aquele tiozinho professor
+de Londres bancando o detetive por aí.<W>
 !------------------------------!
-Keeping a low profile takes it out
-of a guy, you know what I'm saying?<W>
+Manter a discrição cansa,
+saca o que quero dizer?<W>
 !------------------------------!
-Plus, my feet are killing me from all
-this running around. How about you
-let me take a break?<W>
+Meus pés estão me mantando
+de tanto caminhar! Que tal deixar eu
+descansar um pouco?<W>
 !------------------------------!
-Besides, if I get caught sneaking
-around like this...
+Sem falar que, se eu for pego
+bisbilhotando por aí...
 !******************************!
 [t14_230_500.gds]
-<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:184>You always were a layabout,
-Samuel. Stop moaning and get
-back to the task at hand.<W>
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:184>Você sempre foi um preguiçoso,
+Samuel. Pare de reclamar e
+se concentre na tarefa.<W>
 !------------------------------!
-Until you find that box, I'd better
-not hear the word <''>break<''> coming
-out of your mouth.
+Até que encontre aquela caixa, espero
+não ouvir mais a palavra <''>descansar<''>
+saindo da sua boca.
 !******************************!
 [t14_230_600.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:92>Gosh, Mr Beluga really let him
-have it. Do you think he was the
-one who opened this gate?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:92>Céus, que gênio terrível tem
+o Sr Beluga. Acha que foi ele
+quem abriu o portão?
 !******************************!
 [t14_230_700.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:209>I'm not sure, though it appears
-that while the gate is open, the
-museum itself is still closed.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:209>Não posso afirmar, mas ao que
+parece, apesar do portão estar aberto,
+o museu permanece fechado.<W>
 !------------------------------!
-But let's put this discussion aside
-for a moment. Tell me, Luke, do you
-recognise the symbol at our feet?
+Mas vamos deixar essa discussão de lado.
+Diga, Luke, reconhece este símbolo
+sob nossos pés?
 !******************************!
 [t14_230_750.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>The stone has been worn down
-over the years, but I've definitely
-seen this design before.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>Esta pedra pode até estar desgastada
+pelos anos que se passaram, mas tenho certeza
+de já ter visto esse formato antes.
 !******************************!
 [t14_230_800.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:77>Oh! It looks like the symbol on
-the book we found lying out in
-the street!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:77>Oh! Ela se parece com o 
+símbolo no livro que achamos jogado
+na rua!
 !******************************!
 [t14_230_900.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>That it does. But I'm certain I've
-seen something like this in another
-location too. But where...?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>Tem razão. Mas estou certo de
+já ter visto algo parecido com isto em
+algum outro lugar. Mas onde...?
 !******************************!
 [t14_240_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Yup, the museum doors are shut
-tight. There's no going in there.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>As portas do museu estão bem trancadas.
+Não temos como entrar.
 !******************************!
 [t14_250_100.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:188>Ah, Layton, it's you. I hear you've
-been very busy sniffing about town
-for information.<W>
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:188>Ah, Layton, é você. Ouvi falar que
+estava ocupado vasculhando a cidade
+atrás de informações.<W>
 !------------------------------!
-Tell me, has your search uncovered
-any genuinely useful facts?
-Another missing dog, perhaps?
+Me diga, a sua busca revelou algum
+fato que nos possa ser útil? Talvez
+um outro cachorro perdido?
 !******************************!
 [t14_250_1000.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:84>Inspector, do you recall the path
