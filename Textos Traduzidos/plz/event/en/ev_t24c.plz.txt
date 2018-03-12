@@ -13,112 +13,111 @@ escondido!
 me break a sweat!
 !******************************!
 [t24_604_100.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:43>Why don't we come back to this
-one later?
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:43>Por que não voltamos a este
+mais tarde?
 !******************************!
 [t24_610_100.gds]
-<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:186>Why does everyone make such a
-kerfuffle about warning people
-away from that castle?<W>
+<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:186>Por que todo o mundo faz um
+bafafá sobre avisar os outros
+sobre ficar longe do castelo?<W>
 !------------------------------!
-Even if you wanted to go, it's
-impossible to get up there!<W>
-The forest gate is always locked!
+Mesmo que você quisesse ir, é
+impossível chegar até ele!<W> O portão
+da floresta sempre está trancado!
 !******************************!
 [t24_610_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:53>I take it that's the sole path
-to the castle, then?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:53>
+Suponho que ele seja a única
+entrada para o castelo, então?
 !******************************!
 [t24_610_300.gds]
-<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:263>Kee hee! You actually want to go
-there, don't you? It's a weird and
-scary place, but I know the feeling.<W>
+<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:263>
+Muah rê rê! Vocês dois querem mesmo
+ir pr'a lá, hem? Lugarzinho esquisito
+e macabro, mas sei como é.<W>
 !------------------------------!
-The gate only opens to let this
-old stagecoach through.<W>
+O portão só abre para deixar
+esta carruagem velha passar.<W>
 !------------------------------!
-If you hide in the bushes and wait
-for the coach, you might be able
-to sneak in behind it.
+Se esconderem nos arbustos e esperar
+o cocheiro, é capaz de vocês poderem
+se infiltrar por trás.
 !******************************!
 [t24_610_400.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:68>So the gate does open! Do you know
-anything about this stagecoach?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:68>
+Então o portão se abre! Sabe alguma
+coisa sobre essa carruagem?
 !******************************!
 [t24_610_500.gds]
-<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:273>You've got me there. It heads up to
-the castle every day at about
-the same time.<W>
+<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:273>Você me pegou. Ele vai ao castelo
+todo dia quase a mesma hora.<W>
 !------------------------------!
-Maybe it delivers raw steaks and
-blood for the vampire's dinner!<W>
-But really, I have no idea.<W>
+Talvez para entregar carne crua ou
+sangue para o jantar dos vampiros!<W>
+Mas falando sério, não faço a minúscula ideia.<W>
 !------------------------------!
-But, hey, all this talk of
-stagecoaches has reminded me of
-this puzzle about horses.
+Mas, ei, olhando pelo lado positivo:
+toda essa conversa sobre carruagens
+me lembrou de um enigma sobre cavalos.
 !******************************!
 [t24_611_100.gds]
-<01:00000045><03:10>b2 normal<03:5>NONE<01:00000003><03:40>Back for another crack at that
-puzzle?
+<01:00000045><03:10>b2 normal<03:5>NONE<01:00000003><03:40>Voltou para tentar outra vez?
 !******************************!
 [t24_612_100.gds]
-<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:163>You always hear about vampires
-that are all pale and good looking.<W>
+<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:163>Você sempre ouve sobre como vampiros
+são pálidos e extremamente atraentes.<W>
 !------------------------------!
-He might be cold blooded but I
-bet that vamp up in the castle is
-hot, hot , hot! Kee hee!
+Ele pode até ter sangue frio, mas
+aposto que o vampiro naquele castelo
+é o maior bonitão! Ui ri ri!
 !******************************!
 [t24_613_100.gds]
-<01:00000045><03:10>b4 normal<03:5>NONE<01:00000003><03:267>Oh, now I get it. Kee hee hee hee!
-Thanks a million.<W>
+<01:00000045><03:10>b4 normal<03:5>NONE<01:00000003><03:267>Ah, agora eu entendi. Uo rô rô rô!
+Muitíssimos obrigados.<W>
 !------------------------------!
-Like I was saying, if you want to go
-through that gate, sneaking in with
-the stagecoach is the only way.<W>
+Como eu ia disse, se quiserem passar
+por aquele portão vão ter que ir
+à socapa com a carruagem.<W>
 !------------------------------!
-But you never know what kind of
-dangerous stuff could be hiding in
-the woods, so I say stay here!
+Mas nunca se sabe que coisas perigosas
+podem estar na floresta, então eu fico aqui!
 !******************************!
 [t24_614_100.gds]
 <01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:102>Hey, I went through all the trouble
-of telling you that puzzle. The
-least you could do is solve it.
+of telling you that puzzle.
+O mínimo que podem fazer é resolvê-lo.
 !******************************!
 [t24_620_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:39>It's pitch-black out here,
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:39>Está um breu aqui,
 Professor.
 !******************************!
 [t24_620_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:170>Yes, without some sort of light, I
-don't believe we'll be able to
-advance.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:170>Sim, sem algum tipo de luz, não creio
+que sêjamos capaz de prosseguir.<W>
 !------------------------------!
-But what do we have here?<W> We're in
-luck, my boy! I think someone left
-a lantern here.
+Mas o que temos aqui?<W> Meu garoto,
+estamos com sorte! Acho que alguém
+deixou uma lanterna aqui!
 !******************************!
 [t24_621_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:55>Let's see if a little light
-can help us find our way.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:55>Vamos ver se um pouco de luz
+não nos ajuda a achar nosso caminho.
 !******************************!
 [t24_622_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Lantern or no, this forest gives me
-goosebumps something rotten.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Com ou ser lanterna, esta floresta
+me congela a espinha.
 !******************************!
 [t24_623_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:110>Aha, now we've got a light.<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:110>Arrá, agora nós temos luz.<W>
 !------------------------------!
-Curious though, isn't it? Who would
-leave a perfectly good lantern
-out here?
+Mas é gozado, não? Quem abandonaria
+uma lanterna tão perfeita?
 !******************************!
 [t24_623_200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:101>I can't imagine someone simply
-forgot it here. It's almost like
-someone is leaving a trail for us.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:101>
+Não consigo acreditar que alguém simplesmente
+esqueceu ela aqui. É quase como se alguém
+estivesse deixando algum rasto para nós.
 !******************************!
 [t24_624_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:98>If we can't light the way with that
@@ -126,8 +125,8 @@ lantern, how can we make sure we
 don't wander off the path?
 !******************************!
 [t24_630_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>This forest just goes on and on,
-and it's darker than ever here.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Esta floresta não acaba nunca, e
+está ficando mais e mais escuro.
 !******************************!
 [t24_630_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:88>Yes, but fortunately somebody left
@@ -135,27 +134,26 @@ behind a second lantern. Let's see
 where we are...
 !******************************!
 [t24_631_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:55>Let's shed a little light on the
-situation, shall we?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:55>Vamos dar uma iluminada em nossa situação, que tal?
 !******************************!
 [t24_632_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Even with the light, this forest
 is still creepy!
 !******************************!
 [t24_633_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:21>Finally, some light!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:21>Luz, aleluia!
 !******************************!
 [t24_633_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:59>Now that the path is easier to
-follow, let's move ahead. 
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:59>Agora que o caminho está mais claro,
+vamos andando.
 !******************************!
 [t24_634_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:23>I can't see a thing...
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:23>Não posso ver nada...
 !******************************!
 [t24_640_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:87>Professor, I hate to say it again,
-but I think we need a little more
-light out here.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:87>Professor, odeio repetir,
+mas acho que precisamos de mais um
+pouco de luz aqui.
 !******************************!
 [t24_640_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:76>All right, let's see if we can
@@ -167,23 +165,21 @@ bearings back.
 we can press on.
 !******************************!
 [t24_642_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:69>I don't care if we have extra light.
-This place is spine-chilling! 
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:69>Não importa se temos mais ou menos luz.
+Este lugar é de esbranquiçar os cabelos.
 !******************************!
 [t24_643_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Yay, I can see again! That's much
-better!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Oba, posso ver de novo! É tão melhor assim.
 !******************************!
 [t24_644_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:21>I can't see a thing!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:21>Estou cego!
 !******************************!
 [t24_650_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Well, look at that! It's a hidden
-puzzle!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Olha, quem diria! Um enigma escondido!
 !******************************!
 [t24_651_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:49>Say, this hidden puzzle hasn't
-been solved yet.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:49>Say, este enigma escondido
+não foi resolvido ainda.
 !******************************!
 [t24_652_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
@@ -196,7 +192,7 @@ been solved yet.
 that's for sure.
 !******************************!
 [t24_660_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Look at this strange mushroom,
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Olha que cogumelo estranho,
 Professor.
 !******************************!
 [t24_660_200.gds]
@@ -205,54 +201,54 @@ type before. Let me study it just
 a moment before we move on.
 !******************************!
 [t24_661_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>I've never seen this type of
-mushroom before. Let me study it
-further before we head off.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>Nunca vi este tipo de cogumelo antes.
+Permita-me estudá-lo um pouco antes
+de partimos.
 !******************************!
 [t24_662_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:98>I get the feeling something scary
-might jump out of the bushes any
-minute. Let's get a move on!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:98>Tenho aquela estranha sensação de que
+algo assustador pode avançar dos arbustos
+à qualquer instante. Vamos seguindo!
 !******************************!
 [t24_663_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:74>Now that your curiosity is
-satisfied, can we please move on,
-Professor?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:74>Agora que sua curiosidade
+foi satisfeita, podemos por favor
+ir em frente, Professor?
 !******************************!
 [t24_664_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:91>Puzzles are great and all but
-I'd rather focus on getting out
-of this spooky forest now.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:91>Eu adoro enigmas, mas eu sinceramente
+preferiria se concentrássemos sair
+desta floresta macabra logo.
 !******************************!
 [t24_670_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>Brrr... When did it get so chilly?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>Brrr... Quando foi que ficou tão frio?
 !******************************!
 [t24_670_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:102>Indeed. It's so cold out here that
-the lake has frozen over...<W> Oh! I
-have an idea for a shortcut.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:102>Realmente. Está tão frio que o
+lago inteiro congelou...<W> Ah!
+Tive uma idea para um atalho.
 !******************************!
 [t24_671_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>I'm certain we'll make it through
-this time.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>Tenho certeza de que vamos
+passar desta vez.
 !******************************!
 [t24_672_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:92>Brrr! When did the temperature
-decide to dip below freezing?
-This forest is very strange.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:92>Brrr! Quando foi que a temperatura
+caiu para abaixo de zero?
+Esta floresta é estranhíssima.
 !******************************!
 [t24_673_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:86>Our crossing went as well as could
-be hoped for, but we can't stop
-here. Off we go.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:86>Nossa passagem foi a melhor que
+podia se esperar, mas não devemos
+parar agora. Cá vamos nós.
 !******************************!
 [t24_674_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:58>There must be some way to slide
-across that frozen lake.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:58>Deve haver alguma maneira de
+deslizar pelo lago congelado.
 !******************************!
 [t24_680_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>Wh-Whoooa! Watch your step here,
-Professor! It's nothing but ice.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>Uo-uooou! Cuidado aonde pisa,
+Professor! É gelo puro.
 !******************************!
 [t24_680_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:89>There's no snow for us to walk
@@ -260,21 +256,19 @@ on here, so we'll need to tread
 carefully. Here goes...
 !******************************!
 [t24_681_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>This time we'll make it through
-for sure!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Desta vez nós com certeza vamos conseguir.
 !******************************!
 [t24_682_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Be careful where you walk, Luke.
-One wrong step here will land
-you on your backside.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Cuidado aí, Luke.
+Um passo em falso e você bate a nuca.
 !******************************!
 [t24_683_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:134>Well done. It's a miracle we both
 made it across without taking a
 tumble.<W>
 !------------------------------!
-I sense we're getting close, Luke.
-Let's keep moving.
+Sinto que estamos quase chegando, Luke.
+Vamos em frente.
 !******************************!
 [t24_684_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:76>With a little care, we should
@@ -287,72 +281,71 @@ frozen lake. It appears to be
 the only way across, so here we go.
 !******************************!
 [t24_691_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>This time I'm certain we'll make
-it through.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>Desta vez nós com certeza
+vamos passar.
 !******************************!
 [t24_692_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:57>Take small steps and watch your
 footing out here, Luke.
 !******************************!
 [t24_693_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>We made it across! Now we've only
-a short distance left to cover
-and we'll be there.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Atravessamos! Agora só mais um pouco
+e chegaremos lá.
 !******************************!
 [t24_694_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:48>It shouldn't be too difficult to
 slide across.
 !******************************!
 [t24_700_100.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:23>I spy a hidden puzzle!
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:23>Bati o olho num enigma escondido!
 !******************************!
 [t24_701_100.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:44>Here's that hidden puzzle I
-found earlier.
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:44>Aqui aquele enigma escondido
+que eu tinha avistado antes.
 !******************************!
 [t24_702_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
 !******************************!
 [t24_703_100.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:30>Whew, that was a lot of work!
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:30>Ufa, deu bastante trabalho!
 !******************************!
 [t24_704_100.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:28>This one's tricky for sure.
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:28>Este foi bem traiçoeiro.
 !******************************!
 [t24_710_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Oh, no! We're locked in! There's
-no place to run!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Essa não! Estamos trancados! Não tem para onde ir!
 !******************************!
 [t24_710_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>Calm yourself, Luke. There's bound
-to be another way out of this
-room. Look around you.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>Acalme-se, Luke. Com certeza deve
+haver outro meio de sair desta sala.
+Olhe à sua volta.
 !******************************!
 [t24_710_300.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:48>I can see the key! If only I could
-reach it...
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:48>Posso ver a chave!
+Se tivesse como eu alcançá-la...
 !******************************!
 [t24_710_400.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:35>Here, let's see if I can reach it.
 !******************************!
 [t24_711_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:63>Once we have that key, we're as
-good as free. I'm sure of it.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:63>Uma vez aquela chave em mãos,
+e nós estamos livres. Tenho certeza.
 !******************************!
 [t24_713_100.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:64>There we are. The door is unlocked
-now. Freedom is ours, Luke!
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:64>There we are.
+A porta agora está destrancada.
+Chegou a nossa liberdade, Luke!
 !******************************!
 [t24_713_200.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:24>Great job, Professor!
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:24>Ótimo trabalho, Professor!
 
 !******************************!
 [t24_713_300.gds]
-<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:12>I wonder...
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:12>Será que...
 !******************************!
 [t24_713_400.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>What's the matter? Let's get out
-of here!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Qual é o problema? Vamos nos retirar
+logo daqui!
 !******************************!
 [t24_713_500.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:90>Doesn't this all seem a little too
@@ -361,8 +354,7 @@ wants us to escape.
 !******************************!
 [t24_713_600.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:87>Don't be ridiculous, Professor.
-If he lets us escape, there goes
-his midnight snack!
+Se a gente fugir, já era o seu lanchinho da meia-noite!
 !******************************!
 [t24_713_700.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:98>True, but at the very least, I'd
@@ -370,15 +362,14 @@ expect someone to be watching
 us if he meant to keep us here.
 !******************************!
 [t24_713_800.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:7>But...
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:7>Mas...
 !******************************!
 [t24_713_900.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:158>In any case, he doesn't seem to
-have taken a great liking to us.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:158>De qualquer forma, ele não
+parece ir muito com nossa cara.<W>
 !------------------------------!
-Putting some distance between
-him and ourselves seems like
-a prudent course of action.
+Manter certa distância entre ele e
+nós parece a atitude mais pertinente.
 !******************************!
 [t24_714_100.gds]
 <01:00000002><03:9>b1 sweep<03:5>NONE<01:00000003><03:84>If we don't get out of here, we're
@@ -406,68 +397,67 @@ Follow me.
 here. We absolutely must open it.
 !******************************!
 [t24_730_100.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:130>I couldn't help but notice you two
-looking at the photos hanging on
-the wall over there.<W>
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:130>Não deu para ignorar como os
+senhores veem as fotos penduradas
+naquela parede.<W>
 !------------------------------!
-Tell me, what do you think of them?
+Digam-me, o que acharam delas?
 !******************************!
 [t24_730_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:141>Todas as quatro fazem um trabalho maravilhoso
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:141>Todas as quatro fazem um explêndido trabalho
 em capturar a alma de Folsense.<W>
 !------------------------------!
-PorÃ©m, nÃ£o consegui ignorar o
-fato de que estÃ£o fora de ordem.
+Porém, não consegui ignorar o
+fato de que estão fora de ordem.
 !******************************!
 [t24_730_300.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:158>Ah, sim, entÃ£o vocÃª percebeu. That's
-just something I did to keep my
-customers on their toes.<W>
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:158>Ah, sim, então você percebeu.
+Foi só uma coisa que eu fiz para ver
+se os meus clientes estavam espertos.<W>
 !------------------------------!
-Gostaria de tentar restaurÃ¡-las
-Ã  sua ordem original? 
+Gostaria de tentar restaurá-las
+à sua ordem original? 
 !******************************!
 [t24_731_600.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:150>Ã‰ sempre tocante ver clientes
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:150>É sempre tocante ver clientes
 expremirem interesse em minhas fotografias.<W>
 !------------------------------!
-Say, do you think you could help me
-out by rearranging these pictures?
+Say, acha que pode me ajudar
+reordenando essas imagens?
 !******************************!
 [t24_732_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:78>Deus, estas fotos parecem
 incrivelmente recentes considerando sua idade.
-Como vocÃª fez isto?
+Como você fez isto?
 !******************************!
 [t24_732_200.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:71>Eu fico lisongeado, mas Ã© sÃ©rio, nÃ£o faÃ§o nada
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:71>Eu fico lisongeado, mas é sério, não faço nada
 para preservar minhas fotos.
 !******************************!
 [t24_733_100.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:182>Nicely done. They do look much
-better this way, so thank you 
-for taking care of that.<W>
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:182>Nicely done. Parecem bem melhor
+assim, então agradeço-lhes por
+cuidarem disso.<W>
 !------------------------------!
-To be honest, I've meant to
-rearrange them for a while now,
-but never got around to it.
+Sendo sincero, era para eu ter
+reordenado as fotos faz um tempinho
+já, mas eu nunca de fato o fiz.
 !******************************!
 [t24_733_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:197>NÃ£o foi problema nenhum.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:197>Não foi problema algum.<W>
 !------------------------------!
-I did notice one thing though.
-Considering their age, these are
-in remarkably good condition.<W>
+Eu notei algo, porém.
+Levando em conta suas idades,
+estão impecáveis.<W>
 !------------------------------!
-Tell me, what's your secret to
-keeping the photographs so
-vibrant?
+Conte-me, qual é o segredo para
+manter suas fotografias tão vivas?
 !******************************!
 [t24_733_300.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:132>RÃ¡ rÃ¡, ou estÃ¡ me bajulando
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:132>Rá rá, ou está me bajulando
 ou teus olhos lhe enganam.<W>
 !------------------------------!
-NÃ£o faÃ§o nada de especial para
+Não faço nada de especial para
 conservar minha fotografias.
 !******************************!
 [t24_733_400.gds]
@@ -475,10 +465,10 @@ conservar minha fotografias.
 velhas assim mostrar sinais de desgaste
 de fonte externas.<W>
 !------------------------------!
-Bom, quem sabe os mÃ©todos de
-preservaÃ§Ã£o sÃ£o um segredo comercial?
+Bom, quem sabe os métodos de
+preservação são um segredo comercial?
 !******************************!
 [t24_734_500.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:59>Suponho que nÃ£o vai organizar essas
-fotografias para mim entÃ£o.
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:59>Suponho que não vai organizar essas
+fotografias para mim então.
 !******************************!

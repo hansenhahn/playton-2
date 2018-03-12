@@ -5,60 +5,60 @@ daqui.
 !******************************!
 [t24_300_200.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:107>
-Com certeza.<W> Ali√°s, isso me lembra
+Com certeza.<W> Ali·s, isso me lembra
 de um enigma genial sobre uma fonte
 Posso te contar?
 !******************************!
 [t24_301_100.gds]
 <01:00000002><03:9>b2 laugh<03:5>NONE<01:00000003><03:39>
-OK, aqui est√° o enigma da fonte
+OK, aqui est· o enigma da fonte
 de novo.
 !******************************!
 [t24_302_100.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:96>
-N√£o consigo achar um gr√£o de
+N„o consigo achar um gr„o de
 poeira sequer nessa fonte. Quem
-voc√™ acha que limpa ela?
+vocÍ acha que limpa ela?
 !******************************!
 [t24_303_100.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:59>
-O jeito com que voc√™ desenrola
+O jeito com que vocÍ desenrola
 os enigmas nunca deixa de me
 impressionar.
 !******************************!
 [t24_304_100.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:55>
-Est√° desistindo? Tudo bem, posso
+Est· desistindo? Tudo bem, posso
 te contar o enigma de novo mais
 tarde.
 !******************************!
 [t24_310_100.gds]
 <01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:233>
-Hmm, sim. Esse ch√° √© justamente
+Hmm, sim. Esse ch· È justamente
 o que eu precisava para levantar
 minha moral.<W>
 !------------------------------!
-Posso importun√°-lo um instante e
-consultar sua opini√£o sobre algo,
+Posso importun·-lo um instante e
+consultar sua opini„o sobre algo,
 bom senhor?<W>
 !------------------------------!
 Ultimamente tem ocorrido certos
-problemas na minha fam√≠lia, e para
-ser franca, √© demais pra mim.
+problemas na minha famÌlia, e para
+ser franca, È demais pra mim.
 !******************************!
 [t24_310_200.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:32>
-Mas √© claro. Por favor continue.
+Mas È claro. Por favor continue.
 !******************************!
 [t24_310_300.gds]
 <01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:172>
-Algumas semanas atr√°s, nosso
-advogado apresentou o conte√∫do
+Algumas semanas atr·s, nosso
+advogado apresentou o conte˙do
 do testamento do meu sogro.<W>
 !------------------------------!
-No entanto, a maneira √† qual ele
+No entanto, a maneira ‡ qual ele
 exigiu que suas propriedades fossem
-divididas √© um tanto rebuscada.
+divididas È um tanto rebuscada.
 !******************************!
 [t24_310_400.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:22>
@@ -67,8 +67,8 @@ Em que sentido, madame?
 [t24_310_500.gds]
 <01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:102>
 Os detalhes foram escritos na forma
-de uma charada estranha. At√© n√≥s a
-decifrarmos, ningu√©m recebe nada.
+de uma charada estranha. AtÈ nÛs a
+decifrarmos, ninguÈm recebe nada.
 !******************************!
 [t24_311_100.gds]
 <01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:52>
@@ -78,8 +78,8 @@ esse testamento confuso!
 [t24_312_100.gds]
 <01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:91>
 Dizem que boas cercas fazem bons
-vizinhos. H√° de se supor que isso
-inclui cercas el√©tricas?
+vizinhos. H· de se supor que isso
+inclui cercas elÈtricas?
 !******************************!
 [t24_313_100.gds]
 <01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:94>
@@ -89,22 +89,22 @@ parar de se queixar! Maravilha!
 !******************************!
 [t24_314_100.gds]
 <01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:83>
-Fico pensando no qu√£o terr√≠vel
-seria se n√£o tiv√©ssemos resolvido
+Fico pensando no qu„o terrÌvel
+seria se n„o tivÈssemos resolvido
 isso.
 !******************************!
 [t24_320_100.gds]
 <01:00000018><03:10>b2 normal<03:5>NONE<01:00000002><03:252>
 Sejam bem-vindos, senhores.
 Parecem ainda estar ocupados com
-sua investiga√ß√£o, pelo visto.<W>
+sua investigaÁ„o, pelo visto.<W>
 !------------------------------!
-Apesar de ador√°vel, nossa cidade
-√© bem vasta. Por isso cuidado
-para n√£o se cansarem.<W>
+Apesar de ador·vel, nossa cidade
+È bem vasta. Por isso cuidado
+para n„o se cansarem.<W>
 !------------------------------!
-Seus p√©s devem estar doloridos, ent√£o
-por que n√£o se sentam um pouco e
+Seus pÈs devem estar doloridos, ent„o
+por que n„o se sentam um pouco e
 apreciam esse enigma que preparei?
 !******************************!
 [t24_321_100.gds]
@@ -136,29 +136,29 @@ depois.
 [t24_330_100.gds]
 <01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:187>
 Ei, por que essa cara triste?
-N√£o √© maduro de sua parte ficar
+N„o È maduro de sua parte ficar
 indisposto desse jeito.<W>
 !------------------------------!
-Honestamente, n√£o aguento ver voc√™s
-desse jeito, ent√£o tomem esse
+Honestamente, n„o aguento ver vocÍs
+desse jeito, ent„o tomem esse
 enigma que uma amiga me contou.
 !******************************!
 [t24_331_100.gds]
 <01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:73>
-Vamos l√°, voc√™s conseguem resolver
-isso! Eu consegui achar a solu√ß√£o,
-e sou s√≥ uma menina.
+Vamos l·, vocÍs conseguem resolver
+isso! Eu consegui achar a soluÁ„o,
+e sou sÛ uma menina.
 !******************************!
 [t24_332_100.gds]
 <01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:90>
-D√° pra acreditar que aquela garota
-deisou Folsense s√≥ porque um menino
+D· pra acreditar que aquela garota
+deisou Folsense sÛ porque um menino
 deu um fora nela?<W> Mas que banana!
 !******************************!
 [t24_333_100.gds]
 <01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:83>
-Ei, muito bom, sabich√£o. Ali√°s,
-√© t√£o bom que acho que voc√™
+Ei, muito bom, sabich„o. Ali·s,
+È t„o bom que acho que vocÍ
 merece uma recompensa.
 !******************************!
 [t24_333_200.gds]
@@ -167,32 +167,32 @@ Que tipo de recomensa?
 !******************************!
 [t24_333_300.gds]
 <01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:327>
-Das melhores! Uma hist√≥ria!
-OK, l√° vai.<W>
+Das melhores! Uma histÛria!
+OK, l· vai.<W>
 !------------------------------!
-Pois bem, h√° muito tempo, havia
-na cidade outra fam√≠lia t√£o rica
+Pois bem, h· muito tempo, havia
+na cidade outra famÌlia t„o rica
 quanto os Herzens.<W>
 !------------------------------!
 Mas uma das filhas mais jovens
-teve seu cora√ß√£o partido por um
+teve seu coraÁ„o partido por um
 menino, e decidiu sair da cidade.<W>
 !------------------------------!
-Talvez seja s√≥ uma hist√≥ria que
-algu√©m inventou, mas se for verdade,
-esse menino deve ser um vacil√£o.
+Talvez seja sÛ uma histÛria que
+alguÈm inventou, mas se for verdade,
+esse menino deve ser um vacil„o.
 !******************************!
 [t24_334_100.gds]
 <01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:65>
-Est√° s√≥ fingindo que sabe, mas
-na verdade n√£o consegue resolver
+Est· sÛ fingindo que sabe, mas
+na verdade n„o consegue resolver
 meu enigma?
 !******************************!
 [t24_340_100.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:80>
-Ah, esse sim √© um ch√° √©pico.
+Ah, esse sim È um ch· Èpico.
 Esse aroma matizado quase me
-levou √†s l√°grimas.
+levou ‡s l·grimas.
 !******************************!
 [t24_340_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:22>
@@ -200,41 +200,41 @@ Fiz o melhor que pude, senhor.
 !******************************!
 [t24_340_300.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:198>
-Ahhhh. Ter√° que me dar licen√ßa.
-Faz um bom tempo que uma x√≠cara
-de ch√° n√£o me comove tanto.<W>
+Ahhhh. Ter· que me dar licenÁa.
+Faz um bom tempo que uma xÌcara
+de ch· n„o me comove tanto.<W>
 !------------------------------!
-N√£o √© muito, mas permita-me
-compartilhar este enigma com voc√™.
-√â o que posso fazer para agradecer.
+N„o È muito, mas permita-me
+compartilhar este enigma com vocÍ.
+… o que posso fazer para agradecer.
 !******************************!
 [t24_341_100.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:83>
-Voc√™s dois gostam de enigmas,
-n√£o √©? Pois bem, espero que
+VocÍs dois gostam de enigmas,
+n„o È? Pois bem, espero que
 gostem desse, meus amigos.
 !******************************!
 [t24_342_100.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:89>
-Com cabe√ßas t√£o afiadas, talvez
-voc√™s possam decifrar os mist√©rios
+Com cabeÁas t„o afiadas, talvez
+vocÍs possam decifrar os mistÈrios
 que assombram nossa cidade. 
 !******************************!
 [t24_343_100.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:199>
-Muito bem. Acho que voc√™s t√™m
-culh√µes para chegar ao fundo do
-que est√° havendo na cidade.<W>
+Muito bem. Acho que vocÍs tÍm
+culhıes para chegar ao fundo do
+que est· havendo na cidade.<W>
 !------------------------------!
-N√£o creio ter muito a oferecer
-para ajud√°-los, mas estarei
-torcendo por voc√™s.
+N„o creio ter muito a oferecer
+para ajud·-los, mas estarei
+torcendo por vocÍs.
 !******************************!
 [t24_344_100.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:98>
 Hmph. Depois de terem preparado esse
-ch√° que faz milagres, pensei que
-esse enigma seria f√°cil para voc√™.
+ch· que faz milagres, pensei que
+esse enigma seria f·cil para vocÍ.
 !******************************!
 [t24_350_100.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:30>
@@ -243,71 +243,71 @@ Aah! Achei um enigma escondido!
 [t24_351_100.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:49>
 Olha, esse enigma escondido
-ainda n√£o foi resolvido.
+ainda n„o foi resolvido.
 !******************************!
 [t24_352_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
 !******************************!
 [t24_353_100.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:26>
-Esse aqui foi bem dif√≠cil.
+Esse aqui foi bem difÌcil.
 !******************************!
 [t24_354_100.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:46>
-Como um enigma t√£o curto desses
-consegue ser t√£o dif√≠cil?
+Como um enigma t„o curto desses
+consegue ser t„o difÌcil?
 !******************************!
 [t24_360_100.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:309>
-Diga-me, voc√™ alguma vez j√° teve
-culh√µes de se aventurar fora dos
+Diga-me, vocÍ alguma vez j· teve
+culhıes de se aventurar fora dos
 limites da cidade?<W>
 !------------------------------!
-As hist√≥rias que escutei sobre o
-que as pessoas viram l√° fora
+As histÛrias que escutei sobre o
+que as pessoas viram l· fora
 fariam seu sangue gelar.<W>
 !------------------------------!
-Recentemente fui at√© l√° em pessoa
+Recentemente fui atÈ l· em pessoa
 para tirar algumas fotos com minha
-melhor c√¢mera.<W>
+melhor c‚mera.<W>
 !------------------------------!
 O que saiu disso foi... Bom,
-aqui, veja voc√™ mesmo.
+aqui, veja vocÍ mesmo.
 !******************************!
 [t24_361_100.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:70>
 Tenho interesse em saber sua
-opini√£o sobre esta foto que tirei.
+opini„o sobre esta foto que tirei.
 !******************************!
 [t24_362_100.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:152>
-Ultimamente, ningu√©m na cidade
+Ultimamente, ninguÈm na cidade
 quer se aproximar da floresta.<W>
 !------------------------------!
-H√° um caminho que leva voc√™ at√©
+H· um caminho que leva vocÍ atÈ
 o Castelo de Herzen, mas o seu
-port√£o est√° trancado.
+port„o est· trancado.
 !******************************!
 [t24_363_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>
-Ei, pensei que voc√™ ia nos mostrar
+Ei, pensei que vocÍ ia nos mostrar
 uma foto de um fantasma de verdade!
 !******************************!
 [t24_363_200.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:193>
 Ha ha ha! Desculpe por cortar o
 seu barato, amigo. Adoro pregar
-essa pe√ßa nos meus clientes.<W>
+essa peÁa nos meus clientes.<W>
 !------------------------------!
-Piadas √† parte, ningu√©m ousa entrar
+Piadas ‡ parte, ninguÈm ousa entrar
 na floresta agora. O lugar inteiro 
-est√° cheio de vegeta√ß√£o e perigos.
+est· cheio de vegetaÁ„o e perigos.
 !******************************!
 [t24_364_100.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:61>
 Isso pode ser minha melhor foto
-sobre atividade paranormal at√©
-ent√£o.
+sobre atividade paranormal atÈ
+ent„o.
 !******************************!
 [t24_370_100.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:35>
@@ -315,7 +315,7 @@ Ah, olha! Achei um enigma escondido!
 !******************************!
 [t24_371_100.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:37>
-Dessa vez voc√™ n√£o vai ficar
+Dessa vez vocÍ n„o vai ficar
 por cima, enigma!
 !******************************!
 [t24_372_100.gds]
@@ -323,27 +323,27 @@ por cima, enigma!
 !******************************!
 [t24_373_100.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:24>
-Ufa, essa n√£o foi f√°cil!
+Ufa, essa n„o foi f·cil!
 !******************************!
 [t24_374_100.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>
-Esse enigma n√£o vai cair
+Esse enigma n„o vai cair
 sem uma boa briga.
 !******************************!
 [t24_380_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:63>
 Opa, opa, opa! Todo esse alho
-est√° come√ßando a fazer minha
-cabe√ßa girar.
+est· comeÁando a fazer minha
+cabeÁa girar.
 !******************************!
 [t24_380_200.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:171>
-Bom, n√£o se preocupe. Um enigma
-r√°pido √© o que voc√™ precisa para
+Bom, n„o se preocupe. Um enigma
+r·pido È o que vocÍ precisa para
 refrescar a mente, Luke.<W>
 !------------------------------!
 Por sorte, agora mesmo me veio
-√† cabe√ßa um enigma muito
+‡ cabeÁa um enigma muito
 interessante.
 !******************************!
 [t24_381_100.gds]
@@ -353,15 +353,15 @@ e latas.
 !******************************!
 [t24_382_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:55>
-O que voc√™ acha que tem dentro
+O que vocÍ acha que tem dentro
 dessas jarras e latas, mesmo?
 !******************************!
 [t24_383_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:139>
-Bom, o que voc√™ acha, Professor?
-Mandei bem, n√©?<W>
+Bom, o que vocÍ acha, Professor?
+Mandei bem, nÈ?<W>
 !------------------------------!
-Mesmo assim, n√£o acho que esse
+Mesmo assim, n„o acho que esse
 enigma ajudou a me fazer esquecer
 esse fedor.
 !******************************!
@@ -372,14 +372,14 @@ desse enigma?
 !******************************!
 [t24_390_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:100>
-Olha s√≥! Algumas dessas latas e
-garrafas cont√©m outras coisas
-al√©m de alho! D√° pra acreditar?
+Olha sÛ! Algumas dessas latas e
+garrafas contÈm outras coisas
+alÈm de alho! D· pra acreditar?
 !******************************!
 [t24_390_200.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:87>
 Tudo aqui parece estar em ordem.
-Diga-me, Luke, j√° ouviu falar
+Diga-me, Luke, j· ouviu falar
 desse enigma aqui?
 !******************************!
 [t24_391_100.gds]
@@ -389,9 +389,9 @@ o enigma de jarras e latas?
 !******************************!
 [t24_392_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:141>
-Por incr√≠vel que pare√ßa, Sr. Garland
-possui uns g√™neros aliment√≠cios bem
-incomuns √† venda aqui.<W>
+Por incrÌvel que pareÁa, Sr. Garland
+possui uns gÍneros alimentÌcios bem
+incomuns ‡ venda aqui.<W>
 !------------------------------!
 Infelizmente, todas os seus
 produtos possuem um sabor bem
@@ -403,24 +403,24 @@ Que excelente resposta, Luke.
 !******************************!
 [t24_394_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:27>
-Ter√° que pensar bastante para
+Ter· que pensar bastante para
 resolver este aqui.
 !******************************!
 [t24_400_100.gds]
 <01:00000002><03:7>b3weep<03:5>NONE<01:00000003><03:91>
 Hm, Professor... Tem certeza que
-√© seguro atravessar?<W> Parece
-meio... fr√°gil.
+È seguro atravessar?<W> Parece
+meio... fr·gil.
 !******************************!
 [t24_400_200.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:51>
-Sim, n√£o creio que haja motivo
-de preocupa√ß√£o. Est√° com medo,
+Sim, n„o creio que haja motivo
+de preocupaÁ„o. Est· com medo,
 Luke?
 !******************************!
 [t24_400_300.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:81>
-Sim, um pouco. Digo, veja s√≥.
+Sim, um pouco. Digo, veja sÛ.
 Se eu cair, com certeza eu vou
 bater as botas.
 !******************************!
@@ -428,10 +428,10 @@ bater as botas.
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:202>
 Calma, Luke. Pode parecer perigoso,
 mas se ficar calmo e ir andando,
-chegar√° ao final tranquilamente.<W>
+chegar· ao final tranquilamente.<W>
 !------------------------------!
 Aqui, me ajude com esse enigma.
-Vai fazer voc√™ relaxar quanto
+Vai fazer vocÍ relaxar quanto
 a passar por esse abismo.
 !******************************!
 [t24_401_100.gds]
@@ -442,7 +442,7 @@ resolver aquele enigma da ponte.
 [t24_402_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:103>
 Os Herzens deviam investir um
-pouco de sua riqueza lend√°ria em
+pouco de sua riqueza lend·ria em
 reparos nessa ponte escangalhada.
 !******************************!
 [t24_403_100.gds]
@@ -453,28 +453,28 @@ ainda me deixa nervoso.
 !******************************!
 [t24_404_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>
-Esse aqui com certeza n√£o √©
-f√°cil.
+Esse aqui com certeza n„o È
+f·cil.
 !******************************!
 [t24_410_100.gds]
 <01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:31>
-Ei pessoal, o que voc√™s est√£o
+Ei pessoal, o que vocÍs est„o
 fazendo aqui?
 !******************************!
 [t24_410_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>
-Ol√°, jovem. Estamos procurando
-peda√ßos de uma fotografia rasgada.
+Ol·, jovem. Estamos procurando
+pedaÁos de uma fotografia rasgada.
 Chegou a ver algum?
 !******************************!
 [t24_410_300.gds]
 <01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:183>
-Sim! O vento trouxe esse peda√ßo
-pra mim. √â isso que voc√™s dois
-est√£o procurando?<W>
+Sim! O vento trouxe esse pedaÁo
+pra mim. … isso que vocÍs dois
+est„o procurando?<W>
 !------------------------------!
-A regra aqui no parquinho √© <''>achado
-n√£o √© roubado<''>, mas dou pra voc√™s
+A regra aqui no parquinho È <''>achado
+n„o È roubado<''>, mas dou pra vocÍs
 se resolverem esse enigma!
 !******************************!
 [t24_411_100.gds]
@@ -483,31 +483,31 @@ Quer tentar meu enigma de novo?
 !******************************!
 [t24_412_100.gds]
 <01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:64>
-Ningu√©m na cidade quer brincar
-comigo. √â muito chato.
+NinguÈm na cidade quer brincar
+comigo. … muito chato.
 !******************************!
 [t24_413_100.gds]
 <01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:88>
 Ah, entendi agora. Obrigado pela
-sua ajuda! Aqui o peda√ßo da foto,
+sua ajuda! Aqui o pedaÁo da foto,
 como eu prometi.
 !******************************!
 [t24_413_200.gds]
 <01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:103>
 Antigamente tinha muito mais gente
-em Folsense.<W> Mas a√≠ um dia, todo
+em Folsense.<W> Mas aÌ um dia, todo
 mundo se levantou e foi embora...
 !******************************!
 [t24_414_100.gds]
 <01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:107>
-N√£o vou te dar esse peda√ßo de foto
-at√© resolverem meu enigma.<W> Foi mal,
-mas √© assim que a banda toca.
+N„o vou te dar esse pedaÁo de foto
+atÈ resolverem meu enigma.<W> Foi mal,
+mas È assim que a banda toca.
 !******************************!
 [t24_420_100.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:57>
 Quer tentar resolver o enigma
-n√∫mero um, aqui de Folsense?
+n˙mero um, aqui de Folsense?
 !******************************!
 [t24_420_200.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:26>
@@ -515,88 +515,88 @@ Eu adoraria, senhor.
 !******************************!
 [t24_420_300.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:80>
-Que bom, porque c√™s iam se
-arrepender se n√£o tentassem.
-Aqui est√°.
+Que bom, porque cÍs iam se
+arrepender se n„o tentassem.
+Aqui est·.
 !******************************!
 [t24_421_100.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:40>
 Voltaram pra tentar a sorte
-de novo com aquele enigma l√°?
+de novo com aquele enigma l·?
 !******************************!
 [t24_422_100.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:97>
-Se realmente tiver um vampiro a√≠,
+Se realmente tiver um vampiro aÌ,
 talvez ele seja vegetariano.
-Por que n√£o v√£o l√° perguntar?
+Por que n„o v„o l· perguntar?
 !******************************!
 [t24_423_100.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:302>
-Ei, c√™ √© muito bom nisso. N√£o
+Ei, cÍ È muito bom nisso. N„o
 quero ver esse talento sendo
-desperdi√ß√£o, ent√£o escute.<W>
+desperdiÁ„o, ent„o escute.<W>
 !------------------------------!
 Ouvi falar que o vampiro que vive
 no Castelo de Herzen ataca todos
 que se aproximam.<W>
 !------------------------------!
-√â o que dizem as pessoas que
+… o que dizem as pessoas que
 por pouco conseguiram fugir
 do castelo com vida.<W>
 !------------------------------!
-Que medonho, n√£o √©?
+Que medonho, n„o È?
 !******************************!
 [t24_423_200.gds]
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:81>
-Ent√£o √© por isso que todo mundo
-na cidade come√ßa a tremer quando
+Ent„o È por isso que todo mundo
+na cidade comeÁa a tremer quando
 falamos sobre a floresta.
 !******************************!
 [t24_423_300.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:99>
 Isso. Mas olhe por esse lado:
-S√≥ de mencionar o lugar faz o
-pessoal tomar um susto, n√©?
+SÛ de mencionar o lugar faz o
+pessoal tomar um susto, nÈ?
 !******************************!
 [t24_423_310.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:102>
-Mas por mais engra√ßado que pare√ßa,
-n√£o conhe√ßo um vivente sequer que
-voltou de l√° com mazelas.<@s>
+Mas por mais engraÁado que pareÁa,
+n„o conheÁo um vivente sequer que
+voltou de l· com mazelas.<@s>
 !******************************!
 [t24_423_320.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:90>
-T√°, alguns chegaram brancos de medo
-e outros molharam as cal√ßas, mas
-fora isso, voltaram s√£os e salvos.
+T·, alguns chegaram brancos de medo
+e outros molharam as calÁas, mas
+fora isso, voltaram s„os e salvos.
 !******************************!
 [t24_423_400.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:58>
-Isso √© estranho. Ent√£o o que voc√™
-acha que est√° acontecendo l√°?
+Isso È estranho. Ent„o o que vocÍ
+acha que est· acontecendo l·?
 !******************************!
 [t24_423_500.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:119>
-Seu palpite √© t√£o bom quanto
+Seu palpite È t„o bom quanto
 o meu.<W>
 !------------------------------!
-Todos dizem que fugiram de l√°
-por um triz, mas n√£o sei sobre
-isso n√£o.
+Todos dizem que fugiram de l·
+por um triz, mas n„o sei sobre
+isso n„o.
 !******************************!
 [t24_424_100.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:50>
-√â o melhor que podem fazer?
-C√™ n√£o tem gra√ßa, chapa.
+… o melhor que podem fazer?
+CÍ n„o tem graÁa, chapa.
 !******************************!
 [t24_430_100.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:178>
 Entretenimento, encanto, enigma.
-Esses s√£o os tr√™s <''>E<''>s que voc√™s
-encontrar√£o em Folsense.<W>
+Esses s„o os trÍs <''>E<''>s que vocÍs
+encontrar„o em Folsense.<W>
 !------------------------------!
-J√° dei proc√™s o entretenimento
-e o encanto, ent√£o que tal voc√™s
+J· dei procÍs o entretenimento
+e o encanto, ent„o que tal vocÍs
 tentarem esse enigma?
 !******************************!
 [t24_431_100.gds]
@@ -605,33 +605,33 @@ Voltaram pra tentar de novo?
 !******************************!
 [t24_432_100.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:290>
-Ouvi que c√™s t√£o andando por a√≠
+Ouvi que cÍs t„o andando por aÌ
 tentando desenterrar o passado
 de Folsense.<W>
 !------------------------------!
-Tamb√©m t√¥ afim de chegar ao fundo
+TambÈm tÙ afim de chegar ao fundo
 dessas coisas, mas a maioria do
-pessoal n√£o t√° nem a√≠ pra isso.<W>
+pessoal n„o t· nem aÌ pra isso.<W>
 !------------------------------!
-O pessoal aqui n√£o questiona muito.
+O pessoal aqui n„o questiona muito.
 Meio que como se todo mundo tivesse
 vivendo em um sonho.
 !******************************!
 [t24_433_100.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:99>
-Hmph, tava achando que c√™s iam
+Hmph, tava achando que cÍs iam
 precisar de mais tentativas pra
-resolver, mas c√™s mandaram bem.
+resolver, mas cÍs mandaram bem.
 !******************************!
 [t24_434_100.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:47>
-O que c√™s acham? Acharam que ia
-ser f√°cil que nem roubar doce de
-crian√ßa, n√©?
+O que cÍs acham? Acharam que ia
+ser f·cil que nem roubar doce de
+crianÁa, nÈ?
 !******************************!
 [t24_440_100.gds]
 <01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:147>
-Posso dizer s√≥ de olhar para voc√™s
+Posso dizer sÛ de olhar para vocÍs
 que querem conversar comigo
 sobre algo.<W>
 !------------------------------!
@@ -641,76 +641,76 @@ resolver um assunto.
 [t24_441_100.gds]
 <01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:41>
 Voltaram para acabar nossos
-neg√≥cios inacabados?
+negÛcios inacabados?
 !******************************!
 [t24_442_100.gds]
 <01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:102>
-√Äs vezes fico t√£o entediado que
+¿s vezes fico t„o entediado que
 fico contando meus dedos sem parar.
-√â mais chato do que parece.
+… mais chato do que parece.
 !******************************!
 [t24_443_100.gds]
 <01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:217>
 Bom trabalho, companheiros.<W>
 !------------------------------!
-Aqui em Folsense, n√£o tem tanta gente
-e nem muito o que fazer, ent√£o o
+Aqui em Folsense, n„o tem tanta gente
+e nem muito o que fazer, ent„o o
 pessoal se foca em seus passa-tempos.<W>
 !------------------------------!
-Afinal, passar o tempo √© muito melhor
+Afinal, passar o tempo È muito melhor
 que ficar parado olhando pra parede.
 Acredite em mim, sei do que digo.
 !******************************!
 [t24_444_100.gds]
 <01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:27>
-N√£o gostou do meu enigma?
+N„o gostou do meu enigma?
 !******************************!
 [t24_450_100.gds]
 <01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:155>
-Ei, essa encruzilhada aqui √© o
-meu territ√≥rio! Qual √© o seu
+Ei, essa encruzilhada aqui È o
+meu territÛrio! Qual È o seu
 problema?<W>
 !------------------------------!
-Ah, bem, j√° que vieram at√© aqui,
-por que n√£o d√£o uma m√£ozinha
+Ah, bem, j· que vieram atÈ aqui,
+por que n„o d„o uma m„ozinha
 nesse enigma que tenho aqui?
 !******************************!
 [t24_451_100.gds]
 <01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:48>
-Voltaram pra mais? √â isso que
+Voltaram pra mais? … isso que
 eu gosto de ouvir!
 !******************************!
 [t24_452_100.gds]
 <01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:153>
-Por que cargas d'√°gua Duke Herzen
-construiu sua casa t√£o longe da
+Por que cargas d'·gua Duke Herzen
+construiu sua casa t„o longe da
 cidade?<W>
 !------------------------------!
 Mesmo sem vampiros, deve ser
-muito perigoso resolver at√©
-as coisas mais b√°sicas.
+muito perigoso resolver atÈ
+as coisas mais b·sicas.
 !******************************!
 [t24_453_100.gds]
 <01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:158>
-Voc√™ detonou o meu enigma como
-se n√£o fosse nada.<W>
+VocÍ detonou o meu enigma como
+se n„o fosse nada.<W>
 !------------------------------!
 Seres selvagens vivem na floresta,
-xar√°. Se tiver decidido a ir adiante,
-melhor c√™ se preparar pro perigo.
+xar·. Se tiver decidido a ir adiante,
+melhor cÍ se preparar pro perigo.
 !******************************!
 [t24_454_100.gds]
 <01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:33>
-Arregando, √©?<W> Que surpresa.
+Arregando, È?<W> Que surpresa.
 !******************************!
 [t24_460_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:206>
-Ol√°, me chamo Gregorio, e prefiro
+Ol·, me chamo Gregorio, e prefiro
 andar na rua vestido de galinha do
 que passar um dia sem jogar xadrez.<W>
 !------------------------------!
 Quer chegar mais e ouvir o que
-eu tenho a dizer?<W> √ìtimo.
+eu tenho a dizer?<W> ”timo.
 Mas primeiro, um xadrezinho!
 !******************************!
 [t24_460_200.gds]
@@ -719,35 +719,35 @@ Bom, deve ser interessante.
 !******************************!
 [t24_461_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:87>
-Ah, agora voc√™ acha que consegue
+Ah, agora vocÍ acha que consegue
 resolver meu enigma de xadrez?
-Veremos ent√£o, filh√£o.
+Veremos ent„o, filh„o.
 !******************************!
 [t24_462_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:87>
-S√≥ pra voc√™ saber, da pr√≥xima vez
+SÛ pra vocÍ saber, da prÛxima vez
 que nos encontrarmos, terei algo
-ainda mais dif√≠cil pra voc√™.
+ainda mais difÌcil pra vocÍ.
 !******************************!
 [t24_463_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:315>
-Muito bacana, filh√£o.<W>
+Muito bacana, filh„o.<W>
 !------------------------------!
 Tem muito mais de onde eu venho,
 mas por agora relaxe um pouco
-e ou√ßa o que tenho a contar.<W>
+e ouÁa o que tenho a contar.<W>
 !------------------------------!
 Nos velhos tempos, essa cidade era
-cheia de fam√≠lias aristocratas, mas
+cheia de famÌlias aristocratas, mas
 um dia, de repente todas se foram.<W>
 !------------------------------!
-A fam√≠lia Herzen √© basicamente a
-√∫nica fam√≠lia de classe-alta que
+A famÌlia Herzen È basicamente a
+˙nica famÌlia de classe-alta que
 restou na cidade.
 !******************************!
 [t24_464_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:23>
-J√° t√° pedindo pra sair, filho?
+J· t· pedindo pra sair, filho?
 !******************************!
 [t24_470_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:164>
@@ -761,23 +761,23 @@ que sei sobre Folsense.
 [t24_470_200.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:44>
 Parece justo. Mostre-me o que
-tem em m√£os.
+tem em m„os.
 !******************************!
 [t24_471_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:87>
-Ah, ent√£o agora voc√™ acha que
+Ah, ent„o agora vocÍ acha que
 consegue resolver meu enigma de
-xadrez? Veremos ent√£o, filh√£o.
+xadrez? Veremos ent„o, filh„o.
 !******************************!
 [t24_472_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:112>
-Da pr√≥xima, vou preparar um enigma
-de xadrez ainda mais dif√≠cil.<W> Vai ser
-de arrepiar, voc√™s v√£o ver!
+Da prÛxima, vou preparar um enigma
+de xadrez ainda mais difÌcil.<W> Vai ser
+de arrepiar, vocÍs v„o ver!
 !******************************!
 [t24_473_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:365>
-Que racioc√≠nio afiado, filh√£o.
+Que raciocÌnio afiado, filh„o.
 Muito fiado.<W>
 !------------------------------!
 Agora o que eu ia dizer mesmo?<W>
@@ -785,151 +785,151 @@ Ah sim, os Herzens.<W>
 !------------------------------!
 Antigamente, o Castelo de Herzen era
 o lugar mais elegante daqui.<W> Bailes
-e festas eram organizadas l√°.
+e festas eram organizadas l·.
 !------------------------------!
-J√° hoje, no entanto, ningu√©m vai
-mais l√°. Supostamente o castelo
-agora tem um vampiro vivendo l√°.<W>
+J· hoje, no entanto, ninguÈm vai
+mais l·. Supostamente o castelo
+agora tem um vampiro vivendo l·.<W>
 !------------------------------!
-O que eu n√£o daria pra que as
+O que eu n„o daria pra que as
 coisas voltassem pro que
 eram antes.
 !******************************!
 [t24_474_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:29>
-J√° t√° pedindo pra sair, filh√£o?
+J· t· pedindo pra sair, filh„o?
 !******************************!
 [t24_480_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:182>
-Me chamo Greg√≥rio, e adoro xadrez
+Me chamo GregÛrio, e adoro xadrez
 que nem gato gosta de arranhar
-m√≥veis caros.<W>
+mÛveis caros.<W>
 !------------------------------!
 Podemos conversar se quiser, mas
-primeiro ter√£o que resolver esse
+primeiro ter„o que resolver esse
 meu enigma de xadrez.
 !******************************!
 [t24_480_200.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:30>
-Bem justo. Vamos l√°.
+Bem justo. Vamos l·.
 !******************************!
 [t24_481_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:89>
-Ah, ent√£o agora voc√™ acha que
+Ah, ent„o agora vocÍ acha que
 consegue resolver meu enigma de
-xadrez? Veremos ent√£o, filh√£o.
+xadrez? Veremos ent„o, filh„o.
 !******************************!
 [t24_482_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:57>
-Desculpa, filh√£o, mas voc√™ me
+Desculpa, filh„o, mas vocÍ me
 deixou sem enigmas!
 !******************************!
 [t24_483_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:325>
-Bela cuca essa que voc√™ tem,
-debaixo desse chap√©u!<W>
+Bela cuca essa que vocÍ tem,
+debaixo desse chapÈu!<W>
 !------------------------------!
-Estou t√£o impressionado que vou
-lhe contar um segredo que ningu√©m
+Estou t„o impressionado que vou
+lhe contar um segredo que ninguÈm
 na cidade desembuchou em cem anos!<W>
 !------------------------------!
-Alguns anos atr√°s, algo terr√≠vel
+Alguns anos atr·s, algo terrÌvel
 aconteceu aqui na cidade.<W>
 !------------------------------!
-As pessoas de Folsense come√ßaram
+As pessoas de Folsense comeÁaram
 a cair que nem moscas, como se todos
-tivessem pego uma doen√ßa misteriosa.
+tivessem pego uma doenÁa misteriosa.
 !******************************!
 [t24_483_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:56>
-Algu√©m descobriu a fonte dessa
+AlguÈm descobriu a fonte dessa
 estranha epidemia?
 !******************************!
 [t24_483_300.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:344>
-Bem queria que sim, mas ainda √©
-um mist√©rio para n√≥s.<W>
+Bem queria que sim, mas ainda È
+um mistÈrio para nÛs.<W>
 !------------------------------!
-O que me recordo √© que muitos
+O que me recordo È que muitos
 deixaram a cidade assim que a
-not√≠cia da doen√ßa se espalhou.<W>
+notÌcia da doenÁa se espalhou.<W>
 !------------------------------!
-Mas isso √© tudo que falar desse
-assunto. Voc√™s resolveram todos
+Mas isso È tudo que falar desse
+assunto. VocÍs resolveram todos
 os meus enigmas e estou cansado.<W>
 !------------------------------!
 Vou voltar pro meu jogo.
-Hmm, se eu... N√£o, o Cavalo vai
-pegar a Rainha, n√£o vai dar certo...
+Hmm, se eu... N„o, o Cavalo vai
+pegar a Rainha, n„o vai dar certo...
 !******************************!
 [t24_484_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:21>
-Oho, pedindo uma colher de ch√°?
+Oho, pedindo uma colher de ch·?
 !******************************!
 [t24_490_100.gds]
 <01:00000045><03:9>b1 smlie<03:5>NONE<01:00000003><03:192>
-Olha pra voc√™s dois, andando pela
-cidade que nem cachorro atr√°s da
-pr√≥pria cauda. Hi hi hi hi!<W>
+Olha pra vocÍs dois, andando pela
+cidade que nem cachorro atr·s da
+prÛpria cauda. Hi hi hi hi!<W>
 !------------------------------!
-Na verdade, olhar voc√™s me fez
+Na verdade, olhar vocÍs me fez
 lembrar de um enigma fabuloso que
-sei sobre um cachorro. Ou√ßa!
+sei sobre um cachorro. OuÁa!
 !******************************!
 [t24_491_100.gds]
 <01:00000045><03:9>b1 smlie<03:5>NONE<01:00000003><03:96>
-Ora, se n√£o s√£o meus dois amigos
-caninos. Bom, v√£o buscar a solu√ß√£o
+Ora, se n„o s„o meus dois amigos
+caninos. Bom, v„o buscar a soluÁ„o
 desse enigma! Hi hi hi hi!
 !******************************!
 [t24_492_100.gds]
 <01:00000045><03:9>b1 smlie<03:5>NONE<01:00000003><03:144>
-T√°, sei que voc√™ est√£o se esfor√ßando
-pelo menos, mas √© melhor que
-fiquem s√≥ na cidade.<W>
+T·, sei que vocÍ est„o se esforÁando
+pelo menos, mas È melhor que
+fiquem sÛ na cidade.<W>
 !------------------------------!
 Confiem em mim. A floresta de
-Folsense n√£o √© flor que se cheire.
+Folsense n„o È flor que se cheire.
 !******************************!
 [t24_493_100.gds]
 <01:00000045><03:9>b1 smlie<03:5>NONE<01:00000003><03:207>
 Aaah, belo trabalho, esse que
-voc√™s dois fizeram.<W>
+vocÍs dois fizeram.<W>
 !------------------------------!
-Voc√™s podem correr por a√≠ que nem
-c√£es, mas no fim das contas n√£o
-s√£o t√£o in√∫teis, n√©?<W>
+VocÍs podem correr por aÌ que nem
+c„es, mas no fim das contas n„o
+s„o t„o in˙teis, nÈ?<W>
 !------------------------------!
-Se voc√™s gostam tanto de correr
-por a√≠, n√£o vou impedi-los. Ali√°s,
-√© divertido de se ver.
+Se vocÍs gostam tanto de correr
+por aÌ, n„o vou impedi-los. Ali·s,
+È divertido de se ver.
 !******************************!
 [t24_494_100.gds]
 <01:00000045><03:9>b1 smlie<03:5>NONE<01:00000003><03:83>
 Buu! Me lembrei de um enigma
-exclusivo s√≥ pra voc√™s. Agora
-n√£o sejam estraga-prazeres.
+exclusivo sÛ pra vocÍs. Agora
+n„o sejam estraga-prazeres.
 !******************************!
 [t24_500_100.gds]
 <01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:162>
-Ouvi dizer que voc√™s andaram
+Ouvi dizer que vocÍs andaram
 bem ocupados farejando pistas
 pela cidade.<W>
 !------------------------------!
 Diga-me: a sua busca revelou pelo
-menos um fato genu√≠no que seja √∫til?
-Ou s√≥ achou fogo de palha, hein?
+menos um fato genuÌno que seja ˙til?
+Ou sÛ achou fogo de palha, hein?
 !******************************!
 [t24_500_1000.gds]
 <01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:106>
-Talvez n√£o... Todos os peda√ßos ainda
+Talvez n„o... Todos os pedaÁos ainda
 estavam no meu bolso quando chegamos
 em Folsense. Disso tenho certeza.
 !******************************!
 [t24_500_1100.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:88>
-Inspetor, voc√™ se recorda do caminho
-que percorreu na cidade nas √∫ltimas
+Inspetor, vocÍ se recorda do caminho
+que percorreu na cidade nas ˙ltimas
 horas?
 !******************************!
 [t24_500_1200.gds]
@@ -944,16 +944,16 @@ do doutor?
 !******************************!
 [t24_500_300.gds]
 <01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:288>
-Oho, devo presumir que h√° uma
+Oho, devo presumir que h· uma
 pista a ser encontrada naquela
 foto?<W>
 !------------------------------!
-Hmph, pois bem. Vejo que j√° resolveu
-50 enigmas, ent√£o creio que est√°
-levando sua investiga√ß√£o a s√©rio.<W>
+Hmph, pois bem. Vejo que j· resolveu
+50 enigmas, ent„o creio que est·
+levando sua investigaÁ„o a sÈrio.<W>
 !------------------------------!
-Minha maior prioridade √© resolver
-esse caso, ent√£o se acham que podem
+Minha maior prioridade È resolver
+esse caso, ent„o se acham que podem
 ajudar, acho que posso mostrar.
 !******************************!
 [t24_500_400.gds]
@@ -967,29 +967,29 @@ Algum problema, senhor?
 [t24_500_600.gds]
 <01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:37>
 Tem um buraco no bolso da droga
-da minha cal√ßa!
+da minha calÁa!
 !******************************!
 [t24_500_700.gds]
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:8>
-Ah, n√£o!
+Ah, n„o!
 !******************************!
 [t24_500_800.gds]
 <01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:172>
-Estive juntando os peda√ßos disso
+Estive juntando os pedaÁos disso
 sem nem perceber isso! Isso... isso
-√© um ponto baixo na minha carreira.<W>
+È um ponto baixo na minha carreira.<W>
 !------------------------------!
 Parece que tudo que restou da foto
-√© esse √∫nico peda√ßo.
+È esse ˙nico pedaÁo.
 !******************************!
 [t24_500_900.gds]
 <01:00000002><03:8>b4 weep<03:5>NONE<01:00000003><03:57>
-Parece que n√£o vamos mais ver
+Parece que n„o vamos mais ver
 aquela foto de novo...
 !******************************!
 [t24_501_100.gds]
 <01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:62>
-N√£o, n√£o, n√£o √© isso. Hmmm, talvez
+N„o, n„o, n„o È isso. Hmmm, talvez
 seja mais parecido com isso...
 !******************************!
 [t24_502_100.gds]
@@ -997,40 +997,40 @@ seja mais parecido com isso...
 !******************************!
 [t24_503_100.gds]
 <01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:95>
-...E ent√£o, depois de ter sa√≠do
+...E ent„o, depois de ter saÌdo
 do ponto mais a nordeste da
 cidade, vim direto pro hotel.
 !******************************!
 [t24_503_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:65>
-Essas informa√ß√µes devem servir
-de ponto de partida para n√≥s.
+Essas informaÁıes devem servir
+de ponto de partida para nÛs.
 Obrigado.
 !******************************!
 [t24_503_300.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:103>
 Vamos, Luke. Vejamos se podemos
-recuperar os peda√ßos dessa foto
+recuperar os pedaÁos dessa foto
 refazendo os passos do inspetor.
 !******************************!
 [t24_503_400.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>
-O que h√° de t√£o importante nessa
+O que h· de t„o importante nessa
 foto, Professor?
 !******************************!
 [t24_503_500.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:107>
-N√£o tenho certeza do conte√∫do da
+N„o tenho certeza do conte˙do da
 foto, mas estou confiante de que
-nos levar√° √† Caisa El√≠sea. 
+nos levar· ‡ Caisa ElÌsea. 
 !******************************!
 [t24_503_600.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:189>
-N√£o precisa dizer mais nada! Afinal,
-sua intui√ß√£o nunca falha. Vamos
+N„o precisa dizer mais nada! Afinal,
+sua intuiÁ„o nunca falha. Vamos
 direto a nordeste da cidade!<W>
 !------------------------------!
-Acho que podemos chegar l√° passando
+Acho que podemos chegar l· passando
 por esse caminho onde aquele
 buldogue estava.
 !******************************!
@@ -1040,12 +1040,12 @@ Sim, vamos. Aqui, eu vou na frente.
 !******************************!
 [t24_504_100.gds]
 <01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:54>
-Ah, droga, isso n√£o est√° certo.
+Ah, droga, isso n„o est· certo.
 Talvez foi... Hmm...
 !******************************!
 [t24_510_100.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:97>
-C√° entre n√≥s, mas sabe aquele
+C· entre nÛs, mas sabe aquele
 buraco no bolso do inspetor?<W>
 Um cachorro fez aquilo.
 !******************************!
@@ -1057,45 +1057,45 @@ Qual cachorro?
 [t24_510_300.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:102>
 O Inspetor Chelmey teve uma, ahn,
-alterca√ß√£o com um canino, enquanto
-ia √† nordeste da cidade.
+altercaÁ„o com um canino, enquanto
+ia ‡ nordeste da cidade.
 !******************************!
 [t24_510_400.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:100>
-Bom, c√£es podem farejar pessoas
-rudes, sabia? Isso s√≥ prova que
+Bom, c„es podem farejar pessoas
+rudes, sabia? Isso sÛ prova que
 ele precisa ser mais legal!
 !******************************!
 [t24_510_500.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:163>
 Ele pode ser um pouco espinhoso
-√†s vezes, mas na verdade ele √©
+‡s vezes, mas na verdade ele È
 bem gentil.<W>
 !------------------------------!
-Tendo dito isso, essa hist√≥ria que
+Tendo dito isso, essa histÛria que
 eu ouvi dele me lembra um de seus
-epis√≥dios menos amig√°veis.
+episÛdios menos amig·veis.
 !******************************!
 [t24_511_100.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:56>
-Voc√™ j√° estava pensando na
-solu√ß√£o desse enigma, creio.
+VocÍ j· estava pensando na
+soluÁ„o desse enigma, creio.
 !******************************!
 [t24_512_100.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:98>
-O inspetor pode parecer um resmung√£o,
-mas nunca vi um homem t√£o perdidamente
+O inspetor pode parecer um resmung„o,
+mas nunca vi um homem t„o perdidamente
 apaixonado por sua esposa.
 !******************************!
 [t24_513_100.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:184>
 Muito bem, senhor. Agora, devo
 partir. O inspetor e eu precisamos
-vasculhar a √°rea por mais pistas.<W>
+vasculhar a ·rea por mais pistas.<W>
 !------------------------------!
 Cuidem-se quando estiverem nas
-ruas. N√£o se sabe o que poder√£o
-encontrar por a√≠.
+ruas. N„o se sabe o que poder„o
+encontrar por aÌ.
 !******************************!
 [t24_513_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:19>
@@ -1103,18 +1103,18 @@ Igualmente, Oficial.
 !******************************!
 [t24_514_100.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:41>
-O enigma provou-se dif√≠cil
-demais pra voc√™? 
+O enigma provou-se difÌcil
+demais pra vocÍ? 
 !******************************!
 [t24_520_100.gds]
 <01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:107>
-Acabei de achar esse peda√ßo de
-papel sujo no ch√£o. Eca, catar lixo
-√© o h√°bito mais rude que tem.
+Acabei de achar esse pedaÁo de
+papel sujo no ch„o. Eca, catar lixo
+È o h·bito mais rude que tem.
 !******************************!
 [t24_520_200.gds]
 <01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:42>
-Olha, Professor, √© um peda√ßo da
+Olha, Professor, È um pedaÁo da
 foto!
 !******************************!
 [t24_520_300.gds]
@@ -1123,88 +1123,88 @@ Sim, parece ser o caso.
 !******************************!
 [t24_520_400.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:76>
-Parece que os peda√ßos realmente
-est√£o todos espalhados pela
-cidade. Que trabalh√£o!
+Parece que os pedaÁos realmente
+est„o todos espalhados pela
+cidade. Que trabalh„o!
 !******************************!
 [t24_520_500.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:102>
 Teremos que caminhar mais um pouco,
-mas cada peda√ßo nos deixa mais perto
+mas cada pedaÁo nos deixa mais perto
 da resposta. Temos que pegar todos.
 !******************************!
 [t24_520_600.gds]
 <01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:160>
 Desculpe cortar essa sua festa
-de ch√°, mas fui eu quem achou
-esse peda√ßo.<W>
+de ch·, mas fui eu quem achou
+esse pedaÁo.<W>
 !------------------------------!
-Se querem isso tanto assim, ter√£o
+Se querem isso tanto assim, ter„o
 que resolver esse enigma para mim
 primeiro, OK?
 !******************************!
 [t24_521_100.gds]
 <01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:86>
-Se esse peda√ßo de papel vale tanto
-pra voc√™s, n√£o v√£o se importar de
-resolver esse enigma para peg√°-lo.
+Se esse pedaÁo de papel vale tanto
+pra vocÍs, n„o v„o se importar de
+resolver esse enigma para peg·-lo.
 !******************************!
 [t24_522_100.gds]
 <01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:89>
-Nunca vi algu√©m se dar a tanto
-trabalho assim, s√≥ pra p√¥r as
-m√£os num peda√ßo de papel sujo.
+Nunca vi alguÈm se dar a tanto
+trabalho assim, sÛ pra pÙr as
+m„os num pedaÁo de papel sujo.
 !******************************!
 [t24_523_100.gds]
 <01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:94>
-Hmm, √© mais afiado que pensei que
-fosse.<W> Aqui, eu n√£o queria
+Hmm, È mais afiado que pensei que
+fosse.<W> Aqui, eu n„o queria
 essa coisa suja mesmo.
 !******************************!
 [t24_524_100.gds]
 <01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:96>
-Pff, que esfor√ßo tristonho.<W>
-Se n√£o conseguem achar a resposta,
-n√£o vou dar o peda√ßo de papel.
+Pff, que esforÁo tristonho.<W>
+Se n„o conseguem achar a resposta,
+n„o vou dar o pedaÁo de papel.
 !******************************!
 [t24_530_100.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:152>
-V√£o gastar a sola do sapato de
-tanto andar, se c√™s continuarem
+V„o gastar a sola do sapato de
+tanto andar, se cÍs continuarem
 desse jeito, chapas.<W>
 !------------------------------!
-Parem os p√©s por um instante,
+Parem os pÈs por um instante,
 enquanto resolvem esse meu
 enigma. 
 !******************************!
 [t24_531_100.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:50>
-Ainda n√£o ouvi a resposta certa
-doc√™s.
+Ainda n„o ouvi a resposta certa
+docÍs.
 !******************************!
 [t24_532_100.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:132>
-Olha, c√™s podem vasculhar Folsense
-√† vontade. N√£o vou impedir oc√™s.<W>
+Olha, cÍs podem vasculhar Folsense
+‡ vontade. N„o vou impedir ocÍs.<W>
 !------------------------------!
-S√≥ n√£o fa√ßam nada que acabem
+SÛ n„o faÁam nada que acabem
 se arrependendo depois, ouviram?
 !******************************!
 [t24_533_100.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:199>
-Voc√™ n√£o relaxou nesse aqui.<W>
+VocÍ n„o relaxou nesse aqui.<W>
 !------------------------------!
-E a√≠ meu chapa, qual √© a jogada?
+E aÌ meu chapa, qual È a jogada?
 O que pensa que vai achar aqui
 em Folsense?<W>
 !------------------------------!
-N√£o quero soar sinistro, mas
-h√° verdades que √© melhor n√£o
+N„o quero soar sinistro, mas
+h· verdades que È melhor n„o
 desenterrar.<W> Sacou?
 !******************************!
 [t24_534_100.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:36>
-Isso √© o melhor que c√™ consegue
+Isso È o melhor que cÍ consegue
 fazer?
 !******************************!
 [t24_540_100.gds]
@@ -1214,7 +1214,7 @@ esconder de mim, mas eu achei!
 !******************************!
 [t24_541_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:44>
-Aqui est√° o enigma que eu
+Aqui est· o enigma que eu
 achei mais cedo.
 !******************************!
 [t24_542_100.gds]
@@ -1227,12 +1227,12 @@ eu pensava. Ufa.
 !******************************!
 [t24_544_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:47>
-Uff. Acho que dev√≠amos deixar
+Uff. Acho que devÌamos deixar
 esse enigma pra outra hora.
 !******************************!
 [t24_550_100.gds]
 <01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:164>
-Ol√°, senhores. Posso lhes enquirir
+Ol·, senhores. Posso lhes enquirir
 quanto ao andamento de sua busca?
 Devem estar cansados de tanto andar.<W>
 !------------------------------!
@@ -1241,7 +1241,7 @@ para refrescar o corpo e a mente?
 !******************************!
 [t24_551_100.gds]
 <01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:57>
-Por que n√£o tomam um momento para
+Por que n„o tomam um momento para
 descansar e resolver um enigma,
 senhores?
 !******************************!
@@ -1249,19 +1249,19 @@ senhores?
 <01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:95>
 Que ventania forte essa que veio do
 norte a Folsense, senhores. Cuidado
-para n√£o pegarem um resfriado.
+para n„o pegarem um resfriado.
 !******************************!
 [t24_553_100.gds]
 <01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:205>
 Na mosca, senhores.<W>
 !------------------------------!
-N√£o consigo nem imaginar o qu√£o
-exaustos devem estar devido √†
-sua busca. Folsense √© extensa.<W>
+N„o consigo nem imaginar o qu„o
+exaustos devem estar devido ‡
+sua busca. Folsense È extensa.<W>
 !------------------------------!
 Quando estiverem prontos para
 passarem a noite, seus quartos
-estar√£o aquecidos e √† espera.
+estar„o aquecidos e ‡ espera.
 !******************************!
 [t24_554_100.gds]
 <01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:20>
@@ -1270,7 +1270,7 @@ Terminaram por agora, senhores?
 [t24_560_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:100>
 Que lugar mais assustador. Acha
-que o caminho al√©m daquele port√£o
+que o caminho alÈm daquele port„o
 leva ao castelo, Professor?
 !******************************!
 [t24_560_200.gds]
@@ -1283,87 +1283,87 @@ Caramba, qualquer um que more no
 meio de uma floresta assustadora
 dessas deve ser meio doido.<W>
 !------------------------------!
-N√£o √© √† toa que o povo pensa que
-quem vive nessa regi√£o √© um
+N„o È ‡ toa que o povo pensa que
+quem vive nessa regi„o È um
 vampiro.
 !******************************!
 [t24_560_400.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:99>
 Ha ha! Mostre um pouco de coragem,
-meu garoto! N√≥s- Ah, o que √© isso?
-Algo est√° preso na cerca.
+meu garoto! NÛs- Ah, o que È isso?
+Algo est· preso na cerca.
 !******************************!
 [t24_560_500.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:40>
-√â o √∫ltimo peda√ßo da fotografia!
+… o ˙ltimo pedaÁo da fotografia!
 !******************************!
 [t24_560_600.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:95>
 Agora que recuperamos todos os
-peda√ßos, vejamos se n√≥s n√£o
+pedaÁos, vejamos se nÛs n„o
 conseguimos remontar a foto.
 !******************************!
 [t24_561_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:100>
-Que tipo de informa√ß√£o ser√° que
+Que tipo de informaÁ„o ser· que
 se esconde nessa fotografia?
-Temos que remont√°-la de novo.
+Temos que remont·-la de novo.
 !******************************!
 [t24_562_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
 !******************************!
 [t24_563_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:25>
-Pronto. Isso √© tudo.
+Pronto. Isso È tudo.
 !******************************!
 [t24_564_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:63>
-A foto √© nossa pr√≥xima pista.
+A foto È nossa prÛxima pista.
 Temos que consertar esse
-neg√≥cio.
+negÛcio.
 !******************************!
 [t24_580_100.gds]
 <01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:81>
-Sauda√ß√µes, estranhos. Deixa eu
-adivinhar, est√£o aqui √† procura
+SaudaÁıes, estranhos. Deixa eu
+adivinhar, est„o aqui ‡ procura
 de fama e felicidade?
 !******************************!
 [t24_580_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:95>
 Na verdade, estamos procurando por
-um item chamado Caixa El√≠sea. Esse
+um item chamado Caixa ElÌsea. Esse
 nome lhe soa familiar?
 !******************************!
 [t24_580_300.gds]
 <01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:89>
-Opa, que nome fant√°stico! Obrigada!
+Opa, que nome fant·stico! Obrigada!
 Deixem que eu lhes mostre meu
 agradecimento com este enigma!
 !******************************!
 [t24_581_100.gds]
 <01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:12>
-J√° est√£o de volta?
+J· est„o de volta?
 !******************************!
 [t24_582_100.gds]
 <01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:91>
-A Caixa El√≠sea... Que nome legal.
-Quem ser√° o g√™nio que bolou esse
-nome com sonoridade t√£o bacana?
+A Caixa ElÌsea... Que nome legal.
+Quem ser· o gÍnio que bolou esse
+nome com sonoridade t„o bacana?
 !******************************!
 [t24_583_100.gds]
 <01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:189>
 Bom trabalho, e boa sorte na busca
-pela caixa-n√£o-sei-o-qu√™. C√™s sabem,
+pela caixa-n„o-sei-o-quÍ. CÍs sabem,
 a coisa com nome legal.<W>
 !------------------------------!
-Aposo que quando abri-la, um g√™nio
-sai de dentro dela e, ahn, te d√°
+Aposo que quando abri-la, um gÍnio
+sai de dentro dela e, ahn, te d·
 um desejo ou algo do tipo. Genial!
 !******************************!
 [t24_584_100.gds]
 <01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:42>
-Hmm, pra ser honesta, c√™s n√£o
-s√£o t√£o bons assim.
+Hmm, pra ser honesta, cÍs n„o
+s„o t„o bons assim.
 !******************************!
 [t24_590_100.gds]
 <01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:29>
@@ -1372,17 +1372,17 @@ Ah, beleza! Um enigma escondido!
 [t24_591_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:55>
 Beleza. Esse enigma escondido
-n√£o foi resolvido ainda.
+n„o foi resolvido ainda.
 !******************************!
 [t24_592_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:1>
 !******************************!
 [t24_593_100.gds]
 <01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:26>
-Esse enigma me d√° dor de cabe√ßa.
+Esse enigma me d· dor de cabeÁa.
 !******************************!
 [t24_594_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:53>
-Esse enigma n√£o √© mole n√£o,
+Esse enigma n„o È mole n„o,
 pode ter certeza.
 !******************************!
