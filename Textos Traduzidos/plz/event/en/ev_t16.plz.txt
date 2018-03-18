@@ -1,0 +1,1723 @@
+[t16_010_100.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:150>Ah, Sr. Layton. Fico feliz de ver
+que o senhor enfim se
+juntou a nós.<W>
+!------------------------------!
+Agora que o senhor está aqui,
+estão reunidos todos os suspeitos
+do assassinato do Dr. Schrader.
+!******************************!
+[t16_010_1000.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:34>É o quê?! Cê só pode tá brincando,
+bróder!
+!******************************!
+[t16_010_1100.gds]
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:241>Eu sei que o Sr. Beluga lhe
+mandou vasculhar cada canto da
+cidade em busca da Caixa Elisiana.<W>
+!------------------------------!
+Ele o fez trabalhar dobrado... não,
+triplicado, e você ficou
+ressentido com o tratamento.<W>
+!------------------------------!
+Por isso decidiu passar a
+perna nele e pegar a caixa que
+ele tanto queria antes dele.
+!******************************!
+[t16_010_1200.gds]
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:67>Isso é um ultraje! Samuel,
+o que tem a dizer em
+sua defesa?
+!******************************!
+[t16_010_1300.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:49>Isso aí é calúnia! Tão me
+incriminando! Cê tá viajando,
+mané!
+!******************************!
+[t16_010_1400.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:92>Hmph, agora eu entendo por que
+era tão difícil achar a caixa.
+Você a estava escondendo, Samuel!
+!******************************!
+[t16_010_1500.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:152>Não! Eu não fiz isso não,
+eu juro pela minha melhor
+calça de couro!<W>
+!------------------------------!
+Vai lá, tio, cê me conhece! Eu
+posso até ser um rebelde sem causa,
+mas nunca faria uma doideira dessas!
+!******************************!
+[t16_010_1600.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:98>Vai ter todo o tempo do mundo
+pra criar desculpas, rapaz...
+na cadeia. Venha comigo.
+!******************************!
+[t16_010_1700.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:99>Então foi o condutor! Eu não
+esperava isso dele, mas pelo menos
+agora podemos respirar aliviados.
+!******************************!
+[t16_010_1800.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:79>Professor, acha mesmo que o Sam
+seria capaz de cometer um crime
+tão horrível assim?
+!******************************!
+[t16_010_1900.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:101>Bom, a única base que temos é
+esta foto rasgada que recuperamos
+do apartamento do doutor...
+!******************************!
+[t16_010_200.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:205>
+Há alguns dias, um renomado arqueólogo,
+o Dr. Andrew Schrader, foi achado
+morto em sua casa, em Londres.<W>
+!------------------------------!
+O responsável ainda está à solta,
+mas olhem ao redor. É bem possível
+que ele esteja bem ao seu lado.
+!******************************!
+[t16_010_2000.gds]
+<01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:92>
+Ah, então essa é a Caixa Elisiana?<W>
+Que chique. E eu adoro a cabra*
+fofinha desenhada em cima!
+!******************************!
+[t16_010_2100.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:24>...Que inesperado!<W> Flora...<@s>
+!******************************!
+[t16_010_2200.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:5>Hmm?
+!******************************!
+[t16_010_2300.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:107>Muito obrigado, Flora. Eu sabia que
+alguma coisa aqui não se encaixava,
+e graças a você, ela ficou clara.
+!******************************!
+[t16_010_2400.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:30>É mesmo?<W> O quê, Professor?
+!******************************!
+[t16_010_300.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:102>Um suspeito? Eu?<W> Não sejam ridículos!
+Que motivo eu poderia ter para
+matar um homem que nem conhecia?
+!******************************!
+[t16_010_400.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:200>Meio desatento o senhor, não?<W>
+Sr. Beluga, todos nesta sala
+estão à procura da Caixa Elisiana.<W>
+!------------------------------!
+A caixa conecta todos aqui à
+vitima, e portanto não há dúvida
+de que o responsável esteja aqui.
+!******************************!
+[t16_010_500.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:157>É, estou certo de que montar esta
+investigação foi um verdadeiro triunfo
+de trabalho polincial, Inspetor.<W>
+!------------------------------!
+Pois então diga-me: que fatos
+o senhor reuniu nestes
+últimos dias?
+
+!******************************!
+[t16_010_510.gds]
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:87>He he... atenção aqui, Layton.
+Agora eu vou mostrar como nós,
+da Yard, resolvemos mistérios.
+!******************************!
+[t16_010_520.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:67>O senhor tem 100% de minha
+atenção, Inspetor. Sou seu
+para hipnotizar.
+!******************************!
+[t16_010_530.gds]
+<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:513>Eu aprendi sobre a existência
+de Folsense através das provas
+encontradas na casa do Doutor.<W>
+!------------------------------!
+De acordo com suas anotações, o
+Schrader passou bastante tempo nesta
+cidade em busca da Caixa Elisiana.<W>
+!------------------------------!
+E assim que aprendi que ele
+morreu no instante em que voltou
+para Londres, tudo ficou claro.<W>
+!------------------------------!
+Creio eu que o assassino conheceu
+o doutor enquanto o mesmo vasculhava
+a cidade em busca da caixa.<W>
+!------------------------------!
+Vendo aí sua chance de obter a
+tão almejada caixa, o criminoso
+o seguiu até Londres e o matou!
+!******************************!
+[t16_010_540.gds]
+<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:94>Ah, uma dedução digna de um dos
+melhores investigadores de Londres.
+Bom, diga então. Quem foi?
+!******************************!
+[t16_010_600.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:461>Paciência, senhor. Eu chego
+lá.<W> Em suma, o culpado já havia
+visitado Folsense antes do crime.<W>
+!------------------------------!
+E mais: ele, ou ela, tinha a
+capacidade de viajar livremente
+entre esta cidade e Londres.<W>
+!------------------------------!
+Bom, como todos sabemos, somente
+pessoas afiliadas ao Molentary
+Express têm essa liberdade.<W>
+!------------------------------!
+Imagino que devam estar todos
+suspeitando do Sr. Beluga agora.
+<W>Eu não aconselharia isso.<W>
+!------------------------------!
+O Sr. Beluga afirma que estava
+em Londres a negócios naquele
+dia, e testemunhas comprovam.
+!******************************!
+[t16_010_700.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>O quê? Mas se não é o Sr. Beluga...
+!******************************!
+[t16_010_800.gds]
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:65>Exatamente. O nosso assassino
+está bem aqui diante de nós.
+E seu nome é...
+!******************************!
+[t16_010_900.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:15>Sammy Thunder*!
+!******************************!
+[t16_020_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:97>Ah, fala sério, seu polícia. O meu único
+crime é botar rock no mundo, e
+isso não é crime! AI! Me solta!
+!******************************!
+[t16_020_1000.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:27>Ai! Pega leve aí, seu polícia!
+!******************************!
+[t16_020_1100.gds]
+<01:00000006><03:6>shout<03:5>NONE<01:00000001><03:25>Calado, baderneiro!
+!******************************!
+[t16_020_1200.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:36>Pelo menos não estraga o
+penteado, não? AI!
+!******************************!
+[t16_020_200.gds]
+<01:00000006><03:6>shout<03:5>NONE<01:00000001><03:60>Coopere e acompanhe-nos quietinho,
+se sabe o que é bom pra você!
+!******************************!
+[t16_020_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:110>Só um instante, Inspetor Chelmey.<W>
+!------------------------------!
+Receio que tenhamos deixado passar
+um detalhe de suprema importância.
+!******************************!
+[t16_020_400.gds]
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:65>Não está vendo que eu estou
+meio ocupado agora, Layton?
+!******************************!
+[t16_020_500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Aonde é que o senhor quer
+chegar, Professor?
+!******************************!
+[t16_020_600.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:156>Ninguém nesta sala chegou a
+ver a tão almejada Caixa
+Elisiana.<W>
+!------------------------------!
+A única prova visual que
+temos dela é esta fotografia
+rasgada.
+!******************************!
+[t16_020_700.gds]
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:23>E daí? Vá direto ao ponto!
+!******************************!
+[t16_020_800.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:202>O "ponto" é este, Inspetor.<W>
+!------------------------------!
+A única pessoa que poderia saber
+como era a Caixa Elisiana seria o
+suspeito que o senhor procura.<W>
+!------------------------------!
+E deve ter sido essa mesma
+pessoa quem roubou a caixa
+para começo de conversa.
+!******************************!
+[t16_020_900.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:51>Pois é, e eis aqui o patife
+escorregadio!
+!******************************!
+[t16_040_100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:22>Inspetor, veja só isto.
+!******************************!
+[t16_040_1000.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:7>Grr...
+!******************************!
+[t16_040_1100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:123>Agora tudo ficou claro.<W>
+!------------------------------!
+Se você diz ver uma cabra* nela,
+é porque já viu a verdadeira
+Caixa Elisiana.
+!******************************!
+[t16_040_1200.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:12>Ora, seu...
+!******************************!
+[t16_040_1300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Quem é você, de verdade?
+!******************************!
+[t16_040_1400.gds]
+<01:00000005><03:9>b4 laugh<03:5>NONE<01:00000003><03:160>He he he he he! A ha ha ha
+ha ha!<W>
+!------------------------------!
+Nyé he he! Muito perspicaz,
+Layton!<W>
+!------------------------------!
+Com certeza está se achando
+muito por ter me desmascarado
+de novo.
+!******************************!
+[t16_040_1500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:37>Carambolas! Você não é a Flora!
+É o-
+!******************************!
+[t16_040_200.gds]
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:28>Essa é a foto que eu deixei
+cair!
+!******************************!
+[t16_040_300.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:198>Exatamente. Para os que não
+sabem, esta é uma prova que
+o inspetor encontrou.<W>
+!------------------------------!
+Uma foto da Caixa Elisiana,
+e eu tenho absoluta certeza de
+que é genuína.
+!******************************!
+[t16_040_400.gds]
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:161>Quer dizer então que foi essa
+bugiganga aí que deu início a
+toda esta loucura?<W>
+!------------------------------!
+Pra ser sincero, é brega demais
+pro meu gosto. Ainda mais com esse
+desenho esquisisto de sapo aí..
+!******************************!
+[t16_040_500.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:5>A-há!
+!******************************!
+[t16_040_600.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:49>Vejo que você também já terminou
+de montar o quebra-cabeça, Luke.
+!******************************!
+[t16_040_700.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:87>Inspetor, o emblema que adorna a
+parte de cima da caixa não é um
+sapo, mas sim, uma cabra*.
+!******************************!
+[t16_040_800.gds]
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:38>Uma cabra*?<W> Pra mim, não
+é, não.
+!******************************!
+[t16_040_900.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:284>Aí é que está. Está faltando
+o pedaço da foto com os olhos
+da cabra*.<W>
+!------------------------------!
+Em seu presente estado, a imagem
+parece um sapo para a maioria.
+Como foi como senhor, Inspetor.<W>
+!------------------------------!
+Flora, querida... se não estou
+enganado, você disse que parecia
+ser uma "cabra fofinha",*, não?
+!******************************!
+[t16_050_100.gds]
+<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:63>Maldito seja, Layton!<W> Maldito seja
+você e esse seu chapéu
+espalhafatoso!
+!******************************!
+[t16_050_1000.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:95>
+Eu tenho muitas perguntas pra você,
+e você vai responder todas após
+voltarmos para Londres!
+!******************************!
+[t16_050_1100.gds]
+<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:70>
+Aonde pensa que vai?!<W>
+Ha! Te peguei, seu patife
+escorregadio!
+!******************************!
+[t16_050_1200.gds]
+<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:72>Ugh! Palerma intrometido! Nem
+faz ideia do quão escorregadio
+eu consigo ser!
+!******************************!
+[t16_050_1300.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:58>ARGH!<W> Não fique aí parado!
+Este rato está fugindo!
+!******************************!
+[t16_050_1400.gds]
+<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:134>Nyé he he! Tolo! Achou mesmo que
+um molóide lerdo como você
+seria capaz de me pegar?<W>
+!------------------------------!
+Adeus, Layton. Nyé he he he!
+!******************************!
+[t16_050_1500.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:7>Mmm...
+!******************************!
+[t16_050_1600.gds]
+<01:00000006><03:6>shout<03:5>NONE<01:00000001><03:57>Tá pensando que pode me passar
+a perna, é? Eu ainda te pego!
+!******************************!
+[t16_050_1700.gds]
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:28>Ah, espere por mim, inspetor!
+!******************************!
+[t16_050_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:11>Don Paolo!
+!******************************!
+[t16_050_300.gds]
+<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:195>
+Eu cheguei à caixa antes de você,
+e, com mais tempo, teria descoberto
+seus segredos antes de você também.<W>
+!------------------------------!
+E claro, a fortuna Herzen
+seria toda minha.<W> Mas isso
+já são águas passadas.
+!******************************!
+[t16_050_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:54>Então era você quem tava com a
+Caixa Elisiana esse tempo todo!
+!******************************!
+[t16_050_500.gds]
+<01:0000000A><03:9>b1 laugh<03:5>NONE<01:00000002><03:308>Outra dedução brilhante do aprendiz
+de Layton. Nota-se que aprendeu
+com o melhor. Nyé heh!<W>
+!------------------------------!
+Mas é isso mesmo, rapazinho.
+Eu a roubei daquele velho tolo
+enquanto ele cochilava no chão.<W>
+!------------------------------!
+Aquele fóssil idiota deve ter pego
+um resfriado, dormindo naquele chão.<W>
+Não que eu ligue pra isso!
+!******************************!
+[t16_050_600.gds]
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:146>Cochilando?<W> Mas o Dr. Schrader
+não iria dormir no chão...<W>
+!------------------------------!
+Ah! Espera aí! Se você tava
+fingindo ser a Flora, então
+cadê a verdadeira Flora?
+!******************************!
+[t16_050_700.gds]
+<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:453>Ah, deve estar fazendo castelinhos
+de feno no velho celeiro
+em que a deixei.<W>
+!------------------------------!
+Ou talvez só esteja morrendo
+de raiva porque esses dois asnos
+nem perceberam a troca!<W>
+!------------------------------!
+Mas devo a minha gratidão a vocês
+dois, idiotas. Me deram ainda mais
+informações do que eu precisava.<W>
+!------------------------------!
+Posso ter sido desmascarado,
+mas o baile está longe de acabar.<W>
+!------------------------------!
+Estou tão perto de descobrir o
+segredo da Caixa Elisiana. Agora
+só me resta levar a caixa par--
+!******************************!
+[t16_050_800.gds]
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:36>Devagar aí, patife!
+!******************************!
+[t16_050_900.gds]
+<01:0000000A><03:9>b1 angry<03:5>NONE<01:00000002><03:5>Agh!
+!******************************!
+[t16_055_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:81>Caramba, olha só como aqueles dois
+correm rápido. Eu não esperava
+isso deles.
+!******************************!
+[t16_055_1000.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Então esta...
+é a Caixa Elisiana...
+!******************************!
+[t16_055_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>
+Devo admitir que nem suspeitava que
+o Don Paolo estivesse fingindo ser
+a Flora. E por tanto tempo!
+!******************************!
+[t16_055_300.gds]
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:105>Eu só espero que a verdadeira Flora
+esteja bem. A gente não pode esquecer
+de apanhá-la na volta pra Londres.
+!******************************!
+[t16_055_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:93>Claro que não vamos.<W> Mas estou certo
+de que a Flora está se divertindo
+com os animais do pasto.
+!******************************!
+[t16_055_500.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:187>Eu também não consigo parar de
+pensar naquilo que o Don Paolo
+disse sobre o Dr. Schrader.<W>
+!------------------------------!
+Pelo jeito que ele falou, não parecia
+que tinha sido ele quem matou o Doutor.<W>
+Mas se não foi ele, quem foi?
+!******************************!
+[t16_055_600.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:179>Eu acho que você acertou na mosca,
+Luke. Alguma outra coisa foi
+responsável pela morte do doutor.<W>
+!------------------------------!
+E no momento, diria que a Caixa
+Elisiana é a chave para descobrirmos
+o que essa "outra coisa" é.
+!******************************!
+[t16_055_700.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:113>Então parece que a gente tá num beco
+sem saída. Ai, ai... se ao menos o
+Don Paolo não tivesse fugido com--<W>
+!------------------------------!
+Professor! Olha!
+!******************************!
+[t16_055_800.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:20>Ora, pois veja só!
+!******************************!
+[t16_055_900.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:80>O Don Paolo deve tê-la deixado
+cair enquanto fugia do
+Inspetor Chelmey!
+!******************************!
+[t16_060_100.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:76>Enfim, a caixa. Dentro dela, a chave
+para a enorme fortuna de minha
+família.
+!******************************!
+[t16_060_1000.gds]
+<01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:57>Ah, é assim, é?<W> Você tem
+coragem, sabia?
+!******************************!
+[t16_060_1100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>Se o que o Krantz disse é verdade,
+receio não poder deixá-lo ficar
+com a caixa, senhor.
+!******************************!
+[t16_060_1200.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:105>Aí, tio, que tal a gente desistir dessa
+caixa?<W> Eu já tô de saco
+cheio de ficar bancando o espião!
+!******************************!
+[t16_060_1300.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:103>Não OUSE me dizer como executar meus
+os planos, Samuel! Já esqueceu
+quem te arranjou esse emprego?
+!******************************!
+[t16_060_1400.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:355>Eu nunca nem quis ser condutor de
+trem pra começo de conversa!<W>
+!------------------------------!
+Além disso, ficar de assistente é
+muito zoado, cara. É demais pra
+um cara que nem eu aguentar.<W>&setani 8 shout&
+!------------------------------!
+Sammy Thunder não nasceu pra
+fazer trabalho de salário mínimo.<W>
+Sammy Thunder nasceu pro rock!<W>
+!------------------------------!
+Ouviu aí, mundo? Eu vou voltar
+pro trem do rock e seguir os
+trilhos até o topo!<W> YEEEEEEEAH!
+!******************************!
+[t16_060_1500.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:73>Hrrm?! Samuel, que absurdo é esse
+que você está falando?
+Volte aqui agora mesmo!
+!******************************!
+[t16_060_1600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:84>Peço desculpas, Sr. Beluga, mas
+creio que terei de ficar com
+a caixa por hora.
+!******************************!
+[t16_060_1700.gds]
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:78>Que seja! Como preferir, então! Espero
+que essa caixa maldita jogue muitas
+maldições sobre todos vocês!
+!******************************!
+[t16_060_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:24>Como, senhor?
+!******************************!
+[t16_060_300.gds]
+<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:135>Sr. Layton, peço que me
+entregue a caixa. Agora.<W>
+!------------------------------!
+Como filho do finado Duque Herzen,
+eu sou o herdeiro legítimo dela.
+!******************************!
+[t16_060_400.gds]
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:34>A caixa pertence aos Herzens?!
+!******************************!
+[t16_060_500.gds]
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:199>Tá ficando surdo, menino?<W> Dentro
+da caixa está a chave para o
+segredo da fortuna dos Herzens!<W>
+!------------------------------!
+E uma vez que eu tenho o sangue
+deles em minhas veias, a caixa
+deve ser passada para mim. Somente.
+!******************************!
+[t16_060_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:58>Bom, isso muda as coisas.
+Creio que teremos de-
+!******************************!
+[t16_060_700.gds]
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:133>Sr. Beluga, está ouvindo o
+absurdo que está dizendo?!<W>
+!------------------------------!
+O senhor não tem mais ou menos direito
+à essa caixa do que eu... ou do que
+nenhuma outra pessoa nesta sala.
+!******************************!
+[t16_060_800.gds]
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:100>Escute aqui, porteiro! Isso aqui
+não é da sua conta, e eu sugiro
+que feche essa sua matraca já!
+!******************************!
+[t16_060_900.gds]
+<01:00000018><03:10>b2 normal<03:5>NONE<01:00000002><03:364>Não! Peço desculpas, mas não vou
+ficar aqui parado enquanto o
+senhor declara posse da caixa.<W>
+!------------------------------!
+Se alguém tem o direito a ela,
+é o próprio duque atual de
+Folsense.<W>
+!------------------------------!
+Além do quê, eu sei de como o senhor
+deu as costas para a cidade e a deixou
+por livre e espontânea vontade.<W>
+!------------------------------!
+Na minha concepção, o seu direito
+de exigir a fortuna se foi no instante
+em que o senhor largou Folsense!
+!******************************!
+[t16_065_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:85>Agora que enfim temos a caixa, vamos
+voltar para o nosso quarto
+e examiná-la em paz.
+!******************************!
+[t16_070_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:132>Bom, parece que o Don Paolo
+não foi o responsável pela morte
+do doutor no fim das contas.<W>
+!------------------------------!
+Vai ver foi mesmo a Caixa
+Elisiana que matou ele.
+!******************************!
+[t16_070_1000.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Quem é esta pessoa?
+!******************************!
+[t16_070_1100.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:189>Eu...não posso falar mais que isso. Mas
+quando eu terminar, essa maldição
+horrível será desfeita pra sempre.<W>
+!------------------------------!
+A maldição vai acabar, e... e
+tudo vai ser resolvido.
+E ele vai...
+!******************************!
+[t16_070_1200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:45>Minha cara: aonde você
+quer chegar?
+!******************************!
+[t16_070_1300.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:254>Socooorrro! Alguém! Ajuda! Vem
+rápido! Outra pessoa foi
+levada pro Castelo Herzen!<W>
+!------------------------------!
+O vampiro vai chupar o sangue
+dele e em seguida roubar-lhe
+a alma!<W>
+!------------------------------!
+&setani 2 b1_angry&Por que teve de ser ele?
+Por quê? Era um homem tão bom!
+!******************************!
+[t16_070_1400.gds]
+<01:00000014><03:9>b1 angry<03:5>NONE<01:00000003><03:29>O quê? Não! Isso é impossível!
+!******************************!
+[t16_070_1500.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:224>Espera! Katia, aonde é que você
+vai?!<W>
+!------------------------------!
+Ela saiu com uma baita pressa.
+Vai ver essa história toda de
+vampiro assustou ela.<W>
+!------------------------------!
+O senhor entendeu o que ela
+tava falando, Professor? Eu mal
+consegui captar.
+!******************************!
+[t16_070_1600.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:292>Estou tão perplexo quanto você,
+Luke.<W>
+!------------------------------!
+Mas esta discussão só me deixou
+ainda mais certo de que a caixa
+esconde um segredo ainda maior.<W>
+!------------------------------!
+O caminho que devemos trilhar para
+entendermos tudo isso se posta bem
+diante de nós.<W>
+!------------------------------!
+Apesar de potencialmente
+perigoso, abrir a caixa parece
+ser o único caminho que nos resta.
+!******************************!
+[t16_070_1700.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:23>Entendido, Professor.
+!******************************!
+[t16_070_1800.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:87>Ótimo. Então vamos levá-la para
+o meu quarto para abrirmos
+ela longe de olhos curiosos.
+!******************************!
+[t16_070_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:263>Sim, me parece que ele já estava
+deitado no chão quando Don Paolo
+chegou à cena do crime.<W>
+!------------------------------!
+Talvez você tenha razão, Luke.
+Talvez a caixa contivesse um elemento
+letal que matou o bom doutor.<W>
+!------------------------------!
+Mas como saberemos sem abrir
+a caixa para nos certificarmos?
+!******************************!
+[t16_070_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>O senhor não está sugerindo que...?!
+!******************************!
+[t16_070_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:54>Estou sim, Luke. Nós temos de abrir
+a caixa. É o único meio.
+!******************************!
+[t16_070_500.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:30>Por favor, esperem!
+!******************************!
+[t16_070_600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:12>Hmm? Katia?
+!******************************!
+[t16_070_700.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:91>Teria como eu convencer vocês a
+me darem a caixa?<W>
+Ela é muito, muito importânte.
+!******************************!
+[t16_070_800.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>Antes de fazê-lo, teria primeiro que
+aprender mais sobre ela. Por que
+ela é tão importante para você?
+!******************************!
+[t16_070_900.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:105>D-Desculpem. Eu não posso dizer.<W>
+Mas preciso entregar a caixa pra...
+pra alguém importante. Eu preciso.
+!******************************!
+[t16_100_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>A caixa está vazia... e a gente
+não morreu!
+!******************************!
+[t16_100_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:43>O que significa, ao que parece,
+minha teoria estava certa.
+!******************************!
+[t16_100_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:29>Como assim, Professor?
+!******************************!
+[t16_110_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:96>Temos de voltar para a cidade
+e fazer mais perguntas.
+Preciso confirmar minhas suspeitas.
+!******************************!
+[t16_120_100.gds]
+<01:00000018><03:9>b2 smile<03:10>b2 normal<01:00000002><03:95>Boa noite, senhores. Peço
+perdão pelo meu comportamento de
+agora há pouco. Foi muito impróprio.
+!******************************!
+[t16_120_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:152>Não há com o que se preocupar.
+Na verdade, o seu testemunho foi
+de extrema valia para nós.<W>
+!------------------------------!
+A julgar pelo modo como falou,
+tive a impressão de que o senhor
+conhece bem a história dos Herzens.
+!******************************!
+[t16_120_300.gds]
+<01:00000018><03:10>b1 normal<03:5>NONE<01:00000002><03:416>Bom, sob um certo ponto de vista,
+sim, conheço.<W>
+!------------------------------!
+Quando ainda estava vivo, o Duque
+Herzen constantemente nos concedia
+a honra de hospedá-lo em nosso hotel.<W>
+!------------------------------!
+Tenho boas memórias da gentileza
+que ele me mostrava, mesmo quando
+eu ainda era um mero camareiro.<W>
+!------------------------------!
+Quando o Duque ainda estava
+entre nós, a cidade era cheia de
+energia e vida.<W>
+!------------------------------!
+Mas assim que a mineração parou e
+o duque faleceu, Folsense virou
+uma triste cidade fantasma.
+!******************************!
+[t16_120_400.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:63>Quem foi o sucessor do duque?
+Ele teve algum outro filho?
+!******************************!
+[t16_120_500.gds]
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:253>Se minha memória não falha, foi o
+irmão do Sr. Beluga quem herdou
+o título de duque.<W>
+!------------------------------!
+E isso é tudo que eu sei quanto
+ao caso. Mas ouvi falar que
+o duque atual é bem jovem.<W>
+!------------------------------!
+Ah, e também tem os boatos do
+vampiro, mas desses eu sei que
+vocês já ficaram sabendo.
+!******************************!
+[t16_120_550.gds]
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:187>Pra ser sincero, esse duque
+não exerce lá muita influência
+aqui. É só um título, mesmo.<W>
+!------------------------------!
+Por mais rude que possa parecer,
+ninguém na cidade liga pra quem
+ele é ou pro que anda fazendo.
+!******************************!
+[t16_121_100.gds]
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:138>Dá pra acreditar no Sr. Beluga?<W>
+Abandona Folsense e depois
+volta sem um pingo de remorso.<W>
+!------------------------------!
+Tem gente tão egoísta neste
+mundo... é ultrajante.
+!******************************!
+[t16_130_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:321>Meus heróis! A duplinha radical!
+Foi graças a vocês que eu não
+levei aquela acusação falsiane.(*desculpa)<W>
+!------------------------------!
+Pra agredecer, eu bati um papinho
+com o curador do museu e convenci
+ele a abrir o lugar pra vocês.<W>
+!------------------------------!
+Não é grande coisa, mas vai que vocês
+acham umas informações maneiríssimas
+por lá que ajudem na investigação?<W>
+!------------------------------!
+Não esqueçam de ir lá conferir!
+!******************************!
+[t16_130_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:172>Obrigado Sam! Por um segundo a
+situação lá ficou bem
+tensa, não foi mesmo?!<W>
+!------------------------------!
+Eu ainda tô processando
+aquela revelação de que
+o Sr. Beluga é um Herzen.
+!******************************!
+[t16_130_300.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:426>Pois é! O meu tio nunca falou
+muito sobre o assunto.<W>
+!------------------------------!
+Tudo que eu sabia é que ele e o
+pai, o duque, tiveram uma briga,
+e que por isso ele foi embora.<W>
+!------------------------------!
+Mas ele falava direto sobre o
+irmão que largou aqui. Dava pra
+ver que gostava bastante dele.<W>
+!------------------------------!
+Só que agora parece que é
+aquele vampirão sinistro que
+anda mandando no castelo.<W>
+!------------------------------!
+Não é legal dizer isso, mas duvido
+que alguém tenha sobrevivido depois
+que aquele monstro se mudou pra lá.
+!******************************!
+[t16_131_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:165>Eu arranjei pra vocês um passe
+livre pro Museu Herzen pra agradecer
+por terem me livrado a cara.
+!------------------------------!
+Sei lá, tipo... aposto que dá
+pra achar umas informações de
+primeira por lá!
+!******************************!
+[t16_140_100.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:352>Bem-vindos, meus amigos. Meu
+nome é Grinko, e eu sou o
+curador do Museu Herzen.<W>
+!------------------------------!
+Temos uma vasta coleção de
+artefatos ligados à história
+desta cidade e da família Herzen.<W>
+!------------------------------!
+O Sammy me falou de vocês.
+Espero que o nosso acervo lhes
+seja útil em sua investigação.<W>
+!------------------------------!
+Por favor, consultem nossa
+coleção o quanto quiserem.
+!******************************!
+[t16_141_100.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:96>Fiquem à vontade para explorar o museu
+se acharem que há alguma coisa
+nele que os ajudará em sua busca.
+!******************************!
+[t16_150_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:290>No museu, o Professor Layton e o
+jovem Luke encontraram relíquias
+dos tempos do finado duque.<W>
+!------------------------------!
+O que eles descobriram lá revelou
+discrepâncias entre o que eles
+achavam que sabiam e a verdade.<W>
+!------------------------------!
+A dupla então partiu para o
+Castelo Herzen no intuito de
+desvendarem a verdade.
+!******************************!
+[t16_160_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Esta deve ser a mina sobre a
+qual ouvimos falar, Professor.
+!******************************!
+[t16_160_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:95>De fato, e parece estar fechada.
+Imagine só, Luke. Outrora,
+ouro era escavado daqui.
+!******************************!
+[t16_160_300.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:186>E devia ser muito ouro pra
+ter esse efeito tão grande
+sobre a cidade.<W>
+!------------------------------!
+Mas se trazia tanta riqueza
+assim pra ela, então por que
+fecharam?
+!******************************!
+[t16_160_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:164>Essa pergunta talvez possamos
+responder se acharmos algum
+relato do que ocorreu aqui.<W>
+!------------------------------!
+De nada adianta continuarmos
+a especular. Vamos entrar.
+!******************************!
+[t16_170_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:32>Eca! Esse lugar tem cheiro
+de ovo podre!
+!******************************!
+[t16_170_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:76>O lugar claramente vem sendo
+negligenciado há bastante tempo.
+!******************************!
+[t16_170_300.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:112>Mas todo mundo na cidade falou
+pra gente que a mina fechou há
+pouco tempo.<W>
+!------------------------------!
+Será que todos eles se
+confundiram?
+!******************************!
+[t16_170_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:104>Só podemos torcer para a nossa investigação
+do local render uma explicação para
+essa inconsistência.<W> Sigamos, Luke.
+!******************************!
+[t16_180_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:32>Olha só isso aqui, Professor.
+!******************************!
+[t16_180_1000.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:59>De fato... ou pelo menos, foi
+isso que nos contaram. Mas
+venho aqui pensando...
+!******************************!
+[t16_180_1100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:290>Tanto este diário quanto o Grinko apontam
+para a existência de uma ligação entre
+a Caixa e o que aconteceu na mina.<W>
+!------------------------------!
+Em minha concepção, a origem de
+tudo isso se converge em um
+único homem: o próprio duque.<W>
+!------------------------------!
+Mesmo se ele já tiver falecido,
+seu castelo pode conter as respostas
+para todas as nossas dúvidas.
+!******************************!
+[t16_180_1200.gds]
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:79>Mas então... Quer dizer que a gente
+vai ter que visitar aquele
+castelo macabro pessoalmente?
+!******************************!
+[t16_180_1300.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:62>Ha ha ha! Está dizendo que
+tem medo do local, Luke?
+!******************************!
+[t16_180_1400.gds]
+<01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:56>Claro q-que não! Nem um
+milhão de vampiros meteriam
+medo em mim!
+!******************************!
+[t16_180_1500.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:98>Se realmente existir um morador
+vampiro no castelo, eu adoraria
+conhecê-lo.
+!******************************!
+[t16_180_1600.gds]
+<01:00000002><03:8>b4 weep<03:5>NONE<01:00000003><03:90>Nem brinca com isso, Professor!
+Se a gente esbarrasse com um,
+aposto que ele ia é comer a gente!
+!******************************!
+[t16_180_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:177>Ah, parece ser o diário de
+um minerador. Justo o tipo de
+coisa que procurávamos, Luke!<W>
+!------------------------------!
+Talvez ele nos dê mais detalhes
+sobre o que se passou por aqui.
+Vamos ler o que nele está escrito.
+!******************************!
+[t16_180_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:353>Escavamos um mineral esquisito que
+eu nunca tinha visto antes, bem aqui,
+no depósito de ouro do duque.<W>
+!------------------------------!
+Ele está convencido de que o minério
+pode ser refinado e transformado em
+um outro tipo de metal precioso.<W>
+!------------------------------!
+Pessoalmente, eu sinto que a
+pedra tem é uma aura sinistra.
+Não que o duque ligue pra isso.<W>
+!------------------------------!
+Não, ele vai exigir o que quer,
+e nós vamos continuar cavando.
+Aposto a minha vida nisso.
+!******************************!
+[t16_180_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:74>Um outro tipo de metal precioso?<W>
+Mas eu achei que essa aqui era
+uma mina de ouro.
+!******************************!
+[t16_180_500.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:239>Desde que achamos aquele minério maldito,
+as pessoas andam caindo vítimas
+de uma doença misteriosa.<W>
+!------------------------------!
+A cidade está tão cheia de enfermos
+que metade da mão-de-obra da mina
+não está mais vindo pro trabalho.<W>
+!------------------------------!
+Mas o que diabos está acontecendo
+aqui?
+!******************************!
+[t16_180_600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Puxa, que horrível.  Tanta gente deve
+ter ficado doente...
+!******************************!
+[t16_180_700.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:281>Os dias de Folsense como símbolo de
+prosperidade estão contados. Esta
+cidade está amaldiçoada e em ruínas.<W>
+!------------------------------!
+Creio eu que estejamos há poucos
+dias de fechar esta mina
+maldita para sempre.<W>
+!------------------------------!
+Deixo este diário aqui para que
+qualquer um que pense em reabrir
+a mina reconsidere a ideia.
+!******************************!
+[t16_180_800.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Que estranho. Esse último trecho
+estava datado de aproxidamente
+50 anos atrás...
+!******************************!
+[t16_180_900.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:70>Mas isso é impossível. A mina
+estava operacional até bem
+recentemente.
+!******************************!
+[t16_190_100.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:15>Ah, Sr.  Layton.
+!******************************!
+[t16_190_1000.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:65>A sua intuição está certa.
+Porque Folsense é uma cidade
+amaldiçoada.
+!******************************!
+[t16_190_1100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:9>Amaldiçoada?!
+!******************************!
+[t16_190_1200.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:290>Tal denominação pode parecer banal,
+mas posso garantir que o passado
+da cidade faz jus à palavra.<W>
+!------------------------------!
+Talvez a maldição seja uma
+punição que devemos encarar
+pelos grandes erros de nosso passado.<W>
+!------------------------------!
+Mas todo pesadelo uma hora termina,
+e acredito que falta pouco para
+acordarmos.
+!******************************!
+[t16_190_1300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:5>Hã?
+!******************************!
+[t16_190_1400.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:86>Aconselho vocês a irem àquele
+grande castelo ao longe e
+falarem com o Duque Anton.
+!******************************!
+[t16_190_1500.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:52>Esse homem, p "Anton". É ele o
+primogênito do antigo duque?
+!******************************!
+[t16_190_1600.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:293>Correto. O Duque Anton chefia o
+Castelo Herzen desde a morte
+do pai, já há vários anos.<W>
+!------------------------------!
+Eu servi à família Herzen até o dia
+fatídico 50 anos atrás quando eu
+fugi, deixando tudo para trás.<W>
+!------------------------------!
+Não acho que Anton um dia virá a
+me perdoar. É um homem que
+detesta traição acima de tudo.
+!******************************!
+[t16_190_1700.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:30>O que aconteceu 50 anos atrás?
+!******************************!
+[t16_190_1800.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:169>As respostas para todas as
+suas perguntas estão no castelo.
+Aconselho-os a irem até lá.<W>
+!------------------------------!
+Talvez uma voz da razão, tal
+como a sua, consiga chegar aos
+ouvidos do Duque Anton.
+!******************************!
+[t16_190_1900.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:69>Se o senhor acredita que isso
+resolverá o problema, então sim,
+nós visitaremos o castelo.
+
+!******************************!
+[t16_190_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:31>Er... O que o senhor está fazendo
+aqui?
+!******************************!
+[t16_190_2000.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:154>É, vejam com seus próprios olhos
+o que esta cidade se tornou.<W>
+!------------------------------!
+Talvez assim nós alcancemos a luz
+no fim deste túnel escuro que
+há tanto estamos atravessando.
+!******************************!
+[t16_190_2100.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:98>Luke, acredito que nosso destino
+agora esteja bem claro. Você sabe
+aonde devemos ir, não?
+!******************************!
+[t16_190_2200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:253>As pessoas com quem a gente falou
+morrem de medo do vampiro que
+dizem morar naquele castelo.<W>
+!------------------------------!
+E essa nossa conversa com o
+fotógrafo só fez foi levantar
+mais perguntas.<W>
+!------------------------------!
+O que aconteceu 50 anos atrás?<W> E
+o que é que tá acontecendo
+naquele castelo, afinal de contas? 
+!******************************!
+[t16_190_2300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:207>Quase que da noite para o dia, a
+família Herzen adquiriu grande
+riqueza ao encontrar ouro.<W>
+!------------------------------!
+Se viermos a entender a história por
+trás disso, nossas perguntas sobre a
+Caixa Elisiana também serão respondidas.
+!******************************!
+[t16_190_2400.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:122>Mas como faremos para entrar
+no castelo, Professor?<W>
+!------------------------------!
+Não parece ser o tipo de lugar
+em que podemos simplesmente
+bater na porta e entrar.
+!******************************!
+[t16_190_2500.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:54>Ah, mas eu certamente não diria
+que é impossível.
+!******************************!
+[t16_190_2600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:18>Como assim?
+!******************************!
+[t16_190_2700.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:212>Os rastros da carruagem que
+vimos indo rumo ao castelo
+são bem recentes.<W>
+!------------------------------!
+Me parece que o cocheiro
+diariamente leva alguma coisa
+para dentro do castelo.<W>
+!------------------------------!
+Tudo que precisamos fazer é
+segui-lo e acharemos uma rota
+para dentro dele.
+!******************************!
+[t16_190_2800.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:50>Ah, é claro! O cocheiro é a
+nossa porta de entrada!
+!******************************!
+[t16_190_2900.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:53>Excelente dedução, Luke. Bom,
+vamos indo, então?
+!******************************!
+[t16_190_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:73>Calma, Luke... senhor. Se me
+permite a grosseria: o que o
+traz a um lugar como este?
+!******************************!
+[t16_190_3000.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:65>Estou pronto quando o senhor estiver,
+Professor. É só mostrar o
+caminho!
+!******************************!
+[t16_190_400.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:281>Bom... vou ser sincero com o senhor:
+eu venho... er, espionando vocês
+já há um bom tempo.<W>
+!------------------------------!
+Vocês dois já realizaram bastante
+progresso em sua investigação,
+e logo tudo lhes ficará claro.<W>
+!------------------------------!
+E por isso eu sinto que não
+posso mais esconder de vocês
+a verdade por trás deste lugar.
+!******************************!
+[t16_190_500.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:30>...Aonde o senhor quer chegar?
+!******************************!
+[t16_190_600.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:139>Vocês viram o meu estúdio. Todas
+aquelas fotos da cidade nele.
+Fui eu mesmo quem as tirou.<W>
+!------------------------------!
+As fotos na estação também eram
+de minha autoria.
+!******************************!
+[t16_190_700.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:60>Aquelas fotos vêm me intrigando
+já há um bom tempo.
+!******************************!
+[t16_190_800.gds]
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:168>Merecidamente. Sr. Layton, o
+senhor se lembra de nosso último
+encontro em minha loja?<W>
+!------------------------------!
+O senhor apontou um certo estranho
+fenômeno que caía sobre as fotos
+tiradas dentro de Folsense.
+!******************************!
+[t16_190_900.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:154>De fato, apontei. Apenas uma das
+várias coisas curiosidades que
+testemunhamos nesta cidade.<W>
+!------------------------------!
+É como se toda a cidade de
+Folsense conspirasse para
+esconder um segredo de nós.
+!******************************!
+[t16_210_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:24>O portão tá trancado.
+!******************************!
+[t16_210_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:67>Não temos outra escolha. Se
+quisermos entrar, teremos de
+esperar pelo cocheiro.
+!******************************!
+[t16_210_300.gds]
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:56>Olha, é o cocheiro!<W>
+Vamos nos esconder, rápido!
+!******************************!
+[t16_210_400.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:40>Abriu! Professor, o portão
+tá aberto!
+!******************************!
+[t16_210_500.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:100>E não fomos captados! Se
+pretendemos entrar, esta é nossa
+única chance. Vamos depressa!
+!******************************!
+[t16_220_100.gds]
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:115>A gente tem mesmo que
+atravessar essa floresta pra
+chegar lá?<W>
+!------------------------------!
+Porque eu não posso negar que
+acho esse lugar um tanto...
+macabro...
+!******************************!
+[t16_220_150.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:10>Aaaiiinn!
+!******************************!
+[t16_220_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:25>Luke! O que houve?
+!******************************!
+[t16_220_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:53>Um f-f-fantasma! Tem um
+f-f-fantasma na f-f-floresta!
+!******************************!
+[t16_220_400.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:102>Luke, por favor. Você sabe muito
+bem que fantasmas não existem.
+Deve ter confundido com uma outra coisa.
+!******************************!
+[t16_220_500.gds]
+<01:00000002><03:8>b4 weep<03:5>NONE<01:00000003><03:43>Mas eu  j-juro que v-vi,
+Professor!
+!******************************!
+[t16_220_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:104>Respire fundo, Luke. Quando se está arisco,
+até coisas inofensivas, como galhos
+de árvores, podem parecer fantasmas.
+!******************************!
+[t16_220_700.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:16>Acho que o senhor tem razão...
+!******************************!
+[t16_220_800.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Se sente melhor agora?<W> Ótimo.
+Vamos indo, não devemos deixar o
+cocheiro se afastar demais.
+!******************************!
+[t16_230_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:46>Nossa! Este lugar dá ainda mais
+medo de perto!
+!******************************!
+[t16_230_1000.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:77>É, o boato realmente parece ter
+se espalhado por toda a
+população de Folsense.
+!******************************!
+[t16_230_1100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:102>O-O senhor acha que ele pode ser...
+mais do que um boato? O Sr. Parcelle
+parecia bem convencido!
+!******************************!
+[t16_230_1200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:94>É o que viemos descobrir. Só mais
+alguns metros e poderemos confirmar
+sua validez pessoalmente.
+!******************************!
+[t16_230_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>Está se sentindo nervoso
+de novo?
+!******************************!
+[t16_230_300.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:44>Nem um pouquinho! Vamos indo,
+Professor!
+!******************************!
+[t16_230_400.gds]
+<01:00000031><03:11>b1 normal2<03:5>NONE<01:00000002><03:28>Gaaaaaah! Alguém me ajude!
+!******************************!
+[t16_230_500.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:35>Qual o problema, senhor?
+!******************************!
+[t16_230_600.gds]
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:97>Tem um vampiro no castelo! Eu achei
+que era o meu fim, mas consegui
+escapar dele!
+!******************************!
+[t16_230_700.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:33>Um vampiro? De verdade?
+Tem certeza?
+!******************************!
+[t16_230_800.gds]
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:104>Eu é que não fiquei pra ver as
+presas de perto, menino!<W> Agora eu
+vou é dar o fora daqui! AUUUUGH!
+!******************************!
+[t16_230_900.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:70>Bom, o que o senhor acha da
+história do vampiro agora,
+Professor?
+!******************************!
+[t16_240_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:122>É, esta certamente não é a
+entrada para a mina.<W>
+!------------------------------!
+É melhor revisarmos nosso
+trajeto para descobrir onde
+erramos a rota.
+!******************************!
+[t16_250_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:41>O portão está trancado.
+Vamos embora, Luke.
+!******************************!
+[t16_260_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:92>Quanta coisa tem neste lugar...
+Acha que esse aqui é um retrato*
+do finado duque?
+!******************************!
+[t16_260_200.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:19>Sim, acredito que seja.
+!******************************!
+[t16_260_300.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:144>O antigo Duque Herzen morreu há
+um bom tempo, e deixou pra trás
+uma enorme fortuna.<W>
+!------------------------------!
+Mas se ele já se foi, então
+quem é esse vampiro de que a
+cidade toda não para de falar?
+!******************************!
+[t16_260_400.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:120>O Sam havia dito que o Sr.
+Beluga tinha um irmão mais
+velho aqui na cidade.<W>
+!------------------------------!
+Acredito que seja ele o centro
+de todos esses boatos.
+!******************************!
+[t16_260_500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:140>Mas pra ser irmão mais velho do
+Sr. Beluga, ele teria que ser
+já bem velhinho agora.<W>
+!------------------------------!
+Ah, se bem que vampiros não
+envelhecem, não é mesmo?
+!******************************!
+[t16_260_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:36>Hmm... Não sou capaz de opinar.
+!******************************!
+[t16_261_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Então este é o finado Duque Herzen.
+!******************************!
+[t16_270_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:54>Professor, veja só esta caixa*(case)
+de coisas.
+!******************************!
+[t16_270_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:72>Parecem ser típicos utensílios
+domésticos da família Herzen.
+!******************************!
+[t16_270_300.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:39>Alguns parecem ter séculos!
+!******************************!
+[t16_270_400.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:70>De fato. A família Herzen claramente
+tem um histórico familiar rico
+e longevo.
+!******************************!
+[t16_280_100.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:58>Essa estátua é impressionante.
+Deve ser o Duque Herzen.
+!******************************!
+[t16_280_200.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:100>Este museu inteiro parece ter sido
+construído para celebrar suas
+conquistas, então, devo concordar.
+!******************************!
+[t16_280_300.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:60>Mas... espera aí. Eu achei
+que era o Sr. Beluga o
+dono deste lugar!
+!******************************!
+[t16_280_400.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:32>Acredito que seja isso mesmo,
+sim.
+!******************************!
+[t16_280_500.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:90>Quer dizer então que ele construiu
+este museu em homenagem ao pai...<W>
+Acho que ele não é tão mau assim.
+!******************************!
+[t16_290_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Ainda não terminamos de examinar
+tudo que o museu tem a oferecer.
+Vamos investigar mais um pouco.
+!******************************!
+[t16_300_100.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:88>É verdade que vocês desejam entender
+os segredos da Caixa Elisiana?
+!******************************!
+[t16_300_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:66>É, sim. O senhor por acaso sabe
+alguma coisa sobre ela?
+
+!******************************!
+[t16_300_300.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:285>Como já devem saber, a Caixa Elisiana
+é uma relíquia da família Herzen.<W>
+!------------------------------!
+A pedidos do Sr. Beluga, eu venho
+pesquisando a história de
+Folsense e da família Herzen.<W>
+!------------------------------!
+Em minhas pesquisas, descobri um
+segredo no passado da cidade que
+revela o segredo por trás da Caixa.
+!******************************!
+[t16_300_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>Estou intrigado. A que segredo
+o senhor se refere?
+!******************************!
+[t16_300_500.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:382>Isso é fácil de se perguntar
+quando não se sabe no que
+está se metendo, Sr. Layton.<W>
+!------------------------------!
+Mas se quer tanto assim a verdade
+e está pronto para encará-la,
+sugiro uma visita à mina da cidade.<W>
+!------------------------------!
+Muitos dos mineradores escreviam
+diários para documentar o
+que se passava lá embaixo.<W>
+!------------------------------!
+Se conseguirem achar um deles,
+terão um relato de primeira mão
+do que se sucedeu por lá.
+!******************************!
+[t16_300_600.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:99>Muito obrigado pelo conselho.
+Seguiremos para lá agora mesmo.<W>
+Vamos, Luke. Para a mina.
+!******************************!
+[t16_310_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:31>Até que enfim a gente chegou,
+Professor!
+!******************************!
+[t16_310_200.gds]
+<01:00000058><03:5>NONE<03:5>NONE<01:00000002><03:72>Saiam deste lugar agora!<W>
+Vocês não têm o direito de
+entrar no Castelo Herzen.
+!******************************!
+[t16_310_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>De onde está vindo essa voz?
+!******************************!
+[t16_310_400.gds]
+<01:00000058><03:5>NONE<03:5>NONE<01:00000002><03:357>Somente os detentores de sabedoria
+e bravura excepcionais são dignos
+de terem acesso ao castelo.<W>
+!------------------------------!
+Me parece que vocês ficaram de
+resolver um número considerável de
+enigmas pela cidade.<W>
+!------------------------------!
+Tal nível de indolência é
+incompatível com hóspedes do
+Castelo Herzen.<W>
+!------------------------------!
+Se quiserem entrar, voltem
+após terem resolvido no mínimo
+80 enigmas.<W>
+!------------------------------!
+Vão. Desejamo-lhes sorte em
+sua empreitada.
+!******************************!
+[t16_310_500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:48>O-o senhor acha que quem
+falou isso foi o vampiro?
+!******************************!
+[t16_310_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:236>Bom, Luke... sem poder ver
+o falante, é impossível saber.<W>
+!------------------------------!
+Mas temos de resolver pelo menos
+80 enigmas se quisermos descobrir.<W>
+!------------------------------!
+Esqueça essa história de vampiro.
+Vamos resolver mais alguns enigmas
+para aumentarmos o nosso total.
+!******************************!
+[t16_311_100.gds]
+<01:00000058><03:5>NONE<03:5>NONE<01:00000002><03:357>>Somente os detentores de sabedoria
+e bravura excepcionais são dignos
+de terem acesso ao castelo.<W>
+!------------------------------!
+Me parece que vocês ficaram de
+resolver um número considerável de
+enigmas pela cidade.<W>
+!------------------------------!
+Tal nível de indolência é
+incompatível com hóspedes do
+Castelo Herzen.<W>
+!------------------------------!
+Se quiserem entrar, voltem
+após terem resolvido no mínimo
+80 enigmas.<W>
+!------------------------------!
+Vão. Desejamo-lhes sorte em
+sua empreitada.
+!******************************!
+[t16_312_100.gds]
+<01:00000058><03:5>NONE<03:5>NONE<01:00000002><03:137>Vejo que vocês resolveram mais de
+80 enigmas.<W>
+!------------------------------!
+Eu admiro sua perseverança e
+declaro-vos dignos de entrarem
+no castelo.
+!******************************!
+[t16_320_100.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:55>Vejo que o senhor ficou bem
+interessado nessa foto.*
+!******************************!
+[t16_320_1000.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:16>Ganância, talvez?
+!******************************!
+[t16_320_1100.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:92>Bom, sim, isso também.<W> Mas havia uma
+outra coisa, algo maior do que
+ganância, que infestava seu coração.
+!******************************!
+[t16_320_1200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:28>O que o senhor acha que poderia
+ter sido?
+!******************************!
+[t16_320_1300.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:140>Eu... Não, acho melhor deixarmos
+esta conversa por aqui.<W>
+!------------------------------!
+Não cabe a mim fazer pressupostos
+sobre o que se passa nos corações
+dos outros.
+!******************************!
+[t16_320_1400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:68>É claro.<W> Mas por favor, me diga uma
+coisa, se puder. Onde está o
+Anton agora?
+!******************************!
+[t16_320_1500.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:196>Boa pergunta. Ouvi boatos de
+que ele continua a morar naquele
+velho castelo.<W>
+!------------------------------!
+Mas imaginar alguém morando em um
+lugar tão aos pedaços a ponto de
+ser visto como covil de vampiro...
+!******************************!
+[t16_320_1600.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:144>Puxa vida, olhem a hora. Perdi a noção
+do tempo durante esta nossa conversa.
+Hora de voltar ao trabalho.<W>
+!------------------------------!
+Por favor, sintam-se à vontade
+para estudarem o museuu o
+quanto quiserem.
+!******************************!
+[t16_320_1700.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:62>Parece que dinheiro só não resolve
+todos os problemas de uma
+pessoa, não é mesmo, Professor?
+!******************************!
+[t16_320_1800.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:6>Mm...
+!******************************!
+[t16_320_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:30>Isto aqui... é o que eu acredito
+ser?
+!******************************!
+[t16_320_300.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:264>É um retrato*(foto?) de toda a família Herzen,
+a responsável pela lendária
+riqueza de Folsense.<W>
+!------------------------------!
+O cavalheiro mais velho à
+esquerda é o Duque Herzen.<W>
+!------------------------------!
+Seu filho mais novo, Fredrich,
+está no meio; e seu primogênito,
+Anton, está à direita.
+!******************************!
+[t16_320_400.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:96>Esse "Fredrich"... é o Sr. Beluga,
+o fundador e dono do
+Molentary Express*, não?
+!******************************!
+[t16_320_500.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:469>Ah, o senhor já o conhece?<W>
+!------------------------------!
+Bom, além de ser proprietário
+ferroviário o Fredrich é um bom
+amigo meu, e dono deste museu.<W>
+!------------------------------!
+Na verdade, é uma história triste.
+Ele desfez todos os laços com o
+pai e deixou a cidade 50 anos atrás.<W>
+!------------------------------!
+E com ele levou uma pequena parte
+do tesouro Herzen e o utilizou
+para financiar sua ferrovia.<W>
+!------------------------------!
+Pois é, o Fredrich é um homem
+repleto de contradições.<W>
+!------------------------------!
+Ele desprezava o pai o bastante
+para mudar de sobrenome, mas
+voltou aqui e fundou este museu.
+!******************************!
+[t16_320_510.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:104>Ele deve ter seus motivos para isso,
+mas como ele paga meu sustento,
+não estou em posição de questionar.
+!******************************!
+[t16_320_600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:62>Esse desentendimento também
+aconteceu com o resto da
+família Herzen?
+!******************************!
+[t16_320_700.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:140>Não, Fredrich e Anton sempre
+foram irmãos muito próximos.<W>
+!------------------------------!
+Mas depois daquele dia fatídico,
+a relação deles com o pai
+nunca mais foi a mesma...
+!******************************!
+[t16_320_800.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:24>Que dia, senhor?
+!******************************!
+[t16_320_900.gds]
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:153>O dia em que o Duque Herzen descobriu
+a mina de ouro que trouxe
+tanta riqueza para Folsense.<W>
+!------------------------------!
+Ele se tornou um homem completamente
+diferente depois disso. Alguma
+coisa havia mudado ele.
+!******************************!

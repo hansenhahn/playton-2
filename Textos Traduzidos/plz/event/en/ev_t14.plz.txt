@@ -751,105 +751,104 @@ fato que nos possa ser útil? Talvez
 um outro cachorro perdido?
 !******************************!
 [t14_250_1000.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:84>Inspector, do you recall the path
-you took around town as you
-made your way here?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:84>Inspetor, você lembra do
+caminho que fez pela cidade para chegar
+até aqui?
 !******************************!
 [t14_250_1100.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:152>Bits of it, yes. Let's see...<W>
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:152>Sim, lembro de alguma coisa. Vamos ver...<W>
 !------------------------------!
-I made my way right up to the
-north-east corner before ending
-the day's search.<W>
+Eu segui na direção nordeste
+antes de dar por encerrada as
+buscas do dia.<W>
 !------------------------------!
-After that, I came straight here.
+Depois disso, vim direto para cá.
 !******************************!
 [t14_250_1200.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:170>That should be enough information
-to get us started. Thank you.<W>
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:170>Essa informação nos basta. Obrigado.<W>
 !------------------------------!
-Come, Luke. Let's see if we can
-recover the pieces of the photo
-by retracing the inspector's steps.
+Vamos, Luke. Talvez consigamos recuperar
+os pedaços da foto se seguirmos
+o caminho do inspetor.
 !******************************!
 [t14_250_1300.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>What's so important about that
-photo, Professor?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>O que essa foto tem
+de tão importante, Professor?
 !******************************!
 [t14_250_1400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:107>I'm unsure of the photo's content,
-but I have every confidence that
-it will lead us to the Elysian Box. 
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:107>Não tenho certeza sobre o conteúdo da foto,
+mas estou confiante que irá nos levar
+até a Caixa Elísia.
 !******************************!
 [t14_250_1500.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:103>Say no more, I'm sold! After all,
-your intuition never fails. Let's
-hurry to the north-east of town!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:103>Não precisa dizer mais nada, professor!
+Sua intuição é infalível. Vamos rápido
+para o nordeste da cidade!
 !******************************!
 [t14_250_200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:87>Pardon the sudden request, but
-could I see the photo you found
-in the doctor's home?
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:87>Peço perdão pelo pedido repentino,
+inspetor, mas poderia me mostrar a foto
+que você achou na casa do doutor?
 !******************************!
 [t14_250_300.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:160>Oho, am I to understand there's a
-clue to be found in that photo?<W>
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:160>Aha, então há uma pista naquela
+foto?<W>
 !------------------------------!
-Hmph, very well. If it'll help solve
-the case I'll be happy to...<W>
+Hmpf, tudo bem. Se vai ajudar a resolver
+este caso, ficarei feliz em...<W>
 !------------------------------!
-...What the devil?!
+...Mas que diabos?!
 !******************************!
 [t14_250_400.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:30>Is something the matter, sir?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:30>Algum problema?
 !******************************!
 [t14_250_500.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:38>There's a blasted hole in my
-pocket!
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:38>Há um maldito furo no meu bolso!
 !******************************!
 [t14_250_600.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:7>Oh no!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:7>Ah não!
 !******************************!
 [t14_250_700.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:182>I've been scattering the pieces
-about without even noticing! This...
-This is a low point in my career.<W>
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:182>Eu fui perdendo os pedaços
+e nem mesmo percebi isso! Isto... Isto
+é um ponto baixo na minha carreira.<W>
 !------------------------------!
-It would seem all that remains of
-that photograph is this single
-scrap.
+Pelo jeito, tudo que sobrou daquela
+foto foi este pedaço.
 !******************************!
 [t14_250_800.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:54>Doesn't look like we'll ever see
-that photo again...
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:54>Acho que nunca mais
+iremos ver aquela foto outra vez...
 !******************************!
 [t14_250_900.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:106>Perhaps not... The pieces were all
-still in my pocket when we entered
-Folsense. Of that much I am sure.
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:106>Talvez não... Os pedaços estavam
+todos no meu bolso quando cheguei a
+Folsense. Disso tenho certeza.
 !******************************!
 [t14_260_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:81>Professor, I think we should follow
-the path which goes under that
-watchtower.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:81>Professor, acho que devemos seguir
+o caminho que segue por baixo daquela
+torre.
 !******************************!
 [t14_270_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:102>Oh Professor! Hold on just a
-moment. There's a dog over there.<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:102>Oh, professor! Só um minuto.
+Há um cachorro ali.<W>
 !------------------------------!
-I'm going to go over to say hello.
+Vou ali dar um alô para ele.
 !******************************!
 [t14_271_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:68>A gentleman would never allow his
-apprentice to go off on his own.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:68>Um cavalheiro não deve deixar
+seu aprendiz sozinho.
 !******************************!
 [t14_280_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:85>This place gives me a bad feeling.
-Who knows what could be lurking
-down that path?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:85>Este lugar me dá calafrios. Quem sabe
+as coisas que podem estar nos esperando
+neste caminho?
 !******************************!
 [t14_280_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:86>From what I can see, it's just an
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:86>Pelo que posso ver, 
+
+From what I can see, it's just an
 expanse of wilderness. Let's leave
 it be for now.
 !******************************!
