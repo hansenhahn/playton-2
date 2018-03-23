@@ -846,853 +846,872 @@ as coisas que podem estar nos esperando
 neste caminho?
 !******************************!
 [t14_280_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:86>Pelo que posso ver, 
-
-From what I can see, it's just an
-expanse of wilderness. Let's leave
-it be for now.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:86>Pelo que posso ver, é só uma área
+de mata vazia. É melhor a
+ignorarmos por enquanto.
 !******************************!
 [t14_290_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Finding a lead out here is slow
-going, isn't it?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Achar uma pista por aqui tá difícil,
+não é mesmo?
 !******************************!
 [t14_290_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:81>Indeed. Perhaps our only real
-choice is to wait for the Herzen
-Museum to open.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:81>Concordo. Acho que nossa única
+escolha no fim das contas é
+é esperar o Museu Herzen abrir.
 !******************************!
 [t14_290_300.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:128>Gosh, if that's the case, maybe we 
-should revisit the museum.<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:128>Bom, já que esse é o caso, talvez
+fosse uma boa ideia a gente
+voltar ao museu agora.<W>
 !------------------------------!
-You never know, it might have
-opened up while we were away.
+Nunca se sabe: vai que abriram
+ele enquanto a gente tava
+ocupado?
 !******************************!
 [t14_290_400.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:101>You have a point, Luke. I hope the
-museum proves more useful to us
-this time than it did the last.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:101>Bem observado, Luke. Espero que
+o museu se mostre mais útil para
+nós desta vez do que da última.
 !******************************!
 [t14_291_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Finding a lead out here is slow
-going, isn't it?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Achar uma pista por aqui tá difícil,
+não é mesmo?
 !******************************!
 [t14_291_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:81>Indeed. Perhaps our only real
-choice is to wait for the Herzen
-Museum to open.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:81>Concordo. Acho que nossa única
+escolha no fim das contas é
+é esperar o Museu Herzen abrir.
 !******************************!
 [t14_291_300.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:128>Gosh, if that's the case, maybe we 
-should revisit the museum.<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:128>Bom, já que esse é o caso, talvez
+fosse uma boa ideia a gente
+voltar ao museu agora.<W>
 !------------------------------!
-You never know, it might have
-opened up while we were away.
+Nunca se sabe: vai que abriram
+ele enquanto a gente tava
+ocupado?
 !******************************!
 [t14_291_400.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:101>You have a point, Luke. I hope the
-museum proves more useful to us
-this time than it did the last.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:101>Bem observado, Luke. Espero que
+o museu se mostre mais útil para
+nós desta vez do que da última.
 !******************************!
 [t14_292_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Finding a lead out here is slow
-going, isn't it?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Achar pistas por aqui tá
+difícil, não é mesmo?
 !******************************!
 [t14_292_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:81>Indeed. Perhaps our only real
-choice is to wait for the Herzen
-Museum to open.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:81>Concordo. Acho que nossa única
+escolha no fim das contas é
+é esperar o Museu Herzen abrir.
 !******************************!
 [t14_292_300.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:128>Gosh, if that's the case, maybe we 
-should revisit the museum.<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:128>Bom, já que esse é o caso, talvez
+fosse uma boa ideia a gente
+voltar ao museu agora.<W>
 !------------------------------!
-You never know, it might have
-opened up while we were away.
+Nunca se sabe: vai que abriram
+ele enquanto a gente tava
+ocupado?
 !******************************!
 [t14_292_400.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:101>You have a point, Luke. I hope the
-museum proves more useful to us
-this time than it did the last.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:101>Bem observado, Luke. Espero que
+o museu se mostre mais útil para
+nós desta vez do que da última.
 !******************************!
 [t14_293_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Finding a lead out here is slow
-going, isn't it?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Achar pistas por aqui tá
+difícil, não é mesmo?
 !******************************!
 [t14_293_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:81>Indeed. Perhaps our only real
-choice is to wait for the Herzen
-Museum to open.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:81>Concordo. Acho que nossa única
+escolha no fim das contas é
+é esperar o Museu Herzen abrir.
 !******************************!
 [t14_293_300.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:128>Gosh, if that's the case, maybe we 
-should revisit the museum.<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:128>Bom, já que esse é o caso, talvez
+fosse uma boa ideia a gente
+revisitar o museu.<W>
 !------------------------------!
-You never know, it might have
-opened up while we were away.
+Nunca se sabe: vai que abriram
+ele enquanto a gente tava
+ocupado?
 !******************************!
 [t14_293_400.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:101>You have a point, Luke. I hope the
-museum proves more useful to us
-this time than it did the last.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:101>Bem observado, Luke. Espero que
+o museu se mostre mais útil para
+nós desta vez do que da última.
 !******************************!
 [t14_320_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:53>My stomach's grumbling something
-fierce, Professor.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:53>A minha barriga não para
+de roncar, Professor.
 !******************************!
 [t14_320_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:82>Yes, now that you mention, it
-has been a while since we've had
-anything to eat.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:82>É verdade... agora que
+você falou, faz tempo desde a
+última vez que comemos.
 !******************************!
 [t14_320_300.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:59>I don't know what they're cooking,
-but it smells amazing!
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:59>Eu não sei o que tão preparando
+ali, mas o cheiro é divino!
 !******************************!
 [t14_320_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:45>Well, why don't we take a look
-at the menu?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:45>Bom, que tal darmos uma
+olhada no menú?
 !******************************!
 [t14_330_100.gds]
-<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:22>Sir, a minute please.
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:22>Senhor? Um minuto, por favor.
 !******************************!
 [t14_330_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:79>Oh, hello there. You're the fellow
-who's always with Inspector
-Chelmey, yes?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:79>Ah, olá. O senhor é o guarda
+que sempre acompanha o Inspetor
+Chelmey, certo?
 !******************************!
 [t14_330_300.gds]
-<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:176>The name's Barton, sir. I am a
-constable serving under Inspector
-Chelmey, sir!<W>
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:176>Me chamo Barton, senhor. Sou
+subalterno do Inspetor Chelmey,
+senhor!<W>
 !------------------------------!
-I feel obliged to let you know you
-may want to reconsider going up
-this way with the boy.
+Sinto-me na obrigação de dizer
+que não é aconselhável você e o
+rapazinho seguirem por este caminho.
 !******************************!
 [t14_330_400.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:22>Why, what's up ahead?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:22>Por quê? O que é que tem
+lá?
 !******************************!
 [t14_330_500.gds]
-<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:104>Things best left unknown till you're
-older, lad. My advice is to do an
-about-face and leave the area.
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:104>Coisas que é melhor você evitar até
+ficar mais velho, meu jovem.
+Aconselho vocês a darem meia-volta já.
 !******************************!
 [t14_330_600.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:96>I don't think he'll budge on this,
-Luke. We'll have to find another
-path leading up that way.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:96>Acho que ele não vai mudar de
+ideia, Luke. Teremos de achar
+outra rota até lá.
 !******************************!
 [t14_331_100.gds]
-<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:53>I'm sorry, but no children are
-allowed up this way.
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:53>Eu sinto muito, mas crianças não
+podem passar por aqui.
 !******************************!
 [t14_340_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:90>A photographer's shop... Do you
-think they might know something
-about what we're after?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:90>Uma loja fotográfica* (*estúdio?)... Será que
+alguém nela sabe de alguma coisa
+sobre o que a gente tá procurando?
 !******************************!
 [t14_350_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>It never hurts to ask. Let's start
-with the woman standing outside.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>Não custa nada perguntar. Comecemos
+pela senhorita que está logo
+à frente* dela* (*verificar se isso é verdade).
 !******************************!
 [t14_360_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:59>Professor, there's some sort of
-grocer's shop over there.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:59>Professor, tem uma mercearia* (grocery store) bem ali.
 !******************************!
 [t14_360_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:75>Let's pop in for a moment. We might
-as well see what kind of place it is.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:75>Vamos dar uma passada nela. Não
+custa nada conferir como é
+o lugar.
 !******************************!
 [t14_370_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:100>Do you see that watchtower,
-Professor?<W> There's something very
-suspicious about it, isn't there?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:100>Está vendo aquela torre de vigia*(watchtower),
+Professor?<W> Tem alguma coisa
+muito suspeita nela, não acha?
 !******************************!
 [t14_380_100.gds]
-<01:00000031><03:10>b1 normal<03:5>NONE<01:00000002><03:65>Oh, fancy running into you here!
-Hello, howdy, hi and all that.
+<01:00000031><03:10>b1 normal<03:5>NONE<01:00000002><03:65>Ah, que coincidência esbarrar com
+vocês aqui! Oi, tudo bem, como
+vai a vida, etcétera e tal.
 !******************************!
 [t14_380_200.gds]
-<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:15>Hey, you're...
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:15>Ah, o senhor é o...
 !******************************!
 [t14_380_300.gds]
-<01:00000031><03:8>b2 weep<03:5>NONE<01:00000002><03:268>The postman, yep. I've got post to
-deliver here, but it's always dark
-when I come, so it takes forever.<W>
+<01:00000031><03:8>b2 weep<03:5>NONE<01:00000002><03:268>Carteiro, sim. Tenho correspondências
+para entregar aqui, mas sempre chego
+depois de escurecer. Dá um trabalho!<W>
 !------------------------------!
-No wonder the people here always
-seem so on edge.<W>
+Não é pra menos que todos na cidade
+parecem tão ariscos.<W>
 !------------------------------!
-Well, that's all the more reason for
-me to bring a little sunshine into
-everyone's life with the post.
+Bom, mais um motivo para eu trazer
+um pouquinho de alegria pras vidas
+deles com as correspondências.
 !******************************!
 [t14_380_400.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:48>Wow, you deliver letters all the way
-out here?
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:48>Caramba, o senhor entrega cartas
+até aqui?
 !******************************!
 [t14_380_500.gds]
-<01:00000031><03:10>b1 normal<03:5>NONE<01:00000002><03:110>I certainly do, and I've a schedule
-to keep while doing it.<W> So on that
-note, I'll be off. See you around!
+<01:00000031><03:10>b1 normal<03:5>NONE<01:00000002><03:110>Pode apostar! E tenho um prazo
+a cumprir.<W> Dito isso, hora de
+seguir com o trabalho. Até mais!
 !******************************!
 [t14_380_600.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:82>It would seem our friend the
-postman works a very, very wide
-area for delivery.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:82>Ao que parece o nosso amigo
+carteiro cobre uma vasta área
+em seu ofício.
 !******************************!
 [t14_380_700.gds]
-<01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:130>But how can he cover Dropstone
-and Folsense every single day?<W>
+<01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:130>Mas como ele consegue entregar
+cartas pra Dropstone e Folsense
+em um só dia, todo dia?<W>
 !------------------------------!
-The two towns are so far apart, it
-would be simply impossible!
+As duas cidades ficam tão longe
+uma da outra, é impossível!
 !******************************!
 [t14_380_800.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:100>You may think so, Luke, but our
-world is full of inexplicable
-phenomena. This is but one of many.
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:100>Pode até achar isso, Luke, mas
+este mundo é cheio de fenômenos
+inexplicávels. Este é só mais um.
 !******************************!
 [t14_380_900.gds]
-<01:00000002><03:8>b4 weep<03:5>NONE<01:00000003><03:16>I suppose so...
+<01:00000002><03:8>b4 weep<03:5>NONE<01:00000003><03:16>Tá bom, né...
 !******************************!
 [t14_390_100.gds]
-<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:42>Hello, you two. Imagine seeing
-you here!
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:42>Oi, rapazes. Não esperava
+encontrar vocês aqui!
 !******************************!
 [t14_390_1000.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:103>Quite a perplexing individual, that
-one, but never mind. For now we
-must focus on our investigation.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:103>Ele é um homem intrigante, sem
+dúvidas. Mas agora temos de nos
+concentrar em nossa investigação.
 !******************************!
 [t14_390_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:15>Hey, you're...
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:15>Ah, o senhor é o...
 !******************************!
 [t14_390_300.gds]
-<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:327>The postman, yep. I've got post to
-deliver here, but it's always dark
-when I come, so it takes forever.<W>
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:327>>Carteiro, sim. Tenho correspondências
+para entregar aqui, mas sempre chego
+depois de escurecer. Dá um trabalho!<W>
 !------------------------------!
-No wonder the people here always
-seem so on edge.<W>
+Não é pra menos que todos aqui
+parecem tão ariscos.<W>
 !------------------------------!
-Well, that's all the more reason for
-me to bring a little sunshine into
-everyone's life with the post..<W>
+Bom, mais um motivo para eu trazer
+um pouquinho de alegria pras vidas
+deles com estas correspondências.<W>
 !------------------------------!
-I think I'll start from the north
-side of town today.
+Acho que hoje vou começar a
+partir da parte norte da cidade,
+pra variar.
 !******************************!
 [t14_390_400.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:34>What's in the north side of town?
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:34>O que é que tem na parte
+norte da cidade?
 !******************************!
 [t14_390_500.gds]
-<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:102>Oh, nothing really. Just some old
-houses. I've got letters from folk
-in Dropstone to deliver there.
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:102>Ah, nada de mais. Umas casas
+velhas. Tenho uma ou duas cartas
+de Dropstone para entregar lá.
 !******************************!
 [t14_390_600.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:61>Wow, people in Dropstone send
-letters all the way out here?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:61>Caramba, as pessoas de Dropstone
+mandam cartas até aqui? Mesmo
+sendo tão longe?
 !******************************!
 [t14_390_700.gds]
-<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:230>I was surprised at first too, but
-there's some sort of connection
-between Dropstone and this place.<W>
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:230>Também fiquei espantado ao aprender isso,
+mas parece haver um tipo de ligação
+entre Dropstone e Folsense.<W>
 !------------------------------!
-It's hard to describe it in words, so
-I'll just leave it at that.<W>
+É meio difícil de explicar,
+então não vou tentar.<W>
 !------------------------------!
-Whoops, and I've got to dash. The
-post can't be late!
+E... opa, preciso correr. Ninguém
+gosta de correio atrasado!
 !******************************!
 [t14_390_800.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>Wait a minute, Mr Postman!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>Espera aí, Sr. Carteiro!
 !******************************!
 [t14_390_900.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:48>...He probably didn't hear me. He's
-long gone.
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:48>...Ele nem deve ter ouvido.
+Já tá lá longe.
 !******************************!
 [t14_395_100.gds]
-<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:88>Oh, hello you two. Nice to see you
-again. Heading to the north side of
-town, are you?
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:88>Ah, oi, rapazes. Como é bom
+vê-los novamente. Indo para a
+parte norte da cidade?
 !******************************!
 [t14_395_200.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:22>Why, what's up there?
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:22>Por quê? O que é que tem lá?
 !******************************!
 [t14_395_300.gds]
-<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:102>Oh, nothing really. Just some old
-houses. I've got letters from folk
-in Dropstone to deliver there.
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:102>Ah, nada de mais. Só umas casas
+bem velhas. Tenho cartas do pessoal
+de Dropstone para entregar por lá.
 !******************************!
 [t14_395_400.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:77>Wow, there are people from
-Dropstone sending letters all
-the way out here?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:77>Caramba, as pessoas de Dropstone
+mandam cartas até aqui? Mesmo
+sendo tão longe?
 !******************************!
 [t14_395_500.gds]
-<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:230>I was surprised at first too, but
-there's some sort of connection
-between Dropstone and this place.<W>
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:230>Também fiquei espantado ao aprender isso,
+mas parece haver um tipo de ligação
+entre Dropstone e Folsense.<W>
 !------------------------------!
-It's hard to describe it in words, so
-I'll just leave it at that.<W>
+É meio difícil de explicar,
+então nem vou tentar.<W>
 !------------------------------!
-Whoops, and I've got to dash. The
-post can't be late!
+E... opa, preciso correr. Ninguém
+gosta de correio atrasado!
 !******************************!
 [t14_395_600.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>Mr Parcelle, please wait a moment!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>Sr. Parcelle, espera!
 !******************************!
 [t14_395_700.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:41>...Gosh, he didn't even look back
-once.
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:41>...Puxa, ele não olhou pra
+trás nem de relance.
 !******************************!
 [t14_395_800.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:103>Quite a perplexing individual, that
-one, but never mind. For now we
-must focus on our investigation.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:103>Ele é um homem intrigante, sem
+dúvidas. Mas agora temos de nos
+concentrar em nossa investigação.
 !******************************!
 [t14_400_100.gds]
-<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:91>Hello again, fellows. Your friendly
-neighbourhood postman, Parcelle,
-is at your service.
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:91>Olá de novo, meus amigos. Sou eu,
+seu amigo carteiro da vizinhança,
+Parcelle, ao seu dispôr.
 !******************************!
 [t14_400_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:71>Hello, Mr Parcelle. May I ask,
-why do you come all the way
-out here?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:71>Oi, Sr. Parcelle. Vem cá: por que o
+senhor vem pra cá tão de longe?
 !******************************!
 [t14_400_300.gds]
-<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:167>Believe me, son, I'd love to tell you,
-but that's a secret between the
-people of Folsense and Dropstone.<W>
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:167>Acredite, meu rapaz: eu adoraria te
+contar, mas isso é um segredo entre
+os povos de Folsense e Dropstone.<W>
 !------------------------------!
-It's not really my place to gossip
-about their affairs.
+Não posso ficar de fofoca
+sobre o que há entre eles.
 !******************************!
 [t14_401_100.gds]
-<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:86>You two look fairly sharp. I'm sure
-you'll get to the bottom of it
-sooner or later.
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:86>Vocês parecem rapazes espertos. Com
+certeza vão descobrir tudo mais
+cedo ou mais tarde.
 !******************************!
 [t14_410_100.gds]
-<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:85>Well, if it isn't my two favourite
-puzzle solvers. Good to see you
-again, fellows.
+<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:85>Olha só, é a minha dupla de
+enigmeiros favoritos. É um prazer
+vê-los de novo, rapazes.
 !******************************!
 [t14_410_200.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:14>Hello, Romie!
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:14>Oi, Romie!
 !******************************!
 [t14_410_300.gds]
-<01:00000013><03:10>b1 normal<03:5>NONE<01:00000001><03:347>If you've made it to Folsense, you
-must've worked out that trick with
-the tracks too. Well done!<W>
+<01:00000013><03:10>b1 normal<03:5>NONE<01:00000001><03:347>Se conseguiram chegar aqui em Folsense,
+é porque também resolveram aquele
+desafio dos trilhos. Bom trabalho!<W>
 !------------------------------!
-I was all revved up to get here, but
-now that I'm here, the place seems
-rather unsettling.<W>
+Eu estava tão animado pra vir
+aqui, mas o lugar é meio...
+perturbador.<W>
 !------------------------------!
-But I'm still anxious to check out
-the town. I'm just heading now to
-look around.<W>
+Independente disso, estou ansioso pra
+conhecer a cidade. Aliás, estou me
+preparando pra dar uma volta nela agora.<W>
 !------------------------------!
-You two look out for each other
-and stay out of trouble, OK?
+Bom, vocês dois se cuidem, e
+tentem não se meter em encrenca,
+OK?
 !******************************!
 [t14_410_400.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:43>It seems Romie found a way into
-town too.
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:43>Vejo que o Romie também conseguiu
+chegar na cidade.
 !******************************!
 [t14_410_500.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:166>Yes, he must've seen through the
-secret of the deluxe carriage
-as well.<W>
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:166>De fato. Imagino que ele também
+tenha conseguido desvendar o
+segredo do vagão de luxo*(deluxe carriage).<W>
 !------------------------------!
-Let's keep moving, Luke. After all,
-we can't leave all the exploring
-to Romie, can we?
+Vamos indo, Luke. Não podemos deixar
+o Romie ficar com a exploração
+da cidade só para ele, não é mesmo?
 !******************************!
 [t14_420_100.gds]
-<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:172>Hello again, you two. Been
-exploring, have we? What do you
-think of the place?<W>
+<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:172>Oi, rapazes. Nos encontramos de novo.
+Andaram explorando a cidade também?
+O que estão achando?<W>
 !------------------------------!
-It isn't quite like what I imagined
-from what I'd heard, but it's still
-a nice place.
+Não é bem o que eu esperava
+baseado no que me falaram, mas
+ainda assim é agradável.
 !******************************!
 [t14_420_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:61>It is nice. But why are you here
-in the first place, Romie?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:61>Realmente é. Mas afinal, por que
+você veio aqui pra começo de
+conversa, Romie?
 !******************************!
 [t14_420_300.gds]
-<01:00000013><03:11>b1 normal2<03:5>NONE<01:00000001><03:320>Why am I here? I'm a traveller, boy!
-I don't need reasons!<W> The journey's
-the point, not the destination!<W>
+<01:00000013><03:11>b1 normal2<03:5>NONE<01:00000001><03:320>Por que eu vim? Eu sou um viajante,
+rapaz! Eu não preciso de um motivo!<W>
+O que importa é a jornada, não o destino!<W>
 !------------------------------!
-I just heard an interesting rumour
-about the Molentary Express and
-wanted to see if it was true.<W>
+Ouvi um boato interessante sobre
+o Molentary Express* e quis ver
+se era verdade. Nada mais que isso.<W>
 !------------------------------!
-Between us, though, ever since I
-got to town, my gut's been telling
-me something crazy's going on here.
+Mas só cá entre nós: desde que eu
+cheguei, sinto que tem alguma loucura
+acontecendo por aqui.
 !******************************!
 [t14_420_400.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:29>Any idea what that might be?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:29>E você tem alguma ideia do que possa
+ser?
 !******************************!
 [t14_420_500.gds]
-<01:00000013><03:10>b1 normal<03:5>NONE<01:00000001><03:295>Nope, not in the slightest. I'm just
-letting you know what my
-traveller's instinct is telling me.<W>
+<01:00000013><03:10>b1 normal<03:5>NONE<01:00000001><03:295>Nehuma! Só queria contar pra
+vocês o que os meus instintos
+de viajante estão me dizendo.<W>
 !------------------------------!
-I wish you two the best in your
-search for the Elysian Box.<W>
+Desejo aos dois toda a sorte
+do mundo em sua busca pela Caixa
+Elisiana.<W>
 !------------------------------!
-Just stay sharp and don't get
-all wrapped up in the strangeness
-that surrounds this place.<W>
+Só peço que fiquem atentos e não
+se deixem levar pela esquisitice
+que cerca este lugar.<W>
 !------------------------------!
-I hope to see you again soon!
+Espero reencontrá-los em breve!
 
 !******************************!
 [t14_430_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:58>Greetings, Romie. As always, it's
-a pleasure to see you.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:58>Olá, Romie. Como sempre, é um
+grande prazer vê-lo.
 !******************************!
 [t14_430_200.gds]
-<01:00000013><03:11>b1 normal2<03:5>NONE<01:00000001><03:568>Thanks, Professor! I'm actually a
-little surprised to see you're still
-here. Still searching for that box?<W>
+<01:00000013><03:11>b1 normal2<03:5>NONE<01:00000001><03:568>Obrigado, Professor! Pra ser sincero,
+estou meio surpreso de ver que ainda
+estão aqui. Continuam em busca da caixa?<W>
 !------------------------------!
-You know, after all my exploring,
-I've finally got a handle on
-Folsense's big secret.<W>
+Sabem de uma coisa? Depois de tanto
+explorá-la, sinto que agora sim eu
+entendo o grande segredo de Folsense.<W>
 !------------------------------!
-I don't want to spook you, but let's
-just say if you're as smart as you
-look, you'll leave town sharpish.<W>
+E, sem querer assustar vocês, mas
+se forem espertos mesmo, é melhor
+saírem daqui o quanto antes!<W>
 !------------------------------!
-The real horror in town has nothing
-to do with that silly vampire
-everyone keeps going on about.<W>
+O verdadeiro terror da cidade não
+tem nada a ver com aquela bobagem
+de "vampiro" de que todos falam.<W>
 !------------------------------!
-No, what's here is much, much
-more dangerous.<W>
+Não, não... o que existe aqui é
+mil vezes mais perigoso.<W>
 !------------------------------!
-I know you really want that Elysian
-Box, but take a tip from someone
-who knows and get out of town.
+Eu sei o quanto vocês querem a Caixa
+Elisiana, mas este conselho é de
+quem entende do assunto: deixem a cidade.
 !******************************!
 [t14_430_300.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:110>Thank you for your advice, but I'm
-afraid we can't leave until we solve
-the mystery behind the Elysian Box.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:110>Agradecemos pelo conselho, mas
+receio que não possamos ir embora
+até desvendarmos o mistério da Caixa.
 !******************************!
 [t14_430_400.gds]
-<01:00000013><03:9>b1 smile<03:5>NONE<01:00000001><03:142>Now that's dedication, my friend.
-If you're that set on finishing your
-journey, who am I to stop you?<W>
+<01:00000013><03:9>b1 smile<03:5>NONE<01:00000001><03:142>Admiro essa dedicação, amigo.
+Eu é que não vou criticar a
+determinação de vocês.<W>
 !------------------------------!
-Just promise me you'll be careful!
+Só quero que prometam
+que vão tomar cuidado!
 !******************************!
 [t14_431_100.gds]
-<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:202>After seeing Folsense up close, I
-can see why they call it a phantom
-town. It's out-and-out eerie.<W>
+<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:202>Agora que vi Folsense em primeira
+mão, entendo por que a chamam de
+cidade fantasma. É sinistra mesmo.<W>
 !------------------------------!
-It just goes to show, there are
-mysteries in this world that we
-humans simply can't understand.
+Realmente serve como prova de como
+existem mistérios neste mundo que nós,
+humanos, somos incapazes de entender.
 !******************************!
 [t14_450_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:86>Gah! This whole place is covered in
-garlic and it definitely smells like
-it. Blech!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:86>Argh! Este lugar tá só alho...
+de aparência E cheiro. Eca!
 !******************************!
 [t14_450_1100.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:88>Rumours have an uncanny way of
-snowballing into something much
-larger than the truth.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:88>É incrível o modo como boatos
+vão crescendo e assumem a forma
+de truísmos.
 !******************************!
 [t14_450_200.gds]
-<01:00000001><03:8>b5 weep<03:5>NONE<01:00000002><03:92>Yes, it's very pungent. It's a good
-thing I brought a handkerchief.
-My eyes are watering.
+<01:00000001><03:8>b5 weep<03:5>NONE<01:00000002><03:92>Realmente, é pungente... Ainda
+bem que eu trouxe o meu lenço.
+Meus olhos estão lacrimejando.
 !******************************!
 [t14_450_300.gds]
-<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:34>My nose hurts just being in here.
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:34>O meu nariz tá ardendo só de
+ficar aqui.
 !******************************!
 [t14_450_500.gds]
-<01:00000041><03:10>b1 normal<03:5>NONE<01:00000002><03:148>Finally, some customers! Come in,
-come in!<W>
+<01:00000041><03:10>b1 normal<03:5>NONE<01:00000002><03:148>Até que enfim! Clientes!
+Por favor, entrem!<W>
 !------------------------------!
-It's been months since anyone came
-by. My shop's been out of favour
-with the townspeople recently.
+Faz meses que ninguém vem aqui.
+Minha loja não anda muito popular
+com o povo da cidade.
 !******************************!
 [t14_450_600.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:44>I can see why! Or rather, I can smell
-why!
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:44>Dá pra ver por quê, né?
+Ou melhor, CHEIRAR por quê!
 !******************************!
 [t14_450_700.gds]
-<01:00000041><03:9>b1 smile<03:5>NONE<01:00000002><03:208>OK, my shop smells. So what?! It's
-not for the good of my health, you
-know. It's for protection!<W>
+<01:00000041><03:9>b1 smile<03:5>NONE<01:00000002><03:208>Tá, a minha loja fede. Mas e daí?!
+Eu não faço isso pela minha saúde,
+sabia? É por proteção!<W>
 !------------------------------!
-We've got what you might call a bit
-of a vampire problem here in town,
-and garlic keeps them away, see?
+Estamos com um probleminha de
+vampiros aqui na cidade, e o alho
+afasta vampiros.
 !******************************!
 [t14_450_800.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:21>Vampires? Seriously?
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:21>Vampiros? Sério?
 !******************************!
 [t14_450_900.gds]
-<01:00000041><03:10>b1 normal<03:5>NONE<01:00000002><03:240>Do I look like I'm joking, boy?<W>
+<01:00000041><03:10>b1 normal<03:5>NONE<01:00000002><03:240>Eu pareço estar brincando,
+rapazinho?<W>
 !------------------------------!
-You've seen that castle over
-there, haven't you?<W>
+Vocês viram aquele castelo lá
+ao longe, não viram?<W>
 !------------------------------!
-That's where the vampire lives.
-At least, that's what people say.<W>
+É lá que o vampiro mora.
+Pelo menos, é o que dizem por aí.<W>
 !------------------------------!
-I'm not saying I believe the talk,
-but you can never be too prepared,
-you know.
+Eu não estou dizendo que acredito,
+mas melhor prevenir do que
+remediar, sim?
 !******************************!
 [t14_451_100.gds]
-<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:182>Still, you out-of-towners should
-keep an eye out for vampires, just
-in case.<W>
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:182>De qualquer forma, é bom vocês
+forasteiros ficarem atentos para
+ataques de vampiros, por precaução.<W>
 !------------------------------!
-If it really comes down to it, you
-can always hide out in my shop.
-It's completely vampire-proof!
+Se preciso for, serão sempre bem-
+vindos pra se esconder em minha
+loja. 100% à prova de vampiros!
 !******************************!
 [t14_460_100.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:57>Professor! I've just seen Inspector
-Chelmey over there!
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:57>Professor! Eu avistei o
+Inspetor Chelmey!
 !******************************!
 [t14_460_200.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:185>No need for alarm, Luke, he's likely
-just gathering information about
-Dr Schrader's case.<W>
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:185>Não há com o que se alarmar, Luke. Ele
+deve só estar reunindo informações
+quanto ao caso do Dr. Schrader.<W>
 !------------------------------!
-It seems that he's finally worked
-out that the key to solving it lies
-here in Folsense.
+Ao que parece, ele enfim percebeu
+que a chave para resolver o mistério
+está aqui, em Folsense.
 !******************************!
 [t14_460_300.gds]
-<01:00000002><03:9>b2 laugh<03:5>NONE<01:00000003><03:82>Heh heh heh. Maybe the inspector's
-almost got a grip of the situation
-for once.
+<01:00000002><03:9>b2 laugh<03:5>NONE<01:00000003><03:82>He he he. É, talvez o inspetor
+esteja quase a par da situação,
+pra variar.
 !******************************!
 [t14_460_400.gds]
-<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:119>So, let me confirm. This here is the
-man you've witnessed asking around
-about the Elysian Box?<W>
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:119>Confirmando, então. É este aqui o
+homem que o senhor viu fazendo
+perguntas sobre a Caixa Elisiana?<W>
 !------------------------------!
-No doubt about it?
+Sem sombra de dúvida?
 !******************************!
 [t14_460_500.gds]
-<01:0000001B><03:10>b1 normal<03:5>NONE<01:00000001><03:78>Yep, the man in the photograph
-is the one. I'd remember that
-face anywhere.
+<01:0000001B><03:10>b1 normal<03:5>NONE<01:00000001><03:78>É, é o homem que está na
+fotografia. Eu reconheceria o
+rosto em qualquer lugar.
 !******************************!
 [t14_460_600.gds]
-<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:131>Hmph, well, that seals the deal.
-Just as I suspected. My instincts
-are never wrong!<W>
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:131>Hmph. Isso confirma tudo.
+É como eu suspeitava. Os meus
+instintos nunca se enganam!<W>
 !------------------------------!
-Come along now, Barton! We're
-moving on!
+Vamos indo, Barton! Hora de
+irmos em frente!
 !******************************!
 [t14_460_700.gds]
-<01:00000007><03:10>b1 normal<03:5>NONE<01:00000002><03:42>Hmm? Oh yes, sir. Right behind
-you, sir!
+<01:00000007><03:10>b1 normal<03:5>NONE<01:00000002><03:42>Hmm? Ah! Sim, senhor. Estou logo
+atrás do senhor, senhor!
 !******************************!
 [t14_470_100.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:66>Oh! It looks like the inspector has
-found a new victim to grill.
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:66>Ah! Tô vendo que o inspetor achou
+uma nova vítima pra interrogar.
 !******************************!
 [t14_470_200.gds]
-<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:184>So, the only way into Folsense is
-through a narrow mountain pass on
-the Molentary Express.<W>
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:184>Então o único acesso a Folsense é
+através de uma rota íngreme pelas
+montanhas no Molentary Express*?<W>
 !------------------------------!
-In other words, no one gets in or
-out of town without getting on
-that train, correct?
+Em outras palavras, é impossível
+entrar ou sair da cidade sem o
+trem, correto?
 !******************************!
 [t14_470_300.gds]
-<01:0000001C><03:10>b1 normal<03:5>NONE<01:00000003><03:214>Oooh, I see someone's been up late
-doing their homework! I think you've
-got your facts straight, love.<W>
+<01:0000001C><03:10>b1 normal<03:5>NONE<01:00000003><03:214>Olha só! Dá pra ver que alguém
+fez o dever de casa. Acho que
+você acertou tudinho, meu bem.<W>
 !------------------------------!
-Age takes its toll on the memory,
-you know. You could never tell by
-looking, but I'm no spring chicken.
+A idade afeta a memória da gente,
+sabe como é. Pode não parecer mas
+eu não sou mais tão novinha assim.
 !******************************!
 [t14_470_400.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:119>That's quite enough, madam. If
-you're sure about the route into
-town, then we're finished here.<W>
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:119>Já basta, madame. Se o que a senhorita
+disse sobre a rota pra cidade é
+verdade, não temos mais o que conversar.<W>
 !------------------------------!
-Barton, let's go!
+Barton, vamos indo!
 !******************************!
 [t14_470_500.gds]
-<01:00000007><03:10>b1 normal<03:5>NONE<01:00000002><03:25>Hmm?<W> I mean, yes, sir!
+<01:00000007><03:10>b1 normal<03:5>NONE<01:00000002><03:25>Hmm?<W> Quero dizer, sim, senhor!
 !******************************!
 [t14_470_600.gds]
-<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:183>Oooh, blow me down. He's dashed
-off. Some boys can't sit still for
-five minutes, hee hee.<W>
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:183>Ai, grosso! Saiu correndo, já. Esses
+homens que não conseguem ficar
+parados nem por um minuto... hi hi.<W>
 !------------------------------!
-I hope I didn't embarrass the poor
-lamb, I only wanted him to come
-in and see a show.
+Espero que eu não tenha deixado o
+pobrezinho com vergonha. Só queria
+convidá-lo para ver uma apresentação.
 !******************************!
 [t14_480_100.gds]
-<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:89>I've heard all about you, missy.
-I know you've been asking around
-town about that box.
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:89>Eu ouvi falar de você, mocinha.
+Sei que anda fazendo perguntas
+sobre a caixa por aí.
 !******************************!
 [t14_480_1000.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:51>Barton! Get back here this instant,
-you pilchard!
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:51>Barton! Volte aqui agora mesmo,
+seu preguiçoso!*(não sei a quem se refere)
 !******************************!
 [t14_480_1100.gds]
-<01:00000014><03:10>b2 normal<03:5>NONE<01:00000003><03:8>Whew...
+<01:00000014><03:10>b2 normal<03:5>NONE<01:00000003><03:8>Ufa...
 !******************************!
 [t14_480_1200.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:104>Hey, that's the girl we saw at
-Dropstone station.<W>
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:104>Ei! É a moça que a gente
+viu na estação de Dropstone.<W>
 !------------------------------!
-What was her name? Katie?<W>
-No, that's not it...
+Qual era o nome dela mesmo? Tátia?<W>
+Não, não era esse...
 !******************************!
 [t14_480_1300.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:61>I believe you're thinking of
-Mr Anderson's daughter, Katia.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:61>Você deve estar pensando na
+filha do Sr. Anderson, a Katia.
 !******************************!
 [t14_480_1400.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:54>Yes, that's the one. I wonder
-what she's doing here.
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:54>Isso, ela mesmo. O que será que
+ela tá fazendo aqui?
 !******************************!
 [t14_480_1500.gds]
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:7>Hmm...
 !******************************!
 [t14_480_200.gds]
-<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:16>Oh, but I just-
+<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:16>Ah, mas eu só-
 !******************************!
 [t14_480_300.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:182>And before you say anything, I
-don't care who your old man is.
-No one's above the law!<W>
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:182>E antes de você falar, já vou avisando:
+eu não dou a mínima pra quem seja o
+seu pai. Ninguém está acima da lei!<W>
 !------------------------------!
-In my eyes, anyone out chasing the
-Elysian Box moves to the top of my
-list of suspects!
+Até onde eu sei, qualquer um que
+está atrás da Caixa Elisiana vai
+pro topo da minha lista de suspeitos!
 !******************************!
 [t14_480_400.gds]
-<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:31>No, you've got it all wrong...
+<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:31>Não, o senhor entendeu tudo
+errado...
 !******************************!
 [t14_480_500.gds]
-<01:00000007><03:10>b1 normal<03:5>NONE<01:00000002><03:31>Um, sir? If you wouldn't mind?
+<01:00000007><03:10>b1 normal<03:5>NONE<01:00000002><03:31>Er, senhor? Com licença...?
 !******************************!
 [t14_480_600.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:72>What is it, Barton? Can't you see
-I'm in the middle of something here?
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:72>O que é, Barton? Não está vendo
+que eu estou ocupado aqui?
 !******************************!
 [t14_480_700.gds]
-<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:240>Um, yes, about that, sir.<W>
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:240>Er, pois é, quanto a isso, senhor...<W>
 !------------------------------!
-The criminal we seek killed a man
-to obtain the Elysian Box, so the
-villain should have it already.<W>
+O criminoso que procuramos matou
+um homem para obter a Caixa Elisiana.
+Ou seja, ele já deve ter a caixa.<W>
 !------------------------------!
-If the young lady was our culprit,
-she'd have no need to ask around
-about the box, in my opinion, sir. 
+Se essa senhorita fosse ele, não
+teria por que sair por aí procurando
+pela caixa, na minha opinião, senhor. 
 !******************************!
 [t14_480_800.gds]
-<01:00000006><03:6>shout<03:5>NONE<01:00000001><03:99>Oh, is that so now, Barton? Hmph!
-I don't recall ever asking for your
-analysis of the situation!
+<01:00000006><03:6>shout<03:5>NONE<01:00000001><03:99>Ah, é assim, é, Barton? Hmph!
+Não me lembro de ter pedido
+pela sua análise da situação!
 !******************************!
 [t14_480_900.gds]
-<01:00000007><03:10>b2 normal<03:5>NONE<01:00000002><03:96>T-terribly sorry, sir! Please
-forgive my momentary lapse in
-judgment! I'll just be going now.
+<01:00000007><03:10>b2 normal<03:5>NONE<01:00000002><03:96>E-eu sinto muitíssimo, senhor! Por
+favor, perdoe este lapso momentâneo!
+Já vou me retirar.
 !******************************!
 [t14_490_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:24>Meanwhile, elsewhere...
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:24>Enquanto isso, em um outro lugar...
 !******************************!
 [t14_490_200.gds]
-<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:50>So, would you say he comes to town
-fairly often?
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:50>E você diria que ele vem pra
+cidade com frequência?
 !******************************!
 [t14_490_300.gds]
-<01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:523>Oh, yes. I mean, think about it.
-He takes the Molentary Express
-for free whenever he wants.<W>
+<01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:523>Ah, com certeza. Pense só: ele
+pode andar no Molentary Express*
+de graça, e sempre que quiser.<W>
 !------------------------------!
-I suppose that's one of the perks
-of owning your own railway, heh.<W>
+Acho que é uma das vantagens
+de se ter sua própria companhia
+ferroviária, he he.<W>
 !------------------------------!
-Oh, and whenever I see him around,
-he's always with some hippie in
-a conductor's outfit.<W>
+Ah, e sempre que eu vejo ele por
+aí, está com esse hippie
+vestido de condutor.<W>
 !------------------------------!
-Nine times out of ten I've seen him,
-he's having a go at the conductor
-about one thing or another.<W>
+E 90% das vezes ele está discutindo
+com o condutor por algum motivo.<W>
 !------------------------------!
-He seems to be searching for
-something, though I don't know
-what.<W>
+Parece que está atrás de alguma
+coisa. Só não sei do quê.<W>
 !------------------------------!
-But whatever it is, it must be
-pretty special if a rich guy like him
-can't buy it. 
+Mas deve ser uma coisa bem especial,
+já que um cara rico que nem ele
+não pode comprar.
 !******************************!
 [t14_490_400.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:101>Hmph! I still don't see the fuss over
-this Elysian Box. As far as I'm
-concerned, it's just a box! 
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:101>Hmph! Eu não entendo esse alvoroço
+todo sobre essa tal Caixa Elisiana.
+Até onde eu sei, é só uma caixa!
 !******************************!
 [t14_490_500.gds]
-<01:00000007><03:10>b1 normal<03:5>NONE<01:00000002><03:98>Inspector? Pardon me, sir, but I've
-just received word from
-headquarters. His alibi checks out.
+<01:00000007><03:10>b1 normal<03:5>NONE<01:00000002><03:98>Inspetor? Perdoe interrompê-lo,
+senhor, mas recebi uma resposta da
+central. O álibi dele confere.
 !******************************!
 [t14_490_600.gds]
-<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:161>Is that so? Then that's that, isn't
-it?!<W> Ha!<W> Ha ha HA!<W>
+<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:161>Ah, é? Então está resolvido, não
+é mesmo?!<W> Ha!<W> Ha ha HA!<W>
 !------------------------------!
-Barton, we've got our man. Gather
-all the suspects at the hotel and
-we'll put this case to bed!
+Pegamos ele, Barton. Reúna todos
+os suspeitos no hotel e vamos dar
+uma encerrada neste caso!
 !******************************!
 [t14_490_700.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:106>Hrm?<W>
 !------------------------------!
-But, um, sir, if we know who the
-murderer is, shouldn't we make
-the arrest and be done with it?
+Mas, er, senhor, se sabemos quem o
+assassino é, por que não simplesmente
+o prendemos e fim de história?
 !******************************!
 [t14_490_800.gds]
-<01:00000006><03:6>shout<03:5>NONE<01:00000001><03:299>What?<W> Barton, sometimes I think
-you might be the thickest bobby
-I've ever met.<W>
+<01:00000006><03:6>shout<03:5>NONE<01:00000001><03:299>O quê?<W> Barton, ás vezes eu sinto
+que você é o policial mais sem
+visão deste continente.<W>
 !------------------------------!
-There's no greater thrill in the life
-of a detective than accusing the
-guilty party in front of a crowd!<W>
+Não existe emoção maior pra um
+detetive do que acusar o culpado
+na frente de um público!<W>
 !------------------------------!
-This is the moment this whole case
-has been building towards. Now
-gather everyone up, on the double!
+É o momento culminante de toda
+a investigação. Vamos, reúna
+todos lá! Pra ontem!
 !******************************!
 [t14_490_900.gds]
-<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:22>Uh... Um... Yes, sir!
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:22>Uhm... Er... Sim, senhor!
 !******************************!
 [t14_500_100.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:11>Inspector?
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:11>Inspetor?
 !******************************!
 [t14_500_200.gds]
-<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:408>Oh, you two again. Sorry, but I'm
-doing real police work here. No time
-to play detective with the civvies.<W>
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:408>Vocês. Desculpem, estou ocupado com
+trabalho policial aqui. Não tenho tempo
+pra brincar de detetive com civis.<W>
 !------------------------------!
-While you two have been out
-pretending to run a beat, I've been
-getting answers.<W>
+Enquanto vocês ficaram correndo
+pra lá e pra cá fingindo fazer
+progresso, eu achei respostas.<W>
 !------------------------------!
-I know, why don't you go and solve
-some puzzles while I keep working on
-important case-related matters?<W>
+Já sei: por que não saem pra
+resolver enigmas enquanto eu faço
+a investigação de verdade?<W>
 !------------------------------!
-If you manage to solve, oh, say, 50
-puzzles, I'll listen to whatever
-nonsense you have to tell me.
+Se conseguirem resolver... digamos,
+50 enigmas, eu escuto as baboseiras
+que vocês têm a dizer.
 !******************************!
 [t14_500_300.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:71>It's like he's turned his ears off.
-He won't listen to a word we say.
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:71>É como se ele estivesse tampando
+os ouvidos. Não escuta uma palavra
+do que a gente diz.
 !******************************!
 [t14_500_400.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:101>Unfortunately, there's nothing we
-can do about that, Luke. We'll come
-back to the inspector later.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:101>Infelizmente, não há nada que possamos
+fazer quanto a isso, Luke. Teremos de
+voltar ao inspetor mais tarde.
 !******************************!
 [t14_501_100.gds]
-<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:408>Oh, you two again. Sorry, but I'm
-doing real police work here. No time
-to play detective with the civvies.<W>
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:408Vocês. Desculpem, estou ocupado com
+trabalho policial aqui. Não tenho tempo
+pra brincar de detetive com civis.<W>
 !------------------------------!
-While you two have been out
-pretending to run a beat, I've been
-getting answers.<W>
+Enquanto vocês ficaram correndo
+pra lá e pra cá fingindo fazer
+progresso, eu achei respostas.<W>
 !------------------------------!
-I know, why don't you go and solve
-some puzzles while I keep working on
-important case-related matters?<W>
+Já sei: por que vocês não saem pra
+resolver uns enigmas enquanto eu faço
+a investigação de verdade?<W>
 !------------------------------!
-If you manage to solve, oh, say, 50
-puzzles, I'll listen to whatever
-nonsense you have to tell me.
+Se conseguirem resolver... digamos,
+50 enigmas, eu escuto as baboseiras
+que têm a dizer.
 !******************************!
 [t14_502_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:79>Inspector, there's something I need
-to ask you. Can you spare just a
-moment?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:79>Inspetor, preciso lhe fazer uma pergunta.
+Poderia nos dar um minuto de sua
+atenção?
 !******************************!
 [t14_502_200.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:95>Ah, Layton, I see you've been busy.
-I didn't think you'd manage to solve
-50 puzzles so soon.
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:95>Ah, Layton, vejo que andou ocupado.
+Não imaginei que já teria resolvido
+50 enigmas tão rápido assim.
 !******************************!
 [t14_510_100.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:121>I made my way to the north-east
-corner of town before ending my
-search for the day.<W>
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:121>Eu fui até a parte nordeste da
+cidade antes de encerrar a
+investigação por hoje.<W>
 !------------------------------!
-Then I came straight back here.
+E depois voltei direto pra cá.
 !******************************!
 [t14_510_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>That should be enough information
-to get us started. Thank you.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>Isso basta de informação para
+nos nortear. Muito obrigado.<W>
 !------------------------------!
 
 !******************************!
 [t14_510_300.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:102>Come, Luke. Let's see if we can
-recover the pieces of the photo
-by retracing the inspector's steps.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:102>Venha, Luke. Vamos recuperar os
+fragmentos da foto ao revisar
+os passos do inspetor.
 !******************************!
 [t14_510_400.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>What's so important about that
-photo, Professor?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>O que é que há de tão importante
+nessa foto, Professor?
 !******************************!
 [t14_510_500.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:107>I'm unsure of the photo's content,
-but I have every confidence that
-it will lead us to the Elysian Box. 
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:107>Não tenho certeza do que a foto
+mostra, mas estou quase certo de
+que nos levará à Caixa Elisiana. 
 !******************************!
 [t14_510_600.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:186>Say no more, I'm sold! After all,
-your intuition never fails. Let's
-hurry to the north-east corner!<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:186>Nem precisa falar mais nada, me
+convenceu! Afinal, a sua intuição nunca
+falha. Vamos logo rumo ao nordeste!<W>
 !------------------------------!
-I think we can get there if we follow
-that path where the bulldog was
-sitting.
+Acho que dá pra chegar lá através
+do caminho em que vimos aquele
+buldogue.
 !******************************!
 [t14_510_700.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:53>Excellent. Let's set out for our
-destination, then.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:53>Excelente. Pois então, sigamos
+rumo ao nosso destino.
 !******************************!
