@@ -1,0 +1,2688 @@
+[n1.dat]
+<0001>Mapa do Dr. Schrader
+<02><0A><09><08><12><5B><1A><01><00><04><01><FF>
+O mapa que leva à casa do Doutor Schrader teve 
+vários pedaços cortados de seu centro.
+Complete-o deslizando as peças com a caneta stylus 
+e os inserindo em seus devidos lugares.
+
+Pode soar simples, mas não se esqueça que você
+pode mover ou remover os pedaços, incluindo
+os que já estão no meio do mapa.
+!******************************!
+Ótimo trabalho!
+
+Agora apresse-se pro apartamento do doutor!
+!******************************!
+Que pena!
+
+Releia o enigma cuidadosamente e tente de novo.
+!******************************!
+Incluindo aquele pedaço que está no centro desde
+o início, você tem seis pedaços para movimentar
+mas apenas cinco espaços para colocà-los.
+
+Isso significa que um dos pedaços 
+não faz parte do mapa
+!******************************!
+Preste atenção nos pedaços que faltam e no resto
+do mapa. Se conectar os padrões das estradas
+dos cantos de cada pedaço aos cantos das partes
+que faltam, cedo ou tarde a resposta aparecerá.
+!******************************!
+Você percebeu que o pedaço no meio
+do mapa no início do enigma não faz
+parte do mapa e nem da solução?
+
+Agora tudo que resta é organizar
+os outros cinco pedaços.
+!******************************!
+[n10.dat]
+<0011>Árvores na Floresta
+<00><14><12><10><12><12><09><0A><EF><03><02><FF>
+A floresta abaixo contém quatro tipos diferentes
+de árvores. Use sua caneta stylus para desenhar
+divisórias na floresta para que você possa formar 
+quatro seções diferentes. Cada seção deve conter
+um tipo de cada árvore, e todas as árvores devem 
+estar conectadas ou horizontalmente ou verticalmente,
+mas não diagonalmente.
+!******************************!
+Muito bom!
+
+Agora admire o lindo cenário.
+!******************************!
+Que pena!
+
+Não entre em pânico se você ficar empacado.
+Apenas procure por uma área onde todos os quatro
+tipos de árvores estão conectados .
+!******************************!
+Se você achar duas árvores do mesmo tipo
+próximas umas as outras, então você sabe que
+essas duas devem ser separadas por uma linha.
+
+Isso deve te ajudar a começar.
+!******************************!
+Vamos nos focar nas árvores no canto inferior
+esquerdo da imagem. Se você desenhou as linhas
+de acordo com as instruções na Dica 1, essa seção
+da imagem deve ser fácil de desvendar. A seção que
+você criou deve ter um formato de L.
+!******************************!
+A árvore no canto superior esquerdo e a
+que está à sua direita pertencem em diferente
+seções. O mesmo se aplica a árvore no canto
+superior direito e aquela diretamente em baixo dela.
+
+Use essas dicas como um encalço para resolver
+o resto do enigma.
+
+!******************************!
+[n11.dat]
+<0012>Nuvens e Céu
+<01><1E><1B><18><11><10><1C><0B><F6><03><02><01>
+Um homem sentado próximo a você no trem lhe
+mostra um desenho que ele fez. 
+
+<''>Digamos que a imagem tenha uma área total de 10.
+Consegue decifrar o quanto é feito de nuvens e o quanto
+de céu? Não pense que precise adivinhar a resposta. Tem
+um  #rmétodo concreto#x que você pode usar para solucionar.<''>
+
+Quanto da área é céu e quanto é nuvem?
+!******************************!
+Bom trabalho!
+
+A chave aqui é usar os pinos ao redor da imagem para
+dividi-la. Assim que o fizer, ficará claro que B e F, C e I,
+D e G, e E e H são simplesmente pares do mesmo desenho
+com as cores invertidas. Isso significa que nas oito áreas, 
+quatro quadrados são de céu e quatro são nuvens. Os dois quadrados
+remanescentes, A e J, são somente azuis, então no final, seis
+quadrados são céu e quatro são nuvens.
+!******************************!
+Que pena!
+
+Dê outra longa e cuidadosa olhada no enigma.
+!******************************!
+Olhe mais de perto... Não na imagem em si,
+mas no seu quadro.
+
+Você poderia usar os pinos ao redor do quadro
+para simplificar a maneira como vê a imagem.
+!******************************!
+Dica 1 falou sobre os pinos no quadro.
+Percebeu que pode usá-los como guias para 
+dividir a imagem em 10 quadrados.
+
+Agora tudo que precisa fazer é estudar
+os quadrados cuidadosamente.
+!******************************!
+Compare cada quadrado uns com os outros. Percebeu
+que alguns quadrados são idênticos em seus designs,
+mas com as cores invertidas? Qualquer quadrado que 
+encontrar assim tem a mesma quantidade de céu e nuvem.
+E não se esqueça dos dois quadrados que são preenchidos por
+por apenas uma cor.
+!******************************!
+[n12.dat]
+<0013>No seu Prato
+<01><0F><0D><0B><12><0C><16><0C><F6><03><02><FF>
+O prato na sua frente carrega uma marca feita
+de dois triângulos equilateros, um dentro do outro.
+
+Consegue desvendar quantas vezes o triângulo
+grande;é maior que o triângulo pequeno?
+!******************************!
+Isso aí!
+
+Se você imaginar que o triângulo pequeno está
+invertido como mostrado, deverá levar apenas
+um momento para perceber que quatro triângulos
+pequenos caberiam dentro do grande.
+!******************************!
+Que pena!
+
+Foque-se no triângulo pequeno.
+!******************************!
+Você não precisa fazer nenhum cálculo em
+especial aqui. De fato, tudo que você precisa
+é de um pouco de intuição.
+!******************************!
+Como as coisas ficariam se você girasse
+o triângulo pequeno?
+!******************************!
+Já tentou visualizar como as coisas
+ficariam se você girasse o triângulo
+pequeno?
+
+Se já fez isso, deve ser mais fácil ver
+quantos triângulos pequenos cabem
+no grande.
+!******************************!
+[n13.dat]
+<0014>Bonés Vermelhos
+<01><19><16><13><11><0C><16><0D><F6><03><02><FF>
+Uma professora pediu para que todo mundo em
+sua turma fechassem seus olhos. Enquanto nenhum
+dos estudantes estavam olhando, ela colocou bonés
+em suas cabeças e disse:
+
+<''>Ok, pessoal, abram seus olhos e olhem
+para o boné dos seus colegas. Quem ver
+quatro ou mais pessoas usando bonés vermelhos
+ganha um balão vermelho, e quem não conseguir
+ganha um balão azul.<''>
+
+Em uma classe com 10 crianças, só algumas
+ganham um balão vermelho. Mas quantas?
+!******************************!
+Isso aí!
+
+Você sabe que só algumas crianças ganharam
+balões vermelhos. Se cinco ou mais crianças
+estivessem usando um boné vermelho, cada
+criança da turma veria pelo menos quatro bonés
+vermelhos e ganhariam um balão vermelho, então
+deve ser menos que cinco. Mas se três ou menos
+crianças estivessem usando bonés vermelhos, ninguém
+veria quatro balões vermelhos.
+
+Ou seja, quatro crianças devem ter bonés
+vermelhos, o que significa que as outras seis
+crianças receberam balões vermelhos.
+!******************************!
+Que pena!
+
+Pense bem sobre o enigma e tente novamente.
+!******************************!
+O enigma diz que algumas das crianças
+receberam balões vermelhos. Isso significa
+que algumas crianças viram quatro ou mais
+bonés vermelhos.
+
+Dito isto, podemos concluir que não havia
+menos que quatro crianças de bonés vermelhos.
+ 
+!******************************!
+O enigma diz que #ralgumas#x das 
+crianças receberam balões vermelhos.
+
+Ou seja, nem toda criança recebeu um
+balão vermelho. Qual seria o número de
+bonés vermelhos que faria com que todas
+as crianças recebesse um balão vermelho?
+
+A resposta é menos que esse número.
+!******************************!
+Se todas as 10 crianças estivessem de
+bonés vermelhos, então todo mundo teria
+visto pelo menos quatro e teriam ganho um
+balão vermelho. Mas nenhuma criança consegue
+ver o boné em suas próprias cabeças. Com isso em
+mente, se pergunte quantas crianças ganhariam um 
+balão vermelho se nove delas estivessem de bonés vermelhos.
+E se fossem oito? Sete?
+child can see the cap on their own head.
+
+Continue diminuindo, e lembre-se que
+pelo menos quatro devem estar usando
+bonés vermelhos.
+!******************************!
+[n14.dat]
+<0015>Quem é Tom?
+<00><1E><1B><18><12><09><19><0E><FF><03><02><FF>
+Professor Layton suspeita que Tom não é
+a criança que achávamos que ele era.
+
+Mova as peças em forma de L e as organize
+em um formato de + no meio do enigma para
+revelar a verdadeira identidade de Tom.
+
+
+!******************************!
+Bom trabalho!
+!******************************!
+N/A
+!******************************!
+Essas peças em forma de L são bastantes
+desconfortáveis de mover, não?
+
+Se você apenas pudesse mudar a forma das
+peças para algo mais fácil de se mover.
+
+Algo parecido com um quadrado, talvez?
+!******************************!
+Pareie cada peça em L com um quadrado
+pequeno e trate cada par como uma única peça.
+!******************************!
+Se está lendo a Dica 3, você provavelmente não
+está se divertindo muito com esse tipo de enigma.
+
+Quando você ficar bom em completar enigmas
+assim, talvez queira tentar completar esse em 20
+movimentos!
+!******************************!
+[n15.dat]
+<0016>Flores em Negativo
+<00><0F><0B><07><12><0F><02><0F><E8><03><02><FF>
+Agora vamos resolver um enigma mais florido.
+
+Das três imagens rotuladas A, B e C, uma é
+a mesma que a imagem lá na esquerda.
+Porém, a imagem da esquerda teve seu
+conteúdo virado da esquerda pra direita e sua
+coloração invertida e mudada para preto e branco.
+
+Qual imagem é a igual a figura preto e branco da
+esquerda, A, B ou C?
+!******************************!
+Isso aí!
+
+Imagem A é a mesma da figura em preto e branco
+da esquerda.
+
+Como mostrad acima, B e C possui pequenas variações.
+!******************************!
+Que pena!
+
+Preste bastante atenção no enigma e tente novamente.
+!******************************!
+As cores invertidas da figura alterada
+fazem esse enigma ficar bastante desafiador,
+não?
+
+Porém, essa mudança na figura pode lhe
+ajudar mais do que você imagina. Lembre-se,
+na imagem alterada, pontos escuros viraram
+claros e vice-versa.
+
+!******************************!
+Procurar por diferenças entre a figura
+preto e branco e cada uma das três imagens
+irá eventualmente lhe levar a resposta,
+mas tem um jeito mais fácil.
+
+Já que uma das três imagens é igual a
+figura em preto e branco, porque não começar
+por procurar diferenças entre as imagens A, 
+B e C?
+!******************************!
+Preste atenção aos círculos no centro de
+cada flor. Aliás, olhe bem para o número de
+pontos em cada imagem e suas posições.
+!******************************!
+[n16.dat]
+<0017>A Jornada da Formiga
+<00><19><16><13><12><08><09><10><EF><03><02><FF>
+Essas formigas trabalham incansavelmente
+para levar comida para seus ninhos. Uma dessas
+formigas estava voltando com comida quando
+esbarrou com um conhecido em frente ao ninho.
+
+<''>O que está fazendo? Não percebeu que
+pegou o #rcaminho de volta mais longo possível#x?
+Preste atenção aonde vai, da próxima vez!<''>
+
+Sabendo que a formiga nunca percorrou o mesmo
+caminho duas vezes, poderia traça qual foi o caminho
+que a formiga tomou?
+!******************************!
+Isso aí!
+
+Talvez todo esse peso fez a formiguinha se distrair
+de seu caminho para casa. Se ela ao menos tivesse
+pensado no caminho que estava tomando ela poderia
+ter economizado uma baita caminhada!
+!******************************!
+Que pena!
+
+Preste atenção no enigma e tente novamente.
+!******************************!
+Quando traçar uma rota de volta ao ninho,
+deixe o menor número de caminhos intocados
+que conseguir.
+!******************************!
+Presumindo que o topo da tela seja o norte,
+vá para o sul do ponto de partida e depois vá
+para oeste na primeira oportunidade.
+
+Na próxima interseção , vá para norte
+até o topo do mapa.
+
+Quando chegar em uma interseção em T 
+no topo do mapa, vá para oeste novamente.
+E quando chegar em uma parede, pegue o caminho
+do sul.
+!******************************!
+Do ponto em que parou depois das
+direções da Dica 2, vá para o leste na
+primeira chance, e então pegue o próximo
+caminho que leva ao sul.
+
+Se chegou até aqui o resto é moleza.
+!******************************!
+[n17.dat]
+<0018>Passo a Passo
+<00><14><12><10><11><09><17><11><FD><03><02><FF>
+Aqui temos um labirinto feito de sapatos.
+
+Sua tarefa é percorrer do ponto de partida até
+a chegada. Você só pode andar horizontalmente
+ou verticalmente um espaço de cada vez, e você
+deve alternar entre sapstos esquerdos e direitos
+a cada passo. E você também não pode passar por
+nenhuma parede do labirinto.
+
+Toque um espaço de cada vez para realçar o
+caminho que quer tomar. Se errar um passo você
+pode desselecionar o espaço o tocando de novo.
+!******************************!
+Bom trabalho!
+
+Que caminhada mais chique!
+!******************************!
+Que pena!
+
+Tem certeza que alternou entre os sapatos
+esquerdos e direitos a cada passo?
+!******************************!
+Fazer o caminho contrário da chegada é uma
+tática que pode lhe ajudar a achar a resposta.
+!******************************!
+A solução requer que você pise em exatamente
+19 quadrados, incluindo os pontos de partida e chegada.
+!******************************!
+Do ponto de partida, inicie sua caminha com
+um passo para a direita.
+!******************************!
+[n18.dat]
+<0019>A Viagem de Trem
+<01><14><12><10><12><09><16><12><F6><03><02><FF>
+Um número desconhecido de pessoas estão
+dentro de um trem. Na primeira estação que o
+trem para, 1/6 das pessoas a bordo descem. Na
+próxima estação, 1/5 dos passageiros remanescentes
+descem. Esse padrão continua pois na próxima estação
+descem 1/4, depois 1/3, e mais tarde 1/2. Então,
+na última estação, os últimos passageiros que sobraram
+também descem.
+
+Assumindo que ninguém tenha entrado no trem
+durante a viagem, qual é o menor número de pessoas
+que poderiam estar a bordo do trem quando ele partiu?
+!******************************!
+Bom trabalho!
+
+Se você assumir que o trem iniciou com seis
+passageiros, então apenas uma pessoa precisaria
+descer a cada estação. 
+
+Esse enigma pode ser bem difícil se você
+esquecer de reduzir o número de pessoas ainda
+no trem em cada estação pelo caminho.
+!******************************!
+Que pena!
+
+Preste atenção nas pistas que lhe foi dado e
+tente novamente. Esse enigma fica bem simples
+assim que percebe um certo princípio simples.
+!******************************!
+Já que o enigma diz que ninguém
+entrou no trem durante a viagem,
+é certo dizer que o número de 
+passageiros no trem nunca aumentou.
+!******************************!
+Já que 1/6 dos passageiros descem na
+primeira estação, então você sabe que o
+número deve ser divisível por seis. Comece
+por escolher um número que é divisível por seis
+e veja o que acontece.
+
+Em breve o princípio usado para se resolver
+este enigma ficará evidente.
+!******************************!
+Imagine que 30 passageiros estão no trem
+quando ele parte. Na primeira estação, o trem
+perde 1/6 de seus passageiros, o que significa que
+cinco pessoas descem. Na próxima estação, 1/5 dos
+25 passageiros remanescentes, ou cinco pessoas, descem.
+E na próxima estação, 1/4 dos 20 passageiros remanescentes,
+ou seja, cinco pessoas, descem.
+
+Percebeu um padrão aqui?
+!******************************!
+[n19.dat]
+<0020>A Ladra de Sapatos
+<01><19><16><13><11><0A><16><13><F6><03><02><FF>
+Uma mulher em uma loja de sapatos paga <po>30 por
+um par de sapatos com uma etiqueta de <po>50. O atendente
+não tem troco suficiente, então ele vai até a loja vizinha para
+destrocar a nota de <po>50, volta à loja e dá à mulher seu troco.
+Um pouco mais tarde, a vendedora da loja vizinha entra enfurecida
+na loja de sapatos. Parece que a nota que ele deu para ela era falsa!
+O horrorizado atendente entrega á vendedora <po>50 como desculpas.
+Nem a cliente nem os sapatos que ela escolheu estão a vista.
+
+No total, quanto a loja de sapatos perdeu?
+!******************************!
+Muito bem!
+
+Os sapatos que a cliente levou custam
+<po>30, e o troco que o vendedor lhe deu
+custam outros <po>20, trazendo seu
+total de perdas para <po>50.
+
+O atendente recebeu <po>50 de dinheiro de
+verdade na troca da nota falsa com a vendedora
+da loja vizinha, então lhe devolveu <po>50 quando
+ela descobriu que a nota era falsa. Essas duas transações
+cancelam uma a outra.
+!******************************!
+Que pena!
+
+Pense bem no enigma e tente novamente.
+!******************************!
+Se o atendente não tivesse ido destrocar o dinheiro
+talvez ele nunca descobrisse sobre a nota falsa.
+
+Quando ele perderia caso o troco viesse dele mesmo?
+!******************************!
+Já que ele usou uma nota falsa, o troco
+que conseguiu na loja vizinha não serviu
+pra nada. Ele ganhou <po>50.
+
+Mas ao retornar o dinheiro ele perdeu <po>50.
+!******************************!
+A cliente gatuna acabou fugindo com um par de
+sapatos que custam <po>30, e também com
+<po>20 em troco.
+!******************************!
+[n2.dat]
+<0003>Qual Chave?
+<00><14><12><10><12><04><12><02><4C><04><01><FF>
+Qual dessas chaves abre a porta?
+
+Use a caneta stylus para mover as chaves e
+encontrar a que se encaixa na fechadura.
+
+Observe com atenção o formato das chaves
+para encontrar a certa!
+!******************************!
+Isso aí!
+
+Quanto tempo demorou pra você perceber que
+as cabeça das chaves também poderiam ser
+inseridas na fechadura?
+
+Essa liçãozinha sobre os perigos de se fazer
+julgamentos à primeira vista virá a calhar
+nas suas aventuras enigmáticas.
+!******************************!
+Que pena!
+
+Pode parecer que nenhuma das chaves se encaixam
+na fechadura, mas a resposta está lá.
+!******************************!
+À primeira vista, o lado oposto das chaves parecem
+bem mais complexos que o formato da fechadura.
+
+Concentre-se e tente encontrar um
+formato que combine com a fechadura.
+!******************************!
+Já tentou todas as seis possibilidades?
+
+O quê? Mas só tem três chaves?
+Isso com certeza é verdade, mas tente
+pensar fora da caixola.
+!******************************!
+Gire as chaves e as segure na parte que
+você normalmente põe na fechadura.
+!******************************!
+[n20.dat]
+<0021>Telefone sem Fio!
+<00><14><12><10><51><06><16><14><F6><03><02><02>
+Oito pessoas estão jogando um jogo de
+comunicação. Neste jogo, uma pessoa
+deve passar uma mensagem para outras
+sete pessoas.
+
+Leva um minuto para repassar a mensagem,
+e cada vez que a mensagem é falada, ela deve
+conter apenas um ouvinte. Usando essas regras,
+qual  o menor tempo em minutos que levaria para a
+mensagem passar por todos os sete jogadores?
+!******************************!
+Muito bom!
+
+Se o jogador original espalhou a mensagem como
+mostrado acima, o jogo pode ser completado em três
+minutos. Durante esse tempo, o jogador original pode
+contar a mensagem para três pessoas, e os que a ouviram
+nos primeiros minutos podem espalhar mais.
+
+Em emergências, redes de informações estruturadas dessa
+maneira ajudam a espalhar mensagens de forma rápida.
+!******************************!
+Que pena!
+
+Tem certeza que não está se distraindo com a 
+forma em que o enigma foi fraseado?
+!******************************!
+<''>Cada vez que a mensagem é falada, ela
+deve conter apenas um ouvinte.<''>
+
+O que você precisa lembrar é que um jogador
+pode repassar a mensagem à uma pessoa de 
+cada vez.
+
+Tente reler o enigma com isto em mente.
+
+!******************************!
+Toda vez que uma pessoa repassa a mensagem
+para outra, o número de pessoas que sabem a mensagem
+aumenta por um.
+!******************************!
+Um minuto depois do início do jogo,
+duas pessas já sabem a mensagem.
+
+Então se cada uma dessas pessoas forem
+espalhar a mensagem no final do segundo
+minuto, um total de quatro pessas saberão
+a mensagem.
+
+Vê aonde estamos indo?
+!******************************!
+[n21.dat]
+<0022>Tirando o Lixo 1
+<00><2D><28><23><11><12><19><15><4D><04><02><FF>
+Coloque o lixo na lata de lixo, que é onde
+ele pertence!
+
+Mova os blocos que estão te atrapalhando
+e deslize a pilha de lixo para a lixeira no final
+da tela.
+!******************************!
+Ah, muito melhor!
+
+Não se esqueça, lugar de lixo é na lixeira,
+não na rua!
+!******************************!
+
+!******************************!
+Tente começar com as instruções abaixo.
+
+Empilhe os quatro blocos azuis, com o primeiro
+bloco no fundo da lixeira. Em seguida, encontre
+um jeito de colocar um dos quatro blocos no vão
+do canto superior direito.
+
+Assim que os encaixar, não precisará mover
+esse bloco de novo!
+!******************************!
+Se está empacado, coloque um bloco
+azul nas áreas do topo, fundo e na direta do
+enigna, então tente mover os outros blocos
+nos espaços que restaram.
+
+!******************************!
+Remover o bloco azul do fundo da lixeira
+será o seu penúltimo movimento.
+!******************************!
+[n22.dat]
+<0023>Uma Derrota Amarga
+<00><0F><07><04><12><06><02><16><E8><03><02><FF>
+Dois homens, aqui conhecidos como 1 e 2, estão
+jogando um estranho jogo. Primeiro, os dois homens
+colocam seus jarros vazios sob a mesa. A seguir, um
+juiz traz uma jarra cheia de veneno e a coloca ou no
+ponto A ou no B. O juiz então começa a colocar o veneno
+na jarra adjacente, e depois de novo e de novo. Depois de
+mover o líquido 55 vezes, o dono da jarra cheia de veneno
+deve bebê-la.
+
+Se você fosse o juiz e secretamente quisesse
+que o 2 bebesse o veneno, colocaria o jarro no
+ponto A ou B?
+!******************************!
+Muito bem!
+
+O líquido troca de jarros 55 vezes, que é um
+número ímpar. Onde quer que coloque o seu
+jarro, o que ficar no meio sempre terá veneno
+depois de um número ímpar de trocas.
+
+Ou seja, para que o 1 possa ganhar, o jarro de veneno
+deve ir no ponto B, já que assim o jarro do 2 ficará no meio,
+garantindo sua derrota.
+!******************************!
+Que pena!
+
+Normalmente você precisaria de encorajamento para tentar
+de novo, mas como só tem duas respostas possíveis, creio que
+você já tenha a solução...
+
+Mas tente pensar nos motivos que te levariam até a
+resposta certa!
+!******************************!
+Pegue alguns copos d'água e tente você mesmo
+o enigma. Tirando o veneno, claro
+
+A regra que determina onde o veneno irá parar
+se revelará num instante.
+!******************************!
+Se você parasse depois de cinco trocas
+ao invés de 55, mudaria alguma coisa?
+!******************************!
+Não é engraçado como
+em toda troca que termina em números ímpares,
+o veneno sempre acaba no meio dos três jarros?
+!******************************!
+[n23.dat]
+<0024>A Tira de Papel
+<01><0A><09><08><11><09><16><17><F6><03><02><FF>
+Depois de tentar dobrar uma tira de papel
+no meio, você percebe que um dos lados
+é um centímetro maior que o outro. Determinado
+a fazer certo, você dobra a tira de novo, e descobre
+que agora é a outra ponta da tira que é um centímetro
+maior.
+
+Você fez duas dobras na tira. Qual é a distância em
+milímetros entre as duas dobras
+!******************************!
+Isso aí!
+
+A distância entre as dobras são de 1
+centímetro, ou 10 milímetros.
+
+Se está com problemas para visualizar,
+imagine que a caixa de fósforos mostrada
+acima tem a altura d um centímetro.
+
+Agora imagine que um dos lados da caixa de
+fósforos foi removida e que parece com sua tira
+de papel depois de ter sido dobrada duas vezes!
+!******************************!
+Que pena!
+
+Comece considerando onde a primeira dobra
+na tira de papel deve ser posicionada.
+!******************************!
+Pense o quão mais longo uma das <''>metades<''> da
+tira era comparado ao outro depois da primeira 
+dobra.
+!******************************!
+Lembre-se, está sendo pedido para responder em
+milímetros.
+!******************************!
+Considere a localização da primeira
+dobra. A segunda deve ter sido feita a
+um centímetro desta localização.
+
+Isso esclarece as coisas para você?
+!******************************!
+[n24.dat]
+<0025>Natureza Selvagem
+<00><14><12><10><11><12><03><18><E9><03><02><FF>
+Depois de anos com os negócios indo mal,
+um zoológico finalmente ficou sem dinheiro
+para comprar comida aos seus animais. Com
+suas barrigas roncando de fome, os animais bolam
+um plano para escaparem de lá. Depois de forçar as
+barras enferrujadas de suas jaulas, todos tentam
+encontrar a saída por entre os caminhos confusos
+do zoológico.
+
+Toque a imagem de cada animal que você acha que
+conseguirá escapar com segurança do zoológico, depois
+toque em #rEnviar#x para responder. Mas lembre-se, na
+selva os animais mostram quem realmente são.
+!******************************!
+Bem pensado!
+
+O único animal que conseguirá escapar com segurança
+é o leão. Enquanto ambos o leão e o coelho conseguem
+ir até o caminho que leva à saída, assim que o leão
+bater os olhos no coelho, é certeza que irá comê-lo.
+
+A natureza as vezes é cruel...
+
+!******************************!
+Que pena!
+
+Pense bem nas pistas que lhe foram dadas e
+tente novamente.
+!******************************!
+Para começar, tente traçar seu caminho
+com a caneta stylus.
+
+Aliás, esse truque pode já ser conhecido por
+você, mas geralmente é mais fácil traçar o seu
+caminho começando pela saída.
+!******************************!
+Labirintos te deixam tonto? Economize tempo
+usando a função memo para marcar os caminhos
+sem saída.
+!******************************!
+Se já descobriu quais animais conseguem
+escapar, parabéns! Mas pense por um momento
+no título desse enigma. Todos os animas são livres
+assim que saem de suas jaulas. Mas lá fora ser uma selva.
+Só porque tem uma rota das jaulas dos animais até a saída,
+não significa que vão conseguir escapar com segurança.
+!******************************!
+[n25.dat]
+<0026>Troca de Trens
+<00><19><16><13><11><14><19><19><FF><03><02><03>
+Troque as posições dos dois trens nos trilhos.
+Mova os vagões um de cada vez, tendo certeza
+que os números ao lado dos trilhos correspondem
+com os de cada vagão.
+!******************************!
+Isso aí!
+
+Agora apresse-se se volta ao trem! Já está
+mais atrasado do que deveria.
+!******************************!
+
+!******************************!
+O primeiro passo é colocar os vagões do
+mais curto nos trilhos de cima.
+!******************************!
+Mova o vagão vermelho #1 para o espaço
+do lado direito nos trilhos de cima. Depois
+mova todos os vagões verdes para os trilhos
+de baixo e você poderá mover o vagão vermelho #1
+até seu lugar designado.
+!******************************!
+Aplique o método da Dica 2 para
+mover os outros vagões e você terá
+os trens trocados em um instante.
+!******************************!
+[n26.dat]
+<0027>A Dramatic Farewell
+<00><14><12><10><12><15><05><1A><EB><03><03><04>
+Train stations are an especially good place
+for dramatic farewells, aren't they?
+
+Below is a painting of a man and woman
+bidding each other a tearful goodbye.
+Somewhere within this painting, however, is a
+single unrealistic detail. 
+
+Find and circle that detail.
+
+!******************************!
+Well spotted!
+
+Were the man in the painting to open the
+window as shown above, the frame would go
+through the roof of the train!
+
+These days, most trains have windows that
+only open partially. Of course, thanks to
+modern air-conditioning, a good number of
+trains have been fitted with windows that
+don't open at all!
+!******************************!
+Too bad!
+
+Cast a sceptical eye over the painting and
+try again.
+!******************************!
+There's nothing wrong with the dog.
+!******************************!
+The moon and the lamp-post are fine.
+
+Oh, and don't bother with the man in
+the foreground of the painting either.
+!******************************!
+The detail you're searching for has to
+do with the train carriage. Once you've
+spotted it, you're sure to shout,
+<''>There's no way you could move it
+like that!<''>.
+!******************************!
+[n27.dat]
+<0028>The Warped Wheel
+<00><14><12><10><12><1A><02><1B><E8><03><03><FF>
+In the back of the train yard, there's an
+old, warped wheel lying on the ground, as
+shown below. While no longer functional, the
+wheel is interesting because, when rolled on
+a flat surface, its axle traces a funny
+pattern if you look at it from the side.
+
+Of the five diagrams below, which one
+depicts the actual path of the axle?
+!******************************!
+That's right!
+
+Diagram A correctly traces the path of the
+axle as the wheel rolls.
+
+You probably won't see this wheel on a train
+anytime soon, but it would be fun to watch
+it bounce around.
+!******************************!
+Too bad!
+
+Try imagining how the wheel rotates again.
+
+!******************************!
+This wheel's shape is essentially a
+triangle with the corners rounded off.
+Since the axle is positioned close to
+one of the corners, you can expect the
+pattern it creates to be rather
+unconventional.
+!******************************!
+The axle is positioned far from the
+centre of the wheel, so you can expect
+the path it traces to contain an
+exaggerated up-and-down movement.
+!******************************!
+The answer isn't B or E. Choose from
+the remaining three options and don't
+forget what you read in Hint 2!
+!******************************!
+[n28.dat]
+<0029>Which Arrow?
+<00><14><12><10><12><1A><02><1C><E8><03><03><07>
+A bag of sweets dangles from one of three
+arrows attached to the wall. Assuming that
+all three arrows are perfectly straight,
+which arrow is connected to the sweets?
+!******************************!
+Good eye!
+
+Arrow B is the one attached to the sweets.
+
+This puzzle is an example of the famous
+Poggendorff optical illusion. When a
+diagonal line is partially obscured by a
+straight shape, the viewer tends not to be
+able to accurately determine which of the
+lines on the right is the continuation of
+the one on the left.
+!******************************!
+Too bad!
+
+It would appear you fell right into the trap
+this puzzle set for you.
+!******************************!
+Don't trust your eyes! This puzzle
+contains an optical illusion.
+!******************************!
+Instead of looking at this one straight
+on, try taking a different perspective.
+!******************************!
+Here's an interesting bit of trivia.
+
+This particular optical illusion is known
+as the Poggendorff Illusion.
+!******************************!
+[n29.dat]
+<0030>The Wrong Date
+<00><1E><1B><18><11><1C><23><1D><F6><03><03><FF>
+Dropstone was founded 50 years ago, and
+the founders commissioned a stone
+sculpture to commemorate that day.
+Unfortunately the dozy sculptor managed to
+engrave the wrong date onto it. The whole
+village had to live with the erroneous
+sculpture until some bright spark realised
+that converting it in a certain way would
+enable the correct date to be displayed.
+Think about what the sculpture could have
+been converted into in order to display the
+correct date.
+On which date was Dropstone founded?
+Answer in four digits (DD/MM).
+!******************************!
+Brilliant!
+
+When converted into a fountain, water fills
+the bowl, allowing the true date of
+Dropstone's founding, 13-8, to be displayed.
+
+The inattentive sculptor must have been
+relieved at getting away with such sloppy
+chiselling.
+!******************************!
+Too bad!
+
+Think hard about the puzzle and try again.
+!******************************!
+The puzzle text tells you that the
+sculptor engraved the wrong date into
+the stone, so you know that 12-8 isn't
+the date Dropstone was founded.
+!******************************!
+Does the sculpture's shape give you a
+clue into what it could have been
+converted?
+
+That big bowl and the opening at the
+top should indicate that this sculpture
+is now a fountain.
+!******************************!
+Though currently dry, the fountain's
+big bowl is usually filled with water.
+
+Why don't you take a moment to...reflect
+on this?
+
+
+!******************************!
+[n3.dat]
+<0004>Um Quarto Trancado
+<00><1E><1B><18><12><05><05><03><EB><03><01><FF>
+Dado que o apartamento do doutor se encontra 
+no oitavo andar e que a porta estava seguramente
+trancada, você até poderia pensar que não tinha 
+jeito de sair nem entrar desse quarto. Entretanto, um
+único detalhe suspeito provê uma pista 
+quanto ao que aconteceu aqui.
+
+Olhe em todas as quatro direções e examine o
+quarto com cuidado. Quando você achar que encontrou
+o tal detalhe acusador, o circule com a caneta stylus
+e toque em #rEnviar#x. Tenha certeza de circulas apenas um
+objeto ou a sua resposta não vai valer!
+
+!******************************!
+Bem observado!
+
+Por alguma razão parte da cortina foi
+rasgada! O que poderia ter acontecido caqui?
+!******************************!
+Que pena!
+
+Se você está empacado, pense em como
+o criminoso poderia ter fugido da cena.a
+!******************************!
+Olhe em todas as direções. Você está
+procurando por algo suspeito.
+
+O apartamento do Dr. Schrader certamente
+é cheio de objetos estranhos e raros, mas
+<">estranho e raro<"> não é a 
+mesma coisa que <">suspeito<">.
+!******************************!
+As partes do apartamento que o
+professor e o Inspetor Chelmey estão
+não têm o que você procura.
+!******************************!
+O objeto em questão é encontrado em pares
+na maioria das vezes.
+!******************************!
+[n30.dat]
+<0031>Pass the Apples
+<00><14><12><10><11><1E><1C><1E><F6><03><03><FF>
+Johnny and Thomas are each carrying some
+apples. If Johnny gave Thomas one apple, the
+two men would each have the same number of
+apples. Conversely, if Thomas gave Johnny
+two apples, Johnny would have three times
+the number of apples that Thomas has.
+
+So, just how many apples are each of the
+men holding?
+!******************************!
+Nice!
+
+Johnny has seven apples and Thomas has
+five.
+
+As you can tell, if Johnny gave Thomas one
+apple, both men would have six apples.
+Additionally, if Thomas decided to give
+Johnny two of his apples, Johnny would have
+nine apples in total, three times as many
+as Thomas.
+!******************************!
+Too bad!
+
+Think hard about the puzzle and try again.
+!******************************!
+<''>If Johnny gave Thomas one apple, the
+two men would each have the same number
+of apples.<''>
+
+A little critical thinking applied to the
+above statement tells you that Johnny
+must have two more apples than Thomas.
+!******************************!
+<''>If Thomas gave Johnny two apples,
+Johnny would have three times the
+number of apples that Thomas would
+have.<''>
+
+You know from Hint 1 that the gap
+between Johnny and Thomas is two. In
+the above scenario, the gap increases
+by four, to six. We now know that
+when Thomas loses two apples, Johnny
+has six more than him, and also three
+times more.
+!******************************!
+Can you think of a number where the
+result of adding six and multiplying by
+three is the same? That number is how
+many apples Thomas has after giving two
+away. So if we add those two back,
+Thomas has...
+!******************************!
+[n31.dat]
+<0032>It's a Wrap
+<00><14><10><0C><11><18><02><1F><E8><03><03><2C>
+Laurel is very particular about wrapping
+this flower as it is a gift for an important
+friend of hers. She would like it to be
+wrapped as shown below, but has no idea
+where to begin.
+
+In order to wrap the flower just like the
+leftmost drawing, how should you begin your
+wrapping?
+
+Touch A, B, C or D to answer.
+!******************************!
+Excellent!
+
+Were you able to follow the paper's
+transition from a flat shape into a
+3-D one?
+!******************************!
+Too bad!
+
+Try to visualise wrapping the flower.
+!******************************!
+Pay attention to the direction and
+starting point of each diagrammed fold.
+!******************************!
+Since the green edge of the wrapping
+paper will be obscured as you roll up the
+paper in A and D, you can disregard both
+these answers.
+!******************************!
+You're left with only two options at
+this point, so focus on the direction
+of the wrapping and you'll soon find
+the solution.
+!******************************!
+[n32.dat]
+<0033>Fishing Net
+<00><14><12><10><12><21><16><20><F6><03><03><FF>
+A large net has been cast out in a pond to
+catch some fish. The pond's surface is small,
+but it's actually wider underwater, so parts
+of the sunken net are no longer visible
+from the surface.
+
+Assuming that there are no tears in the net
+and that the whole rim of the net is
+constructed of a single length of rope that
+ends on the shore, how many of the fish
+visible in the pond will be caught when the
+net is pulled up?
+!******************************!
+That's right!
+
+To solve this puzzle, you need to imagine
+how the unseen parts of the net connect,
+which should look something like the
+illustration above.
+
+As you can see, the net will catch a
+total of seven fish.
+!******************************!
+Too bad!
+
+Are you sure you're counting them
+correctly?
+!******************************!
+Why not try sketching the parts of the
+net that you can't see?
+!******************************!
+When fully drawn out, the net is one
+strange and complicated shape.
+!******************************!
+Since the rim of the whole net is
+fashioned from a single piece of rope
+with no tears, take the drawing you
+did for Hint 1 and count the number
+of fish on the inside of the net.
+There's your answer.
+!******************************!
+[n33.dat]
+<0034>Trees on an Old Road
+<00><14><10><0C><12><18><0F><21><F5><03><03><2B>
+The country road you see here is decorated
+with a single straight row of trees, each a
+set distance from its neighbour.
+
+Of the five trees labelled A to E, which
+two trees have the greatest distance
+between them?
+
+Study the image carefully and draw a line
+between the letters of the two trees
+you've chosen.
+!******************************!
+That's right!
+
+No matter how you look at it, trees A and
+E clearly have the greatest distance
+between them.
+!******************************!
+Too bad!
+
+Take another long, careful look at the
+puzzle.
+!******************************!
+It's a simple question, so try not to
+overthink it.
+!******************************!
+This puzzle has set a trap for you in
+its wording. There are no outright
+lies, but you will need to read carefully.
+!******************************!
+Just draw a line between the two trees
+with the greatest amount of space
+between them.
+
+No one ever said you had to choose two
+trees directly adjacent to one another.
+!******************************!
+[n34.dat]
+<0035>Which House Where?
+<00><1E><1B><18><11><19><0A><22><F0><03><03><FF>
+Below are houses A, B, C and D, each of which
+is a different colour. Decipher each house's
+colour from the following clues.
+
+1. The red house is closer to the pine tree
+than the blue house.
+2. The yellow house is closer to the lake
+than the green house.
+3. The green house is closer to the power
+lines than the blue house.
+4. D is either yellow, blue or green.
+
+Change the colour of each house by
+touching it with the stylus.
+!******************************!
+That's right!
+
+This is one of those puzzles where you
+need to use the given conditions to
+deduce the answer.
+!******************************!
+Too bad!
+
+Why not revisit each of those four clues
+and give them another read?
+!******************************!
+If you've read all the clues and are still
+stuck, try starting from the last clue
+and working your way backwards.
+!******************************!
+The red house is closer to the pine
+tree than the green house.
+!******************************!
+House C is red.
+!******************************!
+[n35.dat]
+<0036>The Trapped Bird
+<00><23><1F><1B><11><18><02><23><E8><03><03><FF>
+Oh, no! Laurel's poor little bird has fallen
+down a long winding hole in the ground!
+
+In front of the bird are three paths labelled
+A, B and C. Which tunnel should the bird take
+in order to make it back above ground?
+
+!******************************!
+Very nice!
+
+The bird can safely escape her underground
+confines by following tunnel B. Any other
+tunnel will lead her deeper underground
+or into the mouth of a very hungry snake.
+!******************************!
+Too bad.
+
+Carefully trace each path to see where
+they lead.
+!******************************!
+Each tunnel branches off in a number of
+directions, so you may have trouble
+processing everything if you're relying
+on your eyes alone.
+
+Use the stylus and trace each route to
+get a better understanding of each
+tunnel.
+!******************************!
+The wrong tunnels all split off in a
+number of directions, but the tunnel
+you're looking for will reconverge
+into a single path before it reaches
+the exit.
+!******************************!
+All the paths stemming from tunnel A
+take you deeper into the ground or
+into the snake's den.
+!******************************!
+[n36.dat]
+<0037>World's Best Golfer
+<00><19><16><13><11><19><16><24><F6><03><03><FF>
+A  pro golfer has the amazing ability to
+consistently putt distances of 3, 5, 7 and
+11 metres. Strangely enough, though, those
+are the only distances he can putt.
+
+Currently, our golfer stands on the green
+with his ball 20 metres from the hole.
+What's the fewest number of strokes he can
+use to get the ball into the hole?
+
+Assume that if the ball is hit farther than
+the distance remaining to the hole, it will
+roll over to the other side without going
+into the cup. 
+!******************************!
+Good job!
+
+If our friend the pro golfer putts two
+diagonal shots as shown above, he can
+sink the ball in two shots. No one ever
+said the golfer had to putt directly
+towards the hole, did they?
+
+Sure, in order to sink the putt using
+the method shown above, he'd need to
+calculate the angle of each shot
+perfectly, but that's probably why they
+call him a pro!
+!******************************!
+Too bad!
+
+Remember, this is a pro golfer we're talking
+about. He can do some pretty amazing things.
+!******************************!
+The correct solution doesn't involve the
+golfer overshooting the hole.
+!******************************!
+There's no reason our golfing friend
+should have to hit each putt straight
+towards the hole.
+
+Perhaps he could put his ball in a better
+position with a shot that travels
+diagonally.
+!******************************!
+Picture the golfer taking a diagonal
+shot relative to the hole. If he hits the
+ball exactly 11 metres and angles the
+shot so that this first putt puts him
+exactly halfway between his starting
+position and the hole...
+
+Do you see where this is going?
+
+!******************************!
+[n37.dat]
+<0038>Four Horses
+<00><23><1F><1B><32><20><16><25><F6><03><03><08>
+You have four horses, all of which travel at
+different speeds. In travelling from point A
+to point B, these horses take one, two, four
+and six hours respectively.
+
+One day, you decide to move all your horses
+from point A to point B. However, you can
+only move a maximum of two horses at a time,
+and you need to ride a horse back to
+point A each time you return to move your
+other horses. Knowing you can only move as
+fast as the slowest horse you're travelling
+with, what's the fewest number of hours it
+will take to move all the horses?
+!******************************!
+That's right!
+
+To start, take your one- and two-hour
+horses. Then ride your one-hour horse
+back. Next, ride out on your four- and
+six-hour horses, and return on your
+two-hour horse. At this point you've been
+moving horses for 11 hours - three in the
+first excursion, and eight in the next.
+
+Now you should be back at point A with your
+one- and two-hour horses. Ride them both
+across to point B to finish the task in 
+13 hours.
+!******************************!
+Too bad!
+
+Think hard about what the puzzle is asking
+you to do.
+!******************************!
+When crossing back over from B to A, you
+want to move as quickly as possible, so
+make sure you put yourself in a position
+to cross over to A on the one-hour
+horse when possible.
+
+However, if you always make travelling
+back on your one-hour horse your top
+priority, you may end up wasting time on
+other legs of the journey. Don't assume
+you always need to return from B to A
+on the one-hour horse.
+!******************************!
+In order to move all your horses from
+A to B in the shortest amount of time,
+you'll need to cross over from A to B
+three times and return from B to A
+twice.
+
+How do you make the most effective use
+of this limited number of crossings?
+!******************************!
+First, bring your one-hour and two-hour
+horses over to B, then return to A on
+your one-hour horse.
+
+Next, bring your four- and six-hour
+horses over to B and return to A on
+your two-hour horse.
+
+This method minimises the overall amount
+of time necessary to move all your
+horses to point B.
+!******************************!
+[n38.dat]
+<0039>A Change of Clothes
+<00><1E><1B><18><11><1D><0A><26><4E><04><03><FF>
+A, B and C each started off with shirts and
+trousers of the same colour. A wore red,
+B wore blue, and C wore white. They were
+then blindfolded and swapped items of
+clothing. After they took their blindfolds
+off, here's what they said: 
+
+A: No one's shirts and trousers match!
+B: It looks like C's the only one of us who
+didn't keep any of his original clothes.
+C: I don't know if like these red trousers.
+
+Touch the people to change their clothing
+and assemble their current outfits.
+!******************************!
+Nicely done!
+
+You know that C is the only one not wearing
+something from his original outfit, meaning
+he's not wearing anything white. You also
+know he has red trousers, so his shirt must
+be blue.
+
+Since A and B are each wearing one item of
+their own, you can deduce that A is dressed
+in a red shirt and B in blue trousers. With
+all that settled, all you have to do is place
+your remaining white items in the right
+places and the puzzle is solved.
+!******************************!
+Too bad!
+
+Give it another try and see what develops.
+!******************************!
+You know that C's wearing red trousers
+and isn't wearing any of the white
+clothes he previously wore, so his shirt
+has to be blue.
+!******************************!
+Bear in mind that C's the only one of the
+three men not wearing any of the items
+he originally wore.
+!******************************!
+A and B must both be wearing a single
+piece of clothing, shirt or trousers,
+that they wore previously.
+!******************************!
+[n39.dat]
+<0040>The Patterned Box
+<00><1E><1B><18><11><17><12><27><F8><03><03><FF>
+The two boxes shown below are actually the
+same box shown from two different angles.
+Using the visible faces as a guide,
+reassemble the pattern of the box by
+placing the tiles into the unfolded view of
+the box.
+
+Don't forget, each tile needs to go on in
+the correct place and facing the correct
+direction, so you may need to rotate the
+tiles with your stylus.
+!******************************!
+Good job!
+
+Was it hard converting the 3D shape of the
+box into a flat 2D image in your head?
+!******************************!
+Too bad!
+
+Try to visualise the box when it has been
+unfolded.
+!******************************!
+When you start, you only know the
+position and orientation of the spade,
+so work out where the other tiles should
+go by examining the lower box image on
+the left.
+!******************************!
+The yellow circle goes directly above
+the spade.
+!******************************!
+The green club should be placed above
+the yellow circle.
+!******************************!
+[n4.dat]
+<0005>A Mala de Luke
+<00><1E><1B><18><12><08><1A><04><00><04><02><FF>
+Os pertences de Luke estão uma bagunça
+e precisam ser guardados em sua mala.
+
+Use a caneta stylus para mover os objetos para a
+mala, prestando atenção para que nenhum fique
+em cima do outro. Quando tudo estiver guardado 
+direitinho na mala, toque em #rEnviar#x.
+
+!******************************!
+Bom trabalho!
+
+Agora o Luke pode fechar
+sua mala facilmente.
+!******************************!
+Que pena!
+
+Tem certeza que nenhum item está
+por cima do outro?
+!******************************!
+Você pode usar os itens menores como a
+gaita e o telescópio pra preencher espaços
+pequenos depois, então coloque primeiro
+os itens maiores.
+!******************************!
+O enorme conjunto de frigideira e espátula
+vão no canto inferior esquerdo. O ursinho
+do Luke pertence no canto superior direito.
+Isso deve bastar pra você poder começar.
+!******************************!
+O livro vai no canto superior esquerdo.
+
+Você deve dar conta do resto.
+!******************************!
+[n40.dat]
+<0041>Cube Halves
+<00><19><14><0F><11><17><05><28><EB><03><03><FF>
+Below are four shapes. Three of the shapes
+form a whole cube when fitted together with
+an identical shape. However, one shape below
+is different in this regard, and doesn't
+form a cube when joined with another
+identical shape.
+
+Circle the odd shape out from choices A to
+D below.
+!******************************!
+That's right!
+
+C will not form a cube when joined with
+another identical shape. Some areas of the
+shape are just a little too complex to fit
+together neatly.
+
+Still, with just a few alterations, you could
+probably change that shape into something
+that works, don't you think?
+!******************************!
+Too bad!
+
+Study the shapes carefully and try again.
+!******************************!
+B looks like it should fit together with
+its other half quite nicely.
+!******************************!
+D and another identical shape would make
+a fine cube as well.
+!******************************!
+You're down to two possible answers
+at this point.
+
+Choose the one that seems the least
+likely to fit with its twin.
+!******************************!
+[n41.dat]
+<0042>Board Cutter 1
+<00><19><16><13><11><1F><09><29><EF><03><03><05>
+Here we have an oddly shaped board.
+
+Since this board is rather unwieldy as
+it is, you've decided to cut it into two
+pieces and rejoin these pieces to form a
+square.
+
+Assuming you aren't allowed to flip either
+of the pieces over once the board is cut,
+where should you make the cut in order to
+make a square out of the pieces?
+!******************************!
+Excellent!
+
+Easier than it looks, isn't it?
+!******************************!
+Too bad!
+
+Are you sure that the way you've split the
+board will allow you to recombine the pieces
+into a square?
+!******************************!
+The final square will be four units tall by
+four units wide.
+!******************************!
+You have to cut the board in two
+separate places to solve this puzzle.
+!******************************!
+Doesn't that area around the hole in the
+board look like a good place to cut?
+!******************************!
+[n42.dat]
+<0043>Board Cutter 2
+<00><1E><16><13><11><1F><0F><2A><F5><03><03><06>
+Well, here we have yet another
+inconveniently-shaped board. This one's
+even more unwieldy than the last, so you
+need to cut it into two pieces that you can
+reassemble to form a rectangle.
+
+Assuming you aren't allowed to flip either of
+the pieces over once the board is cut,
+where should you make the cut in order to
+make a rectangle out of the pieces?
+!******************************!
+Very nice!
+
+Aren't these board-cutting puzzles fun?
+!******************************!
+Too bad!
+
+Give it one more try and see what develops.
+!******************************!
+Just like in the first board-cutting
+puzzle, you need to cut the board in two
+places to make a second piece. Don't
+forget, since you'll be combining these
+two pieces into a single rectangle, you
+need to make sure all the little gaps and
+protrusions in your two boards fit
+together snugly.
+!******************************!
+After you make your cuts, you won't
+need to rotate either piece to make
+them fit together as a rectangle.
+!******************************!
+One side of the rectangle is four units.
+To make a piece with that length, try
+cutting the board four units above
+or four units below a corner.
+!******************************!
+[n43.dat]
+<0044>Tangled Ropes
+<00><19><13><0D><11><20><16><2B><F6><03><03><FF>
+Three loops of rope are tangled together
+with a single red rope that has been tied
+in a very loose knot. Can you work out
+how many of the smaller loops of rope
+would get caught in this knot when the
+red rope is pulled tight from both ends?
+
+Remember, even if a loop passes through
+the knotted part of the red rope now,
+it might fall away when the red rope
+is tightened.
+!******************************!
+Good thinking!
+
+Not a single loop will become truly entangled
+in the knot that forms. When you pull the
+red rope and form a knot, one loop will fall
+away and the other two will hang from the
+red rope, free of the knot.
+!******************************!
+Too bad!
+
+Make sure you examine every detail of the
+picture carefully!
+!******************************!
+Look carefully at the places where
+different loops overlap the red rope.
+Even if they appear to be wrapped
+around each other, they may only be
+piled on top of each other.
+
+You've probably experienced this
+phenomenon before when untangling
+a mess of cables at home.
+
+!******************************!
+Pay special attention to the big loop
+in the red rope, since this is the part
+that will form a knot and and is the key
+to solving this puzzle.
+
+Try using the Memo Function to trace
+which small loops of rope could become
+caught in the knot in the red rope when
+it is tightened.
+!******************************!
+Do you see the yellow loop of rope?
+It may look tangled in with the others,
+but it turns out that when the red rope
+is pulled to make a tight knot, this loop
+will slip free.
+
+Now, is there anything different about
+the other two smaller loops?
+!******************************!
+[n44.dat]
+<0045>Baggage Claim
+<00><1E><1B><18><11><20><19><2C><FF><03><03><FF>
+What rotten luck. While trying to pick up
+your luggage, you find that your bag is at
+the very back of the pile. The porter
+unloading the luggage claims the other
+boxes in the hold have prevented him from
+unloading yours.
+
+Use your wits to move all the blocks out
+of the way and reclaim your luggage.
+!******************************!
+Very nice!
+
+Be sure to show the porter how you did it
+so that he can get your luggage for you
+next time.
+!******************************!
+Too bad!
+!******************************!
+There are probably a few boxes you're
+dying to move right off the bat, but if
+they're stuck in place, start by moving
+the blocks you can to free up some
+space.
+!******************************!
+Start with the two square blocks on
+the left. Moving them up as far as they
+will go should help you clear enough
+space to move one of the rectangular
+red blocks below.
+!******************************!
+Move one of those green square blocks
+down into the space where your luggage
+will eventually go to help you free up
+some space.
+!******************************!
+[n45.dat]
+<0046>Odd Shape Out
+<00><14><0F><0A><11><1A><05><2D><EB><03><03><FF>
+You have a box as shown below. Using the
+white cubes as standard units, the box is
+two cubes wide by three cubes long by two
+cubes tall. Two white cubes are permanently
+attached to the floor of the box.
+
+Three of the four shapes A to D shown
+below can be placed together in the box
+to fill the box to the top with no gaps.
+
+Find the shape that doesn't fit into the
+box using the conditions described above,
+and circle the letter next to it.
+!******************************!
+Sharp thinking!
+
+D is the only shape of the four that
+doesn't fit.
+
+Was it hard to visualise the shapes fitting
+into the box?
+
+!******************************!
+Too bad!
+
+Give the puzzle another try.
+!******************************!
+Think of the box as having a top layer
+and a bottom layer, and consider them
+separately.
+!******************************!
+Did you notice that shape C fits
+perfectly into the space available on
+the bottom layer of the box?
+!******************************!
+Following the information in Hint 2, all
+you have left to do is find the shapes
+that fill the remaining 2 x 3 cube space
+on the top layer. 
+!******************************!
+[n46.dat]
+<0047>The Mayoral Election
+<00><19><16><13><12><1C><16><2E><F6><03><03><FF>
+Three people at odds with one another are
+running for mayor in the upcoming town
+election. They are all locals of the town,
+which has a voter population of 40.
+In order to win, a candidate must get
+more votes than any other candidate.
+
+If each of the 40 voters casts a single
+vote and every vote is recognised, what
+is the fewest number of votes a candidate
+needs to secure victory?
+!******************************!
+That's right!
+
+The winner needs at least 20 votes.
+
+Since each of the candidates dislikes the
+other two, they will probably all vote for
+themselves. 40 votes minus those three
+votes leaves 37 votes. The winner will need
+over half the votes, or 19. Add the winning
+candidate's personal vote to that and you
+get 20 votes. Even if another candidate
+gathered all the remaining 18 votes, that
+wouldn't be enough to overcome the
+candidate with 20 votes. 
+!******************************!
+Too bad!
+
+Think hard about the clues you've been
+given and try again.
+!******************************!
+Think about how many votes will be cast
+in the town excluding the three cast by
+the candidates themselves.
+!******************************!
+The three candidates themselves also
+have the right to vote.
+
+Of course, since each of them wants to
+win, you can take it for granted that
+each candidate will vote for themselves.
+!******************************!
+40 votes minus the three votes cast
+by the candidates leaves you with 37
+votes.
+
+Find the number of votes it takes to
+gain a majority in a pool of 37 voters
+and add one additional vote to that sum
+to get your answer.
+!******************************!
+[n47.dat]
+<0048>Who's Mr Anderson?
+<00><19><16><13><11><1D><05><2F><EB><03><03><FF>
+<''>I just saw Mr Anderson around here a
+minute ago. He shouldn't be too hard to
+spot, what with that beard and hat. Yup,
+he's a real gentleman, and he always looks
+smart with his cane and that dapper little
+bow tie. Oh, and he doesn't wear glasses,
+in case you're wondering. Look, there he is
+now!<''>
+
+Using the clues in the above statement, can
+you find and circle Mr Anderson in the
+crowd?
+!******************************!
+Good eye!
+
+It looks like the wind tried to carry off
+Mr Anderson's hat!
+!******************************!
+Too bad!
+
+Think hard about the clues you've been
+given and try again.
+!******************************!
+Keep in mind that all this information is
+describing Mr Anderson as he was
+<''>a minute ago<''>.
+
+Things can change, so don't rely too
+heavily on the description. 
+!******************************!
+The wind in Dropstone seems
+exceptionally strong today.
+!******************************!
+<''>Over there! See the guy chasing after
+his hat? That's him!<''>
+!******************************!
+[n48.dat]
+<0049>A Royal Show-off
+<00><14><10><0C><11><17><05><30><EB><03><03><FF>
+In a far-off country, there's a king whose
+favourite pastime is showing off the latest
+possessions he's collected. The subjects of
+the kingdom are forbidden from purchasing
+new items until the king has owned them for
+a month or so. Only once he's tired of his
+new purchase can the common folk finally
+buy that item for themselves.
+
+However, the other day, the king bought a
+new item that had him all but commanding his
+subjects to buy one as soon as possible.
+Circle that item.
+!******************************!
+That's correct!
+
+The telephone is the answer. After all, a
+phone isn't much use if there's no one on
+the other end.
+!******************************!
+Too bad!
+
+If you wanted to show off your brand new
+purchase, which of these items do you think
+would be the hardest to show off properly?
+!******************************!
+Who wouldn't want to show off their new
+car or television for a while?
+!******************************!
+There's one item in this list that is
+useless unless two or more of the same
+item exist.
+!******************************!
+The item in question could be in perfect
+working order, but the only way to show
+it off is if you use it as a pair.
+!******************************!
+[n49.dat]
+<0050>Misinformootion
+<00><1E><1B><18><12><1D><03><31><E9><03><03><FF>
+Five cows are grazing at the festival. Two
+of them are Troomoo cows, a breed that only
+tells the truth. The other three are Nowhey
+cows, a different variety that always lies.
+Use the following statements from each cow
+to work out which cows are liars.
+Touch a letter to mark it with an X.
+
+A: D is a Nowhey. I promise.
+B: Oh no, C isn't a Troomoo cow.
+C: A ain't a Nowhey cow. No way.
+D: E's a Nowhey if I've ever seen one.
+E: B's definitely not a Troomoo.
+!******************************!
+That's right!
+
+Cows A, C and E are Nowheys. If you assume
+each cow to be a Nowhey or a Troomoo and
+run through each of the cows' statements,
+you'll eventually realise that the only time
+there can be three Nowheys is if they are
+A, C and E.
+!******************************!
+Too bad!
+
+Think hard about what the cows said and try
+again.
+!******************************!
+Don't overthink this one. Imagine a
+variety of possibilities and try each
+one out.
+!******************************!
+Assign a breed to a cow and then run
+through all the cows' statements to
+see if they are consistent. You
+should come across the solution soon.
+
+!******************************!
+Let's assume for a moment that cow A
+is a Troomoo. If you assume this to be
+true and go through the statements
+for each cow, you should come to the
+conclusion that you must have three
+Troomoo cows and two Nowheys. Since
+you know that there are two Troomoos
+and three Nowheys, you know that this
+assumption must be incorrect.
+!******************************!
+[n5.dat]
+<0006>Pilhas de Panquecas1
+<00><0F><0D><0B><02><0E><0D><05><F3><03><02><FF>
+Aqui vai um enigma saboroso pra você.
+
+Você consegue mover a pilha de panquecas do prato
+azul a esquerda para o prato vermelho na direita?
+Espera aí, não tão fácil quanto parece.
+Você deve seguir estas regras:
+
+<->Você só pode mover uma panqueca de cada vez.
+<->Você não pode colocar uma panqueca grande
+em cima de uma menor.
+
+Você pode usar o prato do centro e
+mover as panquecas quantas vezes quiser.
+!******************************!
+Delicioso!
+
+Esse enigma é na verdade uma variação do
+famoso <''>Torre de Hanói<''>, um enigma inventando
+por um matemático francês lá em 1883.
+!******************************!
+
+!******************************!
+De início esse enigma pode parecer atordoante,
+mas não é tão difícil assim.
+
+Se não conseguir chegar em uma solução pela lógica,
+apenas movas as panquecas um pouco e eventualmente
+você chegará em uma resposta.
+!******************************!
+Se você conseguir colocar a maior panqueca no
+prato vermelho, significa que está quase lá.
+!******************************!
+Mova a menor das panquecas para o prato 
+vermelho, então coloque a panqueca de 
+tamanho médio no prato do meio.
+
+Em seguida coloque a menor das panquecas em cima
+da panqueca de tamanho médio. Isso vai livrar o
+prato vermelho pra maior das panquecas.
+!******************************!
+[n50.dat]
+<0051>Gatos Malucos
+<00><14><0F><0A><11><1E><02><32><E8><03><03><FF>
+Uma das tres imagens coloridas A, B ou C,
+é a mesma em preto e branco mostrada no
+canto esquerdo. Consegue descobri qual é?
+
+A única diferença é quie a imagem no canto
+esquerdo teve seu conteúdo virado da
+esquerda para a direita e as suas cores
+invertidas e trocadas para preto e branco.
+
+!******************************!
+Olhos de águia!
+
+B era a imagem que você estava procurando.
+As sobrancelhas do gato na A e o padrão
+das linhas no fundo da C são diferentes
+da imagem no canto esquerdo.
+!******************************!
+Que pena!
+
+Estude os detalhes de cada imagem
+mais uma vez.
+!******************************!
+Comparar A, B ou C com a imagem no
+canto esquerda é trabalhoso e pode
+ser complicado achar as diferenças.
+
+Que tal esquecer sobre essa imagem por
+um momento e só focar em encontrar as
+diferenças entre A, B e C?
+!******************************!
+Não se esqueça de olhar essas
+linhas no fundo.
+!******************************!
+As sobrancelhas dos gatos valem a
+pena olhar também!
+!******************************!
+[n51.dat]
+<0052>Chapéu do Tempo
+<00><1E><1B><18><71><18><0B><33><F1><03><03><FF>
+Há um rapaz com certas regra específicas
+sobre quando usar o seu chapéu.
+<->Quando está sol, ele usa o chapéu.
+<->Quando está chovendo, ele não o usa.
+<->Quando está nublado, ele não usa o chapéu
+a não ser que esteja nublado por dois dias
+seguidos, quando, então, ele usa seu chapéu
+no segundo dia desse caso.
+
+Abaixo segue uma tabela de quando esse
+rapaz decidiu usar seu chapéu no decorrer
+de uma semana. Use os painéis para preencher
+com o tempo de cada dia da semana.
+!******************************!
+Excelente!
+
+Se você considerar que a Segunda-Feira
+mostrada era o segundo dia  seguido de
+tempo nublado, então nosso amigo deve ter
+usado seu chapéu nesse dia. O resto da
+solução, então, acaba fazendo sentido.
+!******************************!
+Que pena!
+
+Pense direito sobre as regras do homem
+acerca de seu chapéu e tente novamente.
+!******************************!
+Comece colocando uma placa indicando chuva em
+cada dia que nosso amigo não usou o chapéu.
+!******************************!
+Quando você colocar as placas indicando chuva
+como sugerido na Dica 1, você deve notar que
+não há mais espaço sobrando para suas placas
+que indicam nuvens.
+
+Você poderia colocá-la em um dos dias com
+chapéu se esse dia fosse o segundo dia
+seguido de tempo nublado, mas não parece
+haver um caso assim nessa semana.
+!******************************!
+Se o tempo estava nublado no Domingo da
+semana passada, ele poderia usar seu
+chapéu na Segunda-Feira.
+!******************************!
+[n52.dat]
+<0053>Clube do Bolinha
+<00><1E><1B><18><11><1C><05><34><EB><03><03><FF>
+Abaixo está uma roda de retratos de homens e
+mulheres. Selecione um retrato e, contando
+esse retrato como um, mova seis retratos ou
+no sentido horário ou no sentido anti-horário
+e risque o último desses seis retratos.
+Repita o procedimento, começando do próximo
+retrato disponível e sempre movendo-se na
+mesma direção. Lembre-se de pular os que você
+já riscou. Se você começar pelo retrato certo,
+poder-se-á remover todas as mulheres na roda,
+deixando somente os seis retratos de homens.
+Qual retrato é esse? Circule sua resposta.
+Lembre-se que você se mover tanto no sentido
+horárioo como no sentido anti-horário.
+!******************************!
+Muito bem!
+
+Se você começar contando por esse homem,
+e prosseguir no sentido anti-horário pela roda,
+você irá eventualmente remover todos os retratos
+de mulheres.
+!******************************!
+Que pena!
+
+Tente resolve o enigma novamente.
+!******************************!
+O primeiro retrato que você escolher
+deverá ser o de um homem.
+!******************************!
+Mova-se no sentido anti-horário
+para achar a sua resposta.
+!******************************!
+O primeiro retrato que você deve remover é
+o de uma garota posicionada às cinco horas.
+!******************************!
+[n53.dat]
+<0054>Painting the Flag
+<00><19><16><13><12><19><16><35><F6><03><03><FF>
+You have a pristine white flag that you want
+to dye into three sections as shown below.
+You have three dyes.
+
+No two adjacent sections of the flag can be
+the same colour, each section can only be
+one colour and you can't change the number
+or size of these sections.
+
+If you aren't allowed to mix the dyes, how
+many distinct flag designs are possible? 
+
+!******************************!
+Sharp thinking!
+
+Once you incorporate the white colour of
+the unpainted flag into your designs, you
+actually have four colours you can work
+with. If you assign a colour to the left
+section of the flag and list all designs
+possible, you get a total of nine variations.
+
+Multiply this number by four, which
+represents the number of colours at your
+disposal, to get the answer: 36 variations.
+!******************************!
+Too bad!
+
+Give the puzzle another try.
+!******************************!
+You have three dyes you can use on the
+flag, but that doesn't mean those are
+the only colours at your disposal.
+!******************************!
+Maybe you've noticed that the white
+colour of the flag's fabric is another
+colour you can use in making your
+designs.
+!******************************!
+Adding white to the three dyes you have,
+there are four colours you can use to
+make flag designs.
+
+If the left section of your flag is red,
+for example, then combining the other
+two dyes and the flag's own white colour
+in the remaining two sections gives you a
+total of nine distinct designs.
+!******************************!
+[n54.dat]
+<0055>O Colar do Sammy
+<00><1E><1B><18><11><15><16><36><F6><03><03><FF>
+Sammy tem oito correntes com sete elos cada.
+Ele quer ligar todas essas correntes para formar
+um colar. O joaleiro diz que custará <po>2 sempre
+que abrir e fechar um único elo.
+
+Como mostrado abaixo, Sammy poderia abrir uma
+extremidade de cada uma das oitos correntes para
+formar um grande colar. Todavia, isso custará <po>16,
+e a verdade é que há meios mais  baratos de se obter
+o mesmo resultado. Usando o método mais barato possível,
+quanto custará para se formar o colar?
+!******************************!
+Ponto!
+
+Pegue um dos sete elos de correntes do Sammy,
+separe cada um e use-os para ligar as pequenas
+correntes restantes, como mostrado na ilustração.
+
+Se o Sammy usar esse método, ele poderá
+conseguir o colar de seus sonhos por apenas <po>14.
+!******************************!
+Que pena!
+
+Tente resolve o enigma de novo.
+!******************************!
+O número de elos em cada pequena corrente
+é uma pista crucial que ajudar-lo-á a
+a solucionar o enigma.
+!******************************!
+Voce não esteve só abrindo os elos nas
+extremidades de cada pequena corrente, né?
+!******************************!
+Tente pegar uma pequena corrente, abrir cada
+um de seus sete elos e usar aqueles elos abertos
+ligar com as outras pequenas correntes.
+
+A resposta está mais clara agora?
+!******************************!
+[n55.dat]
+<0056>The Door's Code
+<00><28><24><20><11><09><1A><37><00><04><02><29>
+In order to pass through this door, Luke
+and Layton must arrange the symbols
+according to the following rules:
+
+<->The star must be next to the moon.
+<->The X must be second from the top.
+<->The circle must be somewhere above the
+diamond.
+<->The moon must be located two places below
+the diamond.
+
+Give it a shot!
+!******************************!
+You're in!
+
+Good job cracking that code!
+!******************************!
+Too bad!
+
+Look over the puzzle one more time.
+
+!******************************!
+<''>The X must be second from the top.<''>
+
+As you know exactly where the X should
+go, start by placing this symbol. Once
+this is done, move on to the other
+conditions.
+!******************************!
+<''>The moon must be located two places
+below the diamond.<''>
+
+If the moon is two places below the
+diamond, then the diamond must be in
+one of the top three spots. X already
+occupies the second spot, so the
+diamond is in either the first or
+third space from the top.
+!******************************!
+<''>The circle must be somewhere above
+the diamond.<''>
+
+If you combine the above statement
+with the information from Hint 2,
+it's clear that the only place you
+can put the diamond is the third
+spot from the top. Once you've placed
+the diamond, you should have enough
+symbols in place to solve the rest
+of the puzzle easily. 
+!******************************!
+[n56.dat]
+<0057>Smell the Roses
+<00><1E><1B><18><11><0D><18><38><FE><03><02><FF>
+Ah, there's nothing like freshly-cut roses
+to boost your spirits. Can you help Sammy
+freshen up the whole carriage with their
+fragrance?
+
+Touch a square with your stylus to place a
+rose. The fragrance of each rose reaches
+two squares in all directions, but can't
+penetrate walls. If the fragrance of two or
+more roses overlap, the resulting smell will
+be overpowering, so make sure to keep your
+roses spaced out. Touch an existing rose
+to remove it.
+!******************************!
+Well done!
+
+Five roses were just enough to freshen up
+the carriage.
+!******************************!
+Too bad!
+
+Did you make sure to space those roses far
+enough apart to keep their scents from
+overlapping?
+!******************************!
+Here's a handy hint.
+
+Start from the corners of the carriage.
+!******************************!
+Place a rose in the bottom-right corner
+of the carriage, then think about where
+everything else needs to go.
+!******************************!
+To solve this puzzle, you need to put
+roses in five different spots.
+!******************************!
+[n57.dat]
+<0058>In the Tunnel
+<00><23><1F><1B><12><0D><19><39><FF><03><02><2D>
+Two trains pass in the darkness of the long
+tunnel. Move them around so that each
+locomotive ends up on the opposing track
+while keeping its carriages in the same
+order. The only carriages that don't need
+to end up on the opposing track are the
+number 2 carriages of both trains.
+!******************************!
+That's right!
+
+The two trains speed off into the darkness,
+each carrying the number 2 carriage of the
+other...
+!******************************!
+Too bad!
+
+Give the puzzle another try.
+!******************************!
+To start, try to get all the carriages
+going to the top track into their
+designated positions before worrying
+about the ones headed to the bottom
+track.
+!******************************!
+Move the first red carriage to the side
+track that sits between the top and
+bottom tracks, then bring down all of
+the carriages from the top track.
+
+Now move that red carriage up into
+its designated spot on the top track.
+!******************************!
+You can use the procedure detailed in
+Hint 2 to move any carriage from the
+bottom track to the top track. Just
+move the carriage of your choice into
+the side track and move all the
+carriages that are blocking your path
+to the top track out of the way. Then
+it's just a simple matter of bringing
+each carriage out of the side track and
+up into its designated position.
+!******************************!
+[n58.dat]
+<0059>A Ticket to Where?
+<00><28><24><20><11><0D><16><3A><F6><03><02><FF>
+In front of you is the ticket that Layton
+and Luke found in Dr Schrader's flat.
+At first glance, the ticket appears to have
+no destination written on it. But when you
+look at it in just the right way, the ticket
+discloses its destination: the town of
+Folsense. The key to spotting the
+destination is the #rnumber#x that has been
+cut out of the ticket. Can you work out
+which number must have been there?
+
+Use the ticket in the instruction booklet to
+puzzle this one out!
+!******************************!
+Excellent!
+
+The missing number is 2.
+
+If you fold the ticket as shown and line up
+the two sets of numbers, they form letters
+that spell out the word <''>FOLSENSE<''>.
+It looks like the ticket's destination was
+there all along!
+!******************************!
+Too bad!
+
+To solve this puzzle you'll need to do
+something to the ticket that allows you to
+connect the two rows of numbers in some
+fashion.
+!******************************!
+To find the answer, you have to fold the
+ticket in a particular way.
+!******************************!
+Hold the ticket lengthwise and fold it
+inwards along the middle. Next, fold each
+side outwards, halfway along each row of
+numbers.
+
+The top half of the top row of numbers
+and the bottom half of the bottom row 
+of numbers will connect to each other,
+revealing a string of letters.
+!******************************!
+The word <''>FOLSENSE<''> is written on this
+ticket.
+
+Which number must belong in the cut-out
+portion in order to form an E when the
+ticket is folded?
+!******************************!
+[n59.dat]
+<0060>Plaza Puzzle
+<00><19><16><13><11><23><06><3B><EC><03><04><FF>
+<''>So there's a big old statue in the middle
+of this plaza. When you take away the area
+occupied by the statue, the plaza looks
+sort of doughnut-like in shape. What you
+have to do is divide this doughnut-like
+plaza into two identically shaped parts
+using only one line.
+
+Oh, and before you get any big ideas, the
+dotted lines shown below won't cut it 'cause
+they're actually two lines.<''>
+
+Draw your answer on the Touch Screen.
+!******************************!
+Nice!
+
+If you draw a circle around the plaza about
+one third of the way out from the middle,
+your line will divide the doughnut shape
+into two identically-shaped figures that are
+directly proportional. In geometrical
+terms, shapes like these are known as
+similar figures.
+!******************************!
+Too bad!
+
+Focus on the term <''>one line<''>.
+There's a hint somewhere in there.
+!******************************!
+In the example illustration, the plaza has
+been divided by two lines, which makes
+the answer invalid.
+
+The fact that you need to use a single
+line to solve the puzzle is key. Since you
+can only use one line, you know you won't
+be solving this one by drawing lines
+through the middle of the plaza.
+!******************************!
+Even if you avoid drawing your line
+through the middle of the plaza, no
+single straight line will divide the plaza
+into two pieces that are the same shape.
+
+By the way, did you notice that the goal
+here isn't to make two pieces that are
+the same size?
+!******************************!
+If you're still having trouble, you
+should know that the single line you
+need to draw is a circle.
+
+The only remaining question is where to
+draw it so that the two pieces of the
+plaza have the same shape and are
+directly proportional to one another.
+!******************************!
+[n6.dat]
+<0007>Quatro Casais
+<00><14><12><10><11><0B><05><06><EB><03><02><FF>
+Quatro casais estão sentados em um vagão de jantar lotado.
+Todos os comensais estão sentados de frente ou ao lado
+de seus parceiros:
+
+<->Os Jones estão sentados no corredor.
+<->O abigodado Sr. O'Connor está sentado
+próximo à sua esposa.
+<->Sr. Lambert está sentado à frente da sua esposa.
+
+Usando a informação acima, você consegue
+determinar onde a Sra. Hadley está sentada?
+Circule-a e depois toque em #rEnviar#x.
+!******************************!
+Isso aí!
+
+O abigodado Sr. O'Connor está sentado próximo à
+sua esposa, então todas as pessoas a esquerda devem
+estar sentados perto de seus companheiros.
+Sr. Lambert está sentado na frente de sua eposa, 
+então ele deve estar sentado na mesa da direita.
+
+Os Joneses estão sentados no corredor, então
+eles devem ser c e g. Assim sobram e
+e f como os Hadleys.
+!******************************!
+Que pena!
+
+Pense bastante nas pistas que lhe foram
+dadas e tente novamente
+!******************************!
+O abigodado Sr. O'Connor é b.
+Já que ambos c e f são homens, sua esposa
+deve ser a.
+!******************************!
+Ambos os Jones estão sentados no corredor,
+o que significa que eles devem estar sentados um
+na frente do outro.
+
+Agora que você já sabe que b é o Sr. O'Connor, 
+c e g devem ser o Sr. e Sra. Jones.
+!******************************!
+E onde deve estar o Sr. Lambert?
+
+Nós sabemos que a e b são os O'Connors,
+então as pessoas sentadas na frente deles também
+devem ser un casal. Mas não podem ser os Lamberts
+já que eles estão sentados um na frente do outro.
+
+Agora você deve conseguir identificar
+os quatro casais.
+!******************************!
+[n7.dat]
+<0008>O Grande Jantar do Luke
+<00><19><16><13><11><0B><03><07><E9><03><02><FF>
+<''>Luke, tem certeza aue consegue comer 
+isso tudo? Você fez um baita pedido.<''>
+
+<''>Sem problemas, Professor! Vou limpar meu prato
+e ainda ter espaço pra mais.<''>
+
+Não é à toa que o professor esteja preocupado, já
+que o pedido do Luke custa o dobro que o seu próprio pedido!
+
+Abaixo você pode ver todos os itens que os dois
+compraram, junto de seus preços.
+
+Toque os preços dos itens que Luke comprou.
+!******************************!
+Bom trabalho!
+
+Se você calcular o total da conta, verá que
+a refeição custou <po>105. Sabendo do total,
+Luke deve ter pedido o equivalente a <po>70 de comida
+e o professor <po>35. Depois que conseguiu esses
+números o resto é moleza.
+
+<''>Tem certeza que não pediu demais?<''>
+
+<''>Não! Esse (slurp) ensopado é ótimo, e esse
+bife (nhac) é delicioso também!<''>
+
+<''>...<''>
+!******************************!
+Que pena!
+
+Talvez não esteja vendo o problema do jeito certo.
+Por quê não tenta uma abordagem diferente?
+!******************************!
+Comece somando o custo de toda a refeição.
+!******************************!
+A refeição de Luke custou o dobro da refeição
+do professor. Isso significa que a relação dos
+gastos de Luke comparada aos do professor
+deve ser de 2:1.
+!******************************!
+O custo da refeição inteira é de <po>105. 
+Esse total precisa ser dividido para se encaixar
+na nossa relação de 2:1. A soma das partes dessa
+relação é 3, então divida o total por 3 para dar <po>35 
+e os custos vão para (2 x <po>35):(1 x <po>35). Ou seja,
+o jantar de Luke custou <po>70 e o do professor <po>35.
+
+Que combinação de comidas e bebidas você consegue encontrar
+que dê a soma de <po>70?
+!******************************!
+[n8.dat]
+<0009>Copos Empilhados
+<00><0A><08><06><12><0B><02><08><E8><03><02><FF>
+O dono de um restaurante quatro estrelas pede
+para um garçom empilhar copos de uma forma
+decorativa. Ansioso para agradar, o jovem garçom
+imediatamente desenha cinco designs separados
+e os mostra para o dono. O dono dá uma olhada
+rápida nos designs e, com um olhar de irritação, vira
+para o garoto e grita, <''>Esse design é absurdo! 
+Onde você tava com a  cabeça?<''>.
+
+Quais dos cincos design o dono
+está se referindo?
+!******************************!
+Exatamente certo!
+
+O dono do restaurante estava falando do
+desenho D. Se prestar atenção, verá que a
+primeira e segunda fileira de copos não
+poderiam de nenhum serem organizadas da
+maneira retratada.
+
+O simples desenho 2D não considerou
+a boca dos copos.
+
+!******************************!
+Que pena!
+
+O que você acha que o dono do restaurante viu em um
+simples desenho que o deixou tão zangado?
+!******************************!
+<''>Esse design é absurdo!<''>
+
+O dono não éstava com raiva porque o design era
+difícil de ser montado. Ele estava chateado porque
+o design é fisicamente impossível de se fazer na vida real.
+
+
+
+
+!******************************!
+A e C até que poderiam ser organizados com
+mãos firmes e bastante paciência
+
+Nos resta B, D e E.
+!******************************!
+Um dos designs até pode ser desenhado em 2D
+mas, na realidade, seria impossível empilhar os
+copos daquele jeito na vida real.
+
+No papel, cada copo é representado por  simples linhas
+em formato de U, mas copos de verdade têm mais
+que isso, como lados e uma boca no topo.
+!******************************!
+[n9.dat]
+<0010>Uma Obra de Arte
+<01><0F><0D><0B><12><0B><16><09><F6><03><02><FF>
+O desenho abaixo é feito de linhas curvas que se cruzam
+para fazer seções. Se você quer colorir a tela inteira
+para que nenhuma seção se encontre com outra da mesma
+cor, qual o menor número de cores que se pode usar?
+Você pode usar uma cor quantas vezes quiser desde que
+não toque em nenhuma área da mesma cor.
+
+Quando tiver sua resposta, toque em
+#rSolução#x e escreva o número de cores.
+
+!******************************!
+Isso aí!
+
+Você precisará de três cores para preencher o
+desenho. A maior parte do desenho pode ser
+feito com duas cores, mas um lugarzinho danado
+no canto inferior esquerdo precisa de uma terceira
+cor para ser completado.
+!******************************!
+Que pena!
+
+Pense bem e dê outra chance.
+!******************************!
+Não tem truques aqui.
+
+Você pode achar mais fácil se usar a
+função Memo para marcar seções do 
+desenho.
+!******************************!
+Por que não olha dá uma olhada nos cantos
+do desenho?
+!******************************!
+Você pode completar a maior parte do
+desenho usando apenas duas cores, mas
+percebeu como tem uma área danada no
+canto inferior esquerdo que precisa de uma
+cor adicional?
+!******************************!

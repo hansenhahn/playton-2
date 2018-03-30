@@ -1,0 +1,893 @@
+[t18_010_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
+!******************************!
+[t18_020_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:192>E com isso, parece que você completou
+todos os enigmas do jogo.
+Meus parabéns!<W>
+!------------------------------!
+Claramente você tem o mesmo nível
+de aptidão e de amor por resolver
+enigmas que eu.
+!******************************!
+[t18_020_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:84>Olha, Professor! Foi adicionada uma
+nova página de personagens na
+seção Perfis*!
+!******************************!
+[t18_020_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>De fato, Luke. É um presente nosso
+para o nosso amigo, o jogador.
+Isto é, você!
+!******************************!
+[t18_020_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:47>Bom, você ouviu o professor.
+Divirta-se com as novidades!
+!******************************!
+[t18_110_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:179>O Professor Layton recebeu
+uma carta de seu amigo e mentor,
+o Dr. Andrew Schrader.<W>
+!------------------------------!
+A carta convenceu o bom professor e
+seu assistente, o Luke, a irem
+pagar uma visita ao doutor.
+!******************************!
+[t18_110_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:308>A carta revelava que o doutor havia
+adquirido uma antiguidade
+conhecida como a Caixa Elisiana.<W>
+!------------------------------!
+Também conhecida como Caixa de Pandora,
+havia um rumor acerca da Caixa que
+dizia que ela matava quem a abrisse.<W>
+!------------------------------!
+Apesar disso, a curiosidade do doutor
+foi maior que seu bon senso, e ele
+vocalizou sua intenção de abri-la.
+!******************************!
+[t18_110_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:85>
+Alarmado pelo fato, Layton decidiu
+visitar o doutor em sua casa,
+em Londres, e ver se estava bem.
+!******************************!
+[t18_120_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Layton e Luke subiram à borto
+do Molentary Express* na esperança
+de aprender o que aconteceu com o doutor.
+!******************************!
+[t18_120_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>A extravagância do trem,
+conhecido por ser um <''>cruseiro de
+luxo sobre trilhos<''>, os espantou.
+!******************************!
+[t18_120_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>Cercados pelas luxuosas instalações
+do Molentary Express, a dupla
+deu início à sua investigação.
+!******************************!
+[t18_130_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Layton e Luke conheceram Babette, uma
+mulher rica que estava arrasada
+pelo desaparecimento de seu bebê, Tom.
+!******************************!
+[t18_130_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Os dois se ofereceram para ajudá-la a
+encontrar Tom, mas a única pista que
+tinham eram os sapatinhos do bebê.
+!******************************!
+[t18_130_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>O Professor Layton e o Luke questionar
+os passageiros do trem visando
+reunir mais pistas.
+!******************************!
+[t18_140_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:106>Em sua busca, o professor começou a
+suspeitar que Tom poderia ser
+não humano, mas sim, canino.
+!******************************!
+[t18_140_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:78>Essa revelação fez a dupla lembrar
+de uma jovem que antes viram
+com um cachorrinho nas mãos.
+!******************************!
+[t18_140_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Para confirmar suas suspeitas, o
+professor e o Luke seguiram para
+vasculhar o trem em busca da jovem.
+!******************************!
+[t18_150_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:74>Foi revelado que a misteriosa
+menina com o cachorro nas mãos
+era a Flora, disfarçada.
+!******************************!
+[t18_150_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Incapaz de mandá-la de volta para Londres,
+o professor concordou em deixá-la
+acompanhá-los pelo resto da aventura.
+!******************************!
+[t18_150_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Com o pequeno Tom em mãos, Layton,
+Luke e Flora deram meia volta para
+devolver a Babette seu <''>bebê<''>.
+!******************************!
+[t18_160_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:78>Layton e seus ajudentes devolveram
+Tom à sua dona, Babette, em
+segurança.
+!******************************!
+[t18_160_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Com Babette enfim acalentada e
+a busca por Tom encerrada, a
+atmosfera no trem ficou tranquila.
+!******************************!
+[t18_160_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>Layton, Luke e Flora decidiram
+descansar e, para tal, voltaram
+para sua suíte.
+!******************************!
+[t18_170_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>O breve descanso de Layton, Luke e
+Flora foi interrompido quando o
+trem repentinamente parou.
+!******************************!
+[t18_170_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Para entender a situação e descobrir
+o motivo por trás da parada, os
+três resolveram sair do trem.
+!******************************!
+[t18_170_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>Uma vez fora dele, os três se depararam
+com um trem danificado bloqueando
+os trilhos.*
+!******************************!
+[t18_180_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>O breve descanso de Layton, Luke e
+Flora foi interrompido quando o
+trem repentinamente parou.
+!******************************!
+[t18_180_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:83>Uma vez fora do trem, os três se depararam
+com um trem danificado bloqueando
+os trilhos.
+!******************************!
+[t18_180_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Ansioso para seguir com sua jornada,
+Layton tentou pensar em uma forma de
+tirar o trem e desobstruir os trilhos.
+!******************************!
+[t18_185_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>O breve descanso de Layton, Luke e
+Flora foi interrompido quando o
+trem repentinamente parou.
+!******************************!
+[t18_185_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:87>Mas o professor logo bolou um modo
+de locomover o trem que estava
+obstruindo os trilhos.
+!******************************!
+[t18_185_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:157>Com os trilhos novamente desimpedidos,
+Layton e os demais voltaram ao seu
+próprio trem.<W>
+!------------------------------!
+E assim eles seguiram rumo à
+sua próxima parada, a pequena
+cidade de Dropstone.
+!******************************!
+[t18_190_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>O Molentary Express trouxe nossos
+heróis à pacata vila pastoril
+de Dropstone.
+!******************************!
+[t18_190_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Uma vez nela, eles encontraram
+Dropstone em meio à sua
+celebração de 50 anos. 
+!******************************!
+[t18_190_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Para matar o tempo, Layton, Luke e
+Flora decidiram sair pelas ruas
+perguntando sobre a Caixa Elisiana.
+!******************************!
+[t18_200_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:99>Enquanto procuravam por pistas, Layton
+e os demais aprenderam sobre um
+concurso de gado* prestes a começar.
+!******************************!
+[t18_200_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Antes dele começar, entretanto, eles
+encontraram várias informações
+fragmentadas, talvez da Caixa Elisiana.
+!******************************!
+[t18_200_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Pouco depois, os três deram uma
+pausa em sua investigação e
+voltaram para verem o concurso.
+!******************************!
+[t18_210_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Graças ao Luke, o concurso de
+gado* terminou sem incidentes.
+!******************************!
+[t18_210_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:95>Ao interrogarem toda a cidade,
+o trio reuniu toda a informação
+possível sobre a Caixa Elisiana.
+!******************************!
+[t18_210_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>Layton, Luke e Flora decidiram
+procurar pelo Sr. Anderson
+antes de voltarem para a estação.
+!******************************!
+[t18_220_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:172>Graças ao Luke, o concurso de
+gado* terminou sem incidentes.<W>
+!------------------------------!
+Com pouco tempo restando até a
+partida do trem, Layton, Luke e
+Flora partiram rumo à estação.
+!******************************!
+[t18_220_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Na volta, Layton e Luke perderam a
+Flora em meio à multidão que
+enchia a área.
+!******************************!
+[t18_220_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:106>Felizmente, Flora logo se reuniu
+com Layton e Luke. Aliviados, os
+três seguiram para a estação.
+!******************************!
+[t18_230_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>Boatos ouvidos em Dropstone
+sugeriram que o Molentary Express*
+tinha outro destino. Um destino secreto.
+!******************************!
+[t18_230_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:118>O trio sabia que, para chegarem lá,
+precisavam fazer alguma coisa
+no trem.<W>
+!------------------------------!
+O que essa "coisa" era, entretanto,
+permanecia um mistério.
+!******************************!
+[t18_230_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Sem nenhuma pista para seguir, o
+trio saiu à procura de uma que
+lhes mostrasse como proceder.
+!******************************!
+[t18_233_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:206>Ao conversar com Conrad, um
+estudante à bordo do trem, o
+professor aprendeu um curioso boato.<W>
+!------------------------------!
+Ao que parecia, todo o acesso ao vagão
+de luxo*(os vagões de luxo?) havia sido cortado após o trem
+entrar em um longo e escuro túnel.
+!******************************!
+[t18_233_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:184>Layton começou a suspeitar de que
+havia algum propósito oculto
+no ocorrido.<W>
+!------------------------------!
+Suspeitava que aquilo tinha alguma
+ligação com a cidade fantasma de
+que tinham ouvido falar em Dropstone.
+!******************************!
+[t18_233_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:83>O trio seguiu para o vagão de luxo
+logo após o trem entrar no
+túnel.
+!******************************!
+[t18_237_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:94>O vagão se separou do Molentary
+Express, levando o trio rumo a
+um novo destino.
+!******************************!
+[t18_237_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:183>Após resolverem o mistério da
+passagem* do médico*, o trio
+aprendeu o nome de seu novo destino.<W>
+!------------------------------!
+Mas que tipo de lugar seria essa
+tal de "Folsense", e o que eles
+encontrariam lá?
+!******************************!
+[t18_237_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>As perguntas se proliferavam em
+suas mentes à medida que o Molentary
+Express adentrava a escuridão.
+!******************************!
+[t18_240_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Layton, Luke e Flora aprenderam que
+o nome da cidade para a qual
+seguiam era Folsense.
+!******************************!
+[t18_240_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>À medida que o trem se aproximava da
+estação, apenas uma profunda
+escuridão se manifestava pela janela.
+!******************************!
+[t18_240_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Inquietos, Layton e os demais
+se preparavam à medida que
+adentravam Folsense.
+!******************************!
+[t18_250_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Viajando no vagão de luxo do Molentary
+Express, Layton, Luke e Flora
+chegaram em Folsense.
+!******************************!
+[t18_250_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:79>Mas após chegarem, os três começaram
+a presenciar série de
+acontecimentos inexplicávels.
+!******************************!
+[t18_250_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:94>Perturbados pelo que viram,
+o trio começou sua investigação
+da cidade.
+!******************************!
+[t18_253_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>Após falarem com um lojista local,
+Layton e Luke ouviram falar do
+Museu Herzen.
+!******************************!
+[t18_253_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Ficou claro pela conversa que o museu
+era o mais provável ponto para acharem
+informações sobre a Caixa Elisiana.
+!******************************!
+[t18_253_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Com seu próximo destino agora claro,
+Luke e Layton seguiram rumo à parte
+norte da cidade para visitar o museu.
+!******************************!
+[t18_256_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Luke e Layton foram ao Museu Herzen
+na parte norte da cidade para
+aprender sobre a Caixa Elisiana.
+!******************************!
+[t18_256_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:52>Mas ao chegarem lá, encontraram
+o portão trancado.
+!******************************!
+[t18_256_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Sem terem como entrar, a dupla adiou
+a visita ao museu para perguntarem
+sobre a Caixa Elisiana cidade afora.
+!******************************!
+[t18_259_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Layton e Luke vasculharam a cidade
+atrás de quaisquer informações que
+pudessem achar sobre a Caixa Elisiana.
+!******************************!
+[t18_259_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:185>Durante sua exploração, os dois
+ouviram vários boatos estranhos
+sobre acontecimentos incomuns na cidade.<W>
+!------------------------------!
+Entretanto, não obtiveram sucesso
+em encontrar pistas substanciais
+acerca da Caixa Elisiana.
+!******************************!
+[t18_259_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>Ainda em busca de tais informações,
+a dupla decidiu revisitar
+o Museu Herzen.
+!******************************!
+[t18_260_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:107>Luke e Layton encontraram um grande
+emblema em forma de cabra* cravado
+no piso em frente ao hotel.
+!******************************!
+[t18_260_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:88>Ao ver isso, o professor subitamente
+anunciou que precisava falar
+com o Inspetor Chelmey.
+!******************************!
+[t18_260_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>O professor mostrou um novo
+interesse pela foto recuperada
+na casa do Dr. Schrader.
+!******************************!
+[t18_270_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Layton e  Luke voltaram ao hotel para
+questionar Chelmey acerca da
+foto achada na casa do doutor.
+!******************************!
+[t18_270_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Infelizmente, o inspetor parecia ter
+acidentalmente deixado pedaços da
+foto espalhados pela cidade.
+!******************************!
+[t18_270_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Seguindo os passos do inspetor,
+a dupla seguiu para recuperar
+os pedaços desaparecidos da foto.
+!******************************!
+[t18_280_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:88>Após uma longa procura, Luke e
+o professor enfim conseguiram
+remontar a foto inteira.
+!******************************!
+[t18_280_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:195>Com a foto completa em mãos, a dupla
+pôde confirmar a aparência
+da Caixa Elisiana.<W>
+!------------------------------!
+Infelizmente, na mesma hora uma
+rajada repentina de vento carregou
+um pedaço da foto.
+!******************************!
+[t18_280_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:99>Com o resto da foto em mãos, os
+dois decidiram dar mais uma volta
+na cidade para fazerem perguntas.
+!******************************!
+[t18_290_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Após remontarem a foto inteira, Layton
+e Luke conseguiram confirmar a
+aparência da Caixa Elisiana.
+!******************************!
+[t18_290_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Logo depois os dois conversaram
+com Barton, que lhes contou que Chelmey
+havia identificado o assassino do doutor.
+!******************************!
+[t18_290_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>A pedido do inspetor, Luke e
+Layton voltaram ao hotel.
+!******************************!
+[t18_300_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:184>No hotel, o professor revelou que
+Don Paolo estava se fazendo passar
+por Flora havia um bom tempo.<W>
+!------------------------------!
+Com seu disfarce revelado, Don Paolo
+fugiu do hotel, com o Inspetor Chelmey
+em seu encalço.
+!******************************!
+[t18_300_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:146>Em meio à sua fuga, Don Paolo
+deixou cair a Caixa Elisiana.<W>
+!------------------------------!
+Luke e o Professor Layton logo a
+encontraram largada em um canto
+da recepção do hotel.
+!******************************!
+[t18_300_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:167>Com a caixa em mãos, a dupla
+podia examiná-la com seus
+próprios olhos.<W>
+!------------------------------!
+Enfim, estavam prestes a descobrir
+os segredos que ela guardava.
+!******************************!
+[t18_310_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>O Professor Layton e o Luke,
+arriscando suas vidas, abriram
+a Caixa Elisiana.
+!******************************!
+[t18_310_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>Contudo, ambos sobreviveram ao ato.
+Na verdade, nada pareceu acontecer.
+!******************************!
+[t18_310_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:191>A caixa, que uma vez parecera conter
+todas as respostas, só havia gerado
+mais perguntas.<W>
+!------------------------------!
+Para desvendar esses novos mistérios,
+a dupla voltou às ruas de Folsense.
+!******************************!
+[t18_320_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>O Professor Layton e o Luke,
+arriscando suas vidas, abriram
+a Caixa Elisiana.
+!******************************!
+[t18_320_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>Felizmente, a caixa foi aberta
+sem incidentes e os dois confirmaram
+que estava vazia.
+!******************************!
+[t18_320_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Com as suspeitas de Layton confirmadas,
+a dupla voltou às ruas para verem
+o que mais podiam aprender. 
+!******************************!
+[t18_330_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:73>O Professor Layton e o Luke abriram
+a Caixa Elisiana sem sofrer nenhum
+mal.
+!******************************!
+[t18_330_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:90>Após abrirem a caixa, a dupla voltou
+às ruas da cidade para confirmar
+uma nova suspeita que havia surgido.
+!******************************!
+[t18_330_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:154>Com a ajuda de Sammy, Layton e
+Luke ganharam acesso ao Museu
+Herzen.<W>
+!------------------------------!
+A dupla esperava continuar com
+sua busca por fatos relacionados
+à Caixa Elisiana.
+!******************************!
+[t18_335_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:73>O Professor Layton e o Luke abriram
+a Caixa Elisiana sem sofrer nenhum
+mal.
+!******************************!
+[t18_335_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:90>Após abrirem a caixa, a dupla voltou
+às ruas da cidade para confirmar
+uma nova suspeita que havia surgido.
+!******************************!
+[t18_335_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:94>Após ouvirem falar que mineradores
+poderiam ter deixado diários no
+subsolo, a dupla partiu rumo à mina.
+!******************************!
+[t18_340_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Layton e Luke aprenderam mais sobre a
+família Herzen graças ao museu e ao
+diário de um minerador que encontraram.
+!******************************!
+[t18_340_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:54>Esta nova informação revelou
+vários novos fatos inacreditáveis.
+!******************************!
+[t18_340_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Buscando entender mais sobre Folsense
+e sobre seu passado, Layton e Luke
+saíram à procura de pistas cidade afora.
+!******************************!
+[t18_350_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Layton e Luke aprenderam bastante sobre
+a família Herzen através do museu e do
+diário que recuperaram de um minerador.
+!******************************!
+[t18_350_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:54>Esta nova informação revelou
+vários novos fatos inacreditáveis.
+!******************************!
+[t18_350_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:102>Determinados a descobrir a verdade
+por trás da Caixa e de Folsense,
+a dupla seguiu rumo ao Castelo Herzen*.
+!******************************!
+[t18_360_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:87>Após atravessarem o portão da
+floresta, Layton e Luke chegaram
+ao Castelo Herzen.
+!******************************!
+[t18_360_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:176>Uma rápida conversa com Anton
+trouxe só poucas informações úteis
+quanto à Caixa Elisiana.<W>
+!------------------------------!
+Com a lua a brilhar no céu, Anton
+convidou o professor e o Luke
+a passarem a noite.
+!******************************!
+[t18_360_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:99>Uma vez levados a seus aposentos, os
+dois tomaram um minuto antes de se
+deitarem para examinar os arredores.
+!******************************!
+[t18_370_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:186>Enquanto dormiam, Luke e o Professor
+Layton tiveram um sonho perturbador
+com um baile fantasmagórico.<W>
+!------------------------------!
+Ao acordarem, ficaram horrorizados
+ao se verem amarrados em um
+quarto estranho e íngreme.
+!******************************!
+[t18_370_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Seu sequestrador, Anton,
+logo deixou o quarto, dando a Luke
+e Layton a chance de escaparem.
+!******************************!
+[t18_370_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Sabendo que Anton estava prestes a voltar,
+os dois partiram em busca de uma forma
+de sair do castelo assim que possível.
+!******************************!
+[t18_380_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Fugindo do interior do castelo,
+o Professor Layton e o Luke enfim
+chegaram à saída.
+!******************************!
+[t18_380_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Mas mesmo com a saída logo à frente,
+Layton decidiu que deveriam investigar
+o lugar antes de irem embora.
+!******************************!
+[t18_380_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:177>Ele estava convencido de que o
+castelo era a chave para os mistérios
+por trás de Folsense e da Caixa Elisiana.<W>
+!------------------------------!
+E com isso, Layton e Luke
+começaram uma investigação
+cuidadosa da área.
+!******************************!
+[t18_400_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:262>Combine os ingredientes que coletar
+para preparar uma variedade de
+chás deliciosos.<W>
+!------------------------------!
+Os ingredientes de chá que você
+possui no momento podem ser vistos
+nas caixas abaixo, na Tela de Toque*.<W>
+!------------------------------!
+Toque em um ingrediente para
+ver o seu nome e as propriedades
+que oferecerá ao seu chá.
+!******************************!
+[t18_400_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:289>Quando estiver pronto para preparar
+o chá, toque nos ingredientes que
+quer usar e arraste-os para dentro do bule.<W>
+!------------------------------!
+É preciso colocar três doses
+dentro do bule antes de começar
+a ferver o chá.<W>
+!------------------------------!
+Não se esqueça de que você pode
+usar múltiplas doses da mesma
+erva* em suas misturas.
+!******************************!
+[t18_400_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:323>Após colocar o seu terceiro
+ingrediente no bule, a tampa
+ao lado dele* começará a balançar.<W>
+!------------------------------!
+Coloque a tampa sobre o bule
+para começar a ferver o seu chá.<W>
+!------------------------------!
+Se sua mistura for bem-sucedida,
+será adicionada à sua lista de
+receitas de chá.<W>
+!------------------------------!
+Você pode conferir sua lista
+de receitas a qualquer hora.
+Basta tocar em #rTea Time#x.
+!******************************!
+[t18_400_400.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:300>Enquanto vê* sua lista de chás, toque em
+uma das xícaras* para ver o nome
+e as características do chá em questão.<W>
+!------------------------------!
+Quando encontrar o chá que escolheu
+servir, toque em #rServe!#x para oferecer
+uma xícara a quem estiver com sede.*<W>
+!------------------------------!
+Existem 12 receitas no total. Tente
+reunir o maior número possível delas,
+pois com certeza lhes serão úteis!
+!******************************!
+[t18_410_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:165>Toque nas peças da câmera* na parte
+de cima da Tela de Toque* para
+aumentá-las.*<W>
+!------------------------------!
+Uma vez nessa sesção, arraste a
+peça selecionada para posicioná-la
+dentro do corpo* da câmera.
+!******************************!
+[t18_410_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:430>Controle o sentido e o posicionamento
+das peças dentro da câmera com
+a stylus.<W>
+!------------------------------!
+Toque no centro de uma peça
+e arraste para movê-la.<W>
+!------------------------------!
+Para rotacionar uma peça, toque
+em uma de suas extremidades e
+arraste a stylus como um círculo.<W>
+!------------------------------!
+Para consertar a câmera, é preciso reunir
+todas as 10 peças que faltam e posicioná-las
+corretamente de modo que não sobrem espaços.<W>
+!------------------------------!
+O que acontecerá quando a câmera for
+100% consertada?<W> Isso você terá
+de descobrir por conta própria!
+!******************************!
+[t18_420_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:232>Use todos os objetos* que forem precisos
+para ajudar esse hamster preguiçoso
+a entrar em forma.<W>
+!------------------------------!
+Os objetos à sua disposição ficam
+à mostra na parte de cima da
+Tela de Toque*.<W>
+!------------------------------!
+Arraste objetos com a stylus e
+posicione-os no parquinho*
+do hamster.
+!******************************!
+[t18_420_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:406>O hamster tem sua atenção atraída
+por todos os objetos dentro de uma
+distância de três casas dele.<W>
+!------------------------------!
+Ele não reage a objetos há
+quatro casas ou mais, então pense
+bem em onde colocar os objetos.<W>
+!------------------------------!
+Toque em um objeto para conferir
+suas propriedades.<W>
+!------------------------------!
+Aproveite-se das propriedades especiais
+de cada objeto para maximizar a perda
+de calorias do hamster.<W>
+!------------------------------!
+Posicione os objetos onde quiser
+e então toque em #rExercise!#x para
+fazer o hamster começar a andar.
+!******************************!
+[t18_420_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:356>Depois que o hamster interage com
+um objeto, o mesmo desaparece do
+parquinho.<W>
+!------------------------------!
+O regime de exercícios dele termina após
+todos os objetos serem usados ou ele
+não ser capaz de achar um próximo.<W>
+!------------------------------!
+Sempre que o hamster anda o número
+de casas listado como seu objetivo,
+ele fica um pouquinho mais saudável.<W>
+!------------------------------!
+Se conseguir fazer o hamster alcançar
+sua melhor condição física, uma coisa
+boa irá acontecer!
+!******************************!
+[t18_430_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:212>Utilize a câmera para encontrar
+segredos escondidos nos vários
+locais do jogo.<W>
+!------------------------------!
+Durante seu trajeto por certas
+áreas, um ícone de câmera irá
+aparecer na tela.<W>
+!------------------------------!
+Quando isso acontecer, toque no ícone
+para tirar uma foto da área.
+
+!******************************!
+[t18_430_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:192>Para ver um álbum com todas as
+suas fotos, toque no ícone da
+Câmera na Maleta do Professor*.<W>
+!------------------------------!
+Enquanto estiver vendo o álbum,
+toque em qualquer uma das fotos para
+jogar um jogo de ache-as-diferenças* (esse jogo normalmente é conhecido aqui no Brasil como "jogo dos sete erros", mas aqui parecem ser só "três erros"...?).
+!******************************!
+[t18_430_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:604>O objetivo é achar as diferenças
+entre a foto na Tela de Toque
+e o lugar de verdade.<W>
+!------------------------------!
+O lugar de verdade fica à mostra na
+tela de cima.<W>
+!------------------------------!
+Toque em lugares que lhe pareçam suspeitos
+para marcá-los com um círculo, e depois
+toque em #rHere!#x para dar sua resposta.<W>
+!------------------------------!
+Se for a resposta certa, a área
+selecionada ficará marcada com
+um ícone.<W>
+!------------------------------!
+Cada foto tem três elementos que
+são sutilmente diferentes daqueles
+encontrados no verdadeiro local.<W>
+!------------------------------!
+Assim que encontrar as três
+diferenças de um lugar, visite a
+área onde a foto foi tirada.<W>
+!------------------------------!
+Toque no local que ficará marcado
+na foto... Quem sabe o que você
+irá encontrar?
+!******************************!
+[t18_450_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:133>Esperamos que tenha gostado de
+Professor Layton and Pandora's Box*.<W>
+!------------------------------!
+Você pode ter terminado a história,
+mas a diversão está só começando!
+!******************************!
+[t18_450_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:145>O modo história* deste jogo contém
+um total de 138 enigmas.<W>
+!------------------------------!
+Se ainda não tiver resolvido
+todos eles, tente encontrá-los e
+fazê-lo.
+!******************************!
+[t18_450_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:275>Confira também a seção de "Bonuses"*.
+Lá você poderá liberar mais conteúdo
+ao cumprir certos critérios.<W>
+!------------------------------!
+Se você liberar o bastante, pode
+até ganhar novos enigmas
+desafiadores para resolver!<W>
+!------------------------------!
+Divirta-se jogando o resto de
+Professor Layton and Pandora's Box*!
+!******************************!
+[t18_450_400.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:284>Como você chegou ao final da
+história, seu jogo será salvo.<W>
+!------------------------------!
+Ao escolher continuar o jogo, você
+voltará ao Castelo Herzen, logo
+antes da luta contra Anton.<W>
+!------------------------------!
+A partir desse ponto você estará livre
+para voltar à cidade e procurar por
+itens e enigmas que tenha deixado passar.
+!******************************!
+[t18_460_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:152>Esperamos que tenha gostado de
+Professor Layton and Pandora's Box*.<W>
+!------------------------------!
+Parece que você resolveu todos
+os enigmas do modo história do
+jogo. Meus parabéns!
+!******************************!
+[t18_460_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:190>Para mais diversão, confira a seção
+Top Secret* e os Enigmas Semanais
+na seção de Bonuses.<W>
+!------------------------------!
+Não se esqueça de explorar tudinho.
+Divirta-se e, mais uma vez,
+meus parabéns!
+!******************************!
+[t18_460_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:245>Como você chegou ao final da
+história, seu jogo será salvo.<W>
+!------------------------------!
+Ao escolher continuar o jogo, você
+voltará ao Castelo Herzen, logo
+antes da luta contra Anton.<W>
+!------------------------------!
+A partir de lá, você estará livre
+para continuar a jogar como quiser!
+!******************************!
+[t18_480_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:287>Parece que você resolveu todos
+os enigmas do modo história do
+jogo. Meus parabéns!<W>
+!------------------------------!
+Para mais diversão, confira a seção
+Top Secret* e os Enigmas Semanais
+na seção de Bonuses.<W>
+!------------------------------!
+Não se esqueça de explorar tudinho.
+Divirta-se e, mais uma vez,
+meus parabéns!
+!******************************!
+[t18_490_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:64>A Casa do Mestre do Chá* foi adicionada
+aos Desafios do Layton*.
+!******************************!
+[t18_500_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:62>A Casa do Músico* foi adicionada
+aos Desafios do Layton*.
+!******************************!
+[t18_510_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>A Casa do Amante de Animais* foi adicionada
+aos Desafios do Layton*.
+!******************************!

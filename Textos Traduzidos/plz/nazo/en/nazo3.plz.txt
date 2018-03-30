@@ -1,0 +1,3070 @@
+[n120.dat]
+<0120>Cabo de Guerra
+<00><1E><1B><18><12><40><03><78><E9><03><04><40>
+Times de cavalos estão participando em
+partidas de cabo de guerra. Todos os times
+empataram em um estábulo com oito cavalos.
+As partidas empatadas foram essas:
+
+Partida 1: A B C D vs. E F G H
+Partida 2: H C B vs. G A
+Partida 3: D A vs. F H E
+
+Se você quiser que o resultado termine
+em empate também, quais cavalos deveriam
+estar no time puxando contra E e F?
+
+Toque em um cavalo e adicione ao time.
+!******************************!
+Muito bem!
+
+Claro que outras possibilidades possam
+funcionar, mas a única certeza de que dará
+empate com essas informações é o cavalo D.
+!******************************!
+Que pena!
+
+Use os resultados das partidas anteriores
+para encontrar o time correto.
+!******************************!
+Não há necessidade para quaisquer cálculos
+complicados. Os mesmos cavalos competem
+várias vezes, e já que um empate significa
+que os times estão iguais, pense o que
+aconteceria com diferentes combinações.
+!******************************!
+Você pode pensar sobre os resultados da
+primeira e terceira partida da seguinte
+maneira:
+
+A B C D = E F G H
+D A = F H E
+
+Subtraia a equação de baixo pela de
+cima e chegará no seguinte resultado:
+
+B C = G
+!******************************!
+Pegue a informação da Dica 2 e o
+resultado da segunda partida e ponham
+juntos para deduzir o seguinte:
+
+H C B = G A
+B C = G
+
+Subtraindo um do outro dá:
+
+H = A
+
+Use isso para criar um novo time.
+!******************************!
+[n121.dat]
+<0121>Iluminando o Caminho 1
+<00><14><12><10><01><4B><1F><79><04><04><04><FF>
+Use lâmpadas para iluminar os caminhos da floresta
+escura! Para cada lâmpada, sua luz alcança até
+o fim da reta de qualquer estrada. Use o mínimo
+de lâmpadas possíveis para iluminar todos os caminhos.
+
+Então, onde as lâmpadas devem ficar?
+!******************************!
+Bom trabalho!
+
+Os caminhos eram bem assustadores, mas só
+porque estava escuro... certo?
+!******************************!
+Que pena!
+!******************************!
+O número mínimo de lâmpadas que você
+precisa é quatro.
+!******************************!
+Os caminhos diretos são mais fáceis de
+lidar porque uma lâmpada irá iluminar
+uma reta totalmente de ponta-a-ponta.
+
+O problema é as diagonais. Pense
+em como iluminar todos os caminhos
+em diagonais primeiro.
+!******************************!
+Você precisa pôr lâmpadas no fim dos
+três caminhos diagonais e a última
+lâmpada irá em um dos quatro
+cantos possíveis.
+!******************************!
+[n122.dat]
+<0122>Iluminando o Caminho 2
+<00><1E><1B><18><02><4B><1F><7A><04><04><04><FF>
+Use lâmpadas para iluminar os caminhos da floresta
+escura! Para cada lâmpada, sua luz alcança até
+o fim da reta de qualquer estrada. Use o mínimo
+de lâmpadas possíveis para iluminar todos os caminhos.
+
+Então, onde as lâmpadas devem ficar?
+!******************************!
+Bom trabalho!
+
+Os caminhos eram bem assustadores, mas só
+porque estava escuro... certo?
+!******************************!
+Que pena!
+!******************************!
+O número mínimo de lâmpadas que você
+precisa é cinco.
+!******************************!
+As estradas em diagonal precisam de três
+lâmpadas, então pense nelas primeiro. Tenha
+certeza de não bagunçar o posicionamento
+das lâmpadas que iluminam os caminhos
+horizontais e verticais.
+!******************************!
+As duas lâmpadas não usadas para
+iluminar as diagonais irão em uma
+das bifurcações em T e cantos.
+!******************************!
+[n123.dat]
+<0123>Iluminando o Caminho 3
+<00><28><24><20><02><4C><1F><7B><04><04><04><FF>
+Use lâmpadas para iluminar os caminhos da floresta
+escura! Para cada lâmpada, sua luz alcança até
+o fim da reta de qualquer estrada. Use o mínimo
+de lâmpadas possíveis para iluminar todos os caminhos.
+
+Então, onde as lâmpadas devem ficar?
+!******************************!
+Bom trabalho!
+
+Os caminhos eram bem assustadores, mas só
+porque estava escuro... certo?
+!******************************!
+Que pena!
+!******************************!
+O número mínimo de lâmpadas que você
+precisa é cinco.
+!******************************!
+Há seis caminhos horizontais e seis
+verticais, então você sabe que precisa
+de pelo menos seis lâmpadas para
+iluminá-los. Use como seu ponto inicial.
+!******************************!
+O canto superior direito definitivamente
+precisa de uma lâmpada.
+!******************************!
+[n124.dat]
+<0124>OVNIs Avistados!
+<00><1E><14><0A><12><31><02><7C><E8><03><04><FF>
+Quatro OVNIs foram avistados no céu à noite!
+
+Parece como se fossem quatro formas distintas
+flutuando no céu, mas cada uma delas é
+na verdade feita de quatro partes idênticas.
+
+Quais das formas seguntes foi a base
+feita para criar todas essas formas?
+!******************************!
+Está certo!
+
+É a C. Então significa que não haviam
+quatro OVNIs no céu à noite afinal...
+Haviam 16!
+
+Que pertubador.
+!******************************!
+Que pena!
+
+Usar a Função Memo poderá te ajudar
+em fazer esse enigma funcionar.
+!******************************!
+Use a Função Memo para tentar criar
+os OVNIs usando cada parte possível.
+!******************************!
+Tente fazer o OVNI da direita com
+cada uma das partes. É um bom
+lugar pra começar.
+!******************************!
+Cada OVNI possui um certo tipo de simetria.
+!******************************!
+[n125.dat]
+<0125>Cogumelos na Floresta
+<00><32><2D><28><12><4C><0F><7D><F5><03><04><FF>
+Colete todos os cogumelos nesta floresta
+enquanto caminha. Cada área circular do
+mapa contém cogumelos.
+
+Você não vai querer passar muito tempo
+nesta floresta assustadora, então encontre
+a rota mais rápida que visita cada área
+apenas uma vez.
+!******************************!
+Cogumelástico!
+
+Você claramente percebeu que não se
+precisa usar cada caminho.
+!******************************!
+Que pena!
+
+Veja novamente pra ter certeza
+de que você não perdeu algo.
+!******************************!
+Comece pela direita!
+!******************************!
+Alcance a saída pela direita.
+!******************************!
+Não desista!
+
+As dicas 1 e 2 devem ter encurtado
+o curso pra você significantemente. 
+
+Além disso, não se precisa usar cada caminho.
+!******************************!
+[n126.dat]
+<0126>Caminhada Escorregadia 1
+<00><14><12><10><11><4D><1B><7E><01><04><04><FF>
+O lago na frente do professor está
+congelado. O gelo é grosso o bastante para
+fica em cima, mas tão escorregadio que
+andar em qualquer direção fará ele
+deslizar incontrolavelmente naquela direção
+até acertar uma parede. Enquanto ele estiver
+parado, você pode mudar a direção do
+professor tocando nas setas ao redor dele.
+
+Você conseguirá guiar o professor por esse
+lago escorregadio até o objetivo?
+
+!******************************!
+Nossa!
+
+Essa passou escorregando!
+
+Mas você não pode parar agora!
+!******************************!
+Que pena!
+!******************************!
+Quando bater na primeira parede, vá pra direita!
+!******************************!
+Após ir pra direita como descrito na
+Dica 1, irá bater em outra parede. Não
+tente ir para o objetivo por lá.
+!******************************!
+Para alcançar o objetivo, deve primeiro
+parar numa posição diretamente abaixo dele.
+
+Há duas paredes pequenas alinhando o
+caminho que leva direto ao objetivo.
+Leve o professor num curso que vá
+direto ao lado mais ao leste dessas
+duas paredes. 
+!******************************!
+[n127.dat]
+<0127>Caminhada Escorregadia 2
+<00><1E><1B><18><12><4D><1B><7F><01><04><04><FF>
+O lago na frente do professor está
+congelado. O gelo é grosso o bastante para
+fica em cima, mas tão escorregadio que
+andar em qualquer direção fará ele
+deslizar incontrolavelmente naquela direção
+até acertar uma parede. Enquanto ele estiver
+parado, você pode mudar a direção do
+professor tocando nas setas ao redor dele.
+
+Você conseguirá guiar o professor por esse
+lago escorregadio até o objetivo?
+
+!******************************!
+Você conseguiu!
+
+Acha que você está pegando o jeito desses
+enigmas? Apenas lembre-se, se você tiver
+que atravessar um lago congelado na vida real,
+tenha certeza de passar longe disso. É perigoso!
+!******************************!
+Que pena!
+!******************************!
+Na primeira parede que acertar, vá pra esquerda.
+!******************************!
+Seu próximo movimento deve ser em
+direção ao topo da tela.
+!******************************!
+Não fique impaciente quando estiver
+patinando por aí. Deve demorar o
+equivalente de duas voltas ao redor
+do lago pra chegar aonde precisa.
+!******************************!
+[n128.dat]
+<0128>Caminhada Escorregadia 3
+<00><28><24><20><11><4D><1B><80><01><04><04><FF>
+O lago na frente do professor está
+congelado. O gelo é grosso o bastante para
+fica em cima, mas tão escorregadio que
+andar em qualquer direção fará ele
+deslizar incontrolavelmente naquela direção
+até acertar uma parede. Enquanto ele estiver
+parado, você pode mudar a direção do
+professor tocando nas setas ao redor dele.
+
+Você conseguirá guiar o professor por esse
+lago escorregadio até o objetivo?
+
+!******************************!
+Excelente!
+
+Esteja contente que o professor não seja um
+patinador de gelo profissional. Tudo bem,
+seria mais fácil ele ter dado a volta no lago,
+mas você ficaria sem enigma por causa disso.
+!******************************!
+Que pena!
+!******************************!
+Pegue a direita na primeira parede
+que você se chocará.
+!******************************!
+O número de paredes pode fazer esse
+enigma bem ameaçador, mas pense assim:
+o quão maior o número de barreiras
+no seu caminho, mais opções você
+terá para trabalhar.
+
+Sempre pense além de sua posição
+atual no gelo para diminuir o número
+de possibilidades.
+!******************************!
+Para conseguir alcançar o objetivo, você
+deve parar numa posição diretamente abaixo.
+
+Mas considerando a natureza complicada
+do curso, você terá mais sorte começando
+pelo objetivo e pensando no caminho de
+trás pra frente. Faça isso, e em breve
+verá que você precisa posicionar o
+professor três espaços abaixo do
+objetivo em ordem de alcançá-lo!
+!******************************!
+[n129.dat]
+<0129>A Toupeira Desleixada
+<00><28><24><20><11><3D><05><81><EB><03><04><FF>
+Em um canto da floresta vive uma toupeira
+desleixada bem peculiar. Sua toca está tão
+cheia de lixo que ele finalmente quis arrumar.
+Entretanto, por ser preguiçoso, ele decide
+limpar o lugar enquanto faz a mínima
+quantidade de trabalho possível.
+Para poder pegar todo o lixo em sua toca
+sem passar por nenhum dos túneis duas
+vezes, por qual dos buracos de A até G
+a toupeira deveria começar a limpar?
+Embora passar por qualquer túnel duas
+vezes é proibido, ela pode passar por
+qualquer junção entre túneis quantas
+vezes ele quiser.
+!******************************!
+Bom trabalho!
+
+Nosso amiga preguiçosa deveria começar sua
+limpeza pelo buraco C. Começar sua faxina
+por qualquer outro buraco irá causá-la
+ir em algum outro túnel pelo menos mais
+de uma vez até terminar o trabalho.
+!******************************!
+Que pena!
+
+Se você começar por esse buraco, a
+toupeira terá que passar por algum
+túnel duas ou mais vezes.
+
+E ela não sente vontade de fazer isso.
+!******************************!
+Use a Função Memo para traçar caminhos
+potenciais que a toupeira pode seguir.
+!******************************!
+Você viu a junção de três caminhos bem
+acima do buraco F? Lá é onde a toupeira irá
+parar quando ela pegar o último pedaço
+de lixo. Encontre um curso que a fará
+concluir sua limpeza nesta última
+localização.
+!******************************!
+Procure por um buraco que leva para
+um número estranho de rotas separadas.
+!******************************!
+[n130.dat]
+<0130>A Pintura Estranha
+<00><1E><1B><18><12><56><05><82><EB><03><04><FF>
+O casal nessa obra parece estar dançando
+em pleno ar, voando impossivelmente próximo
+do candelabro. Mas, quando visto corretamente,
+não há nada realmente de estranho sobre a
+pintura. Se você olhar mais de perto, uma
+área peculiar da pintura entrega a razão
+da imagem ser tão estranha.
+
+Encontre essa área peculiar e circule-a
+para aprender a verdade.
+!******************************!
+Boa visão!
+
+O casal parece ser as únicas duas pessoas
+com o reflexo visível no chão.
+Parece que a cena dessa pintura não é
+do baile em si, mas sim do reflexo do
+chão do salão de baile!
+
+Talvez os dois jovens pareciam tão
+felizes juntos que o pintor não
+queria arruinar a dança encarando
+diretamente a eles.
+!******************************!
+Que pena!
+
+Certamente é difícil de ver o que parece
+ser de peculiar sobre esta cena bonita.
+!******************************!
+Muitas coisas sobre a pintura estão
+um pouco sem nexo, mas qual pequeno
+detalhe parece o mais incomum à você?
+!******************************!
+Inspecione rigorosamente o casal
+no centro da imagem. A resposta está
+lá em algum lugar.
+!******************************!
+O casal parece estar dançando no ar,
+então naturalmente você deve estar
+curioso sobre o que tem abaixo deles.
+
+Olhe nos pés deles. Há algo estranho
+acontecendo onde os dois pés
+encontram o chão...
+
+Conseguiu ver?
+!******************************!
+[n131.dat]
+<0131>Como Fugir?
+<00><28><24><20><11><54><03><83><E9><03><04><FF>
+Um homem está sentado e amarrado por uma corda
+comprida entre várias estacas. Embora ele
+não tem esperança de desatar o nó, ainda pode
+mexer as pernas. Caso ele se levantar e fugir,
+a longa tilha de corda talvez poderá se
+prender em pelo menos uma das estacas.
+
+Ele precisará usar suas pernas para puxar
+qualquer estaca em que a corda poderá se
+prender antes que ele possa fugir. Toque nas
+estacas para marcá-las com um X.
+
+!******************************!
+Você conseguiu!
+
+Marque a área circulada pela corda e
+de repente esse enigma ficará mais fácil.
+Só há uma estaca que precisa ser removida
+para o homem fazer a sua fuga.
+É melhor ele correr e soltar logo
+essa estaca!
+!******************************!
+Que pena!
+
+Realmente tente estudar como a corda
+está enrolada entre as estacas.
+!******************************!
+Sua melhor aposta aqui é ver como
+a corda está enrolada ao redor das
+estacas. Tente usar a Função Memo
+para traçar um caminho em que a
+corda passa.
+!******************************!
+O homem precisa remover apenas uma
+única estaca para conseguir escapar.
+!******************************!
+Os dois caminhos da corda que saem da
+frente do homem formam um laço gigante.
+Pense quais estacas estão localizadas
+dentro do laço e quais estão fora
+do laço.
+
+Todas as estacas da metade da esquerda
+da imagem parecem que provavelmente
+podem ficar do jeito que está.
+
+!******************************!
+[n132.dat]
+<0132>Dividindo Pinturas
+<00><28><24><20><71><51><02><84><E8><03><04><FF>
+Dois irmãos herdaram cinco obras de arte da
+coleção de seus pais. De acordo com o
+testamento, o mais velho irá receber uma
+quantidade de pinturas que valem o dobro
+do irmão mais novo. Para terem certeza sobre
+o valor das pinturas, os irmãos chamaram
+um avaliador, que avaliou cada pintura como
+demonstrado abaixo. Para seus serviços, foi
+prometido ao avaliador uma pintura que restar
+após os irmãos dividirem as obras de acordo
+com o desejo dos pais deles.
+
+Assumindo que as pinturas em si não podem
+ser divididas, qual o avaliador terá?
+!******************************!
+Está certo!
+
+O avaliador conseguirá a pintura E.
+
+O irmão mais velho herdará as pinturas A, C
+e D, que juntas valem <po>120,000 no total.
+O irmão mais jovem terá uma única pintura
+que vale <po>60,000, metade do que seu irmão
+conseguirá.
+
+No final, o avaliador levará pra casa
+a pintura mais cara de todas. Nossa, isso
+foi bem conveniente!
+
+!******************************!
+Que pena!
+
+Talvez você deveria pensar nos
+cálculos mais uma vez.
+!******************************!
+O avaliador será bem renumerado pelo
+seu trabalho.
+!******************************!
+Nenhuma das pinturas que o irmão mais
+velho conseguirá valerá mais que
+qualquer pintura que o caçula receber.
+!******************************!
+O irmão mais velho herdará três
+pinturas e o mais novo herdará
+uma só pintura.
+
+!******************************!
+[n133.dat]
+<0136>A Porta Escondida
+<00><28><24><20><11><53><17><85><FD><03><04><FF>
+<''>Dizendo sobre as portas,
+marcadas e nada tortas,
+
+um caminho irá aparecer,
+marcante e claro de ver,
+
+feito de estrelas brilhantes,
+cada uma apenas em um quadrante.<''>
+
+Essas frases foram ditas para apontar
+o caminho para a porta escondida. Marque
+onde você acha que a porta está escondida.
+!******************************!
+Excelente!
+
+Os quadrados com estrelas contidas
+unicamente dentro delas foram uma
+seta que aponta para a porta escondida!
+!******************************!
+Que pena!
+
+Pense sobre exatamente o que o
+ditado disse que você fazer.
+!******************************!
+<''>Dizendo sobre as portas,
+marcadas e nada tortas,<''>
+
+As portas em questão estão localizadas
+na porção inferior direita da imagem.
+
+Mas o que exatamente se deve fazer
+por lá?
+!******************************!
+<''>...um caminho irá aparecer,
+marcante e claro de ver,
+
+feito de estrelas brilhantes,
+cada uma apenas em um quadrante.<''>
+
+Para simplificar esse trecho, as estrelas
+no chão que estão completamente isoladas
+em quadrados individuais irão te
+guiar para a porta escondida.
+!******************************!
+Se você marcar todos os quadrados
+que possuem uma única estrela, irão
+formar uma seta no chão.
+
+O quadrado que essa seta aponta é
+a localização da porta escondida.
+!******************************!
+[n134.dat]
+<0134>Poder do Vapor
+<00><28><24><20><12><57><03><86><54><04><04><FF>
+Quais válvulas você precisa abrir para
+enviar vapor da caldeira para a área 2,
+mas não para 1 ou 3?
+
+Todas as válvulas começam fechadas.
+Responda usando a solução que pede o
+menor número de válvulas abertas.
+Toque numa válvula para abrir ou fechá-la.
+!******************************!
+Muito bem!
+
+Você só precisa abrir três válvulas para
+direcionar o vapor para o 2 e não 3 ou 1.
+!******************************!
+Que pena!
+
+Tem certeza de que um pouco do vapor não
+foi para as áreas 1 ou 3?
+!******************************!
+Porções de canos conectados com o 2
+também vão para 1 e 3. Tenha certeza de
+que você não abra nenhuma das válvulas
+que levam vapor para essas outras áreas.
+!******************************!
+Na solução, o vapor vem do cano
+central que existe na caldeira.
+!******************************!
+A solução para esse enigma pede que
+você abra três válvulas. Na primeira
+bifurcação dos canos, vá para cima.
+!******************************!
+[n135.dat]
+<0137>One True Sword
+<00><32><28><1E><11><51><05><87><EB><03><04><FF>
+<''>A true warrior always keeps his blade in
+hand.<''>
+
+These are Anton's last words to Professor
+Layton before the start of their duel.
+Can you find the one real sword among
+Anton's collection?
+
+Circle your selection to draw your
+weapon of choice!
+!******************************!
+Nicely done!
+
+<''>A true warrior always keeps his 
+blade in hand.<''>
+
+Anton's words were a subtle hint that all
+the swords on the wall were for show.
+The only real sword is the one sitting
+in the hand of the suit of armour! 
+!******************************!
+Too bad!
+
+Anton's words are a hint to you. 
+Think about what they suggest!
+!******************************!
+Can you picture the professor using a
+curved sword? It doesn't really seem to
+fit his style, does it?
+!******************************!
+Intricately decorated swords are too
+ornate to be of much practical use.
+!******************************!
+No sword on the wall could belong to a
+true warrior. After all, a blade on the
+wall can't be considered <''>in hand<''>.
+Study the picture. Does anyone in the
+picture have a sword <''>in hand<''>?
+
+Perhaps one of those suits of armour
+knows the answer...
+!******************************!
+[n136.dat]
+<0139>Coast to Coast
+<00><46><3F><38><72><01><16><88><F6><03><02><FF>
+A woman boards a non-stop flight leaving Los
+Angeles at 12:00 and arrives in New York at
+20:00. The next day, the same woman leaves
+New York at 12:00 and flies back to Los
+Angeles. The flight is unaffected by jet
+streams and takes the same amount of time
+to reach its destination as it did the
+previous day. The time difference means it
+is always three hours later in New York
+than in Los Angeles. Can you work out what
+time the plane arrives back in Los Angeles?
+#rGive your answer in 24-hour notation.#x
+!******************************!
+Good job!
+
+The plane arrives back in Los Angeles at
+14:00.
+
+Due to the three-hour time difference,
+when it's 12:00 in Los Angeles, it's 15:00
+in New York. The plane gets into New York at
+20:00, so the duration of the flight must be
+five hours. The flight back to Los Angeles
+also takes five hours, meaning that it
+arrived at 17:00 New York time. Factor in
+the time difference to get the plane's
+arrival in Los Angeles: 14:00.
+!******************************!
+Too bad!
+
+Factoring in that bothersome time
+difference can be tricky, but as long as
+you remember to account for it, you'll
+arrive at the correct answer without too
+much work.
+!******************************!
+Think about the rotation of the Earth.
+The time in locations farther to the
+east is ahead of that of more western
+locales.
+
+Therefore, given a three-hour time
+difference, when it's 12:00 in
+Los Angeles, it must be 15:00 in New York.
+!******************************!
+Taking into account the time difference,
+the plane left Los Angeles at 15:00
+New York time and landed at 20:00.
+Therefore, the flight itself must have
+taken five hours.
+!******************************!
+The time difference has the reverse
+effect on the flight returning to Los
+Angeles.
+
+If the plane to Los Angeles left New
+York at noon New York time, you could
+also say it left New York at 09:00
+Los Angeles time.
+!******************************!
+[n137.dat]
+<0140>One Extra Block
+<00><46><3F><38><11><01><02><89><E8><03><02><FF>
+The diagram below shows a structure made
+of 28 blocks. Of these blocks, 27 form a
+perfect cube, with the remaining block
+sitting on top poking out above the rest.
+
+Below this diagram sit those same 28 blocks,
+but this time the cube has been separated
+into five chunks. Can you work out which
+of the chunks, A to E, contains the single
+block that sat on top of all the others?
+
+Assume that all five chunks fit together
+as shown and can't be rotated from their
+current orientation.
+!******************************!
+Good eye!
+
+B contains the 28th block.
+
+Were you able to visualise all five pieces
+reforming the original structure?
+!******************************!
+Too bad!
+
+Imagine combining all the chunks of the
+structure in your head.
+!******************************!
+If the top block on chunk D were the
+block you're searching for, then the
+block on the bottom-left corner would
+stick out of the cube. D must not be
+the correct answer.
+
+Remember, each chunk is locked in its
+current orientation and can't be
+rotated.
+!******************************!
+If the block you seek was at the top of
+C, then D would be forced out of the
+structure when all the chunks were 
+put back together.
+
+Chunk C must not be the answer either.
+!******************************!
+Chunk D forms a part of the front-left
+side of the large cube. Use that
+information to start reconstructing the
+structure in your head.
+
+As the pieces come together, the answer
+should become clear.
+!******************************!
+[n138.dat]
+<0141>Disappearing Act 6
+<00><63><58><4D><01><01><1D><8A><02><04><02><FF>
+Just as before, you can move any ball on
+the board below as long as it satisfies
+the following conditions:
+<->To move, jump your selected ball over an
+adjacent space occupied by another ball
+into an empty space on the other side.
+You can't jump diagonally.
+<->Once you've made the jump, the ball you
+jumped over disappears from the board.
+<->To complete the puzzle, you must remove all
+balls from the board except for one.
+
+OK, enough rules. Start getting rid of those
+balls!
+!******************************!
+Masterfully done!
+!******************************!
+Too bad!
+!******************************!
+You have quite a few balls to get rid
+of, so you'll have to do a lot of jumping.
+Just make sure you aren't choosing your
+moves at random, or you'll end up getting
+stuck before you can finish.
+
+Plan out your jumps so that you never
+leave any balls out away from the group
+where you won't be able to reach them
+later.
+!******************************!
+As you reduce the number of balls on
+the board, those remaining take on a
+configuration that you've previously
+solved.
+
+If you've made it this far, this puzzle is
+in the bag for you.
+!******************************!
+Sorry, there are no more hints to be had
+for this puzzle.
+
+You may have heard that proper
+solitaire players don't consider these
+puzzles complete unless the remaining
+ball ends up in the centre space. One
+step at a time, though. Let's finish this
+puzzle first.
+!******************************!
+[n139.dat]
+<0142>The Scholar's Life
+<00><3C><36><30><12><01><16><8B><F6><03><03><FF>
+The following words are written on a famous
+mathematician's grave.
+
+<''>Following the 1/6th of my life I spent as a
+child, I spent 1/12th of my life as a young
+man. Then, 1/7th of my life later, I got
+married. Five years after I was wed, I was
+blessed with a child, but sadly, he only lived
+half the time I was alive before passing
+away. Today, four years after his death, I
+too will depart from this world.<''>
+
+Can you work out how many years the
+mathematician lived?
+!******************************!
+Very nice!
+
+The mathematician was alive for 84 years.
+Setting up a linear equation, as shown
+above, makes short work of this puzzle.
+
+Interestingly enough, a puzzle very similar
+to the one you just solved is said to be
+written upon the headstone of the grave of
+Diophantus, a famous ancient Greek
+mathematician.
+!******************************!
+Too bad!
+
+This puzzle takes some brainpower, but
+keep at it.
+!******************************!
+Try setting up a linear equation where
+this mathematician's life in years
+equals x.
+!******************************!
+Would you rather not use hard maths to
+solve this puzzle? Have no fear, you
+can also solve this problem without
+using a linear equation.
+
+By adding together 1/6, 1/12, 1/7 and
+1/2 of this man's life, you can express
+the length of the mathematician's life
+as fractions, minus the parts that were
+five and four years long. You can find
+the answer using only this information.
+!******************************!
+The lowest common denominator of 1/2,
+1/6, 1/7 and 1/12 seems to be the same
+as the length of the mathematician's life
+expressed in years.
+!******************************!
+[n140.dat]
+<0143>Letter Calculations
+<00><3C><36><30><12><01><1A><8C><00><04><03><FF>
+If you take the problem 11 x 11 = 121 and
+replace the 1s with As and the 2s with Bs,
+you get AA x AA = ABA.
+
+A similarly-generated letter equation would
+be AA x AA = BBCC. Can you work out what A,
+B and C equal in the above equation? The
+values of A and B may or may not have
+changed from the first example.
+!******************************!
+Sharp thinking!
+
+88 x 88 = 7744
+
+The numbers work out perfectly if you
+assign A a value of 8, B a value of 7 and
+C a value of 4.
+
+This equation may seem daunting at first,
+but if you bear in mind that the
+potential values of A are limited,
+everything starts coming together
+
+!******************************!
+Too bad!
+
+Try running through your calculations
+one more time.
+!******************************!
+Each letter is represented by a single-
+digit,  so the possibilities for
+each letter represents are fairly
+limited.
+!******************************!
+If you start by replacing A with 1 and
+work your way through all the other
+possible digits for A, you'll find your
+answer before long. What's more, if you
+use a calculator, trying out every
+possibility will take only a minute or two.
+
+But if you can, try to solve it just
+using your head.
+!******************************!
+Try substituting each digit for A and
+working your way up, as detailed in
+Hint 2. You'll find the answer in the
+last half of your search. 
+!******************************!
+[n141.dat]
+<0144>Super Pancakes
+<00><63><58><4D><02><01><0D><05><F3><03><03><FF>
+Here's a tasty puzzle for you.
+
+Can you move the pile of pancakes from the
+blue plate on the left to the red plate on
+the right? Wait, though, it's not as easy as
+it sounds. You must follow these rules:
+
+<->You can only move one pancake at a time.
+<->You cannot place a pancake on top of
+another one that is smaller than itself.
+
+You can use the middle plate and move
+the pancakes as many times as you like.
+!******************************!
+Scrumptious!
+
+You gave your stylus quite the workout!
+!******************************!
+Too bad!
+!******************************!
+The method for solving pancake puzzles
+has been described in many other hints.
+
+Move the smallest pancake over to the
+middle plate, then move the next smallest
+pancake to the red plate. Next, stack
+the smallest pancake on top of the one
+on the right. Now take a new, slightly
+larger pancake from the stack on the
+left and move it onto the open middle
+plate. Read more on what to do next in
+Hint 2.
+!******************************!
+From where Hint 1 left off, put the
+smallest pancake on the pancake sitting
+on the middle plate. Next, move the
+pancake on the red plate over to the 
+stack on the left. Now bring the smallest
+pancake you have over to sit on top of
+the stack of pancakes on the left plate.
+
+You can solve this puzzle by repeating
+the process outlined in Hints 1 and 2
+while introducing bigger and bigger
+pancakes, but it's not very efficient.
+!******************************!
+Aim to limit the number of moves you
+make to keep yourself from getting
+confused along the way. 
+!******************************!
+[n142.dat]
+<0145>500 Pearls
+<00><46><3F><38><12><01><16><8E><F6><03><02><FF>
+A wizard sets a traveller a strange task.
+
+<''>There are 500 pearls in that cave. I want
+you to go and bring a certain number of
+pearls to me. This number allows you to
+divide the pearls into groups of 2, 3, 4, 5,
+6 or 7 and always have one pearl left over.
+Bring me this number of pearls and you can
+keep them all for yourself!<''>
+
+The traveller tries his best, but the number
+of pearls he brings back doesn't leave one
+pearl over when divided into groups of 4.
+How many pearls did he bring to the wizard?
+!******************************!
+Brilliant!
+The answer is 211 pearls. The traveller's
+number must be between 1 and 500, and
+one more than a number that is divisible
+by 2, 3, 5, 6 and 7. The quickest way
+to find this number is to make a list
+of multiples of 7 up to the limit of 500,
+then see if those numbers are also divisible
+by the other numbers. This takes quite some
+time unless you realise that any number
+divisible by 6 is also divisible by 2 and 3,
+so you really only have to compare your
+multiples of 7 against 6 and 5. If only the
+traveller had brought back 421 pearls...
+!******************************!
+Too bad!
+
+This puzzle may seem like a pain to solve,
+but if you take the time to calculate
+everything, there's really nothing
+difficult about it. There are also ways
+to reduce the amount of calculation you
+need to do.
+!******************************!
+Let's reduce the wizard's original
+question a little. If there is always one
+pearl left over when dividing the total
+number by the numbers 2 to 7, then the
+traveller is being asked to find a number
+that can be neatly divided by those
+numbers, and then add one to the total.
+
+Don't forget that his answer fails to
+take into account the number 4.
+!******************************!
+The traveller's number must be one more
+than a number that can be divided by 2,
+3, 5, 6 and 7. This means the number you
+want to add one to is a multiple of all
+these numbers. Finding it sounds hard,
+but there are ways to make it easier.
+The largest number, 7, will have the
+fewest multiples in the range 1 to 500,
+so you should start working out
+multiples of 7 in that range and then
+see which of those are divisible by the
+other numbers.
+!******************************!
+If you're still finding it too
+time-consuming to find common multiples
+for the numbers on the list, here's
+a little trick.
+
+Any number that is a multiple of 6
+is also a multiple of 2 and 3.
+!******************************!
+[n143.dat]
+<0146>Angles in a Box
+<00><46><3F><38><12><01><16><8F><F6><03><02><FF>
+On the diagram below, A, B and C indicate the
+centre point of three edges of the cube.
+These points are connected by lines.
+
+How many degrees is the internal angle ABC
+at the point where lines AB and BC meet?
+!******************************!
+Good job!
+
+The answer is 120 degrees.
+
+If you continued to connect the middle
+points of the edges in this way, you would
+draw a regular hexagon. And the internal
+angles in regular hexagons are always
+120 degrees!
+
+!******************************!
+Too bad!
+
+This puzzle is more about visualisation
+than calculation.
+!******************************!
+There's no need to do any complicated
+calculations. Visualisation is the
+important part.
+
+The three points are each on the centre
+points of the edges of a regular cube.
+!******************************!
+The three points are each the centre
+point of a regular cube's edge. Think
+about the other centre points. What
+would happen if you continued
+connecting centre points in this
+fashion?
+!******************************!
+Think about the regular geometric
+figures you could create that include
+points A, B and C.
+
+You could create a regular hexagon,
+couldn't you?
+!******************************!
+[n144.dat]
+<0147>Sliding Labyrinth
+<00><50><48><40><12><01><19><90><FF><03><02><FF>
+This map depicts an underground labyrinth,
+but it's all scrambled, so it's up to you to
+put it in the proper order again.
+
+Tunnel segments of each piece must meet up
+with tunnel edges of adjoining pieces. The
+only times tunnel segments can lead
+outwards without touching other segments
+are when they're the entry and exit points.
+Tunnels can't dead-end at walls otherwise.
+
+Slide the pieces around and see if you can
+solve the puzzle!
+!******************************!
+Very nice!
+
+Seeing which pieces connect to others is
+easy, but getting them all into place
+can be tough.
+!******************************!
+Too bad!
+!******************************!
+Just moving pieces around randomly
+probably won't help much. Think about
+the position of pieces on the grid as
+dictated by where their tunnel
+segments are placed.
+!******************************!
+The piece connected to the entry point
+is the straight horizontal tunnel.
+
+Leave the bottom-right square on the
+map open.
+!******************************!
+The pool is below the entry point.
+
+The crossroads goes in the centre of
+the map.
+!******************************!
+[n145.dat]
+<0148>Eight Cards
+<00><46><3F><38><12><01><1A><91><00><04><04><FF>
+These cards, numbered 1 to 8, can be used
+to make two multiplication equations. One
+is given here, but can you work out the
+second one?
+!******************************!
+Well done!
+
+The answer is 582 x 3 = 1746.
+!******************************!
+Too bad!
+
+Perhaps you made a calculation error?
+!******************************!
+The number on the right of the equation
+has four digits, the first of which is 1.
+!******************************!
+The last digit in the answer is 6.
+!******************************!
+The single-digit multiplier is 3.
+!******************************!
+[n146.dat]
+<0149>Number Cycle
+<00><46><3F><38><12><01><16><92><F6><03><04><FF>
+There's a pattern to this cycle of numbers.
+What number should go in place of the
+question mark?
+!******************************!
+That's right!
+
+It's 89. Square each digit in a number and
+then add these values together to find the
+next number in the cycle.
+!******************************!
+Too bad!
+
+What do you think the pattern is?
+!******************************!
+Try treating each digit of a number as
+a separate entity.
+!******************************!
+Try to find a rule that uses the digits
+from one number to create the next
+number in the cycle.
+!******************************!
+Try squaring the individual digits of
+each number first.
+!******************************!
+[n147.dat]
+<0150>The Knight's Tour 4
+<00><63><51><48><02><01><11><93><F7><03><04><FF>
+Lead the knight on a trip around the board.
+
+Chess knights move two squares forwards
+and one square perpendicular on each turn.
+The initial direction can be up, down, left
+or right.
+
+Move this knight around the entire board,
+landing on each square only once. 
+
+!******************************!
+Wonderful!
+!******************************!
+Too bad!
+!******************************!
+This board is 8 x 8, just like an ordinary
+chessboard. That means this puzzle is
+just like the original Knight's Tour.
+
+There are no hints to be had here!
+Just work it out on your own.
+!******************************!
+The Knight's Tour usually involves
+returning the knight to the starting
+space at the end of the tour. If you're
+trying to accomplish this, then choosing
+the correct starting space is very
+important. Why not use the Memo
+Function to help you?
+!******************************!
+There are many avid chess researchers
+in Europe and the US who write detailed
+papers with elegant solutions to chess
+puzzles. Looking through resources like
+these is one more way of enjoying chess
+puzzles.
+!******************************!
+[n148.dat]
+<0151>John's Score
+<00><63><58><4D><72><01><16><94><F6><03><01><FF>
+Four students took a test where every
+question had two possible answers, A or B.
+Each question was worth 10 points, for a
+total of 100 points.
+
+The students' test results were posted as
+seen below, but the teacher forgot about
+John's score. John was heading to the
+teacher's office when Mary called him back,
+saying they can determine his score using
+the results from the other tests. Can you
+work out John's score?
+!******************************!
+A+!
+
+An A+ for you, that is. Unfortunately for
+John, his score was 60 points.
+
+Based on the results from the three scored
+tests, you could come up with four possible
+answer keys as shown. No matter which one
+you use, John's score is 60!
+!******************************!
+Too bad!
+
+You need to narrow down the conditions.
+This puzzle's a tough one.
+!******************************!
+To solve this puzzle, you'll need to work
+out what are the correct answers to
+the 10 questions. The easiest way to do
+this is to create a chart showing the
+potential correct answer for each
+question, compare it to the test results
+and adjust it so that it matches 
+each person's score. Since Mary got
+seven questions right, her answers
+should be the starting point for your
+answer key. Pay attention to where her
+answers differ from everyone else's.
+!******************************!
+Are you finding it hard to find the
+correct answers? Using some common
+sense can give you a head-start. If all
+four students answered a question in
+the same way it's quite likely that
+it's the correct answer, isn't it?
+!******************************!
+You'll have noticed that all four people
+agreed on an answer for four questions.
+They can't all be correct, though, since
+Lisa only got 30 points. Let's assume
+that three of them are correct, then...
+!******************************!
+[n149.dat]
+<0152>The Card Tournament
+<00><50><48><40><12><01><16><95><F6><03><01><FF>
+Some people meet for a round-robin card
+tournament, where every player plays one
+hand against every other player. Monty has
+to leave after only a few hands, missing the
+remainder of the tournament. A total of 59
+hands are played at the tournament. How
+many hands did Monty play before leaving?
+
+The card game in question is a two-player
+game, and no person played with the same
+opponent more than once. No one missed any
+hands besides Monty.
+!******************************!
+Good job!
+Monty played four hands. First, you need
+to find the total number of hands if
+everyone stayed. You can find it with an
+equation like the one here. If there were 11
+people, there would've been 55 hands, and
+if there were 12 people, there would've been
+66. Since we know 59 hands were played,
+there must have been 12 people at the
+start. When we subtract the 59 hands
+played from the 66 ideal, we learn that
+Monty missed seven hands. Since everyone
+would've played 11 hands ideally, that means
+Monty only played four hands.
+!******************************!
+Too bad!
+
+This is a calculation problem, but it does
+take some ingenuity to solve.
+!******************************!
+Create an equation with the number of
+people and the number of hands played
+as variables. That would be a good place
+to start.
+!******************************!
+In order to create the equation for
+the number of hands, you would need to
+multiply the number of players by the
+number of players minus one, then divide
+this product by two. If there were three
+people, there would have been three
+hands. If there were four people, there
+would have been six hands. You can
+assume from the conditions given that
+if no one left, the minimum number of
+hands would still have to be at least 60.
+!******************************!
+There were 12 people at the tournament.
+Now think it through!
+!******************************!
+[n150.dat]
+<0153>Ultimate Escape
+<00><63><58><4D><02><01><19><96><FF><03><01><FF>
+This last puzzle is an escape game where
+you need to move the pink gem to the
+circle outline at the bottom.
+
+This one is especially devious, as it
+features some very unusually-shaped
+blocks. 
+
+Give it a go!
+!******************************!
+Wonderful!
+
+If you completed this puzzle in 78 moves,
+you can consider yourself a true escape
+master!
+
+
+!******************************!
+Too bad!
+!******************************!
+There is no easy-to-find solution for
+this puzzle. You just have to find ways
+to fit the blocks together and open up a
+little bit of space at a time.
+!******************************!
+You can't move the gem out of its alcove
+at first. You should focus initially on
+making room so that the gem can come
+out. Here's one small hint: move the
+yellow vertical bar to the top half of
+the puzzle.
+!******************************!
+Here's your last hint. You never have
+to move the cross-shaped piece any
+farther right than the centre of the
+puzzle. In other words, the gem has to
+move clockwise through the puzzle. 
+
+Stick with it!
+!******************************!
+[n151.dat]
+<0154>
+<00><00><00><00><12><01><16><97><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n152.dat]
+<0155>Sweeping Up
+<00><00><00><00><12><01><19><15><4D><04><02><FF>
+Put the rubbish in its proper place. Use the
+stylus to slide the blocks until you can move
+the rubbish into the bin.
+!******************************!
+Clean as a whistle!
+
+Doesn't that feel good?
+!******************************!
+Too bad!
+!******************************!
+If you think about moving the red
+vertical bars as a set, you should do
+just fine.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n153.dat]
+<0156>Tile Equation
+<00><00><00><00><12><01><1A><99><00><04><02><FF>
+Below is an addition equation using tiles
+numbered 0 to 9. There's just one small
+problem: the equation doesn't add up!
+Move the tiles to make the equation work.
+Only the answer involving the fewest number
+of moves will be accepted.
+!******************************!
+That's right!
+
+Since the puzzle asks you to answer with
+the fewest number of moves possible, the
+only correct solution is to swap the 0
+with the 2 and the 5 with the 6.
+
+Of course, if you could rotate the tiles,
+there's a solution that requires even fewer
+moves. Perhaps you'd like to look for that
+one as well?
+!******************************!
+Too bad!
+
+Did you make a calculation mistake?
+Or perhaps there's an answer that
+requires fewer moves than you used?
+!******************************!
+There are plenty of solutions if you
+were free to make lots of moves, but
+you need the answer involving the
+fewest moves. Also, only numbers in the
+two right-most columns move.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n154.dat]
+<0157>
+<00><00><00><00><11><01><16><9A><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n155.dat]
+<0158>Wrong Clocks
+<00><00><00><00><11><01><16><9B><F6><03><02><FF>
+The two clocks in the illustration below both
+point exactly to 12:00. One hour later, one
+clock points to 1:01 and the other to 12:59.
+In other words, one clock is fast and the
+other is slow. If these two clocks stay fast
+and slow at a constant ratio to one
+another, how many hours will it take,
+starting from noon, until they both show
+the same time again?
+!******************************!
+Nicely done!
+
+It will take 360 hours. Once one clock has
+lost six hours and the other has gained six
+hours, both clocks will show the same time
+again. You needed to ask yourself how long
+it would take a clock deviating by one minute
+per hour to reach six hours.
+!******************************!
+Too bad!
+
+When both clocks point to the same time
+again, what time do you think they will
+be indicating?
+!******************************!
+The next time the clocks look the same,
+they won't be pointing at 12:00. Once
+you realise that, it's just a simple
+calculation.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n156.dat]
+<0159>
+<00><00><00><00><11><01><16><9C><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n157.dat]
+<0160>Cut and Splice
+<00><00><00><00><11><01><09><9D><EF><03><02><FF>
+Take a look at the piece of wood in the
+illustration. Can you cut along the grid
+lines and create two pieces that fit
+together to make a new piece of wood eight
+squares high by eight squares wide?
+
+While you can rotate the cut pieces, keep in
+mind that you can't turn them over to make
+them fit. 
+!******************************!
+Perfect!
+
+Your answer probably looks something like
+this.
+!******************************!
+Too bad!
+
+Take a harder look at the piece you're
+cutting.
+!******************************!
+Those two squares that stick out on
+the far right are part of an edge of
+the finished piece.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n158.dat]
+<0161>Stacked Dice
+<00><00><00><00><11><01><16><9E><F6><03><02><FF>
+Look at the dice stacked below. Though you
+can't see it, the faces that touch other
+dice all share the same number. If that's
+the case, which number should go on the
+question mark?
+
+Of course, all of these dice have the same
+layout of numbers.
+!******************************!
+You did it!
+
+The face in question should have a one on
+it. You needed to visualise the numbers you
+couldn't see and deduce the position of the
+last die from that.
+
+!******************************!
+Too bad!
+
+This puzzle requires visualisation and
+deduction.
+!******************************!
+It helps to know that opposite faces on
+a single die always add up to seven.
+
+Use that as the basis for your
+deduction.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n159.dat]
+<0162>Paper and Scissors
+<00><00><00><00><11><01><16><9F><F6><03><02><FF>
+Let's say you took a square piece of paper
+and cut off the corners to make the
+largest possible circle. But then you
+realised you needed a square piece instead
+and cut off the curves to make the largest
+possible square. How many times bigger was
+the original square than the one you have
+now?
+!******************************!
+You got it!
+
+The original square was twice as big.
+It's very easy to see when you draw
+a diagram.
+!******************************!
+Too bad!
+
+If you can't visualise it yet, try drawing
+a diagram.
+!******************************!
+The length of a side of the original
+square is equal to the diameter of the
+circle you cut.
+
+If you then cut the largest possible
+square from that circle, what would be
+the relationship of the circle's diameter
+to the new square?
+!******************************!
+
+!******************************!
+
+!******************************!
+[n160.dat]
+<0163>AB + B = BA
+<00><00><00><00><11><01><1C><A0><F6><03><02><FF>
+Let's replace the numbers in the equation
+12 + 12 = 24 with letters. 1 is now A, 2
+is B and 4 is C. This produces the letter
+equation AB + AB = BC.
+
+Now think about another such equation,
+AB + B = BA, where the letters may have
+different values from the sample equation
+above.
+
+What numbers could replace the A and the B
+to make this second equation true? Keep in
+mind that A and B are different numbers.
+!******************************!
+Great job!
+
+If you replace the A with an 8 and the B
+with a 9, then the equation is true because
+89 + 9 = 98.
+!******************************!
+Too bad!
+
+Take your time and work it out.
+!******************************!
+If you added B and B together, the last
+digit of the resulting sum would equal A.
+
+Since no two single-digit numbers can
+add up to more than 18, you know the
+number in the tens place of the sum of
+B+B must be one. The only other value
+that influences the tens place in the
+solution is the A in AB + B.
+
+Therefore, A + 1 must equal B.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n161.dat]
+<0164>What Number?
+<00><00><00><00><11><01><16><A1><F6><03><02><FF>
+The numbers in the diagram below follow a
+certain rule. Some manipulation of pairs of
+adjacent numbers is used to derive the
+number centred below them. Can you work
+out what number goes in the space marked
+with a question mark?
+
+The rule at work here is absolute, so there
+are no exceptions.
+!******************************!
+That's right! The answer is 16. 
+
+The way to find the answer is to think of all
+the digits of the numbers in the diagram as
+single-digit integers. Then you just add
+them up. So, 160 and 144 would give you
+1 + 6 + 0 + 1 + 4 + 4, which equals 16, the
+number below. That is the rule.
+
+At first, it might seem that the rule is to
+take the absolute value of the difference
+between two adjacent numbers, but there's
+one place that won't work.
+!******************************!
+Too bad!
+
+Think carefully about the possibilities.
+!******************************!
+Subtraction? No, that's not it.
+
+You want to add.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n162.dat]
+<0165>Mouse Escape!
+<00><00><00><00><01><01><19><A2><FF><03><02><FF>
+This poor mouse fell asleep and awoke to
+find himself trapped by a bunch of blocks.
+Can you help free the unlucky mouse?
+!******************************!
+Whew! He's free!
+
+I'm sure he'll find some way to repay you...
+eventually.
+!******************************!
+Too bad!
+!******************************!
+Bring down the green upside-down L in
+the top-left corner to the same level
+as the top blue  block.
+Once you've cleared a path, drag the
+blue gate-shaped block up.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n163.dat]
+<0166>
+<00><00><00><00><11><01><16><A3><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n164.dat]
+<0167>Different Chickens
+<00><00><00><00><11><01><02><A4><E8><03><02><FF>
+It's time to play <''>spot the difference<''>!
+Of A, B and C, which one is identical to
+the panel on the left?
+
+The panel on the left is a negative image in
+black and white, and it's been flipped from
+left to right.
+!******************************!
+Good eye!
+
+The answer is B. A and C both have
+differences, which are circled here.
+!******************************!
+Too bad!
+
+Take a closer look at the pictures.
+
+!******************************!
+Chicken's eyes.
+
+The direction in which a chick faces.
+
+These are what you should be paying
+attention to!
+!******************************!
+
+!******************************!
+
+!******************************!
+[n165.dat]
+<0168>
+<00><00><00><00><11><01><16><A5><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n166.dat]
+<0169>Territory War
+<00><00><00><00><11><01><05><A6><EB><03><02><FF>
+Three kings have become entangled in a
+territory dispute over the land shown
+below. They have decided to divide the
+land by colouring it red, blue and yellow
+after their national colours. The rule for
+dividing land is that each territory must
+not border another territory of the same
+colour. If territory A is red and territory
+B is blue, what colour is territory C?
+
+Circle that colour's king and touch #rSubmit#x
+to enter your answer.
+!******************************!
+That's right!
+
+If you divide the land correctly, C must be
+blue.
+!******************************!
+Too bad!
+
+The only way to solve a puzzle like this is
+to actually do it!
+!******************************!
+Try actually marking the territories
+using the Memo Function to make sure
+you don't make adjacent ones the same
+colour.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n167.dat]
+<0170>A Sure Win
+<00><00><00><00><11><01><1A><A7><00><04><02><FF>
+In this game, players take turns moving
+stones one space up, down, left, right or
+diagonally to an open space. The goal is
+to line up three of your stones, as in
+noughts and crosses. Based on the board
+layout below, there is one move that white
+can make to ensure victory in the following
+turn.
+
+Make that move and touch #rSubmit#x.
+!******************************!
+Brilliant!
+
+Did you see the answer right away?
+!******************************!
+Too bad!
+
+Try again!
+!******************************!
+In this setup, black is one move away
+from victory. If you don't block black's
+winning move, you will lose.
+
+Can you see now where a white stone
+needs to go?
+!******************************!
+
+!******************************!
+
+!******************************!
+[n168.dat]
+<0171>The M<:o>bius Puzzle
+<00><00><00><00><11><01><02><A8><E8><03><02><FF>
+By twisting a thin strip of paper once and
+using some tape to form a ring with it, you
+can make a ring with one continuous
+surface. If you started to draw a line on
+one side, it would eventually cover both
+sides and join back up with itself. This
+is the famous M<:o>bius strip.
+
+Now, if you cut along this line with a pair
+of scissors, which shape would the paper
+make: A, B or C?
+!******************************!
+Very good!
+
+This is a fun puzzle to try in real life.
+You end up with one very long ring.
+
+Try it out and see how many twists you
+end up with.
+!******************************!
+Too bad!
+
+You know, if you have some paper, a pair
+of scissors and some tape...
+!******************************!
+You know, twisting before forming a ring
+yields a completely different result
+than cutting an untwisted ring.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n169.dat]
+<0172>Too Many Bridges
+<00><00><00><00><11><01><02><A9><E8><03><02><FF>
+There are so many rivers running through
+this town, they've built 12 bridges.
+It's possible to cross each bridge only
+once on your way to the area indicated by
+the white arrow, but which letter would
+you have to start from to do this?
+!******************************!
+That's right!
+
+You would have to start at A. One possible
+route is shown here, but there are other
+possible routes that take you over each
+bridge only once. This is the kind of
+puzzle you solve by tracing a long line
+without lifting the stylus.
+!******************************!
+Too bad!
+
+Try another route.
+!******************************!
+The key is the number of bridges
+connected to each spot. Take a closer
+look.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n170.dat]
+<0173>The Rotating Arrow
+<00><00><00><00><31><01><02><AA><E8><03><02><FF>
+Here we have a pentagon with equal sides.
+As shown in Figure 1, a square with sides
+the same length as one side of the pentagon
+sits flush against the five-sided shape.
+It's labelled with an arrow pointing up.
+If you flip the square along the pentagon
+as shown in Figure 2, the arrow on the
+square changes direction.
+
+Using the diagram below, work out which
+direction the arrow faces if you continue
+to flip the square anticlockwise along the
+pentagon back to its original position.
+!******************************!
+You did it!
+
+There's nothing all that difficult about
+this puzzle, but it does require you to
+do a little creative thinking before
+you can arrive at the answer.
+!******************************!
+Too bad!
+
+Don't get discouraged. Collect your
+thoughts and try again!
+!******************************!
+This puzzle may seem like a pain to
+solve, but if you follow the example
+given and visualise each of the steps,
+it's really not all that hard.
+
+Try sketching out each flip of the
+square using the Memo Function.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n171.dat]
+<0174>A Row of Dice
+<00><00><00><00><11><01><02><AB><E8><03><02><FF>
+A number of dice are arranged in a row as
+shown below. Can you work out which of
+A to D belongs in the spot marked with a
+question mark?
+
+All the dice are arranged so that where
+one die touches another, the two faces
+that are touching have the same number on
+them. Assume all the dice are identical.
+!******************************!
+Great work!
+
+C is the correct die!
+
+Once you realise that each set of opposing
+sides on a die adds up to seven, and that
+all the touching faces are either ones or
+sixes, you can use logic to work out the
+rest.
+!******************************!
+Too bad!
+
+Think hard about the clues you've been
+given and try again.
+!******************************!
+Can you see any ones or sixes?
+!******************************!
+
+!******************************!
+
+!******************************!
+[n172.dat]
+<0175>
+<00><00><00><00><11><01><15><AC><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n173.dat]
+<0176>
+<00><00><00><00><11><01><20><AD><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n174.dat]
+<0177>Mouse on the Loose!
+<00><00><00><00><01><01><19><AE><FF><03><02><FF>
+Oh no, it looks like the mouse fell asleep
+and got himself trapped again! While he was
+napping, the owners of the house piled all
+sorts of blocks around him. Can you clear a
+path and help the little guy out?
+!******************************!
+He's free!
+
+That's twice now you've saved this mouse.
+Maybe he should dig up a little cheese
+to say thanks.
+!******************************!
+Too bad!
+!******************************!
+There's lots of open space in this
+puzzle, so you'd think it'd be easy
+to shift things around, but clearing a
+path can be surprisingly difficult.
+
+To beat this one, you'll need to make
+effective use of the indentations on
+certain blocks. Oh, and try to get that
+straight orange block above the blue
+U-shaped one at the top of the screen. 
+!******************************!
+
+!******************************!
+
+!******************************!
+[n175.dat]
+<0178>The Ant Takes a Walk
+<00><00><00><00><11><01><02><AF><E8><03><02><FF>
+A wire cube sits on the floor below, with an
+ant sitting at the point under the white
+arrow. Starting from its current position,
+the ant wants to walk on each wire in the
+cube, without ever crossing any length of
+wire twice. To do this, you need to add a
+single wire to the cube.
+
+To which area out of A, B or C should you
+add the wire to make this possible? Note
+that the ant may cross over a point where
+two or more wires meet as many times as it
+likes. Select a letter to answer.
+!******************************!
+Good job!
+
+The answer is C.
+
+This puzzle uses an ant as a visual aid, but
+it's basically asking you to draw a 3D shape
+in a single, continuous stroke.
+
+While wire A also lets you draw the cube in
+one stroke, it doesn't let you do so when
+starting from the white arrow. B is also
+incorrect because, no matter where you
+start from, you can't complete the drawing
+in one continuous line.
+!******************************!
+Too bad!
+
+Study that wire structure carefully.
+!******************************!
+Essentially, this puzzle is asking you
+where to add a wire in order to create a
+3D shape you could draw without ever
+lifting your pen from the page or
+retracing a line.
+
+Two of the potential answers let you do
+this, but only one works when you start
+from the point under the white arrow.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n176.dat]
+<0179>John and Bill
+<00><00><00><00><71><01><1C><B0><F6><03><02><FF>
+John and Bill are playing in the park
+and they start chatting.
+
+<''>Hey, Bill! Three years from now, you'll
+be twice my current age, won't you?<''> says
+John.
+Bill pauses for a moment, then responds.
+<''>Well, get this! When I'm twice the age I am
+now, I'll be three times your current age.
+Crazy, right?<''>
+
+So how old are John and Bill? Just so
+you know, neither of the boys are 10 yet.
+!******************************!
+That's right!
+
+If John is six and Bill is nine, then in
+three years Bill will be twice John's
+current age, and in nine years Bill will
+be three times John's current age.
+
+You could use a formal set of equations to
+solve this, but just plugging in numbers
+until you get it right can be fun too.
+
+For a pair of children, John and Bill
+certainly have some advanced discussions.
+!******************************!
+Too bad!
+
+The numbers just don't work out with the
+ages you entered.
+!******************************!
+Since both of the boys are younger than
+10, there are only so many combinations
+of ages you need to explore.
+
+Don't forget, Bill is the older of the
+two boys.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n177.dat]
+<0180>
+<00><00><00><00><11><01><03><B1><E9><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n178.dat]
+<0181>The Tape's Shape
+<00><00><00><00><11><01><05><B2><EB><03><02><FF>
+Two pieces of tape the same length and the
+same width are shaped into rings and then
+stuck together at point P as shown.
+
+If you were to cut the two pieces along the
+dotted lines, which of the four shapes
+below would be formed? Choose an answer
+from A to D by circling it.
+!******************************!
+Amazing!
+
+The correct answer is D.
+
+It almost seems impossible, but try it for
+yourself.
+!******************************!
+Too bad!
+
+This one is tough to visualise in your head.
+!******************************!
+Did you notice that point P would be
+divided into four sections?
+!******************************!
+
+!******************************!
+
+!******************************!
+[n179.dat]
+<0182>The Long Formula
+<00><00><00><00><11><01><16><B3><F6><03><02><FF>
+Formulas like the first one are a familiar
+sight to students.
+
+One day, a mathematician thought up the
+second formula. This formula basically took
+all the letters in the alphabet,
+subtracted them from x, and then multiplied
+them all together. Since the formula was so
+long, the mathematician used <''>...<''> to
+indicate part of the formula. Soon after,
+he discovered that no matter what numbers
+he substituted for any of the letters, the
+formula always yielded the same answer.
+What is that answer?
+!******************************!
+Good thinking!
+
+One of the hidden sections of the formula
+is (X - X), which equals zero, and any 
+number you multiply by zero equals zero!
+!******************************!
+Too bad!
+
+There is, of course, a very clear, logical
+answer, so do your best!
+!******************************!
+In the hidden segment of the formula is
+something very important.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n180.dat]
+<0183>How Many Gems?
+<00><00><00><00><11><01><16><B4><F6><03><02><FF>
+The following is a conversation between
+two sneaky thieves:
+
+<''>Huh? So of all the gems out on display
+in the jeweller's, only one is real?<''>
+
+<''>That's right. It's fourth from the top, 
+second from the bottom, third from the
+right and third from the left. That's
+the one we're after.<''>
+
+Supposing that the gems are ordered
+in uniform rows and columns, how many
+gems are there in total?
+!******************************!
+Dazzling!
+
+<''>That's right. It's fourth from the top, 
+second from the bottom, third from the
+right, and third from the left. That's the
+one we're after.<''>
+
+If you draw a picture of this description,
+it would look like this. All in all, there
+are five rows and five columns, meaning
+there are 25 gems.
+
+!******************************!
+Too bad!
+
+Try reading the thieves' conversation
+one more time.
+!******************************!
+You're only seeing part of the 
+conversation. Try drawing a picture 
+of the gems' layout.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n181.dat]
+<0184>Who's Married?
+<00><00><00><00><71><01><03><B5><E9><03><02><FF>
+Walking around, you overhear the neighbours
+talking about a family that consists of a
+married couple, a son and a daughter.
+
+A: <''>Mary is certainly younger than Dan.<''>
+B: <''>Say, Mary is older than Lisa, isn't she?<''>
+C: <''>Sam is younger than Dan, for sure.<''>
+D: <''>No, Lisa and Sam aren't a couple.<''>
+
+Of the four statements above, two are true
+and two are false. Work out which
+statements are accurate and tick the
+boxes of the two people who are married.
+!******************************!
+That's right!
+
+Sam and Mary are the married couple.
+A and C are lies, while B and D are
+accurate statements.
+
+The answer comes together when you test
+each statement. If B is false, then A,
+C and D can all potentially be false or
+correct. Furthermore, if D is incorrect,
+both B and C must also be assumed to be
+incorrect.
+!******************************!
+Too bad!
+
+Try running through a few possible answers.
+!******************************!
+Statements A and C are incorrect.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n182.dat]
+<0185>Miscalculation
+<00><00><00><00><11><01><16><B6><F6><03><02><FF>
+Mike has always been terrible at maths.
+He's asked to multiply #ra certain
+number#x by 9, then add 7, but instead
+he multiplies by 7 and adds 9.
+
+He soon notices his error and, in a
+panic, tries the problem again. When he
+does the problem correctly, however,
+he ends up getting the same
+answer as he did the first time.
+
+What is this #rcertain number#x?
+!******************************!
+Well done!
+
+The number is one.
+
+If you do the maths, it all works out.
+!******************************!
+Too bad!
+
+The answer doesn't add up.
+!******************************!
+Try creating an equation.
+
+Then again, you might just be able to
+use intuition to guess the answer...
+!******************************!
+
+!******************************!
+
+!******************************!
+[n183.dat]
+<0186>Three Ladies
+<00><00><00><00><51><01><1A><B7><00><04><02><FF>
+Can you work out the names of each of
+these three ladies?
+A :<''>The woman next to me is Judy.<''>
+B: <''>I'm Ellie. Pleasure to meet you!<''>
+C: <''>The woman next to me? Her name's Anna.<''>
+
+Keep track of what each lady said to help
+you deduce their names. There's a catch,
+though. While Judy is always truthful,
+Ellie occasionally lies and Anna tells
+fibs every chance she gets.
+Arrange the nameplates at the bottom of
+the screen so that each plate correctly
+labels its owner.
+!******************************!
+That's right!
+
+A is Ellie, B is Anna and C is Judy.
+
+A says that B is Judy, so you know that
+A can't be our honest friend Judy.
+B claims to be Ellie, so we know this
+person can't be Judy either.
+
+Therefore, you know that C must be Judy,
+and if that's so, B must be Anna.
+With everyone else now identified, you
+can be sure that A is Ellie.
+!******************************!
+Too bad!
+
+Think logically about the clues you've been
+given.
+!******************************!
+The other two ladies keep talking about
+B. Who could she possibly be? Remember
+that Judy never lies.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n184.dat]
+<0187>
+<00><00><00><00><11><01><16><B8><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n185.dat]
+<0188>
+<00><00><00><00><11><01><16><B9><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n186.dat]
+<0189>The Lion's Escape
+<00><00><00><00><11><01><05><BA><EB><03><02><FF>
+
+A lion has escaped from its cage in the zoo.
+It appears that you, the zookeeper, forgot
+to lock the cage.
+
+This lion is an extremely ferocious specimen,
+and you are the only person left in the zoo.
+
+Circle the safest place to hide until help
+arrives.
+ 
+!******************************!
+Well done!
+
+You want to hide in the escaped lion's cage!
+Since you're the zookeeper, you can go in
+and lock the door.
+
+As the lion is now running around the
+zoo, hiding inside the cage is your safest
+option! 
+!******************************!
+Too bad!
+
+Try thinking about it a little bit more.
+!******************************!
+Don't look for a place where the lion
+won't find you. Instead, try looking for
+a place where the lion can't get you.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n187.dat]
+<0190>
+<00><00><00><00><11><01><05><BB><EB><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n188.dat]
+<0191>Pattern Recognition
+<00><00><00><00><11><01><02><BC><E8><03><02><FF>
+Which pattern matches the one in the
+top-left corner? Is it A, B or C?
+
+The top-left pattern has had its contents
+flipped left to right and its colours
+inverted and changed to black and white.
+!******************************!
+Good eye!
+
+The answer is B. The areas circled in A and C
+are different from the black-and-white
+pattern.
+!******************************!
+Too bad!
+
+Look very closely!
+!******************************!
+First try looking at the centres of the
+patterns.
+
+The really hard part is the difference
+in the triangles around the edges.
+Look closely at the shades of grey!
+
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n189.dat]
+<0192>Suits in a Row
+<00><00><00><00><11><01><0A><BD><50><04><02><FF>
+Below are 16 cards. There are four cards
+from each suit: diamonds, clubs, spades and
+hearts. The cards are arranged in a 4 x 4
+grid as shown below, and three cards have
+already been put down.
+
+Arrange the remaining cards so that each
+vertical column, horizontal row and 
+#rdiagonal line#x of four cards contains one
+card from each suit. Touch a card to cycle
+through the suits.
+!******************************!
+You did it!
+
+It may be hard to decide on your first
+moves but when you start to get it right,
+everything falls into place!
+!******************************!
+Too bad!
+
+You've probably overlooked something.
+Take a good look and try to work it out!
+!******************************!
+Start with the card above the club.
+Since there's a club below it, a heart
+diagonally above it and a spade to its
+right, it must be a diamond. The card to
+the left of this diamond has a diamond
+and a spade in the same row and a heart
+above it, so this card must be a club.
+
+Three of the four cards in the second
+row are now in position, so you know the
+last one must be a heart. Proceed in this
+manner and work out all the cards!
+!******************************!
+
+!******************************!
+
+!******************************!
+[n190.dat]
+<0193>The Cleaning Robot
+<00><00><00><00><11><01><05><BE><EB><03><02><FF>
+Scientists in a research lab have built a
+robot to clean the long corridors. Because
+the robot isn't quite complete yet, it can
+be programmed to turn only right or only
+left. The specific corners where it turns
+can also be programmed.
+
+The scientists want to give the robot a
+route so that it cleans every part of the
+hallway, but doesn't clean any part of the
+hallway twice. From which point should they
+start the robot? Choose from A-E and
+circle your answer. The robot can move
+through intersections twice.
+!******************************!
+Affirmative!
+
+The robot starts from point E and should be
+programmed to turn only right. It could also
+be programmed for left-only turns if it
+starts at the end of the route shown here.
+However you program it, it sounds like a
+difficult robot to use! 
+!******************************!
+Too bad!
+
+Starting from there won't do the trick.
+!******************************!
+You should try as many routes as
+possible. If you really can't work it
+out, there's one place that's a little
+different from the others.
+
+That's the spot!
+!******************************!
+
+!******************************!
+
+!******************************!
+[n191.dat]
+<0194>Cracking the Code
+<00><00><00><00><11><01><0A><BF><53><04><02><FF>
+Find the four-digit code that opens this
+safe. You can use the digits 0 to 5 in your
+answer, but each digit can only be used
+once. The small lights next to each row of
+digits are the key to finding the code, as
+they tell you how much in common that row
+has with the code. A white light indicates a
+digit that is in the code but in a different
+place in the sequence. An orange light
+indicates a digit that is in the code and in
+the correct spot. Touch the digits at the
+bottom of the screen to change them, then
+touch #rSubmit#x when you have your answer.
+!******************************!
+You cracked it!
+
+This was a rather hard puzzle, but it's
+fun when your guesses start to work out.
+!******************************!
+Too bad!
+
+This one is pretty tough...
+!******************************!
+From the lights next to the third row,
+you can tell that the four digits in the
+code are 3102. Finding the correct order
+is just a matter of checking the other
+rows, though some educated guessing
+might work just as well.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n192.dat]
+<0195>
+<00><00><00><00><11><01><02><C0><E8><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n193.dat]
+<0196>
+<00><00><00><00><11><01><16><C1><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n194.dat]
+<0197>Crazy Dice
+<00><00><00><00><11><01><16><C2><F6><03><02><FF>
+There are two dice, A and B. The pictures
+show each die from two different angles.
+Maybe the dice maker was up to no good,
+but the dots on each face are all completely
+random. You can see all the faces here, so
+if you were to roll both dice, the highest
+total you could get would be nine. 
+
+Knowing this, what is the lowest number
+you could get? Remember, only the numbers
+visible on the sides facing up count.
+
+!******************************!
+That's right!
+
+The dice don't have to be lined up like they
+are in the picture. If you position the dice
+like the picture shown here, you get the
+lowest possible number: one. Of course, it's
+not likely anyone would ever roll this
+configuration naturally...
+!******************************!
+Too bad!
+
+Try thinking of some more possibilities...
+!******************************!
+This puzzle is...a bit mean.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n195.dat]
+<0198>
+<00><00><00><00><11><01><16><C3><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n196.dat]
+<0199>
+<00><00><00><00><11><01><03><C4><E9><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n197.dat]
+<0200>
+<00><00><00><00><11><01><05><C5><EB><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n198.dat]
+<0201>Number Tiles
+<00><00><00><00><11><01><12><C6><F8><03><02><FF>
+Rearrange the three tiles so that they
+display a number divisible by 43.
+!******************************!
+Sharp thinking!
+
+Once you notice that the six can be turned
+upside down to form a nine, you can make
+129.
+!******************************!
+Too bad!
+
+That's not divisible by 43!
+!******************************!
+Try handling the tiles in different ways.
+Maybe you'll notice something.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n199.dat]
+<0202>The Bus's Route
+<00><00><00><00><11><01><09><C7><EF><03><02><FF>
+A very large bus approaches a town.
+Since the streets of this town are so
+narrow, the bus can only turn at corners
+where there are no buildings and only
+in the direction the corner allows.
+
+The bus arrives from the south, so can you
+find the shortest route for the bus if it
+wants to exit to the east? Trace a line
+from the starting point to the goal.
+!******************************!
+Great!
+
+Following the rules of the puzzle, the route
+in map A is the quickest route.
+
+However, under ordinary circumstances, the
+bus can also go in reverse, so if it drove
+forwards, as in map B, reversed around the
+corner and then exited, that would actually
+be the quickest.
+!******************************!
+Too bad!
+
+Try a different route.
+!******************************!
+Drive until you hit a wall, then turn
+right. Keep going until you hit a wall...
+Then it's up to you to puzzle out.
+!******************************!
+
+!******************************!
+
+!******************************!
+[n200.dat]
+<0203>
+<00><00><00><00><11><01><16><C8><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n201.dat]
+<0204>
+<00><00><00><00><11><01><16><C9><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n202.dat]
+<0205>
+<00><00><00><00><11><01><15><CA><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n203.dat]
+<0138>The Elysian Box
+<00><3C><36><30><12><81><12><CB><55><04><04><FF>
+<''>The sun rises when you and I meet, and
+when the wind blows, you will know my heart.<''>
+
+These words are the key to opening the
+Elysian Box.
+
+It's up to you to find a way to open the box
+and solve the final puzzle of our story.
+!******************************!
+Wonderful!
+
+What was the message that Anton left to his
+sweetheart all those years ago?
+
+The time has come to find out.
+!******************************!
+Too bad!
+
+Read over the words Anton told Luke again.
+They tell you everything you need to know.
+!******************************!
+<''>When you and I meet...<''>
+
+The two figures set into the box are
+facing away from each other. Perhaps
+there's some way to turn them around.
+!******************************!
+<''>The sun rises...<''>
+
+The sun here is located very low on the
+box. Once those two figures face each
+other, you should be able to raise it
+high into the sky.
+!******************************!
+<''>And when the wind blows...<''>
+
+As you've probably seen, when the sun
+is raised high, a small hole appears.
+It seems the next thing you need to do
+is get a breeze to pass through that
+opening.
+
+Don't bother using your stylus for this
+one. Instead, use your own breath to 
+summon up a gust strong enough to make
+the sun shake.
+!******************************!
+[n204.dat]
+<0133>Grab the Key
+<00><3C><36><30><01><54><19><CC><FF><03><04><47>
+The key to the door is sitting behind some
+blocks. Slide the key out towards the
+professor's hand so that the two can make
+their escape!
+!******************************!
+Great work!
+
+Now Luke and Professor Layton can finally
+leave the room!
+!******************************!
+Too bad!
+!******************************!
+Before you start moving things around,
+focus on what you need to accomplish
+first.
+
+Start by finding a way to get the yellow
+block at the bottom into the hole
+currently occupied by the key.
+
+
+!******************************!
+If you feel like you're stuck, you might
+find it easier to just start over.
+
+At the beginning, move the yellow block
+into the slot near the professor's hand.
+Next, take the square block on the right
+and move it to the left. After that, you
+need to find some way of moving that
+yellow block into the top-right area
+of the puzzle.
+
+
+!******************************!
+Once you've completed everything in
+Hint 2, you should be able to swap the
+key for that yellow block. Once you've
+put that yellow block in the slot the key
+was in, just shift all the other blocks
+and the key in one direction until the
+key is positioned at the bottom by
+the slot.
+!******************************!
+[n205.dat]
+<0135>The Magic Lock
+<00><32><2D><28><11><58><1A><CD><00><04><04><FF>
+It seems that the lock here is some sort of
+magic square. In order to solve it, position
+the remaining numbers so that each string
+of four vertical, horizontal and diagonal
+numbers adds up to the same total.
+
+Solve the magic square to open the hatch!
+!******************************!
+Very nice!
+
+Each horizontal, vertical and diagonal line
+of four tiles adds up to 18 when placed in
+the correct positions.
+
+Now, onward to freedom!
+!******************************!
+Too bad!
+
+At least one string of four numbers isn't
+adding up to the same total as all the
+others.
+!******************************!
+You're out to make each horizontal,
+vertical and diagonal line of four
+numbers equal the same number, so first
+you need to find that number.
+
+The total is there for you to find, so
+just examine the square until you see it.
+!******************************!
+One diagonal string of numbers appears
+to be in place already. The numbers
+within it add up to 18.
+!******************************!
+Now that you know each string of
+numbers needs to add up to 18, all you
+need to do is fill in the blank spaces
+with the correct tiles. As you start
+filling in spaces on the square, you'll
+be left with fewer and fewer squares
+to work with.
+
+Lay down a line, make sure it totals 18
+and then keep on working with what
+you've got. You'll make your way to the
+solution sooner or later.
+!******************************!
+[n206.dat]
+<0000>A Curious Present
+<00><00><00><00><01><01><19><CE><FF><03><02><FF>
+If you're playing this puzzle right now,
+you've probably taken at least one trip to
+the village of St Mystere with Luke and
+the professor.
+
+This puzzle is a gift from the residents of
+St Mystere. Unscramble the puzzle to reveal
+a picture of Professor Layton and Luke
+from their first adventure!
+!******************************!
+Well done!
+
+We hope you have a wonderful time playing
+through the rest of Professor Layton and
+Pandora's Box.
+!******************************!
+Too bad!
+
+Don't give up! Keep at the puzzle and
+you'll solve it before long.
+!******************************!
+This puzzle is a variation on the classic
+15-piece slide puzzle you may have seen
+at your local toy shop.
+
+It's not a particularly difficult version
+of the puzzle, so relax, take your time
+with it...and have fun!
+!******************************!
+
+!******************************!
+
+!******************************!
