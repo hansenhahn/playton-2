@@ -1,810 +1,895 @@
 [n1.dat]
-<0001>Mapa do Dr. Schrader
+<0001>Dr Schrader's Map
 <02><0A><09><08><12><5B><1A><01><00><04><01><FF>
-O mapa que leva à casa do Doutor Schrader
-teve vários pedaços cortados de seu
-centro. Complete-o deslizando as peças
-com a caneta stylus e os inserindo em seus
-devidos lugares.
+Several pieces have been cut out of the
+middle of the map to Dr Schrader's home.
+Complete the map by sliding the pieces with
+the stylus and inserting them in the right 
+places.
 
-Pode soar simples, mas não se esqueça
-que você pode mover ou remover os pedaços,
-incluindo os que já estão no meio do mapa.
+It may sound simple, but don't forget that
+you can move or remove pieces, including the
+one already in the middle of the map.
 !******************************!
-Ótimo trabalho!
+Excellent work!
 
-Agora apresse-se pro apartamento
-do doutor!
+Now, let's hurry to the doctor's flat!
 !******************************!
-Que pena!
+Too bad!
 
-Releia o enigma cuidadosamente e
-tente de novo.
+Read the puzzle carefully and try again.
 !******************************!
-Incluindo aquele pedaço que está no centro
-desde o início, você tem seis pedaços para
-movimentar mas apenas cinco espaços para
-colocá-los.
+Including the one piece that's in the
+middle of the map from the start, you
+have six pieces to move around but only
+five spaces to place them in.
 
-Isso significa que um dos pedaços 
-não faz parte do mapa
+This means one of the pieces is not
+actually part of the map.
 !******************************!
-Preste atenção nos pedaços que faltam
-e no resto do mapa. Se conectar os padrões
-das estradas dos cantos de cada pedaço aos
-cantos das partes que faltam, cedo ou tarde
-a resposta aparecerá.
+Take a close look at the missing pieces
+and the rest of the map. If you connect
+the road patterns at the edges of the
+pieces with those at the edges of the
+missing spaces, you won't go wrong.
 !******************************!
-Você percebeu que o pedaço no meio
-do mapa no início do enigma não faz
-parte do mapa e nem da solução?
+Did you notice that the piece positioned
+in the middle of the map at the start of
+the puzzle doesn't belong to the map,
+and isn't part of the solution?
 
-Agora tudo que resta é organizar
-os outros cinco pedaços.
+Now all you have to do is sort out the
+other five pieces.
 !******************************!
 [n10.dat]
-<0011>Árvores na Floresta
+<0011>Trees in the Forest
 <00><14><12><10><12><12><09><0A><EF><03><02><FF>
-A floresta abaixo contém quatro tipos diferentes
-de árvores. Use sua caneta stylus para desenhar
-divisórias na floresta para que você possa formar 
-quatro seções diferentes. Cada seção deve conter
-um tipo de cada árvore, e todas as árvores devem 
-estar conectadas ou horizontalmente ou verticalmente,
-mas não diagonalmente.
+The forest below contains four different
+types of trees. Use the stylus to divide the
+forest into four sections, each containing
+one of each type of tree.
 !******************************!
-Muito bom!
+Very nice!
 
-Agora admire o lindo cenário.
+Now take a moment to admire the gorgeous
+scenery!
 !******************************!
-Que pena!
+Too bad!
 
-Não entre em pânico se você ficar empacado.
-Apenas procure por uma área onde todos os quatro
-tipos de árvores estão conectados .
+Don't panic if you get stuck. Just look for
+areas where all four types of trees are
+connected one after the other.
 !******************************!
-Se você achar duas árvores do mesmo tipo
-próximas umas as outras, então você sabe que
-essas duas devem ser separadas por uma linha.
+If you find two of the same type of tree
+next to each other, then you know that
+those two trees must be separated by a
+line.
 
-Isso deve te ajudar a começar.
+That should get you started.
 !******************************!
-Vamos nos focar nas árvores no canto inferior
-esquerdo da imagem. Se você desenhou as linhas
-de acordo com as instruções na Dica 1, essa seção
-da imagem deve ser fácil de desvendar. A seção que
-você criou deve ter um formato de L.
+Let's focus on the trees in the
+bottom-left part of the picture. If you
+drew lines according to the information
+in Hint 1, this section of the picture
+should be easy to work out. The section
+you create should have an L shape.
 !******************************!
-A árvore no canto superior esquerdo e a
-que está à sua direita pertencem em diferente
-seções. O mesmo se aplica a árvore no canto
-superior direito e aquela diretamente em baixo dela.
+The tree in the top-left corner and
+the one to its immediate right belong
+to different sections. The same goes
+for the tree in the top-right corner
+and the one directly below it.
 
-Use essas dicas como um encalço para resolver
-o resto do enigma.
+Use these hints as stepping stones to
+solve the rest of the puzzle.
 
 !******************************!
 [n11.dat]
-<0012>Nuvens e Céu
+<0012>Clouds and Sky
 <01><1E><1B><18><11><10><1C><0B><F6><03><02><01>
-Um homem sentado próximo a você no trem lhe
-mostra um desenho que ele fez. 
+A man on the train shows you a picture he's
+painted.
 
-<''>Digamos que a imagem tenha uma área total de 10.
-Consegue decifrar o quanto é feito de nuvens e o quanto
-de céu? Não pense que precise adivinhar a resposta. Tem
-um  #rmétodo concreto#x que você pode usar para solucionar.<''>
+<''>Let's say this picture has a total area of
+10. Can you work out how much of it is made
+up of clouds compared to the area that's
+made up of sky? Don't think you need to
+guess the answer. There's a #rdefinite
+method#x you can use to work this out.<''>
 
-Quanto da área é céu e quanto é nuvem?
+How much of the area is sky and how much is
+cloud?
 !******************************!
-Bom trabalho!
+Nice job!
 
-A chave aqui é usar os pinos ao redor da imagem para
-dividi-la. Assim que o fizer, ficará claro que B e F, C e I,
-D e G, e E e H são simplesmente pares do mesmo desenho
-com as cores invertidas. Isso significa que nas oito áreas, 
-quatro quadrados são de céu e quatro são nuvens. Os dois quadrados
-remanescentes, A e J, são somente azuis, então no final, seis
-quadrados são céu e quatro são nuvens.
+The key here is to use the screws on the
+frame to divide the picture. Once you do
+that, it should be clear that B and F, C
+and I, D and G, and E and H are all simply
+pairs of the same drawings with the
+colours reversed. This means that in these
+eight areas there are 4 squares' worth of
+cloud and 4 of sky. The remaining two
+squares, A and J, are completely blue, so
+the totals are 6 squares of sky and 4
+squares of cloud.
 !******************************!
-Que pena!
+Too bad!
 
-Dê outra longa e cuidadosa olhada no enigma.
+Take another long, careful look at the
+puzzle.
 !******************************!
-Olhe mais de perto... Não na imagem em si,
-mas no seu quadro.
+Take a closer look... Not at the picture
+itself, but at its frame.
 
-Você poderia usar os pinos ao redor do quadro
-para simplificar a maneira como vê a imagem.
+You could use the frame's screws to
+simplify how you look at the picture.
 !******************************!
-Dica 1 falou sobre os pinos no quadro.
-Percebeu que pode usá-los como guias para 
-dividir a imagem em 10 quadrados.
+Hint 1 pointed out the screws in the
+picture frame. Have you noticed that
+you can use these as guides to divide
+the picture into 10 squares.
 
-Agora tudo que precisa fazer é estudar
-os quadrados cuidadosamente.
+Now all you have to do is study the
+squares carefully...
 !******************************!
-Compare cada quadrado uns com os outros. Percebeu
-que alguns quadrados são idênticos em seus designs,
-mas com as cores invertidas? Qualquer quadrado que 
-encontrar assim tem a mesma quantidade de céu e nuvem.
-E não se esqueça dos dois quadrados que são preenchidos por
-por apenas uma cor.
+Compare each square with the others.
+Have you noticed that some squares are
+identical in design, but with the
+colours swapped? Any such pair of
+squares you find have the same amount
+of sky and cloud. Also, don't forget
+about the two squares that are filled
+with just one colour.
 !******************************!
 [n12.dat]
-<0013>No seu Prato
+<0013>On Your Plate
 <01><0F><0D><0B><12><0C><16><0C><F6><03><02><FF>
-O prato na sua frente carrega uma marca feita
-de dois triângulos equilateros, um dentro do outro.
+The plate in front of you bears a mark made
+up of two equilateral triangles, one inside
+the other.
 
-Consegue desvendar quantas vezes o triângulo
-grande;é maior que o triângulo pequeno?
+Can you work out how many times bigger the
+large triangle is than the small one?
 !******************************!
-Isso aí!
+That's right!
 
-Se você imaginar que o triângulo pequeno está
-invertido como mostrado, deverá levar apenas
-um momento para perceber que quatro triângulos
-pequenos caberiam dentro do grande.
+If you imagine that the small triangle is
+inverted as shown, it should only take a
+moment to realise that four small triangles
+would fit into the larger one.
 !******************************!
-Que pena!
+Too bad!
 
-Foque-se no triângulo pequeno.
+Focus your attention on the small triangle.
 !******************************!
-Você não precisa fazer nenhum cálculo em
-especial aqui. De fato, tudo que você precisa
-é de um pouco de intuição.
+You don't need to do any kind of special
+calculation here. In fact, all you need
+is a little intuition.
 !******************************!
-Como as coisas ficariam se você girasse
-o triângulo pequeno?
+How would things look if you rotated the
+smaller triangle?
 !******************************!
-Já tentou visualizar como as coisas
-ficariam se você girasse o triângulo
-pequeno?
+Did you try visualising what things would
+look like if you rotated the smaller
+triangle?
 
-Se já fez isso, deve ser mais fácil ver
-quantos triângulos pequenos cabem
-no grande.
+If you've done that, it should be easy to
+see how many smaller triangles fit in the
+larger one.
 !******************************!
 [n13.dat]
-<0014>Bonés Vermelhos
+<0014>Red Caps
 <01><19><16><13><11><0C><16><0D><F6><03><02><FF>
-Uma professora pediu para que todo mundo em
-sua turma fechassem seus olhos. Enquanto nenhum
-dos estudantes estavam olhando, ela colocou bonés
-em suas cabeças e disse:
+A teacher had everyone in her class close
+their eyes. While none of the students were
+looking, she slipped caps onto their heads,
+and said:
 
-<''>Ok, pessoal, abram seus olhos e olhem
-para o boné dos seus colegas. Quem ver
-quatro ou mais pessoas usando bonés vermelhos
-ganha um balão vermelho, e quem não conseguir
-ganha um balão azul.<''>
+<''>OK, everyone, open your eyes and look at
+your friends' caps. Whoever sees four or
+more people wearing red caps gets a red
+balloon, and whoever doesn't gets a blue
+balloon.<''>
 
-Em uma classe com 10 crianças, só algumas
-ganham um balão vermelho. Mas quantas?
+In a class of 10 children, only some got a
+red balloon. But how many?
 !******************************!
-Isso aí!
+That's right!
 
-Você sabe que só algumas crianças ganharam
-balões vermelhos. Se cinco ou mais crianças
-estivessem usando um boné vermelho, cada
-criança da turma veria pelo menos quatro bonés
-vermelhos e ganhariam um balão vermelho, então
-deve ser menos que cinco. Mas se três ou menos
-crianças estivessem usando bonés vermelhos, ninguém
-veria quatro balões vermelhos.
+You know that only some children got red
+balloons. If five or more children were
+wearing a red cap, every child in the class
+would see at least four red caps and get a
+red balloon, so it must be fewer than five.
+But if three or fewer children were wearing
+red caps, no one would see four red caps.
 
-Ou seja, quatro crianças devem ter bonés
-vermelhos, o que significa que as outras seis
-crianças receberam balões vermelhos.
+Therefore, four children must have had red
+caps, meaning that the other six children
+received red balloons.
 !******************************!
-Que pena!
+Too bad!
 
-Pense bem sobre o enigma e tente novamente.
+Think hard about the puzzle and try again.
 !******************************!
-O enigma diz que algumas das crianças
-receberam balões vermelhos. Isso significa
-que algumas crianças viram quatro ou mais
-bonés vermelhos.
+The puzzle says that some of the
+children received red balloons. This
+means some children saw four or more
+red caps.
 
-Dito isto, podemos concluir que não havia
-menos que quatro crianças de bonés vermelhos.
+If there were, say, three children
+wearing red caps, then no one would
+get a red balloon.
+
+So there must be four or more children
+wearing red caps.
  
 !******************************!
-O enigma diz que #ralgumas#x das 
-crianças receberam balões vermelhos.
+The puzzle says that #rsome#x of the
+children received a red balloon.
 
-Ou seja, nem toda criança recebeu um
-balão vermelho. Qual seria o número de
-bonés vermelhos que faria com que todas
-as crianças recebesse um balão vermelho?
+By definition, therefore, not all
+the children received a red balloon.
+What would be the number of red hats
+that would allow everyone to receive
+a red balloon?
 
-A resposta é menos que esse número.
+The answer is less than that number.
 !******************************!
-Se todas as 10 crianças estivessem de
-bonés vermelhos, então todo mundo teria
-visto pelo menos quatro e teriam ganho um
-balão vermelho. Mas nenhuma criança consegue
-ver o boné em suas próprias cabeças. Com isso em
-mente, se pergunte quantas crianças ganhariam um 
-balão vermelho se nove delas estivessem de bonés vermelhos.
-E se fossem oito? Sete?
+If all 10 children were wearing red caps,
+then everyone would see at least four
+and would get a red balloon. But no
 child can see the cap on their own head.
+With this in mind, ask yourself how many
+children would receive a red balloon if
+nine of them wore red hats. What about
+if eight did? Seven?
 
-Continue diminuindo, e lembre-se que
-pelo menos quatro devem estar usando
-bonés vermelhos.
+Just keep going down the line, and
+remember that at least four must be
+wearing red caps.
 !******************************!
 [n14.dat]
-<0015>Quem é Tom?
+<0015>Tom's True Identity
 <00><1E><1B><18><12><09><19><0E><FF><03><02><FF>
-Professor Layton suspeita que Tom não é
-a criança que achávamos que ele era.
+Professor Layton has a feeling that Tom
+may not be the kind of boy he was assumed
+to be...
 
-Mova as peças em forma de L e as organize
-em um formato de + no meio do enigma para
-revelar a verdadeira identidade de Tom.
+Move the L-shaped pieces around and
+arrange them into a + shape in the middle
+of the board to reveal Tom's true identity.
 
 
 !******************************!
-Bom trabalho!
+Good work!
 !******************************!
 N/A
 !******************************!
-Essas peças em forma de L são bastantes
-desconfortáveis de mover, não?
+Those L-shaped pieces are quite awkward
+to move around, aren't they?
 
-Se você apenas pudesse mudar a forma das
-peças para algo mais fácil de se mover.
+If only you could change the shape of
+the pieces into something easier to
+move around.
 
-Algo parecido com um quadrado, talvez?
+Something like a square, perhaps?
 !******************************!
-Pareie cada peça em L com um quadrado
-pequeno e trate cada par como uma única peça.
+Pair each L-shaped piece with a small
+square block and treat each pair as
+a single unit to be moved.
 !******************************!
-Se está lendo a Dica 3, você provavelmente não
-está se divertindo muito com esse tipo de enigma.
+Since you're looking at Hint 3, you
+probably aren't having much joy with
+this kind of puzzle.
 
-Quando você ficar bom em completar enigmas
-assim, talvez queira tentar completar esse em 20
-movimentos!
+When you get better at solving these
+puzzles, though, you might want to
+try to complete this one in 20 moves!
 !******************************!
 [n15.dat]
-<0016>Flores em Negativo
+<0016>Crazy Daisies
 <00><0F><0B><07><12><0F><02><0F><E8><03><02><FF>
-Agora vamos resolver um enigma mais florido.
+Now for something on the flowery side.
 
-Das três imagens rotuladas A, B e C, uma é
-a mesma que a imagem lá na esquerda.
-Porém, a imagem da esquerda teve seu
-conteúdo virado da esquerda pra direita e sua
-coloração invertida e mudada para preto e branco.
+Of the three pictures labelled A, B and C,
+one is actually the same as the picture on
+the far left. However, the image on the far
+left has had its contents flipped left to
+right and its colours inverted and changed
+to black and white.
 
-Qual imagem é a igual a figura preto e branco da
-esquerda, A, B ou C?
+Of A, B and C, which picture is the same as
+the black-and-white picture on the far left?
 !******************************!
-Isso aí!
+That's right!
 
-Imagem A é a mesma da figura em preto e branco
-da esquerda.
+Picture A is the same as the one on the
+far left.
 
-Como mostrad acima, B e C possui pequenas variações.
+As shown above, pictures B and C have
+slight variations.
 !******************************!
-Que pena!
+Too bad!
 
-Preste bastante atenção no enigma e tente novamente.
+Think hard about the puzzle and try again.
 !******************************!
-As cores invertidas da figura alterada
-fazem esse enigma ficar bastante desafiador,
-não?
+The inverted colours of the altered
+image makes this puzzle a lot more
+challenging, doesn't it?
 
-Porém, essa mudança na figura pode lhe
-ajudar mais do que você imagina. Lembre-se,
-na imagem alterada, pontos escuros viraram
-claros e vice-versa.
+However, this change to the image may
+end up helping you more than you think. 
+Remember, in the altered image, dark
+spots are now bright and vice versa.
 
 !******************************!
-Procurar por diferenças entre a figura
-preto e branco e cada uma das três imagens
-irá eventualmente lhe levar a resposta,
-mas tem um jeito mais fácil.
+Searching for differences between the
+black-and-white image and each of the
+three pictures A, B and C will
+eventually lead you to the answer,
+but there is an easier way.
 
-Já que uma das três imagens é igual a
-figura em preto e branco, porque não começar
-por procurar diferenças entre as imagens A, 
-B e C?
+Since one of the three is the same as
+the black-and-white picture anyway,
+why not start by finding how A, B and
+C differ from one another?
 !******************************!
-Preste atenção aos círculos no centro de
-cada flor. Aliás, olhe bem para o número de
-pontos em cada imagem e suas posições.
+Pay attention to the circles at the
+centre of each flower. Also, take a good
+look at the number of dots in each image
+and their positions.
 !******************************!
 [n16.dat]
-<0017>A Jornada da Formiga
+<0017>The Ant's Journey
 <00><19><16><13><12><08><09><10><EF><03><02><FF>
-Essas formigas trabalham incansavelmente
-para levar comida para seus ninhos. Uma dessas
-formigas estava voltando com comida quando
-esbarrou com um conhecido em frente ao ninho.
+Busy ants work tirelessly carrying food
+back to their nest. One such ant was
+returning with food when she bumped into an
+acquaintance in front of the nest.
 
-<''>O que está fazendo? Não percebeu que
-pegou o #rcaminho de volta mais longo possível#x?
-Preste atenção aonde vai, da próxima vez!<''>
+<''>What are you playing at? Didn't you notice
+that you took the #rlongest path possible
+back to the nest#x? Think about where you're
+going next time!<''>
 
-Sabendo que a formiga nunca percorrou o mesmo
-caminho duas vezes, poderia traça qual foi o caminho
-que a formiga tomou?
+Knowing that the ant never travelled on the
+same path twice, can you trace the route
+the returning ant walked to get to her
+nest?
 !******************************!
-Isso aí!
+That's right!
 
-Talvez todo esse peso fez a formiguinha se distrair
-de seu caminho para casa. Se ela ao menos tivesse
-pensado no caminho que estava tomando ela poderia
-ter economizado uma baita caminhada!
+Perhaps all the heavy lifting kept this little
+ant from thinking about her path home. If
+only she'd thought about where she was
+going, she could have saved herself a lot of
+walking!
 !******************************!
-Que pena!
+Too bad!
 
-Preste atenção no enigma e tente novamente.
+Think hard about the puzzle and try again.
 !******************************!
-Quando traçar uma rota de volta ao ninho,
-deixe o menor número de caminhos intocados
-que conseguir.
+When tracing out a route back to the
+nest, leave as few paths untouched as
+possible.
 !******************************!
-Presumindo que o topo da tela seja o norte,
-vá para o sul do ponto de partida e depois vá
-para oeste na primeira oportunidade.
+Assuming the top of the screen to be
+north, go south from the start point
+and then go west at the first
+opportunity.
 
-Na próxima interseção , vá para norte
-até o topo do mapa.
+At the next junction, head north to the
+top of the map.   
 
-Quando chegar em uma interseção em T 
-no topo do mapa, vá para oeste novamente.
-E quando chegar em uma parede, pegue o caminho
-do sul.
+When you reach a T-junction at the top
+of the map, head west again. When you
+then hit a wall, take the path leading
+south.
 !******************************!
-Do ponto em que parou depois das
-direções da Dica 2, vá para o leste na
-primeira chance, e então pegue o próximo
-caminho que leva ao sul.
+From the point you ended up at after
+following the directions in Hint 2, head
+east at the first available point, and
+then take the next path that heads
+south.
 
-Se chegou até aqui o resto é moleza.
+Once you get that far, the rest of the
+route should be a breeze.
 !******************************!
 [n17.dat]
-<0018>Passo a Passo
+<0018>The Shoe Maze
 <00><14><12><10><11><09><17><11><FD><03><02><FF>
-Aqui temos um labirinto feito de sapatos.
+Here's a maze that's made up of shoes.
 
-Sua tarefa é percorrer do ponto de partida até
-a chegada. Você só pode andar horizontalmente
-ou verticalmente um espaço de cada vez, e você
-deve alternar entre sapstos esquerdos e direitos
-a cada passo. E você também não pode passar por
-nenhuma parede do labirinto.
+Your task is to travel from the start point
+to the goal. You may only travel horizontally
+or vertically one space at a time, and you
+must alternate between left and right
+shoes every step. Also, you may not pass
+through any of the walls in the maze.
 
-Toque um espaço de cada vez para realçar o
-caminho que quer tomar. Se errar um passo você
-pode desselecionar o espaço o tocando de novo.
+Touch each space one at a time to highlight
+the path you want to take. If you make a
+misstep, you can deselect that space by
+touching it again.
 !******************************!
-Bom trabalho!
+Good job!
 
-Que caminhada mais chique!
+That was some fancy footwork!
 !******************************!
-Que pena!
+Too bad!
 
-Tem certeza que alternou entre os sapatos
-esquerdos e direitos a cada passo?
+Did you make sure to alternate between the
+left and right shoes every step of the way?
 !******************************!
-Fazer o caminho contrário da chegada é uma
-tática que pode lhe ajudar a achar a resposta.
+Working backwards from the goal is a
+great tactic that can help you find
+the answer.
 !******************************!
-A solução requer que você pise em exatamente
-19 quadrados, incluindo os pontos de partida e chegada.
+The solution requires you to step on
+exactly 19 squares, including the start
+point and the goal.
 !******************************!
-Do ponto de partida, inicie sua caminha com
-um passo para a direita.
+From the start point, begin your walk by
+taking a step to the right.
 !******************************!
 [n18.dat]
-<0019>A Viagem de Trem
+<0019>The Train Journey
 <01><14><12><10><12><09><16><12><F6><03><02><FF>
-Um número desconhecido de pessoas estão
-dentro de um trem. Na primeira estação que o
-trem para, 1/6 das pessoas a bordo descem. Na
-próxima estação, 1/5 dos passageiros remanescentes
-descem. Esse padrão continua pois na próxima estação
-descem 1/4, depois 1/3, e mais tarde 1/2. Então,
-na última estação, os últimos passageiros que sobraram
-também descem.
+A number of people are on a train. At the
+first station the train pulls into, 1/6 of
+the people on board get off. At the next
+station, 1/5 of the remaining passengers
+get off. This pattern continues so that at
+the next station 1/4 get off, then 1/3 and
+then 1/2. Then, at the final station, all
+remaining passengers get off the train.
 
-Assumindo que ninguém tenha entrado no trem
-durante a viagem, qual é o menor número de pessoas
-que poderiam estar a bordo do trem quando ele partiu?
+Assuming no one got on the train during the
+journey, what is the lowest number of
+people who could have been on the train
+when it set out?
 !******************************!
-Bom trabalho!
+Good work!
 
-Se você assumir que o trem iniciou com seis
-passageiros, então apenas uma pessoa precisaria
-descer a cada estação. 
+If you assume the train started out with
+six passengers, then only one person
+would have to get off at each station.
 
-Esse enigma pode ser bem difícil se você
-esquecer de reduzir o número de pessoas ainda
-no trem em cada estação pelo caminho.
+This puzzle can be really tough if you
+don't remember to reduce the number of
+people remaining on the train at each
+station along the way.
 !******************************!
-Que pena!
+Too bad!
 
-Preste atenção nas pistas que lhe foi dado e
-tente novamente. Esse enigma fica bem simples
-assim que percebe um certo princípio simples.
+Think hard about the information you've
+been given and try again. This puzzle comes
+together quite easily once you realise a
+certain simple principle.
 !******************************!
-Já que o enigma diz que ninguém
-entrou no trem durante a viagem,
-é certo dizer que o número de 
-passageiros no trem nunca aumentou.
+Since the puzzle tells you that no one
+got on the train during the journey,
+it's safe to say that the number of
+passengers on the train never
+increased.
 !******************************!
-Já que 1/6 dos passageiros descem na
-primeira estação, então você sabe que o
-número deve ser divisível por seis. Comece
-por escolher um número que é divisível por seis
-e veja o que acontece.
+Since 1/6 of the passengers get off at
+the first station, you know the number
+must be divisible by six. Start by
+choosing a number that's divisible by
+six and see what happens.
 
-Em breve o princípio usado para se resolver
-este enigma ficará evidente.
+The principle by which this puzzle
+is solved should soon become evident.
 !******************************!
-Imagine que 30 passageiros estão no trem
-quando ele parte. Na primeira estação, o trem
-perde 1/6 de seus passageiros, o que significa que
-cinco pessoas descem. Na próxima estação, 1/5 dos
-25 passageiros remanescentes, ou cinco pessoas, descem.
-E na próxima estação, 1/4 dos 20 passageiros remanescentes,
-ou seja, cinco pessoas, descem.
+Imagine that 30 passengers are on the
+train when it departs. At the first
+station, the train loses 1/6 of its
+passengers, meaning five people get off.
+At the next station, 1/5 of the
+remaining 25, or five people, get off.
+At the next station, 1/4 of the
+remaining 20, which is to say five more
+people, get off.
 
-Percebeu um padrão aqui?
+Do you notice a pattern here?
 !******************************!
 [n19.dat]
-<0020>A Ladra de Sapatos
+<0020>The Shoe Shop Thief
 <01><19><16><13><11><0A><16><13><F6><03><02><FF>
-Uma mulher em uma loja de sapatos paga <po>30 por
-um par de sapatos com uma etiqueta de <po>50. O atendente
-não tem troco suficiente, então ele vai até a loja vizinha para
-destrocar a nota de <po>50, volta à loja e dá à mulher seu troco.
-Um pouco mais tarde, a vendedora da loja vizinha entra enfurecida
-na loja de sapatos. Parece que a nota que ele deu para ela era falsa!
-O horrorizado atendente entrega á vendedora <po>50 como desculpas.
-Nem a cliente nem os sapatos que ela escolheu estão a vista.
+A woman in a shoe shop pays for a <po>30 pair
+of shoes with a <po>50 note. The salesman
+doesn't have enough change, so he goes to
+the shop next door to break the <po>50 note,
+returns to his shop and gives the woman her
+change. A while later, the shopkeeper from
+next door storms into the shoe shop.
+It turns out that the note he gave her was
+a fake! The mortified shoe salesman gives
+the shopkeeper <po>50 from the till to
+apologise. Neither the customer nor the
+shoes she took are found.
 
-No total, quanto a loja de sapatos perdeu?
+In total, how much did the shoe shop lose?
 !******************************!
-Muito bem!
+Well done!
 
-Os sapatos que a cliente levou custam
-<po>30, e o troco que o vendedor lhe deu
-custam outros <po>20, trazendo seu
-total de perdas para <po>50.
+The shoes the customer made off with
+cost <po>30, and the change the salesman
+gave her cost him another <po>20, bringing
+his total losses to <po>50.
 
-O atendente recebeu <po>50 de dinheiro de
-verdade na troca da nota falsa com a vendedora
-da loja vizinha, então lhe devolveu <po>50 quando
-ela descobriu que a nota era falsa. Essas duas transações
-cancelam uma a outra.
+The salesman received <po>50 of real money
+in exchange for the fake note from the
+shopkeeper next door, and then gave her
+<po>50 back when she discovered the note he
+gave her was fake. These last two
+transactions cancel each other out.
 !******************************!
-Que pena!
+Too bad!
 
-Pense bem no enigma e tente novamente.
+Think hard about the puzzle and try again.
 !******************************!
-Se o atendente não tivesse ido destrocar o dinheiro
-talvez ele nunca descobrisse sobre a nota falsa.
+Had the shoe salesman not gone next
+door to get change, he might never have
+realised he lost money.
 
-Quando ele perderia caso o troco viesse dele mesmo?
+How much would he have lost if he had
+the change in the till?
 !******************************!
-Já que ele usou uma nota falsa, o troco
-que conseguiu na loja vizinha não serviu
-pra nada. Ele ganhou <po>50.
+Since he used a fake note, the change
+the salesman got from next door was
+essentially <''>money for nothing<''>.
+He gained <po>50.
 
-Mas ao retornar o dinheiro ele perdeu <po>50.
+In returning the money, he later lost
+<po>50.
 !******************************!
-A cliente gatuna acabou fugindo com um par de
-sapatos que custam <po>30, e também com
-<po>20 em troco.
+The sneaky customer ended up getting
+away with shoes costing <po>30, as well as
+<po>20 in change.
 !******************************!
 [n2.dat]
-<0003>Qual Chave?
+<0003>Which Key?
 <00><14><12><10><12><04><12><02><4C><04><01><FF>
-Qual dessas chaves abre a porta?
+Which of these keys opens the door?
 
-Use a caneta stylus para mover as chaves e
-encontrar a que se encaixa na fechadura.
+Use the stylus to move the keys and find
+the one that fits the lock.
 
-Observe com atenção o formato das chaves
-para encontrar a certa!
+Careful observation of the shapes of the
+keys is required to find the right one!
 !******************************!
-Isso aí!
+That's right!
 
-Quanto tempo demorou pra você perceber que
-as cabeça das chaves também poderiam ser
-inseridas na fechadura?
+How long did it take you to realise that the
+grips of the keys could also be inserted
+into the lock?
 
-Essa liçãozinha sobre os perigos de se fazer
-julgamentos à primeira vista virá a calhar
-nas suas aventuras enigmáticas.
+This little lesson about the danger of
+making assumptions should serve you well
+in your puzzle-solving adventures.
 !******************************!
-Que pena!
+Too bad!
 
-Pode parecer que nenhuma das chaves se encaixam
-na fechadura, mas a resposta está lá.
+It may not seem like any of the keys fits
+the lock, but the answer is there.
 !******************************!
-À primeira vista, o lado oposto das chaves parecem
-bem mais complexos que o formato da fechadura.
+At first glance, the ends of the keys
+look much more intricate than the shape
+of the keyhole.
 
-Concentre-se e tente encontrar um
-formato que combine com a fechadura.
+Look closely and try to find a shape
+that matches the keyhole.
 !******************************!
-Já tentou todas as seis possibilidades?
+Have you tried all six possibilities?
 
-O quê? Mas só tem três chaves?
-Isso com certeza é verdade, mas tente
-pensar fora da caixola.
+What's that? There are only three keys?
+That's certainly true, but try a little
+lateral thinking.
 !******************************!
-Gire as chaves e as segure na parte que
-você normalmente põe na fechadura.
+Rotate the keys and grab them by the
+part you'd normally insert in the lock.
 !******************************!
 [n20.dat]
-<0021>Telefone sem Fio!
+<0021>Pass It On!
 <00><14><12><10><51><06><16><14><F6><03><02><02>
-Oito pessoas estão jogando um jogo de
-comunicação. Neste jogo, uma pessoa
-deve passar uma mensagem para outras
-sete pessoas.
+Eight people are playing a communication
+game. In this game, one player has to get
+their message across to seven other
+people.
 
-Leva um minuto para repassar a mensagem,
-e cada vez que a mensagem é falada, ela deve
-conter apenas um ouvinte. Usando essas regras,
-qual  o menor tempo em minutos que levaria para a
-mensagem passar por todos os sete jogadores?
+It takes one minute to pass along the
+message, and each time the message is
+spoken, it can only have one recipient.
+Using these rules, what's the shortest
+amount of time required for the message to
+pass to all seven other players?
 !******************************!
-Muito bom!
+Very nice!
 
-Se o jogador original espalhou a mensagem como
-mostrado acima, o jogo pode ser completado em três
-minutos. Durante esse tempo, o jogador original pode
-contar a mensagem para três pessoas, e os que a ouviram
-nos primeiros minutos podem espalhar mais.
+If the original messenger spreads the word
+as shown above, the game can be completed
+in three minutes. During that time, the
+original messenger can tell three people the
+message, and the people who hear the
+message within the first two minutes can go
+on to become messengers themselves.
 
-Em emergências, redes de informações estruturadas dessa
-maneira ajudam a espalhar mensagens de forma rápida.
+When an emergency arises, information
+networks structured in the above fashion
+can help get the word out fast.
 !******************************!
-Que pena!
+Too bad!
 
-Tem certeza que não está se distraindo com a 
-forma em que o enigma foi fraseado?
+Are you sure you're not being led astray by
+the wording of the puzzle?
 !******************************!
-<''>Cada vez que a mensagem é falada, ela
-deve conter apenas um ouvinte.<''>
+<''>Each time the message is spoken, it
+can only have one recipient.<''>
 
-O que você precisa lembrar é que um jogador
-pode repassar a mensagem à uma pessoa de 
-cada vez.
+What you need to remember here is that
+any one person can only spread the
+message to one other person at a time.
 
-Tente reler o enigma com isto em mente.
+Try reading the puzzle again while
+bearing the above in mind.
 
 !******************************!
-Toda vez que uma pessoa repassa a mensagem
-para outra, o número de pessoas que sabem a mensagem
-aumenta por um.
+Every time a given person relays the
+message to another person, the number
+of people who know the message will
+increase by one. 
 !******************************!
-Um minuto depois do início do jogo,
-duas pessas já sabem a mensagem.
+One minute after the game starts,
+two people will know the message.
 
-Então se cada uma dessas pessoas forem
-espalhar a mensagem no final do segundo
-minuto, um total de quatro pessas saberão
-a mensagem.
+If each of those people then goes on to
+spread the message, by the end of the
+second minute, a total of four people
+will know the message.
 
-Vê aonde estamos indo?
+Can you see where this is going?
 !******************************!
 [n21.dat]
-<0022>Tirando o Lixo 1
+<0022>Cleaning Up 1
 <00><2D><28><23><11><12><19><15><4D><04><02><FF>
-Coloque o lixo na lata de lixo, que é onde
-ele pertence!
+Put that rubbish into the bin, where it
+belongs!
 
-Mova os blocos que estão te atrapalhando
-e deslize a pilha de lixo para a lixeira no final
-da tela.
+Move the blocks obstructing your path and
+slide the pile of rubbish into the bin at
+the bottom of the screen. 
 !******************************!
-Ah, muito melhor!
+Ah, that's much better!
 
-Não se esqueça, lugar de lixo é na lixeira,
-não na rua!
+Now don't forget, litter belongs in the
+bin, not on the street!
 !******************************!
-
-!******************************!
-Tente começar com as instruções abaixo.
-
-Empilhe os quatro blocos azuis, com o primeiro
-bloco no fundo da lixeira. Em seguida, encontre
-um jeito de colocar um dos quatro blocos no vão
-do canto superior direito.
-
-Assim que os encaixar, não precisará mover
-esse bloco de novo!
-!******************************!
-Se está empacado, coloque um bloco
-azul nas áreas do topo, fundo e na direta do
-enigna, então tente mover os outros blocos
-nos espaços que restaram.
 
 !******************************!
-Remover o bloco azul do fundo da lixeira
-será o seu penúltimo movimento.
+Try getting started with the
+instructions below.
+
+Stack the four blue blocks on top of
+each other, with the first one at the
+bottom of the bin. Next, find a way to
+get one of those four blocks into the
+little indentation in the top-right
+corner.
+
+Once it's in place, you won't need
+to move that block again!
+!******************************!
+If you're feeling stumped, place a
+blue block in the uppermost, lowermost
+and rightmost areas of the puzzle.
+Then try moving the other blocks around
+in the remaining space.
+
+!******************************!
+Removing the blue block from the bottom
+of the bin will be your penultimate
+move.
 !******************************!
 [n22.dat]
-<0023>Uma Derrota Amarga
+<0023>A Sour Defeat
 <00><0F><07><04><12><06><02><16><E8><03><02><FF>
-Dois homens, aqui conhecidos como 1 e 2, estão
-jogando um estranho jogo. Primeiro, os dois homens
-colocam seus jarros vazios sob a mesa. A seguir, um
-juiz traz uma jarra cheia de veneno e a coloca ou no
-ponto A ou no B. O juiz então começa a colocar o veneno
-na jarra adjacente, e depois de novo e de novo. Depois de
-mover o líquido 55 vezes, o dono da jarra cheia de veneno
-deve bebê-la.
+Two men, known here as 1 and 2, are playing
+a strange game. First, both men put their
+empty pitchers on the table. Next, a judge
+brings a pitcher filled with vinegar and
+places it in either spot A or spot B.
+The judge then starts shifting the vinegar
+from one pitcher to any adjacent pitcher
+over and over. After moving the liquid 55
+times, the owner of the vinegar-filled
+pitcher must down it in one! Ugh!
 
-Se você fosse o juiz e secretamente quisesse
-que o 2 bebesse o veneno, colocaria o jarro no
-ponto A ou B?
+If you were the judge and secretly wanted
+2 to drink the vinegar, would you place the
+pitcher down in spot A or B?
 !******************************!
-Muito bem!
+Nicely done!
 
-O líquido troca de jarros 55 vezes, que é um
-número ímpar. Onde quer que coloque o seu
-jarro, o que ficar no meio sempre terá veneno
-depois de um número ímpar de trocas.
+The vinegar changes pitchers 55 times,
+which is an odd number of pours. Regardless
+of where you place your pitcher, whichever
+pitcher sits in the middle of the three
+will always contain the vinegar after an
+odd number of pours.
 
-Ou seja, para que o 1 possa ganhar, o jarro de veneno
-deve ir no ponto B, já que assim o jarro do 2 ficará no meio,
-garantindo sua derrota.
+Therefore, in order for man 2 to drink, the
+vinegar-filled pitcher must go in spot B,
+because doing so will put man 2's pitcher in
+the middle, thus guaranteeing the vinegar
+ends up in his pitcher.
 !******************************!
-Que pena!
+Too bad!
 
-Normalmente você precisaria de encorajamento para tentar
-de novo, mas como só tem duas respostas possíveis, creio que
-você já tenha a solução...
+Normally, you might need some encouragement
+to try again at this point, but as there are
+only two possible answers to this problem,
+you now know the solution...
 
-Mas tente pensar nos motivos que te levariam até a
-resposta certa!
+Do try to work out the reasoning behind the
+solution before answering, though!
 !******************************!
-Pegue alguns copos d'água e tente você mesmo
-o enigma. Tirando o veneno, claro
+Grab a few water glasses and try the
+puzzle out for yourself, minus the
+vinegar, of course.
 
-A regra que determina onde o veneno irá parar
-se revelará num instante.
+The rule that determines where the
+vinegar ends up should soon become
+obvious.
 !******************************!
-Se você parasse depois de cinco trocas
-ao invés de 55, mudaria alguma coisa?
+If you stopped after five pours instead
+of 55, would anything be different?
 !******************************!
-Não é engraçado como
-em toda troca que termina em números ímpares,
-o veneno sempre acaba no meio dos três jarros?
+Isn't it funny how on every
+odd-numbered pour, the vinegar ends up
+in the middle of the three pitchers?
 !******************************!
 [n23.dat]
-<0024>A Tira de Papel
+<0024>A Strip of Paper
 <01><0A><09><08><11><09><16><17><F6><03><02><FF>
-Depois de tentar dobrar uma tira de papel
-no meio, você percebe que um dos lados
-é um centímetro maior que o outro. Determinado
-a fazer certo, você dobra a tira de novo, e descobre
-que agora é a outra ponta da tira que é um centímetro
-maior.
+After trying to fold a strip of paper in
+half, you notice that one side of the
+folded strip is one centimetre longer than
+the other. Determined to get it right, you
+fold the strip again, only to discover that
+now the other end of the folded strip is
+one centimetre longer than the other.
 
-Você fez duas dobras na tira. Qual é a distância em
-milímetros entre as duas dobras
+You've now made two fold creases in the
+strip. What is the distance in millimetres
+between the two creases?
 !******************************!
-Isso aí!
+That's right!
 
-A distância entre as dobras são de 1
-centímetro, ou 10 milímetros.
+The distance between the creases is one
+centimetre, or 10 millimetres.
 
-Se está com problemas para visualizar,
-imagine que a caixa de fósforos mostrada
-acima tem a altura d um centímetro.
+If you're having trouble visualising this,
+imagine that the matchbox shown above has
+a height of one centimetre.
 
-Agora imagine que um dos lados da caixa de
-fósforos foi removida e que parece com sua tira
-de papel depois de ter sido dobrada duas vezes!
+Now imagine that one of the matchbox's
+sides was removed. It looks just like
+your strip of paper after being folded
+twice! The excess length of your folds
+is represented by the remaining side.
 !******************************!
-Que pena!
+Too bad!
 
-Comece considerando onde a primeira dobra
-na tira de papel deve ser posicionada.
+Start by considering where the first fold
+along the paper strip must be positioned.
 !******************************!
-Pense o quão mais longo uma das <''>metades<''> da
-tira era comparado ao outro depois da primeira 
-dobra.
+Think about how much longer one <''>half<''> of
+the strip was compared to the other one
+after the first fold.
 !******************************!
-Lembre-se, está sendo pedido para responder em
-milímetros.
+Remember, you're being asked to answer
+in millimetres.
 !******************************!
-Considere a localização da primeira
-dobra. A segunda deve ter sido feita a
-um centímetro desta localização.
+Consider the location of the first fold.
+The second fold must have been
+positioned one centimetre away from
+this location.
 
-Isso esclarece as coisas para você?
+Does that clear things up for you?
 !******************************!
 [n24.dat]
-<0025>Natureza Selvagem
+<0025>Surviving in the Wild
 <00><14><12><10><11><12><03><18><E9><03><02><FF>
-Depois de anos com os negócios indo mal,
-um zoológico finalmente ficou sem dinheiro
-para comprar comida aos seus animais. Com
-suas barrigas roncando de fome, os animais bolam
-um plano para escaparem de lá. Depois de forçar as
-barras enferrujadas de suas jaulas, todos tentam
-encontrar a saída por entre os caminhos confusos
-do zoológico.
+After years of bad business, a zoo has
+finally run out of money to buy food for
+its animals. Bellies rumbling from days with
+no food, the animals make a plan to escape
+the zoo. After prising open the rusty bars
+on their cages, all the animals attempt to
+find their way through the maze-like paths
+of the zoo to the exit.
 
-Toque a imagem de cada animal que você acha que
-conseguirá escapar com segurança do zoológico, depois
-toque em #rEnviar#x para responder. Mas lembre-se, na
-selva os animais mostram quem realmente são.
+Touch the picture of each animal you think
+made it safely out of the zoo and then
+touch #rSubmit#x to answer. Just remember,
+animals show their true colours in the wild.
 !******************************!
-Bem pensado!
+Sharp thinking!
 
-O único animal que conseguirá escapar com segurança
-é o leão. Enquanto ambos o leão e o coelho conseguem
-ir até o caminho que leva à saída, assim que o leão
-bater os olhos no coelho, é certeza que irá comê-lo.
+The only animal that will safely escape to
+freedom is the lion. While both the rabbit
+and the lion will make it as far as the path
+to the exit, the second the lion spots the
+rabbit he's guaranteed to eat it.
 
-A natureza as vezes é cruel...
+Nature, red in tooth and claw...
 
 !******************************!
-Que pena!
+Too bad!
 
-Pense bem nas pistas que lhe foram dadas e
-tente novamente.
+Think hard about the puzzle and try again.
 !******************************!
-Para começar, tente traçar seu caminho
-com a caneta stylus.
+To start, try tracing your way through
+the maze with the stylus.
 
-Aliás, esse truque pode já ser conhecido por
-você, mas geralmente é mais fácil traçar o seu
-caminho começando pela saída.
+Also, this trick is probably old news
+to you by now, but in case you've
+forgotten, it's often helpful to try
+working your way backwards from the
+exit.
 !******************************!
-Labirintos te deixam tonto? Economize tempo
-usando a função memo para marcar os caminhos
-sem saída.
+Do mazes make your head spin? Take some
+of the work out of following all those
+corridors by using the Memo Function to
+mark dead ends and the paths that lead
+to them.
 !******************************!
-Se já descobriu quais animais conseguem
-escapar, parabéns! Mas pense por um momento
-no título desse enigma. Todos os animas são livres
-assim que saem de suas jaulas. Mas lá fora ser uma selva.
-Só porque tem uma rota das jaulas dos animais até a saída,
-não significa que vão conseguir escapar com segurança.
+If you've already worked out which
+animals can make it to the exit,
+congratulations! But think for a
+moment about the title of this puzzle.
+All the animals are free once they
+leave their cage, but it can be a jungle
+out there. Just because there is a
+route from an animal's cage to the exit,
+doesn't necessarily mean that animal
+will be able to make it there safely.
 !******************************!
 [n25.dat]
-<0026>Troca de Trens
+<0026>Train Swap
 <00><19><16><13><11><14><19><19><FF><03><02><03>
-Troque as posições dos dois trens nos trilhos.
-Mova os vagões um de cada vez, tendo certeza
-que os números ao lado dos trilhos correspondem
-com os de cada vagão.
+Swap the positions of the two trains along
+the tracks. Move the carriages one at a
+time and make sure that the numbers by the
+side of the track match the numbers on
+each carriage.
 !******************************!
-Isso aí!
+That's right!
 
-Agora apresse-se se volta ao trem! Já está
-mais atrasado do que deveria.
+Now hurry back to the train. It's behind
+schedule as it is!
 !******************************!
 
 !******************************!
-O primeiro passo é colocar os vagões do
-mais curto nos trilhos de cima.
+The first step is to get the carriages
+from the shorter train onto the top
+track.
 !******************************!
-Mova o vagão vermelho #1 para o espaço
-do lado direito nos trilhos de cima. Depois
-mova todos os vagões verdes para os trilhos
-de baixo e você poderá mover o vagão vermelho #1
-até seu lugar designado.
+Move the red carriage marked 1 to the
+space on the far right side of the upper
+track. After that, move all the green
+carriages to the lower track and you'll
+be able to slide that first red carriage
+into its assigned spot.
 !******************************!
-Aplique o método da Dica 2 para
-mover os outros vagões e você terá
-os trens trocados em um instante.
+Apply the method described in Hint 2
+to move the other carriages and you'll
+have those trains switched around in
+no time!
 !******************************!
 [n26.dat]
 <0027>A Dramatic Farewell
@@ -983,46 +1068,48 @@ on this?
 
 !******************************!
 [n3.dat]
-<0004>Um Quarto Trancado
+<0004>A Secure Room
 <00><1E><1B><18><12><05><05><03><EB><03><01><FF>
-Dado que o apartamento do doutor se encontra 
-no oitavo andar e que a porta estava seguramente
-trancada, você até poderia pensar que não tinha 
-jeito de sair nem entrar desse quarto. Entretanto, um
-único detalhe suspeito provê uma pista 
-quanto ao que aconteceu aqui.
+Given that the doctor's flat is on the
+eighth floor and that the door was securely
+locked, you might think that there was no
+way in or out of this room.
+However, a single suspicious detail provides
+a clue as to what went on here.
 
-Olhe em todas as quatro direções e examine o
-quarto com cuidado. Quando você achar que encontrou
-o tal detalhe acusador, o circule com a caneta stylus
-e toque em #rEnviar#x. Tenha certeza de circulas apenas um
-objeto ou a sua resposta não vai valer!
+Look in all four directions and examine the
+room carefully. When you think you've found
+the tell-tale detail, circle it with the
+stylus and touch #rSubmit#x. Be sure to
+circle only one object, or else your answer
+won't count!
 
 !******************************!
-Bem observado!
+Well spotted!
 
-Por alguma razão parte da cortina foi
-rasgada! O que poderia ter acontecido caqui?
+For some reason, part of the curtain has
+been ripped clean off! What could have
+happened here?
 !******************************!
-Que pena!
+Too bad!
 
-Se você está empacado, pense em como
-o criminoso poderia ter fugido da cena.a
+If you're stumped, think about how the
+assailant could have fled the scene.
 !******************************!
-Olhe em todas as direções. Você está
-procurando por algo suspeito.
+Take a good look in all directions. You're
+looking for something suspicious.
 
-O apartamento do Dr. Schrader certamente
-é cheio de objetos estranhos e raros, mas
-<">estranho e raro<"> não é a 
-mesma coisa que <">suspeito<">.
+Dr Schrader's flat is certainly full of all
+kinds of strange and rare objects, but
+<''>strange and rare<''> isn't the same
+thing as <''>suspicious<''>.
 !******************************!
-As partes do apartamento que o
-professor e o Inspetor Chelmey estão
-não têm o que você procura.
+The parts of the flat that the
+professor and Inspector Chelmey are in
+do not contain what you're looking for.
 !******************************!
-O objeto em questão é encontrado em pares
-na maioria das vezes.
+The suspicious detail concerns one of a
+pair of objects.
 !******************************!
 [n30.dat]
 <0031>Pass the Apples
@@ -1501,40 +1588,40 @@ The green club should be placed above
 the yellow circle.
 !******************************!
 [n4.dat]
-<0005>A Mala de Luke
+<0005>Luke's Trunk
 <00><1E><1B><18><12><08><1A><04><00><04><02><FF>
-Os pertences de Luke estão uma bagunça
-e precisam ser guardados em sua mala.
+Luke's belongings are all over the place
+and need to be packed away in his trunk. 
 
-Use a caneta stylus para mover os objetos para a
-mala, prestando atenção para que nenhum fique
-em cima do outro. Quando tudo estiver guardado 
-direitinho na mala, toque em #rEnviar#x.
+Use the stylus to move objects into the
+trunk, making sure that none of them
+overlap. When everything has been placed
+neatly into the trunk, touch #rSubmit#x.
+!******************************!
+Good work!
 
+Luke should be able to close the trunk
+properly now.
 !******************************!
-Bom trabalho!
+Too bad!
 
-Agora o Luke pode fechar
-sua mala facilmente.
+Are you sure some items aren't overlapping
+each other?
 !******************************!
-Que pena!
+You can use little items like the
+telescope or harmonica to fill in small
+gaps later, so place the larger items in
+the trunk first. 
+!******************************!
+That unwieldy frying pan and spatula set
+go in the bottom-left corner. Luke's
+teddy bear belongs in the top-right
+corner. That should be enough to get
+you started.
+!******************************!
+The book goes in the top-left corner.
 
-Tem certeza que nenhum item está
-por cima do outro?
-!******************************!
-Você pode usar os itens menores como a
-gaita e o telescópio pra preencher espaços
-pequenos depois, então coloque primeiro
-os itens maiores.
-!******************************!
-O enorme conjunto de frigideira e espátula
-vão no canto inferior esquerdo. O ursinho
-do Luke pertence no canto superior direito.
-Isso deve bastar pra você poder começar.
-!******************************!
-O livro vai no canto superior esquerdo.
-
-Você deve dar conta do resto.
+You should be able to work out the rest.
 !******************************!
 [n40.dat]
 <0041>Cube Halves
@@ -1975,171 +2062,174 @@ and three Nowheys, you know that this
 assumption must be incorrect.
 !******************************!
 [n5.dat]
-<0006>Pilhas de Panquecas1
+<0006>Piles of Pancakes 1
 <00><0F><0D><0B><02><0E><0D><05><F3><03><02><FF>
-Aqui vai um enigma saboroso pra você.
+Here's a tasty puzzle for you.
 
-Você consegue mover a pilha de panquecas do prato
-azul a esquerda para o prato vermelho na direita?
-Espera aí, não tão fácil quanto parece.
-Você deve seguir estas regras:
+Can you move the pile of pancakes from the
+blue plate on the left to the red plate on
+the right? Wait, though, it's not as easy as
+it sounds. You must follow these rules:
 
-<->Você só pode mover uma panqueca de cada vez.
-<->Você não pode colocar uma panqueca grande
-em cima de uma menor.
+<->You can only move one pancake at a time.
+<->You cannot place a pancake on top of
+another one that is smaller than itself.
 
-Você pode usar o prato do centro e
-mover as panquecas quantas vezes quiser.
+You can use the middle plate and move the
+pancakes as many times as you like.
 !******************************!
-Delicioso!
+Delicious!
 
-Esse enigma é na verdade uma variação do
-famoso <''>Torre de Hanói<''>, um enigma inventando
-por um matemático francês lá em 1883.
+This puzzle is actually a variant of the
+famous <''>Tower of Hanoi<''>, a puzzle invented
+by a French mathematician all the way back
+in 1883.
 !******************************!
 
 !******************************!
-De início esse enigma pode parecer atordoante,
-mas não é tão difícil assim.
+This puzzle may be overwhelming at first,
+but it's not actually that difficult.
 
-Se não conseguir chegar em uma solução pela lógica,
-apenas movas as panquecas um pouco e eventualmente
-você chegará em uma resposta.
+If you can't work out a solution using
+logic, just move the pancakes around
+and you'll eventually reach the solution.
 !******************************!
-Se você conseguir colocar a maior panqueca no
-prato vermelho, significa que está quase lá.
+If you can get the biggest pancake onto
+the red plate, you're almost there.
 !******************************!
-Mova a menor das panquecas para o prato 
-vermelho, então coloque a panqueca de 
-tamanho médio no prato do meio.
+Move the smallest pancake to the red
+plate, then place the medium-sized
+pancake on the middle plate.
 
-Em seguida coloque a menor das panquecas em cima
-da panqueca de tamanho médio. Isso vai livrar o
-prato vermelho pra maior das panquecas.
+Next, place the smallest pancake on top
+of the medium-sized pancake. This will
+free up the red plate for the biggest
+pancake.
 !******************************!
 [n50.dat]
-<0051>Gatos Malucos
+<0051>Crazy Cats
 <00><14><0F><0A><11><1E><02><32><E8><03><03><FF>
-Uma das tres imagens coloridas A, B ou C,
-é a mesma em preto e branco mostrada no
-canto esquerdo. Consegue descobri qual é?
+One of the three colour pictures A, B or C,
+is the same picture as the black-and-white
+one displayed on the far left. Can you find
+which one?
 
-A única diferença é quie a imagem no canto
-esquerdo teve seu conteúdo virado da
-esquerda para a direita e as suas cores
-invertidas e trocadas para preto e branco.
+The only difference is that the picture on
+the far left has had its content flipped
+left to right and its colours inverted and
+changed to black and white.
 
 !******************************!
-Olhos de águia!
+Well spotted!
 
-B era a imagem que você estava procurando.
-As sobrancelhas do gato na A e o padrão
-das linhas no fundo da C são diferentes
-da imagem no canto esquerdo.
+B is the picture you were looking for.
+The cat's eyebrows in A and the pattern
+of the lines in the background in C are
+different from the picture on the left.
 !******************************!
-Que pena!
+Too bad!
 
-Estude os detalhes de cada imagem
-mais uma vez.
+Study the details of each picture one more
+time.
 !******************************!
-Comparar A, B ou C com a imagem no
-canto esquerda é trabalhoso e pode
-ser complicado achar as diferenças.
+Comparing A, B or C with the picture on
+the far left is a lot of work, and it
+can be hard to find differences.
 
-Que tal esquecer sobre essa imagem por
-um momento e só focar em encontrar as
-diferenças entre A, B e C?
+Why not forget about that picture for a
+moment and just focus on finding the
+differences between A, B and C?
 !******************************!
-Não se esqueça de olhar essas
-linhas no fundo.
+Don't forget to look at those lines
+in the background.
 !******************************!
-As sobrancelhas dos gatos valem a
-pena olhar também!
+The eyebrows of the cats are worth
+a look too!
 !******************************!
 [n51.dat]
-<0052>Chapéu do Tempo
+<0052>Hat Weather
 <00><1E><1B><18><71><18><0B><33><F1><03><03><FF>
-Há um rapaz com certas regra específicas
-sobre quando usar o seu chapéu.
-<->Quando está sol, ele usa o chapéu.
-<->Quando está chovendo, ele não o usa.
-<->Quando está nublado, ele não usa o chapéu
-a não ser que esteja nublado por dois dias
-seguidos, quando, então, ele usa seu chapéu
-no segundo dia desse caso.
+There is a fellow with very particular rules
+about when he wears his hat.
+<->When it's sunny, he always wears his hat.
+<->When it's rainy, he doesn't wear his hat.
+<->When it's cloudy, he doesn't wear his
+hat unless it's been cloudy for two days in
+a row, in which case he wears his hat on the
+second of these days.
 
-Abaixo segue uma tabela de quando esse
-rapaz decidiu usar seu chapéu no decorrer
-de uma semana. Use os painéis para preencher
-com o tempo de cada dia da semana.
+Below is a schedule of when this fellow
+decided to wear his hat over the course of
+one week. Use the panels to fill in the
+weather for each day of the week.
 !******************************!
-Excelente!
+Excellent!
 
-Se você considerar que a Segunda-Feira
-mostrada era o segundo dia  seguido de
-tempo nublado, então nosso amigo deve ter
-usado seu chapéu nesse dia. O resto da
-solução, então, acaba fazendo sentido.
+If you assume that the Monday shown was
+the second cloudy day in a row, then our
+friend must have worn his hat on that day.
+The rest of the solution then falls right
+into place.
 !******************************!
-Que pena!
+Too bad!
 
-Pense direito sobre as regras do homem
-acerca de seu chapéu e tente novamente.
+Think hard about the man's rules concerning
+his hat and try again.
 !******************************!
-Comece colocando uma placa indicando chuva em
-cada dia que nosso amigo não usou o chapéu.
+Start by placing a rain tile on each
+day where our friend didn't wear a hat.
 !******************************!
-Quando você colocar as placas indicando chuva
-como sugerido na Dica 1, você deve notar que
-não há mais espaço sobrando para suas placas
-que indicam nuvens.
+Once you place the rain tiles down as
+described in Hint 1, you may notice that
+there are no more places left for your
+cloud tile.
 
-Você poderia colocá-la em um dos dias com
-chapéu se esse dia fosse o segundo dia
-seguido de tempo nublado, mas não parece
-haver um caso assim nessa semana.
+You could place it down on one of the
+days with a hat if that day was the
+second day of cloudy weather in a row,
+but no two days in this week appear to
+have been cloudy...
 !******************************!
-Se o tempo estava nublado no Domingo da
-semana passada, ele poderia usar seu
-chapéu na Segunda-Feira.
+If the weather was cloudy on the Sunday
+of the previous week, he could wear his
+hat on Monday.
 !******************************!
 [n52.dat]
-<0053>Clube do Bolinha
+<0053>Boys' Club
 <00><1E><1B><18><11><1C><05><34><EB><03><03><FF>
-Abaixo está uma roda de retratos de homens e
-mulheres. Selecione um retrato e, contando
-esse retrato como um, mova seis retratos ou
-no sentido horário ou no sentido anti-horário
-e risque o último desses seis retratos.
-Repita o procedimento, começando do próximo
-retrato disponível e sempre movendo-se na
-mesma direção. Lembre-se de pular os que você
-já riscou. Se você começar pelo retrato certo,
-poder-se-á remover todas as mulheres na roda,
-deixando somente os seis retratos de homens.
-Qual retrato é esse? Circule sua resposta.
-Lembre-se que você se mover tanto no sentido
-horárioo como no sentido anti-horário.
+Below is a wheel of male and female
+portraits. Select a portrait and, counting
+that portrait as one, move six portraits
+either clockwise or anticlockwise and cross
+out the last of these six portraits.
+Repeat this pattern, starting from the
+next available portrait and always moving
+in the same direction. Remember to skip the
+ones you crossed out. If you start at the
+right portrait, you can remove all the women
+in the wheel, leaving only the six portraits
+of men behind. Which portrait is this?
+Circle your answer. Remember, you can move
+clockwise or anticlockwise.
 !******************************!
-Muito bem!
+Very nice!
 
-Se você começar contando por esse homem,
-e prosseguir no sentido anti-horário pela roda,
-você irá eventualmente remover todos os retratos
-de mulheres.
+If you begin counting from this man, and
+proceed anticlockwise around the wheel,
+you'll eventually remove all the female
+portraits.
 !******************************!
-Que pena!
+Too bad!
 
-Tente resolve o enigma novamente.
+Give the puzzle another try.
 !******************************!
-O primeiro retrato que você escolher
-deverá ser o de um homem.
+The first portrait you choose should be
+of a man.
 !******************************!
-Mova-se no sentido anti-horário
-para achar a sua resposta.
+Move anticlockwise to find your answer.
 !******************************!
-O primeiro retrato que você deve remover é
-o de uma garota posicionada às cinco horas.
+The first portrait you should remove is
+the girl positioned at five o'clock.
 !******************************!
 [n53.dat]
 <0054>Painting the Flag
@@ -2194,45 +2284,50 @@ in the remaining two sections gives you a
 total of nine distinct designs.
 !******************************!
 [n54.dat]
-<0055>O Colar do Sammy
+<0055>Sammy's Necklace
 <00><1E><1B><18><11><15><16><36><F6><03><03><FF>
-Sammy tem oito correntes com sete elos cada.
-Ele quer ligar todas essas correntes para formar
-um colar. O joaleiro diz que custará <po>2 sempre
-que abrir e fechar um único elo.
+Sammy has eight chains with seven links
+each. He wants to connect all these chains
+to make a necklace. The jeweller says that
+it will cost <po>2 each time he opens and closes
+a single link.
 
-Como mostrado abaixo, Sammy poderia abrir uma
-extremidade de cada uma das oitos correntes para
-formar um grande colar. Todavia, isso custará <po>16,
-e a verdade é que há meios mais  baratos de se obter
-o mesmo resultado. Usando o método mais barato possível,
-quanto custará para se formar o colar?
+As shown below, Sammy could open one end of
+each of the eight chains to make one long
+necklace. However, that would cost <po>16, and
+the truth is that there's a cheaper way to
+get the same result. Using the cheapest
+method possible, how much will it cost to
+make the necklace?
 !******************************!
-Ponto!
+Score!
 
-Pegue um dos sete elos de correntes do Sammy,
-separe cada um e use-os para ligar as pequenas
-correntes restantes, como mostrado na ilustração.
+Take one of Sammy's seven-link chains,
+break each link apart, and use them to
+connect the remaining small chains together,
+as shown in the illustration.
 
-Se o Sammy usar esse método, ele poderá
-conseguir o colar de seus sonhos por apenas <po>14.
+If Sammy uses this method, he can get the
+necklace of his dreams for only <po>14.
 !******************************!
-Que pena!
+Too bad!
 
-Tente resolve o enigma de novo.
+Give the puzzle another try.
 !******************************!
-O número de elos em cada pequena corrente
-é uma pista crucial que ajudar-lo-á a
-a solucionar o enigma.
+The number of links in each small chain
+is a crucial clue that will help you
+solve the puzzle.
 !******************************!
-Voce não esteve só abrindo os elos nas
-extremidades de cada pequena corrente, né?
+You haven't only been opening the
+links on the ends of each small chain,
+have you?
 !******************************!
-Tente pegar uma pequena corrente, abrir cada
-um de seus sete elos e usar aqueles elos abertos
-ligar com as outras pequenas correntes.
+Try taking one small chain, popping
+open each of its seven links, and using
+those individual open links to connect
+the other small chains together.
 
-A resposta está mais clara agora?
+Is the answer clearer now?
 !******************************!
 [n55.dat]
 <0056>The Door's Code
@@ -2488,206 +2583,219 @@ plaza have the same shape and are
 directly proportional to one another.
 !******************************!
 [n6.dat]
-<0007>Quatro Casais
+<0007>Four Couples
 <00><14><12><10><11><0B><05><06><EB><03><02><FF>
-Quatro casais estão sentados em um vagão de jantar lotado.
-Todos os comensais estão sentados de frente ou ao lado
-de seus parceiros:
+Four couples sit in a crowded dining car.
+All diners are sitting next to or across
+from their partners:
 
-<->Os Jones estão sentados no corredor.
-<->O abigodado Sr. O'Connor está sentado
-próximo à sua esposa.
-<->Sr. Lambert está sentado à frente da sua esposa.
+<->The Joneses are sitting by the aisle.
+<->The moustachioed Mr O'Connor is sitting
+next to his wife.
+<->Mr Lambert is sitting opposite his wife.
 
-Usando a informação acima, você consegue
-determinar onde a Sra. Hadley está sentada?
-Circule-a e depois toque em #rEnviar#x.
+Using the information above, can you
+determine where Mrs Hadley is sitting?
+Circle her and touch #rSubmit#x.
 !******************************!
-Isso aí!
+That's right!
 
-O abigodado Sr. O'Connor está sentado próximo à
-sua esposa, então todas as pessoas a esquerda devem
-estar sentados perto de seus companheiros.
-Sr. Lambert está sentado na frente de sua eposa, 
-então ele deve estar sentado na mesa da direita.
+Moustachioed Mr O'Connor is sitting next to
+his wife, so all the people on the left must
+be sitting next to their spouses.
+Mr Lambert is sitting opposite his wife, so
+he must be sitting at the right-hand table.
 
-Os Joneses estão sentados no corredor, então
-eles devem ser c e g. Assim sobram e
-e f como os Hadleys.
+The Joneses are sitting by the aisle, so
+they must be c and g. That leaves e and
+f as the Hadleys.
 !******************************!
-Que pena!
+Too bad!
 
-Pense bastante nas pistas que lhe foram
-dadas e tente novamente
+Think hard about the clues you've been
+given and try again.
 !******************************!
-O abigodado Sr. O'Connor é b.
-Já que ambos c e f são homens, sua esposa
-deve ser a.
+The moustachioed Mr O'Connor is b.
+Since both c and f are men, his wife has
+to be a. 
 !******************************!
-Ambos os Jones estão sentados no corredor,
-o que significa que eles devem estar sentados um
-na frente do outro.
+The Joneses are both sitting by the
+aisle, which means they must be sitting
+opposite each other.
 
-Agora que você já sabe que b é o Sr. O'Connor, 
-c e g devem ser o Sr. e Sra. Jones.
+Since you know b is Mr O'Connor, c and g
+must be Mr and Mrs Jones.
 !******************************!
-E onde deve estar o Sr. Lambert?
+Where is Mr Lambert in all this?
 
-Nós sabemos que a e b são os O'Connors,
-então as pessoas sentadas na frente deles também
-devem ser un casal. Mas não podem ser os Lamberts
-já que eles estão sentados um na frente do outro.
+We now know a and b to be the O'Connors,
+so the people sitting opposite them must
+also be a couple. But they can't be the
+Lamberts because the Lamberts have to
+be sitting opposite each other.
 
-Agora você deve conseguir identificar
-os quatro casais.
+You should now be able to identify all
+four couples.
 !******************************!
 [n7.dat]
-<0008>O Grande Jantar do Luke
+<0008>Luke's Big Dinner
 <00><19><16><13><11><0B><03><07><E9><03><02><FF>
-<''>Luke, tem certeza aue consegue comer 
-isso tudo? Você fez um baita pedido.<''>
+<''>Luke, are you sure you can really eat all
+that? You put in quite an order there.<''>
 
-<''>Sem problemas, Professor! Vou limpar meu prato
-e ainda ter espaço pra mais.<''>
+<''>No problem, Professor! I'll clean my plate
+and still have room for more.<''>
 
-Não é à toa que o professor esteja preocupado, já
-que o pedido do Luke custa o dobro que o seu próprio pedido!
+It's no wonder the professor is concerned,
+as Luke's order cost twice what his own did!
 
-Abaixo você pode ver todos os itens que os dois
-compraram, junto de seus preços.
+Below you can see all the items the two
+ordered, along with their prices.
 
-Toque os preços dos itens que Luke comprou.
+Touch the prices of the items that Luke
+ordered.
 !******************************!
-Bom trabalho!
+Good work!
 
-Se você calcular o total da conta, verá que
-a refeição custou <po>105. Sabendo do total,
-Luke deve ter pedido o equivalente a <po>70 de comida
-e o professor <po>35. Depois que conseguiu esses
-números o resto é moleza.
+If you calculate the total bill, you'll see
+that the meal cost <po>105. Knowing the total,
+Luke must have ordered <po>70 worth of food
+and the professor <po>35 worth. Once you've
+got those numbers, the rest is easy.
 
-<''>Tem certeza que não pediu demais?<''>
+<''>Are you sure you didn't order too much?<''>
 
-<''>Não! Esse (slurp) ensopado é ótimo, e esse
-bife (nhac) é delicioso também!<''>
+<''>Nope! This (slurp) stew's great and the
+steak is (chomp) delicious too!<''>
 
 <''>...<''>
 !******************************!
-Que pena!
+Too bad!
 
-Talvez não esteja vendo o problema do jeito certo.
-Por quê não tenta uma abordagem diferente?
+Perhaps you aren't going about this quite
+the right way. Why don't you try a
+different approach?
 !******************************!
-Comece somando o custo de toda a refeição.
+Start by adding up the cost of all the
+items on the table.
 !******************************!
-A refeição de Luke custou o dobro da refeição
-do professor. Isso significa que a relação dos
-gastos de Luke comparada aos do professor
-deve ser de 2:1.
+Luke's meal cost twice as much as the
+professor's. That means the ratio of
+Luke's part of the bill compared to
+the professor's must be 2:1.
 !******************************!
-O custo da refeição inteira é de <po>105. 
-Esse total precisa ser dividido para se encaixar
-na nossa relação de 2:1. A soma das partes dessa
-relação é 3, então divida o total por 3 para dar <po>35 
-e os custos vão para (2 x <po>35):(1 x <po>35). Ou seja,
-o jantar de Luke custou <po>70 e o do professor <po>35.
+The cost of the entire meal comes to
+<po>105. This total needs to be split to fit
+our ratio of 2:1. The sum of the parts of
+this ratio is 3, so divide the total by 3
+to get <po>35 and the costs come to
+(2 x <po>35):(1 x <po>35). Therefore, Luke's
+meal cost <po>70 and the professor's <po>35.
 
-Que combinação de comidas e bebidas você consegue encontrar
-que dê a soma de <po>70?
+What combination of food and drink items
+can you find that adds up to <po>70?
 !******************************!
 [n8.dat]
-<0009>Copos Empilhados
+<0009>Stacked Glasses
 <00><0A><08><06><12><0B><02><08><E8><03><02><FF>
-O dono de um restaurante quatro estrelas pede
-para um garçom empilhar copos de uma forma
-decorativa. Ansioso para agradar, o jovem garçom
-imediatamente desenha cinco designs separados
-e os mostra para o dono. O dono dá uma olhada
-rápida nos designs e, com um olhar de irritação, vira
-para o garoto e grita, <''>Esse design é absurdo! 
-Onde você tava com a  cabeça?<''>.
+The owner of a four-star restaurant
+assigns a young waiter the task of stacking
+glasses in a decorative way. Eager to
+please, the waiter immediately draws five
+separate designs and shows them to the
+owner. The owner takes one glance at the
+designs and, with a look of irritation, turns
+to the boy and cries, <''>This design is
+preposterous! What were you thinking?<''>.
 
-Quais dos cincos design o dono
-está se referindo?
+Which of the five designs is the owner
+talking about?
 !******************************!
-Exatamente certo!
+Exactly right!
 
-O dono do restaurante estava falando do
-desenho D. Se prestar atenção, verá que a
-primeira e segunda fileira de copos não
-poderiam de nenhum serem organizadas da
-maneira retratada.
+The restaurant owner was talking about
+sketch D. If you look closely, you can see
+that the first and second row of glasses
+couldn't possibly be arranged in the
+manner depicted.
 
-O simples desenho 2D não considerou
-a boca dos copos.
-
-!******************************!
-Que pena!
-
-O que você acha que o dono do restaurante viu em um
-simples desenho que o deixou tão zangado?
-!******************************!
-<''>Esse design é absurdo!<''>
-
-O dono não éstava com raiva porque o design era
-difícil de ser montado. Ele estava chateado porque
-o design é fisicamente impossível de se fazer na vida real.
-
-
-
+The simple 2D sketch didn't take into
+account the rim of the glass.
 
 !******************************!
-A e C até que poderiam ser organizados com
-mãos firmes e bastante paciência
+Too bad!
 
-Nos resta B, D e E.
+Why do you suppose a simple drawing made
+the restaurant owner so angry?
 !******************************!
-Um dos designs até pode ser desenhado em 2D
-mas, na realidade, seria impossível empilhar os
-copos daquele jeito na vida real.
+<''>This design is preposterous!<''>
 
-No papel, cada copo é representado por  simples linhas
-em formato de U, mas copos de verdade têm mais
-que isso, como lados e uma boca no topo.
+The owner wasn't angry because the
+design in question was hard to assemble.
+He was upset because the design was
+physically impossible to replicate in
+real life.
+
+
+
+
+!******************************!
+A and C could probably be achieved with
+steady hands and a lot of patience.
+
+That leaves B, D and E.
+!******************************!
+There is one design that can be drawn
+in 2D but, in reality, stacks the
+glasses in an impossible way.
+
+On paper, each cup is represented by a
+single U-shaped line, but real glasses
+have more to them than that, namely
+sides and a rim on top.
 !******************************!
 [n9.dat]
-<0010>Uma Obra de Arte
+<0010>A Work of Art
 <01><0F><0D><0B><12><0B><16><09><F6><03><02><FF>
-O desenho abaixo é feito de linhas curvas que se cruzam
-para fazer seções. Se você quer colorir a tela inteira
-para que nenhuma seção se encontre com outra da mesma
-cor, qual o menor número de cores que se pode usar?
-Você pode usar uma cor quantas vezes quiser desde que
-não toque em nenhuma área da mesma cor.
+The drawing below is made up of curved lines
+that intersect to create sections. If you
+want to colour in the entire canvas so that
+no section touches a section of the same
+colour, what's the fewest number of colours
+you can use?
+You can use a colour as many times as you
+like as long as it doesn't touch a section
+with the same colour.
 
-Quando tiver sua resposta, toque em
-#rSolução#x e escreva o número de cores.
+Once you have your answer, touch
+#rInput Answer#x and enter the number of
+colours. 
 
 !******************************!
-Isso aí!
+That's right!
 
-Você precisará de três cores para preencher o
-desenho. A maior parte do desenho pode ser
-feito com duas cores, mas um lugarzinho danado
-no canto inferior esquerdo precisa de uma terceira
-cor para ser completado.
+You'll need three colours to fill in the
+drawing. Most of the drawing can be done
+with two colours, but one pesky area in
+the bottom-left corner requires a third
+colour to complete.
 !******************************!
-Que pena!
+Too bad!
 
-Pense bem e dê outra chance.
+Think about it and have another shot.
 !******************************!
-Não tem truques aqui.
+There's no trick here.
 
-Você pode achar mais fácil se usar a
-função Memo para marcar seções do 
-desenho.
+You might have an easier time if you
+use the Memo Function to mark sections
+of the drawing.
 !******************************!
-Por que não olha dá uma olhada nos cantos
-do desenho?
+Why don't you take a closer look at
+the corners of the drawing?
 !******************************!
-Você pode completar a maior parte do
-desenho usando apenas duas cores, mas
-percebeu como tem uma área danada no
-canto inferior esquerdo que precisa de uma
-cor adicional?
+You can complete most of the drawing
+using only two colours, but did you
+notice there's one pesky area down in
+the bottom-left corner that requires
+an additional colour?
 !******************************!

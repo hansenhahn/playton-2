@@ -1,0 +1,2983 @@
+[n100.dat]
+<0101>Disappearing Act 1
+<00><1E><1B><18><01><29><1D><8A><02><04><04><FF>
+Here's a classic puzzle. The rules are
+simple. You can move any ball on the
+board below as long as it satisfies the
+following conditions:
+<->To move, jump your selected ball over an
+adjacent space occupied by another ball
+into an empty space on the other side.
+You can't jump diagonally.
+<->Once you've made the jump, the ball you
+jumped over disappears from the board.
+<->To complete the puzzle, you must remove all
+balls from the board except for one.
+
+OK, enough rules. Try it for yourself!
+!******************************!
+Well done!
+
+This is one configuration of a puzzle known
+as peg solitaire. As the name suggests, the
+traditional version of this game is played
+with pegs that you insert into holes in the
+game board.
+!******************************!
+Too bad!
+!******************************!
+To make the first of the balls disappear,
+jump the ball in the centre of the
+cross over the ball to its immediate left
+or right.
+!******************************!
+Move the ball at the very bottom into
+the space formerly occupied by the
+centre ball.
+
+With just a few balls to go now, you
+should be able to sail through the rest
+of this puzzle.
+!******************************!
+With puzzles of this type, your first
+move will often determine whether or
+not you'll be able to solve the puzzle.
+!******************************!
+[n101.dat]
+<0102>Disappearing Act 2
+<00><23><1F><1B><01><2D><1D><8A><02><04><04><2D>
+Here's a different configuration for you
+to try. As with last time, you can move
+any ball on the board below as long as it
+satisfies the following conditions:
+<->To move, jump your selected ball over an
+adjacent space occupied by another ball
+into an empty space on the other side.
+You can't jump diagonally.
+<->Once you've made the jump, the ball you
+jumped over disappears from the board.
+<->To complete the puzzle, you must remove all
+balls from the board except for one.
+
+OK, enough rules. Try it for yourself!
+!******************************!
+You got it!
+
+Peg solitaire is a puzzle with a long history.
+It's thought to have first come into
+popularity around the 17th century.
+!******************************!
+Too bad!
+!******************************!
+Your options for a first jump are fairly
+limited. It has to be one of the four
+balls surrounding the centre ball. The
+tough part is deciding what to do next.
+
+For your second move, pop a ball into
+the space that opened up when you
+moved the first one.
+!******************************!
+Next, move a ball into the open centre
+space.
+!******************************!
+Read carefully, because this next move
+is key.
+
+You need to take the ball now sitting 
+in the centre space and move it in the
+direction that you moved your ball in
+the first move.
+
+The rest of the puzzle is up to you.
+!******************************!
+[n102.dat]
+<0103>Disappearing Act 3
+<00><28><24><20><01><23><1D><8A><02><04><04><2E>
+Hmm, these are getting pretty tough.
+You can move any ball on the board below
+as long as it satisfies the following
+conditions:
+<->To move, jump your selected ball over an
+adjacent space occupied by another ball
+into an empty space on the other side.
+You can't jump diagonally.
+<->Once you've made the jump, the ball you
+jumped over disappears from the board.
+<->To complete the puzzle, you must remove all
+balls from the board except for one.
+
+OK, enough rules. Try it for yourself!
+!******************************!
+Good job!
+
+This game is often played on two different
+types of boards: English and French. The
+puzzle you just played used an
+English-style board.
+!******************************!
+Too bad!
+!******************************!
+Wow, these puzzles are really getting
+tough. Here's a hint to take the edge
+off this puzzle.
+
+Start by clearing the ball that's third
+from the edge, sitting in the bottom row.
+!******************************!
+Next, move the ball on the edge of
+the bottom row to fill the space that
+opened up when you removed the ball
+in your first move. Then, repeat the
+process detailed in Hints 1 and 2
+on the other side of the triangle and
+move the balls around until you're left
+with a number of balls arranged in a
+shape that resembles a pine tree.
+The rest of this puzzle is up to you.
+!******************************!
+Hey, didn't Hint 2 clearly say, <''>the rest
+is up to you<''>? Well, just know that you
+won't be able to rely on too many hints
+in the <''>Disappearing Act<''> puzzles to
+come! You can have a hint this time,
+though.
+
+Select a ball one in from the outer
+edge of the pine tree and jump it
+upwards. Then, from this new location,
+jump over the tip of the tree. OK, this
+time, the rest really is up to you.
+!******************************!
+[n103.dat]
+<0104>Disappearing Act 4
+<00><2D><28><23><01><38><1D><8A><02><04><04><FF>
+You know the drill by now. You can move
+any ball on the board below as long as it
+satisfies the following conditions:
+<->To move, jump your selected ball over an
+adjacent space occupied by another ball
+into an empty space on the other side.
+You can't jump diagonally.
+<->Once you've made the jump, the ball you
+jumped over disappears from the board.
+<->To complete the puzzle, you must remove all
+balls from the board except for one.
+
+OK, enough rules. Try it for yourself!
+!******************************!
+Nice!
+
+The only condition for solving these puzzles
+was eliminating all but one ball from the
+board, but the true solution to these
+puzzles requires you to finish with the ball
+positioned in the centre space.
+
+Perhaps that will provide some incentive
+for you to revisit a few of these peg
+solitaire puzzles.
+
+
+!******************************!
+Too bad!
+!******************************!
+These puzzles are a lot more fun if you
+experiment and try to come to the
+answer on your own. Don't depend on
+Hints 2 and 3 to give away too much
+of the puzzle.
+
+Start this puzzle by moving the ball
+in the centre of the second row from
+the top.
+!******************************!
+No more hints to be had here! Instead,
+here's a little fun fact. Did you know
+that peg solitaire is actually known as
+brainvita in India?
+
+Oh, and just so you know, Hint 3 is
+also trivia.
+!******************************!
+There are many games known as solitaire,
+some using boards divided into spaces
+and some using playing cards.
+On a related note, a very large number
+of computer games you could call
+solitaire games have been made since
+the early days of video games.
+!******************************!
+[n104.dat]
+<0105>Disappearing Act 5
+<00><3C><36><30><01><44><1D><8A><02><04><04><FF>
+Get ready, because this one's going to be
+rough. Just like before, you can move
+any ball on the board below as long as it
+satisfies the following conditions:
+<->To move, jump your selected ball over an
+adjacent space occupied by another ball
+into an empty space on the other side.
+You can't jump diagonally.
+<->Once you've made the jump, the ball you
+jumped over disappears from the board.
+<->To complete the puzzle, you must remove all
+balls from the board except for one.
+
+OK, enough rules. Try it for yourself!
+!******************************!
+Nicely done!
+
+One variation of this puzzle challenges the
+player to complete the puzzle in the fewest
+number of moves possible.
+
+For the purposes of this puzzle, multiple
+consecutive jumps using a single ball count
+as only one move. If you've got some time on
+your hands, why not try this puzzle again
+and see how few moves you need to
+complete it?
+!******************************!
+Too bad!
+!******************************!
+Surely it's more fun to think this one
+through on your own...
+
+...OK, fine, you can have a hint, but
+just one. Do not start off this puzzle
+by moving a ball into the centre space.
+Instead, your first goal should be to
+move things so you get rid of one of
+those four balls at the very edge of
+the shape. But where to start?
+!******************************!
+OK, OK, you can have another hint.
+
+Start by moving one of the balls three
+spaces in on the third row up. Move this
+ball down to clear one ball and then
+across to remove the ball at the bottom
+of the shape. Then move a ball in the
+third row up in the same direction as
+your last move. Next, move the ball you
+used from move one into the spot that
+just opened up.
+!******************************!
+If you follow Hint 2 and continue
+playing a little yourself, you should
+be able to arrange the remaining balls
+into a shape that's almost the same as
+the pine tree you saw in <''>Disappearing
+Act 3<''>. Use what you've learned to finish
+the rest of this puzzle.
+!******************************!
+[n105.dat]
+<0106>The Knight's Tour 1
+<00><28><24><20><01><35><11><69><F7><03><04><FF>
+Lead the knight on a trip around the board.
+
+Chess knights move two squares forwards
+and one square perpendicular on each
+turn. The initial direction can be up,
+down, left or right.
+
+Move this knight around the entire board,
+landing on each square only once. 
+
+!******************************!
+Well done!
+
+The Knight's Tour is a classic puzzle
+that's well known in many countries.
+!******************************!
+Too bad!
+!******************************!
+This puzzle is much more fun if you solve
+it yourself, so you should keep the hints
+to a minimum if you can.
+
+But if you're completely stuck, your
+first move takes the knight into the
+middle column.
+!******************************!
+For your second and third moves, you
+don't have any choice where to put
+the knight.
+
+But after that, you should move the
+knight into the bottom row.
+!******************************!
+If you get stuck after the part of the
+puzzle mentioned in Hint 2, head to
+the top part of the board.
+!******************************!
+[n106.dat]
+<0107>The Knight's Tour 2
+<00><32><2D><28><01><35><11><6A><F7><03><04><41>
+Lead the knight on a trip around the board.
+
+Chess knights move two squares forwards
+and one square perpendicular on each
+turn. The initial direction can be up,
+down, left or right.
+
+Move this knight around the entire board,
+landing on each square only once. 
+
+!******************************!
+Well done!
+!******************************!
+Too bad!
+!******************************!
+There are multiple solutions to this one,
+so before you start busting your brain,
+try moving things around according to
+your own set of rules. It beats just
+shuffling the piece around randomly.
+
+!******************************!
+As a general plan of attack, start by
+travelling around the perimeter of the
+board and, once you feel the time is
+right, head in towards the centre of
+the board.
+
+By the way, this is the last hint for
+this puzzle. Hint 3 is just trivia.
+!******************************!
+This is an example of a knight's tour
+puzzle. These puzzles are classics, but
+the depth and elegance of their
+solutions have kept them fresh for
+generations.
+
+!******************************!
+[n107.dat]
+<0108>The Knight's Tour 3
+<00><46><3F><38><01><35><11><6B><F7><03><04><FF>
+Lead the knight on a trip around the board.
+
+Chess knights move two squares forwards
+and one square perpendicular on each
+turn. The initial direction can be up,
+down, left or right.
+
+Move this knight around the entire board,
+landing on each square only once. 
+
+!******************************!
+Well done!
+!******************************!
+Too bad!
+!******************************!
+Sorry, there aren't any more useful
+hints. Just have fun solving this
+classic puzzle!
+!******************************!
+Shogi, often known as Japanese chess,
+has a piece similar to the knight
+in Western chess.
+
+However, unlike knights in Western chess,
+shogi knights can only advance down
+towards the other end of the board.
+Perhaps Western knights were just
+more flexible than their Japanese
+counterparts.
+!******************************!
+If you're really stuck, take a break
+by setting a smaller goal. You could try
+getting stuck in the fewest number of
+moves possible, or move the knight so
+that it traces the shape of a letter.
+Better yet, combine these little games.
+For example, draw two Ys horizontally,
+then try to get your knight stuck in
+as few turns as possible.
+!******************************!
+[n108.dat]
+<0109>Walking the Dog
+<00><32><2D><28><11><40><16><6C><F6><03><04><1B>
+A young girl takes her dog out for a walk
+with her dad. The girl starts walking with
+the dog on a leash 10 seconds before the
+dad starts. The second the dad steps out,
+the girl takes the dog off the leash and
+the dog runs over to the dad. Upon reaching
+him, the dog turns around and heads for the
+girl. The dog keeps doing this until the dad
+catches up with the girl. If the dog moves
+at five metres per second, the father at
+two metres per second and the daughter at
+one metre per second, how far does the dog
+run by the time the dad catches up to his
+daughter?
+!******************************!
+Perfect!
+
+The dog will have run 50 metres in total.
+
+The dog runs for the entire time it takes
+for the father to catch up with his
+daughter. Since the daughter has a 10
+metre head start and her dad gains on her
+at a rate of one metre per second, he'll
+catch up in 10 seconds. The dog is running
+at a rate of five metres per second, so
+the answer must be 50 metres.
+!******************************!
+Too bad!
+
+Are you sure you aren't overthinking this
+one?
+!******************************!
+Puzzles with long explanations often
+have traps hidden in their phrasing.
+Try not to get caught out.
+
+The dad moves at two metres per second
+and the daughter moves at one metre
+per second, so for every second that
+passes, the distance between the two
+shrinks by one metre.
+!******************************!
+The father sets out 10 seconds after
+his daughter. The daughter walks at a
+rate of one metre per second, so she's
+already 10 metres ahead of her father
+when he starts walking.
+
+Using what you know from this hint and
+the last one, you should be able to
+work out that the father catches up to
+his daughter in 10 seconds.
+!******************************!
+The dog runs at a rate of five metres
+per second.
+
+The father catches up to his daughter
+in exactly 10 seconds.
+!******************************!
+[n109.dat]
+<0110>Chelmey's Route
+<00><23><1F><1B><71><25><09><6D><EF><03><04><FF>
+Use what the inspector remembers to find
+the path he took through town.
+
+<''>I took a few turns, but only one at a
+junction that had a cafe on it. I also
+passed in front of one hat shop. Oh, and
+one flower shop too. And I didn't walk any
+farther than necessary.<''>
+
+Now that you've heard his recollection, can
+you trace the route the inspector took
+through town?
+!******************************!
+That's right!
+
+You may have worked out the inspector's
+path through town, but the search for
+those photo scraps is just beginning. 
+!******************************!
+Too bad!
+
+Be sure to consider everything the
+inspector has to say about where he walked.
+!******************************!
+The inspector says he took one turn at
+a junction with a cafe, but that doesn't
+mean he had to turn in the direction of
+the cafe he saw. Instead, what he's
+essentially saying here is that he was
+only able to turn once at any junction
+facing a cafe.
+!******************************!
+Begin by heading right from the starting
+point.
+!******************************!
+When you reach the goal, you'll be coming
+at it from the left.
+!******************************!
+[n110.dat]
+<0111>How Many Turns?
+<00><32><2D><28><11><25><03><6E><E9><03><04><3F>
+Chelmey sent his squad out to investigate
+an incident. Before leaving, he said this:
+<''>I want you to search the entire area shown
+on this map. Take any route you want, but
+report how many times you turned in the
+process. You're free to turn left or right,
+but U-turns are strictly forbidden!<''>
+
+The bobbies completed their shift and
+returned to report their turns. Judging by
+their reports, though, it seems at least
+one man was loafing on the job. Touch the
+numbers you think are suspicious to mark
+them with an X.
+!******************************!
+Sharp thinking!
+
+The two men who took 105 and 113 turns
+must have been slacking off. Since the men
+started out on a horizontal path, you can
+infer that if they turned an odd number of
+times, they'd end up on a vertical path.
+Conversely, if they made an even number of
+turns, they'd end up on a horizontal road.
+
+Any bobby who did his job properly would
+have to turn an even number of times to
+get back to the station, which is at the
+end of a horizontal road.
+!******************************!
+Too bad!
+
+Think hard about the puzzle and try again.
+!******************************!
+If one of the policemen had said he
+turned a total of 1,000 times during the
+course of his investigation, the
+inspector would have no reason to doubt
+the bobby was telling the truth.
+!******************************!
+With U-turns forbidden, there's a
+certain logic you should be able to
+find in all this confusion.
+!******************************!
+Leaving the station and turning an
+odd number of times, regardless of
+the number, will land you on a vertical
+street. Conversely, turn an even number
+of times after leaving the station and
+you'll end up on a road that runs
+horizontally across the screen.
+!******************************!
+[n111.dat]
+<0112>Turn on the Light
+<00><28><24><20><11><33><0F><6F><F5><03><04><FF>
+The board shown in the picture on the left
+is wired on the underside so that holding
+contact points A and B together turns the
+light on.
+
+Now look at the board in the centre. This
+light has three contact points: A, B and C.
+No matter whether you hold contact points
+A and B, B and C or A and C together, the
+light stays on. In that case, how must the
+wires be connected on the underside of the
+board? Draw the solution that requires the
+fewest number of connections. The dotted
+red line indicates a known wire.
+!******************************!
+Bright idea!
+
+All you really have to do is connect
+that light bulb to the battery.
+The puzzle tells you that the light
+stays lit no matter which combination
+of contact points are held together.
+Naturally, the light will also stay lit
+when none of those connections are made.
+!******************************!
+Too bad!
+
+Are you sure your solution meets all the
+conditions set out by the puzzle?
+!******************************!
+<''>No matter whether you hold contact
+points A and B, B and C or A and C
+together, the light stays on.<''>
+
+This might make you think that the
+electricity has to run through all three
+of these connections, but at the same
+time, the positive and negative signals
+need to be isolated from each other,
+which makes things more difficult.
+Read the conditions you have to meet 
+again as carefully as you can.
+!******************************!
+You might be tempted to construct
+something resembling a proper wiring
+job, but that won't do the trick here.
+Be flexible in your thinking about
+what will get the job done!
+!******************************!
+You only need to draw one wire!
+!******************************!
+[n112.dat]
+<0113>A Stack of Dice
+<00><1E><1B><17><11><2D><16><70><F6><03><04><29>
+You've stacked three dice in a column.
+At the points where two dice touch, the
+faces that are touching add up to five.
+
+If one visible face of the bottom die is
+showing a one, what number must be on the
+top face of the top die?
+
+Each die is identical and all sets of opposing
+faces on each die add up to seven, just like
+any other die.
+!******************************!
+That's right!
+
+Since you know that the sum of each set of
+opposing faces is seven, you can easily
+narrow down the possibilities. With a
+little smart thinking, as detailed above,
+you'll soon arrive at the answer: six.
+!******************************!
+Too bad!
+
+Think hard about the puzzle and try again.
+!******************************!
+At the two points where two dice touch,
+the sum of the two faces making contact
+equals five. If that's so, then each of
+these four faces must be a number
+between one and four.
+!******************************!
+The options for the top face of the
+bottom die are limited. That face can
+only be a two, three or four.
+!******************************!
+Assume for a minute that the top face
+of the bottom die is a four. If so,
+then the bottom face of the middle die
+must be a one, which would make the top
+face of this second die a six. Since
+you know that the four faces in contact
+with each other must be between one and
+four, you can rule out this possibility.
+!******************************!
+[n113.dat]
+<0114>Fair Compensation
+<00><28><24><20><11><26><1C><71><F6><03><04><FF>
+Three houses face a single common field.
+The heads of these three houses, A, B and
+C, decide to work together to seed the
+field. Unfortunately, C injures himself
+just before work starts, so A and B do all
+the work together. To seed the entire field,
+A works five days and B works four.
+
+Feeling guilty, C decides to pay A and B
+for doing his part of the job. To thank
+them, C pays them a total of nine coins,
+divided up according to how much work each
+person did. Can you work out how many
+coins A and B each received?
+!******************************!
+Smart!
+
+A received six coins and B got three.
+You might have been tempted to answer 
+five and four coins respectively but,
+as shown above, that isn't quite correct.
+A and B both had to work three days to
+finish their own shares of the work.
+Since C wanted to pay A and B for the
+work they did for him, he had to base
+his payment on the two days of extra work
+A did and the one day of work B did.
+Therefore, A should receive twice the
+pay B did.
+!******************************!
+Too bad!
+
+When you think about it, the pay you
+suggested isn't quite fair.
+!******************************!
+It's tempting to think that the answer
+is to pay each man a coin for each day
+he worked, resulting in a total of five
+coins for A and four coins for B. But
+then that wouldn't be much of a puzzle,
+would it?
+
+Remember, the original agreement was
+that each man would do an equal share of
+the work.
+!******************************!
+Simply put, A and B are getting paid for
+doing the work C was supposed to do.
+
+When considering your answer, don't
+factor in the days A and B were
+supposed to work according to the
+original agreement. C wouldn't be
+paying them out of his own pocket for
+work they were supposed to do in the
+first place.
+!******************************!
+The coins should be distributed based
+on the number of days each person
+worked to cover the three days C was
+supposed to work.
+
+A did two days, B did one.
+!******************************!
+[n114.dat]
+<0115>Tricky Digits
+<00><28><24><20><11><25><02><72><E8><03><04><FF>
+Two cards sit on a table. Each has a
+different single-digit number written
+on it. When set side by side, they form a
+two-digit number. Then, by flipping their
+order, you can make another two-digit
+number. Adding the total from these two
+two-digit numbers gives you one of the
+totals shown below. Which one is it?
+!******************************!
+Good job!
+
+12 + 21 = 33
+35 + 53 = 88
+
+As you can see, the sum of two two-digit
+numbers with inverted digits is always a
+multiple of 11. Of the six options presented,
+the only multiple of 11 is 44.
+!******************************!
+Too bad!
+
+Think hard about the puzzle and try again.
+!******************************!
+Once you see the pattern that runs
+through this puzzle, it's not very
+difficult to solve.
+!******************************!
+15 + 51 = 66
+34 + 43 = 77
+53 + 35 = 88
+
+Is the pattern clear yet?
+!******************************!
+Isn't it funny how adding a two-digit
+number to another two-digit number with
+reversed digits always gives you a sum
+that's a multiple of 11?
+!******************************!
+[n115.dat]
+<0116>The Torn Photo
+<00><3C><36><30><12><43><12><73><50><04><04><FF>
+Professor Layton and Luke have finally
+hunted down all 16 pieces of that peculiar
+photo. Reassemble the pieces to reveal the
+contents of the image! Rotate a piece by
+touching a side and spinning it around.
+
+Be careful not to reassemble the picture
+upside down!
+!******************************!
+You did it!
+
+...But what on earth is this a picture of?
+!******************************!
+Too bad!
+
+Are you sure all the pieces are in the
+right place?
+!******************************!
+When you get right down to it, this photo
+is essentially a jigsaw puzzle.
+
+Give yourself a leg up on this puzzle by
+building the outside edges of the puzzle
+first. The white rim around some pieces
+represents the edge of the photo.
+
+!******************************!
+Once you place every piece containing
+a portion of the edge, you only have
+four more pieces to deal with.
+
+Stay sharp, though. The pattern on
+these four pieces can make it hard to
+identify where they need to go.
+
+!******************************!
+When assembled properly, you should be
+able to see an ominous-looking goat's
+head in the middle of the photo.
+!******************************!
+[n116.dat]
+<0002>The Doctor's Home
+<03><0F><0C><09><11><03><05><74><EB><03><01><FF>
+Find Dr Schrader's window from the details
+in his letter.
+
+<''>In the morning, I often wake up to the
+sound of music drifting in from a nearby
+flat. Looking out, I spy a flag fluttering
+gently outside my window, take a single sip
+of my tea and turn my attention to the
+morning sun. Not many flats in London
+have a view of the sunrise anymore,
+you know.<''>
+
+Circle the window from which the doctor
+views the sunrise.
+!******************************!
+That's right!
+
+Now that you know where it is, head for
+the doctor's home!
+!******************************!
+Too bad!
+
+Take another look at what the doctor has
+to say about where he lives.
+!******************************!
+Since the doctor mentions hearing music
+from a nearby flat, you can rule out the
+window the music is coming from.
+!******************************!
+As the doctor makes special mention of
+being able to see the sunrise, it's likely
+his flat is one of the ones higher up in
+the picture.
+!******************************!
+The doctor talks about seeing the flag
+outside his window move in the breeze
+from inside the flat. There appears to
+be only one flat where you could
+accomplish this feat.
+!******************************!
+[n117.dat]
+<0117>Three Couples
+<00><1E><14><0A><11><40><02><75><E8><03><04><FF>
+A yellowed photograph shows three couples.
+In the photo, no one man is standing
+directly above his spouse. Of the three
+women present, two are sisters and are
+sitting next to each other. The elder
+sister's husband is the man without a
+moustache. Everyone in the picture is
+wearing a hat, except the husband of the
+younger sister. The woman unrelated to the
+other two is sitting in front of the younger
+sister's husband.
+So, can you find the man in this lot who
+is married to neither sister?
+Choose from A, B or C.
+!******************************!
+Great job!
+
+The answer is B. Finding the answer to this
+one just requires close reading.
+
+You know the elder sister's husband has
+no moustache, so he must be A. You also
+know that the younger sister's husband has
+no hat, so he's obviously C. With those two
+choices eliminated, the answer is clear.
+
+Oh, and in case you're wondering, the
+elder sister is E, the little sister is D
+and the last woman, F, is married to B.
+!******************************!
+Too bad!
+
+Make sure you read the clues correctly!
+!******************************!
+There's no need to decipher the
+relationships of every person in the
+picture. Just focus on finding the
+answer to the question at hand.
+!******************************!
+Who's married to the eldest sister?
+Using the clues you've been given,
+you should be able to find the answer
+to that question almost immediately.
+!******************************!
+While we're on the subject, finding the
+husband of the younger sister should be
+a breeze as well.
+
+With those two men identified, this
+puzzle is as good as solved.
+!******************************!
+[n118.dat]
+<0118>Cleaning Up 2
+<00><50><48><40><11><30><19><76><4D><04><04><FF>
+Use the stylus to move the rubbish to the
+bin at the bottom of the screen.
+
+
+!******************************!
+Ah, nice and tidy!
+
+Do your part to keep your town clean!
+!******************************!
+Too bad!
+!******************************!
+Feeling like you just can't clear a path,
+no matter what you do?
+
+First, take one of the two L-shaped
+blocks closest to the bottom and move
+things around until you can slip that
+block into one of the gaps to the far
+left and far right at the top. Choose
+the gap that lets you fit the wider
+side of your L-shaped block flush
+against the wall. 
+!******************************!
+Continuing from where Hint 1 left off,
+your next goal is to move blocks around
+so that the blue block in the bin swaps
+places with the remaining L-shaped block
+in the bottom row.
+
+Make sure you drag the L-shaped block
+in question all the way down into the 
+bin.
+!******************************!
+Next, take the L-shaped block you
+tucked away in the corner in Hint 1
+and bring it back down to its original
+position. Now take the two L-shaped
+blocks that sat on top at the beginning
+of the puzzle and tuck them away in the
+gaps located in the top left and right.
+Once these two blocks are out of the
+way, you can finally drag that hunk of
+rubbish out of its hole at the top of
+the screen. Now all you've got to do is
+get it in the bin!
+!******************************!
+[n119.dat]
+<0119>The Fake Coins
+<00><1E><1B><18><11><3B><16><77><F6><03><04><FF>
+There are 10 coins in each of the five bags
+below. One of these bags is filled with fake
+coins that are lighter than the real ones.
+A real coin weighs 10 grams, but a fake coin
+is one gram lighter. If you're using a scale
+that can register up to 200 grams, what is
+the fewest number of times you could use
+the scale to find the one bag filled with
+fake coins?
+!******************************!
+You got it!
+
+You only need to use the scale once.
+From every bag, remove the number of coins
+indicated by the bag's number. Then you
+just weigh these 15 coins once.
+
+If all of the coins were real, their combined
+weight would be 150 grams, but you'll end up
+with a weight less than this. The difference
+between this actual weight and 150 grams
+corresponds to the number on the bag of
+fake coins.
+!******************************!
+Too bad!
+
+Stick with it until you work it out!
+!******************************!
+The bag of fake coins contains only fake
+coins, each of them one gram lighter
+than a real coin. So, you could take one
+coin out of each bag and weigh them each
+in turn, using the scale five times. 
+
+But that wouldn't make for a very
+interesting puzzle, would it?
+!******************************!
+Think about how to accomplish your goal
+in fewer than five weighings. If you
+tried to weigh all the bags at once,
+you would go over the scale's measuring
+capacity.
+!******************************!
+Hint 2 had the idea of weighing all the
+bags at once. There are 10 10-gram
+coins in each of the five bags, for a
+total of 500 grams. But one bag contains
+fake coins, so the weight is actually
+less than that.
+
+Perhaps the key to solving this really
+is to weigh all the bags at once, in a
+sense?
+!******************************!
+[n60.dat]
+<0061>Where's the Hotel?
+<00><1E><1B><18><12><24><02><3C><E8><03><04><17>
+Near the town train station are four
+buildings standing in a row. One of these
+four is supposedly the local hotel, though
+it lacks a sign. Even so, if you study the
+area carefully, you should be able to tell
+which of the buildings is the hotel.
+
+Can you work out which of these four
+buildings is the hotel?
+!******************************!
+That's right!
+
+The windows, the clock and the door of
+building C spell out the word HOTEL.
+!******************************!
+Too bad!
+
+Study the area carefully and you'll find
+the hotel soon enough.
+!******************************!
+Just study the four buildings carefully
+and the answer will present itself.
+!******************************!
+Upon second glance, one of these
+buildings does have the word <''>HOTEL<''>
+on it. Do you see it?
+!******************************!
+A close inspection of the scene reveals
+that one building has letters of the
+alphabet hidden in its doorways and
+windowpanes.
+!******************************!
+[n61.dat]
+<0062>Smell the Roses Again
+<00><28><24><20><12><26><18><3D><FE><03><04><FF>
+Nothing smells quite as sweet as
+freshly-cut roses. Can you fill the room
+with their delightful fragrance?
+
+Touch a square with your stylus to place a
+rose. The fragrance of each rose reaches
+two squares in all directions, but can't
+penetrate walls. If the fragrance of two
+or more roses overlap, the resulting smell
+will be overpowering, so make sure to keep
+your roses spaced out. Touch an existing
+rose to remove it.
+!******************************!
+Mmm!
+
+With those roses in place, the whole room
+will smell great!
+!******************************!
+Too bad!
+
+Did you make sure to space the roses far
+enough apart to keep their scents from
+overlapping?
+!******************************!
+Start by placing a rose in the
+bottom-left corner of the room, then
+just take it from there.
+!******************************!
+If you know where one rose goes,
+placing the rest shouldn't prove to be
+too much of a challenge.
+
+Place the second rose as close as you
+can to the rose in the bottom-left
+corner without causing their scents
+to overlap.
+!******************************!
+In total, you need to place seven roses
+to finish this puzzle.
+!******************************!
+[n62.dat]
+<0063>Numbered Cards
+<00><19><16><13><12><28><1A><3E><50><04><04><2E>
+Cards labelled 1 to 6 are arranged in order
+as shown below. Rearrange them so that
+they satisfy the following conditions.
+
+1. The sum of the numbers on the top row
+must be one less than the sum of the
+numbers of the bottom row.
+2. The two cards in the right column must
+add up to five.
+3. The 5 card must be to the immediate left
+of the 4 card.
+4. The 1 card must be placed in the left
+column.
+!******************************!
+Good job!
+
+This is one of those puzzles where the
+answer becomes clear as long as you
+remember to follow the conditions you've
+been given. 
+!******************************!
+Too bad!
+
+Think hard about the conditions for this
+puzzle.
+!******************************!
+The sum of all the cards is 21.
+
+Knowing this, you can deduce that the
+top row of three cards in your solution
+should add up to 10, while the bottom row
+must add up to 11.
+!******************************!
+The 1 card belongs in the top row.
+!******************************!
+Put the 4 card in the middle column of
+cards.
+!******************************!
+[n63.dat]
+<0064>Stones in a Vase
+<00><14><12><10><11><28><16><3F><F6><03><04><FF>
+<''>This vase holds 101 stones, each identical
+in size and feel. There are 50 black stones
+and 51 white stones. Now, put on this
+blindfold, reach in, and pull out as many
+stones as you like. When you're finished, if
+you've removed an equal number of black and
+white stones, you'll receive a number of gold
+coins equal to the number of stones you
+pulled out.<''>
+
+How many stones should you remove to give
+yourself the best chance of getting the
+most money possible?
+!******************************!
+Well done!
+
+If you remove 100 stones from the vase,
+only one will remain inside. If that
+remaining stone is white, it means you've
+sucessfully removed 50 stones of each
+colour. Of course, removing just two
+stones would give you the same chance of
+winning the coins as removing 100 stones,
+but the amount of money you receive for
+sucessfully removing 100 stones dwarfs the
+reward you'd receive for two stones.
+!******************************!
+Too bad!
+
+In situations like this one, it pays to go
+for the big money, so don't hold back!
+
+!******************************!
+Since the stones are of the same size
+and feel, there is absolutely no way to
+tell them apart while removing them.
+!******************************!
+The chances of you winning those coins
+are about 50/50.
+
+There's no way of ensuring that you'll
+win the coins.
+!******************************!
+Let's think about this for a moment.
+
+Whether you pull out two stones or 100
+stones, your chances of winning the gold
+are the same: 50/50.
+!******************************!
+[n64.dat]
+<0065>The Ancient Map
+<00><19><16><13><11><28><05><40><EB><03><04><FF>
+An ancient map depicts the possible spots
+of a vast fortune along with these
+directions:
+<''>Inscribe the numbers 1 to 6 in the map's
+blank spaces so that each set of numbers
+in a straight line has the same sum.
+This sum must be the largest one possible
+given the condition described above. Then
+grab your shovel and race to the spot
+marked 1, for it is there that your
+treasure resides!<''>
+The number 4 has been filled in for you.
+Circle the spot where the treasure is hidden.
+!******************************!
+You did it!
+
+The treasure is buried in roughly the
+centre of the map.
+
+The sum you needed to work with was 10.
+You could organise the numbers so that
+each line added up to a total of nine, but
+that is not the highest possible sum.
+!******************************!
+Too bad!
+
+Are you certain each line of numbers adds
+up to the same total?
+
+Oh, and what about the sum of each line?
+Is it the largest number possible given the
+conditions?
+!******************************!
+The number 4 is already in place, so your
+task is to decide where the numbers 1,
+2, 3, 5 and 6 go.
+
+Remember, your goal is to make every set
+of numbers in a straight line add up to
+the same total. Pay special attention to
+the two lines that use the number 4, as
+they are crucial to solving the puzzle.
+ 
+!******************************!
+Focus your attention on the spot on the
+far right and how it forms a line with
+the number 4.
+
+Were you to insert a smaller number like
+1 or 2 here, your total for the whole
+line couldn't be any larger than 6.
+With a total like that, there'd be no
+place for you to put the number 6,
+making the puzzle unsolvable. So, what
+should go in that far right spot?
+!******************************!
+When arranged properly, each line of
+numbers can add up to either 9 or 10.
+The puzzle asked you to use the largest
+sum possible, so you know you should
+be aiming to make each line add up
+to 10.
+!******************************!
+[n65.dat]
+<0066>The Locked Box
+<00><1E><1B><18><11><45><16><41><F6><03><04><FF>
+The box shown below is fitted with a lock
+consisting of two dials. You can't turn the
+blue dial directly, but when you turn the red
+dial, the blue dial moves an equal amount.
+In order to see the relationship between
+the two dials, you try turning the red one
+from its original position, as shown below.
+In order to open the lock, you must turn
+the blue dial to 3, 6, 4 and 1 in that order.
+Since you can't turn the blue dial directly,
+to which numbers must you turn the red dial
+in order to produce the desired numbers on
+the blue dial?
+!******************************!
+That was tough!
+
+The red dial needs to be turned to 2, 7,
+1 and 4 to produce the numbers you need on
+the blue dial.
+
+It turns out these two dials actually rotate
+in opposite directions. One way to solve
+this problem is to create a chart with each
+dial's corresponding numbers, like the one
+shown above.
+!******************************!
+Too bad!
+
+If you can just work out how the two dials
+turn in relation to one another, the rest is
+a breeze.
+!******************************!
+When the red dial reads 0, the blue dial 
+reads 5. When the red dial reads 3, the
+blue dial reads 2.
+
+As stated in the puzzle, the distance
+the blue dial moves is equal to the
+distance the red dial moves. When the
+red dial moves from 0 to 3, the blue dial
+moves from 5 to 2. Read that last
+sentence again and think about what it
+says about the relationship between the
+dials.
+!******************************!
+Did you catch on to what Hint 1 was
+trying to tell you? The red and blue
+dials turn the exact same amount but,
+as you may have noticed, the numbers on
+the dials move in opposite directions.
+!******************************!
+When you turn the red dial, the blue
+dial moves the same amount in the
+opposite direction.
+
+All you need to do is construct a quick
+table to show you how numbers on the
+red dial correspond to other numbers on
+the blue dial. Why not try using the
+Memo Function to write the table?
+!******************************!
+[n66.dat]
+<0067>Sammy's Working Week
+<00><28><24><20><51><24><16><42><F6><03><04><FF>
+<''>So, let's say today is my day off. If
+yesterday wasn't also a day off, then I'm
+off again tomorrow. If, on the other hand,
+I was off yesterday, then tomorrow I'll
+have to work. Now, let's say I worked today.
+What a drag. If I didn't work two days
+before today, I'll have to head to work
+tomorrow. But if I did work two days ago,
+I'm off tomorrow. Yeow!<''>
+
+Assuming a standard 365-day year and
+ignoring weekdays and holidays, use what
+Sammy told you to work out the number of
+days he works in a year.
+!******************************!
+Score!
+
+Sammy's lengthy and convoluted explanation
+may have been hard to understand, but his
+work schedule is simple. He works three
+days in a row, rests for two, and then
+repeats the pattern. Put a different way,
+Sammy works three out of every five days.
+3/5ths of a 365-day year gives you 219
+work days per year.
+
+That's a pretty sweet deal he's got
+going on.
+!******************************!
+Too bad!
+
+See if you can't organise Sammy's rambling
+description into something a little easier
+to understand.
+!******************************!
+Sammy's work and rest schedule repeats
+itself every five days.
+!******************************!
+Sammy's schedule is a cycle that
+consists of three days on the job
+followed by two days off.
+!******************************!
+Sammy works 3/5 of the days in the
+year. With that fact under your belt,
+you should be able to find the answer
+using a simple calculation.
+!******************************!
+[n67.dat]
+<0068>Hat Etiquette
+<00><19><16><13><11><2A><22><43><EB><03><04><2A>
+Since Felix has requested that you hand
+over a hat, can you find another hat
+buried in the pattern below? The hat
+you're looking for will be the same shape
+and size as the black one shown below,
+but may not be facing the same direction
+as the example hat.
+
+Use the stylus to outline your answer and
+touch #rSubmit#x.
+!******************************!
+Sneaky!
+
+Good job spotting that hidden hat! Now the
+professor has a hat to give to Felix!
+!******************************!
+Too bad!
+
+Look for an outline that exactly matches
+the hat shown above the pattern.
+
+The criss-crossing pattern is complicated,
+and it can be hard to pick out what you're
+looking for but, rest assured, it's there.
+!******************************!
+The shape is identical to the example
+hat, so while you may find some shapes
+that resemble the hat in question,
+outlining one of these won't count as
+a valid solution.
+
+Study the points where the lines of
+several shapes cross each other to
+find the exact match to the example hat.
+!******************************!
+The hat hidden in the pattern has been
+turned on its side.
+!******************************!
+Focus your search on the bottom-left
+section of the picture.
+!******************************!
+[n68.dat]
+<0069>Copying the Menu
+<00><19><16><13><12><2A><16><44><F6><03><04><FF>
+The menu you see here has been folded into
+thirds with print on both sides, meaning in
+total there are six pages to it. The boss
+needs lots of copies but, unfortunately,
+your copy machine can only copy a maximum
+of two menu pages at once. To save time,
+you're trying to complete a copy of the
+menu in as few passes through the machine
+as possible.
+
+What is the fewest number of passes
+through the machine you need to make to
+make a full duplicate of the menu?
+!******************************!
+Good job!
+
+If you fold and copy the menu as shown
+above, you can make a complete duplicate
+of the menu in just three passes through
+the machine.
+!******************************!
+Too bad!
+
+Give the puzzle another try.
+!******************************!
+Fold creatively and copy two pages at
+a time.
+!******************************!
+Just because a crease makes the menu
+sit one way doesn't mean you can't
+fold along that line in the other 
+direction.
+!******************************!
+As you fold and copy, make sure that
+you arrange each two-page spread in a
+way that ensures you don't copy any
+page twice.
+!******************************!
+[n69.dat]
+<0070>Jewelled Necklaces
+<00><1E><1B><18><71><39><0F><45><F5><03><04><FF>
+<''>I have this old necklace that's not really
+to my taste anymore. I decided to sell it
+but, when I was getting it valued the other
+day, I realised something strange.
+
+Each stone is worth a different amount, but
+there's a way for me to break the necklace
+up into three smaller ones that are all
+worth the same total. Can you work out
+where to make the cuts?<''>
+!******************************!
+That's right!
+
+Each strand of gems is worth <po>2,600.
+Not a bad wedge!
+!******************************!
+Too bad!
+
+Give the puzzle another try.
+!******************************!
+You'll have a tough time if you just
+dive straight into adding up different
+strings of gems. There's an order in
+which you should proceed. Why don't you
+start by adding up the total value of
+the necklace?
+!******************************!
+The total value of the necklace is
+<po>7,800. You want to divide the necklace
+into three sections of equal value, so
+each section of the necklace in your
+solution will need to be worth <po>2,600.
+!******************************!
+No single strand will contain more than
+one of the three stones worth <po>1000 or
+more. Coincidentally, each of these three
+stones will form an end for each strand.
+
+Now all you need to work out is which
+side of each <po>1000-plus stone connects
+to another stone.
+!******************************!
+[n70.dat]
+<0071>How Old Is She?
+<00><1E><1B><18><12><39><16><46><F6><03><04><3E>
+A boy and girl are chatting at a local cafe.
+Looking up from his drink, the boy says:
+
+<''>You know, I'm 20, which is twice the
+age you were when I was the age you are
+now... Isn't that interesting?<''>
+
+As you can see, this boy isn't the most
+concise of speakers, but using what he's
+said, how old is the girl he's chatting to?
+!******************************!
+Nice!
+
+A careful read of the puzzle reveals that
+when the boy was the girl's current age,
+her age was half of the boy's current age.
+The boy's current age is 20, and half of
+that is 10, so the girl must have been 10
+back then.
+
+Once you realise this, it's obvious that
+the girl must be 15 at present.
+!******************************!
+Too bad!
+
+Decide upon a number from which to begin
+your reasoning, and take it from there.
+!******************************!
+Start by working out how old the girl was
+back when the boy was her current age.
+
+What relationship does the girl's past
+age have with the boy's current age?
+
+
+!******************************!
+Maybe you already picked up on this, but
+if you double the girl's age when the
+boy was her current age, you get the
+boy's current age of 20.
+
+!******************************!
+Using the facts in Hint 2, you can
+ascertain that the girl was 10 back when
+the boy was the girl's current age. 
+Since then, X years have passed,
+the boy has become 20, and the girl has
+become her current age. If you can
+find a number of years that, when added
+to 10 and subtracted from 20, yield the
+same age, you're very close to finding
+the girl's current age.
+
+Now what could X be?
+!******************************!
+[n71.dat]
+<0072>Scrambled Photos
+<00><23><1F><1B><12><2B><10><47><F6><03><04><09>
+Four photographs decorate the wall of
+Joseph's photo studio. Each photo depicts
+the same area and was taken at the exact
+same time of day. However, each photo was
+taken at a different point in time, and if
+you look carefully, you can work out the
+order in which these pictures were taken.
+Enter your answer using the letters
+attached to each picture, starting with
+the earliest, like so: ABCD.
+!******************************!
+Good eye!
+
+The correct order is CDBA.
+
+In C, the street light has yet to be
+installed, but in D, the light has been built.
+In B, there's a new building in the
+background and the restaurant's window is
+broken. Finally, in A, the broken window seen
+in B has been patched up and some of the
+lights in the restaurant's sign have burned
+out. What's more, the door of the photo
+studio has been painted a different colour.
+!******************************!
+Too bad!
+
+Examine the four pictures again in case you
+missed a crucial detail.
+!******************************!
+Start by scanning all four pictures
+for differences between them.
+
+For example, maybe the buildings are
+different in one or two of the photos...
+!******************************!
+Photo C is the only one where the stairs
+aren't illuminated, because there's no
+visible street light.
+
+Photos C and D are both missing that big
+orange building in the background. By
+contrast, the building and street light
+are visible in photos A and B.
+!******************************!
+The door to the photo studio is the same
+colour in all pictures except for A.
+Also, in B, one of the restaurant
+windows is broken. However, the window
+is patched up in A, so A must have
+been taken after B.
+!******************************!
+[n72.dat]
+<0073>Can Conundrum
+<00><1E><1B><18><11><29><02><48><E8><03><04><FF>
+A number of identical cans are hanging from
+a tree. While all the cans here may look
+empty, one is actually filled with water.
+See if you can find it.
+
+When deducing your answer, ignore the
+weight of each string and stick. 
+!******************************!
+Nicely done!
+
+The answer is A. The biggest stick connects
+to the branch at a point left of the centre
+of the stick. Four cans hang from each side
+of this big stick, but because the string
+holding it to the tree is left of centre,
+the set of four cans on the left must be
+heavier than the ones on the right.
+A, B, C and D all hang from the left side
+of the big stick. However, judging by the
+number of cans and the positions of the
+strings, it's easy to see that A is the
+heaviest.
+!******************************!
+Too bad!
+
+Think hard about this puzzle and try again.
+!******************************!
+Study each can one at a time and
+observe how they're balanced, relative
+to each other.
+!******************************!
+Notice how the biggest stick is level
+even though it's connected to the tree
+at a point left of the stick's centre.
+
+This shows that the water must be in
+one of the four cans hanging from the
+left side of the big stick.
+!******************************!
+We know that the water is in one of
+the four cans on the left, so finding
+the can in question should be a breeze.
+
+Just look at the position of the four
+cans on the left relative to the
+string attaching all four cans to the
+big stick above. Which can looks
+heavier than the others?
+!******************************!
+[n73.dat]
+<0074>Sealing Off the Smell
+<00><1E><1B><18><12><3A><03><49><E9><03><04><18>
+Garlic is a wonderful seasoning when used
+in moderation, but the smell can be pretty
+potent. Someone put garlic cloves in this
+intricate container and they're really
+stinking up the room. Use the two corks
+below to help our friend deal with the
+smell.
+
+Touch the screen in the place you want to
+put the corks. Your answer must use no
+more than two corks.
+!******************************!
+Ah, sweet relief!
+
+Each of the three holes in the container is
+connected to the garlic, so there's no real
+way to seal off the container using two
+corks. With no way to contain the smell, our
+friend had no choice but to plug up his
+nostrils.
+
+Hopefully he had the good sense to stay
+inside where no one could see him like that!
+!******************************!
+Too bad!
+
+Those corks aren't doing the trick in their
+current locations.
+!******************************!
+The most logical thing to do at first is
+to use the Memo Function to trace which
+openings in the container lead to the
+garlic cloves.
+!******************************!
+Hmm? Something seems strange, you say?
+
+Why yes, the fact that all three
+openings in the container connect to
+the garlic is a bit strange...
+
+How to contain the smell then?
+!******************************!
+Since you're only allowed to use
+two corks, you can't block all three
+openings in the container.
+
+You'll just have to look for another
+set of openings that can be sealed
+off using only two corks.
+!******************************!
+[n74.dat]
+<0075>Sweets for Five
+<00><19><16><13><12><38><09><4A><EF><03><04><28>
+You have a box of four different kinds of
+sweets arranged in no particular order.
+Your job is to divide these treats into
+five equal portions. To do so, you need
+to make sure each portion contains the
+exact same number and variety of sweets.
+
+Got it? Good, then get started!
+!******************************!
+Sweet!
+
+The puzzle's solution is shown above.
+
+Now remember, those sweets are for
+everyone, so don't forget to share!
+!******************************!
+Too bad!
+
+Give the puzzle another try.
+!******************************!
+First, count out how many sweets you
+have. There are four types of sweet.
+You only have five of the first three
+types, but 10 of the fourth type.
+You therefore have to put two of this
+fourth type of sweet into each of the
+five portions.
+!******************************!
+Look for sweets that are one per
+portion, in other words, sweets of
+which there are only five in total.
+If you find two of these sweets next to
+each other, you can draw a line between
+them, since they can't be in the same
+portion.
+
+Start by drawing in these lines.
+!******************************!
+Do you see the three of the same kind
+of sweet in the third row? The leftmost
+two sweets there are part of a single
+portion. The third of those three
+sweets and the identical sweet directly
+below it are part of a different portion.
+
+Now that you know that much, you
+shouldn't have too much trouble
+finishing the puzzle.
+!******************************!
+[n75.dat]
+<0076>Top of the Tower
+<00><14><12><10><12><3C><05><4B><EB><03><04><FF>
+In one quiet town there's a tower that
+commands a view of the whole town.
+
+Since you can see every building in town
+from the tower, logic dictates that you
+should be able to see the top of the tower
+from any building in town. As you can see
+on the map shown below, however, there's
+one building in town from which you clearly
+have no chance of seeing the top of the
+tower, no matter which window you look out
+of.
+
+Can you find this building?
+!******************************!
+Good thinking!
+
+From inside the tower, there's no way to
+see the top of it. You may be able to stick
+your neck out of a window and look up, but
+you still won't be able to see the top of it.
+!******************************!
+Too bad!
+
+Don't forget, you're looking for a building
+where the view of the top of the tower is
+blocked.
+!******************************!
+Looking for some buildings that block
+each other's view?
+
+Hmm, it doesn't look like there are any
+buildings like that around town.
+!******************************!
+You need to find a building from which
+the top of the tower can't be seen.
+
+To put it another way, you're looking
+for a buiding that doesn't allow you to
+see the outside of the tower.
+!******************************!
+There's one building from which you
+definitely won't be able to see
+the outside of the tower.
+!******************************!
+[n76.dat]
+<0077>Balancing Ornaments
+<00><1E><14><0A><11><46><1A><4C><00><04><04><46>
+Small ornaments dangle from a metal bar, and
+they've thrown the bar off balance.
+
+The five ornament strings are spaced
+equally apart and each type of ornament
+weighs a different amount. Three light
+ornaments weigh the same as one heavy
+ornament, while two light ornaments weigh
+the same as a medium ornament.
+
+Place one of the three ornaments in the
+rectangle into the space marked <''>?<''> to
+restore the bar's balance.
+!******************************!
+Good job!
+
+The crescent moon ornament is just heavy
+enough to balance things out. A single
+star ornament weighs the same as one sun
+and one moon together. The strand of
+ornaments that is supposed to
+counterbalance the one with a <''>?<''> doesn't
+have any star-shaped ornaments, but if you
+compare the ornaments as shown above you
+can work out what should go in the <''>?<''>
+space regardless.
+!******************************!
+Too bad!
+
+Concentrate on working out which of the
+three ornaments must be the heaviest.
+!******************************!
+The middle strand of ornaments doesn't
+affect the balance of the bar, so ignore
+it.
+
+Also, the two strands hanging at the
+ends of the bar are the same weight, so
+try comparing the ornaments on the far
+left to the ornaments on the far right.
+You might find out something new.
+!******************************!
+Look at the strands on the far left and
+the far right. While they both contain
+sun and moon ornaments, only the far
+right strand has a star.
+By comparing the ornaments on these
+two strands, you can probably work
+out how many suns and moons it takes
+to equal the weight of a star.
+!******************************!
+A single star weighs the same as one
+sun and one moon.
+
+Now that you know the weight of one
+star, you should now be able to compare
+the two strands next to the middle
+strand.
+!******************************!
+[n77.dat]
+<0078>A Maze of Doors
+<00><19><14><0F><12><47><05><4D><EB><03><04><45>
+All the doors in the maze below only open
+when pushed from one direction, as shown.
+
+It is therefore impossible to pass through
+every room while going through the maze
+from the entrance to the exit. However,
+this feat would be possible if one of the
+doors could open in the opposite direction.
+Can you find and circle this door?
+!******************************!
+You did it!
+
+You have to pass through every room on the
+way to the exit to solve the puzzle, but no
+one ever said you can't pass through the
+same room twice.
+!******************************!
+Too bad!
+
+Use the Memo Function to draw your
+proposed route while you think about the
+problem.
+!******************************!
+Let's review this puzzle's conditions.
+You need to make one door open in the
+opposite direction and you must pass
+through every room on your way to the
+exit.
+
+But no one ever said you could only pass
+through each room once.
+
+!******************************!
+Starting from the entrance, you'll soon
+bump into a door that should open the
+opposite way. So, to proceed, one of the
+first doors you meet will have to open
+in the opposite direction.
+
+The upper door in the first room and
+the two doors in the room to the
+immediate right of the first room open in
+a direction that keeps you from passing
+through. One of these three doors is
+the door you'll need to change.
+!******************************!
+The upper door in the first room is
+fine the way it is.
+!******************************!
+[n78.dat]
+<0079>The Gear Switch
+<00><14><0A><05><11><46><02><4E><E8><03><04><FF>
+The button that opens the door in front of
+you is buried deep within this machine, so
+you can't push it directly. However, by
+pulling the lever at the top to the left or
+right, you can move the various gears and
+plates in the machine, allowing you to press
+the button at the bottom.
+
+In order to push the green button, should
+you pull the lever towards A or B?
+!******************************!
+Nicely done!
+
+Moving the lever towards B will spin the
+gears in a way that causes the bottom lever
+to hit the green button.
+
+Since there are only two possible answers
+for this puzzle, you could have just
+guessed, but hopefully you were able to
+work it out properly!
+!******************************!
+Too bad!
+
+There are only two ways to answer this
+question, so the answer must be the option
+you didn't pick.
+
+Before you answer, though, think the puzzle
+through so you can understand the solution.
+!******************************!
+When one gear rotates with another, the
+two gears must rotate in opposite
+directions.
+
+Use the Memo Function to keep track of
+the direction of each gear's rotation.
+!******************************!
+The gear at the very bottom has to
+rotate clockwise to hit the switch,
+so the board of teeth directly above it
+will need to move to the right.
+Make sense? Now continue that line of
+thought as you move up towards the
+lever.
+!******************************!
+The board of teeth underneath the
+three gears at the top needs to move to
+the left. Therefore, the gear directly
+above it needs to rotate clockwise.
+
+Keep going until you reach the lever at
+the top!
+!******************************!
+[n79.dat]
+<0080>The Puzzling Lift
+<00><28><24><20><02><48><19><4F><FF><03><04><FF>
+The circuit board for the lift contains a
+puzzle. According to the instructions, you
+need to make the blue and red balls switch
+places in order to restore power to the
+lift. Are you up to the task?
+!******************************!
+Good job!
+
+So, how many moves did it take you to
+complete the task? If you did it in 12
+moves, give yourself a pat on the back!
+
+Oh... Listen! Do you hear that? It sounds
+like the lift is up and running again.
+!******************************!
+Too bad!
+!******************************!
+There are several ways you could go
+about solving this puzzle. One sure-fire
+technique is to work with those
+L-shaped blocks. You can free up some
+extra room by moving these blocks so
+that they fit together neatly with
+neighbouring blocks.
+
+!******************************!
+In order to get both of those balls to
+swap places, you first need to move one
+ball out of its hole and park it
+somewhere while you move the other one.
+To do so, clear out some space by
+gathering all those L-shaped blocks
+on either the left or right side of
+the box.
+!******************************!
+If the method from Hint 2 isn't working
+for you, here's another technique you
+can try. Create space by slotting
+L-shaped blocks together to create
+rectangles. In order to do this your goal
+should be to move the L-shaped blocks
+to the opposite edges of the box before
+combining them.
+!******************************!
+[n80.dat]
+<0081>The Old Safe
+<00><32><2D><28><11><49><0A><50><53><04><04><FF>
+Find the four-digit code that opens the
+safe. You can use the digits 0 to 5 in your
+answer, but each digit can only be used
+once. The small lights next to each row of
+digits are the key to finding the code, as
+they tell you how much in common that row
+has with the code. A white light indicates a
+digit that is in the code but in a different
+place in the sequence. An orange light
+indicates a digit that is in the code and in
+the correct spot. Touch the digits at the
+bottom of the screen to change them, then
+touch #rSubmit#x when you have your answer.
+!******************************!
+That's right!
+
+The code is 0154. You could solve this by
+entering numbers haphazardly until you
+stumble upon the solution, but it's much
+more fun to think your way to the answer.
+!******************************!
+Too bad!
+
+Give the puzzle another try.
+!******************************!
+Start by working out which digits belong
+in the code, regardless of order.
+!******************************!
+You may have already noticed, but every
+digit in the code is in the very top row
+of digits. Two of the digits in 4150 are
+even in the right place.
+!******************************!
+Take a look at the third row of digits.
+
+You can see that two digits match ones
+in the code and are in the correct
+position. Since you know the code uses
+4, 1, 5 and 0, you can assume the 0
+and 1 from this row are part of the
+code and in the right place.
+
+Now work out where 4 and 5 go.
+!******************************!
+[n81.dat]
+<0082>Restarting the Lift
+<00><1E><1B><18><11><49><0F><51><F5><03><04><FF>
+The wires connecting the lift to the button
+controlling it have somehow been severed.
+However, if you can connect the
+negative (-) and positive (+) wires on the
+top to the wires carrying the same charge
+below, you can fix the lift. To do this,
+draw lines between sets of terminals.
+Draw two lines to connect each positive and
+negative terminal to its counterpart and
+get the lift running again.
+!******************************!
+We're back in business!
+
+The lift is working again!
+!******************************!
+Too bad!
+
+Did you make sure to connect the positive
+wire (+) and negative wire (-) to wires
+with the same charge?
+!******************************!
+You need to connect wires with the same
+symbol together. So + goes with + and
+- with another -.
+
+If you examine the tangle of wires,
+finding the solution should be simple
+enough.
+!******************************!
+To make things simpler, identify the
+wires that are connected to some other
+area off the screen and eliminate them
+as possible answers.
+
+In the top row of wires, the rightmost
+wire and the one third from the right
+run off the screen.
+!******************************!
+The leftmost terminal in the top set
+of four is connected to the wire
+carrying a negative (-) current.
+
+Now it's up to you to work out the other
+three terminals you need to use.
+!******************************!
+[n82.dat]
+<0083>Piles of Pancakes 2
+<00><1E><1B><18><01><2E><0D><05><F3><03><04><30>
+Here's a tasty puzzle for you.
+
+Can you move the pile of pancakes from the
+blue plate on the left to the red plate on
+the right? Wait, though, it's not as easy as
+it sounds. You must follow these rules:
+
+<->You can only move one pancake at a time.
+<->You cannot place a pancake on top of
+another one that is smaller than itself.
+
+You can use the middle plate and move
+the pancakes as many times as you like.
+!******************************!
+Yummy!
+
+Oh, and an extra pancake for those who
+solved this puzzle in only 15 moves!
+!******************************!
+Too bad!
+!******************************!
+While you might have been able to solve
+the first <''>Piles of Pancakes<''> puzzle by
+just moving the pancakes around
+randomly, you'll need to think harder
+if you wish to find a solution this
+time around.
+
+See if you can come up with a rule for
+effectively moving pancakes around. 
+ 
+!******************************!
+Developing an effective way of moving
+the smallest pancake is key because
+you can't place anything on top of it.
+Think about a series of moves you can
+repeat to keep that little pancake out
+of your way.
+!******************************!
+Move the smallest pancake to the middle
+plate and place the second-smallest
+pancake on the red plate.
+Next, move the smallest pancake on top
+of the pancake on the right, and bring
+a new pancake over to fill the middle
+plate. After that, take the smallest
+pancake and move it to the left plate.
+
+Repeat this pattern, and as you move
+the other pancakes around you'll solve
+the problem in no time flat.
+!******************************!
+[n83.dat]
+<0084>Piles of Pancakes 3
+<00><28><24><20><01><2E><0D><05><F3><03><04><FF>
+Here's a tasty puzzle for you.
+
+Can you move the pile of pancakes from the
+blue plate on the left to the red plate on
+the right? Wait, though, it's not as easy as
+it sounds. You must follow these rules:
+
+<->You can only move one pancake at a time.
+<->You cannot place a pancake on top of
+another one that is smaller than itself.
+
+You can use the middle plate and move
+the pancakes as many times as you like.
+!******************************!
+Hot and fresh!
+
+Now the only question is what to put on
+them!
+!******************************!
+Too bad!
+!******************************!
+Having trouble? Just follow the hints
+given to you in <''>Piles of Pancakes 2<''>.
+This is the last hint you're going to get
+for this puzzle, so it would be a
+waste to spend another hint coin here.
+All you'll get is trivia, so consider this
+a warning!
+!******************************!
+Looks like you went and spent that hint
+coin anyway. Must be nice having hint
+coins to burn! OK then, here's a little
+fun fact for you.
+
+These pancake puzzles are based on a
+puzzle called the Tower of Hanoi, which
+can be solved using a basic concept
+known in computer science as recursion.
+That might not be much help to you right
+now, but it is interesting stuff, isn't
+it?
+!******************************!
+All right then, moneybags, time for
+more fun facts.
+
+Edouard Lucas, the man who thought up
+the Tower of Hanoi puzzle, introduced
+the puzzle saying that it was based on
+an Indian myth that said the world would
+be destroyed if anyone solved a special,
+very large version of this puzzle.
+Though that myth is quite fascinating,
+many think that Lucas fabricated it
+himself.
+!******************************!
+[n84.dat]
+<0085>The Missing Shape
+<00><1E><14><0A><11><38><02><54><E8><03><04><FF>
+Five shapes are arranged in a sequence, but
+the fourth shape is missing.
+
+Use the four visible shapes to determine
+which of A, B or C should be inserted as the
+fourth shape in the sequence.
+!******************************!
+That's right!
+
+B is the answer.
+
+The numbers hidden in each shape determine
+the sequence for this order. When you turn
+each shape 90 degrees clockwise, a number
+becomes visible. In the case of B, turning
+it sideways reveals the number 4.
+!******************************!
+Too bad!
+
+Look at the three-dimensional structure
+of each shape.
+!******************************!
+Rotate each shape 90 degrees to get
+a fresh perspective on the puzzle.
+!******************************!
+If you look closely, you might notice
+that there's something visible within
+each of the shapes.
+!******************************!
+Once you rotate the shapes, you'll
+be able to see the numbers hidden
+within them.
+!******************************!
+[n85.dat]
+<0086>Perplexing Figures
+<00><23><1F><1B><12><5D><09><55><EF><03><04><19>
+A series of figures are arranged and
+numbered as shown below. As you can see,
+the figure that should go in space 1 is
+missing. Can you draw the figure that
+belongs in this space?
+
+Slide the stylus over the guide lines to draw
+the figure.
+
+
+!******************************!
+Good job!
+
+The peculiar sequence of figures is actually
+the first six letters of the alphabet
+displayed in a seven-segment LED style and
+mirrored as shown above.
+
+Since you have letters B to F, logic dictates
+that the missing figure should be a mirrored
+version of the letter A.
+!******************************!
+Too bad!
+
+Study the details of each figure one more
+time.
+!******************************!
+Focus on the right half of figures two
+to six.
+!******************************!
+Look closely. There's a letter hidden
+within each figure.
+!******************************!
+Considering the pattern going on in
+the shapes, the first figure should
+correspond to the letter A.
+!******************************!
+[n86.dat]
+<0087>Different Suits
+<00><28><24><20><11><44><0A><56><50><04><04><FF>
+Below are 16 cards. There are four cards
+from each suit: diamonds, clubs, spades
+and hearts. The cards are arranged in a 4x4
+grid as shown below, and four cards have
+already been placed down.
+
+Arrange the remaining cards so that each
+vertical column, horizontal row and 
+#rdiagonal line#x of four cards contains
+one card from each suit. Touch a card to
+change its suit.
+!******************************!
+Nicely done!
+
+Did that one give your brain a workout?
+It's a great puzzle to set up with real
+cards and share with a friend.
+!******************************!
+Too bad!
+
+Check over your solution to make sure
+you didn't make any mistakes.
+!******************************!
+There's a card on the table that belongs
+to the row the heart is in, the column
+the club is in and the diagonal line the
+diamond is in. Therefore, you can safely
+conclude that this card must be a spade.
+This is the kind of logic you'll need to
+use to solve this puzzle.
+
+!******************************!
+What card do you suppose belongs in the
+bottom-left corner? This column already
+has a diamond and heart in it and
+there's a spade to the immediate right
+of this space, so the card in question
+must be a club.
+
+Knowing this, you can also fill in the
+last card in the leftmost column, which
+has to be a spade.
+!******************************!
+The card in the top-right corner is a
+spade and the one at the bottom of that
+same column is a heart.
+
+The rest of the solution is up to you,
+but it shouldn't be too hard to work
+out.
+!******************************!
+[n87.dat]
+<0088>The Frog's Path
+<00><1E><1B><18><11><57><16><57><F6><03><04><FF>
+A frog sits perched on the white space in
+the diagram below. This little guy has an
+unusual jump. His first jump travels one
+space, his second jump travels two spaces,
+and his third jump travels three spaces.
+After his third jump, he repeats this
+pattern. The frog can't change his
+direction mid-jump, but he can turn around
+between jumps.
+
+This frog's goal is to land exactly on the
+green space. What is the fewest number of
+jumps he needs to make to complete this
+task?
+!******************************!
+That's the way to do it!
+
+As shown in this diagram, if you make
+the frog jump back the way he came
+twice, he can make it to the green square
+in 12 hops.
+!******************************!
+Too bad!
+
+Give the puzzle another try.
+!******************************!
+The solution for this puzzle requires
+the frog to jump back the way he came
+a number of times.
+!******************************!
+Have you ever heard the saying
+<''>one step forward, two steps back<''>?
+
+This line is useful to remember, but don't
+follow its advice too literally. 
+
+!******************************!
+The frog will need to backtrack twice.
+!******************************!
+[n88.dat]
+<0089>Flower Bed Fun
+<00><28><24><20><11><29><16><58><F6><03><04><1A>
+Here are four circular flower beds, each
+with a radius of 10 metres. The way they're
+arranged forms a space between them.
+Can you find the area, in metres squared, of
+the section coloured red below?
+
+Ignore the width of the border around the
+flower beds when calculating your answer.
+!******************************!
+Nice job!
+
+The red section has an area of 400 square
+metres. If you quarter the space between
+the flower beds and fit the pieces to the
+circle as shown on the diagram on the right,
+you can turn the circle into a square.
+Once you do, the sides of the square will
+have the same length as the diameter of a
+single flower bed: 20 metres. Square this
+number to get the area and your answer.
+!******************************!
+Too bad!
+
+You shouldn't need to do any complex maths
+to solve this one.
+!******************************!
+Don't bother thinking about pi.
+You don't need it to solve this one!
+!******************************!
+If you draw straight lines between the
+four centre points of each of the
+flower beds, it makes a square!
+!******************************!
+Draw a set of diagonal lines that go
+from each point where two flower beds
+touch, through the centre of the
+diagram (the point at the exact
+centre between all four flower beds).
+This should divide that middle space
+between all four flower beds into four
+neat sections. What can you learn from
+those four sections?
+!******************************!
+[n89.dat]
+<0090>The Unusual Fountain
+<00><14><12><10><11><34><05><59><EB><03><04><FF>
+The fountain shown below has the unusual
+ability to indicate the age of those who
+approach it.
+
+For example, if a five-year-old child were
+to approach, the fountain would fire off
+water from spouts A, B, C, D and E in that
+order. For age 15, the middle spout would
+fire, followed by spouts A to E. For
+someone aged 30, the middle spout would
+fire off three times. Given the fountain's
+method of indicating age, there's one
+utterly useless spout on the fountain.
+Find and circle this spout.
+!******************************!
+Good catch!
+
+The spout marked J is basically useless.
+A to I represent a unit of one year each,
+displaying numbers from 1-9, and the middle
+spout represents a unit of 10 years, spout
+J will never be used. 
+!******************************!
+Too bad!
+
+Think about the fountain's method of
+indicating age.
+!******************************!
+The puzzle asks for you to find a spout
+that's utterly useless, meaning the 
+spout never gets used. Which one could
+that be?
+!******************************!
+Read over the conditions that cause
+each spout to spray water, then try
+applying that knowledge. For example,
+think about how the fountain would
+indicate the ages from 10 to 20.
+!******************************!
+Spout A fires off to indicate one year,
+A and B fire for two, A, B and C for
+three, A, B, C and D for four and so on.
+
+So, if spouts A-I all firing off one
+after another are meant to indicate
+nine, then...
+!******************************!
+[n90.dat]
+<0091>Sharing the Wealth
+<00><1E><1B><18><11><24><09><5A><EF><03><04><FF>
+A wealthy land baron passed away, leaving
+his land to be divided amongst his sons.
+A section of his will is written below.
+
+<''>I want my four boys to each receive a
+piece of property containing an orchard,
+a house, a pond and an open field.
+Everyone should receive the same amount
+of land.<''>
+
+Draw lines using the stylus to separate
+each son's plot of land.
+
+!******************************!
+Good job!
+
+Now that everyone has their own land,
+hopefully they can all get along.
+!******************************!
+Too bad!
+
+Give the puzzle another try.
+!******************************!
+There are 16 squares to be divided
+between four people, so every person
+should receive a parcel of land
+consisting of four squares.  
+!******************************!
+Draw a line right down the middle of
+the map from top to bottom.
+!******************************!
+Next, lay down some boundaries so that
+no two houses are positioned on the
+same parcel of land.
+!******************************!
+[n91.dat]
+<0092>Precious Metals
+<00><28><24><20><11><25><17><5B><FD><03><04><FF>
+Lucky you! You've inherited a five-square
+plot of land that's rich in precious metals.
+Each chunk of copper ore has a value of
+one, each silver chunk has a value of three
+and each gold chunk has a whopping value of
+five. You're allowed to pick five squares
+of land for yourself, but the five squares
+must be connected to each other. Squares
+diagonal to one another don't count as
+connected.
+
+Your task is to claim the most valuable
+five-square plot possible. Can you do it?
+!******************************!
+You're rich!
+
+The plot of land displayed is the only one
+that acheives a value of 10, the highest
+value possible given the conditions of the
+puzzle.
+!******************************!
+Too bad!
+
+Nope, that's not it.
+!******************************!
+Gold ore is worth a whopping five times
+more than copper, so focus on claiming
+some of that.
+
+Wouldn't it be great if you could find
+a five-square plot of land with two
+pieces of gold ore on it? Sadly, that
+doesn't seem likely.
+!******************************!
+Unfortunately, no single five-square
+plot of land contains two pieces of
+gold ore.
+
+Now, it should be easy to find a plot
+that has two pieces of silver ore on
+it, but remember, your first priority
+is choosing the plot with the highest
+total value.
+!******************************!
+Copper is worth one, silver is worth
+three and gold is worth five. Given
+these values, you should be able to find
+a single plot of land worth 10. Find
+this plot and you've found your answer.
+!******************************!
+[n92.dat]
+<0093>How Old Am I?
+<00><1E><1B><18><11><27><16><5C><F6><03><04><FF>
+<''>The difference between Mum's age and
+Dad's age is the same as my age. Oh, and my
+big sister's twice my age, which happens to
+be one third my mum's age. And one more
+thing: In five years, I'll be my sister's age.
+
+How old am I?<''>
+!******************************!
+Hey, not bad!
+
+The girl's father is 35 and her mother is
+30, meaning the difference in their ages
+is the same as the girl's age, as she said.
+
+As for her big sister, she's 10. That's twice
+the girl's age and a third of their mother's.
+In five years, the girl will be 10, which is
+her sister's age now.
+
+Kids these days grow up so quickly!
+!******************************!
+Nope!
+
+A grown-up like you should be able to
+work this one out!
+!******************************!
+When you've got a puzzle like this one,
+what you should do is go over all the
+information you've got and find the
+stuff you can use. The difference
+between her parents' ages probably
+won't help you. But her sister's age
+might be more useful...
+!******************************!
+The girl's sister is twice her age, and
+in five years' time, the girl will be
+the age her sister is now.
+!******************************!
+Read Hint 2 really carefully...
+
+Five years ago, her sister was the
+same age she is now, and her sister
+is now twice her age.
+!******************************!
+[n93.dat]
+<0094>Puzzling Cubes
+<00><28><1E><14><11><36><10><5D><F6><03><04><FF>
+Eight cubes have been created based on the
+flat plan shown below. These have been
+combined to build a larger cube. One of the
+eight small cubes has had the letters on
+each of its faces erased. The big cube has
+been constructed in such a way that all of
+the smaller cubes' faces that aren't visible
+are pressed against the same-lettered face
+of another cube.
+
+Knowing this, can you work out what letter
+belongs on the face the arrow is pointing
+to? Your answer will be one letter, from
+A to F.
+!******************************!
+That's right!
+
+The correct letter is B.
+
+Whew. That was a tough puzzle, wasn't it?
+!******************************!
+Too bad!
+
+Don't just take a guess and run with it!
+You need to logically work your way towards
+the answer. It's that kind of puzzle.
+
+!******************************!
+The answer to this puzzle won't simply
+pop into your head when you make some
+key realisation. You need to work your
+way to it.
+
+Three different cubes are touching
+three different faces of the cube in
+question. Find the letters that must
+be on those faces of the unmarked cube.
+
+!******************************!
+If the unmarked cube had its faces
+restored, all four letters on the right
+side of the big cube would be Cs. Note
+how all four Cs don't point the same way.
+!******************************!
+Did you work out which letters are
+on the hidden faces of the unmarked
+cube?
+They are A, D and E.
+!******************************!
+[n94.dat]
+<0095>Box of Books
+<00><1E><1B><18><11><37><16><5E><F6><03><04><FF>
+The box shown below has a height, width and
+depth of 30cm. You'd like to place as many
+books as possible in the box. Each book is
+20cm wide by 20cm long by 10cm thick. How
+many books can you pack into this box?
+
+Books can only be placed in the box when
+they are closed, but you can position each
+book however you like inside the box.
+!******************************!
+Very nice!
+
+If you arrange the books in the box in the
+method shown, you can cram a whopping six
+books into it!
+!******************************!
+Too bad!
+
+Think in three dimensions to find the
+solution. 
+!******************************!
+If all you had to do to solve this puzzle
+was count how many books you can stack
+in the box before it fills up, it wouldn't
+be much fun.
+
+You'll need to think creatively and in
+three dimensions to solve this one.
+!******************************!
+The bottom of the box measures 30cm
+by 30 cm. Each book is 20 cm by 20 cm,
+so there is only space for one book
+at the bottom of the box.
+But if you do that, you'll be left with
+10 cm spare on both sides. Say, isn't
+that the exact same size as the
+thickness of one book? 
+!******************************!
+Even if you place three books upright
+in the box and use two more to fill what
+gaps you can, you'll still have a good
+chunk of wasted space on your hands.
+Fitting the books together in a
+space-efficient way is of utmost
+importance in solving this puzzle.
+
+!******************************!
+[n95.dat]
+<0096>A Ghostly Puzzle
+<00><1E><1B><18><11><2B><02><5F><E8><03><04><2F>
+Yikes! There's a ghost in the forest!
+
+...Or so you thought, until you realised that
+the spectre hovering in front of you was
+just a figure cut out of wood hanging from
+a branch. Looking around the area, you
+notice four pieces of wood scattered in the
+grass. From which one of these wooden
+planks was the ghost cut out?
+
+You have four choices: A, B, C or D.
+Beware! The correct board may have flipped
+over in the grass.
+
+!******************************!
+Good eye!
+
+The ghost was cut from board B. The board
+must have flipped over as it fell to the
+ground. All the other boards have slight
+differences that set them apart from the
+correct one.
+!******************************!
+Too bad!
+
+All the boards might look the same at first,
+but if you look carefully, you'll start to
+see the differences.
+
+Don't forget to consider the outline each
+board makes when flipped over, too.
+!******************************!
+Think you've found the answer? You're
+sure? Well, just to be safe, compare its
+outline to the ghost one more time. Don't
+forget to look at little details, like the
+shape of its hands.
+!******************************!
+You should pay extra attention to the
+length of the ghost's tail.
+!******************************!
+Take note of which way the ghost's
+arms should be facing!
+
+Oh, and just so you know, the board
+you're looking for needs to be flipped
+over to match the outline of the ghost.
+!******************************!
+[n96.dat]
+<0097>A Starry Sky
+<00><28><24><20><11><4C><1A><60><00><04><04><FF>
+It's said that ancient peoples came up with
+constellations by staring up at the stars
+in the night sky. Here's a star-laden puzzle
+to celebrate their achievements.
+
+Below is a 6 x 6 grid of sky and stars
+arranged into nine larger blocks. Arrange
+these nine blocks so that each row and
+column contains three stars. Blocks without
+surrounding outlines can't be moved.
+!******************************!
+Brilliant!
+
+The constellation is a bit...abstract, but
+oh well.
+!******************************!
+Too bad!
+
+There's at least one row or column in your
+solution that doesn't have three stars.
+!******************************!
+You need to find a foothold to get
+started, and the stars that are locked
+in place should do nicely. Remember, if
+two stars are locked into a row, you can
+only place one more there.
+!******************************!
+The topmost row of blocks has two
+blocks that are locked into place. Within
+this row of blocks are two rows of
+stars. The top row has two stars locked
+in place and the bottom row has one.
+Therefore, the one block you can place
+in this row must have one star in its top
+row and two in its bottom row.
+!******************************!
+Let's take a look at the leftmost
+column of blocks, which also has two
+blocks locked in place.
+The left column of stars contained
+here has only one star locked in place,
+as does the right column. So, the block
+that goes here must have two stars in
+both its left and right rows.
+!******************************!
+[n97.dat]
+<0098>Jars and Cans 1
+<00><19><16><13><11><3A><1E><61><03><04><04><FF>
+A long line of jars and cans sits on the
+counter. Your job is to rearrange these
+items so that both jars and cans are
+grouped with items of the same type.
+However, in doing so, you must always
+move two containers at once.
+
+Move items around by touching the red icon
+between two containers and dragging the
+selected pair of items around with the
+stylus.
+!******************************!
+Well done!
+
+Now the jars and cans are sorted neatly.
+If only people would organise things
+properly in the first place...
+!******************************!
+Too bad!
+!******************************!
+This puzzle is all about finding the right
+order in which to make your moves.
+The more organised players out there
+should be able to solve this one on
+instinct alone.
+
+Since it's a relatively simple puzzle,
+don't expect to find any more hints.
+Instead, you'll get some trivia about
+this type of puzzle. If you're short
+on hint coins, stay away from the
+last two hints!
+!******************************!
+This is another one of those puzzles
+that's been around practically forever.
+Variations of it exist across the globe
+and have even been said to be played in
+places like Edo-era Japan.
+!******************************!
+In Japan, this puzzle is often presented
+using pieces from Go, a strategic
+board game originally from China. In
+England, the puzzle was often set up
+using silver and gold coins.
+!******************************!
+[n98.dat]
+<0099>Jars and Cans 2
+<00><1E><1B><18><12><3A><1E><62><03><04><04><31>
+Look at that, another row of jars and
+cans all mixed up, and this time there are
+even more of them. As before, your job is
+to rearrange these items so that both jars
+and cans are grouped with items of the
+same type. However, in doing so, you
+must always move two containers at once.
+
+Move items around by touching the red icon
+between two containers and dragging the
+selected pair of items around with the
+stylus.
+!******************************!
+Well done!
+
+This puzzle is based on one widely known in
+Japan since the Edo era.
+!******************************!
+Too bad!
+!******************************!
+This is another puzzle where the order
+of your moves is key. You won't get any
+hints on this one, but as a general tip
+for this type of puzzle, you should take
+care not to return items to their
+original position while moving them
+around. Also, you should know that
+although there are a lot more jars and
+cans this time, it shouldn't take any
+more moves to solve than the last
+puzzle.
+!******************************!
+In Japan the type of puzzle you are
+playing now is known as a Mandarin duck
+puzzle. Mandarin ducks are famous for
+the affectionate way male and female
+pairs of ducks get along. Some theorise
+that the game is known by this name
+because of the way Mandarin duck
+couples tend to move about together.
+!******************************!
+Here's another piece of fun trivia
+for you. As stated in Hint 2, these
+puzzles are referred to as Mandarin
+duck puzzles because of the
+affectionate behaviour Mandarin duck
+couples exhibit towards each other, but
+it turns out that these birds change
+mates every year!
+
+This may not help you with the puzzle,
+but isn't it interesting?
+!******************************!
+[n99.dat]
+<0100>A Rickety Bridge
+<00><1E><1B><18><11><4F><21><63><E9><03><04><FF>
+Luke and Professor Layton stand at one
+end of a rickety old bridge. Afraid of falling
+into the chasm below, Luke's legs have
+become stiff with fear, and he can only walk
+across the bridge in increments of one or
+three planks at a time. The narrowness of
+the bridge prevents Luke from doubling
+back the way he came or switching the foot
+he's standing on before stepping forward.
+Use your stylus to create a path that
+guides Luke safely across the bridge, while
+avoiding any gaps in the planks. Luke is safe
+when he steps on the red footprint.
+!******************************!
+That was some fancy footwork!
+
+The ninth step you choose gets Luke safely
+across the bridge.
+!******************************!
+Too bad!
+
+Watch your step!
+!******************************!
+The first step Luke takes is with his
+left foot.
+!******************************!
+The last step Luke takes is with his
+left foot. It carries him a distance of
+one plank.
+!******************************!
+Luke's ninth step carries him to
+the goal.
+!******************************!

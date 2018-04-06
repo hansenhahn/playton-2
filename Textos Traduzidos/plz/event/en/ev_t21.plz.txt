@@ -1061,7 +1061,7 @@ seus famosos poderes de dedução.
 !******************************!
 [t21_170_100.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:97>Com licença, Madame. Por acaso viu
-um garotinho andando por ai sem um
+um garotinho andando por aí sem um
 dos sapatos?
 !******************************!
 [t21_170_200.gds]

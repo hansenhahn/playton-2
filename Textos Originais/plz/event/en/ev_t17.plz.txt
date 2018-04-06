@@ -1,0 +1,715 @@
+[t17_010_100.gds]
+<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:9>Welcome.
+!******************************!
+[t17_010_200.gds]
+<01:00000001><03:10>b2 normal<03:10>b1 normal<01:00000002><03:213>Sorry to intrude, but we are
+investigating an important
+antique, this box we have here.<W>
+!------------------------------!
+The emblem on its lid seems
+connected to your house in some
+way.<W>
+!------------------------------!
+Would you have time to answer a
+few questions?
+
+!******************************!
+[t17_010_300.gds]
+<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:90>Hm.<W>
+!------------------------------!
+I think this matter would best be 
+addressed by the master. Please,
+come inside.
+!******************************!
+[t17_023_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:60>I say, look at this picture, Luke.
+Is that Folsense there?
+!******************************!
+[t17_023_200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:181>I think so. The artist's inscription
+down here says that this painting
+is 50 years old.<W>
+!------------------------------!
+It looks more or less the same as
+the Folsense we can see outside
+our window, though.
+!******************************!
+[t17_023_300.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:7>Hmm...
+!******************************!
+[t17_023_400.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:34>What are you thinking, Professor?
+!******************************!
+[t17_023_500.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:51>Oh, it's nothing. I was just
+pondering something.
+!******************************!
+[t17_026_100.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:90>It's getting late, Luke. It's been
+quite a day for us, so perhaps it's
+time to turn in.
+!******************************!
+[t17_026_200.gds]
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:54>Yeah, I could use some sleep.
+Good night, Professor.
+!******************************!
+[t17_040_100.gds]
+<01:0000001E><03:5>NONE<03:5>NONE<01:00000002><03:92>Oh, lovely, you're awake. It's been
+far too long since I've encountered
+prey so...feisty.
+!******************************!
+[t17_040_200.gds]
+<01:00000051><03:5>NONE<03:5>NONE<01:00000002><03:54>Anton? What sort of madness is
+this?<W> Grrr! Unnngh!
+!******************************!
+[t17_040_300.gds]
+<01:00000052><03:5>NONE<03:5>NONE<01:00000003><03:30>I knew it! You ARE a vampire!
+!******************************!
+[t17_040_400.gds]
+<01:0000001E><03:5>NONE<03:5>NONE<01:00000002><03:281>Well, if that's the case, it was
+rather foolish for you to venture
+here, wouldn't you say?<W>
+!------------------------------!
+But I'm afraid it's too late now.
+I must begin preparations.<W>
+!------------------------------!
+In the meantime, why don't you just
+stay put and enjoy each other's
+company?<W>
+!------------------------------!
+After all, it'll be your last chance.
+!******************************!
+[t17_040_500.gds]
+<01:00000051><03:10>b1 notalk<03:5>NONE<01:00000005><03:8>Grrr...
+!******************************!
+[t17_045_100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:50>Do you feel that breeze coming
+from below, Luke?
+!******************************!
+[t17_045_200.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:75>A breeze? Where could it be coming
+from?<W> We're underground, after
+all.
+!******************************!
+[t17_045_300.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:87>You find it odd too, then?
+I suppose we'll simply have to
+investigate for ourselves.
+!******************************!
+[t17_050_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>This boiler must be powering the
+large contraption we spotted
+underneath the bridge.
+!******************************!
+[t17_050_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:65>And what do you think this machine
+over here is for, Professor?
+!******************************!
+[t17_050_300.gds]
+<01:00000001><03:10>b2 normal<03:10>b1 normal<01:00000002><03:152>It looks like it might have been
+used to extract the gold they
+were mining down here.<W>
+!------------------------------!
+The hole in the ground here seems
+to support my assumption.
+!******************************!
+[t17_050_400.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:54>There's some foul-looking smoke
+coming out of there.
+!******************************!
+[t17_060_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>I don't see anyone up and about...
+!******************************!
+[t17_060_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:181>That's unusual. I can't imagine that
+Anton and his butler are the only
+ones living in a place this size.<W>
+!------------------------------!
+Perhaps there are separate
+servants' quarters around here
+somewhere.
+!******************************!
+[t17_060_300.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:92>I'd say that if there were more
+servants around, you'd think we'd
+have heard them by now.
+!******************************!
+[t17_060_400.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000002><03:67>Hmm, yes. Well, as I said, this
+castle is nothing if not strange.
+!******************************!
+[t17_063_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:41>Take a look at this picture,
+Professor.
+!******************************!
+[t17_063_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>There he is, larger than life. The
+current master of Herzen Castle.
+!******************************!
+[t17_063_300.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:67>You mean the monster who tied us
+up and tried to drink our blood!
+!******************************!
+[t17_063_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:15>How strange...
+!******************************!
+[t17_063_500.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:85>I'd certainly say that tying people
+up and trying to drink their blood
+is strange!
+!******************************!
+[t17_063_600.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:164>No, Luke, this picture. It's far
+too worn and aged to have been
+made recently.<W>
+!------------------------------!
+Yet you saw Anton yourself.
+The man and his portrait are
+virtually identical.
+!******************************!
+[t17_063_700.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:102>If he doesn't age, he must really
+be a vampire! I knew it. We need to
+get out of here this instant!
+!******************************!
+[t17_063_800.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:191>Perhaps those rumours in the town
+weren't entirely unfounded.<W>
+!------------------------------!
+But running about in a panic has
+never solved anything.<W>
+!------------------------------!
+Why don't we take a moment to
+clear our heads with this puzzle?
+!******************************!
+[t17_065_100.gds]
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:56>Professor, I think I see a way we
+can get out of here.
+!******************************!
+[t17_065_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:193>Our search led us to the castle
+and we're on the verge of revealing
+what killed Dr Schrader.<W>
+!------------------------------!
+We must search this place throughly
+before we make our escape.
+Let's see what else is here. 
+!******************************!
+[t17_065_300.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:59>Uh, Professor, I don't know if
+that's such a good idea...
+!******************************!
+[t17_065_400.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:156>Luke, listen to me. We can't turn
+back and run. Not now.<W>
+!------------------------------!
+We're so close to uncovering the
+truth about Folsense and the
+Elysian Box. We must press on.
+!******************************!
+[t17_067_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:27>Return to town?
+ Yes
+ No
+!******************************!
+[t17_070_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:25>Oh, I do believe that's-
+!******************************!
+[t17_070_1000.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:93>Madness?<W> I'm afraid I don't
+understand. Please be honest with
+us. What's happening here?
+!******************************!
+[t17_070_1100.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:107>Very well. I'll explain everything,
+but first you must get as far from
+this castle as possible. Quickly!
+!******************************!
+[t17_070_200.gds]
+<01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:8>Katia?!
+!******************************!
+[t17_070_300.gds]
+<01:00000014><03:10>b1 notalk<03:5>NONE<01:00000006><03:4>Oh!
+!******************************!
+[t17_070_400.gds]
+<01:00000014><03:10>b1 normal<03:5>NONE<01:00000003><03:29>What are you two doing here?
+!******************************!
+[t17_070_500.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:106>I could ask you the same thing! It's
+dangerous here! There's a vampire
+living in this castle, you know!
+!******************************!
+[t17_070_600.gds]
+<01:00000014><03:9>b1 angry<03:5>NONE<01:00000003><03:40>Anton? He's no vampire.
+He's just...
+
+!******************************!
+[t17_070_700.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:60>I'm quite puzzled, Katia. What do
+you know about this man?
+!******************************!
+[t17_070_800.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:6>Um...
+!******************************!
+[t17_070_900.gds]
+<01:00000014><03:10>b1 normal<03:5>NONE<01:00000003><03:155>It's not for me to say.<W>
+!------------------------------!
+Besides, right now you must focus
+all your efforts on escaping.<W>
+!------------------------------!
+If you linger here, the madness
+will grip you before long.
+!******************************!
+[t17_080_100.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:31>I know the way out. Follow me.
+!******************************!
+[t17_080_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:56>How are you related to this
+entire situation? Are you-
+!******************************!
+[t17_080_300.gds]
+<01:00000014><03:9>b1 angry<03:5>NONE<01:00000003><03:49>There's no time! You've got to
+get out of here!
+!******************************!
+[t17_110_100.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:31>I'm your granddaughter, Anton.
+!******************************!
+[t17_110_200.gds]
+<01:0000001E><03:5>NONE<03:5>NONE<01:00000002><03:77>Don't be ridiculous. Look at me!
+I'm too young to be anyone's
+grandfather.
+!******************************!
+[t17_110_300.gds]
+<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:153>But what you see around
+you isn't real. It's just an illusion
+created by your own mind.<W>
+!------------------------------!
+Your youth is part of that
+illusion. The truth is, well...
+!******************************!
+[t17_110_400.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:196>Allow me, please.<W>
+!------------------------------!
+The gold mine built by your father,
+the late Duke Herzen, brought this
+town much growth and prosperity.<W>
+!------------------------------!
+But something terrible slept deep
+within that rich gold deposit.
+!******************************!
+[t17_110_450.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:295>Unbeknownst to the miners, they
+hit a vein of hallucinogenic gas
+while digging for gold.<W>
+!------------------------------!
+The gas made those who breathed
+it extremely susceptible to mental
+suggestion of all types.<W>
+!------------------------------!
+Tales of the nightmarish visions
+seen in Folsense then spread, as
+did the town's sinister reputation.
+!******************************!
+[t17_110_460.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:122>In truth, neither the Folsense we
+see before us nor its residents
+really exist.<W>
+!------------------------------!
+This is all a creation of our minds.
+!******************************!
+[t17_110_500.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:41>How did you work it all out,
+Professor?
+!******************************!
+[t17_110_600.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:286>The images of Folsense we saw are
+50 years old, yet they show a town
+identical to the Folsense of today.<W>
+!------------------------------!
+No town can remain unchanged
+for 50 long years.<W>
+!------------------------------!
+The photos we saw in the train
+station formed our impression of
+the Folsense we'd see.<W>
+!------------------------------!
+The Folsense of 50 years ago...
+!******************************!
+[t17_110_700.gds]
+<01:0000001E><03:8>b2 weep<03:5>NONE<01:00000002><03:57>Enough of this madness. Folsense
+is real... I'm real...
+!******************************!
+[t17_110_800.gds]
+<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:158>None of it's real, Grandfather.
+This town is just a thin shadow.
+An illusion born of greed.<W>
+!------------------------------!
+You and Sophia... Everything you
+know changed 50 years ago.
+!******************************!
+[t17_111_100.gds]
+<01:00000021><03:5>NONE<03:5>NONE<01:00000002><03:80>But you and I are betrothed!
+How can you just leave me here?
+I won't have it!
+!******************************!
+[t17_111_200.gds]
+<01:00000020><03:5>NONE<03:5>NONE<01:00000003><03:79>This whole town is cursed. If we
+remain here, all those dear to me
+will die.
+!******************************!
+[t17_111_300.gds]
+<01:00000021><03:9>b1 angry<03:5>NONE<01:00000002><03:82>Am I not dear to you, Sophia?
+Stay with me and we'll rebuild
+Folsense together.
+!******************************!
+[t17_111_400.gds]
+<01:00000020><03:10>b2 normal<03:5>NONE<01:00000003><03:85>I'm sorry, Anton, but there's
+someone else I love who needs
+me even more than you.
+!******************************!
+[t17_111_500.gds]
+<01:00000021><03:8>b1 weep<03:5>NONE<01:00000002><03:72>Is that the real reason you
+want to go? Because there's
+someone else?
+!******************************!
+[t17_112_100.gds]
+<01:0000001E><03:9>b2 weep2<03:5>NONE<01:00000002><03:47>I trusted Sophia and she left me
+for another!
+!******************************!
+[t17_112_1000.gds]
+<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:129>Grandmother passed away last
+year, but she was always talking
+about you, even toward the end.<W>
+!------------------------------!
+She never stopped loving you.
+!******************************!
+[t17_112_200.gds]
+<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:64>You've got it all wrong,
+Grandfather! She never betrayed
+you.
+!******************************!
+[t17_112_300.gds]
+<01:0000001E><03:8>b2 weep<03:5>NONE<01:00000002><03:6>What?
+!******************************!
+[t17_112_400.gds]
+<01:00000014><03:10>b1 normal<03:5>NONE<01:00000003><03:112>The other she was talking about
+was the little life growing inside
+her.<W>
+!------------------------------!
+The life you two created together.
+!******************************!
+[t17_112_500.gds]
+<01:0000001E><03:9>b1 angry<03:5>NONE<01:00000002><03:21>N-no, that can't be!
+!******************************!
+[t17_112_600.gds]
+<01:00000020><03:10>b2 normal<03:5>NONE<01:00000003><03:85>I'm sorry, Anton, but there's
+someone else I love who needs
+me even more than you.
+!******************************!
+[t17_112_700.gds]
+<01:0000001E><03:8>b1 weep<03:5>NONE<01:00000002><03:28>I never knew. Sophia was...
+!******************************!
+[t17_112_800.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:154>That's right, Grandmother was
+carrying my mother and she left
+Folsense to keep her safe.<W>
+!------------------------------!
+She kept the baby a secret to
+avoid causing you more pain.
+!******************************!
+[t17_112_900.gds]
+<01:0000001E><03:8>b2 weep<03:5>NONE<01:00000002><03:20>I've been so wrong.
+!******************************!
+[t17_140_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:93>It seems I've found the answers I
+was searching for. Here, allow me
+to return this to you.
+!******************************!
+[t17_140_1000.gds]
+<01:0000001F><03:9>b1 smile<03:5>NONE<01:00000002><03:262>Ah, well that's because there's
+actually a second way to open it.<W>
+!------------------------------!
+<''>The sun rises when you and I meet,
+and when the wind blows, you will
+know my heart.<''><W>
+!------------------------------!
+These old words are the key to
+understanding this box and what it
+means. Do you follow, boy?
+!******************************!
+[t17_140_1100.gds]
+<01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:37>I...think so. Let me give it a shot!
+!******************************!
+[t17_140_1200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:104><''>The sun rises when you and I meet,
+and when the wind blows, you will
+know my heart.<''><W>
+!------------------------------!
+Hmm...
+!******************************!
+[t17_140_1300.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:10>I did it!
+!******************************!
+[t17_140_1400.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:4>Oh!
+!******************************!
+[t17_140_1500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:19>What's the matter?
+!******************************!
+[t17_140_1600.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:110>This isn't the letter I wrote!
+This is Sophia's handwriting!<W>
+!------------------------------!
+The box must have made it
+to her after all!
+!******************************!
+[t17_140_200.gds]
+<01:0000001F><03:5>NONE<03:5>NONE<01:00000002><03:11>Thank you.
+!******************************!
+[t17_140_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:38>So, the box wasn't cursed after
+all.
+!******************************!
+[t17_140_400.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:349>No, Luke, there's no curse to be
+found here.<W>
+!------------------------------!
+But if I were to guess, I suspect
+you'd find traces of that gas in
+the ore used to make this box.<W>
+!------------------------------!
+The same fumes that drove the
+town to ruin were released upon
+each person who opened the box.<W>
+!------------------------------!
+Those who opened the box
+expected death and, in doing so,
+fulfilled their own grim predictions.
+!******************************!
+[t17_140_500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:46>I suppose it was just an ordinary
+box, then.
+!******************************!
+[t17_140_600.gds]
+<01:0000001F><03:9>b1 smile<03:5>NONE<01:00000002><03:96>Oh, I assure you, it's far from
+ordinary. This box was crafted
+to hold the words of my heart.
+!******************************!
+[t17_140_700.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:18>What do you mean?
+!******************************!
+[t17_140_800.gds]
+<01:0000001F><03:10>b1 smile2<03:5>NONE<01:00000002><03:322>The box contains a hidden
+message, one meant only for
+Sophia.<W>
+!------------------------------!
+Many years ago, I asked a traveller
+passing through town to deliver it
+to her.<W>
+!------------------------------!
+Unfortunately, the box's value
+made it a target for those
+hungry for wealth.<W>
+!------------------------------!
+And so it was stolen again
+and again, thus perpetuating
+the whole chain of sad events.
+!******************************!
+[t17_140_900.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:51>But we checked the box.
+It was empty as could be.
+!******************************!
+[t17_150_100.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:10>I did it!
+!******************************!
+[t17_150_200.gds]
+<01:00000053><03:5>NONE<03:5>NONE<01:00000002><03:4>Oh!
+!******************************!
+[t17_150_300.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:19>What's the matter?
+!******************************!
+[t17_150_400.gds]
+<01:00000053><03:5>NONE<03:5>NONE<01:00000002><03:110>This isn't the letter I wrote!
+This is Sophia's handwriting!<W>
+!------------------------------!
+The box must have made it
+to her after all!
+!******************************!
+[t17_160_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:296>My dear Anton, are you well?
+I received your letter.<W>
+!------------------------------!
+Though I'd like nothing more than
+to see you again, I'm afraid I no
+longer have the strength to do so.<W>
+!------------------------------!
+You don't know how many times
+I've thought about you over
+the years.<W>
+!------------------------------!
+I often wonder if you hate
+me for what I did. Do you?
+
+!******************************!
+[t17_160_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:296>When I decided to leave, I was
+carrying our child.<W>
+!------------------------------!
+I couldn't bear exposing that
+tiny life to such danger.<W>
+!------------------------------!
+I knew your father's position,
+and understood you didn't have
+the option to leave with me.<W>
+!------------------------------!
+Even though I did the only thing
+I could, I'll always regret
+leaving you that way.
+!******************************!
+[t17_160_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:391>But there's one bright spot in
+this sad story, and that is
+our lovely granddaughter Katia.<W>
+!------------------------------!
+My departure all those years ago
+has given you the chance to meet.<W>
+!------------------------------!
+Katia's mother died shortly after
+she was born, but Katia grew up
+strong and sweet just the same.<W>
+!------------------------------!
+She reminds me of you every
+time she smiles.<W>
+!------------------------------!
+With her around, I could never
+forget about you, even if I
+wanted to.
+!******************************!
+[t17_160_400.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:296>You've been in my thoughts since
+the day we parted.<W>
+!------------------------------!
+And now, though my time here is
+drawing to a close, I like to think
+we'll meet again on the other side.<W>
+!------------------------------!
+The thought of seeing your face
+warms my heart.<W>
+!------------------------------!
+Be well and be happy, my dear
+Anton. Goodbye, but just for now.
+Your Sophia.
+!******************************!
+[t17_160_500.gds]
+<01:00000053><03:5>NONE<03:5>NONE<01:00000002><03:41>Oh, Sophia... I finally understand
+now.
+!******************************!
+[t17_180_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:441>And that was the tale of the
+Elysian Box, a relic feared for the
+fatal curse it was said to carry.<W>
+!------------------------------!
+But when all was said and done,
+there was no curse at all sleeping
+under its gilded lid.<W>
+!------------------------------!
+Instead, the box was revealed for
+what it truly was.<W>
+!------------------------------!
+A vessel created to carry the
+love of two kindred spirits through
+all of time.<W>
+!------------------------------!
+While terror brought the box its 
+notoriety, in the end, its most
+powerful message was one of love.
+!******************************!
+[t17_250_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:89>Professor, if we want to get out
+of here, we should probably head
+up, don't you think?
+!******************************!
+[t17_260_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:23>This door won't budge.
+!******************************!
+[t17_260_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:41>But I don't see any kind of lock
+on it.
+!******************************!
+[t17_260_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:147>Good point. This door must be
+controlled by some sort of device
+positioned elsewhere.<W>
+!------------------------------!
+Let's head down from here and
+see what else is around.
+!******************************!
+[t17_280_100.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:98>Wow! This is the poshest room I've
+ever seen! The Molentary Express
+looks tawdry by comparison!
+!******************************!
+[t17_280_200.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:80>It's a room befitting the wealthiest
+and most influential family of
+Folsense.
+!******************************!
+[t17_280_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:91>I have a hard time believing a
+place as gorgeous as this has
+a vampire lurking about it.
+!******************************!
+[t17_280_400.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:99>Oh, you never know, Luke. Maybe
+Anton himself is a vampire and
+you just haven't realised it yet.
+!******************************!
+[t17_280_500.gds]
+<01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:159>Anton? Doubt it! He seemed like a
+perfectly nice chap to me.<W>
+!------------------------------!
+Wait a second, I thought you didn't
+believe in vampires. Are you pulling
+my leg, Professor?
+!******************************!
+[t17_280_510.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:162>Still, now that you mention it,
+there is something strange going
+on here.<W>
+!------------------------------!
+Remember that picture we saw in
+the Herzen Museum?<W> Anton was in
+it, wasn't he?
+!******************************!
+[t17_280_520.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:86>The thing is, the photo was taken
+50 years ago, but Anton doesn't
+look a day older.
+!******************************!
+[t17_280_530.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:266>So it's been bothering you too, has
+it?<W> I can't quite understand how
+it could be possible.<W>
+!------------------------------!
+It's especially odd given that
+Mr Beluga has clearly aged
+since the picture was taken.<W>
+!------------------------------!
+It would seem that both Anton and
+his castle warrant further
+examination.
+!******************************!
+[t17_280_540.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:55>There's that famous Layton
+intuition acting up again!
+!******************************!
+[t17_280_600.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:134>I suppose you could say that,
+though I'd hardly call it famous.<W>
+!------------------------------!
+Why don't we start our exploration
+of the castle with this room?
+!******************************!
+[t17_280_700.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:28>Good idea. Let's get to it!
+!******************************!

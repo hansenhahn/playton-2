@@ -1,0 +1,3822 @@
+[diary_1.txt]
+I met the most enchanting girl at
+the ball we held last night. These
+parties are usually a complete
+bore, but her presence changed
+all that. As the duke's son, the
+unfortunate reality is that most
+people are overly polite and
+fawning towards me. But this girl
+was warm and real, and treated
+me like she did everyone else.
+It was very refreshing indeed.
+I do hope to see her again.
+!******************************!
+[diary_10.txt]
+My father fell ill from that
+sickness and has passed away.
+I also heard that many of the
+people who left Folsense have
+formed a village a safe distance
+from town. I imagine she lives
+there now, too. I've decided to
+send her a letter. As duke, I can't
+leave town, but I've entrusted my
+message with a man who is
+passing through town. Now, all I
+can do is wait for her reply.
+!******************************!
+[diary_11.txt]
+I don't know how many days have
+passed, waiting to hear back from
+her. It's been so long, in fact,
+that I can barely remember even
+sending that letter.
+Maybe she really doesn't love me.
+Maybe she's living in some other
+town, happily married to another
+man...
+!******************************!
+[diary_12.txt]
+In order to deal with the swine who
+sneak into Folsense by night like
+rats to steal our gold, I have
+decided to quite literally play the 
+part of a monster. Though focused
+on this, at times my thoughts turn
+to that gilded box and the letter
+inside. I now suspect that neither
+made it to her.
+Oh, my dear Sophia, just to hear
+from you is all I desire.
+!******************************!
+[diary_2.txt]
+I had the great fortune of bumping
+into that girl from the ball again
+today. She's the daughter of some
+fancy lord or another, and it
+shows. Her intellect is matched
+only by the grace she displays.
+To be honest, I'm quite taken with
+her and have already started
+courting her. However, I fear
+that Father seems less than
+pleased with the idea.
+!******************************!
+[diary_3.txt]
+Father has always done what he
+wants, regardless of who may
+object. He's that way with
+everyone, even his sons. It's no
+wonder my younger brother always
+seems so irritated with him. Even
+so, he and I must endure Father's
+whims because, as the next in line
+to rule Folsense, we cannot leave
+this town, even if we want to. We
+are stewards of this town, and we
+must stay here to watch over it. 
+!******************************!
+[diary_4.txt]
+No longer able to tolerate
+Father's selfish ways, my younger
+brother has left Folsense for
+good. Strangely enough, Father
+doesn't seem affected by it at all.
+If anything, he only seems more
+focused on excavating even more
+gold from the mine. Is that
+miserable ore worth so much to
+him? I'm beginning to think that I
+will never understand that man.
+!******************************!
+[diary_5.txt]
+We've found a new ore down in
+the ground that Father thinks we
+can refine into a precious metal.
+Personally, I doubt we'll be able to
+turn something as dull and dead
+as that rock into something of
+worth. Not that it's stopped
+Father. The digging has advanced
+to the point where it's formed a
+massive crater under the castle.
+I have visions of the whole castle
+tumbling down into that abyss. 
+!******************************!
+[diary_6.txt]
+Today is a day to celebrate!
+At long last, the girl I love has
+agreed to give me her hand in
+marriage. I must begin preparing
+for her arrival at once! I'll gladly
+change every fixture and fitting
+in the castle so that she feels
+at ease. I'm also commissioning a
+special dress to be made for her.
+She's going to look stunning in it.
+I just know it.
+!******************************!
+[diary_7.txt]
+All around town, people are falling 
+ill with a disease that has no name.
+Some of the common folk have been
+saying that our town has fallen
+under a curse. As the only son
+remaining to watch over Folsense,
+I can't even think of leaving. The
+thought would be more disturbing
+were it not for her. As long as
+she's by my side, I have the
+strength to stay and protect this
+town.
+!******************************!
+[diary_8.txt]
+Oh, this wretched life of mine!
+The girl I love and to whom I was
+betrothed has abandoned me and
+fled Folsense. Did all that awful
+talk of curses scare her off? Or
+did she truly leave me to be with
+someone else she loves? Either
+way, her betrayal cuts me to the
+core. I trusted her, and now I'm
+lost. Where do I go from here?
+What's left for me?
+!******************************!
+[diary_9.txt]
+Ever since she left, Father and I
+have been at each other's throats
+day and night.
+The mysterious disease plaguing
+our town continues to drive people
+to flee their homes for a safer
+life elsewhere. If only she had
+stayed with me, I feel like I could
+have weathered the storm. I still
+ask myself why she left this town.
+If she truly loved me, then why did
+she leave? 
+!******************************!
+[dt_1.txt]
+
+!******************************!
+[dt_10.txt]
+
+!******************************!
+[dt_11.txt]
+
+!******************************!
+[dt_12.txt]
+
+!******************************!
+[dt_2.txt]
+
+!******************************!
+[dt_3.txt]
+
+!******************************!
+[dt_4.txt]
+
+!******************************!
+[dt_5.txt]
+
+!******************************!
+[dt_6.txt]
+
+!******************************!
+[dt_7.txt]
+
+!******************************!
+[dt_8.txt]
+
+!******************************!
+[dt_9.txt]
+
+!******************************!
+[ide_1.txt]
+It turns out that the Elysian Box
+was crafted 50 years ago to
+carry a letter from Anton to his
+love, Sophia. A gas present in the
+material used to make the box
+causes hallucinations in those who
+open it. These visions are how the
+rumours of a curse began.
+!******************************!
+[ide_10.txt]
+The symbol is actually a crest
+belonging to the Herzen family,
+who once ruled over Folsense.
+It's clear that the Herzen family
+and the Elysian Box are deeply
+connected.
+!******************************!
+[ide_2.txt]
+The ticket was for Folsense,
+a destination accessible only
+to those riding in a particular
+carriage on the Molentary
+Express. It would seem that
+Dr Schrader must have
+visited Folsense sometime
+before his murder.
+!******************************!
+[ide_3.txt]
+When reconstructed, the
+photograph depicts the
+Elysian Box. On the lid of
+the box is an ominous-looking
+goat, which seems appropriate,
+given the box's sinister
+reputation.
+!******************************!
+[ide_4.txt]
+The villain who made off with the
+Elysian Box was none other than
+Don Paolo, brilliant scientist and
+Professor Layton's
+self-proclaimed nemesis. To find
+riches associated with the
+antique, he disguised himself as
+Flora and tailed Layton and Luke.
+!******************************!
+[ide_5.txt]
+It turns out that Tom isn't a
+child, as was originally thought,
+but rather Babette's pet dog.
+It would seem that Babette's
+affection for Tom is so deep that
+she considers him to be much more
+than just a pet.
+!******************************!
+[ide_6.txt]
+Katia is Sophia and Anton's
+granddaughter. Katia set out
+alone for Folsense to solve
+a 50-year-old misunderstanding.
+!******************************!
+[ide_7.txt]
+The hallucinogenic gas present in
+Folsense's air caused Layton and
+the others to imagine the station
+as the gleaming edifice displayed
+in the many photographs lining the
+walls of the building.
+!******************************!
+[ide_8.txt]
+Beluga was searching for the
+Elysian Box, which he believed
+contained clues regarding the
+vast Herzen family fortune. As a
+member of the Herzen family, he
+felt entitled to any family riches,
+though some people in Folsense
+strongly objected to his claims.
+!******************************!
+[ide_9.txt]
+Anton invented the whole vampire
+story to scare off those who
+would try to loot the Herzen
+fortune. He did this by whisking
+away all those who came too close
+to the castle and setting them
+free to run away once properly
+scared.
+!******************************!
+[id_1.txt]
+The Elysian Box is an antique said
+to bring death upon anyone who
+dares open its lid. According to
+rumours, the box has already
+claimed many lives and is known
+as "Pandora's Box" in many parts
+of the world. Could such dark
+rumours be true?
+!******************************!
+[id_10.txt]
+A large, ominous symbol in the
+shape of a goat's head decorates
+the top of the Elysian Box.
+This same symbol can be spotted in
+the town of Folsense.
+What connection exists between
+the box and the town?
+!******************************!
+[id_2.txt]
+A single ticket with no visible
+destination was discovered in
+Dr Schrader's home. It appears to
+be for the Molentary Express, but
+where exactly is it supposed to
+take its bearer?
+!******************************!
+[id_3.txt]
+Torn fragments of a photograph
+were found in the late doctor's
+hand. In its current state, it's
+impossible to make out the
+contents of the photo.
+
+What could it be depicting?
+!******************************!
+[id_4.txt]
+Somebody managed to steal the
+Elysian Box from Dr Schrader's
+home without leaving behind a
+single implicating clue.
+Who could have made off with
+the box?
+!******************************!
+[id_5.txt]
+While riding on the Molentary
+Express, Babette's little boy,
+Tom, manages to disappear.
+If the shoe he left behind is any
+indication, Tom must be a very
+young child. Where could a child
+that small have wandered off to
+on his own?
+!******************************!
+[id_6.txt]
+Katia is the only daughter of
+Dropstone's most influential man,
+Mr Anderson, and has boarded
+the Molentary Express. Several
+villagers came to see her off, yet
+she travels alone. Where is Katia
+headed, and why is she making the
+journey there by herself?
+!******************************!
+[id_7.txt]
+Minutes after Professor Layton,
+Luke and Flora's arrival in
+Folsense, the run-down train
+station transforms into a
+gleaming, ornately decorated
+building right before their eyes.
+What caused the sudden change to
+the station's appearance?
+!******************************!
+[id_8.txt]
+Beluga seems to be working Sammy
+like a dog, sending him all over
+town in a frantic search for some
+unknown item. It's unclear why
+Beluga would set up a secret
+train line connected to Folsense,
+but it's clear this item is very
+important to him. What could it be?
+!******************************!
+[id_9.txt]
+Rumours have surfaced regarding
+a vampire said to live in the castle
+at the edge of town. Terrified by
+such talk, not a soul in Folsense
+dares to go near the castle.
+Could a vampire actually be living
+up in Herzen Castle?
+!******************************!
+[it_1.txt]
+The Elysian Box
+!******************************!
+[it_10.txt]
+The Goat Emblem
+!******************************!
+[it_2.txt]
+A Ticket with No Destination
+!******************************!
+[it_3.txt]
+The Torn Photograph
+!******************************!
+[it_4.txt]
+The Box's Whereabouts
+!******************************!
+[it_5.txt]
+Tom's Disappearance
+!******************************!
+[it_6.txt]
+Katia
+!******************************!
+[it_7.txt]
+The Dilapidated Station
+!******************************!
+[it_8.txt]
+Beluga's Search
+!******************************!
+[it_9.txt]
+The Vampire in the Castle
+!******************************!
+[cam_0.txt]
+squarish part
+!******************************!
+[cam_1.txt]
+glass part
+!******************************!
+[cam_2.txt]
+button part
+!******************************!
+[cam_3.txt]
+round part
+!******************************!
+[cam_4.txt]
+two-sided part
+!******************************!
+[cam_5.txt]
+screw part
+!******************************!
+[cam_6.txt]
+battery
+!******************************!
+[cam_7.txt]
+spring
+!******************************!
+[cam_8.txt]
+tiny part
+!******************************!
+[cam_9.txt]
+cog-filled part
+!******************************!
+[ham_0.txt]
+apple
+!******************************!
+[ham_1.txt]
+block
+!******************************!
+[ham_2.txt]
+pet house
+!******************************!
+[ham_3.txt]
+tree stump
+!******************************!
+[ham_4.txt]
+flower
+!******************************!
+[ham_5.txt]
+light bulb
+!******************************!
+[ham_6.txt]
+jack-in-a-box
+!******************************!
+[ham_7.txt]
+sand pit
+!******************************!
+[ham_8.txt]
+pool
+!******************************!
+[ham_9.txt]
+trampoline
+!******************************!
+[herb_0.txt]
+Oasis Leaf
+!******************************!
+[herb_1.txt]
+Brisk Berry
+!******************************!
+[herb_2.txt]
+Citronia Seed
+!******************************!
+[herb_3.txt]
+Dream Fluff
+!******************************!
+[herb_4.txt]
+Joy Root Clover
+!******************************!
+[herb_5.txt]
+Tonic Flower
+!******************************!
+[herb_6.txt]
+Peppercherry
+!******************************!
+[herb_7.txt]
+Cinder Horse
+!******************************!
+[item_0.txt]
+Tom's Shoe
+!******************************!
+[item_1.txt]
+Tom's Hat
+!******************************!
+[item_2.txt]
+Tom's 2nd Shoe
+!******************************!
+[item_3.txt]
+The Beef Shank
+!******************************!
+[item_4.txt]
+Layton's Keys
+!******************************!
+[d_1.txt]
+Today I received a letter from
+Dr Andrew Schrader, my long-time
+friend and mentor. According to
+his letter, the good doctor has
+finally succeeded in acquiring the
+Elysian Box, the sinister relic
+known colloquially as "Pandora's
+Box". Something about the way
+the letter was worded gnaws at
+me, however. I've decided to check
+in on him, just to make sure that
+everything is all right.
+!******************************!
+[d_10.txt]
+The main event of the Dropstone
+festival appears to be a livestock
+competition featuring the finest
+cattle from around the village. It
+sounds like it will be quite fun, and
+both Luke and Flora seem very
+keen on attending, so I imagine
+we'll return to the site of the
+event when it gets under way.
+!******************************!
+[d_11.txt]
+I learned something interesting
+from Dorothea, a maid working
+for Mr Anderson, a man who
+seems to be an extremely
+prominent figure in Dropstone.
+It seems that Mr Anderson's
+daughter is planning to take a
+trip by herself, unbeknownst
+to her father. All the servants in
+Mr Anderson's employ appear to
+be supporting his daughter in her
+plan, but why all the secrecy?
+!******************************!
+[d_12.txt]
+I finally spoke to Mr Anderson
+at the site of the livestock
+competition. It seems his mother-
+in-law had searched for the
+Elysian Box before her passing,
+though Mr Anderson doesn't know
+why she was so intent on finding
+the box. It's clear to me now that
+the Elysian Box and Dropstone are
+inextricably linked to each other,
+though I don't yet fully understand
+why.
+!******************************!
+[d_13.txt]
+Thanks to Luke, the livestock
+competition concluded as planned.
+On a separate note, the most
+recent rumours I've heard in
+Dropstone concern a mysterious
+phantom town only accessible by
+the Molentary Express. Once we're
+back on the train, I'd like to give
+the interior another thorough
+examination to see if there might
+not be some kernel of truth within
+these rumours.
+!******************************!
+[d_14.txt]
+Back at the station, I noticed a
+large group of people bidding
+farewell to a young woman
+boarding our train all by herself.
+I'm sure she was none other than
+Mr Anderson's daughter, Katia.
+Though she was travelling alone,
+she didn't seem apprehensive at
+all. No, she seemed quite focused.
+I do wonder, though... Why has she
+set out on her own and where is
+she headed?
+!******************************!
+[d_15.txt]
+While in the deluxe carriage of the
+Molentary Express, Luke, Flora
+and I were suddenly hit with an
+overpowering urge to sleep. Luke
+says he dreamed of one of the
+train's carriages being swapped.
+Was the clamour I heard while
+asleep the sound of those
+carriages changing places?
+!******************************!
+[d_16.txt]
+Shortly after waking from my
+sudden slumber, the conductor
+announced that our next stop
+was a town known as Folsense.
+I find this odd, as I was sure our
+next destination was the town of
+Luxenbelle. It appears that the
+carriage in which we fell asleep
+really did change tracks and was
+the only one from our original
+train to reach this new
+destination.
+!******************************!
+[d_17.txt]
+Upon exiting the train in Folsense,
+Flora began to complain of feeling
+unwell. I imagine the cause of her
+discomfort is simply fatigue,
+caused by too much travel. While
+I'm anxious to start an inspection
+of our surroundings, Flora's
+comfort must come first. There
+must be a hotel around here where
+she can rest.
+!******************************!
+[d_18.txt]
+After locating and checking into
+a hotel, Flora decided to stay
+behind to recuperate while Luke
+and I began an investigation in
+town. Our first mission is to
+locate any and all places that
+appear to have a connection with
+the Elysian Box.
+!******************************!
+[d_19.txt]
+Beluga and Sam, the train's
+conductor, are here in
+Folsense as well. From what I can
+tell, this isn't their first time
+here. It's clear they're both
+turning the town upside down in
+search of something, but as to
+what that something might be, I'm
+still without a clue.
+!******************************!
+[d_2.txt]
+With no other leads at our
+disposal, Luke and I have decided
+to use the ticket we found at the
+doctor's flat to board the
+Molentary Express. I suspect the
+doctor rode this luxurious train
+at some point, but as to where it
+took him, I can't say.
+!******************************!
+[d_20.txt]
+While walking about town, Luke
+and I came across a diary-like
+book. The book is fitted with a
+number of locks that prevent
+me from reading the majority of
+its contents. The cover is adorned
+with a sinister-looking goat, which
+has piqued my interest. I wonder
+what, if any, significance it might
+have.
+!******************************!
+[d_21.txt]
+It seems that everyone has found
+their way to Folsense. I just ran
+into the inspector and Constable
+Barton. The inspector explained
+that they are in town collecting
+information on the Elysian Box. If
+I could just get him to cooperate
+with me, we could learn a great
+deal about this place in very little
+time, but he seems determined to
+work this case on his own.
+!******************************!
+[d_22.txt]
+Through talking to a local
+shopkeeper, we've learned of an
+institution known as the Herzen
+Museum. I believe that we might
+find some information pertaining
+to the Elysian Box there, and I
+am planning to visit it next.
+!******************************!
+[d_23.txt]
+Unfortunately the gate to the
+Herzen Museum is locked, and for
+the moment we have no way of
+entering the place. I haven't any
+way of ascertaining when the gate
+will be opened, and so have decided
+to delay visiting the museum.
+For the time being, I'd like to
+focus my efforts on gathering
+information from the people of
+Folsense. 
+!******************************!
+[d_24.txt]
+I met a most unusual gentleman
+named Geoff, who keeps himself
+holed up in a tower. He believes
+a vampire lives in the castle at
+the edge of town and that he
+must keep watch of the area to
+keep the vampire from attacking
+the townsfolk. Geoff has even
+adorned the tower with
+knick-knacks that he claims keep
+the vampire at bay. I wonder if
+there's any truth in his story.
+!******************************!
+[d_25.txt]
+I just saw a number of photos
+in the town photo shop that are
+purported to be quite old. Yet,
+each image appeared to be in
+perfect condition and free of the
+degradation that most photos
+suffer over time. It's as if the
+photo was taken only a week
+before. Perhaps the shop's
+proprietor has a special method
+for preserving his photos.
+!******************************!
+[d_26.txt]
+My conversations with the people
+of Folsense have proved mostly
+useless in providing any leads.
+"Pandora's Box" seems to ring a
+bell with some of them, but they
+are very vague on the details.
+As I feared, the only way to move
+this investigation forwards is to
+find a way into the Herzen Museum.
+!******************************!
+[d_27.txt]
+Luke and I returned to the museum
+to find the gate unlocked. Inside,
+we found Mr Beluga and Sam in
+the middle of a rather heated
+discussion. I imagine they were
+the ones who opened the gate.
+It seems that Mr Beluga is also
+searching for this box, and
+judging from his rather
+impassioned speech, it would seem
+that it's of great importance to
+him.
+!******************************!
+[d_28.txt]
+I noticed a large symbol resembling
+the head of a goat carved into the
+floor of the museum courtyard.
+It's the same symbol that adorns
+that strange diary we picked up,
+but I feel like I've seen it
+somewhere else as well. I now
+have several questions I need to
+ask the inspector. I suppose it's
+back to the hotel for us.
+!******************************!
+[d_29.txt]
+How disappointing. I wanted to
+take another look at that torn-up
+photograph the inspector took
+from the doctor's flat, but
+it seems the fellow lost most of it.
+The only way I'll ever get a look at
+the thing is to retrace the 
+inspector's path around town and
+gather up the pieces. Bother!
+!******************************!
+[d_3.txt]
+As I suspected, the dining car of
+the Molentary Express is quite
+popular with the passengers, and
+though we've waited patiently to
+be seated, I get the feeling we
+won't be eating any time soon.
+The waiter recommended waiting
+for the lunchtime rush to pass on
+the observation deck located in
+the last carriage. I'm inclined to
+take his advice.
+!******************************!
+[d_30.txt]
+Inspector Chelmey believes he
+dropped the remains of the photo
+around the north-east area of
+town. I was hoping we'd be able to
+retrieve the photo scraps without
+incident, but a large and rather
+ill-tempered dog is barring the
+only path to that part of town.
+According to Luke, the dog wants
+something to eat, so we'll have to
+visit the town grocer and find
+something for the grumpy fellow.
+!******************************!
+[d_31.txt]
+To guard against the vampire
+supposedly threatening the town,
+the local grocer has draped his
+shop in an alarming amount
+of garlic. The smell in the shop is
+the olfactory equivalent of being
+slapped in the face. Whether or
+not the garlic actually does keep
+the vampire at bay is debatable.
+However, it certainly seems to be
+working on customers. 
+!******************************!
+[d_32.txt]
+The grocer was kind enough to
+part with a large leftover shank
+and I believe it should suit our
+purpose nicely. Now it's back to
+the north-east part of town.
+Hopefully, our little offering will
+be enough to improve the dog's
+foul mood.
+
+!******************************!
+[d_33.txt]
+While out searching for scraps of
+the photo, Luke and I encountered
+Mr Anderson's daughter, Katia.
+She, too, seems to be searching
+for the box, but was unwilling to
+part with any information on the
+subject. Now, why would a girl like
+her, from a good family and with
+many friends, come out to a place
+like this by herself?
+!******************************!
+[d_34.txt]
+I just learned that the curator
+of the Herzen Museum has been
+out and about, looking for
+something by order of the
+museum's owner. That explains
+why the place has been closed all
+this time.
+
+Interestingly enough, I've heard
+that the museum's owner is none
+other than Mr Beluga. The plot
+thickens...
+!******************************!
+[d_35.txt]
+One fellow in town claims to have
+seen something resembling the last
+of our missing photo scraps at the
+gate at the west edge of town.
+It may be gone already, but before
+checking anywhere else I feel it'd
+be prudent to visit the location
+he mentioned.
+!******************************!
+[d_36.txt]
+Reassembling the pieces of the
+photo revealed an image of the
+Elysian Box. Sitting on its jewel-
+encrusted lid was that familiar
+goat emblem. Shortly after, an
+unfortunate gust blew away a
+piece of the photograph, but now
+that I've confirmed the image, I've
+no further need of the entire
+photo. Now I only need to discover
+the connection between the box
+and this town.
+!******************************!
+[d_37.txt]
+Having finally seen the photograph
+in its entirety, Luke and I were
+just about to return to our 
+investigation when Constable
+Barton found us. Apparently, the
+person behind Dr Schrader's
+death has been found and our
+presence is required at the hotel.
+I'm anxious to return to my
+investigation, but I suppose it's
+not wise to defy the authorities
+in a situation like this.
+!******************************!
+[d_38.txt]
+It came as a great shock to me
+that Don Paolo had been posing
+as Flora for some time. Not being
+able to sniff out an impostor
+among those close to me is quite
+an embarrassment. It seems that
+poor Flora - the real Flora, that
+is - has been left in a barn
+somewhere in Dropstone. I must
+solve this case quickly and return
+to Dropstone to pick her up.
+!******************************!
+[d_39.txt]
+In his panic to escape Inspector
+Chelmey, Don Paolo left the
+Elysian Box behind. I must confess
+I never imagined that I'd come
+across the box in this way, but
+one must never look a gift horse in
+the mouth. Now all I need to do is
+solve the box's mystery.
+!******************************!
+[d_4.txt]
+The view from the observation
+deck of the Molentary Express is
+simply breathtaking. The natural
+beauty that can be seen here is
+something one rarely encounters
+living in the heart of London. When
+I'm gazing out over the land, time
+simply seems to slow to a halt.
+Still, I mustn't allow myself to sit
+idly much longer. It's time to
+return to our investigation of the
+Elysian Box. 
+!******************************!
+[d_40.txt]
+From what I understand, Mr Beluga
+came to town in search of the
+Elysian Box, believing it would lead
+him to the vast Herzen fortune.
+Katia seems to have come to town
+in search of the box as well. I'm
+still baffled as to why so many
+people are after this box. I fear
+that in order to answer this
+question, I will simply have to
+open the box and see for myself.
+!******************************!
+[d_41.txt]
+After working up the courage,
+Luke and I opened the box, but
+nothing happened. This confirms
+a suspicion I've had for some time
+now. I feel this little test has
+brought me one step closer to
+understanding everything.
+However, in order to comprehend
+the entire matter, I'll need to
+gather a bit more information.
+!******************************!
+[d_42.txt]
+Thanks to a little help from
+Sammy, we are finally able to
+enter the Herzen Museum. I'm
+almost certain that the Elysian
+Box is connected to the Herzen
+family, but in order to solidify my
+theory I'll need to see what else
+I can find out from viewing the
+Herzen Museum's collection.
+!******************************!
+[d_43.txt]
+Apparently, some miners in the
+town gold mine used to keep
+diaries. If I can find a first-hand
+account of the town's past, I may
+be able to understand the Elysian
+Box more fully. But how can I find
+such a diary? I suppose Luke and I
+will have to visit the mine
+for ourselves.
+!******************************!
+[d_44.txt]
+Having finally stumbled upon a
+miner's diary, I learned that
+shortly after a strange ore was
+found in Folsense, about 50
+years ago, a mysterious illness
+began to spread through town.
+I believe  it was this illness that
+first gave birth to rumours of a
+curse. Sadly, the diary had little
+else to offer in the way of
+information. Just what happened
+here in the last 50 years?
+!******************************!
+[d_45.txt]
+The time I've spent in town
+investigating Folsense's
+history has given me most of the
+pieces to the puzzle, but some
+facts still elude me. To answer
+those remaining questions, Luke
+and I have but one option
+remaining to us: we must head
+out for Herzen Castle.
+!******************************!
+[d_46.txt]
+Luke claims to have seen a
+ghost lurking in the forest.
+Personally, I believe his sighting
+to be nothing more than a trick
+of the light, but I can't blame
+him for being jumpy. After all,
+this town has been full of
+inexplicable happenings. But the
+question now is how these
+happenings connect with the
+rumour that the town is cursed.
+!******************************!
+[d_47.txt]
+Anton, the current duke of Herzen
+Castle, welcomed us to his home
+with food and drink. I asked him
+about the Elysian Box, but the
+questioning proved futile as he
+claimed not to know much about
+the relic. I don't think pressing him
+further will yield any more
+information. Anton has offered to
+let us stay the night, and I believe
+we'll take him up on the offer.
+!******************************!
+[d_48.txt]
+I awoke from a nightmare to find
+myself and Luke tied up in the
+corner of a strange, musty room.
+Before I could make sense of our
+situation, in walked Anton.
+Hovering over us like a spider with
+its next meal ensnared in its web,
+Anton spoke of the preparations
+he had to make in order to have
+us for dinner! Luke and I must find
+a way out of these ropes before
+he returns, or else...
+!******************************!
+[d_49.txt]
+The ropes that bound us were
+easier to undo than I expected.
+Considering Anton slipped these
+ropes around us while we were in
+the middle of that strange
+nightmare, one would think that he
+would have had the time to tie a
+proper knot... But enough on that
+subject, as Luke and I must now
+focus on escaping this place.
+
+!******************************!
+[d_5.txt]
+While walking through the train,
+Luke and I encountered a lady by
+the name of Babette. This woman,
+large in both stature and
+character, was in a dreadful panic
+over her lost boy, Tom. It seems
+the child got away from her while
+she was distracted, leaving only
+a single tiny shoe behind. Where
+could a child that small have
+wandered off to?
+!******************************!
+[d_50.txt]
+In passing through the space
+under the castle, Luke and I
+stumbled upon a number of
+machines identical to those we saw
+down in the mine. I believe the
+castle and mine are actually
+connected through this
+underground area. I haven't the
+time to explore it further at
+present, but we may have just
+wandered into the heart of this
+town's great secret...
+!******************************!
+[d_51.txt]
+By some stroke of luck we
+managed to make it as far as the
+castle's main doors, but I realised
+that leaving now means leaving
+behind what may be my only
+chance to solve the mystery of
+Andrew's untimely death and the
+Elysian Box. Until I completely
+understand the phenomena at
+work here, I must stay and
+investigate the castle.
+!******************************!
+[d_52.txt]
+Imagine my surprise to find Katia
+here in Herzen Castle! I don't know
+why she's here, but I'm beginning
+to sense a link between the
+Herzens and this young woman.
+Then there's the matter of the
+portrait I saw in our guest room
+here. It was of a young woman
+who was the spitting image of
+Katia. But how can that be?
+!******************************!
+[d_53.txt]
+Anton spotted us in the castle's
+great hall and, upon seeing Katia,
+seemed to lose all reason. For a
+reason I don't understand, he
+lunged at me with his sword.
+Luckily, I was able to fend him off
+with a nearby saber. Despite being
+the very image of health, Anton
+began to lose his breath, almost
+hyperventilating, within seconds
+of our duel's start. It's just as I
+suspected...
+!******************************!
+[d_54.txt]
+Katia has finally explained her
+involvement in this whole affair.
+She is Anton's granddaughter.
+Sadly, Anton responded rather
+poorly to this revelation, and in a
+fit of madness, began destroying
+the castle. The place now seems on
+the verge of crumbling, and while
+there's much left to discuss, our
+first priority is to escape with
+everyone before the
+whole place comes down.
+!******************************!
+[d_55.txt]
+A hallucinogenic gas released from
+the mine has been playing tricks on
+us the whole time, making the ruins
+of Folsense appear alive and
+vibrant. It seems that traces of
+this same gas are emitted by the
+Elysian Box, causing terrifying
+visions for those who open it and
+leading to comparisons with the
+mythical Pandora's Box. It is this
+gas that started the legends
+surrounding the box and the town.
+!******************************!
+[d_56.txt]
+With the castle wreckage now
+blocking the source of the gas,
+the Anton we'd been hallucinating
+faded, and the real Anton was
+revealed to be an aging man
+in his twilight years. Upon
+returning the box to him, he spoke
+to us of a second way to open the
+Elysian Box, and after giving Luke
+a rather cryptic hint, asked him to
+open it. It seems we're about to
+discover what's hidden in the box.
+!******************************!
+[d_57.txt]
+A single letter in delicate script
+sat within the hidden chamber of
+the box. It was a reply to the
+message Anton had sent out to
+Sophia years ago.
+Sophia's message asked Anton to
+spend what time he had left alive
+with his granddaughter, Katia.
+After so many years of living in
+sorrow, it seems Anton has a
+reason to delight in life again.
+!******************************!
+[d_58.txt]
+<94><A0><82>É<82>Í<88>ê<92>Ê<82><CC><8E>è<8E><86><82><AA><93>ü<82>Á<82>Ä<82><A2><82><BD><81>B<0D>
+<82><BB><82>ê<82>Í<82>©<82>Â<82>Ä<82><CC><83>A<83><93><83><5C><83>j<81><5B><82><B3><82>ñ<82>Õ<82><CC><81>A<0D>
+<83><5C><83>t<83>B<83>A<82><B3><82>ñ<82>©<82>ç<82><CC><95><D4><8E><96><82><BE><82>Á<82><BD><81>B<0D>
+<94><DE><82>Í<83><5C><83>t<83>B<83>A<82><B3><82>ñ<82><CC><96><7B><93><96><82><CC><0D>
+<8B>C<8E><9D><82>¿<82><F0><92>m<82>è<81>A<97><5D><90><B6><82><F0><83>J<83>e<83>B<83>A<82><B3><82>ñ<82><C6><0D>
+<82>ã<82>Á<82><AD><82>è<89>ß<82><B5><82><BD><82><A2><82><C6><82><A2><82><A4><81>B<0D>
+<94><DE><82>Í<81>A<82><E6><82><A4><82>â<82><AD><8E><B8><82>Á<82><BD><82>à<82><CC><82><F0><0D>
+<8E><E6><82>è<96>ß<82><B7><8E><96><82><AA><82><C5><82><AB><82><BD><82><E6><82><A4><82><BE><81>B
+!******************************!
+[d_6.txt]
+The clues we've uncovered during
+our search have led me to believe
+there's a strong possibility that
+Tom is actually a dog, not a small
+child as we had originally thought.
+Come to think of it, I seem to
+recall a young girl walking about
+the train with a dog in her arms.
+I intend to find her and confirm my
+suspicions.
+!******************************!
+[d_7.txt]
+We discovered that the young girl
+carrying little Tom around was
+none other than Flora!
+Though I've consented to Flora
+accompanying Luke and myself
+on our investigation, I still worry
+that this may expose her to some
+unknown danger.
+
+But there's no time to dwell on
+that. Babette needs to know
+that her "boy" is alive and well. 
+!******************************!
+[d_8.txt]
+A short while ago, the train came
+to a sudden and rather alarming
+stop to avoid crashing into
+another train lying abandoned on
+the tracks.
+!******************************!
+[d_9.txt]
+Our train is currently stopped in
+a quaint country village named
+Dropstone. The village is currently
+celebrating the 50th anniversary
+of its founding, and the whole
+place is bustling with activity.
+With a while to go before our
+departure, I've decided to use our
+free time to search the village for
+any leads on the Elysian Box.
+!******************************!
+[t_1.txt]
+Visiting Dr Schrader
+!******************************!
+[t_10.txt]
+The Livestock Competition
+!******************************!
+[t_11.txt]
+Plans to Leave Home
+!******************************!
+[t_12.txt]
+Mr Anderson's Memories
+!******************************!
+[t_13.txt]
+Rumours of a Phantom Town
+!******************************!
+[t_14.txt]
+Mr Anderson's Daughter
+!******************************!
+[t_15.txt]
+The Sound of Midnight
+!******************************!
+[t_16.txt]
+An Unknown Destination
+!******************************!
+[t_17.txt]
+Finding Lodgings
+!******************************!
+[t_18.txt]
+Exploring Folsense
+!******************************!
+[t_19.txt]
+What a Millionaire Seeks
+!******************************!
+[t_2.txt]
+A Cruise Ship on Rails
+!******************************!
+[t_20.txt]
+The Locked Book
+!******************************!
+[t_21.txt]
+The Inspector Resurfaces
+!******************************!
+[t_22.txt]
+Visiting the Herzen Museum
+!******************************!
+[t_23.txt]
+The Museum Gate
+!******************************!
+[t_24.txt]
+The Old Man in the Tower
+!******************************!
+[t_25.txt]
+Pristine Photographs
+!******************************!
+[t_26.txt]
+Returning to the Museum
+!******************************!
+[t_27.txt]
+A Flare-up by the Fountain
+!******************************!
+[t_28.txt]
+The Goat-shaped Symbol
+!******************************!
+[t_29.txt]
+The Lost Photograph
+!******************************!
+[t_3.txt]
+Dining Car Commotion
+!******************************!
+[t_30.txt]
+The Ill-tempered Guard
+!******************************!
+[t_31.txt]
+The Pungent Grocer
+!******************************!
+[t_32.txt]
+A Gift for the Guard
+!******************************!
+[t_33.txt]
+An Encounter with Katia
+!******************************!
+[t_34.txt]
+The Ever-absent Curator
+!******************************!
+[t_35.txt]
+A Chance Sighting
+!******************************!
+[t_36.txt]
+The Contents of the Photo
+!******************************!
+[t_37.txt]
+A Gathering at the Hotel
+!******************************!
+[t_38.txt]
+An Improbable Revelation
+!******************************!
+[t_39.txt]
+Recovering the Elysian Box
+!******************************!
+[t_4.txt]
+The View from the Deck
+!******************************!
+[t_40.txt]
+Rumours of a Great Fortune
+!******************************!
+[t_41.txt]
+Opening the Elysian Box
+!******************************!
+[t_42.txt]
+Finally, the Herzen Museum
+!******************************!
+[t_43.txt]
+Into the Mine
+!******************************!
+[t_44.txt]
+The Miner's Diary
+!******************************!
+[t_45.txt]
+Heading for Herzen Castle
+!******************************!
+[t_46.txt]
+Ghosts of the Forest
+!******************************!
+[t_47.txt]
+A Night at Herzen Castle
+!******************************!
+[t_48.txt]
+A Dire Situation
+!******************************!
+[t_49.txt]
+Out of the Ropes
+!******************************!
+[t_5.txt]
+Searching for Tom
+!******************************!
+[t_50.txt]
+In the Bowels of the Castle
+!******************************!
+[t_51.txt]
+Fleeing Herzen Castle
+!******************************!
+[t_52.txt]
+Reunited with Katia
+!******************************!
+[t_53.txt]
+Anton's Madness
+!******************************!
+[t_54.txt]
+Katia Reveals the Truth
+!******************************!
+[t_55.txt]
+The Truth of the Curse
+!******************************!
+[t_56.txt]
+Anton as He Truly Is
+!******************************!
+[t_57.txt]
+Sophia's Last Message
+!******************************!
+[t_58.txt]
+<8D><C5><8C>ã<82><CC><8E>è<8E><86>
+!******************************!
+[t_6.txt]
+Chasing After the Girl
+!******************************!
+[t_7.txt]
+To Babette's Quarters
+!******************************!
+[t_8.txt]
+The Broken-down Train
+!******************************!
+[t_9.txt]
+A Celebration in Dropstone
+!******************************!
+[m10_0.txt]
+Everybody get ready to rock.
+The next stop is...
+!******************************!
+[m10_1.txt]
+FOOOOLSENSE!
+!******************************!
+[m10_2.txt]
+C'mon, passengers, let me hear
+you scream!
+!******************************!
+[m10_3.txt]
+Folsense, eh?
+!******************************!
+[m10_4.txt]
+Of course! How could I have
+missed this?
+!******************************!
+[m10_5.txt]
+Do you recall how this ticket was
+missing a destination?
+!******************************!
+[m10_6.txt]
+Well, it seems that the destination
+was staring us in the face all along.
+!******************************!
+[m10_8.txt]
+Really?
+!******************************!
+[m10_9.txt]
+But where, Professor?
+!******************************!
+[m11_0.txt]
+I get it!
+!******************************!
+[m11_1.txt]
+I suppose that means we've almost
+reached our destination.
+!******************************!
+[m11_2.txt]
+Yes.
+!******************************!
+[m11_3.txt]
+Whoa! This is strange. 
+!******************************!
+[m11_4.txt]
+When did it get so dark?
+!******************************!
+[m11_5.txt]
+What do you mean?
+!******************************!
+[m12_0.txt]
+Hm?
+!******************************!
+[m12_1.txt]
+
+!******************************!
+[m12_10.txt]
+I don't know, but it's strange!
+!******************************!
+[m12_11.txt]
+
+!******************************!
+[m12_2.txt]
+What on earth?
+!******************************!
+[m12_3.txt]
+Professor, what was that?
+!******************************!
+[m12_4.txt]
+Let's go!
+!******************************!
+[m12_5.txt]
+Oh, my...
+!******************************!
+[m12_6.txt]
+What was that?
+!******************************!
+[m12_7.txt]
+
+!******************************!
+[m12_8.txt]
+
+!******************************!
+[m12_9.txt]
+Just what is going on here?
+!******************************!
+[m13_0.txt]
+Sorry to disappoint, but he's not
+the culprit.
+!******************************!
+[m13_1.txt]
+Score...
+!******************************!
+[m13_10.txt]
+must be YOU there!
+!******************************!
+[m13_11.txt]
+
+!******************************!
+[m13_12.txt]
+What?! Flora!
+!******************************!
+[m13_13.txt]
+
+!******************************!
+[m13_14.txt]
+
+!******************************!
+[m13_2.txt]
+
+!******************************!
+[m13_3.txt]
+What?!
+!******************************!
+[m13_4.txt]
+Stop talking in circles and get
+to the point, Layton!
+!******************************!
+[m13_5.txt]
+Who should be wearing the
+handcuffs?
+!******************************!
+[m13_6.txt]
+Isn't it obvious?
+!******************************!
+[m13_7.txt]
+If the criminal does indeed reside
+in our midst...
+!******************************!
+[m13_8.txt]
+He or she would be the only one of us
+to see the Elysian Box in person.
+!******************************!
+[m13_9.txt]
+Which means the culprit...
+!******************************!
+[m14_0.txt]
+Finally, the Elysian Box.
+!******************************!
+[m14_1.txt]
+Indeed, Luke.
+!******************************!
+[m14_2.txt]
+I can't look!
+!******************************!
+[m14_3.txt]
+Huh?
+!******************************!
+[m15_0.txt]
+Wow, this place is really
+something else!
+!******************************!
+[m15_1.txt]
+Indeed, Luke. This castle is
+extremely impressive.
+!******************************!
+[m15_10.txt]
+It seems that the design on this box
+!******************************!
+[m15_11.txt]
+is connected to your family in
+some way.
+!******************************!
+[m15_12.txt]
+Can you...tell me anything
+about this?
+!******************************!
+[m15_13.txt]
+It's true that it was a Herzen
+family heirloom,
+!******************************!
+[m15_15.txt]
+although I parted with it a number
+of years ago.
+!******************************!
+[m15_16.txt]
+The garish emblem you mentioned
+wasn't exactly suited to my taste.
+!******************************!
+[m15_17.txt]
+The garish emblem you mentioned
+wasn't exactly suited to my taste.
+!******************************!
+[m15_18.txt]
+Personally, I think it's quite
+spectacular.
+!******************************!
+[m15_19.txt]
+Oh, is that so?
+!******************************!
+[m15_2.txt]
+Right this way, please. 
+!******************************!
+[m15_20.txt]
+Well, chalk it up to my bad
+taste then.
+!******************************!
+[m15_21.txt]
+You know,
+!******************************!
+[m15_22.txt]
+I don't think he's telling us the
+whole story. 
+!******************************!
+[m15_23.txt]
+Perhaps not. It's hard to say
+just yet.
+!******************************!
+[m15_24.txt]
+I'm sorry I'm not much help, though
+I confess
+!******************************!
+[m15_25.txt]
+visitors are always delightful.
+!******************************!
+[m15_26.txt]
+I'm sure you've had a long journey.
+
+!******************************!
+[m15_27.txt]
+So please, do stay the night.
+!******************************!
+[m15_28.txt]
+Prepare the quarters for our
+guests, Nigel.
+!******************************!
+[m15_3.txt]
+Good evening.
+!******************************!
+[m15_30.txt]
+Yes. Right away, Master.
+!******************************!
+[m15_4.txt]
+Welcome to my house.
+!******************************!
+[m15_5.txt]
+So, if I understand correctly,
+!******************************!
+[m15_6.txt]
+you're saying people fear the box
+!******************************!
+[m15_7.txt]
+because they believe it kills
+anyone who opens it? 
+!******************************!
+[m15_8.txt]
+<HOLD>
+!******************************!
+[m15_9.txt]
+That's quite a story, isn't it?
+!******************************!
+[m16_0.txt]
+What?
+!******************************!
+[m16_1.txt]
+Professor...
+!******************************!
+[m16_10.txt]
+Wha-?
+!******************************!
+[m16_11.txt]
+Hmm...
+!******************************!
+[m16_2.txt]
+Is that Katia?
+!******************************!
+[m16_3.txt]
+The resemblance is striking.
+!******************************!
+[m16_4.txt]
+What are they doing together?
+!******************************!
+[m16_5.txt]
+Oh!
+!******************************!
+[m16_6.txt]
+Fear not, my dear.
+!******************************!
+[m16_7.txt]
+They're just the main course for
+this evening.
+!******************************!
+[m16_8.txt]
+And my, don't they look fresh.
+!******************************!
+[m16_9.txt]
+
+!******************************!
+[m17_0.txt]
+This won't do.
+!******************************!
+[m17_1.txt]
+People are trying to sleep, you know.
+!******************************!
+[m17_10.txt]
+Come closer. My dear, sweet Sophia!
+!******************************!
+[m17_11.txt]
+I've missed you so!
+!******************************!
+[m17_12.txt]
+
+!******************************!
+[m17_13.txt]
+What's this?
+!******************************!
+[m17_14.txt]
+Very well then.
+!******************************!
+[m17_15.txt]
+Is this how it is?
+!******************************!
+[m17_16.txt]
+I didn't see this coming, Layton.
+!******************************!
+[m17_17.txt]
+Not at all.
+!******************************!
+[m17_18.txt]
+<HOLD>
+!******************************!
+[m17_19.txt]
+I'm not sure I understand.
+!******************************!
+[m17_2.txt]
+
+!******************************!
+[m17_20.txt]
+This is your fault!
+!******************************!
+[m17_21.txt]
+But you can't have my Sophia!
+!******************************!
+[m17_22.txt]
+You're going to be very sorry you
+crossed me.
+!******************************!
+[m17_23.txt]
+There's no lack of swords here.
+!******************************!
+[m17_24.txt]
+Take whichever one you like.
+!******************************!
+[m17_25.txt]
+Know this though.
+!******************************!
+[m17_26.txt]
+Only one of them
+!******************************!
+[m17_27.txt]
+is real.
+!******************************!
+[m17_28.txt]
+A true warrior always keeps his
+blade in hand.
+!******************************!
+[m17_29.txt]
+
+!******************************!
+[m17_3.txt]
+Is it you?
+!******************************!
+[m17_4.txt]
+It can't be!
+!******************************!
+[m17_5.txt]
+Oh, how I've waited!
+!******************************!
+[m17_6.txt]
+It's been so unbearably long...
+!******************************!
+[m17_8.txt]
+Professor, do you know what he's
+talking about?
+!******************************!
+[m17_9.txt]
+Not in the slightest.
+!******************************!
+[m18_0.txt]
+I didn't think you had it in you,
+Mr Layton.
+!******************************!
+[m18_1.txt]
+LAAAAYTON!
+!******************************!
+[m18_10.txt]
+What's happened to me?
+!******************************!
+[m18_11.txt]
+Are you all right?
+!******************************!
+[m18_12.txt]
+Please just stop, Grandfather.
+!******************************!
+[m18_13.txt]
+Your body can't take it.
+!******************************!
+[m18_14.txt]
+What did you say?
+!******************************!
+[m18_15.txt]
+I don't understand.
+!******************************!
+[m18_16.txt]
+Sophia, dear...
+!******************************!
+[m18_17.txt]
+You haven't figured it out, have you?
+!******************************!
+[m18_18.txt]
+You really don't know...
+!******************************!
+[m18_19.txt]
+Then I guess it's up to me to
+tell you the truth.
+!******************************!
+[m18_2.txt]
+Sophia belongs to me!
+!******************************!
+[m18_3.txt]
+You can't have her!
+!******************************!
+[m18_4.txt]
+Look out!
+!******************************!
+[m18_5.txt]
+
+!******************************!
+[m18_6.txt]
+Something strange is happening...
+!******************************!
+[m18_7.txt]
+I just need to catch my breath.
+!******************************!
+[m18_8.txt]
+No more!
+!******************************!
+[m18_9.txt]
+Please, just stop!
+!******************************!
+[m19_0.txt]
+Sophia is dead?
+!******************************!
+[m19_1.txt]
+No, it can't be!
+!******************************!
+[m19_10.txt]
+
+!******************************!
+[m19_11.txt]
+Come on, Grandfather!
+!******************************!
+[m19_12.txt]
+We have to get out of here.
+!******************************!
+[m19_13.txt]
+Be careful!
+!******************************!
+[m19_14.txt]
+
+!******************************!
+[m19_2.txt]
+I'VE HAD ENOUGH OF YOUR LIES!
+!******************************!
+[m19_3.txt]
+Grandfather, no! Please stop!
+!******************************!
+[m19_4.txt]
+Oh!
+!******************************!
+[m19_5.txt]
+We must leave now!
+!******************************!
+[m19_6.txt]
+The whole place is starting
+to crumble!
+!******************************!
+[m19_7.txt]
+Come with me!
+!******************************!
+[m19_8.txt]
+What's this?
+!******************************!
+[m19_9.txt]
+What's happening?
+!******************************!
+[m1_0.txt]
+Ei, olhe, chegamos!
+!******************************!
+[m1_1.txt]
+Isso sim que é luxo!
+!******************************!
+[m1_11.txt]
+Todos que a abrem morrem?
+!******************************!
+[m1_12.txt]
+Isso me parece bizarro demais.
+!******************************!
+[m1_13.txt]
+Talvez seja.
+!******************************!
+[m1_14.txt]
+Mas nós vimos acontecer com nossos
+próprios olhos.
+!******************************!
+[m1_15.txt]
+A resposta está ai fora, Luke.
+!******************************!
+[m1_16.txt]
+Tenho apenas que encontrá-la.
+!******************************!
+[m1_17.txt]
+Nós vamos. Tenho certeza disso.
+!******************************!
+[m1_2.txt]
+Olha só essa cabine!
+!******************************!
+[m1_3.txt]
+Sim, vejo claramente porque alguns
+chamam o Expresso Molentary
+!******************************!
+[m1_4.txt]
+de um cruzeiro sobre trilhos.
+!******************************!
+[m1_5.txt]
+Esse sofá é fantástico!
+!******************************!
+[m1_6.txt]
+Mas nunca se esqueça, Luke.
+!******************************!
+[m1_7.txt]
+Um cavalheiro sempre presta atenção
+aos seus modos.
+!******************************!
+[m1_8.txt]
+Não importa a ocasião.
+!******************************!
+[m1_9.txt]
+Então, qual é a história por trás
+dessa Caixa Elísia?
+!******************************!
+[m21_0.txt]
+Grandfather...
+!******************************!
+[m21_1.txt]
+"Grandfather"? Yes, that's right.
+!******************************!
+[m21_10.txt]
+Instead, my love for Sophia was
+replaced by anger
+!******************************!
+[m21_12.txt]
+and that anger completely blinded me.
+!******************************!
+[m21_13.txt]
+But now I can see the world
+clearly again.
+!******************************!
+[m21_14.txt]
+Thanks to you, my granddaughter.
+!******************************!
+[m21_15.txt]
+
+!******************************!
+[m21_16.txt]
+Are you listening, Sophia?
+!******************************!
+[m21_17.txt]
+I'll have to put off returning to your
+side for a while.
+!******************************!
+[m21_19.txt]
+There's someone I need to get to
+know here first.
+!******************************!
+[m21_2.txt]
+It has a nice ring to it.
+!******************************!
+[m21_21.txt]
+Will you forgive me for making you
+wait just a little longer, my dear?
+!******************************!
+[m21_24.txt]
+Will you forgive me for making you
+wait just a little longer, my dear?
+!******************************!
+[m21_25.txt]
+Wherever she is, I'm sure she's very
+happy for us.
+!******************************!
+[m21_3.txt]
+I'm so happy we met.
+!******************************!
+[m21_4.txt]
+My dear granddaughter.
+!******************************!
+[m21_5.txt]
+You don't know how much this
+means to me.
+!******************************!
+[m21_7.txt]
+It's been so long.
+!******************************!
+[m21_8.txt]
+So very long, in fact, that I had
+forgotten what love even felt like.
+!******************************!
+[m22_0.txt]
+
+!******************************!
+[m22_1.txt]
+Goodbye!
+!******************************!
+[m23_0.txt]
+Come look at this article, you two.
+!******************************!
+[m23_1.txt]
+Huh?
+!******************************!
+[m23_10.txt]
+Huh?
+!******************************!
+[m23_11.txt]
+After all, Luke.
+!******************************!
+[m23_12.txt]
+One must always show gratitude
+to one's teachers.
+!******************************!
+[m23_13.txt]
+That's what a gentleman does.
+!******************************!
+[m23_2.txt]
+"Miracle rescue saves beloved
+academic..."
+!******************************!
+[m23_3.txt]
+So...the doctor's alive after all!
+!******************************!
+[m23_4.txt]
+We'll visit him as soon as we return.
+!******************************!
+[m23_5.txt]
+Oh, but that might conflict
+!******************************!
+[m23_7.txt]
+with the symposium you have
+scheduled in London tomorrow.
+!******************************!
+[m23_8.txt]
+with the symposium you have
+scheduled in London tomorrow.
+!******************************!
+[m23_9.txt]
+Well then, I'll simply have to cancel.
+!******************************!
+[m3_0.txt]
+Professor!
+!******************************!
+[m3_1.txt]
+No, Andrew...
+!******************************!
+[m4_0.txt]
+Excuse me!
+!******************************!
+[m4_1.txt]
+Huh? Hey, it's you!
+!******************************!
+[m4_2.txt]
+Well, Inspector Chelmey's the name.
+!******************************!
+[m4_4.txt]
+You two found the body, did you?
+!******************************!
+[m4_5.txt]
+Wh-what in the blazes?
+!******************************!
+[m4_6.txt]
+No, Luke! Let him go!
+!******************************!
+[m4_7.txt]
+Luke, stop that! That's his face!
+!******************************!
+[m4_8.txt]
+Listen here, Luke!
+!******************************!
+[m5_0.txt]
+Professor Layton and Luke sped
+away from the city,
+!******************************!
+[m5_1.txt]
+<HOLD>
+!******************************!
+[m5_2.txt]
+unaware of the secrets that awaited
+them down those iron tracks.
+!******************************!
+[m5_3.txt]
+unaware of the secrets that awaited
+them down those iron tracks.
+!******************************!
+[m6_0.txt]
+Excuse me.
+!******************************!
+[m6_1.txt]
+Uh...
+!******************************!
+[m6_11.txt]
+Hmm...
+!******************************!
+[m6_12.txt]
+Professor?
+!******************************!
+[m6_13.txt]
+What lies ahead could be dangerous.
+!******************************!
+[m6_14.txt]
+Huh?
+!******************************!
+[m6_15.txt]
+That's why you'll have to be
+extra careful.
+!******************************!
+[m6_16.txt]
+All right?
+!******************************!
+[m6_17.txt]
+Yep!
+!******************************!
+[m6_2.txt]
+Wh-whoa whoa!
+!******************************!
+[m6_3.txt]
+Hey! It's you!
+!******************************!
+[m6_4.txt]
+Yes, I had the sneaking suspicion
+that it was you who was tailing us.
+!******************************!
+[m6_7.txt]
+Flora! What are you doing here?
+!******************************!
+[m6_8.txt]
+I'm sorry. It's just...
+!******************************!
+[m6_9.txt]
+Well, you see, I just didn't want
+to be all alone again!
+!******************************!
+[m8_0.txt]
+Thank you, so much.
+!******************************!
+[art_0.txt]
+Doctor Schrader pens a letter to
+his friend and former pupil,
+Professor Layton.
+
+!******************************!
+[art_1.txt]
+It took Luke only a few moments to
+find the suspect's escape path.
+Judging by his expression, Chelmey
+seems quite impressed as well.
+!******************************!
+[art_2.txt]
+All kinds of delicacies surround
+chef Macaroon's pet hamster.
+It's no wonder he eats so much.
+!******************************!
+[art_3.txt]
+An unknown girl bumps into Luke
+and Layton on the train. They must
+have been distracted, because
+that disguise isn't fooling anyone.
+!******************************!
+[art_4.txt]
+Here's Dropstone's 50th
+Anniversary Festival livestock
+competition-winning cow with
+her proud owner.
+!******************************!
+[art_5.txt]
+Chelmey makes a lot of mistakes,
+but this one takes the biscuit.
+Even Barton can't hide his feelings
+this time.
+!******************************!
+[art_6.txt]
+Luke and Precious take a moment
+to bond. Isn't it amazing how
+he gets on with animals? Woof!
+!******************************!
+[art_7.txt]
+Who can blame Precious for
+gorging himself on such a plump,
+juicy shank?
+Aw, he looks so happy!
+!******************************!
+[art_8.txt]
+A young Katia plays on a sunny day
+in Dropstone. The woman playing
+with her should be familiar to you
+as well.
+!******************************!
+[art_9.txt]
+Sophia and Anton gaze lovingly
+into each other's eyes at a ball
+held in Herzen Castle, back when
+Folsense was full of life and fun.
+!******************************!
+[art_t_0.txt]
+The Good Doctor Schrader
+!******************************!
+[art_t_1.txt]
+Luke's Brilliant Deduction
+!******************************!
+[art_t_2.txt]
+A Hamster in Paradise
+!******************************!
+[art_t_3.txt]
+A Sudden Meeting
+!******************************!
+[art_t_4.txt]
+The Prize-winning Bovine
+!******************************!
+[art_t_5.txt]
+Chelmey's Blunder
+!******************************!
+[art_t_6.txt]
+Luke and Precious
+!******************************!
+[art_t_7.txt]
+One Happy Dog
+!******************************!
+[art_t_8.txt]
+Growing Up in Dropstone
+!******************************!
+[art_t_9.txt]
+A Ball to Remember
+!******************************!
+[chr_0.txt]
+His two passions are
+solving puzzles and
+enjoying a good cup of
+tea. While his job is
+teaching archaeology,
+he is also quite the
+fencer. Many wonder
+what's under the hat,
+but only the professor
+knows the answer
+to that mystery.
+!******************************!
+[chr_1.txt]
+As the self-proclaimed
+apprentice of the
+professor, Luke is
+generally sweet and
+earnest, but, like all
+boys his age, can
+occasionally let slip
+a cheeky comment.
+His unique way with
+animals has come in
+handy more than once.
+!******************************!
+[chr_10.txt]
+Beluga is the demanding
+owner and founder of
+the Molentary Express.
+He chases after the 
+Elysian Box in the hope
+it will lead him to the 
+Herzen family fortune,
+which he believes he
+is entitled to as a son
+of the former duke and
+brother to Anton.
+!******************************!
+[chr_11.txt]
+Beluga's nephew, Sammy,
+has only one thing on
+his mind: pedal-to-the-
+metal rock and roll. By
+day, he's just a normal
+train conductor, but
+once he grips the mike,
+he transforms into his
+wild, rock-star alter
+ego, Sammy Thunder.
+!******************************!
+[chr_12.txt]
+Macaroon is the chef
+on the Molentary
+Express. While quite
+trim in his younger
+days, years of testing
+his own dishes have
+rounded him out. His
+food is so good that
+many people ride the
+Molentary Express just
+to experience his magic.
+!******************************!
+[chr_13.txt]
+Peek into the Molentary
+Express's dining car
+and you're likely to see
+Chester, waiter and
+host extraordinaire.
+His commitment to
+catering to customers'
+needs contributes to
+the Molentary Express's
+lavish reputation.
+!******************************!
+[chr_14.txt]
+Babette is the pompous
+wife of a moneyed man.
+Her aim in life is to make
+everyone around her
+know that she deserves
+special treatment.
+A long-time fan of the
+Molentary Express
+dining car, she can
+often be spotted there
+coddling her dog, Tom.
+!******************************!
+[chr_15.txt]
+This petite canine is the
+beloved pet of Babette.
+Raised in the lap of
+luxury, Tom often gets
+up to mischief, causing
+trouble for those
+around him. Despite
+being the apple of
+Babette's eye, he
+doesn't seem very
+fond of her.
+!******************************!
+[chr_16.txt]
+Vera is the glamorous
+proprietor of the
+Folsense cabaret,
+Beluga's favourite
+haunt. She owns a lot
+of expensive jewellery,
+but most of it
+eventually ends up in
+the local antiques shop.
+!******************************!
+[chr_17.txt]
+High in the watchtower,
+Geoff keeps an eye
+fixed on Herzen Castle
+for any signs of vampire
+activity. Even among
+the eclectic folks living
+in Folsense, Geoff is
+considered eccentric.
+Some say that fighting
+evil is just his way of
+trying to impress Vera.
+!******************************!
+[chr_18.txt]
+This town grocer fears
+vampires so much that
+he's smothered his shop
+in garlic. The reek of
+the place has already
+driven a number of
+patrons elsewhere, yet
+the amount of garlic in
+his store only seems to
+increase day by day.
+!******************************!
+[chr_19.txt]
+Though sinister looking,
+the Herzen family
+butler is actually quite
+kind. With no other
+servants currently
+employed in the castle,
+Nigel is constantly busy.
+In his spare time, he
+unwinds by scrubbing
+the castle's bathtubs.
+!******************************!
+[chr_2.txt]
+The only daughter from
+a wealthy family, Flora
+follows Luke and Layton
+onto the Molentary
+Express. In her free
+time, she likes cooking,
+though most of her
+efforts in the kitchen
+have the unfortunate
+effect of turning
+stomachs.
+!******************************!
+[chr_20.txt]
+Jacques is the patient
+butler to the Anderson
+family, which means he
+knows the family's
+history as well as its
+secrets. One of his main
+tasks is watching after
+young Katia. He rallies
+the servants to give
+her a warm send-off.
+!******************************!
+[chr_21.txt]
+Despite his appearance,
+Inspector Chelmey's
+assistant, Constable
+Barton, is a mere 27
+years old. Though he's
+often hard to read,
+Barton is actually
+extremely adept at
+covering for his
+supervisor's occasional
+oversights.
+!******************************!
+[chr_22.txt]
+Grousley is one of the
+many passengers on the
+Molentary Express.
+While he may not look
+the part, the eccentric
+Grousley is actually
+a very well-to-do artist
+and Beluga's friend.
+He gets inspiration from
+the natural scenery
+he sees on train rides.
+!******************************!
+[chr_23.txt]
+As the mechanic on the
+Molentary Express, it's
+Steve's job to fix
+whatever breaks.
+Besides having a soft
+spot for animals and
+sweets, he's dedicated
+to researching new
+methods for keeping his
+trademark quiff as
+gravity-defying as ever.
+!******************************!
+[chr_24.txt]
+There's something
+childlike and scattered
+about Capone, as
+illustrated by the
+questionable information
+he provides when Tom
+disappears. As
+unbelievable as it
+sounds, Capone is
+actually a CEO of a big
+corporation.
+!******************************!
+[chr_25.txt]
+Mitzi is Capone's chatty
+wife. Though she enjoys
+contradicting Capone,
+the couple are so sweet
+with each other that
+they've been known to
+drive people away with
+their public displays of
+affection.
+!******************************!
+[chr_26.txt]
+This precocious girl is
+travelling by herself to
+visit her grandmother.
+For her age, Lili has a
+very adult way of
+thinking and can seem
+startlingly mature at
+times. Her charm has
+earned her a spot in
+the hearts of many of
+the train's employees.
+!******************************!
+[chr_27.txt]
+Sally has dreams of
+big-city life, but, for
+now, she just pushes
+the snack trolley on the
+Molentary Express,
+offering a bevy of
+appetising treats to
+uninterested train
+patrons. She can often
+be found trading quips
+with her friend, Steve.
+!******************************!
+[chr_28.txt]
+By day, Marjorie works
+as a teacher in
+Dropstone, as you might
+have guessed from her
+good nature and
+sensible shoes.
+At night, Marjorie lets
+loose by writing a
+series of popular
+mystery novels.
+!******************************!
+[chr_29.txt]
+Conrad is a college
+student, originally from
+Dropstone. His role
+model is Marjorie, and
+he emulates her in
+every way possible. He
+claims to enjoy reading
+anything he can get his
+hands on, but this may
+just be something he
+heard Marjorie say.
+!******************************!
+[chr_3.txt]
+The mere mention of
+Inspector Chelmey
+leaves London criminals
+shaking in their boots,
+though his reputation
+may slightly overstate
+his actual skills. After
+wrapping up a case, he
+loves celebrating with
+his beloved wife's
+home-made cakes.
+!******************************!
+[chr_30.txt]
+Karla is a wealthy woman
+with a burning desire to
+see every inch of the
+globe. Unfortunately,
+she's also deathly
+afraid of flying and
+plastic cutlery, which
+is why she only travels
+by luxury train.
+!******************************!
+[chr_31.txt]
+This friendly, big-
+hearted adventurer
+travels the globe in an
+attempt to shed light
+on many of the world's
+unsolved mysteries.
+Romie always travels
+with a huge backpack
+that's said to hold the
+seven tools necessary
+for globe-trotting.
+!******************************!
+[chr_32.txt]
+One of many servants in
+the Anderson house,
+Dorothea's main duties
+involve looking after
+Katia, though the two
+are actually close in
+age. Perhaps it's this
+closeness in age that
+causes Katia to turn to
+Dorothea when she
+wants to talk.
+!******************************!
+[chr_33.txt]
+Clabber is a dairy
+farmer and breeder of
+fine cattle. Considering
+how proud he is of his
+own livestock, he has a
+surprisingly hard time
+telling his cows apart
+from those of other
+farmers.
+!******************************!
+[chr_34.txt]
+Oscar is a dairy farmer
+who raises all his cows
+with affection and
+tenderness, yet for
+some reason many of
+his best cows dislike
+him. Even so, Oscar
+takes such good care
+of them that they all
+have lustrous coats
+worthy of blue ribbons.
+!******************************!
+[chr_35.txt]
+Layton and Luke meet
+Nick at the livestock
+competition, where he
+tells them about an
+influential figure in
+Dropstone. He loves
+chatting with anyone
+he can find, so he often
+plays tour guide to
+unsuspecting visitors.
+!******************************!
+[chr_36.txt]
+Gabe knows his way
+around a kitchen and
+is the best chef in all
+Dropstone. His
+creations are so
+delicious, in fact, that
+people throw parties
+just so he'll cater
+them. He's also a loving
+husband to Balsa.
+!******************************!
+[chr_37.txt]
+You may have met
+Balsa in Dropstone,
+where she was probably
+building something. A
+hardy woman who enjoys
+physical labour, she lets
+her husband, Gabe, do
+most of the cooking. For
+his birthday, she built a
+display case for his
+ramekin collection.
+!******************************!
+[chr_38.txt]
+Wurtzer is a warm
+gentleman whose way
+with words and
+companionable nature
+make him the perfect
+conversation partner.
+When Mr Anderson
+feels down and wants
+to talk to someone, he
+often seeks out
+Wurtzer.
+!******************************!
+[chr_39.txt]
+Lopez is Dropstone's
+resident fashionista,
+and he constantly feels
+the need to analyse the
+fashion choices of
+others. Ironically,
+though, most of what
+he wears is decidedly
+unexciting and average.
+He's most critical of
+people's hat choices.
+!******************************!
+[chr_4.txt]
+A brilliant scientist who
+believes himself to be
+Layton's arch-nemesis,
+Don Paolo disguises
+himself as Flora to gain
+access to information
+and to wreak general
+havoc. Unbeknownst to
+Layton, Don Paolo also
+studied under Dr
+Schrader.
+!******************************!
+[chr_40.txt]
+Laurel is an elderly 
+farmer who tells Luke
+and Layton all about
+brewing tea. She has
+her own herb garden,
+where she grows many
+tea ingredients. She can
+often be found cooing
+over her pet bird, whose
+name, incidentally, is
+Tweets.
+!******************************!
+[chr_41.txt]
+This brave postman
+is based in Dropstone,
+but fearlessly delivers
+letters as far away as
+Folsense. Parcelle is
+known for his positive
+attitude and dedication
+to the job. His motto is
+"Delivering smiles, one
+letter at a time."
+!******************************!
+[chr_42.txt]
+Lulu's carefree nature
+doesn't always sit well
+with everyone. On the
+surface, she seems to
+be the polar opposite of
+her brother, Angus,
+but the two actually
+spend weeks planning
+and building their
+festival booths
+together.
+!******************************!
+[chr_43.txt]
+Albert believes himself
+to be an expert in
+all things Dropstone,
+but isn't up to speed
+with the truth behind
+Dropstone's beginnings.
+Albert dreams of one
+day becoming a teacher.
+Or a professional
+Dropstone trivia nerd.
+!******************************!
+[chr_44.txt]
+Madeline can be hard
+to read. One minute
+she's warm and friendly;
+the next minute she's
+irritated and ranting.
+It is this unpredictable
+nature that makes her
+so alluring to more than
+a few men in the village.
+!******************************!
+[chr_45.txt]
+Remy works as a guard
+at Mr Anderson's
+mansion, though few
+people ever come by.
+Therefore, Remy usually
+spends his days asleep
+on his feet at his post.
+Few people are as good
+as Remy at multitasking
+while asleep.
+!******************************!
+[chr_46.txt]
+Angus manages several
+of the carnival booths
+in Dropstone. He loves
+seeing his customers
+smile, but because his
+focus is always on the
+customer, he rarely
+turns a profit. At least
+he'll always have the
+adoration of the village
+children.
+!******************************!
+[chr_47.txt]
+Kostya is an elderly man
+who was around at the
+founding of Dropstone
+and has lived there ever
+since. Before that, he
+lived in Folsense and,
+as such, talk of curses
+and monsters tends to
+make him a little jumpy.
+!******************************!
+[chr_48.txt]
+Until it closed, Dylan
+worked in the Folsense
+mine, where he spent
+long hours excavating
+precious metals. The
+rumour in Folsense is
+that Joanie has Dylan
+wrapped 'round her
+little finger, and that
+he'd do anything for her.
+!******************************!
+[chr_49.txt]
+Joseph runs the photo
+studio in Folsense and
+loves to play pranks on
+his customers. Because
+of his penchant for
+mischief, some of the
+locals consider him
+to be a bit of a fibber.
+But he has no interest
+in lying to anyone. He
+just likes a good prank.
+!******************************!
+[chr_5.txt]
+After opening the box,
+the doctor falls into a
+coma so deep even the
+inspector believes him
+to be deceased. Luckily,
+this proves not to be
+the case, and his
+subsequent recovery is
+sure to be documented
+in medical journals for
+years to come.
+!******************************!
+[chr_50.txt]
+Rory's the youth you
+may have seen standing
+outside Folsense
+station all day long.
+Though he seems like
+a slacker, he's just a
+guy who's been waiting
+outside the station for
+his girlfriend to return
+for a very long time.
+!******************************!
+[chr_51.txt]
+Everyone in Folsense
+knows Lila's distinctive
+laugh. Her curious
+nature and love of
+rumours make her a
+great source for town
+gossip. Lila also has
+poor circulation and
+often suffers from the
+chills.
+!******************************!
+[chr_52.txt]
+Damon's the hip kid who
+teaches you about hint
+coins on a corner in
+London. Though
+everything from his hair
+to his jacket exudes
+street cred, he's almost
+certainly from some dull
+suburb.
+!******************************!
+[chr_53.txt]
+Felix works on the door
+at one of Folsense's
+chicest restaurants.
+Felix strictly enforces
+the restaurant's
+no-hat policy, but the
+irony of the situation is
+that Felix actually has
+the most extensive hat
+collection in Folsense.
+!******************************!
+[chr_54.txt]
+Niles is just a regular
+kid who likes to play,
+but almost everyone
+left in Folsense is an
+adult. Since he has no
+one to play with, poor
+Niles just gobbles 
+Citronia Seeds until his
+fingers turn orange.
+Duke is his older
+brother.
+!******************************!
+[chr_55.txt]
+Though it can seem like
+Duke talks down to
+people, it's actually
+just the unfortunate
+way he holds his face
+that makes him seem
+that way. His softer
+side comes out when
+he's with his little
+brother, Niles.
+!******************************!
+[chr_56.txt]
+Fun-loving and spiky-
+haired Hopper is always
+out to have a good time.
+Because of this, he's a
+walking guidebook of
+Folsense's hot spots
+and restaurants.
+Recently, though, his
+rock 'n' roll lifestyle
+seems to be taking
+its toll.
+!******************************!
+[chr_57.txt]
+Olson doesn't draw much
+attention from people,
+and he isn't one for
+cracking jokes. His
+eyesight is so bad that,
+even with his glasses on,
+the illusion of Folsense
+could melt away and
+Olson wouldn't notice
+any difference.
+
+!******************************!
+[chr_58.txt]
+Derby is one of those
+rare people who
+moved into Folsense.
+He's aware of the
+town's strange nature
+but appears to be
+happy enough just
+ignoring the odd
+happenings.
+Apparently, living in a
+ghost town suits him.
+!******************************!
+[chr_59.txt]
+Dawson runs the antique
+shop in town and gets
+most excited over items
+with historical meaning
+or personal stories
+attached to them. Items
+whose only significance
+is their monetary value
+don't get his juices
+flowing.
+!******************************!
+[chr_6.txt]
+Anton, the current duke
+of Folsense, is rumoured
+to be a vampire.
+Fifty years ago, Anton
+was separated from his
+love, Sophia, a blow from
+which he never truly
+recovered.
+He is also the elder
+brother of Beluga.
+!******************************!
+[chr_60.txt]
+Joanie's a sweet little
+girl with a penchant for
+being straight with
+people. Her fearless
+attitude has made her
+very popular with the
+tougher crowd up in
+the north-east part of
+town. She loves all
+things cute.
+!******************************!
+[chr_61.txt]
+Krantz works on the
+front desk at the
+Folsense hotel and has
+many fond memories of
+the Herzen family. Over
+the years, all the hotel
+staff fled Folsense,
+leaving Krantz to run
+the whole operation
+by himself.
+!******************************!
+[chr_62.txt]
+Grinko's main job is
+Herzen Museum curator,
+but his employer, Beluga,
+often sends him around
+town to sniff out leads
+on the Elysian Box.
+Grinko is one of the few
+people in town who
+fully comprehends many
+of the town's secrets.
+
+!******************************!
+[chr_63.txt]
+Marina is the daughter
+of the garlic-crazed
+grocer, Garland. If you
+ever doubt that the
+two are related, just
+take a whiff of the
+snacks she carries
+around with her. They
+smell of garlic too.
+!******************************!
+[chr_64.txt]
+One of the few remaining
+members of Folsense's
+aristocracy, Opal lives
+in the lap of luxury on
+the north side of town
+with her husband. She
+secretly dreams of a
+more down-to-earth
+life, which is why she
+sewed her favourite
+mustard-yellow dress
+herself.
+!******************************!
+[chr_65.txt]
+Ray hangs out on the
+edge of town, wearing
+sunglasses at night.
+He enjoys looking like a
+tough guy, but when the
+glasses come off he
+gets so shy that he
+won't even venture out
+into the street.
+!******************************!
+[chr_66.txt]
+There have been many
+chess fans throughout
+history, but few love
+chess like Gregorio.
+His love for chess
+extends to the decor of
+his house, which,
+naturally, consists of
+alternating pieces of
+black-and-white
+furniture.
+!******************************!
+[chr_67.txt]
+Clarice is always out
+chasing the latest
+report of paranormal
+activity. Nothing thrills
+her more than sitting
+quietly in the latest
+ghost-spotting site,
+waiting for something
+creepy to drift by.
+!******************************!
+[chr_68.txt]
+If you're craving
+pancakes in Folsense,
+visit Gertie. The
+pancakes she flips
+consistently score
+full marks for taste,
+but never seem to
+come out the same
+size, much to her
+chagrin.
+!******************************!
+[chr_69.txt]
+Why, it's our old friend
+Mr Stachenscarfen!
+Where'd he come from?
+He has a strange habit
+of suddenly appearing,
+only to vanish moments
+later. Where he'll show
+up tomorrow is as much
+of a mystery as his
+identity.
+
+!******************************!
+[chr_7.txt]
+Katia is the daughter
+of Dropstone's Mr
+Anderson, though the
+two haven't been
+getting along recently.
+Katia goes to Folsense
+to deliver a message
+from her grandmother,
+Sophia, to Anton,
+her grandfather.
+!******************************!
+[chr_70.txt]
+A man of contradictions,
+Pavel is a fearless
+adventurer with no
+sense of direction. He
+was on his way to Egypt
+when he somehow ended
+up in Folsense. He has a
+talent for getting into
+forbidding places, but
+he has no clue how he
+does it.
+!******************************!
+[chr_71.txt]
+Puzzle savant and
+all-round know-it-all
+Granny Riddleton has
+the uncanny ability to
+store puzzles that Luke
+and Layton didn't grab
+on their adventure.
+She's never without her
+trademark hat and tiny
+shack, where she keeps
+the lost puzzles.
+!******************************!
+[chr_72.txt]
+With Luke's help, this
+little fellow managed to
+get in shape. However,
+the mountain of
+delectable food scraps
+back at home proved to
+be too tempting, and
+upon returning to the
+train the poor hamster
+returned to his old,
+sedentary ways.
+!******************************!
+[chr_73.txt]
+Precious guards the
+path to the north-east
+part of Folsense. He's
+very wary of strangers,
+but is by no means an
+aggressive dog. In fact,
+he warms to you
+awfully quickly if you
+bring him a snack.
+!******************************!
+[chr_74.txt]
+The Molentary Express
+is owned by Beluga,
+the railroad tycoon.
+It's famous for its
+luxury, earning it the
+title of the world's only
+cruise ship on rails.
+Just a few passengers
+know that it also has
+a secret second route
+that goes to Folsense.
+!******************************!
+[chr_75.txt]
+Puzzle Lad One livens up
+puzzles with his endless
+energy and dashing
+moustache. Back in the
+day, he was quite
+athletic and popular
+with the ladies. He's put
+on a few pounds since
+then, but still knows how
+to add flair to puzzles
+with his athletic poses.
+!******************************!
+[chr_76.txt]
+Famous for his bushy
+beard, Puzzle Lad Two is
+considered the poster
+boy for all the members
+of the puzzle troupe. He
+is an accomplished
+entertainer capable of
+many different feats. 
+You'll rarely spot him
+without his broom and
+other props.
+!******************************!
+[chr_77.txt]
+Puzzle Lad Three is a
+middle-aged gent who
+believes that you don't
+need to show off to do
+a great job. The skill he
+brings to his craft
+makes other puzzle lads
+and lasses look up to
+him like a father. Apart
+from puzzles, his other
+passion is napping.
+!******************************!
+[chr_78.txt]
+The identity of this
+puzzle lad is shrouded
+in mystery. Some whisper
+that he secretly rules
+over puzzles from the
+shadows, though no one
+is certain. Puzzle Lad
+Four is extremely
+intelligent and can beat
+almost anyone in a
+battle of wits.
+!******************************!
+[chr_79.txt]
+Puzzle Lad Five believes
+his best feature is his
+dapper little moustache.
+While he's not yet as
+skilled as the other
+puzzle lads and lasses,
+he has the market
+cornered when it comes
+to dedication. No one
+tackles puzzles with his
+kind of positivity.
+!******************************!
+[chr_8.txt]
+Sophia was Katia's
+grandmother and
+Anton's former fianc<'e>e.
+In order to protect the
+child growing inside her,
+she left behind her life
+in Folsense to start
+afresh in the fledgling
+village of Dropstone.
+Kind and honest, she was
+loved by all.
+!******************************!
+[chr_80.txt]
+Puzzle Lass One is all
+about sporting the
+hottest looks and
+keeping up with the
+latest trends. One such
+trend is telling people
+to "talk to the hand,"
+which has been her
+new thing of late.
+!******************************!
+[chr_81.txt]
+Puzzle Lass Two has a
+devilish nature and is
+great at convincing
+people to do stuff for
+her. Despite this, no one
+can seem to get angry
+with her. Perhaps she
+should consider a
+career in diplomacy.
+!******************************!
+[chr_82.txt]
+Puzzle Lass Three is the
+most dependable of the
+bunch and helps to
+organise things in the
+puzzle-actor community.
+In the future she'd like
+to be a music teacher,
+but there's a slight
+hole in her plan: the
+poor thing can't carry
+a tune in a bucket.
+!******************************!
+[chr_83.txt]
+Puzzle Lass Four has
+the single unfortunate
+habit of inserting
+herself into every
+conversation around
+her. Some people see
+her as nosy, but she
+is only trying to be
+friendly.
+!******************************!
+[chr_84.txt]
+In a sea of strangeness,
+Puzzle Lass Five stands
+out as decidedly normal.
+She's good at having
+fun in almost every
+situation, no matter how
+mundane. She considers
+her best feature to be
+her snappy taste in
+accessories.
+!******************************!
+[chr_85.txt]
+Flora must have thought
+a scarf and sunglasses
+would be enough to
+disguise her identity.
+Of course, anyone who
+knows her should have
+recognised her in an
+instant, but for some
+strange reason, neither
+Layton nor Luke saw 
+through her disguise.
+!******************************!
+[chr_86.txt]
+Don't be fooled. While
+this may look like Flora,
+it is actually Don
+Paolo in another of his
+masterful disguises. He
+swapped places with
+the real Flora to spy
+on Luke and Layton.
+He's such a master of
+mimicry that he's even
+got her walk spot on.
+!******************************!
+[chr_87.txt]
+Duke Herzen is Anton
+and Beluga's father, as
+well as the man who
+discovered Folsense's
+gold deposit and made
+the town rich. Unyielding
+and stubborn, he never
+got along well with his
+sons, but was only
+trying to do what he
+thought was best.
+!******************************!
+[chr_88.txt]
+Winston is the Anderson
+family's devoted
+chauffeur. When seeing
+Katia off on her
+journey to Folsense,
+one wonders if he felt
+a twinge of jealousy,
+however irrational, at
+her decision to travel
+by rail instead of by
+car.
+!******************************!
+[chr_89.txt]
+Layton's pride and joy
+is an ode to classic
+design, cast in shiny
+red metal. He keeps the
+car in tip-top shape, so
+it looks great whenever
+he takes it out to solve
+a new mystery. Its tall
+roof affords Layton
+the headroom he needs
+to drive with his hat on.
+!******************************!
+[chr_9.txt]
+Mr Anderson is Katia's
+father and a popular
+and beloved figure in
+Dropstone.
+A gentle soul, he has
+recently been fretting
+about the growing divide
+between himself and
+his daughter.
+!******************************!
+[music_0.txt]
+Professor Layton's Theme
+!******************************!
+[music_1.txt]
+Puzzles Remixed
+!******************************!
+[music_10.txt]
+Don Paolo's Theme
+!******************************!
+[music_11.txt]
+The Dark Forest
+!******************************!
+[music_12.txt]
+Into the Depths of the Dark
+!******************************!
+[music_13.txt]
+Unspoken Feelings
+!******************************!
+[music_14.txt]
+The Sombre Castle
+!******************************!
+[music_15.txt]
+The Ball
+!******************************!
+[music_16.txt]
+The Elysian Box Theme
+!******************************!
+[music_17.txt]
+The True Folsense
+!******************************!
+[music_18.txt]
+Iris (Music Box Version)
+!******************************!
+[music_2.txt]
+In London
+!******************************!
+[music_3.txt]
+The Molentary Express
+!******************************!
+[music_4.txt]
+Suspense
+!******************************!
+[music_5.txt]
+The Village of Dropstone
+!******************************!
+[music_6.txt]
+An Uneasy Atmosphere
+!******************************!
+[music_7.txt]
+Folsense
+!******************************!
+[music_8.txt]
+The Town's Past
+!******************************!
+[music_9.txt]
+Time for a Break
+!******************************!
+[name_0.txt]
+Professor Layton
+!******************************!
+[name_1.txt]
+Luke
+!******************************!
+[name_10.txt]
+Beluga
+!******************************!
+[name_11.txt]
+Sammy Thunder
+!******************************!
+[name_12.txt]
+Macaroon
+!******************************!
+[name_13.txt]
+Chester
+!******************************!
+[name_14.txt]
+Babette
+!******************************!
+[name_15.txt]
+Tom
+!******************************!
+[name_16.txt]
+Vera
+!******************************!
+[name_17.txt]
+Geoff
+!******************************!
+[name_18.txt]
+Garland
+!******************************!
+[name_19.txt]
+Nigel
+!******************************!
+[name_2.txt]
+Flora
+!******************************!
+[name_20.txt]
+Jacques
+!******************************!
+[name_21.txt]
+Barton
+!******************************!
+[name_22.txt]
+Grousley
+!******************************!
+[name_23.txt]
+Steve
+!******************************!
+[name_24.txt]
+Capone
+!******************************!
+[name_25.txt]
+Mitzi
+!******************************!
+[name_26.txt]
+Lili
+!******************************!
+[name_27.txt]
+Sally
+!******************************!
+[name_28.txt]
+Marjorie
+!******************************!
+[name_29.txt]
+Conrad
+!******************************!
+[name_3.txt]
+Inspector Chelmey
+!******************************!
+[name_30.txt]
+Karla
+!******************************!
+[name_31.txt]
+Romie
+!******************************!
+[name_32.txt]
+Dorothea
+!******************************!
+[name_33.txt]
+Clabber
+!******************************!
+[name_34.txt]
+Oscar
+!******************************!
+[name_35.txt]
+Nick
+!******************************!
+[name_36.txt]
+Gabe
+!******************************!
+[name_37.txt]
+Balsa
+!******************************!
+[name_38.txt]
+Wurtzer
+!******************************!
+[name_39.txt]
+Lopez
+!******************************!
+[name_4.txt]
+Don Paolo
+!******************************!
+[name_40.txt]
+Laurel
+!******************************!
+[name_41.txt]
+Parcelle
+!******************************!
+[name_42.txt]
+Lulu
+!******************************!
+[name_43.txt]
+Albert
+!******************************!
+[name_44.txt]
+Madeline
+!******************************!
+[name_45.txt]
+Remy
+!******************************!
+[name_46.txt]
+Angus
+!******************************!
+[name_47.txt]
+Kostya
+!******************************!
+[name_48.txt]
+Dylan
+!******************************!
+[name_49.txt]
+Joseph
+!******************************!
+[name_5.txt]
+Dr Schrader
+!******************************!
+[name_50.txt]
+Rory
+!******************************!
+[name_51.txt]
+Lila
+!******************************!
+[name_52.txt]
+Damon
+!******************************!
+[name_53.txt]
+Felix
+!******************************!
+[name_54.txt]
+Niles
+!******************************!
+[name_55.txt]
+Duke
+!******************************!
+[name_56.txt]
+Hopper
+!******************************!
+[name_57.txt]
+Olson
+!******************************!
+[name_58.txt]
+Derby
+!******************************!
+[name_59.txt]
+Dawson
+!******************************!
+[name_6.txt]
+Anton
+!******************************!
+[name_60.txt]
+Joanie
+!******************************!
+[name_61.txt]
+Krantz
+!******************************!
+[name_62.txt]
+Grinko
+!******************************!
+[name_63.txt]
+Marina
+!******************************!
+[name_64.txt]
+Opal
+!******************************!
+[name_65.txt]
+Ray
+!******************************!
+[name_66.txt]
+Gregorio
+!******************************!
+[name_67.txt]
+Clarice
+!******************************!
+[name_68.txt]
+Gertie
+!******************************!
+[name_69.txt]
+Stachenscarfen
+!******************************!
+[name_7.txt]
+Katia
+!******************************!
+[name_70.txt]
+Pavel
+!******************************!
+[name_71.txt]
+Granny Riddleton
+!******************************!
+[name_72.txt]
+Hamster
+!******************************!
+[name_73.txt]
+Precious
+!******************************!
+[name_74.txt]
+Molentary Express
+!******************************!
+[name_75.txt]
+Puzzle Lad 1
+!******************************!
+[name_76.txt]
+Puzzle Lad 2
+!******************************!
+[name_77.txt]
+Puzzle Lad 3
+!******************************!
+[name_78.txt]
+Puzzle Lad 4
+!******************************!
+[name_79.txt]
+Puzzle Lad 5
+!******************************!
+[name_8.txt]
+Sophia
+!******************************!
+[name_80.txt]
+Puzzle Lass 1
+!******************************!
+[name_81.txt]
+Puzzle Lass 2
+!******************************!
+[name_82.txt]
+Puzzle Lass 3
+!******************************!
+[name_83.txt]
+Puzzle Lass 4
+!******************************!
+[name_84.txt]
+Puzzle Lass 5
+!******************************!
+[name_85.txt]
+Flora Incognito
+!******************************!
+[name_86.txt]
+Don Flora
+!******************************!
+[name_87.txt]
+Duke Herzen
+!******************************!
+[name_88.txt]
+Winston
+!******************************!
+[name_89.txt]
+The Laytonmobile
+!******************************!
+[name_9.txt]
+Mr Anderson
+!******************************!
+[err1.txt]
+Unable to connect to Nintendo Wi-Fi
+Connection. For help, check the
+software Instruction Booklet, or
+visit support.nintendo.com.
+!******************************!
+[err11.txt]
+Communication error. For help,
+visit support.nintendo.com.
+!******************************!
+[err12.txt]
+Download failed. For help,
+visit support.nintendo.com.
+!******************************!
+[err13.txt]
+Nintendo Wi-Fi Connection cannot
+be used because an error has
+occurred. Turn off the power and
+try again.
+!******************************!
+[err2.txt]
+Either Nintendo Wi-Fi Connection
+is experiencing high traffic volumes
+or the service is down.
+Please try again later. For help,
+visit support.nintendo.com.
+!******************************!
+[err3.txt]
+This Nintendo Wi-Fi Connection ID
+was removed because it was inactive
+for a long time. For help, visit
+support.nintendo.com.
+!******************************!
+[err4.txt]
+Nintendo Wi-Fi Connection service
+for this software has been
+discontinued. Visit
+support.nintendo.com for a list of
+current Nintendo Wi-Fi
+Connection-compatible software.
+!******************************!
+[err5.txt]
+The access point is busy. Unable to
+connect. Please try again later. For
+help, visit support.nintendo.com.
+!******************************!
+[err6.txt]
+No access point in range. Please try
+again when closer to an access
+point. For help, visit
+support.nintendo.com.
+!******************************!
+[err7.txt]
+No compatible access point in range.
+Check your connection settings and
+try again. For help, visit
+support.nintendo.com.
+!******************************!
+[err8.txt]
+Unable to connect to the Nintendo
+Wi-Fi USB Connector. Confirm
+connection settings in the Nintendo
+Wi-Fi Connection setup. For help,
+visit support.nintendo.com.
+!******************************!
+[err9.txt]
+Unable to connect to Nintendo Wi-Fi
+Connection. Check your connection
+settings. For help, visit
+support.nintendo.com.
+!******************************!
+[flow1.txt]
+Your Nintendo Wi-Fi Connection
+User Information may have been
+erased. Check your connection
+settings. For help, visit
+support.nintendo.com.
+!******************************!
+[flow100.txt]
+Downloading...
+Please wait a moment.
+!******************************!
+[flow101.txt]
+Download complete.
+
+Your Weekly Puzzle list has
+been updated.
+!******************************!
+[flow102.txt]
+Download complete.
+
+Your Weekly Puzzle list
+is already up to date.
+
+
+!******************************!
+[flow103.txt]
+Download complete.
+
+Number of new puzzles
+downloaded: %d
+!******************************!
+[flow105.txt]
+Saving downloaded data.
+
+Do not turn off your DS system.
+!******************************!
+[flow11.txt]
+Disconnecting from Nintendo Wi-Fi
+Connection.
+!******************************!
+[flow12.txt]
+You have been disconnected from 
+Nintendo Wi-Fi Connection.
+!******************************!
+[flow2.txt]
+Connect to Nintendo Wi-Fi
+Connection?
+!******************************!
+[flow300.txt]
+The Weekly Puzzle download
+service has not started yet.
+
+Please check back later.
+!******************************!
+[flow8.txt]
+Connecting to Nintendo Wi-Fi
+Connection...
+Please wait a moment...
+!******************************!

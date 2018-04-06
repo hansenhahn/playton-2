@@ -1,0 +1,896 @@
+[t18_010_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
+!******************************!
+[t18_020_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:192>And with that, it seems that you've
+completed every puzzle in the game.
+Congratulations!<W>
+!------------------------------!
+It's clear that you possess an
+aptitude and passion for puzzle
+solving that is equal to my own.
+!******************************!
+[t18_020_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:84>Look, Professor! A new page of
+characters has been added to
+the Profiles section!
+!******************************!
+[t18_020_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Indeed there has, Luke. That's a
+gift from us to our friend, the
+player. That's you!
+!******************************!
+[t18_020_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:47>You heard the professor.
+Have fun with those!
+!******************************!
+[t18_110_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:179>Professor Layton receives a
+letter from his friend and mentor,
+Dr Andrew Schrader.<W>
+!------------------------------!
+That letter prompts the professor
+and his assistant, Luke, to pay
+a visit to the doctor.
+!******************************!
+[t18_110_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:308>The letter reveals that the doctor
+has come into possession of an
+antique known as the Elysian Box.<W>
+!------------------------------!
+Known colloquially as Pandora's
+Box, the Elysian Box is rumoured
+to kill anyone who dares open it.<W>
+!------------------------------!
+Nevertheless, the doctor's
+curiosity is overwhelming, and he
+announces his intention to open it.
+!******************************!
+[t18_110_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:85>With an uneasy heart, Layton
+decides to check on the doctor
+at his home in London.
+!******************************!
+[t18_120_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Layton and Luke board the
+Molentary Express, hoping to
+learn what happened to the doctor.
+!******************************!
+[t18_120_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>The extravagance of the train,
+known as a <''>cruise ship on
+rails<''>, astounds them.
+!******************************!
+[t18_120_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>Surrounded by the luxury of the
+Molentary Express, the pair begin
+their investigation.
+!******************************!
+[t18_130_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Layton and Luke meet Babette, a
+wealthy woman hysterical over the
+disappearance of her baby, Tom.
+!******************************!
+[t18_130_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>The two offer to help look for
+Tom, but the only clue they have
+is one of his tiny shoes.
+!******************************!
+[t18_130_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Professor Layton and Luke decide
+to look for additional clues by
+quizzing passengers on the train.
+!******************************!
+[t18_140_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:106>In the course of their search, the
+professor begins to suspect that
+Tom might not be human, but canine.
+!******************************!
+[t18_140_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:78>This realisation reminds the pair
+of a girl they saw who was holding
+a dog.
+!******************************!
+[t18_140_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>In order to confirm his suspicions,
+the professor and Luke set out to
+search the train for the girl.
+!******************************!
+[t18_150_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:74>The mysterious girl carrying the
+dog turns out to be Flora in
+disguise.
+!******************************!
+[t18_150_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Unable to send her back to London,
+the professor consents to letting
+her tag along on the adventure.
+!******************************!
+[t18_150_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>With little Tom in tow, Layton,
+Luke and Flora head back to
+reunite Babette with her <''>baby<''>.
+!******************************!
+[t18_160_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:78>Layton and his helpers
+successfully deliver Tom back
+to his owner, Babette.
+!******************************!
+[t18_160_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>With Babette finally at ease and
+the search for Tom over, the
+atmosphere on the train is calm.
+!******************************!
+[t18_160_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>Layton, Luke and Flora decide
+to take a break and return to
+their suite.
+!******************************!
+[t18_170_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Layton, Luke and Flora's brief
+respite is interrupted when the
+train suddenly screeches to a halt.
+!******************************!
+[t18_170_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>In order to assess the situation
+and find out the reason for the
+stop, the three venture outside.
+!******************************!
+[t18_170_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>Once outside, the three discover a
+broken-down train blocking the
+track.
+!******************************!
+[t18_180_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Layton, Luke and Flora's brief
+respite is interrupted when the
+train suddenly screeches to a halt.
+!******************************!
+[t18_180_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:83>Once outside, the three discover
+that a broken-down train is
+blocking the track.
+!******************************!
+[t18_180_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Eager to continue their journey,
+Layton ponders how to move the
+train to clear the track.
+!******************************!
+[t18_185_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Layton, Luke and Flora's brief
+respite is interrupted when the
+train suddenly screeches to a halt.
+!******************************!
+[t18_185_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:87>But the professor soon devises
+a way to move the train that's
+obstructing the track.
+!******************************!
+[t18_185_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:157>With the tracks clear again, Layton
+and the others reboard the train.<W>
+!------------------------------!
+And with that, they speed off
+towards their next stop, the
+village of Dropstone.
+!******************************!
+[t18_190_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>The Molentary Express has pulled
+into the quiet farming village
+of Dropstone.
+!******************************!
+[t18_190_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Upon arriving, it appears that
+Dropstone is in the midst of
+celebrating its 50th anniversary. 
+!******************************!
+[t18_190_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>To pass the time, Layton, Luke and
+Flora decide to ask around for
+information on the Elysian Box.
+!******************************!
+[t18_200_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:99>While hunting for clues, Layton and
+the others learn that a livestock
+contest is about to begin.
+!******************************!
+[t18_200_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Before it does, however, they find
+several scraps of information that
+may pertain to the Elysian Box.
+!******************************!
+[t18_200_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Shortly thereafter, the three take
+a break from their investigation
+and return to watch the contest.
+!******************************!
+[t18_210_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Thanks to Luke, the livestock
+contest concludes without a hitch.
+!******************************!
+[t18_210_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:95>After asking all over town, the
+trio gather all the information
+they can on the Elysian Box.
+!******************************!
+[t18_210_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>Layton, Luke and Flora decide to
+look for Mr Anderson before
+returning to the station.
+!******************************!
+[t18_220_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:172>Thanks to Luke, the livestock
+contest concludes without a hitch.<W>
+!------------------------------!
+With little time left until the train
+departs, Layton, Luke and Flora
+set out for the train station.
+!******************************!
+[t18_220_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>On their way back, Layton and Luke
+lose Flora in the crowd of people
+flooding the fairground.
+!******************************!
+[t18_220_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:106>Luckily, Flora is soon reunited with
+Layton and Luke. Relieved, the trio
+make their way to the station.
+!******************************!
+[t18_230_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>Rumours in Dropstone suggest that
+the Molentary Express has
+another, secret destination.
+!******************************!
+[t18_230_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:118>The trio know that in order to get
+there, something must be done
+on the train.<W>
+!------------------------------!
+What, however, remains a mystery.
+!******************************!
+[t18_230_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>With nothing else to go on, the
+three start searching for any
+clues as to how to proceed.
+!******************************!
+[t18_233_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:206>In a conversation with Conrad, a
+student aboard the train, the
+professor hears a curious rumour.<W>
+!------------------------------!
+It seems that all access to the
+deluxe carriage is cut off when the
+train enters a long, dark tunnel.
+!******************************!
+[t18_233_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:184>Layton begins to suspect that
+there may be more to this
+than meets the eye.<W>
+!------------------------------!
+He suspects that it must be in
+some way connected to the phantom
+town they heard about in Dropstone.
+!******************************!
+[t18_233_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:83>The trio head to the deluxe
+carriage shortly before the train
+enters the tunnel.
+!******************************!
+[t18_237_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:94>The carriage splits off from
+the Molentary Express, carrying
+the trio to a new destination.
+!******************************!
+[t18_237_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:183>After solving the mystery of the
+doctor's ticket, they now know the
+name of their new destination.<W>
+!------------------------------!
+But what kind of place is this
+Folsense, and just what will
+they find there?
+!******************************!
+[t18_237_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>Questions run wild in their
+heads as the Molentary Express
+barrels through the darkness.
+!******************************!
+[t18_240_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Layton, Luke and Flora learn that
+the name of the phantom town
+they're headed to is Folsense.
+!******************************!
+[t18_240_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>As the train is nearing the
+station, only inky blackness can
+be seen through the window.
+!******************************!
+[t18_240_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Feeling uneasy, Layton and the
+others steady themselves as they
+prepare to enter Folsense.
+!******************************!
+[t18_250_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Travelling in the Molentary
+Express's deluxe carriage, Layton,
+Luke and Flora arrive in Folsense.
+!******************************!
+[t18_250_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:79>But upon their arrival, they
+experience a series of inexplicable
+happenings.
+!******************************!
+[t18_250_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:94>Unsettled by the strange things
+they've seen, the three begin
+an investigation of the town.
+!******************************!
+[t18_253_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>When talking to a local shopkeeper,
+Layton and Luke learn of the
+Herzen Museum.
+!******************************!
+[t18_253_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Further conversation reveals that
+the museum is their best bet for
+information on the Elysian Box.
+!******************************!
+[t18_253_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Their next destination now clear,
+Luke and Layton head to the north
+part of town to visit the museum.
+!******************************!
+[t18_256_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Luke and Layton visit the Herzen
+Museum in the north part of town
+to learn about the Elysian Box.
+!******************************!
+[t18_256_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:52>But upon their arrival, they find
+the gate locked.
+!******************************!
+[t18_256_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>With no way of entering, the pair
+put off visiting the museum to ask
+around about the Elysian Box.
+!******************************!
+[t18_259_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Layton and Luke run around town
+gathering whatever information
+they can about the Elysian Box.
+!******************************!
+[t18_259_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:185>On their travels, they hear many
+curious rumours about strange
+happenings in the town.<W>
+!------------------------------!
+However, they are unsuccessful in
+finding any substantial leads
+regarding the Elysian Box.
+!******************************!
+[t18_259_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>In search of better information,
+the two decide to revisit the
+Herzen Museum.
+!******************************!
+[t18_260_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:107>Luke and Layton find a large emblem
+in the shape of a goat carved into
+the floor in front of the museum.
+!******************************!
+[t18_260_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:88>Seeing this, the professor suddenly
+announces his need to speak to
+Inspector Chelmey.
+!******************************!
+[t18_260_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>The professor has taken a renewed
+interest in the photo recovered
+from Dr Schrader's home.
+!******************************!
+[t18_270_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Layton and Luke return to the
+hotel to ask Chelmey about the
+photo from the doctor's home.
+!******************************!
+[t18_270_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Unfortunately, it seems the
+inspector unwittingly scattered
+the photo scraps all across town.
+!******************************!
+[t18_270_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Following the inspector's trail,
+the pair set out to recover the
+missing pieces of the photo.
+!******************************!
+[t18_280_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:88>After a long search, Luke and
+the professor finally reassemble
+the entire photograph.
+!******************************!
+[t18_280_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:195>With the entire photo assembled,
+the pair are able to confirm what
+the Elysian Box looks like.<W>
+!------------------------------!
+Unfortunately, immediately
+afterwards a sudden gust of wind
+blows away a piece of the photo.
+!******************************!
+[t18_280_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:99>With the rest of the photo in hand,
+they decide to make one more round
+of enquiries around town.
+!******************************!
+[t18_290_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Having reassembled the photo,
+Layton and Luke are able to see
+what the Elysian Box looks like.
+!******************************!
+[t18_290_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Shortly afterwards, the two bump
+into Barton, who tells them Chelmey
+has found the doctor's murderer.
+!******************************!
+[t18_290_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>At the request of the inspector,
+Luke and Layton head back to the
+hotel.
+!******************************!
+[t18_300_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:184>In the hotel lobby, the professor
+reveals that Don Paolo has been
+posing as Flora for some time.<W>
+!------------------------------!
+His cover blown, Don Paolo flees
+the hotel, Inspector Chelmey hot
+on his heels.
+!******************************!
+[t18_300_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:146>As he is making his escape, Don
+Paolo drops the Elysian Box.<W>
+!------------------------------!
+Luke and Professor Layton soon
+find it sitting in a corner of the
+hotel lobby.
+!******************************!
+[t18_300_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:167>With the box safely in their
+possession, the two can finally
+examine it with their own eyes.<W>
+!------------------------------!
+At long last, they are about to
+discover what secrets sleep inside.
+!******************************!
+[t18_310_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>Professor Layton and Luke put
+their lives on the line and
+open the Elysian box.
+!******************************!
+[t18_310_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>However they both survive the
+opening. In fact, nothing at all
+seems to happen.
+!******************************!
+[t18_310_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:191>The box, which once appeared to
+hold all the answers, has now
+spawned new questions.<W>
+!------------------------------!
+In order to shed light on these new
+mysteries, the pair take to the
+streets of Folsense once more.
+!******************************!
+[t18_320_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>Professor Layton and Luke put
+their lives on the line and open the
+Elysian box.
+!******************************!
+[t18_320_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>Thankfully, the two manage to open
+the box without incident and
+discover it to be empty.
+!******************************!
+[t18_320_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Layton's suspicions confirmed, the
+two take to the streets again to
+see what else they can learn. 
+!******************************!
+[t18_330_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:73>Professor Layton and Luke open
+the Elysian Box and walk away
+unharmed.
+!******************************!
+[t18_330_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:90>Having now opened the box, the
+pair return to town to confirm a
+newly formed suspicion.
+!******************************!
+[t18_330_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:154>With Sammy's help, Layton and
+Luke gain access to the Herzen
+Museum.<W>
+!------------------------------!
+The pair hope to continue
+their search for facts
+relating to the Elysian Box.
+!******************************!
+[t18_335_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:73>Professor Layton and Luke open
+the Elysian Box and come away
+unharmed.
+!******************************!
+[t18_335_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:90>Having now opened the box, the
+pair return to town to confirm a
+newly formed suspicion.
+!******************************!
+[t18_335_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:94>Hearing that some miners might
+have left diaries underground,
+the two set out for the mine.
+!******************************!
+[t18_340_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Layton and Luke learn more about
+the Herzen family from the museum
+and a recovered miner's diary.
+!******************************!
+[t18_340_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:54>This new information reveals
+several baffling facts.
+!******************************!
+[t18_340_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>In order to understand more about
+Folsense and its past, Layton and
+Luke look for clues around town.
+!******************************!
+[t18_350_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Layton and Luke learn much about
+the Herzen family from the museum
+and a recovered miner's diary.
+!******************************!
+[t18_350_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:54>This new information reveals
+several baffling facts.
+!******************************!
+[t18_350_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:102>Driven to discover the truth about
+the Elysian Box and Folsense, the
+two set out for Herzen Castle.
+!******************************!
+[t18_360_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:87>Having made their way past the
+forest gate, Layton and Luke
+arrive at Herzen Castle.
+!******************************!
+[t18_360_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:176>A brief audience with Anton
+yields little useful information
+about the  Elysian Box.<W>
+!------------------------------!
+With the hour growing late, Anton
+invites the professor and Luke
+to stay the night.
+!******************************!
+[t18_360_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:99>After being shown to their room,
+the two take a moment before bed
+to examine their surroundings.
+!******************************!
+[t18_370_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:186>While sleeping, Luke and Professor
+Layton have a disturbing dream
+about a ghostly ball.<W>
+!------------------------------!
+When they awake, they're horrified
+to find themselves tied up in a
+strange, cramped room. 
+!******************************!
+[t18_370_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Their captor, Anton, soon leaves
+the room, giving Luke and Layton
+the chance they need to escape.
+!******************************!
+[t18_370_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Knowing that Anton will return
+soon, the two aim to find a way out
+of the castle as soon as possible.
+!******************************!
+[t18_380_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Having escaped the bowels of the
+castle, Professor Layton and Luke
+finally reach the exit.
+!******************************!
+[t18_380_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>But with the exit in sight, Layton
+decides that they must search the
+castle before departing.
+!******************************!
+[t18_380_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:177>He is convinced that the castle is
+the key to understanding both
+Folsense and the Elysian Box.<W>
+!------------------------------!
+And with that, Layton and Luke
+begin a cautious investigation
+of the area.
+!******************************!
+[t18_400_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:262>Combine the ingredients you gather
+to make a variety of delectable
+teas.<W>
+!------------------------------!
+Tea ingredients currently in your
+possession can be found in the
+boxes shown on the Touch Screen.<W>
+!------------------------------!
+Touch an ingredient to learn its
+name and the properties it can give
+your tea.
+!******************************!
+[t18_400_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:289>When you're ready to make tea,
+touch the ingredients you want to
+use and drag them into the teapot.<W>
+!------------------------------!
+You'll need to put three measures
+in the teapot before you can start
+brewing your tea.<W>
+!------------------------------!
+Keep in mind that you can use more
+than one measure of the same herb
+in your concoctions.
+!******************************!
+[t18_400_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:323>Once you've put your third
+ingredient in the teapot, the lid
+next to it will start to wiggle.<W>
+!------------------------------!
+Place the lid on top of the teapot
+to start brewing your tea.<W>
+!------------------------------!
+If your creation turns out well, it
+will be added to your list of tea
+recipes.<W>
+!------------------------------!
+You can check your list of recipes
+at any time by touching #rTea Time#x.
+!******************************!
+[t18_400_400.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:300>While viewing your list of teas,
+touch a teacup to see that tea's
+name and characteristics.<W>
+!------------------------------!
+Once you find the tea you'd like
+to serve, touch #rServe!#x to pour a
+cup for anyone who's thirsty.<W>
+!------------------------------!
+There are 12 recipes in all. Try to
+discover as many as you can,
+they're sure to come in handy!
+!******************************!
+[t18_410_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:165>Touch the camera parts at the top
+of the Touch Screen to enlarge
+them.<W>
+!------------------------------!
+Once in this area, drag the
+selected part around to place it
+inside the camera's body.
+!******************************!
+[t18_410_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:430>Control the orientation and
+position of parts within the camera
+by using the stylus.<W>
+!------------------------------!
+Touch the centre of a part and
+drag to move it around.<W>
+!------------------------------!
+Rotate a part by touching an edge
+and sliding the stylus in a circle.<W>
+!------------------------------!
+To fix the camera, gather all 10
+missing parts and place them
+correctly so that no gaps remain.<W>
+!------------------------------!
+What happens when the camera is
+restored to working order?<W> You'll
+just have to find out for yourself!
+!******************************!
+[t18_420_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:232>Use any items you can get hold of
+to help that sluggish hamster get
+back in shape.<W>
+!------------------------------!
+Items at your disposal are shown
+at the top of the Touch Screen.<W>
+!------------------------------!
+Drag items with the stylus to
+position them in the hamster's
+playground.
+!******************************!
+[t18_420_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:406>The hamster notices any items
+within three spaces of his position.<W>
+!------------------------------!
+He won't react to any items four
+or more spaces away, so really
+think about where you place items.<W>
+!------------------------------!
+Touch an item to see the
+properties it has.<W>
+!------------------------------!
+Take advantage of the special
+properties of each item to
+maximise the hamster's workout.<W>
+!------------------------------!
+Place all items where you want them
+and touch #rExercise!#x to get the
+hamster moving.
+!******************************!
+[t18_420_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:356>Once the hamster interacts with an
+item, it disappears from the
+playground.<W>
+!------------------------------!
+His workout ends when all items are
+gone or when he can't find the next
+item.<W>
+!------------------------------!
+Each time the hamster walks the
+number of steps listed as his goal,
+he'll get a little healthier.<W>
+!------------------------------!
+If you can get the hamster to his
+peak physical condition, something
+good will happen!
+!******************************!
+[t18_430_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:212>Use the camera to find secrets
+hidden around the game's
+locations.<W>
+!------------------------------!
+While walking in certain areas, a
+camera icon will appear on the
+screen.<W>
+!------------------------------!
+When it does, touch the icon to
+snap a photo of that area.
+
+!******************************!
+[t18_430_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:192>View an album containing all your
+photos by touching the Camera icon
+in the Professor's Trunk.<W>
+!------------------------------!
+While viewing the album, touch
+any of your photos to play a
+spot-the-difference minigame.
+!******************************!
+[t18_430_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:604>Your goal is to spot the
+differences between the Touch
+Screen photo and the real place.<W>
+!------------------------------!
+The actual location is shown on
+the top screen.<W>
+!------------------------------!
+Touch any suspicious locations to
+place a circle on them, then touch
+#rHere!#x to submit your answer.<W>
+!------------------------------!
+If you answer correctly, the area
+you selected will be marked with
+an icon.<W>
+!------------------------------!
+Each photo has three elements
+that are slightly different from
+those of the actual location.<W>
+!------------------------------!
+When you find all three in a single
+location, visit the area where you
+took the photo.<W>
+!------------------------------!
+Touch the part that's indicated in
+the photo... Who knows what you
+might find?
+!******************************!
+[t18_450_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:133>We hope you enjoyed Professor
+Layton and Pandora's Box.<W>
+!------------------------------!
+Though you've reached the end
+of the story, the fun is just
+beginning!
+!******************************!
+[t18_450_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:145>The story mode of this game
+contains a total of 138 puzzles.<W>
+!------------------------------!
+If you haven't solved all of them
+already, try to find and complete
+them all.
+!******************************!
+[t18_450_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:275>Also, check the Bonuses section,
+where you can unlock more content
+by fulfilling certain criteria.<W>
+!------------------------------!
+If you unlock enough stuff, you
+might even find some new and
+challenging puzzles!<W>
+!------------------------------!
+Have a great time playing through
+the rest of Professor Layton and
+Pandora's Box!
+!******************************!
+[t18_450_400.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:284>Since you've come to the end
+of the story, your game will
+now be saved.<W>
+!------------------------------!
+When you continue this game, you
+will resume play inside Herzen
+Castle, just before fighting Anton.<W>
+!------------------------------!
+From there, you're free to return
+to town and hunt after any items
+and puzzles you may have missed.
+!******************************!
+[t18_460_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:152>We hope you enjoyed Professor
+Layton and Pandora's Box.<W>
+!------------------------------!
+It looks like you've solved
+every puzzle in the story mode
+of this game. Congratulations!
+!******************************!
+[t18_460_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:190>For more fun things to do, check
+out the Top Secret area and Weekly
+Puzzles in the Bonuses section.<W>
+!------------------------------!
+Be sure to explore everything,
+have a great time, and once
+again, congratulations!
+!******************************!
+[t18_460_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:245>Since you've come to the end
+of the story, your game will
+now be saved.<W>
+!------------------------------!
+When you continue this game, you
+will resume play inside Herzen
+Castle, just before fighting Anton.<W>
+!------------------------------!
+From there, you're free to
+continue playing however you wish!
+!******************************!
+[t18_480_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:287>It looks like you've solved every
+puzzle in the story mode of this
+game. Congratulations!<W>
+!------------------------------!
+For more fun things to do, check
+out the Top Secret area and Weekly
+Puzzles in the Bonuses section.<W>
+!------------------------------!
+Make sure to explore everything,
+have a great time, and once
+again, congratulations!
+!******************************!
+[t18_490_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:64>The Tea Master's House has
+been added to Layton's
+Challenges.
+!******************************!
+[t18_500_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:62>The Musician's House has
+been added to Layton's
+Challenges.
+!******************************!
+[t18_510_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>The Animal Lover's House has
+been added to Layton's
+Challenges.
+!******************************!

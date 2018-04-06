@@ -1,0 +1,280 @@
+[t13_020_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:96>I just can't stop thinking about
+this phantom town we heard about.
+Could the rumours be true?
+!******************************!
+[t13_020_200.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:79>Well, the next stop on this line is
+the perfectly normal town of
+Luxenbelle.
+!******************************!
+[t13_020_300.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Well then, how do we get to the
+phantom town?
+!******************************!
+[t13_020_400.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:175>That's an excellent question, but I
+don't have the answer, Luke.<W>
+!------------------------------!
+But if the Molentary Express does
+indeed head for parts unknown, the
+crew will know something about it.
+!******************************!
+[t13_020_500.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:90>Good thinking, Professor! Until we
+reach Luxenbelle, let's search the
+train for a lead.
+!******************************!
+[t13_030_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>It looks like there's no way in...
+!******************************!
+[t13_030_200.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:7>Hmm...
+!******************************!
+[t13_040_100.gds]
+<01:0000000F><03:11>b1 normal2<03:5>NONE<01:00000003><03:218>Finally, the train is fixed. I'd do a
+jig, only it's hard to gather lost
+puzzles with all this moving around.<W>
+!------------------------------!
+We won't come back this way again,
+so if you missed some puzzles in
+Dropstone, take a peek in there.
+!******************************!
+[t13_050_100.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:83>It's the strangest thing...<W>&setani 5 b1_weep2&
+All of a sudden, I'm so tired...
+!******************************!
+[t13_050_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:107>What's the matter, Flora?<W>&setani 2 b1_weep&
+!------------------------------!
+Yaaawn... Gosh, all of a sudden I'm
+sort of sleepy, too...
+!******************************!
+[t13_050_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:117>All right, you two, this is no time
+for jokes...<W>&setani 1 b1_angry&
+!------------------------------!
+Oh dear, I'm suddenly...quite
+tired myself.
+!******************************!
+[t13_120_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>I do believe we've arrived at the
+next stop.
+!******************************!
+[t13_120_200.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:55>But I don't see Flora, Professor.
+Where could she be?
+!******************************!
+[t13_120_300.gds]
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:48>Hi, you two. Glad to see you're
+finally awake.
+!******************************!
+[t13_120_400.gds]
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:35>Flora! Where did you get off to?
+
+!******************************!
+[t13_120_500.gds]
+<01:00000005><03:8>b1 weep<03:5>NONE<01:00000003><03:98>I'm sorry, but the carriage was
+really stuffy, so when we stopped,
+I went outside for some air.
+!******************************!
+[t13_120_600.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:131>You went out alone?<W> Are you
+crazy?!<W>
+!------------------------------!
+It's dangerous out there. Who
+knows what kind of oddballs could
+be out lurking around!
+!******************************!
+[t13_120_700.gds]
+<01:00000005><03:9>b1 weep2<03:5>NONE<01:00000003><03:45>Oh, well, I'll be more careful from
+now on.
+!******************************!
+[t13_120_800.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:192>Watch your tone, Luke. A gentleman
+always remembers to treat a lady
+with kindness and respect.<W>
+!------------------------------!
+Now, since we're all back together,
+why don't we get off this train and
+see where we are?
+!******************************!
+[t13_130_100.gds]
+<01:0000002B><03:5>NONE<03:5>NONE<01:00000003><03:117>Good day, sir. I'm headed back
+to Luxenbelle, where I teach
+the sciences.<W>
+!------------------------------!
+Where might you and yours be
+headed?
+!******************************!
+[t13_130_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:316>Our destination is, well, flexible.
+You see we're travelling in search
+of a relic called the Elysian Box.<W>
+!------------------------------!
+We've managed to find some
+anecdotal evidence suggesting the
+box is linked to a strange town...<W>
+!------------------------------!
+A phantom town not recorded on
+any map in human possession.<W> Does
+this sound familiar to you at all?
+!******************************!
+[t13_130_300.gds]
+<01:0000002B><03:5>NONE<03:5>NONE<01:00000003><03:387>Well, mercy me, you've got quite
+an adventure on your hands,
+haven't you?<W>
+!------------------------------!
+While I can't say I've heard of the
+particular town you speak of, I can
+offer you another tale I've heard.<W>
+!------------------------------!
+Some say the Molentary Express
+stops at an eerie town that's
+terrorised by a vampire.<W>
+!------------------------------!
+First rumours of a vampire and now
+phantom towns. Goodness, it's like
+we're living in a mystery novel.
+!******************************!
+[t13_131_100.gds]
+<01:0000002B><03:5>NONE<03:5>NONE<01:00000003><03:101>Sitting down for a few minutes on
+the sofa here is enough to make
+me sleepy. It's just that comfy.
+!******************************!
+[t13_140_100.gds]
+<01:00000027><03:5>NONE<03:5>NONE<01:00000003><03:176>Good day, sir. The name's Conrad.
+I'm a student from the village of
+Dropstone.<W>
+!------------------------------!
+I'm headed to Luxenbelle, so it
+seems we'll be travelling together,
+for a while at least.
+!******************************!
+[t13_140_150.gds]
+<01:00000027><03:5>NONE<03:5>NONE<01:00000003><03:309>Here, have you heard about that
+long tunnel on the way to
+Luxenbelle?<W>
+!------------------------------!
+When the train passes through it,
+every light on board is switched
+off.<W>
+!------------------------------!
+Stranger still, once the train
+nears the tunnel, all access to
+the deluxe carriage is cut off.<W>
+!------------------------------!
+What if someone needs to go to
+the toilet in the dark?!
+!******************************!
+[t13_140_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:88>Something very weird must be going
+on if they shut off access to the
+deluxe carriage.
+!******************************!
+[t13_140_300.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:143>Of course, it all makes perfect
+sense! Why didn't I see it before?<W>
+!------------------------------!
+Luke, I think I've worked things out.
+Quickly, to the deluxe carriage!
+!******************************!
+[t13_140_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:33>I'm right behind you, Professor!
+!******************************!
+[t13_141_100.gds]
+<01:00000027><03:5>NONE<03:5>NONE<01:00000003><03:98>Yaaawn...<W> All of a sudden, I'm just
+so sleepy. Travelling by train
+always makes me so sleepy.
+!******************************!
+[t13_150_100.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:138>How's my little guy doing?<W>
+!------------------------------!
+I knew it'd be tough without him
+around, but I didn't realise how
+lonely I'd get.<W> Is he happy at least?
+!******************************!
+[t13_150_200.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:85>Don't you worry, he's doing great!
+He'll be as fit as a fiddle before
+you know it!
+!******************************!
+[t13_150_300.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:244>That's really good to hear. Don't
+let me down, OK?<W>
+!------------------------------!
+I'm actually about to close up the
+kitchen and rest until we get to
+Luxenbelle.<W>
+!------------------------------!
+Most of the train shuts down for
+this leg of the trip, so you might
+as well go and rest in your room.
+!******************************!
+[t13_151_100.gds]
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:103>The whole train basically shuts
+down until we reach Luxenbelle, so
+why not catch a nap in your room?
+!******************************!
+[t13_160_100.gds]
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:92>I beg your pardon, sir, but we're
+not open for business at the
+moment. Do visit us later.
+!******************************!
+[t13_160_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:23>You're really closed?!
+!******************************!
+[t13_160_300.gds]
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:333>Yes, you see, on the way to
+Luxenbelle there's a long, unlit
+tunnel we have to pass through.<W>
+!------------------------------!
+While in the tunnel, none of the
+scenic views our restaurant
+affords patrons will be visible.<W>
+!------------------------------!
+It is Mr Beluga's wish that all
+patrons be able to enjoy the
+scenery while they dine.<W>
+!------------------------------!
+Hence, our temporary suspension
+of service.
+!******************************!
+[t13_160_400.gds]
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:94>Wow, talk about a classy
+operation. Mr Beluga has really
+thought of everything, hasn't he?!
+!******************************!
+[t13_161_100.gds]
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:92>My apologies, good sir, but we're
+not open for business at the
+moment. Do visit us later.
+!******************************!
+[t13_170_100.gds]
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:90>Finally, time to get down to
+business. It's been ages since
+I got to do some real work.
+!******************************!
+[t13_170_200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:63>What do you mean? Didn't you just
+finish repairing the train?
+!******************************!
+[t13_170_300.gds]
+<01:00000023><03:11>b2 normal2<03:5>NONE<01:00000001><03:100>Sort of, but before I can kick
+back I've  gotta do- Oops!<W> Um, I
+mean, nothing! Things are good!
+!******************************!
+[t13_171_100.gds]
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:92>Finally, time to get down to
+business. It's been ages since
+I got to really do some work.
+!******************************!
+[t13_180_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Goodness! Look at this place!
+It's off the scale!
+!******************************!
+[t13_180_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>Yes, it's far more luxurious than
+the standard carriages. These 
+tickets must cost a pretty penny.
+!******************************!

@@ -9,6 +9,10 @@ REM rem Arquivos copiados do espanhol, pelo fato de serem maiores ou terem a pal
 REM copy "ROM Original\PLAYTON\data\data\ani\es\jiten_num.arc" "ROM Modificada\PLAYTON\data\data\ani\en\jiten_num.arc" /B/Y
 REM copy "ROM Original\PLAYTON\data\data\ani\es\story_gfx.arc" "ROM Modificada\PLAYTON\data\data\ani\en\story_gfx.arc" /B/Y
 REM copy "ROM Original\PLAYTON\data\data\ani\es\story_page_buttons.arc" "ROM Modificada\PLAYTON\data\data\ani\en\story_page_buttons.arc" /B/Y
+copy "ROM Original\PLAYTON2_ES\data\data_lt2\ani\menu\bag\sp\memo_close_buttons.arc" "ROM Modificada\PLAYTON2\data\data_lt2\ani\menu\bag\en\memo_close_buttons.arc" /B/Y
+copy "ROM Original\PLAYTON2_ES\data\data_lt2\ani\system\btn\sp\cancel.arc" "ROM Modificada\PLAYTON2\data\data_lt2\ani\system\btn\en\cancel.arc" /B/Y
+
+
 
 rem Copia os arquivos de fonte
 copy "Fontes\font18.NFTR" "ROM Modificada\PLAYTON2\data\data_lt2\font" /B/Y
