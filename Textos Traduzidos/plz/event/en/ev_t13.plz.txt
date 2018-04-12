@@ -13,8 +13,8 @@ cidade de Luxenbelle.
 até a cidade fantasma?
 !******************************!
 [t13_020_400.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:175>Esta é uma excelente pergunta,
-mas ainda não tenho uma resposta
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:175>É uma excelente pergunta, mas
+ainda não tenho uma resposta
 para ela, Luke.<W>
 !------------------------------!
 Se o Molentary Express para em
@@ -38,19 +38,19 @@ modo de entrar...
 mais feliz porque vai dar um trabalhão
 recolher todos esses enigmas perdidos.<W>
 !------------------------------!
-Não vamos passar por este caminho
-de novo, então é melhor voltar à cidade
+Não vamos passar por este caminho outra
+vez, então é melhor voltar à cidade
 caso tenha esquecido algum enigma lá.
 !******************************!
 [t13_050_100.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:83>Que estranho...<W>&setani 5 b1_weep2& De repente, passei
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:83>Que estranho...<W>&setani 5 b1_weep2& De repente, comecei
 a sentir um cansaço...
 !******************************!
 [t13_050_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:107>Qual o problema, Flora?<W>&setani 2 b1_weep&
 !------------------------------!
-Uaaa... Caramba, do nada comecei
-também a sentir sono...
+Uaaa... Caramba, do nada também
+comecei a sentir sono...
 !******************************!
 [t13_050_300.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:117>Muito bem, vocês dois, agora não
@@ -61,22 +61,22 @@ sentindo cansado.
 !******************************!
 [t13_120_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>Acredito termos chegado
-a nossa próxima parada.
+à nossa próxima parada.
 !******************************!
 [t13_120_200.gds]
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:55>Mas eu não vejo a Flora, Professor.
-Onde será que ela estar?
+Onde será que ela está?
 !******************************!
 [t13_120_300.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:48>Oi pra vocês. Vejo que finalmente
-acordaram.
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:48>Oi pra vocês. Vejo que
+finalmente acordaram.
 !******************************!
 [t13_120_400.gds]
-<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:35>Flora! Onde vocês estava?
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:35>Flora! Onde você estava?
 !******************************!
 [t13_120_500.gds]
 <01:00000005><03:8>b1 weep<03:5>NONE<01:00000003><03:98>Eu estava me sentindo sufocada dentro
-deste vagão, então saí para pegar um
+desta cabine, então saí para pegar um
 pouco de ar fresco quando paramos.
 !******************************!
 [t13_120_600.gds]
@@ -111,7 +111,7 @@ Estamos viajando em busca de uma
 relíquia chamada Caixa Elísia.<W>
 !------------------------------!
 Ouvimos boatos que sugerem que
-a caixa está conectada a esta
+a caixa está conectada a uma
 estranha cidade...<W>
 !------------------------------!
 Uma cidade fantasma que não aparece
@@ -136,7 +136,7 @@ se estivéssemos num conto de terror.
 !******************************!
 [t13_131_100.gds]
 <01:0000002B><03:5>NONE<03:5>NONE<01:00000003><03:101>Fico só uns minutinhos sentada
-neste sofá e já fico com sono.
+neste sofá e já sinto sono.
 Ele é confortável demais.
 !******************************!
 [t13_140_100.gds]
@@ -198,12 +198,11 @@ No mais, estava para fechar a cozinha
 e descansar até chegarmos a Luxenbelle.<W>
 !------------------------------!
 Boa parte do trem é desligada nessa
-parte da viagem, então sugiro que
+parte da viagem, então recomendo que
 voltem para sua cabine e descansem.
 !******************************!
 [t13_151_100.gds]
-<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:103>
-Quase todo o trem é desligado até
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:103>Quase todo o trem é desligado até
 chegarmos em Luxenbelle, então por que
 não vão descansar na sua cabine?
 !******************************!
@@ -224,16 +223,16 @@ Enquanto estivermos no túnel, nenhuma
 das belas vistas que tanto agradam
 nossos clientes estarão visíveis.<W>
 !------------------------------!
-É o desejo do Sr Beluga que todos
+É o desejo do Sr. Beluga que todos
 os clientes possam admirar a paisagem
 enquanto jantam.<W>
 !------------------------------!
 Assim, chegamos à suspensão
-temporária de nossos serviços.
+temporária dos nossos serviços.
 !******************************!
 [t13_160_400.gds]
 <01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:94>Uau, isso que eu chamo de uma
-operação de classe. O Sr Beluga
+operação de classe. O Sr. Beluga
 realmente pensou em tudo, né?!
 !******************************!
 [t13_161_100.gds]
@@ -242,13 +241,14 @@ mas não estamos abertos no momento.
 Visite-nos mais tarde.
 !******************************!
 [t13_170_100.gds]
-<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:90>
-Finalmente, algo pra fazer. Já faz eras
-desde a última vez fiz alguma coisa.
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:90>Até que enfim, algo pra fazer.
+Já faz eras desde a última vez
+fiz alguma coisa.
 !******************************!
 [t13_170_200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:63>O que quer dizer com isso?
-Você não acabou de consertar o trem?
+Você não acabou de consertar
+o trem?
 !******************************!
 [t13_170_300.gds]
 <01:00000023><03:11>b2 normal2<03:5>NONE<01:00000001><03:100>Acho que sim, mas antes de voltar
@@ -256,11 +256,12 @@ a descansar ... Oops!<W> Hm, quero dizer,
 nada não! Está tudo bem!
 !******************************!
 [t13_171_100.gds]
-<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:92>Finalmente, algo pra fazer. Já faz eras
-desde a última vez fiz alguma coisa.
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:92>Até que enfim, algo pra fazer.
+Já faz eras desde a última vez
+fiz alguma coisa.
 !******************************!
 [t13_180_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Céus! Olhe este lugar! É incrível!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Céus! Olha este lugar! É incrível!
 !******************************!
 [t13_180_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>Sim, ele é bem mais luxuoso que

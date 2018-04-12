@@ -1,0 +1,844 @@
+[t17_010_100.gds]
+<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:9>
+Bem-vindos.
+!******************************!
+[t17_010_200.gds]
+<01:00000001><03:10>b2 normal<03:10>b1 normal<01:00000002><03:213>
+Perdão me intrometar, mas estamos
+investigando as origens desta
+caixa antiga que temos aqui.<W>
+!------------------------------!
+O emblema na sua tampa parece
+estar conectado à sua casa
+de alguma forma.<W>
+!------------------------------!
+Você teria tempo para responder
+algumas peguntas?
+!******************************!
+[t17_010_300.gds]
+<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:90>
+Hm.<W>
+!------------------------------!
+Acho que é melhor tratarem este
+assunto com o mestre. Por favor,
+entrem.
+!******************************!
+[t17_023_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:60>
+Ora, veja este quadro, Luke.
+Esta é Folsense?
+!******************************!
+[t17_023_200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:181>
+Creio que sim. O mote a baixo diz
+que a pintura tem 50 anos de idade.<W>
+!------------------------------!
+É mais ou menos idêntica à vista
+de Folsense que podemos ver pela
+janela, no entanto.
+!******************************!
+[t17_023_300.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:7>
+Hum...
+!******************************!
+[t17_023_400.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:34>
+No que está pensando, Professor?
+!******************************!
+[t17_023_500.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:51>
+Ah, não é nada. Só estava
+refletindo sobre algo.
+!******************************!
+[t17_026_100.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:90>
+Está ficando tarde, Luke. Foi um
+longo dia para nós, então talvez
+seja uma boa hora para descansarmos.
+!******************************!
+[t17_026_200.gds]
+<01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:54>
+É, uma boa noite de sono
+cai bem. Boa noite, Professor.
+!******************************!
+[t17_040_100.gds]
+<01:0000001E><03:5>NONE<03:5>NONE<01:00000002><03:92>
+Ah, maravilha, estão acordados.
+Faz um bom tempo que não dou de
+cara com presas tão... exuberantes.
+!******************************!
+[t17_040_200.gds]
+<01:00000051><03:5>NONE<03:5>NONE<01:00000002><03:54>
+Anton? Que maluquice é esta?<W>
+Grrr! Unnngh!
+!******************************!
+[t17_040_300.gds]
+<01:00000052><03:5>NONE<03:5>NONE<01:00000003><03:30>
+Eu sabia! Você É MESMO um vampiro!
+!******************************!
+[t17_040_400.gds]
+<01:0000001E><03:5>NONE<03:5>NONE<01:00000002><03:281>
+Bom, se é assim, foi bem tolo
+aventurar-se por aqui, não diria?<W>
+!------------------------------!
+Mas receio que seja tarde demais
+agora. Devo dar início aos
+preparativos.<W>
+!------------------------------!
+Nesse meio-tempo, por que não
+ficam aí curtindo a companhia
+de um ao outro?<W>
+!------------------------------!
+Afinal, esta será sua última
+oportunidade.
+!******************************!
+[t17_040_500.gds]
+<01:00000051><03:10>b1 notalk<03:5>NONE<01:00000005><03:8>
+Grrr...
+!******************************!
+[t17_045_100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:50>
+Consegue sentir essa brisa vindo
+de baixo, Luke?
+!******************************!
+[t17_045_200.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:75>
+Uma brisa? De onde será que vem?<W>
+Estamos no subterrâneo, afinal.
+!******************************!
+[t17_045_300.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:87>
+Também achou estranho, então?
+Suponho que simplesmente teremos
+de investigar por conta própria.
+!******************************!
+[t17_050_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>
+Este caldeirão deve ser a fonte
+de alimentação da máquina que
+vimos debaixo da ponte.
+!******************************!
+[t17_050_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:65>
+E para quê você acha que essa
+máquina serve, Professor?
+!******************************!
+[t17_050_300.gds]
+<01:00000001><03:10>b2 normal<03:10>b1 normal<01:00000002><03:152>
+Parece que ela foi usada para
+extrair o ouro que estavam
+minerando aqui embaixo.<W>
+!------------------------------!
+O buraco no chão parece apoiar
+minha hipótese.
+!******************************!
+[t17_050_400.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:54>
+Há uma fumaça imunda
+saindo dali.
+!******************************!
+[t17_060_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>
+Por aqui, não vejo nada...
+!******************************!
+[t17_060_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:181>
+Isso é incomum. Não consigo imaginar
+que Anton e seu mordomo sejam os
+únicos morando em um lugar assim.<W>
+!------------------------------!
+Talvez haja uma ala separada
+para os criados aqui em algum
+lugar.
+!******************************!
+[t17_060_300.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:92>
+Já eu diria que, se houvessem
+mais criados por aqui, já teríamos
+escutado um deles a essa altura.
+!******************************!
+[t17_060_400.gds]
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000002><03:67>
+Hum, é verdade. Pois bem, como
+eu disse, este castelo é
+no mínimo estranho.
+!******************************!
+[t17_063_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:41>
+Dê uma olhada nesta foto,
+Professor.
+!******************************!
+[t17_063_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>
+Ali está ele, todo poderoso.
+O mestre atual do castelo dos
+Herzen.
+!******************************!
+[t17_063_300.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:67>
+Você fala do monstro que nos
+amarrou e tentou beber nosso
+sangue!
+!******************************!
+[t17_063_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:15>
+Que estranho...
+!******************************!
+[t17_063_500.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:85>
+Eu certamente diria que o mais
+estranho mesmo é amarrar pessoas
+e tentar beber o sangue delas!
+!******************************!
+[t17_063_600.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:164>
+Não, Luke, a pintura. Está velha
+e desgastada demais para algo
+feito recentemente.<W>
+!------------------------------!
+Ainda sim você viu Anton com seus
+próprios olhos. O homem e seu
+retrato são praticamente idênticos.
+!******************************!
+[t17_063_700.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:102>
+Se ele não envelhece, ele só
+pode ser um vampiro! Eu sabia.
+Precisamos sair daqui agora!
+!******************************!
+[t17_063_800.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:191>
+Talvez aqueles rumores que ouvimos
+na cidade não o eram de todo
+infundados.<W>
+!------------------------------!
+Mas entrar em pânico nunca
+resolveu nada.<W>
+!------------------------------!
+Por que não paramos um instante
+e clareamos nossas ideias com
+este enigma?
+!******************************!
+[t17_065_100.gds]
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:56>
+Professor, acho que achei uma
+forma da gente sair daqui.
+!******************************!
+[t17_065_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:193>
+Nossa busca nos levou ao castelo
+e estamos a ponto de descobrir o
+que matou Dr. Schrader.<W>
+!------------------------------!
+Temos que investigar este lugar
+atentamente, antes de fugirmos.
+Vejamos o que mais há aqui. 
+!******************************!
+[t17_065_300.gds]
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:59>
+Ahn, Professor, isso não me
+parece uma boa ideia...
+!******************************!
+[t17_065_400.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:156>
+Luke, me ouça. Não podemos dar
+as costas e fugir. Não agora.<W>
+!------------------------------!
+Estamos muito perto de descobrir
+a verdade sobre Folsense e a
+caixa Elísea. Temos que continuar.
+!******************************!
+[t17_067_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:27>
+Regressar à cidade?
+ Sim
+ Não
+!******************************!
+[t17_070_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:25>
+Ah, isso parece-
+!******************************!
+[t17_070_1000.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:93>
+Loucura?<W> Receio não ter entendido.
+Por favor seja honesto conosco.
+O que está havendo aqui?
+!******************************!
+[t17_070_1100.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:107>
+Muito bem. Explicarei tudo, mas
+primeiro precisa ficar o mais longe
+possível desse castelo. Rápido!
+!******************************!
+[t17_070_200.gds]
+<01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:8>
+Katia?!
+!******************************!
+[t17_070_300.gds]
+<01:00000014><03:10>b1 notalk<03:5>NONE<01:00000006><03:4>
+Ah!
+!******************************!
+[t17_070_400.gds]
+<01:00000014><03:10>b1 normal<03:5>NONE<01:00000003><03:29>
+O que vocês dois fazem aqui?
+!******************************!
+[t17_070_500.gds]
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:106>
+Eu digo o mesmo! É perigoso aqui!
+Tem um vampiro aqui no castelo,
+caso não saiba!
+!******************************!
+[t17_070_600.gds]
+<01:00000014><03:9>b1 angry<03:5>NONE<01:00000003><03:40>
+O Anton? Ele não é vampiro.
+Ele é só...
+!******************************!
+[t17_070_700.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:60>
+Estou bastante intrigado, Katia.
+O que sabe sobre esse homem?
+!******************************!
+[t17_070_800.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:6>
+Um...
+!******************************!
+[t17_070_900.gds]
+<01:00000014><03:10>b1 normal<03:5>NONE<01:00000003><03:155>
+Não posso falar disso.<W>
+!------------------------------!
+Além do mais, agora vocês devem
+concentrar seus esforços em
+escapar.<W>
+!------------------------------!
+Se protelarem aqui, a loucura
+os pegará antes mesmo de se
+darem conta.
+!******************************!
+[t17_080_100.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:31>
+Sei onde está a saída. Sigam-me.
+!******************************!
+[t17_080_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:56>
+Como é que você tem relação com
+toda esta situação? Por acaso
+você é-
+!******************************!
+[t17_080_300.gds]
+<01:00000014><03:9>b1 angry<03:5>NONE<01:00000003><03:49>
+Não temos tempo! Vocês tem que
+sair daqui!
+!******************************!
+[t17_110_100.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:31>
+Eu sou sua neta, Anton.
+!******************************!
+[t17_110_200.gds]
+<01:0000001E><03:5>NONE<03:5>NONE<01:00000002><03:77>
+Não seja tonta, menina.
+Olhe para mim! Eu sou muito
+jovem para ser avô de alguém!
+!******************************!
+[t17_110_300.gds]
+<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:153>
+Mas o que vê à sua volta não é
+real. É apenas uma ilusão criada
+por sua própria mente.<W>
+!------------------------------!
+Sua juventude é parte de tal
+ilusão. A verdade é que, bom...
+!******************************!
+[t17_110_400.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:196>
+Por favor, permita-me.<W>
+!------------------------------!
+A mina de ouro construída por seu
+pai, o finado Duke Herzen, fez
+esta cidade crescer e prosperar.<W>
+!------------------------------!
+Mas algo terrível permanecia
+oculto nas profundezas desse
+rico depósito de ouro.
+!******************************!
+[t17_110_450.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:295>
+Sem se dar conta, os mineiros
+perfuraram um depósito de gás
+alucinógeno enquanto mineravam.<W>
+!------------------------------!
+O gás fez com que quem o inalou
+ficasse extremamente suscetível a
+qualquer tipo de sugestão mental.<W>
+!------------------------------!
+As visões apavorantes vistas em
+Folsense então espalharam-se, assim
+criando sua sinistra reputação.
+!******************************!
+[t17_110_460.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:122>
+Na verdade, nem a Folsense que
+vemos diante de nós, nem seus
+habitantes, existem de fato.<W>
+!------------------------------!
+Isso tudo é uma criação de nossas
+mentes.
+!******************************!
+[t17_110_500.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:41>
+Como você chegou nessa conclusão,
+Professor?
+!******************************!
+[t17_110_600.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:286>
+Embora as imagens de Folsense que
+vimos tenham 50 anos, a cidade que
+vemos é idêntica à Folsense de hoje.<W>
+!------------------------------!
+Cidade nenhuma permanece a mesma
+por 50 longos anos.<W>
+!------------------------------!
+As fotos que vimos na estação
+moldou nossa ideia da Folsense
+que veríamos.<W>
+!------------------------------!
+A Folsense de 50 anos atrás...
+!******************************!
+[t17_110_700.gds]
+<01:0000001E><03:8>b2 weep<03:5>NONE<01:00000002><03:57>
+Basta já com essa loucura.
+Folsense é verídica...
+Eu sou verídico...!
+!******************************!
+[t17_110_800.gds]
+<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:158>
+Nada disso é real, vovô. Esta
+cidade é só uma pálida sombra.
+Uma ilusão surgida da ganância.<W>
+!------------------------------!
+Você e Sophia...
+Tudo que vocês conhece mudou
+50 anos atrás.
+!******************************!
+[t17_111_100.gds]
+<01:00000021><03:5>NONE<03:5>NONE<01:00000002><03:80>
+Mas você e eu estamos comprometidos!
+Como pode me deixar aqui?
+Não permitirei!
+!******************************!
+[t17_111_200.gds]
+<01:00000020><03:5>NONE<03:5>NONE<01:00000003><03:79>
+Esta cidade inteira está
+amaldiçoada.<W>
+!------------------------------!
+Se permanecermos aqui, todos os
+meus entes queridos vão morrer.
+!******************************!
+[t17_111_300.gds]
+<01:00000021><03:9>b1 angry<03:5>NONE<01:00000002><03:82>
+Não sou um ente querido seu,
+Sophia? Fique comigo e juntos
+reconstruiremos Folsense.
+!******************************!
+[t17_111_400.gds]
+<01:00000020><03:10>b2 normal<03:5>NONE<01:00000003><03:85>
+Sinto muito, Anton, mas há outro
+alguém que eu amo, e que precisa
+de mim mais do que você.
+!******************************!
+[t17_111_500.gds]
+<01:00000021><03:8>b1 weep<03:5>NONE<01:00000002><03:72>
+Esta é a verdadeira razão pela
+qual quer ir embora? Porque
+há outra pessoa?
+!******************************!
+[t17_112_100.gds]
+<01:0000001E><03:9>b2 weep2<03:5>NONE<01:00000002><03:47>
+Eu confiei em Sophia, e ela me
+deixou por outro!
+!******************************!
+[t17_112_1000.gds]
+<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:129>
+A vovó morreu no ano passado, mas
+ela sempre me falava de você,
+mesmo em seus últimos dias.<W>
+!------------------------------!
+Ela nunca deixou de te amar.
+!******************************!
+[t17_112_200.gds]
+<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:64>
+Você entendeu tudo errado,
+vovô! Ela nunca traiu você.
+!******************************!
+[t17_112_300.gds]
+<01:0000001E><03:8>b2 weep<03:5>NONE<01:00000002><03:6>
+Como é?
+!******************************!
+[t17_112_400.gds]
+<01:00000014><03:10>b1 normal<03:5>NONE<01:00000003><03:112>
+A outra pessoa a quem ela se
+referia era a vida que estava
+crescendo em seu ventre.<W>
+!------------------------------!
+A vida que vocês dois criaram
+juntos.
+!******************************!
+[t17_112_500.gds]
+<01:0000001E><03:9>b1 angry<03:5>NONE<01:00000002><03:21>
+N-não, não pode ser!
+!******************************!
+[t17_112_600.gds]
+<01:00000020><03:10>b2 normal<03:5>NONE<01:00000003><03:85>
+Sinto muito, Anton, mas há outro
+alguém que eu amo, e que precisa
+de mim mais do que você.
+!******************************!
+[t17_112_700.gds]
+<01:0000001E><03:8>b1 weep<03:5>NONE<01:00000002><03:28>
+Eu não sabia. Sophia estava...
+!******************************!
+[t17_112_800.gds]
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:154>
+Isso mesmo, a vovó carregava no
+ventre a minha mãe, e ela deixou
+Folsense para mantê-la a salvo.<W>
+!------------------------------!
+Ela guardou segredo do bebê
+para evitar causar-lhe mais dor.
+!******************************!
+[t17_112_900.gds]
+<01:0000001E><03:8>b2 weep<03:5>NONE<01:00000002><03:20>
+Como eu estive cego...
+!******************************!
+[t17_140_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:93>
+Parece que encontramos as respostas
+que estávamos atrás. Aqui, permita-me
+devolver isto a você.
+!******************************!
+[t17_140_1000.gds]
+<01:0000001F><03:9>b1 smile<03:5>NONE<01:00000002><03:262>
+Ah, bom, na realidade há uma
+segunda maneira de abri-la.<W>
+!------------------------------!
+<''>O sol nasce quando nos olhamos,
+e quando o vento soprar, descobrirás
+o meu interior.<''><W>
+!------------------------------!
+Estas velhas palavras são a chave
+para entender esta caixa e o que ela
+significa. Compreende, garoto?
+!******************************!
+[t17_140_1100.gds]
+<01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:37>
+Eu... acho que sim.
+Deixa eu tentar!
+!******************************!
+[t17_140_1200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:104>
+<''>O sol nasce quando nos olhamos,
+e quando o vento soprar, descobrirás
+o meu interior.<''><W>
+!------------------------------!
+Hum...
+!******************************!
+[t17_140_1300.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:10>
+Consegui!
+!******************************!
+[t17_140_1400.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:4>
+Oh!
+!******************************!
+[t17_140_1500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:19>
+Qual o problema?
+!******************************!
+[t17_140_1600.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:110>
+Esta não é a carta que escrevi!
+A caligrafia é da Sophia!<W>
+!------------------------------!
+A caixa deve ter chegado a ela
+apesar de tudo!
+!******************************!
+[t17_140_200.gds]
+<01:0000001F><03:5>NONE<03:5>NONE<01:00000002><03:11>
+Obrigado.
+!******************************!
+[t17_140_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:38>
+Então, a caixa não era amaldiçoada
+no fim das contas.
+!******************************!
+[t17_140_400.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:349>
+Sim, Luke, não há maldição aqui.<W>
+!------------------------------!
+Porém, suspeito que, no minério
+usado para criar esta caixa, há
+resíduos daquele gás alucinógeno.<W>
+!------------------------------!
+O mesmo gás que levou esta cidade
+à ruína foi lançado nas pessoas
+que tentaram abrir a caixa.<W>
+!------------------------------!
+Aqueles que abriram a caixa
+encontraram a morte, e com isso,
+cumpriram suas próprias predições.
+!******************************!
+[t17_140_500.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:46>
+Suponho que era só uma caixa
+comum, então.
+!******************************!
+[t17_140_600.gds]
+<01:0000001F><03:9>b1 smile<03:5>NONE<01:00000002><03:96>
+Ah, está longe de ser comum, eu
+lhe garanto. A caixa foi criada para
+guardar a mensagem de meu coração.
+!******************************!
+[t17_140_700.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:18>
+O que quer dizer?
+!******************************!
+[t17_140_800.gds]
+<01:0000001F><03:10>b1 smile2<03:5>NONE<01:00000002><03:322>
+A caixa contém uma mensagem
+oculta, criada apenas para
+Sophia.<W>
+!------------------------------!
+Muitos anos atrás, pedi a um
+viajante, que passava pela cidade,
+para entregar a caixa a ela.<W>
+!------------------------------!
+Infelizmente, o valor da caixa
+fez dela um alvo para aqueles
+com cobiça de riquezas.<W>
+!------------------------------!
+E então ela foi roubada várias
+vezes, assim perpetuando toda
+essa série de eventos lamentáveis.
+!******************************!
+[t17_140_900.gds]
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:51>
+Mas nós abrimos a caixa.
+Estava vazia.
+!******************************!
+[t17_150_100.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:10>
+Consegui!
+!******************************!
+[t17_150_200.gds]
+<01:00000053><03:5>NONE<03:5>NONE<01:00000002><03:4>Oh!
+!******************************!
+[t17_150_300.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:19>
+Qual o problema?
+!******************************!
+[t17_150_400.gds]
+<01:00000053><03:5>NONE<03:5>NONE<01:00000002><03:110>
+Esta não é a carta que escrevi!
+A caligrafia é da Sophia!<W>
+!------------------------------!
+A caixa deve ter chegado a ela
+apesar de tudo!
+!******************************!
+[t17_160_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:296>
+Querido Anton, como passa?
+Eu recebi sua carta.<W>
+!------------------------------!
+Apesar de eu ansiar vê-lo outra
+vez, receio que não tenho mais
+forças para fazê-lo.<W>
+!------------------------------!
+Você não imagina quantas vezes
+eu tenho pensado em ti durante
+todos esses anos<W>
+!------------------------------!
+Às vezes me pergunto se você
+me odeia pelo que eu fiz.
+Diga, me odeia?
+!******************************!
+[t17_160_200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:296>
+Quando resolvi ir embora,
+estava grávida de nossa filha.<W>
+!------------------------------!
+Não poderia permitir que minha
+filhinha fosse exposta a tal
+perigo.<W>
+!------------------------------!
+Estava ciente de sua posição como
+pai, e sabia que você não poderia
+ir embora comigo.<W>
+!------------------------------!
+E ainda que eu tenha feito a única
+coisa que pude, sempre me arrependi
+de tê-lo abandonado dessa forma.
+!******************************!
+[t17_160_300.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:391>
+Mas há uma bela flor que nasceu
+em meio a esta lamentável história:
+Katia, nossa preciosa neta.<W>
+!------------------------------!
+Apesar de eu ter lhe abandonado
+por todos esses anos, isso deu-lhe
+a chance de conhecê-la.<W>
+!------------------------------!
+Sua mãe morreu pouco depois da filha
+nascer, mas Katia cresceu e tornou-se
+uma jovem meiga e saudável.<W>
+!------------------------------!
+Sempre que a via sorrir,
+lembrava-me de ti.<W>
+!------------------------------!
+Com ela por perto, eu jamais
+poderia me esquecer de você.
+Nem se eu quisesse.
+!******************************!
+[t17_160_400.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:296>
+Você esteve em meus pensamentos
+desde o dia que nos separamos.<W>
+!------------------------------!
+E agora, apesar de minha hora final
+estar se aproximando, gosto de pensar
+que nos veremos novamente no além.<W>
+!------------------------------!
+A ideia de ver o teu rosto
+aquece-me o coração.<W>
+!------------------------------!
+Cuide-se e seja feliz, meu querido
+Anton. Adeus, mas só por enquanto.
+Com amor, Sophia.
+!******************************!
+[t17_160_500.gds]
+<01:00000053><03:5>NONE<03:5>NONE<01:00000002><03:41>
+Oh, Sophia... finalmente eu entendi.
+!******************************!
+[t17_180_100.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:441>
+E esta foi a história da Caixa
+Elísea, uma relíquia temida pela
+maldição fatal que diziam carregar.<W>
+!------------------------------!
+Mas quando tudo acabou, descobriu-se
+que não havia maldição alguma
+em seu vistoso interior.<W>
+!------------------------------!
+Ao invés disso, o enigma da caixa,
+que não era digna de tal alcunha,
+foi finalmente revelado.<W>
+!------------------------------!
+Era um recipiente projetado para
+conservar o amor de duas almas
+gêmeas durante toda a eternidade.<W>
+!------------------------------!
+Embora a caixa fosse conhecida pelas
+suas histórias assustadoras, no fim
+ela continha uma mensagem de amor.
+!******************************!
+[t17_250_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:89>
+Professor, se queremos sair daqui,
+deveríamos ir para cima, não acha?
+!******************************!
+[t17_260_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:23>
+Esta porta não sai do lugar.
+!******************************!
+[t17_260_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:41>
+Mas não vejo nenhum tipo de
+fechadura nela.
+!******************************!
+[t17_260_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:147>
+Bem observado. Esta porta deve
+estar sendo controlada por algum
+tipo de dispositivo em outra parte.<W>
+!------------------------------!
+Vamos descer daqui, e ver o que
+mais podemos achar.
+!******************************!
+[t17_280_100.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:98>
+Uau! Esse é o quarto mais chique
+que já vi! O Molentary Express
+parece cafona, comparado a isso!
+!******************************!
+[t17_280_200.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:80>
+É um quarto dígno da família
+mais rica e influente de Folsense.
+!******************************!
+[t17_280_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:91>
+Acho difícil acreditar que um
+lugar tão deslumbrante como este
+tem um vampiro à espreita.
+!******************************!
+[t17_280_400.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:99>
+Ah, nunca se sabe, Luke. Talvez o
+próprio Anton seja um vampiro, e
+você só não tenha percebido ainda.
+!******************************!
+[t17_280_500.gds]
+<01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:159>
+O Anton? Duvido! Ele me pareceu
+um sujeito bastante simpático.<W>
+!------------------------------!
+Espera aí, pensei que não você
+não acreditasse em vampiros.
+Está caçoando de mim, Professor?
+!******************************!
+[t17_280_510.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:162>
+De todo modo, agora que falou,
+tem algo estranho acontecendo
+aqui.<W>
+!------------------------------!
+Lembra daquela foto que
+vimos no Museu Herzen?<W>
+Anton estava nela, né?
+!******************************!
+[t17_280_520.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:86>
+O ponto é: a foto foi tirada há
+50 anos, mas Anton não parece
+ter envelhecido um dia sequer.
+!******************************!
+[t17_280_530.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:266>
+Então também está intrigado com
+isso, não é?<W>Não consigo entender
+como isso é possível.<W>
+!------------------------------!
+É especialmente estranho, dado que
+Sr. Beluga claramente envelheceu
+desde que a foto foi tirada.<W>
+!------------------------------!
+Ao que parece, temos que seguir
+investigando tanto Anton como o
+seu castelo.
+!******************************!
+[t17_280_540.gds]
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:55>
+Olha só a famosa intuição de
+Layton agindo de novo!
+!******************************!
+[t17_280_600.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:134>
+Suponho que sim, apesar de não
+achá-la assim tão famosa.<W>
+!------------------------------!
+Por que não começamos explorando
+este quarto do castelo?
+!******************************!
+[t17_280_700.gds]
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:28>
+Boa ideia. Vamos lá!
+!******************************!
