@@ -1,19 +1,19 @@
 [n1.dat]
 <0001>Mapa do Dr. Schrader
 <02><0A><09><08><12><5B><1A><01><00><04><01><FF>
-O mapa que leva à casa do Doutor Schrader
-teve vários pedaços cortados de seu
+O mapa que leva à casa do Dr. Schrader
+teve vários pedaços recortados do seu
 centro. Complete-o deslizando as peças
-com a caneta stylus e os inserindo em seus
-devidos lugares.
+com a caneta stylus e os inserindo-as
+em seus devidos lugares.
 
-Pode soar simples, mas não se esqueça
-que você pode mover ou remover os pedaços,
-incluindo os que já estão no meio do mapa.
+Pode parecer simples, mas não esqueça que
+você pode mover ou remover os pedaços,
+incluindo o que já está no meio do mapa.
 !******************************!
 Ótimo trabalho!
 
-Agora apresse-se pro apartamento
+Agora corra para o apartamento
 do doutor!
 !******************************!
 Que pena!
@@ -23,21 +23,21 @@ tente de novo.
 !******************************!
 Incluindo aquele pedaço que está no centro
 desde o início, você tem seis pedaços para
-movimentar mas apenas cinco espaços para
+movimentar, mas apenas cinco espaços onde
 colocá-los.
 
 Isso significa que um dos pedaços 
-não faz parte do mapa
+não faz parte do mapa.
 !******************************!
 Preste atenção nos pedaços que faltam
-e no resto do mapa. Se conectar os padrões
-das estradas dos cantos de cada pedaço aos
-cantos das partes que faltam, cedo ou tarde
-a resposta aparecerá.
+e no restante do mapa. Se conectar os
+padrões das estradas dos cantos de cada
+pedaço aos cantos das partes que faltam,
+cedo ou tarde a resposta aparecerá.
 !******************************!
 Você percebeu que o pedaço no meio
 do mapa no início do enigma não faz
-parte do mapa e nem da solução?
+parte do mapa, logo nem da solução?
 
 Agora tudo que resta é organizar
 os outros cinco pedaços.
@@ -45,43 +45,47 @@ os outros cinco pedaços.
 [n10.dat]
 <0011>Árvores na Floresta
 <00><14><12><10><12><12><09><0A><EF><03><02><FF>
-A floresta abaixo contém quatro tipos diferentes
-de árvores. Use sua caneta stylus para desenhar
-divisórias na floresta para que você possa formar 
-quatro seções diferentes. Cada seção deve conter
-um tipo de cada árvore, e todas as árvores devem 
-estar conectadas ou horizontalmente ou verticalmente,
-mas não diagonalmente.
+A floresta abaixo contém quatro tipos
+diferentes de árvores. Use sua caneta
+stylus para desenhar divisórias na
+floresta para que você possa formar 
+quatro pedaços diferentes, cada pedaço
+contendo um tipo de cada árvore.
 !******************************!
 Muito bom!
 
-Agora admire o lindo cenário.
+Agora tire um momento pra admirar
+o lindo cenário.
 !******************************!
 Que pena!
 
-Não entre em pânico se você ficar empacado.
-Apenas procure por uma área onde todos os quatro
-tipos de árvores estão conectados .
+Não entre em pânico se você ficar
+trancado. Comece procurando por
+áreas onde os quatro tipos de
+árvores estão conectados.
 !******************************!
-Se você achar duas árvores do mesmo tipo
-próximas umas as outras, então você sabe que
-essas duas devem ser separadas por uma linha.
+Se você achar duas árvores do mesmo
+tipo próximas umas as outras, então
+você sabe que essas duas devem ser
+separadas por uma linha.
 
-Isso deve te ajudar a começar.
+Isso deve lhe ajudar a começar.
 !******************************!
-Vamos nos focar nas árvores no canto inferior
-esquerdo da imagem. Se você desenhou as linhas
-de acordo com as instruções na Dica 1, essa seção
-da imagem deve ser fácil de desvendar. A seção que
-você criou deve ter um formato de L.
+Vamos focar nas árvores no canto inferior
+esquerdo da imagem. Se você desenhou as
+linhas de acordo com as instruções na
+Dica 1, esse pedaço da imagem deve ser
+fácil de desvendar. O pedaço que você
+criou deve ter um formato de L.
 !******************************!
-A árvore no canto superior esquerdo e a
-que está à sua direita pertencem em diferente
-seções. O mesmo se aplica a árvore no canto
-superior direito e aquela diretamente em baixo dela.
+A árvore no canto superior esquerdo
+e a que está à sua direita pertencem
+a diferentes pedaços. O mesmo se aplica
+a árvore no canto superior direito e
+aquela diretamente abaixo dela.
 
-Use essas dicas como um encalço para resolver
-o resto do enigma.
+Use essas dicas como um ponto de partida
+para resolver o resto do enigma.
 
 !******************************!
 [n11.dat]
@@ -90,34 +94,40 @@ o resto do enigma.
 Um homem sentado próximo a você no trem lhe
 mostra um desenho que ele fez. 
 
-<''>Digamos que a imagem tenha uma área total de 10.
-Consegue decifrar o quanto é feito de nuvens e o quanto
-de céu? Não pense que precise adivinhar a resposta. Tem
-um  #rmétodo concreto#x que você pode usar para solucionar.<''>
+<''>Digamos que a imagem tenha uma área
+total de 10. Consegue identificar o quanto
+é feito de nuvens e o quanto de céu?
+Não pense que precise adivinhar a resposta.
+Há uma #rmétodo simples#x que você pode
+usar para descobrir isso.<''>
 
 Quanto da área é céu e quanto é nuvem?
 !******************************!
 Bom trabalho!
 
-A chave aqui é usar os pinos ao redor da imagem para
-dividi-la. Assim que o fizer, ficará claro que B e F, C e I,
-D e G, e E e H são simplesmente pares do mesmo desenho
-com as cores invertidas. Isso significa que nas oito áreas, 
-quatro quadrados são de céu e quatro são nuvens. Os dois quadrados
-remanescentes, A e J, são somente azuis, então no final, seis
+A chave aqui é usar os pinos ao redor
+da imagem para dividi-la. Assim que o
+fizer, ficará claro que B e F, C e I, D e G,
+e E e H são simplesmente pares do mesmo
+desenho, apenas com as cores invertidas.
+Isso significa que nas oito áreas, quatro
+quadrados são de céu e quatro são nuvens.
+Os dois quadrados remanescentes, A e J,
+são somente azuis, então no final, seis
 quadrados são céu e quatro são nuvens.
 !******************************!
 Que pena!
 
 Dê outra longa e cuidadosa olhada no enigma.
 !******************************!
-Olhe mais de perto... Não na imagem em si,
-mas no seu quadro.
+Olhe mais de perto... Não na imagem em
+si, mas na sua moldura.
 
-Você poderia usar os pinos ao redor do quadro
-para simplificar a maneira como vê a imagem.
+Você poderia usar os pinos ao redor
+da moldura para simplificar a maneira
+com que vê a imagem.
 !******************************!
-Dica 1 falou sobre os pinos no quadro.
+A Dica 1 falou sobre os pinos na moldura.
 Percebeu que pode usá-los como guias para 
 dividir a imagem em 10 quadrados.
 
