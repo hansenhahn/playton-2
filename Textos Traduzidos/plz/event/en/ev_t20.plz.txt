@@ -7,8 +7,8 @@ Algum tempo atrás, durante uma de
 suas visitas, ele teve a bondade de
 deixar este mapa para a sua casa.<W>
 !------------------------------!
-Este mapa, contudo, é um pedaço
-de cartografia bastante incomum.<W>
+O mapa, contudo, é um pedaço de
+cartografia bastante incomum.<W>
 Olhe aqui, Luke.
 !******************************!
 [t20_000_200.gds]
@@ -20,13 +20,12 @@ este comigo?<W> Tenho certeza que
 posso resolvê-lo!
 !******************************!
 [t20_001_100.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:82>Antes de irmos, precisamos
-confirmar a localização do
-prédio do Doutor Schrader.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:82>Antes de irmos, precisamos confirmar
+a localização do prédio do Dr. Schrader.
 !******************************!
 [t20_003_100.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:95>Excelente. Com o nosso destino
-confirmado, estamos pronto para fazer
+confirmado, estamos prontos para fazer
 uma visita ao doutor. Vamos!
 !******************************!
 [t20_004_100.gds]
@@ -35,8 +34,7 @@ que parece...
 !******************************!
 [t20_010_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>Este é o apartamento do 
-Doutor Schrader, estou
-certo disso.
+Dr. Schrader, estou certo disso.
 !******************************!
 [t20_010_1000.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Luke, não vê? O doutor
@@ -44,8 +42,8 @@ deixou mais um enigma para
 resolvermos.
 !******************************!
 [t20_010_200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:90>Doutor Schrader? Está em casa?<W>
-É Hershel Layton. Vim logo que
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:90>Dr. Schrader? Está em casa?<W>
+É o Hershel Layton. Vim logo que
 li sua carta.
 !******************************!
 [t20_010_300.gds]
@@ -63,7 +61,7 @@ primeiro.<W>
 Humm, ela parece trancada...
 !******************************!
 [t20_010_600.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:45>Então não há como
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:45>Então não há como 
 entrarmos sem a chave!
 !******************************!
 [t20_010_700.gds]
@@ -91,7 +89,7 @@ outra olhada nestas chaves!
 !******************************!
 [t20_014_100.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:65>Compare as três chaves novamente
-e preste atenção a todos os detalhes.
+e preste atenção em todos os detalhes.
 !******************************!
 [t20_020_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:63>Ah, céus... O rosto dele não está
@@ -113,24 +111,24 @@ Podem sair da frente?
 [t20_020_1300.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:67>Luke, nenhuma palavra sobre
 aquele bilhete para as autoridades,
-pode ser?
+combinado?
 !******************************!
 [t20_020_1400.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:23>Pode deixar, Professor.
 !******************************!
 [t20_020_1500.gds]
 <01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:93>Humm, sim. Vamos ver. O que temos
-aqui?<W> Um assassinato?<W> Ou uma cena
-de suicídio?
+aqui?<W> Um assassinato?<W> Ou a cena
+de um suicídio?
 !******************************!
 [t20_020_1600.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:83>Inspetor, devo lhe dizer que a porta
-estava trancada quando Luke e eu
+estava trancada quando eu e o Luke
 entramos.
 !******************************!
 [t20_020_1700.gds]
 <01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:188>Entendo. Então a porta, o único caminho
-para este apartamento no oitavo andar,
+pra este apartamento no oitavo andar,
 estava bem trancada.<W>
 !------------------------------!
 Então o doutor estava trancado aqui
@@ -151,8 +149,8 @@ conclusão?
 Que outra explicação poderia ser?
 !******************************!
 [t20_020_200.gds]
-<01:00000006><03:6>shout<03:10>b1 normal<01:00000001><03:66>Mas que raios?!<W> Este é meu
-rosto, não uma borracha!
+<01:00000006><03:6>shout<03:10>b1 normal<01:00000001><03:66>Mas que raios?!<W> Este é meu rosto,
+não uma máscara de borracha!
 !******************************!
 [t20_020_2000.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:181>É verdade que este apartamento está
@@ -164,7 +162,7 @@ quarto está completamente sem acesso
 ao mundo lá fora.
 !******************************!
 [t20_020_2100.gds]
-<01:00000006><03:11>b2 suprise<03:5>NONE<01:00000001><03:30>É mesmo? Por favor, continue.
+<01:00000006><03:11>b2 suprise<03:5>NONE<01:00000001><03:30>É mesmo? Por favor, elabore.
 !******************************!
 [t20_020_2200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:100>Não é óbvio?<W> Há uma coisa bastante
@@ -180,8 +178,8 @@ nariz em seu rosto, Inspetor.
 !******************************!
 [t20_020_2500.gds]
 <01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:293>Meh! Aposto que vocês acadêmicos acham
-que suas graduações bestas os preparam
-para brincar de detetive, correto?<W>
+que suas títulos bestas os preparam
+pra brincar de detetive, correto?<W>
 !------------------------------!
 Vou lhe dizer uma coisa, hoje em dia,
 qualquer um parece achar que pode
@@ -199,20 +197,20 @@ enganado.
 [t20_020_2700.gds]
 <01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:180>Pode apostar que esta pilha de ossos
 daria pesadelos em qualquer um. Isso
-foi o que provavelmente aconteceu:<W>
+foi o que provavelmente aconteceu...<W>
 !------------------------------!
 O velho coitado ligou a luz, olhou para
 aquele monstro e caiu bem ali.
 !******************************!
 [t20_020_2800.gds]
-<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:88>Mas...esta é a casa do doutor.
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:88>Mas... esta é a casa do doutor.
 Por que ele se assustaria com os ossos
 que ele mesmo colocou ali?
 !******************************!
 [t20_020_2900.gds]
 <01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:84>As pessoas tendem a perder a memória
-com a idade. Nada que você entenda,
-garoto.
+com a idade. Você é muito jovem para
+entender isso, garoto.
 !******************************!
 [t20_020_300.gds]
 <01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:93>Sinto muito, senhor! Não era minha
@@ -225,7 +223,7 @@ Nada disso faz sentido...
 !******************************!
 [t20_020_3100.gds]
 <01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:73>Senhor...Leitão, certo? Não?
-Ah, sim, Layton. Senhor Layton,
+Ah, sim, Layton. Sr. Layton,
 o que você acha?
 !******************************!
 [t20_020_3200.gds]
@@ -237,7 +235,7 @@ apagadas quando entramos, acho que não
 encontramos nossas respostas ainda.
 !******************************!
 [t20_020_3300.gds]
-<01:00000006><03:11>b2 suprise<03:5>NONE<01:00000001><03:12>Oh, mesmo?
+<01:00000006><03:11>b2 suprise<03:5>NONE<01:00000001><03:12>Oh, é mesmo?
 !******************************!
 [t20_020_3400.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:79>Além disso, olhe em sua volta,
@@ -258,11 +256,11 @@ dia não têm mais modos!
 !******************************!
 [t20_020_500.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:155>Minhas desculpas pela confusão.
-Permita apresentar-me. Chamo-me
+Permita apresentar-me. Me chamo
 Hershel Layton.<W>
 !------------------------------!
 Sou um professor de arqueologia
-na Gressenheller University.
+na Universidade Gressenheller.
 !******************************!
 [t20_020_600.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:30>E eu sou seu aprendiz, Luke!
@@ -279,18 +277,18 @@ mantém uma criança como <''>aprendiz<''>, é?
 como eu tinha dito!
 !******************************!
 [t20_023_100.gds]
-<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:46>É claro! Falta uma cortina nesta
-janela!
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:46>É claro! Falta uma cortina
+nesta janela!
 !******************************!
 [t20_023_1000.gds]
 <01:00000006><03:6>shout<03:10>b1 normal<01:00000001><03:221>Qual é a sua? Você não pode sair
 pegandos as evidências numa cena de
-crime. Tire suas mãos desse...dessa...<W>
+crime. Tire suas mãos desse... dessa...<W>
 !------------------------------!
 O que é isto?<W>
 !------------------------------!
 Hmph, não que importe. Eu vou ficar
-com isto. Agora, rua, vocês dois!
+com isto. Agora, pra rua, vocês dois!
 !******************************!
 [t20_023_1100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:30>Ahh! Mas nós não terminamos!
@@ -306,7 +304,7 @@ por esta janela, e posso apostar que
 é o nosso culpado!
 !******************************!
 [t20_023_400.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:51>Digo que é uma brilhante teoria.
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:51>É uma brilhante teoria.
 Muito bem, meu garoto.
 !******************************!
 [t20_023_500.gds]
@@ -328,11 +326,11 @@ própria?
 !******************************!
 [t20_023_800.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:59>Professor, olhe! Há alguma coisa
-na mão do Doutor Schrader.
+na mão do Dr. Schrader.
 !******************************!
 [t20_023_900.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:103>É uma velha fotografia, mas foi
-rasgada em tantos pedaços que é
+rasgada em tantos pedaços que é quase
 impossível montar a imagem original.
 !******************************!
 [t20_024_100.gds]
