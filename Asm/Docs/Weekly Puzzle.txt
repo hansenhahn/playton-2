@@ -1,0 +1,36 @@
+20f075c -> 2080664 .. r5 = 21fc120          r12 = fffff000    20f0788       Transf
+20f075c -> 2080664 .. r5 = 21fcfa0          r12 = 50000480    20f0798       Config
+20f075c -> 2080664 .. r5 = 21fd040          r12 = 50000700    20f07a8       Voltar
+
+021fc0e0 deve guardar a mem para renderizar o botão Resolver enigmas
+[021fc0e0]! 
+Em 20f0464 é lido do savegame se deve ou não habilitar o botão de Resolver Engimas
+[21e6bcc]?
+    Se 0, não há enigmas
+    Se > 0, há enigmas, sendo o valor a quantidade
+
+[21e6bd4] - Num Enigma
+[21e6bd5] - Ano
+[21e6bd6] - Mês
+[21e6bd7] - Dia
+...
+
+Onde é lido a quantidade de enigmas:
+20f0460         ldr r0,[r0,3ech]            .. mov r0,21h
+20f05a4         ldr r7,[r0,3ech]            .. mov r7,21h
+20f23b4         ldr r12,[r1,3ech]           .. mov r12,21h
+
+Onde são lidos os enigmas:
+20f05bc         ldrb r1,[r0,3f4h]
+20f23d0         ldrb r14,[r14,3f4h]
+
+O endereço de memória, a partir de onde serão lidos os enigmas, são:
+20f05b4         ldr r9,[r5]                .. [020889f4] == 021e67e0
+20f23c4         ldr r14,[r3]               .. [020889f4] == 021e67e0
+
+Overlays envolvidos:
+overlay_019.bin
+- 0x2630    -> 20f23d0
+
+overlay_023.bin
+- 0x81c     -> 20f05bc
