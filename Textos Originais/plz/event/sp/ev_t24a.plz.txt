@@ -1,0 +1,1330 @@
+[t24_000_100.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:211>Ahora est<'a>is en Folsense, donde
+todo es posible.<W>
+!------------------------------!
+Permitidme que os cuente un
+acertijo a modo de bienvenida.<W>
+!------------------------------!
+Tiene que ver con una plaza muy
+parecida a la que est<'a> bajo
+nuestros pies ahora mismo.
+!******************************!
+[t24_001_100.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:75><<5E>?>Quer<'e>is volver a probar suerte
+con el puzle que os cont<'e> antes?
+!******************************!
+[t24_002_100.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:92>Ah, Folsense, qu<'e> gran pueblo...
+Un sitio donde todos los sue<-n>os
+se hacen realidad.
+!******************************!
+[t24_003_100.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:199>Hay un mont<'o>n de gente que viene
+buscando fama y gloria, pero
+vosotros parec<'e>is diferentes.<W>
+!------------------------------!
+Haced caso a la voz de la
+experiencia y no os acerqu<'e>is al
+bosque del noroeste del pueblo.
+!******************************!
+[t24_004_100.gds]
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:94><<5E>?>Yo aqu<'i> intentando daros la
+bienvenida y os escaque<'a>is?<W>
+Pues vaya decepci<'o>n.
+!******************************!
+[t24_020_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:28><<5E>!>Qu<'e> flor tan bonita!
+!******************************!
+[t24_020_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:38><<5E>!>Y adem<'a>s huele estupendamente!
+!******************************!
+[t24_020_300.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:86>Por cierto, Luke, ya que hablamos
+de flores, <<5E>?>has o<'i>do este puzle
+alguna vez?
+!******************************!
+[t24_021_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:88>Luke, me acabo de dar cuenta de
+que todav<'i>a no has resuelto el
+puzle de las rosas.
+!******************************!
+[t24_022_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:87>Pues tiene usted raz<'o>n, profesor.
+Las flores tienen algo que relaja
+un mont<'o>n.
+!******************************!
+[t24_023_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:37><<5E>!>Ya est<'a>! Otro puzle resuelto.
+!******************************!
+[t24_023_1000.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:75>Mi teor<'i>a es que las rosas
+que Sam coloc<'o> nos dejaron
+sin sentido.
+!******************************!
+[t24_023_1100.gds]
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:82><<5E>!>Y mientras todo el mundo dorm<'i>a,
+uno de los vagones cambi<'o> de v<'i>as!
+!******************************!
+[t24_023_1200.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:155>En efecto, muchacho. Estoy seguro
+de que en ese momento alguien
+separ<'o> el vag<'o>n.<W>
+!------------------------------!
+De esta manera, solo lleg<'o> a
+Folsense el vag<'o>n de lujo.
+!******************************!
+[t24_023_200.gds]
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:82>No hay nada m<'a>s relajante para
+una habitaci<'o>n que un buen ramo
+de flores.
+!******************************!
+[t24_023_300.gds]
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:87><<5E>!>Pues s<'i>! Como las flores de
+los compartimentos de lujo del
+Molentary Express.
+!******************************!
+[t24_023_400.gds]
+<01:00000001><03:9>b1 smile<03:10>b1 normal<01:00000002><03:124>Ah, s<'i>, las flores que puso el
+revisor.<W>
+!------------------------------!
+Pero... <<5E>!>Por supuesto! No puedo
+creer que no se me haya ocurrido
+antes.
+!******************************!
+[t24_023_500.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:35><<5E>?>A qu<'e> se refiere, profesor?
+!******************************!
+[t24_023_600.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:70>Luke, <<5E>?>recuerdas algo de cuando
+el vag<'o>n cambi<'o> de v<'i>as?
+!******************************!
+[t24_023_700.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:94>Pues... la verdad es que no mucho.
+Como me qued<'e> dormido, todo est<'a>
+bastante borroso.
+!******************************!
+[t24_023_800.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:212>Claro que s<'i>. No es una coincidencia
+que nos entrara sue<-n>o de repente.<W>
+!------------------------------!
+Es m<'a>s, tampoco creo que nos
+despert<'a>ramos en Folsense
+por casualidad...<W>
+!------------------------------!
+Creo que todo formaba parte de
+alg<'u>n plan.
+!******************************!
+[t24_023_900.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:36><<5E>?>De qu<'e> plan habla, profesor?
+!******************************!
+[t24_024_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:32>Vaya... este es muy complicado.
+!******************************!
+[t24_030_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:23>Vaya, qu<'e> desastre.
+!******************************!
+[t24_030_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:29><<5E>?>Qu<'e> sucede, se<-n>or?
+!******************************!
+[t24_030_300.gds]
+<01:00000019><03:10>b1 normal<03:5>NONE<01:00000001><03:261>Pues resulta que ten<'i>a aqu<'i> unas
+cartas colocadas en un orden
+espec<'i>fico.<W>
+!------------------------------!
+Como hoy estoy tan patoso,
+se me han ca<'i>do al suelo y
+se me han desordenado.<W>
+!------------------------------!
+Lo peor de todo es que no
+creo que pueda venderlas hasta
+que no las vuelva a ordenar.
+!******************************!
+[t24_030_400.gds]
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:95><<5E>!>Yo me ocupo! Le aseguro que
+las cartas estar<'a>n ordenadas
+en menos que canta un gallo.
+!******************************!
+[t24_031_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:46><<5E>?>Has vuelto para echarme una
+mano, joven?
+!******************************!
+[t24_032_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:87>Cada una de las piezas que hay aqu<'i>
+es muy cara, as<'i> que tengan mucho
+cuidado.
+!******************************!
+[t24_033_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:22><<5E>!>Hala, ya est<'a>!
+!******************************!
+[t24_033_200.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:84><<5E>!>Qu<'e> gran trabajo, joven! Vaya
+mano que tienes con los puzles
+para tu edad.
+!******************************!
+[t24_033_300.gds]
+<01:00000002><03:9>b4 laugh<03:5>NONE<01:00000003><03:24>Je, je. Muchas gracias.
+!******************************!
+[t24_034_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:80><<5E>?>Es demasiado dif<'i>cil para ti?
+Con todas las esperanzas que
+ten<'i>a...
+!******************************!
+[t24_040_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:133>Los puzles me gustan incluso m<'a>s
+que las antig<:u>edades.<W>
+!------------------------------!
+Tengo aqu<'i> un puzle de <'e>poca
+que me gustar<'i>a plantearles.
+!******************************!
+[t24_040_200.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:28>Nos encantar<'i>a o<'i>rlo.
+!******************************!
+[t24_040_300.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:102>Magn<'i>fico. Este puzle tiene que
+ver con un jarr<'o>n muy raro que
+est<'a> expuesto ah<'i> mismo.
+!******************************!
+[t24_041_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:72><<5E>?>Han vuelto para intentar
+resolver el puzle del jarr<'o>n
+del rey?
+!******************************!
+[t24_042_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:196>Hay mucha gente en este pueblo
+que aprecia m<'a>s el oro que otras
+cosas de gran valor.<W>
+!------------------------------!
+Para m<'i>, los verdaderos tesoros
+de Folsense son los objetos que
+han sido testigos de su historia.
+!******************************!
+[t24_043_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:81>Muy bien hecho. Es raro ver
+a alguien tan ingenioso en
+los tiempos que corren.
+!******************************!
+[t24_044_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:78><<5E>?>No est<'a>n a la altura de este puzle
+cl<'a>sico?<W> Qu<'e> decepci<'o>n.
+!******************************!
+[t24_050_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:358>Mmm... Este t<'e> es insuperable.<W>
+!------------------------------!
+Aunque bien es cierto que todo
+lo que se hace con maestr<'i>a
+resulta impresionante.<W>
+!------------------------------!
+Vean, por ejemplo, este texto tan
+antiguo y raro que forma parte
+de mi colecci<'o>n.<W>
+!------------------------------!
+Esconde un puzle que ha avivado
+la imaginaci<'o>n de varias
+generaciones.<W>
+!------------------------------!
+<<5E>?>No se lo creen?<W> Tengan, echen
+un vistazo y me cuentan.
+!******************************!
+[t24_051_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:39><<5E>?>Han venido a intentarlo otra
+vez?
+!******************************!
+[t24_052_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:180>No sab<'i>a que alguien tan joven
+pudiera entender el verdadero
+valor de las cosas.<W>
+!------------------------------!
+Siempre hab<'i>a pensado que esa
+virtud no se daba en las
+generaciones m<'a>s recientes.
+!******************************!
+[t24_053_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:168><<5E>!>Bien hecho! Ver tanto ingenio me
+da esperanzas en la juventud.<W>
+!------------------------------!
+En un pueblo tan codicioso como
+Folsense, conocer a alguien as<'i> es
+un soplo de aire fresco.
+!******************************!
+[t24_054_100.gds]
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:60>Supongo que no les interesan
+mis antiguallas. Qu<'e> pena.
+!******************************!
+[t24_060_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:42>Profesor, creo que aqu<'i> hay un
+puzle.
+!******************************!
+[t24_061_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:37>Aqu<'i> est<'a> este puzle otra vez.
+!******************************!
+[t24_062_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:1>
+!******************************!
+[t24_063_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Parece que ese puzle no le ha
+resultado nada f<'a>cil, profesor.
+!******************************!
+[t24_064_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:83>Si este puzle le est<'a> dando
+problemas a usted, seguro
+que es dificil<'i>simo.
+!******************************!
+[t24_070_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:64>Hola, colegas. <<5E>?>Han encontrado ya
+la cosa esa que buscaban?
+!******************************!
+[t24_070_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:139>Gracias por preguntar. Estamos
+progresando adecuadamente.<W>
+!------------------------------!
+Por cierto, <<5E>?>no tendr<'i>a que estar
+el revisor siempre dentro del tren?
+!******************************!
+[t24_070_300.gds]
+<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:342><<5E>!>Bah! Estoy harto de ese tren.
+Adem<'a>s, hoy es mi d<'i>a libre.<W>
+!------------------------------!
+Y mire c<'o>mo me va. Primero
+me mandan a fisgar por la caja
+esa y luego me acusan de un crimen.<W>
+!------------------------------!
+<<5E>!>Vaya cachondeo! <<5E>!>Sammy
+Thunder no es ning<'u>n asesino!<W>&setani 8 b1_normal&
+!------------------------------!
+Despu<'e>s de toda esta locura,
+lo mejor es un puzle para
+calmar los nervios.
+!******************************!
+[t24_071_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:94><<5E>?>Est<'a>n listos para darle ca<-n>a a
+este puzle otra vez? <<5E>!>Les va a
+poner las pilas!
+!******************************!
+[t24_072_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:144><<5E>?>Y ahora qu<'e> hago yo todo el d<'i>a?<W>
+!------------------------------!
+Me encantar<'i>a quedarme aqu<'i>
+tranquilito, pero seguro que el
+jefe se mosquea un montonazo.
+!******************************!
+[t24_073_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:368><<5E>!>Respuesta correcta, colega!
+Es m<'a>s, yo dir<'i>a que ha sido
+digna de un...<W> <<5E>!>YEEEEAH!<W>
+!------------------------------!
+Le dir<'e> que mi jefe tiene
+mucha potra. Si tiene hasta
+su propio tren...<W>
+!------------------------------!
+Y aqu<'i> estamos, en este pueblo
+perdido, buscando la fortuna
+de un ricach<'o>n.<W>
+!------------------------------!
+Hombre, un poco de pasta nunca
+est<'a> de m<'a>s, pero a veces el
+jefe se pone en plan mezquino.
+!******************************!
+[t24_074_100.gds]
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:42>Venga, no mola nada que me
+dejen as<'i>.
+!******************************!
+[t24_080_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:148>Lo siento, se<-n>or, pero no puede
+pasar as<'i>. Tenemos ciertas
+normas de etiqueta.<W>
+!------------------------------!
+Por favor, deme el sombrero
+y lo pondr<'e> con el resto.
+!******************************!
+[t24_080_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:116>Normas de etiqueta, <<5E>?>eh?<W> Vaya,
+qu<'e> inoportuno.<W>
+!------------------------------!
+<<5E>?>Dice usted que podemos pasar si
+le doy un sombrero?
+!******************************!
+[t24_081_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:70>Lo siento, se<-n>or. Si quieren pasar,
+me tiene que dar el sombrero.
+!******************************!
+[t24_082_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:63>Son ustedes los dos clientes m<'a>s
+raros que he visto nunca.
+!******************************!
+[t24_083_100.gds]
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:75><<5E>!>Ya est<'a>! Aqu<'i> tiene el sombrero,
+tal y como me hab<'i>a pedido.
+!******************************!
+[t24_083_200.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:8><<5E>?>Eh?
+!******************************!
+[t24_083_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:53>Profesor, me parece que no es eso
+lo que quer<'i>a.
+!******************************!
+[t24_083_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:61>Sea como sea, yo no me quito el
+sombrero. V<'a>monos, Luke.
+!******************************!
+[t24_083_500.gds]
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:39>Pero... <<5E>!>si estoy muerto de hambre!
+!******************************!
+[t24_083_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:70>Luke, no me pienso quitar el
+sombrero. Esa es mi <'u>ltima
+palabra.
+!******************************!
+[t24_083_700.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:26>A m<'i> esto me supera...
+!******************************!
+[t24_084_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:86>Lo siento, pero las normas son las
+normas. Si no me da el sombrero,
+no puede pasar.
+!******************************!
+[t24_090_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:80>El negocio va de mal en peor.
+Como no hay clientes, no tengo
+mucho que hacer.
+!******************************!
+[t24_090_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:62><<5E>?>Tiene otras obligaciones adem<'a>s
+de guardar la puerta?
+!******************************!
+[t24_090_300.gds]
+<01:0000001B><03:10>b1 normal<03:5>NONE<01:00000001><03:197>S<'i>, hago alg<'u>n que otro recado.
+Por ejemplo, el otro d<'i>a el jefe
+me mand<'o> a hacer copias del men<'u>.<W>
+!------------------------------!
+Como es un rollo, siempre me toca
+a m<'i>. <<5E>?>Qu<'e>, se animan a ayudarme?
+!******************************!
+[t24_091_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:48><<5E>?>Al final me van a ayudar
+con los men<'u>s?
+!******************************!
+[t24_092_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:200>Este restaurante tiene una larga
+tradici<'o>n como punto de encuentro
+de la <'e>lite de Folsense.<W>
+!------------------------------!
+Por eso es mi deber como portero
+no dejar pasar a nadie que no
+respete las normas de etiqueta.
+!******************************!
+[t24_093_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:102>Ah, entonces as<'i> es como se hace.
+Y yo pensando que tendr<'i>a que
+hacer un curso o algo as<'i>.
+!******************************!
+[t24_093_200.gds]
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:103>Puede que haya mejores formas
+de hacerlo. <<5E>?>Seguro que a su jefe
+no le importa que lo haga as<'i>?
+!******************************!
+[t24_093_300.gds]
+<01:0000001B><03:11>b1 normal2<03:5>NONE<01:00000001><03:105><<5E>!>Je, je! No creo que nadie se d<'e>
+cuenta. Normalmente todos est<'a>n
+ocupados eligiendo un plato.
+!******************************!
+[t24_093_400.gds]
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:20>Si usted lo dice...
+!******************************!
+[t24_094_100.gds]
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:85>Bah, da igual, ya me apa<-n>ar<'e> yo
+de alguna manera. Perd<'o>n por
+molestarles.
+!******************************!
+[t24_100_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:88>Pero qu<'e> hombre m<'a>s alto y
+elegante. <<5E>?>Quiere entrar a
+ver el espect<'a>culo?
+!******************************!
+[t24_100_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:54>Lo lamento, se<-n>orita, pero
+ahora mismo estamos...
+!******************************!
+[t24_100_300.gds]
+<01:0000001C><03:10>b1 smile2<03:5>NONE<01:00000003><03:173><<5E>!>Ay, qu<'e> mono, pero si es t<'i>mido!<W>
+No te preocupes, cielo, que no
+muerdo. <<5E>!>Ji, ji, ji!<W>
+!------------------------------!
+<<5E>?>Y este chico tan guapo que viene
+con usted? <<5E>!>Qu<'e> ricura!
+!******************************!
+[t24_100_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:16><<5E>?>Yo? Esto...
+!******************************!
+[t24_100_500.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:91>Disculpe que cambie de tema, pero
+he visto al Sr. Beluga entrando
+en su establecimiento.
+!******************************!
+[t24_100_600.gds]
+<01:0000001C><03:10>b1 normal<03:5>NONE<01:00000003><03:27>Ah, <<5E>?>es usted su amigo?
+!******************************!
+[t24_100_700.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:72>S<'i>, algo as<'i>.<W> D<'i>game, <<5E>?>viene
+muy a menudo el Sr. Beluga?
+!******************************!
+[t24_100_800.gds]
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:241>El Sr. Beluga es un entusiasta
+del arte. No puedo decirle
+mucho m<'a>s.<W>
+!------------------------------!
+Aunque... no me puedo resistir
+a un hombre tan guapo y tan
+caballeroso.<W>
+!------------------------------!
+Si es usted tan inteligente como
+aparenta, a lo mejor puedo soltar
+alg<'u>n detalle.
+!******************************!
+[t24_101_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:39>Ji, ji... <<5E>?>Han vuelto a por m<'a>s?
+!******************************!
+[t24_102_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:96>No tengo nada m<'a>s que contarle
+sobre el Sr. Beluga.<W> Soy
+una artista, no un peri<'o>dico.
+!******************************!
+[t24_103_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:283>Vaya, no solo es guapo sino
+tambi<'e>n espabilado. Esto no
+se ve todos los d<'i>as.<W>
+!------------------------------!
+Bueno, pues le dir<'e> que el Sr.
+Beluga est<'a> buscando algo, pero
+no s<'e> qu<'e>.<W>
+!------------------------------!
+Lo que s<'i> puedo decirle es que
+no le debe de ir muy bien, ya que
+siempre est<'a> de malas pulgas.
+!******************************!
+[t24_103_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:111><<5E>?>Nunca le ha dicho lo que buscaba?
+<<5E>?>Podr<'i>a haber mencionado la Caja
+El<'i>sea o la caja de Pandora?
+!******************************!
+[t24_103_300.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:185>Pues... Aqu<'i> trabajaba una chica
+muy guapa llamada Pandora, pero
+de cajas no s<'e> nada.<W>
+!------------------------------!
+Sea lo que sea, le he o<'i>do decir
+que no se detendr<'a> ante nada para
+conseguirlo.
+!******************************!
+[t24_104_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:51>No puedo decirle nada m<'a>s sobre
+el Sr. Beluga.
+!******************************!
+[t24_110_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:81>Ya sab<'i>a yo que s<'i> que quer<'i>as
+entrar a echar un vistazo,
+peque<-n>o.
+!******************************!
+[t24_110_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:24>Eh... No, yo... Esto...
+!******************************!
+[t24_110_300.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:124><<5E>!>Oooh, mira c<'o>mo se sonroja!
+Pero qu<'e> timidillo.<W>
+!------------------------------!
+Anda, intenta resolver este puzle,
+que seguro que te relaja.
+!******************************!
+[t24_111_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:26><<5E>?>Qu<'e>, otro intento?
+!******************************!
+[t24_112_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:116>Si alg<'u>n d<'i>a necesitan desconectar,
+no duden en venir.<W> <<5E>!>Nada relaja m<'a>s
+que una noche en el teatro!
+!******************************!
+[t24_113_100.gds]
+<01:0000001C><03:9>b2 smile<03:5>NONE<01:00000003><03:101>Pero qu<'e> chaval m<'a>s listo. Me
+encantan los chicos espabilados.
+Me derrito con ellos, ji, ji.
+!******************************!
+[t24_113_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:25><<5E>?>Yo? <<5E>?>Li... Listo?
+!******************************!
+[t24_113_300.gds]
+<01:0000001C><03:11>b1 normal2<03:5>NONE<01:00000003><03:90><<5E>!>Ay, qu<'e> preciosidad, si se ha
+puesto rojo otra vez!<W> <<5E>!>Vuelve
+cuando quieras!
+!******************************!
+[t24_114_100.gds]
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:47><<5E>?>Qu<'e> pasa, monada? <<5E>?>No lo
+entiendes?
+!******************************!
+[t24_120_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:98>Profesor, no estamos lejos del
+estudio de fotograf<'i>a. <<5E>?>Por
+qu<'e> no pasamos por all<'i>?
+!******************************!
+[t24_120_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:79>Buena idea. Puede que alguien
+nos pueda ayudar con nuestra
+investigaci<'o>n.
+!******************************!
+[t24_120_300.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:197>F<'i>jate en estas fotos, Luke.
+Quien las hizo tiene una t<'e>cnica
+excelente.<W>
+!------------------------------!
+Sin embargo, no est<'a>n dispuestas
+en orden temporal.<W>
+!------------------------------!
+<<5E>?>Crees que puedes ordenarlas
+cronol<'o>gicamente?
+!******************************!
+[t24_121_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:77>Coloca las fotograf<'i>as de acuerdo
+con el orden en el que fueron
+hechas.
+!******************************!
+[t24_122_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:64>Estas fotos est<'a>n muy bien
+conservadas para ser tan viejas.
+!******************************!
+[t24_123_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:98>Bien hecho. A juzgar por estas
+fotograf<'i>as, Folsense tiene una
+historia larga e interesante.
+!******************************!
+[t24_123_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:122><<5E>!>Qu<'e> bien! Si tuvi<'e>ramos suficientes
+fotos, seguro que podr<'i>amos ver
+en detalle la evoluci<'o>n del pueblo.
+!******************************!
+[t24_123_300.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:92>Muy cierto, Luke. Pero, si estas
+fotos son tan viejas, <<5E>?>por qu<'e>
+parecen tan nuevas?
+!******************************!
+[t24_123_400.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:50>Ahora que lo menciona, s<'i> que
+parecen nuevas.
+!******************************!
+[t24_123_500.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:159>Cuando las fotos son tan viejas,
+lo l<'o>gico es que la imagen se
+deteriore.<W>
+!------------------------------!
+Me pregunto qu<'e> m<'e>todo us<'o> el
+artista para conservarlas tan
+bien.
+!******************************!
+[t24_124_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:35>Observa las fotos con atenci<'o>n.
+!******************************!
+[t24_130_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:193>Nadie quiere jugar nunca conmigo,
+as<'i> que siempre estoy solo.<W>
+<<5E>!>Qu<'e> rollazo!<W>
+!------------------------------!
+<<5E>?>Y usted, se<-n>or? <<5E>?>Quiere jugar
+a un juego muy d<'i>ver llamado
+<''>Resuelve el puzle<''>?
+!******************************!
+[t24_131_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:39><<5E>!>Hola, se<-n>or! <<5E>!>Vamos a jugar!
+!******************************!
+[t24_132_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:110>Antes iba siempre corriendo, pero
+ahora me canso mucho. <<5E>?>Cree que
+me estar<'e> haciendo viejo, se<-n>or?
+!******************************!
+[t24_133_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:159>Ya sab<'i>a que ese puzle ser<'i>a muy
+f<'a>cil para ustedes, pero solo
+soy un ni<-n>o...<W>
+!------------------------------!
+A lo mejor los adultos del pueblo
+se saben alguno m<'a>s guay.
+!******************************!
+[t24_134_100.gds]
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:67>Eh, <<5E>?>ad<'o>nde van? <<5E>!>Si todav<'i>a no
+han acabado el puzle!
+!******************************!
+[t24_140_100.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:54>Muy buenas, caballeros. <<5E>?>Puedo
+ayudarles en algo?
+!******************************!
+[t24_140_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>Necesitamos urgentemente algo de
+comida para un perro hambriento.
+<<5E>?>Tiene algo que pueda servir?
+!******************************!
+[t24_140_300.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:176>Je, je, esta va a ser la compra
+m<'a>s rara que me hagan en todo
+el d<'i>a.<W>
+!------------------------------!
+Pues no tengo pienso, pero seguro
+que estos restos de pierna de
+cordero le gustan al chucho.
+!******************************!
+[t24_140_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:48>Perfecto. <<5E>?>Le importa que
+nos los llevemos?
+!******************************!
+[t24_140_500.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:66>La verdad es que no, pero espero
+que a su perro le guste el ajo.
+!******************************!
+[t24_140_600.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:49>Estoy convencido de que no
+ser<'a> un problema.
+!******************************!
+[t24_140_700.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:179>Bien, bien. No les cobrar<'e>, pero
+espero que a cambio me ayuden
+con este puzle.<W>
+!------------------------------!
+Llevo toda la semana intentando
+dar con la soluci<'o>n. <<5E>!>Es que
+ya no puedo ni dormir!
+!******************************!
+[t24_141_800.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:52>Ah, ah<'i> est<'a>n. <<5E>?>Me ayudan con
+este puzle?
+!******************************!
+[t24_142_1000.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:199>Ni<-n>o, t<'u> di lo que quieras del
+ajo, pero es lo <'u>nico que ahuyenta
+a los vampiros.<W>
+!------------------------------!
+Aunque, tal y como va el negocio,
+estoy empezando a pensar que
+tambi<'e>n ahuyenta a los clientes...
+!******************************!
+[t24_142_900.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:62>Puf, con este olor a ajo me est<'a>
+dando vueltas la cabeza.
+!******************************!
+[t24_143_1100.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:131>Mucho les tiene que gustar el ajo
+para resolver ese puzle.<W>
+!------------------------------!
+Se han ganado la pierna de
+cordero de la que habl<'a>bamos
+antes.
+!******************************!
+[t24_143_1200.gds]
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:22>Has conseguido carne.
+!******************************!
+[t24_144_1300.gds]
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:104><<5E>?>Es que no se acuerdan del trato?
+Se pueden llevar la pierna de
+cordero cuando resuelvan el puzle.
+!******************************!
+[t24_150_100.gds]
+<01:0000004C><03:5>NONE<03:5>NONE<01:00000003><03:93>La tienda de pap<'a> huele tan mal
+que si no salgo aqu<'i> a jugar, a lo
+mejor me desmayo.
+!******************************!
+[t24_150_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:48>Claro, es que esas lili<'a>ceas
+te dejan lila.
+!******************************!
+[t24_150_300.gds]
+<01:0000004C><03:9>b1 smile<03:5>NONE<01:00000003><03:110>Bueno, es igual. He tra<'i>do algo
+para picar, as<'i> que por lo menos
+no me aburro.<W> <<5E>?>Quieres un poco?
+!******************************!
+[t24_151_100.gds]
+<01:0000004C><03:5>NONE<03:5>NONE<01:00000003><03:32>Vamos a repartir mis caramelos.
+!******************************!
+[t24_152_100.gds]
+<01:0000004C><03:5>NONE<03:5>NONE<01:00000003><03:113>Pap<'a> tiene cosas muy ricas en la
+tienda, pero ser<'a> mejor que se
+tapen la nariz mientras est<'e>n ah<'i>.
+!******************************!
+[t24_153_100.gds]
+<01:0000004C><03:5>NONE<03:5>NONE<01:00000003><03:50><<5E>!>Bien! <<5E>!>Ya est<'a>! Toma, coge unos
+pocos.
+!******************************!
+[t24_153_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:110><<5E>!>Vale! <<5E>!>Muchas gracias! <-N>am,
+<-n>am, <-n>am...<W>&setani 2 b1_weep&
+!------------------------------!
+<<5E>!>Puaaaj! <<5E>!>Si saben a ajo!
+!******************************!
+[t24_153_300.gds]
+<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:78><<5E>!>Vaya! Pues va a ser por el ajo de
+pap<'a>. Tendr<'e> que tirar el resto.
+!******************************!
+[t24_154_100.gds]
+<01:0000004C><03:5>NONE<03:5>NONE<01:00000003><03:50><<5E>?>Qu<'e> pasa? <<5E>?>No te gustan los
+caramelos?
+!******************************!
+[t24_160_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:71><<5E>!>Eh, vampiros! <<5E>!>Volved a las
+tinieblas de las que proced<'e>is!
+!******************************!
+[t24_160_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:28><<5E>?>Est<'a> bien, se<-n>or?
+!******************************!
+[t24_160_300.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:130><<5E>?>Eh? <<5E>?>Qui<'e>n anda ah<'i>?<W>
+!------------------------------!
+<<5E>!>Bah, no s<'e> ni para qu<'e> pregunto,
+se ve a la legua que sois esbirros
+del vampiro!
+!******************************!
+[t24_160_400.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:105><<5E>!>Eh, un momento! <<5E>?>De qu<'e> habla?
+Solo hemos venido a investigar
+porque hemos o<'i>do un grito.
+!******************************!
+[t24_160_500.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:187><<5E>!>Mientes! <<5E>!>Tus habilidades
+vamp<'i>ricas no conseguir<'a>n
+confundirme!<W>
+!------------------------------!
+<<5E>!>Si de verdad quer<'e>is convencerme
+de que no sois vampiros, ya est<'a>is
+resolviendo este puzle!
+!******************************!
+[t24_161_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:99>Primero dec<'i>s que vais a resolver
+este puzle y luego os rend<'i>s.
+<<5E>!>T<'i>pico de vampiros!
+!******************************!
+[t24_162_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:72><<5E>?>Veis ese castillo de ah<'i>?<W>
+Pues esa es la guarida del vampiro.
+!******************************!
+[t24_162_200.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:173>Siempre lo veo por la ventana,
+pase<'a>ndose como un pavo real
+con su capa al aire...<W>
+!------------------------------!
+Me tiene cruzado, igual que
+a cualquiera que se atreviera
+a defender el pueblo.
+!******************************!
+[t24_163_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:205>No est<'a> mal para un vampiro.<W>
+A no ser que... <<5E>!>Vaya! <<5E>!>Puede que
+al final no se<'a>is vampiros!<W>
+!------------------------------!
+En ese caso, ser<'a> mejor que
+teng<'a>is cuidado con el castillo
+que se ve en la distancia.
+!******************************!
+[t24_163_200.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:106>Es el escondrijo de la criatura
+m<'a>s temible conocida por el hombre.
+Un... vampiro. De los de verdad.
+!******************************!
+[t24_163_300.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:26><<5E>?>Un verdadero vampiro?
+!******************************!
+[t24_163_400.gds]
+<01:00000042><03:10>b1 notalk<03:5>NONE<01:00000004><03:16>Como lo o<'i>s.
+!******************************!
+[t24_164_100.gds]
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:119>Vaya, as<'i> que no pod<'e>is resolver mi
+puzle.<W> <<5E>!>Es evidente que form<'a>is
+parte de la sociedad vamp<'i>rica!
+!******************************!
+[t24_170_100.gds]
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:116><<5E>!>Hello, my good amico! <<5E>!>Cu<'a>n happy
+estoy de verles! Pensaba que not
+volver<'i>a a ver a nadie en la vie.
+!******************************!
+[t24_170_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:23><<5E>!>Eh, yo le conozco!
+!******************************!
+[t24_170_300.gds]
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:165>Estaba viajando por el mondo
+en tr<'a>nsito a Egipto y me perd<'i>
+en el middle of the way.<W>
+!------------------------------!
+<<5E>?>Tienen idea de las centurias
+que tienen aquestas pir<'a>mides?
+!******************************!
+[t24_170_400.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:93>Se<-n>or, lamento decirle que no est<'a>
+en Egipto. <<5E>?>Recuerda c<'o>mo lleg<'o>
+aqu<'i>?
+!******************************!
+[t24_170_500.gds]
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:268>Me ha pillado, monsieur.<W>
+!------------------------------!
+Un minuten estoy yendo a
+<'A>frica y al minuten siguienten
+aparezco aqu<'i> comme si nada.<W>
+!------------------------------!
+Como no ve<'i>a a nobody empec<'e>
+a tocar esta cosa y creo
+que ahora est<'a> kaput.<W>
+!------------------------------!
+Arigato si me arrojara una mano,
+s'il vous pla<<5E>i>t.
+!******************************!
+[t24_171_100.gds]
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:92>Ah, bonjour. Porfa-please,
+ay<'u>denme con aqueste puzle. Es
+dif<'i>cil hasta decir stop.
+!******************************!
+[t24_172_100.gds]
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:100><<5E>!>Konnichiwa! <<5E>?>Qu<'e> hago eu aqu<'i>?<W>
+Si ten<'i>a que <<5E>e>tre en un tren
+camino de Egypt.
+!******************************!
+[t24_173_100.gds]
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:95><<5E>!>Ah, wunderbar! Un mill<'o>n de
+arigatos, mein ami. Por fin posso
+salir de ici tranquilo.
+!******************************!
+[t24_174_100.gds]
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:83><<5E>!>Help, mister, no voy a poder
+sortir de aqu<'i> tranquilo sin
+facer el puzle!
+!******************************!
+[t24_180_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:41>Mire, profesor, en esta pared hay
+algo.
+!******************************!
+[t24_180_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:68>Yo dir<'i>a que es un puzle. <<5E>?>Por qu<'e>
+no echamos un vistazo?
+!******************************!
+[t24_181_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:36>Muy bien, intent<'e>moslo de nuevo.
+!******************************!
+[t24_182_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:81>Seguro que todos los que
+trabajaban aqu<'i> ten<'i>an que
+resolver este puzle.
+!******************************!
+[t24_182_200.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:54>En ese caso, deb<'i>an de ser
+bastante inteligentes.
+!******************************!
+[t24_183_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:137><<5E>!>Ya est<'a> resuelto!<W>
+!------------------------------!
+Qu<'e> raro, <<5E>?>verdad, profesor?
+<<5E>?>Por qu<'e> se iba a molestar nadie
+en poner un puzle justo aqu<'i>?
+!******************************!
+[t24_183_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:90>Quiz<'a>s los mineros se dedicaran a
+resolver puzles para pasar el
+tiempo entre turnos.
+!******************************!
+[t24_184_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:43>Podemos volver m<'a>s tarde a
+resolverlo.
+!******************************!
+[t24_190_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:34>Esta puerta no se abre, profesor.
+!******************************!
+[t24_190_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:52>S<'i>, parece que tenemos que
+resolver este puzle.
+!******************************!
+[t24_191_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:40>Muy bien, vamos a intentarlo
+otra vez.
+!******************************!
+[t24_192_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:88>Yo dir<'i>a que este dispositivo
+permite acceder a los niveles
+inferiores de la mina.
+!******************************!
+[t24_192_200.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:85>Parece l<'o>gico. Al fin y al cabo,
+no creo que la tuvieran abierta
+al p<'u>blico.
+!******************************!
+[t24_193_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:63>Magn<'i>fico, la puerta ya est<'a>
+abierta. Sigamos adelante.
+!******************************!
+[t24_194_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:58>No podemos continuar hasta que no
+resolvamos este puzle.
+!******************************!
+[t24_200_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:124>Si queremos seguir bajando,
+debemos usar este elevador,
+pero parece estar roto...<W>
+!------------------------------!
+<<5E>?>C<'o>mo podr<'i>amos arreglarlo?
+!******************************!
+[t24_200_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:86><<5E>!>Aj<'a>! Ah<'i> hay un circuito.
+Seguro que est<'a> relacionado
+con el elevador.
+!******************************!
+[t24_200_300.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:112>Veamos... Parece que tiene
+unas instrucciones.<W>
+!------------------------------!
+Si las seguimos, seguro que
+el elevador vuelve a funcionar.
+!******************************!
+[t24_201_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:96>Tenemos que resolver el problema
+del circuito si queremos que el
+elevador vuelva a funcionar.
+!******************************!
+[t24_202_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:66>El elevador vuelve a funcionar,
+Luke. Podemos seguir explorando.
+!******************************!
+[t24_203_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:72>El elevador est<'a> haciendo ruido.
+<<5E>!>Creo que ya est<'a> arreglado!
+!******************************!
+[t24_203_200.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:54>Excelente. Supongo que deber<'i>amos
+seguir bajando.
+!******************************!
+[t24_204_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:75>No podemos seguir explorando la
+mina hasta que arreglemos este
+elevador.
+!******************************!
+[t24_210_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:106><<5E>?>Qu<'e> te parece, Luke?<W>
+<<5E>?>Estar<'a>n en esta caja fuerte los
+documentos que mencion<'o> Grinko?
+!******************************!
+[t24_210_200.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:86>Podr<'i>a ser. No lo sabremos hasta
+que la abramos...<W> Pero <<5E>?>c<'o>mo,
+profesor?
+!******************************!
+[t24_210_300.gds]
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:77>El cierre parece bastante
+complejo. Voy a intentar
+averiguar el c<'o>digo.
+!******************************!
+[t24_211_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:77>La caja fuerte est<'a> cerrada a cal
+y canto, pero creo que puedo
+abrirla.
+!******************************!
+[t24_212_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:65>Ya hemos acabado aqu<'i>. Ser<'a>
+mejor que volvamos al pueblo.
+!******************************!
+[t24_213_100.gds]
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:12>Ya est<'a>.
+!******************************!
+[t24_214_100.gds]
+<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:62>Mmm... Abrir una caja fuerte no es
+tan f<'a>cil como parece.
+!******************************!
+[t24_220_100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:73>Ya hemos encontrado los papeles
+que busc<'a>bamos. Salgamos de aqu<'i>.
+!******************************!
+[t24_220_200.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:39><<5E>?>Eh?<W> <<5E>!>El elevador no funciona!
+!******************************!
+[t24_220_300.gds]
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:74>Vaya, qu<'e> situaci<'o>n.<W> Un momento...
+hay unos botones en la pared.
+!******************************!
+[t24_220_400.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:98>Creo que uno de estos botones
+pondr<'a> en marcha el elevador,
+pero parecen estar desactivados.
+!******************************!
+[t24_221_100.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:91>Uno de estos botones deber<'i>a
+poner en marcha el elevador,
+pero est<'a>n desactivados.
+!******************************!
+[t24_222_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:31>Salgamos de aqu<'i>, profesor.
+!******************************!
+[t24_223_100.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:74>Parece que el elevador vuelve
+a funcionar. Ya podemos salir
+de la mina.
+!******************************!
+[t24_224_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:47>Profesor, tenemos que
+arreglar este elevador.
+!******************************!
+[t24_230_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:254>No es por echarme flores, pero
+mis tortitas son las mejores
+del mundo.<W>
+!------------------------------!
+El <'u>nico problema es que nunca
+me salen todas del mismo tama<-n>o.<W>
+!------------------------------!
+Es un problem<'o>n a la hora de
+servirlas, porque tienen que ir
+apiladas.<W> Miren, se lo mostrar<'e>.
+!******************************!
+[t24_231_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:76>Vaya, parece que se han
+enganchado a mis tortitas.
+No son los primeros...
+!******************************!
+[t24_232_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:89><<5E>!>Mis tortitas son tan blandas y
+esponjosas que dan ganas de
+usarlas como almohadas!
+!******************************!
+[t24_233_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:159><<5E>!>Vaya, qu<'e> juego de manos!
+<<5E>!>Parec<'i>a que estaba haciendo
+usted malabares!<W>
+!------------------------------!
+Les aseguro que les llamar<'e> la
+pr<'o>xima vez que haga tortitas.
+!******************************!
+[t24_234_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:106><<5E>?>No saben apreciar unas tortitas
+de calidad?<W> Pues muy bien. Hay
+gente que desayuna cualquier cosa.
+!******************************!
+[t24_240_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:211><<5E>?>Han vuelto para contemplar
+mi t<'e>cnica con la sart<'e>n?<W>
+!------------------------------!
+Esta vez he puesto el turbo
+y he hecho m<'a>s que nunca.<W>
+!------------------------------!
+Aunque, tal y como me pasa
+siempre, me han salido todas
+de distintos tama<-n>os.
+!******************************!
+[t24_241_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:38><<5E>?>Han vuelto a por m<'a>s tortitas?
+!******************************!
+[t24_242_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:173>Lo siento mucho, pero se me ha
+acabado la harina y no puedo
+hacer m<'a>s tortitas.<W>
+!------------------------------!
+Iba a ir a la tienda de
+ultramarinos a por m<'a>s, pero
+no quiero que sepan a ajo.
+!******************************!
+[t24_243_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:183><<5E>!>Maravilloso! Nunca hab<'i>a visto
+a nadie mover tortitas con
+tanto tacto.<W>
+!------------------------------!
+Si hubiera sido cualquier otro,
+ahora mismo estar<'i>a enterrado
+bajo una monta<-n>a de tortitas.
+!******************************!
+[t24_244_100.gds]
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:79>Ah, ya veo, ya veo. As<'i> que ya no
+tienen m<'a>s ganas de tortitas, <<5E>?>eh?
+!******************************!
+[t24_250_100.gds]
+<01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:95><<5E>!>No se ven nuevas caras por aqu<'i>
+a menudo! Han venido a visitar el
+pueblo, <<5E>?>verdad?
+!******************************!
+[t24_250_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:143>M<'a>s o menos, aunque no estamos
+aqu<'i> por motivos de ocio.<W>
+!------------------------------!
+Buscamos un objeto conocido
+como la Caja El<'i>sea. <<5E>?>Le suena
+de algo?
+!******************************!
+[t24_250_300.gds]
+<01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:249>No, la verdad es que no
+me suena. Lamento no poder
+ayudarles m<'a>s.<W>
+!------------------------------!
+De todas formas, no puedo permitir
+que unos visitantes se vayan sin
+un souvenir de Folsense.<W>
+!------------------------------!
+Me gustar<'i>a darles un llavero,
+pero ahora solo tengo a mano
+este puzle.
+!******************************!
+[t24_251_100.gds]
+<01:00000049><03:9>b1 laugh<03:5>NONE<01:00000002><03:75>Me alegro de que hayan vuelto.
+Antes se dejaron este puzle
+sin resolver.
+!******************************!
+[t24_252_100.gds]
+<01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:98>Ese rumor corri<'o> por todo el
+pueblo hace unos a<-n>os, pero no
+recuerdo cu<'a>ndo empez<'o>.
+!******************************!
+[t24_253_100.gds]
+<01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:321>Muy bien hecho.<W>
+!------------------------------!
+No quiero decepcionarles, pero no
+creo que encuentren aqu<'i> mucha
+informaci<'o>n sobre la Caja El<'i>sea.<W>
+!------------------------------!
+Las personas que m<'a>s sab<'i>an
+de la historia de Folsense se
+fueron hace unos a<-n>os.<W>
+!------------------------------!
+Todo empez<'o> con un extra<-n>o rumor
+que corri<'o> como la p<'o>lvora por
+todo el pueblo.
+!******************************!
+[t24_253_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:134>Ah, as<'i> que aunque estamos en el
+lugar correcto, es posible que
+nadie pueda ayudarnos.<W>
+!------------------------------!
+D<'i>game, <<5E>?>cu<'a>l era este rumor?
+!******************************!
+[t24_253_300.gds]
+<01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:203>No s<'e> qu<'e> tonter<'i>a sobre una
+maldici<'o>n... La verdad es que
+nunca me qued<'o> muy claro.<W>
+!------------------------------!
+Aunque siempre me he preguntado
+d<'o>nde habr<'a>n acabado todos
+los que se fueron de Folsense.
+!******************************!
+[t24_254_100.gds]
+<01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:42>Lo siento si no les ha gustado
+mi puzle.
+!******************************!
+[t24_260_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:94><<5E>!>Rep<'a>mpanos, qu<'e> obras de arte
+m<'a>s raras hay aqu<'i>! <<5E>?>Ha visto
+este cuadro?
+!******************************!
+[t24_260_200.gds]
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:39><<5E>?>A qu<'e> cuadro te refieres, Luke?
+!******************************!
+[t24_260_300.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:78>A este de aqu<'i>.<W> <<5E>?>Cree que estas
+formas son una especie de c<'o>digo?
+!******************************!
+[t24_260_400.gds]
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:73>Lo que creo es que nos hemos
+topado de bruces con un puzle.
+F<'i>jate.
+!******************************!
+[t24_261_100.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:44>Vamos a echarle otro vistazo a
+esto, Luke.
+!******************************!
+[t24_262_100.gds]
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:173><<5E>?>Qui<'e>n iba a decir que un puzle
+pudiera ser tambi<'e>n un elemento
+decorativo?<W>
+!------------------------------!
+Quienquiera que viva aqu<'i> debe
+de ser un verdadero fan<'a>tico
+de los puzles.
+!******************************!
+[t24_263_100.gds]
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:39>Ah, as<'i> que esa era la soluci<'o>n.
+!******************************!
+[t24_264_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:36>Pues no veo cu<'a>l
+es el puzle...
+!******************************!
+[t24_270_100.gds]
+<01:0000004D><03:10>b1 normal<03:5>NONE<01:00000002><03:154>Menudos nervios de acero tienen
+para venir hasta aqu<'i>.<W>
+!------------------------------!
+Pues no se crean que se van a
+ir de rositas. A ver si son
+capaces de resolver este puzle.
+!******************************!
+[t24_271_100.gds]
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:87>Un hombre hecho y derecho nunca
+huye de un puzle. <<5E>?>Son ustedes
+hombres o ratones?
+!******************************!
+[t24_272_100.gds]
+<01:0000004D><03:10>b1 normal<03:5>NONE<01:00000002><03:209>Si planean adentrarse en el bosque,
+necesitar<'a>n algo de luz.<W>
+!------------------------------!
+Y si llevan gafas de sol, como yo,
+m<'a>s les vale tener por lo menos un
+soplete.<W>
+!------------------------------!
+El bosque est<'a> tan oscuro que
+asusta a los lobos.
+!******************************!
+[t24_273_100.gds]
+<01:0000004D><03:11>b1 normal2<03:5>NONE<01:00000002><03:385>Muy bien, caballeros. As<'i> es
+como se resuelve un puzle, con
+energ<'i>a y decisi<'o>n.<W>
+!------------------------------!
+Escuchen, el Castillo Herzen se
+encuentra al otro lado de este
+bosque.<W>
+!------------------------------!
+No hay nadie que se atreva a
+acercarse, pero dicen los rumores
+que la fortuna del duque sigue ah<'i>.<W>
+!------------------------------!
+Si planean entrar, ser<'a> mejor que
+se mantengan alerta contra el
+vampiro o lo que sea que vive all<'i>.
+!******************************!
+[t24_274_100.gds]
+<01:0000004D><03:10>b1 normal<03:5>NONE<01:00000002><03:77><<5E>?>Qu<'e> clase de hombre hecho y
+derecho deja un puzle a medio
+resolver?
+!******************************!
+[t24_280_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:32><<5E>!>Mire, aqu<'i> hay un puzle!
+!******************************!
+[t24_281_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:49>Aqu<'i> est<'a> el puzle que encontr<'e>
+antes.
+!******************************!
+[t24_282_100.gds]
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:1>
+!******************************!
+[t24_283_100.gds]
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:29>Vaya, ese era duro de pelar.
+!******************************!
+[t24_284_100.gds]
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:20>Este tiene su cosa.
+!******************************!
+[t24_290_100.gds]
+<01:0000004A><03:5>NONE<03:5>NONE<01:00000002><03:160>Vaya, con solo verles correr de
+aqu<'i> para all<'a> ya me estoy
+cansando, <<5E>!>ju, ju, ju!<W>
+!------------------------------!
+<<5E>?>Por qu<'e> no se toman un descanso
+resolviendo este puzle?
+!******************************!
+[t24_291_100.gds]
+<01:0000004A><03:5>NONE<03:5>NONE<01:00000002><03:67><<5E>!>Ju, ju, ju! <<5E>?>Qu<'e>, descansando
+un poco de tanto ajetreo?
+!******************************!
+[t24_292_100.gds]
+<01:0000004A><03:5>NONE<03:5>NONE<01:00000002><03:112>Se pasan ustedes el d<'i>a corriendo
+por ah<'i>.<W> Si hiciera yo lo mismo,
+estar<'i>a sudando como un puerco.
+!******************************!
+[t24_293_100.gds]
+<01:0000004A><03:5>NONE<03:5>NONE<01:00000002><03:178>Lo han resuelto tan r<'a>pido que
+me da vueltas la cabeza.<W>
+!------------------------------!
+As<'i> que ustedes son de esos que
+no paran ni un momento, <<5E>?>eh?<W> Uf,
+qu<'e> cansancio me est<'a> entrando...
+!******************************!
+[t24_294_100.gds]
+<01:0000004A><03:5>NONE<03:5>NONE<01:00000002><03:105>Pues vaya genios de juguete que
+han resultado ser. A lo mejor
+deber<'i>a llevarme el puzle de aqu<'i>.
+!******************************!

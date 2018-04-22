@@ -1,5 +1,5 @@
 [t10_030_100.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:24>Luke, venha aqui.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:24>Luke, olhe isto.
 !******************************!
 [t10_030_1000.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:94>Luke, caso queira interagir com algo,
@@ -176,9 +176,8 @@ eventos importantes da história.
 sempre que precisar acessá-la!
 !******************************!
 [t10_050_100.gds]
-<01:0000002E><03:5>NONE<03:5>NONE<01:00000002><03:208>Bom dia, amigo. Nunca vi você por
-aqui antes.<W> Quer ouvir uma informação
-útil? <W>&setani 46 b1_smile&
+<01:0000002E><03:5>NONE<03:5>NONE<01:00000002><03:208>Bom dia, amigo. Nunca vi você por aqui
+antes.<W> Quer ouvir uma informação útil?<W>&setani 46 b1_smile&
 !------------------------------!
 Muito bem. Vê aquela caixa de correio
 ali?<W> Pode tocá-la com a sua stylus

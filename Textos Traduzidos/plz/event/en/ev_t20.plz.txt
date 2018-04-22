@@ -34,7 +34,7 @@ que parece...
 !******************************!
 [t20_010_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>Este é o apartamento do 
-Dr. Schrader, estou certo disso.
+Dr. Schrader.
 !******************************!
 [t20_010_1000.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Luke, não vê? O doutor
@@ -166,7 +166,7 @@ ao mundo lá fora.
 !******************************!
 [t20_020_2200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:100>Não é óbvio?<W> Há uma coisa bastante
-incomum nesta cena do crime que
+incomum nesta cena de crime que
 não foi dada a devida importância.
 !******************************!
 [t20_020_2300.gds]
@@ -178,7 +178,7 @@ nariz em seu rosto, Inspetor.
 !******************************!
 [t20_020_2500.gds]
 <01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:293>Meh! Aposto que vocês acadêmicos acham
-que suas títulos bestas os preparam
+que seus títulos bestas os preparam
 pra brincar de detetive, correto?<W>
 !------------------------------!
 Vou lhe dizer uma coisa, hoje em dia,
@@ -222,7 +222,7 @@ com outro impostor em nossas mãos.
 Nada disso faz sentido...
 !******************************!
 [t20_020_3100.gds]
-<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:73>Senhor...Leitão, certo? Não?
+<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:73>Sr... Leitão, certo? Não?
 Ah, sim, Layton. Sr. Layton,
 o que você acha?
 !******************************!
@@ -295,7 +295,7 @@ com isto. Agora, pra rua, vocês dois!
 !******************************!
 [t20_023_200.gds]
 <01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:78>Hmph! Sim, falta. Mas o que isso
-tem a ver com a minha cena do
+tem a ver com a minha cena de
 crime?
 !******************************!
 [t20_023_300.gds]
@@ -342,8 +342,8 @@ vejo nada.
 que vai encontrar.
 !******************************!
 [t20_030_100.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:49>Acredito termos encontrado
-o prédio do doutor.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:49>Acredito termos chegado
+ao prédio do doutor.
 !******************************!
 [t20_030_200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:23>Mas qual apartamento é o dele?

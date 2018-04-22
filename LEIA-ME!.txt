@@ -1,0 +1,74 @@
+
+Professor Layton e a Vila Misteriosa PT-BR - Revisão 2
+
+- Um lançamento Monkeys Traduções em parceria com Po.B.R.E. e Trans-Center -
+
+Assumindo o controle do simpático investigador Layton que, com o auxílio
+de seu assistente Luke, deve partir para St. Mystère para resolver um mistério
+acerca do testamento e também do último desejo do excêntrico Barão Reinhold,
+que remonta a um enigmático objeto perdido chamado Maçã Dourada.
+
+=============================================================================
+
+Informações sobre a ROM:
+	Nome Original: 2888 Professor Layton and the Curious Village (EU)(M5).nds
+	Idioma Original: Multi-5 (Inglês, Francês, Alemão, Espanhol, Italiano)
+	Idioma Traduzido: Inglês para Português Brasileiro
+	CRC: B1BB205B
+
+Sobre a Tradução:
+	Textos: 100%
+	Imagens: 100%
+	Revisão: 100%
+
+Equipe:
+	Projeto Original: Hyllian
+	Responsável: DiegoHH
+	ROMHacking: DiegoHH
+	Programação: DiegoHH
+	Textos: alizor, DiegoHHHyllian
+	Imagens: DiegoHH, Haru, spyblack, Solid One
+	Revisão: DiegoHH, Gamerulez, gamer_boy, Solid One
+	Colaboração: Lobim, Marvin Dalkiri
+
+Notas da Equipe:
+	- A revisão foi feita baseada na nova ortografia brasileira
+	- Pelo fato do jogo se passar numa Inglaterra fictícia, os nomes das personagens
+	  foram mantidos conforme a ortografia original.
+	- Os únicos nomes que sofreram pela não tradução são:
+	  * Granny Riddleton
+		Poderia ter sido traduzido para Vovó Charada
+	  * Stachescarfen 
+		Junção das palavras (Mu)Stache + Scarf[en]. Poderia ter sido
+		traduzido para ?Bigodenço? - Bigode + (Le)nço
+	- St. Mystère foi mantida como no original francês, apenas sendo corrigido
+	  a falta de crase no e.
+	- Todos os enigmas da versão europeia são universais. Assim sendo, todos
+	  estão devidamente traduzidos para o português brasileiro.
+
+Notas das Versões:
+	- XX/XX/XXXX Revisão 2:
+		* Readequação de alguns textos;
+		* Diversas correções ortográficas;
+		* Verificação e correção das dicas;
+		* Correção de janelas de textos que não esperavam iteração do jogador;
+		* Alterações na maioria dos gráficos, visando padronizar o layout
+		  com os demais jogos da série;
+	- 28/07/2013 Revisão 1:
+		* Lançamento Inicial
+
+Contato:	
+	E-mail: hansen.hahn@gmail.com
+	Pelo FUT: http://www.romhacking.net.br
+	Canal do Grupo no Discord: https://discord.gg/bmPEa9K
+
+Licença de Uso:
+	A presente obra encontra-se licenciada sob a licença
+	Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported.
+
+	Para visualizar uma cópia da licença, visite
+	http://creativecommons.org/licenses/by-nc-nd/3.0/ ou mande uma carta para:
+	Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+
+
+								LEIA-ME por DiegoHH <hansen.hahn@gmail.com>	

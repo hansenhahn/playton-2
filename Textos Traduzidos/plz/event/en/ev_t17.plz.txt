@@ -4,36 +4,36 @@ Bem-vindos.
 !******************************!
 [t17_010_200.gds]
 <01:00000001><03:10>b2 normal<03:10>b1 normal<01:00000002><03:213>
-Perd√£o me intrometar, mas estamos
+Perd„o me intrometar, mas estamos
 investigando as origens desta
 caixa antiga que temos aqui.<W>
 !------------------------------!
 O emblema na sua tampa parece
-estar conectado √† sua casa
+estar conectado ‡ sua casa
 de alguma forma.<W>
 !------------------------------!
-Voc√™ teria tempo para responder
+VocÍ teria tempo para responder
 algumas peguntas?
 !******************************!
 [t17_010_300.gds]
 <01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:90>
 Hm.<W>
 !------------------------------!
-Acho que √© melhor tratarem este
+Acho que È melhor tratarem este
 assunto com o mestre. Por favor,
 entrem.
 !******************************!
 [t17_023_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:60>
 Ora, veja este quadro, Luke.
-Esta √© Folsense?
+Esta È Folsense?
 !******************************!
 [t17_023_200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:181>
 Creio que sim. O mote a baixo diz
 que a pintura tem 50 anos de idade.<W>
 !------------------------------!
-√â mais ou menos id√™ntica √† vista
+… mais ou menos idÍntica ‡ vista
 de Folsense que podemos ver pela
 janela, no entanto.
 !******************************!
@@ -43,53 +43,53 @@ Hum...
 !******************************!
 [t17_023_400.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:34>
-No que est√° pensando, Professor?
+No que est· pensando, Professor?
 !******************************!
 [t17_023_500.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:51>
-Ah, n√£o √© nada. S√≥ estava
+Ah, n„o È nada. SÛ estava
 refletindo sobre algo.
 !******************************!
 [t17_026_100.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:90>
-Est√° ficando tarde, Luke. Foi um
-longo dia para n√≥s, ent√£o talvez
+Est· ficando tarde, Luke. Foi um
+longo dia para nÛs, ent„o talvez
 seja uma boa hora para descansarmos.
 !******************************!
 [t17_026_200.gds]
 <01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:54>
-√â, uma boa noite de sono
+…, uma boa noite de sono
 cai bem. Boa noite, Professor.
 !******************************!
 [t17_040_100.gds]
 <01:0000001E><03:5>NONE<03:5>NONE<01:00000002><03:92>
-Ah, maravilha, est√£o acordados.
-Faz um bom tempo que n√£o dou de
-cara com presas t√£o... exuberantes.
+Ah, maravilha, est„o acordados.
+Faz um bom tempo que n„o dou de
+cara com presas t„o... exuberantes.
 !******************************!
 [t17_040_200.gds]
 <01:00000051><03:5>NONE<03:5>NONE<01:00000002><03:54>
-Anton? Que maluquice √© esta?<W>
+Anton? Que maluquice È esta?<W>
 Grrr! Unnngh!
 !******************************!
 [t17_040_300.gds]
 <01:00000052><03:5>NONE<03:5>NONE<01:00000003><03:30>
-Eu sabia! Voc√™ √â MESMO um vampiro!
+Eu sabia! VocÍ … MESMO um vampiro!
 !******************************!
 [t17_040_400.gds]
 <01:0000001E><03:5>NONE<03:5>NONE<01:00000002><03:281>
-Bom, se √© assim, foi bem tolo
-aventurar-se por aqui, n√£o diria?<W>
+Bom, se È assim, foi bem tolo
+aventurar-se por aqui, n„o diria?<W>
 !------------------------------!
 Mas receio que seja tarde demais
-agora. Devo dar in√≠cio aos
+agora. Devo dar inÌcio aos
 preparativos.<W>
 !------------------------------!
-Nesse meio-tempo, por que n√£o
-ficam a√≠ curtindo a companhia
+Nesse meio-tempo, por que n„o
+ficam aÌ curtindo a companhia
 de um ao outro?<W>
 !------------------------------!
-Afinal, esta ser√° sua √∫ltima
+Afinal, esta ser· sua ˙ltima
 oportunidade.
 !******************************!
 [t17_040_500.gds]
@@ -103,25 +103,25 @@ de baixo, Luke?
 !******************************!
 [t17_045_200.gds]
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:75>
-Uma brisa? De onde ser√° que vem?<W>
-Estamos no subterr√¢neo, afinal.
+Uma brisa? De onde ser· que vem?<W>
+Estamos no subterr‚neo, afinal.
 !******************************!
 [t17_045_300.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:87>
-Tamb√©m achou estranho, ent√£o?
+TambÈm achou estranho, ent„o?
 Suponho que simplesmente teremos
-de investigar por conta pr√≥pria.
+de investigar por conta prÛpria.
 !******************************!
 [t17_050_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>
-Este caldeir√£o deve ser a fonte
-de alimenta√ß√£o da m√°quina que
+Este caldeir„o deve ser a fonte
+de alimentaÁ„o da m·quina que
 vimos debaixo da ponte.
 !******************************!
 [t17_050_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:65>
-E para qu√™ voc√™ acha que essa
-m√°quina serve, Professor?
+E para quÍ vocÍ acha que essa
+m·quina serve, Professor?
 !******************************!
 [t17_050_300.gds]
 <01:00000001><03:10>b2 normal<03:10>b1 normal<01:00000002><03:152>
@@ -129,23 +129,23 @@ Parece que ela foi usada para
 extrair o ouro que estavam
 minerando aqui embaixo.<W>
 !------------------------------!
-O buraco no ch√£o parece apoiar
-minha hip√≥tese.
+O buraco no ch„o parece apoiar
+minha hipÛtese.
 !******************************!
 [t17_050_400.gds]
 <01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:54>
-H√° uma fuma√ßa imunda
+H· uma fumaÁa imunda
 saindo dali.
 !******************************!
 [t17_060_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>
-Por aqui, n√£o vejo nada...
+Por aqui, n„o vejo nada...
 !******************************!
 [t17_060_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:181>
-Isso √© incomum. N√£o consigo imaginar
+Isso È incomum. N„o consigo imaginar
 que Anton e seu mordomo sejam os
-√∫nicos morando em um lugar assim.<W>
+˙nicos morando em um lugar assim.<W>
 !------------------------------!
 Talvez haja uma ala separada
 para os criados aqui em algum
@@ -153,30 +153,30 @@ lugar.
 !******************************!
 [t17_060_300.gds]
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:92>
-J√° eu diria que, se houvessem
-mais criados por aqui, j√° ter√≠amos
+J· eu diria que, se houvessem
+mais criados por aqui, j· terÌamos
 escutado um deles a essa altura.
 !******************************!
 [t17_060_400.gds]
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000002><03:67>
-Hum, √© verdade. Pois bem, como
-eu disse, este castelo √©
-no m√≠nimo estranho.
+Hum, È verdade. Pois bem, como
+eu disse, este castelo È
+no mÌnimo estranho.
 !******************************!
 [t17_063_100.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:41>
-D√™ uma olhada nesta foto,
+DÍ uma olhada nesta foto,
 Professor.
 !******************************!
 [t17_063_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>
-Ali est√° ele, todo poderoso.
+Ali est· ele, todo poderoso.
 O mestre atual do castelo dos
 Herzen.
 !******************************!
 [t17_063_300.gds]
 <01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:67>
-Voc√™ fala do monstro que nos
+VocÍ fala do monstro que nos
 amarrou e tentou beber nosso
 sangue!
 !******************************!
@@ -187,35 +187,35 @@ Que estranho...
 [t17_063_500.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:85>
 Eu certamente diria que o mais
-estranho mesmo √© amarrar pessoas
+estranho mesmo È amarrar pessoas
 e tentar beber o sangue delas!
 !******************************!
 [t17_063_600.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:164>
-N√£o, Luke, a pintura. Est√° velha
+N„o, Luke, a pintura. Est· velha
 e desgastada demais para algo
 feito recentemente.<W>
 !------------------------------!
-Ainda sim voc√™ viu Anton com seus
-pr√≥prios olhos. O homem e seu
-retrato s√£o praticamente id√™nticos.
+Ainda sim vocÍ viu Anton com seus
+prÛprios olhos. O homem e seu
+retrato s„o praticamente idÍnticos.
 !******************************!
 [t17_063_700.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:102>
-Se ele n√£o envelhece, ele s√≥
+Se ele n„o envelhece, ele sÛ
 pode ser um vampiro! Eu sabia.
 Precisamos sair daqui agora!
 !******************************!
 [t17_063_800.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:191>
 Talvez aqueles rumores que ouvimos
-na cidade n√£o o eram de todo
+na cidade n„o o eram de todo
 infundados.<W>
 !------------------------------!
-Mas entrar em p√¢nico nunca
+Mas entrar em p‚nico nunca
 resolveu nada.<W>
 !------------------------------!
-Por que n√£o paramos um instante
+Por que n„o paramos um instante
 e clareamos nossas ideias com
 este enigma?
 !******************************!
@@ -232,27 +232,27 @@ que matou Dr. Schrader.<W>
 !------------------------------!
 Temos que investigar este lugar
 atentamente, antes de fugirmos.
-Vejamos o que mais h√° aqui. 
+Vejamos o que mais h· aqui. 
 !******************************!
 [t17_065_300.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:59>
-Ahn, Professor, isso n√£o me
+Ahn, Professor, isso n„o me
 parece uma boa ideia...
 !******************************!
 [t17_065_400.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:156>
-Luke, me ou√ßa. N√£o podemos dar
-as costas e fugir. N√£o agora.<W>
+Luke, me ouÁa. N„o podemos dar
+as costas e fugir. N„o agora.<W>
 !------------------------------!
 Estamos muito perto de descobrir
 a verdade sobre Folsense e a
-caixa El√≠sea. Temos que continuar.
+caixa ElÌsea. Temos que continuar.
 !******************************!
 [t17_067_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:27>
-Regressar √† cidade?
+Regressar ‡ cidade?
  Sim
- N√£o
+ N„o
 !******************************!
 [t17_070_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:25>
@@ -260,15 +260,15 @@ Ah, isso parece-
 !******************************!
 [t17_070_1000.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:93>
-Loucura?<W> Receio n√£o ter entendido.
+Loucura?<W> Receio n„o ter entendido.
 Por favor seja honesto conosco.
-O que est√° havendo aqui?
+O que est· havendo aqui?
 !******************************!
 [t17_070_1100.gds]
 <01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:107>
 Muito bem. Explicarei tudo, mas
 primeiro precisa ficar o mais longe
-poss√≠vel desse castelo. R√°pido!
+possÌvel desse castelo. R·pido!
 !******************************!
 [t17_070_200.gds]
 <01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:8>
@@ -280,18 +280,18 @@ Ah!
 !******************************!
 [t17_070_400.gds]
 <01:00000014><03:10>b1 normal<03:5>NONE<01:00000003><03:29>
-O que voc√™s dois fazem aqui?
+O que vocÍs dois fazem aqui?
 !******************************!
 [t17_070_500.gds]
 <01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:106>
-Eu digo o mesmo! √â perigoso aqui!
+Eu digo o mesmo! … perigoso aqui!
 Tem um vampiro aqui no castelo,
-caso n√£o saiba!
+caso n„o saiba!
 !******************************!
 [t17_070_600.gds]
 <01:00000014><03:9>b1 angry<03:5>NONE<01:00000003><03:40>
-O Anton? Ele n√£o √© vampiro.
-Ele √© s√≥...
+O Anton? Ele n„o È vampiro.
+Ele È sÛ...
 !******************************!
 [t17_070_700.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:60>
@@ -304,29 +304,29 @@ Um...
 !******************************!
 [t17_070_900.gds]
 <01:00000014><03:10>b1 normal<03:5>NONE<01:00000003><03:155>
-N√£o posso falar disso.<W>
+N„o posso falar disso.<W>
 !------------------------------!
-Al√©m do mais, agora voc√™s devem
-concentrar seus esfor√ßos em
+AlÈm do mais, agora vocÍs devem
+concentrar seus esforÁos em
 escapar.<W>
 !------------------------------!
 Se protelarem aqui, a loucura
-os pegar√° antes mesmo de se
+os pegar· antes mesmo de se
 darem conta.
 !******************************!
 [t17_080_100.gds]
 <01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:31>
-Sei onde est√° a sa√≠da. Sigam-me.
+Sei onde est· a saÌda. Sigam-me.
 !******************************!
 [t17_080_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:56>
-Como √© que voc√™ tem rela√ß√£o com
-toda esta situa√ß√£o? Por acaso
-voc√™ √©-
+Como È que vocÍ tem relaÁ„o com
+toda esta situaÁ„o? Por acaso
+vocÍ È-
 !******************************!
 [t17_080_300.gds]
 <01:00000014><03:9>b1 angry<03:5>NONE<01:00000003><03:49>
-N√£o temos tempo! Voc√™s tem que
+N„o temos tempo! VocÍs tem que
 sair daqui!
 !******************************!
 [t17_110_100.gds]
@@ -335,121 +335,121 @@ Eu sou sua neta, Anton.
 !******************************!
 [t17_110_200.gds]
 <01:0000001E><03:5>NONE<03:5>NONE<01:00000002><03:77>
-N√£o seja tonta, menina.
+N„o seja tonta, menina.
 Olhe para mim! Eu sou muito
-jovem para ser av√¥ de algu√©m!
+jovem para ser avÙ de alguÈm!
 !******************************!
 [t17_110_300.gds]
 <01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:153>
-Mas o que v√™ √† sua volta n√£o √©
-real. √â apenas uma ilus√£o criada
-por sua pr√≥pria mente.<W>
+Mas o que vÍ ‡ sua volta n„o È
+real. … apenas uma ilus„o criada
+por sua prÛpria mente.<W>
 !------------------------------!
-Sua juventude √© parte de tal
-ilus√£o. A verdade √© que, bom...
+Sua juventude È parte de tal
+ilus„o. A verdade È que, bom...
 !******************************!
 [t17_110_400.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:196>
 Por favor, permita-me.<W>
 !------------------------------!
-A mina de ouro constru√≠da por seu
+A mina de ouro construÌda por seu
 pai, o finado Duke Herzen, fez
 esta cidade crescer e prosperar.<W>
 !------------------------------!
-Mas algo terr√≠vel permanecia
+Mas algo terrÌvel permanecia
 oculto nas profundezas desse
-rico dep√≥sito de ouro.
+rico depÛsito de ouro.
 !******************************!
 [t17_110_450.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:295>
 Sem se dar conta, os mineiros
-perfuraram um dep√≥sito de g√°s
-alucin√≥geno enquanto mineravam.<W>
+perfuraram um depÛsito de g·s
+alucinÛgeno enquanto mineravam.<W>
 !------------------------------!
-O g√°s fez com que quem o inalou
-ficasse extremamente suscet√≠vel a
-qualquer tipo de sugest√£o mental.<W>
+O g·s fez com que quem o inalou
+ficasse extremamente suscetÌvel a
+qualquer tipo de sugest„o mental.<W>
 !------------------------------!
-As vis√µes apavorantes vistas em
-Folsense ent√£o espalharam-se, assim
-criando sua sinistra reputa√ß√£o.
+As visıes apavorantes vistas em
+Folsense ent„o espalharam-se, assim
+criando sua sinistra reputaÁ„o.
 !******************************!
 [t17_110_460.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:122>
 Na verdade, nem a Folsense que
-vemos diante de n√≥s, nem seus
+vemos diante de nÛs, nem seus
 habitantes, existem de fato.<W>
 !------------------------------!
-Isso tudo √© uma cria√ß√£o de nossas
+Isso tudo È uma criaÁ„o de nossas
 mentes.
 !******************************!
 [t17_110_500.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:41>
-Como voc√™ chegou nessa conclus√£o,
+Como vocÍ chegou nessa conclus„o,
 Professor?
 !******************************!
 [t17_110_600.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:286>
 Embora as imagens de Folsense que
 vimos tenham 50 anos, a cidade que
-vemos √© id√™ntica √† Folsense de hoje.<W>
+vemos È idÍntica ‡ Folsense de hoje.<W>
 !------------------------------!
 Cidade nenhuma permanece a mesma
 por 50 longos anos.<W>
 !------------------------------!
-As fotos que vimos na esta√ß√£o
+As fotos que vimos na estaÁ„o
 moldou nossa ideia da Folsense
-que ver√≠amos.<W>
+que verÌamos.<W>
 !------------------------------!
-A Folsense de 50 anos atr√°s...
+A Folsense de 50 anos atr·s...
 !******************************!
 [t17_110_700.gds]
 <01:0000001E><03:8>b2 weep<03:5>NONE<01:00000002><03:57>
-Basta j√° com essa loucura.
-Folsense √© ver√≠dica...
-Eu sou ver√≠dico...!
+Basta j· com essa loucura.
+Folsense È verÌdica...
+Eu sou verÌdico...!
 !******************************!
 [t17_110_800.gds]
 <01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:158>
-Nada disso √© real, vov√¥. Esta
-cidade √© s√≥ uma p√°lida sombra.
-Uma ilus√£o surgida da gan√¢ncia.<W>
+Nada disso È real, vovÙ. Esta
+cidade È sÛ uma p·lida sombra.
+Uma ilus„o surgida da gan‚ncia.<W>
 !------------------------------!
-Voc√™ e Sophia...
-Tudo que voc√™s conhece mudou
-50 anos atr√°s.
+VocÍ e Sophia...
+Tudo que vocÍs conhece mudou
+50 anos atr·s.
 !******************************!
 [t17_111_100.gds]
 <01:00000021><03:5>NONE<03:5>NONE<01:00000002><03:80>
-Mas voc√™ e eu estamos comprometidos!
+Mas vocÍ e eu estamos comprometidos!
 Como pode me deixar aqui?
-N√£o permitirei!
+N„o permitirei!
 !******************************!
 [t17_111_200.gds]
 <01:00000020><03:5>NONE<03:5>NONE<01:00000003><03:79>
-Esta cidade inteira est√°
-amaldi√ßoada.<W>
+Esta cidade inteira est·
+amaldiÁoada.<W>
 !------------------------------!
 Se permanecermos aqui, todos os
-meus entes queridos v√£o morrer.
+meus entes queridos v„o morrer.
 !******************************!
 [t17_111_300.gds]
 <01:00000021><03:9>b1 angry<03:5>NONE<01:00000002><03:82>
-N√£o sou um ente querido seu,
+N„o sou um ente querido seu,
 Sophia? Fique comigo e juntos
 reconstruiremos Folsense.
 !******************************!
 [t17_111_400.gds]
 <01:00000020><03:10>b2 normal<03:5>NONE<01:00000003><03:85>
-Sinto muito, Anton, mas h√° outro
-algu√©m que eu amo, e que precisa
-de mim mais do que voc√™.
+Sinto muito, Anton, mas h· outro
+alguÈm que eu amo, e que precisa
+de mim mais do que vocÍ.
 !******************************!
 [t17_111_500.gds]
 <01:00000021><03:8>b1 weep<03:5>NONE<01:00000002><03:72>
-Esta √© a verdadeira raz√£o pela
+Esta È a verdadeira raz„o pela
 qual quer ir embora? Porque
-h√° outra pessoa?
+h· outra pessoa?
 !******************************!
 [t17_112_100.gds]
 <01:0000001E><03:9>b2 weep2<03:5>NONE<01:00000002><03:47>
@@ -458,20 +458,20 @@ deixou por outro!
 !******************************!
 [t17_112_1000.gds]
 <01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:129>
-A vov√≥ morreu no ano passado, mas
-ela sempre me falava de voc√™,
-mesmo em seus √∫ltimos dias.<W>
+A vovÛ morreu no ano passado, mas
+ela sempre me falava de vocÍ,
+mesmo em seus ˙ltimos dias.<W>
 !------------------------------!
 Ela nunca deixou de te amar.
 !******************************!
 [t17_112_200.gds]
 <01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:64>
-Voc√™ entendeu tudo errado,
-vov√¥! Ela nunca traiu voc√™.
+VocÍ entendeu tudo errado,
+vovÙ! Ela nunca traiu vocÍ.
 !******************************!
 [t17_112_300.gds]
 <01:0000001E><03:8>b2 weep<03:5>NONE<01:00000002><03:6>
-Como √©?
+Como È?
 !******************************!
 [t17_112_400.gds]
 <01:00000014><03:10>b1 normal<03:5>NONE<01:00000003><03:112>
@@ -479,30 +479,30 @@ A outra pessoa a quem ela se
 referia era a vida que estava
 crescendo em seu ventre.<W>
 !------------------------------!
-A vida que voc√™s dois criaram
+A vida que vocÍs dois criaram
 juntos.
 !******************************!
 [t17_112_500.gds]
 <01:0000001E><03:9>b1 angry<03:5>NONE<01:00000002><03:21>
-N-n√£o, n√£o pode ser!
+N-n„o, n„o pode ser!
 !******************************!
 [t17_112_600.gds]
 <01:00000020><03:10>b2 normal<03:5>NONE<01:00000003><03:85>
-Sinto muito, Anton, mas h√° outro
-algu√©m que eu amo, e que precisa
-de mim mais do que voc√™.
+Sinto muito, Anton, mas h· outro
+alguÈm que eu amo, e que precisa
+de mim mais do que vocÍ.
 !******************************!
 [t17_112_700.gds]
 <01:0000001E><03:8>b1 weep<03:5>NONE<01:00000002><03:28>
-Eu n√£o sabia. Sophia estava...
+Eu n„o sabia. Sophia estava...
 !******************************!
 [t17_112_800.gds]
 <01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:154>
-Isso mesmo, a vov√≥ carregava no
-ventre a minha m√£e, e ela deixou
-Folsense para mant√™-la a salvo.<W>
+Isso mesmo, a vovÛ carregava no
+ventre a minha m„e, e ela deixou
+Folsense para mantÍ-la a salvo.<W>
 !------------------------------!
-Ela guardou segredo do beb√™
+Ela guardou segredo do bebÍ
 para evitar causar-lhe mais dor.
 !******************************!
 [t17_112_900.gds]
@@ -512,19 +512,19 @@ Como eu estive cego...
 [t17_140_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:93>
 Parece que encontramos as respostas
-que est√°vamos atr√°s. Aqui, permita-me
-devolver isto a voc√™.
+que est·vamos atr·s. Aqui, permita-me
+devolver isto a vocÍ.
 !******************************!
 [t17_140_1000.gds]
 <01:0000001F><03:9>b1 smile<03:5>NONE<01:00000002><03:262>
-Ah, bom, na realidade h√° uma
+Ah, bom, na realidade h· uma
 segunda maneira de abri-la.<W>
 !------------------------------!
 <''>O sol nasce quando nos olhamos,
-e quando o vento soprar, descobrir√°s
+e quando o vento soprar, descobrir·s
 o meu interior.<''><W>
 !------------------------------!
-Estas velhas palavras s√£o a chave
+Estas velhas palavras s„o a chave
 para entender esta caixa e o que ela
 significa. Compreende, garoto?
 !******************************!
@@ -536,7 +536,7 @@ Deixa eu tentar!
 [t17_140_1200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:104>
 <''>O sol nasce quando nos olhamos,
-e quando o vento soprar, descobrir√°s
+e quando o vento soprar, descobrir·s
 o meu interior.<''><W>
 !------------------------------!
 Hum...
@@ -555,8 +555,8 @@ Qual o problema?
 !******************************!
 [t17_140_1600.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:110>
-Esta n√£o √© a carta que escrevi!
-A caligrafia √© da Sophia!<W>
+Esta n„o È a carta que escrevi!
+A caligrafia È da Sophia!<W>
 !------------------------------!
 A caixa deve ter chegado a ela
 apesar de tudo!
@@ -567,35 +567,35 @@ Obrigado.
 !******************************!
 [t17_140_300.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:38>
-Ent√£o, a caixa n√£o era amaldi√ßoada
+Ent„o, a caixa n„o era amaldiÁoada
 no fim das contas.
 !******************************!
 [t17_140_400.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:349>
-Sim, Luke, n√£o h√° maldi√ß√£o aqui.<W>
+Sim, Luke, n„o h· maldiÁ„o aqui.<W>
 !------------------------------!
-Por√©m, suspeito que, no min√©rio
-usado para criar esta caixa, h√°
-res√≠duos daquele g√°s alucin√≥geno.<W>
+PorÈm, suspeito que, no minÈrio
+usado para criar esta caixa, h·
+resÌduos daquele g·s alucinÛgeno.<W>
 !------------------------------!
-O mesmo g√°s que levou esta cidade
-√† ru√≠na foi lan√ßado nas pessoas
+O mesmo g·s que levou esta cidade
+‡ ruÌna foi lanÁado nas pessoas
 que tentaram abrir a caixa.<W>
 !------------------------------!
 Aqueles que abriram a caixa
 encontraram a morte, e com isso,
-cumpriram suas pr√≥prias predi√ß√µes.
+cumpriram suas prÛprias prediÁıes.
 !******************************!
 [t17_140_500.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:46>
-Suponho que era s√≥ uma caixa
-comum, ent√£o.
+Suponho que era sÛ uma caixa
+comum, ent„o.
 !******************************!
 [t17_140_600.gds]
 <01:0000001F><03:9>b1 smile<03:5>NONE<01:00000002><03:96>
-Ah, est√° longe de ser comum, eu
+Ah, est· longe de ser comum, eu
 lhe garanto. A caixa foi criada para
-guardar a mensagem de meu cora√ß√£o.
+guardar a mensagem de meu coraÁ„o.
 !******************************!
 [t17_140_700.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:18>
@@ -603,25 +603,25 @@ O que quer dizer?
 !******************************!
 [t17_140_800.gds]
 <01:0000001F><03:10>b1 smile2<03:5>NONE<01:00000002><03:322>
-A caixa cont√©m uma mensagem
+A caixa contÈm uma mensagem
 oculta, criada apenas para
 Sophia.<W>
 !------------------------------!
-Muitos anos atr√°s, pedi a um
+Muitos anos atr·s, pedi a um
 viajante, que passava pela cidade,
 para entregar a caixa a ela.<W>
 !------------------------------!
 Infelizmente, o valor da caixa
 fez dela um alvo para aqueles
-com cobi√ßa de riquezas.<W>
+com cobiÁa de riquezas.<W>
 !------------------------------!
-E ent√£o ela foi roubada v√°rias
+E ent„o ela foi roubada v·rias
 vezes, assim perpetuando toda
-essa s√©rie de eventos lament√°veis.
+essa sÈrie de eventos lament·veis.
 !******************************!
 [t17_140_900.gds]
 <01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:51>
-Mas n√≥s abrimos a caixa.
+Mas nÛs abrimos a caixa.
 Estava vazia.
 !******************************!
 [t17_150_100.gds]
@@ -637,8 +637,8 @@ Qual o problema?
 !******************************!
 [t17_150_400.gds]
 <01:00000053><03:5>NONE<03:5>NONE<01:00000002><03:110>
-Esta n√£o √© a carta que escrevi!
-A caligrafia √© da Sophia!<W>
+Esta n„o È a carta que escrevi!
+A caligrafia È da Sophia!<W>
 !------------------------------!
 A caixa deve ter chegado a ela
 apesar de tudo!
@@ -648,70 +648,70 @@ apesar de tudo!
 Querido Anton, como passa?
 Eu recebi sua carta.<W>
 !------------------------------!
-Apesar de eu ansiar v√™-lo outra
-vez, receio que n√£o tenho mais
-for√ßas para faz√™-lo.<W>
+Apesar de eu ansiar vÍ-lo outra
+vez, receio que n„o tenho mais
+forÁas para fazÍ-lo.<W>
 !------------------------------!
-Voc√™ n√£o imagina quantas vezes
+VocÍ n„o imagina quantas vezes
 eu tenho pensado em ti durante
 todos esses anos<W>
 !------------------------------!
-√Äs vezes me pergunto se voc√™
+¿s vezes me pergunto se vocÍ
 me odeia pelo que eu fiz.
 Diga, me odeia?
 !******************************!
 [t17_160_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:296>
 Quando resolvi ir embora,
-estava gr√°vida de nossa filha.<W>
+estava gr·vida de nossa filha.<W>
 !------------------------------!
-N√£o poderia permitir que minha
+N„o poderia permitir que minha
 filhinha fosse exposta a tal
 perigo.<W>
 !------------------------------!
-Estava ciente de sua posi√ß√£o como
-pai, e sabia que voc√™ n√£o poderia
+Estava ciente de sua posiÁ„o como
+pai, e sabia que vocÍ n„o poderia
 ir embora comigo.<W>
 !------------------------------!
-E ainda que eu tenha feito a √∫nica
+E ainda que eu tenha feito a ˙nica
 coisa que pude, sempre me arrependi
-de t√™-lo abandonado dessa forma.
+de tÍ-lo abandonado dessa forma.
 !******************************!
 [t17_160_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:391>
-Mas h√° uma bela flor que nasceu
-em meio a esta lament√°vel hist√≥ria:
+Mas h· uma bela flor que nasceu
+em meio a esta lament·vel histÛria:
 Katia, nossa preciosa neta.<W>
 !------------------------------!
 Apesar de eu ter lhe abandonado
 por todos esses anos, isso deu-lhe
-a chance de conhec√™-la.<W>
+a chance de conhecÍ-la.<W>
 !------------------------------!
-Sua m√£e morreu pouco depois da filha
+Sua m„e morreu pouco depois da filha
 nascer, mas Katia cresceu e tornou-se
-uma jovem meiga e saud√°vel.<W>
+uma jovem meiga e saud·vel.<W>
 !------------------------------!
 Sempre que a via sorrir,
 lembrava-me de ti.<W>
 !------------------------------!
 Com ela por perto, eu jamais
-poderia me esquecer de voc√™.
+poderia me esquecer de vocÍ.
 Nem se eu quisesse.
 !******************************!
 [t17_160_400.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:296>
-Voc√™ esteve em meus pensamentos
+VocÍ esteve em meus pensamentos
 desde o dia que nos separamos.<W>
 !------------------------------!
 E agora, apesar de minha hora final
 estar se aproximando, gosto de pensar
-que nos veremos novamente no al√©m.<W>
+que nos veremos novamente no alÈm.<W>
 !------------------------------!
 A ideia de ver o teu rosto
-aquece-me o cora√ß√£o.<W>
+aquece-me o coraÁ„o.<W>
 !------------------------------!
 Cuide-se e seja feliz, meu querido
-Anton. Adeus, mas s√≥ por enquanto.
+Anton. Adeus, mas sÛ por enquanto.
 Com amor, Sophia.
 !******************************!
 [t17_160_500.gds]
@@ -720,38 +720,38 @@ Oh, Sophia... finalmente eu entendi.
 !******************************!
 [t17_180_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:441>
-E esta foi a hist√≥ria da Caixa
-El√≠sea, uma rel√≠quia temida pela
-maldi√ß√£o fatal que diziam carregar.<W>
+E esta foi a histÛria da Caixa
+ElÌsea, uma relÌquia temida pela
+maldiÁ„o fatal que diziam carregar.<W>
 !------------------------------!
 Mas quando tudo acabou, descobriu-se
-que n√£o havia maldi√ß√£o alguma
+que n„o havia maldiÁ„o alguma
 em seu vistoso interior.<W>
 !------------------------------!
-Ao inv√©s disso, o enigma da caixa,
-que n√£o era digna de tal alcunha,
+Ao invÈs disso, o enigma da caixa,
+que n„o era digna de tal alcunha,
 foi finalmente revelado.<W>
 !------------------------------!
 Era um recipiente projetado para
 conservar o amor de duas almas
-g√™meas durante toda a eternidade.<W>
+gÍmeas durante toda a eternidade.<W>
 !------------------------------!
 Embora a caixa fosse conhecida pelas
-suas hist√≥rias assustadoras, no fim
+suas histÛrias assustadoras, no fim
 ela continha uma mensagem de amor.
 !******************************!
 [t17_250_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:89>
 Professor, se queremos sair daqui,
-dever√≠amos ir para cima, n√£o acha?
+deverÌamos ir para cima, n„o acha?
 !******************************!
 [t17_260_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:23>
-Esta porta n√£o sai do lugar.
+Esta porta n„o sai do lugar.
 !******************************!
 [t17_260_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:41>
-Mas n√£o vejo nenhum tipo de
+Mas n„o vejo nenhum tipo de
 fechadura nela.
 !******************************!
 [t17_260_300.gds]
@@ -765,35 +765,35 @@ mais podemos achar.
 !******************************!
 [t17_280_100.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:98>
-Uau! Esse √© o quarto mais chique
-que j√° vi! O Molentary Express
+Uau! Esse È o quarto mais chique
+que j· vi! O Molentary Express
 parece cafona, comparado a isso!
 !******************************!
 [t17_280_200.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:80>
-√â um quarto d√≠gno da fam√≠lia
+… um quarto dÌgno da famÌlia
 mais rica e influente de Folsense.
 !******************************!
 [t17_280_300.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:91>
-Acho dif√≠cil acreditar que um
-lugar t√£o deslumbrante como este
-tem um vampiro √† espreita.
+Acho difÌcil acreditar que um
+lugar t„o deslumbrante como este
+tem um vampiro ‡ espreita.
 !******************************!
 [t17_280_400.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:99>
 Ah, nunca se sabe, Luke. Talvez o
-pr√≥prio Anton seja um vampiro, e
-voc√™ s√≥ n√£o tenha percebido ainda.
+prÛprio Anton seja um vampiro, e
+vocÍ sÛ n„o tenha percebido ainda.
 !******************************!
 [t17_280_500.gds]
 <01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:159>
 O Anton? Duvido! Ele me pareceu
-um sujeito bastante simp√°tico.<W>
+um sujeito bastante simp·tico.<W>
 !------------------------------!
-Espera a√≠, pensei que n√£o voc√™
-n√£o acreditasse em vampiros.
-Est√° ca√ßoando de mim, Professor?
+Espera aÌ, pensei que n„o vocÍ
+n„o acreditasse em vampiros.
+Est· caÁoando de mim, Professor?
 !******************************!
 [t17_280_510.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:162>
@@ -803,21 +803,21 @@ aqui.<W>
 !------------------------------!
 Lembra daquela foto que
 vimos no Museu Herzen?<W>
-Anton estava nela, n√©?
+Anton estava nela, nÈ?
 !******************************!
 [t17_280_520.gds]
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:86>
-O ponto √©: a foto foi tirada h√°
-50 anos, mas Anton n√£o parece
+O ponto È: a foto foi tirada h·
+50 anos, mas Anton n„o parece
 ter envelhecido um dia sequer.
 !******************************!
 [t17_280_530.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:266>
-Ent√£o tamb√©m est√° intrigado com
-isso, n√£o √©?<W>N√£o consigo entender
-como isso √© poss√≠vel.<W>
+Ent„o tambÈm est· intrigado com
+isso, n„o È?<W>N„o consigo entender
+como isso È possÌvel.<W>
 !------------------------------!
-√â especialmente estranho, dado que
+… especialmente estranho, dado que
 Sr. Beluga claramente envelheceu
 desde que a foto foi tirada.<W>
 !------------------------------!
@@ -827,18 +827,18 @@ seu castelo.
 !******************************!
 [t17_280_540.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:55>
-Olha s√≥ a famosa intui√ß√£o de
+Olha sÛ a famosa intuiÁ„o de
 Layton agindo de novo!
 !******************************!
 [t17_280_600.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:134>
-Suponho que sim, apesar de n√£o
-ach√°-la assim t√£o famosa.<W>
+Suponho que sim, apesar de n„o
+ach·-la assim t„o famosa.<W>
 !------------------------------!
-Por que n√£o come√ßamos explorando
+Por que n„o comeÁamos explorando
 este quarto do castelo?
 !******************************!
 [t17_280_700.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:28>
-Boa ideia. Vamos l√°!
+Boa ideia. Vamos l·!
 !******************************!

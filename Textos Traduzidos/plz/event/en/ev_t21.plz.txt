@@ -1,6 +1,6 @@
 [t21_000_100.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:89>Olhe isto, Luke. A sua mala
-está aberta e todas as suas coisas
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:89>Olhe isto, Luke. A sua mala está
+aberta e todas as suas coisas
 estão espalhadas por aí.
 !******************************!
 [t21_000_200.gds]
@@ -32,18 +32,17 @@ o trem, Professor.
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:20>Ótima ideia, Luke.
 !******************************!
 [t21_004_100.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:61>Professor, preciso mesmo
-guardar minhas coisas exatamente
-agora?
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:61>Professor, preciso mesmo guardar
+minhas coisas exatamente agora?
 !******************************!
 [t21_004_200.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:87>Oh, muito bem. Deixe isso de lado
-por enquanto, mas quero ver essa mala
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:87>Oh, muito bem. Deixe isso de lado por
+enquanto, mas quero ver essa mala
 organizada depois.
 !******************************!
 [t21_010_100.gds]
 <01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:101>Sinto muitíssimo, senhor. Temo que todos
-os lugares de nosso fino estabelecimento
+os lugares do nosso fino estabelecimento
 estão ocupados no momento.
 !******************************!
 [t21_010_200.gds]
@@ -55,12 +54,12 @@ por uma mesa, teriam interesse em
 resolver um enigma?
 !******************************!
 [t21_013_100.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:249>Exatamente, senhores!<W>
-Dizem que não há nada melhor para abrir
-o apetite do que um adorável enigma.<W>
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:249>Exatamente, senhores!<W> Dizem que não
+há nada melhor para abrir o apetite
+do que um adorável enigma.<W>
 !------------------------------!
-Oh, e parece que uma mesa acabou
-de vagar.<W>
+Oh, e parece que uma mesa
+acabou de vagar.<W>
 !------------------------------!
 Permitam-me apenas um momento para
 limpá-la e então ficarei feliz em levá-los
@@ -80,27 +79,27 @@ preparo uma mesa para vocês.
 com clientes difíceis é simplesmente
 admirável.<W> Vamos, Luke.<W>
 !------------------------------!
-Vamos dar-lhe algum espaço. Iremos dar
-uma olhada no mirante e voltaremos
+Vamos dar a ele algum espaço. Iremos
+dar uma olhada no mirante e voltaremos
 ao vagão-restaurante mais tarde.
 !******************************!
 [t21_013_200.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:21>Ótimo! Estou morrendo de fome!
 !******************************!
 [t21_013_300.gds]
-<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:77>Oh, que bom. Nossa mesa está finalmente
-pronta. Então vamos ocupar nossos
-lugares.
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:77>Oh, que bom. Nossa mesa está
+finalmente pronta. Vamos logo
+ocupar nossos lugares.
 !******************************!
 [t21_013_400.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:92>Madame, por favor, espere um momento.
-Estes passageiros estavam
-esperando a bastante-
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:92>Madame, por favor, espere
+um momento. Estes passageiros
+estavam esperando a bastante-
 !******************************!
 [t21_013_500.gds]
 <01:0000000B><03:6>shout<03:5>NONE<01:00000002><03:101>Nem pensar! Nem mais uma palavra sobre
 isso! Você ia servir estas pessoas antes
-de nós? Nos sentimos insultados!
+de nós? Isto é um insulto!
 !******************************!
 [t21_013_600.gds]
 <01:0000000D><03:8>b1 weep<03:5>NONE<01:00000002><03:80>Sinto muito, madame. É que estes
@@ -118,17 +117,17 @@ Agora, saia da nossa frente!
 <01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:18>Que desaforada!
 !******************************!
 [t21_014_100.gds]
-<01:0000000D><03:10>b4 normal<03:5>NONE<01:00000002><03:110>Desistiram, senhores?<W> Não tem problema.
-Parece que uma mesa acabou
+<01:0000000D><03:10>b4 normal<03:5>NONE<01:00000002><03:110>Desistiram, senhores?<W> Não tem
+problema. Parece que uma mesa acabou
 de vagar. Por favor, sigam-me.
 !******************************!
 [t21_014_1000.gds]
 <01:0000000D><03:10>b2 normal<03:5>NONE<01:00000002><03:192>Er, peço desculpas, senhores.<W>
-Há um adorável mirante no último vagão
-do trem.<W>
+Há um adorável mirante no
+último vagão do trem.<W>
 !------------------------------!
-Por favor, sintam-se convidados a relaxar
-lá por alguns minutos enquanto
+Por favor, sintam-se convidados
+a relaxar lá por alguns minutos enquanto
 preparo uma mesa para vocês.
 !******************************!
 [t21_014_1100.gds]
@@ -136,27 +135,27 @@ preparo uma mesa para vocês.
 com clientes difíceis é simplesmente
 admirável.<W> Vamos, Luke.<W>
 !------------------------------!
-Vamos dar-lhe algum espaço. Iremos dar
-uma olhada no mirante e voltaremos
+Vamos dar a ele algum espaço. Iremos
+dar uma olhada no mirante e voltaremos
 ao vagão-restaurante mais tarde.
 !******************************!
 [t21_014_200.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:21>Ótimo! Estou morrendo de fome!
 !******************************!
 [t21_014_300.gds]
-<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:77>Oh, que bom. Nossa mesa está finalmente
-pronta. Então vamos ocupar nossos
-lugares.
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:77>Oh, que bom. Nossa mesa está
+finalmente pronta. Vamos logo
+ocupar nossos lugares.
 !******************************!
 [t21_014_400.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:92>Madame, por favor, espere um momento.
-Estes passageiros estavam
-esperando a bastante-
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:92>Madame, por favor, espere
+um momento. Estes passageiros
+estavam esperando a bastante-
 !******************************!
 [t21_014_500.gds]
 <01:0000000B><03:6>shout<03:5>NONE<01:00000002><03:101>Nem pensar! Nem mais uma palavra sobre
 isso! Você ia servir estas pessoas antes
-de nós? Nos sentimos insultados!
+de nós? Isto é um insulto!
 !******************************!
 [t21_014_600.gds]
 <01:0000000D><03:8>b1 weep<03:5>NONE<01:00000002><03:78>Sinto muito, madame. É que estes
@@ -187,12 +186,12 @@ logo ali.
 !******************************!
 [t21_020_400.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:91>O céu é tão azul! E olhe todas
-essas árvores! Isso que é vista!
+essas árvores! Isto que é vista!
 !******************************!
 [t21_020_500.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:95>Toda essa conversa me lembrou
-um enigma que ouvi outra vez. Por que não
-tenta resolvê-lo?
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:95>Toda esta conversa me lembrou
+um enigma que ouvi outra vez.
+Por que não tenta resolvê-lo?
 !******************************!
 [t21_023_100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:30>Exatamente. Muito bem!
@@ -201,9 +200,9 @@ tenta resolvê-lo?
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:163>Bem, você não esperava menos,
 não é, Professor?<W> Heh heh heh!<W>
 !------------------------------!
-Uau, está tão bom aqui que quase
-esqueci que deveríamos estar procurando
-pela Caixa Elísia.
+Uau, está tão bom aqui que
+quase esqueci que deveríamos estar
+procurando pela Caixa Elísia.
 !******************************!
 [t21_023_300.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:123>Não culpo você, Luke. Mas aquela caixa
@@ -216,8 +215,8 @@ este mistério.
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:11>Com certeza.
 !******************************!
 [t21_023_350.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:116>Acho que finalmente temos
-uma boa ideia do desenho do trem.<W>
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:116>Acho que finalmente temos uma
+boa ideia do desenho do trem.<W>
 !------------------------------!
 É hora de começarmos nossa 
 investigação.
@@ -239,8 +238,8 @@ tarde se quiser.
 estar com um cenário desses?<W>
 !------------------------------!
 Está tão bom aqui fora que quase
-esqueci que deveríamos estar procurando
-pela Caixa Elísia.
+esqueci que deveríamos estar
+procurando pela Caixa Elísia.
 !******************************!
 [t21_024_400.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:123>Não culpo você, Luke. Mas aquela caixa
@@ -253,8 +252,8 @@ este mistério.
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:11>Com certeza.
 !******************************!
 [t21_024_450.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:122>Acho que finalmente temos
-uma boa ideia do desenho do trem.<W>
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:122>Acho que finalmente temos uma
+boa ideia do desenho do trem.<W>
 !------------------------------!
 É hora de começarmos nossa 
 investigação.
@@ -268,8 +267,8 @@ para nós no vagão-restaurante,
 Professor.
 !******************************!
 [t21_030_1000.gds]
-<01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:50>Meh! Tire essa bagunça da minha frente
-agora mesmo!
+<01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:50>Meh! Tire esta bagunça da minha
+frente agora mesmo!
 !******************************!
 [t21_030_1100.gds]
 <01:0000000E><03:8>b2 weep<03:5>NONE<01:00000002><03:57>É claro. S-sinto muito
@@ -287,8 +286,7 @@ mundialmente renomado-
 !******************************!
 [t21_030_1400.gds]
 <01:00000009><03:6>shout<03:5>NONE<01:00000002><03:85>Não ligo se a Rainha da Inglaterra
-pintou o quadro! Troque-o e
-seja rápido!
+pintou o quadro! Troque-o e seja rápido!
 !******************************!
 [t21_030_1500.gds]
 <01:0000000D><03:8>b1 weep<03:5>NONE<01:00000002><03:67>C-certamente, senhor. Farei
@@ -300,9 +298,9 @@ mais cedo? Acho que nunca tinha visto
 alguém tão mandão.<W> E barulhento.
 !******************************!
 [t21_030_1700.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:105>Ele mesmo, Sr Beluga.<W> É uma pena
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:105>Ele mesmo, Sr. Beluga.<W> É uma pena
 que o quadro não fosse do seu agrado.
-Eu o achei maravilhoso.
+Eu achei ele maravilhoso.
 !******************************!
 [t21_030_1800.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:71>Falando em quadros, Luke, eu tenho
@@ -323,21 +321,19 @@ Deixe-me mostrar seus lugares.
 !******************************!
 [t21_030_500.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:25>Digo o mesmo.
-
 !******************************!
 [t21_030_600.gds]
-<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:69>Uau, olhe só todas estas opções!
-São tantas que fico até tonto só
-de olhar!
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:69>Uau, olha só todas estas opções!
+São tantas que fico tonto só de olhar!
 !******************************!
 [t21_030_700.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:65>Oh, olhe lá.<W> Parece estar
-acontecendo algum tipo de confusão.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:65>Oh, olhe lá.<W> Parece estar acontecendo
+algum tipo de confusão.
 !******************************!
 [t21_030_800.gds]
-<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:103>Chama isso de alta gastronomia?<W> Eu chamo
-de gororoba!<W> Está me dizendo que você
-serve isso aos seus clientes?
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:103>Chama isso de alta gastronomia?<W>
+Eu chamo de gororoba!<W> Está me dizendo
+que serve isto aos nossos clientes?
 !******************************!
 [t21_030_900.gds]
 <01:0000000E><03:8>b1 weep<03:5>NONE<01:00000002><03:43>I-irei fazer mais agora mesmo,
@@ -346,14 +342,13 @@ senhor!
 [t21_033_100.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:126>Extraordinário, Luke.<W>
 !------------------------------!
-Após uma refeição completa e um enigma, acho
+Depois de uma refeição e um enigma, acho
 que podemos nos dar o luxo de descansar
 um pouco. Vamos para nossa cabine.
 !******************************!
 [t21_033_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:460>Olá! Desculpe
-interromper seu jogo, mas há algo 
-importante que precisa saber.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:460>Olá! Desculpe interromper seu jogo,
+mas há algo importante que precisa saber.<W>
 !------------------------------!
 Conforme você avança na história,
 alguns enigmas irão desaparecer de
@@ -363,30 +358,29 @@ Esses enigmas são movidos para a
 cabana da Vovó Riddleton, onde podem
 ser resolvidos a qualquer momento.<W>
 !------------------------------!
-Aqui está o primeiro conjunto de
+Aqui está o primeiro grupo de
 enigmas a serem enviados à cabana.<W>
 !------------------------------!
 Se não aparecerem enigmas na próxima
-tela, então não há enigmas não
-resolvidos para enviar para lá no momento.
+tela, então não há enigmas não resolvidos
+para enviar para lá no momento.
 !******************************!
 [t21_034_100.gds]
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:82>Você ficaria chateado se déssemos
-uma pausa nos enigmas por agora? Ainda
-estou fazendo a digestão.
+uma pausa nos enigmas por agora?
+Ainda estou fazendo a digestão.
 !******************************!
 [t21_034_200.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:33>Humm. Você tem razão.
 !******************************!
 [t21_034_300.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>Pensando bem, podemos descansar
-um pouco depois daquela adorável
-refeição. Vamos voltar para nossa cabine.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>Pensando bem, podemos descansar um
+pouco depois daquela adorável refeição.
+Vamos voltar para nossa cabine.
 !******************************!
 [t21_034_400.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:460>Olá! Desculpe
-interromper seu jogo, mas há algo 
-importante que precisa saber.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:460>Olá! Desculpe interromper seu jogo,
+mas há algo importante que precisa saber.<W>
 !------------------------------!
 Conforme você avança na história,
 alguns enigmas irão desaparecer de
@@ -396,32 +390,31 @@ Esses enigmas são movidos para a
 cabana da Vovó Riddleton, onde podem
 ser resolvidos a qualquer momento.<W>
 !------------------------------!
-Aqui está o primeiro conjunto de
+Aqui está o primeiro grupo de
 enigmas a serem enviados à cabana.<W>
 !------------------------------!
 Se não aparecerem enigmas na próxima
-tela, então não há enigmas não
-resolvidos para enviar para lá no momento.
+tela, então não há enigmas não resolvidos
+para enviar para lá no momento.
 !******************************!
 [t21_040_100.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:46>O que é aquilo? Algo parece
-ter caído ali.
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:46>O que é aquilo? Parece que caiu algo ali.
 !******************************!
 [t21_040_200.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:83>Parece ser um tipo de gorro, mas
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:83>Parece ser um tipo de boné, mas
 não acho possível alcançarmos
 ele daqui.
 !******************************!
 [t21_040_300.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:30>Talvez o gorro pertença ao Tom.
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:30>Talvez o boné pertença ao Tom.
 !******************************!
 [t21_040_400.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:51>Certamente não devemos descartar
 esta possibilidade.
 !******************************!
 [t21_040_500.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:88>Ah, já que estamos falando
-sobre gorro, por acaso já ouviu esse,
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:88>Ah, já que estamos falando de
+bonés, por acaso já ouviu esse,
 Professor?
 !******************************!
 [t21_043_100.gds]
@@ -429,8 +422,8 @@ Professor?
 fosse conhecer este.
 !******************************!
 [t21_043_200.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:98>Melhor sorte da próxima vez, Luke. Por enquanto,
-vamos retornar às buscas desse
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:98>Melhor sorte da próxima vez, Luke.
+Agora,vamos retornar às buscas desse
 menino perdido.
 !******************************!
 [t21_043_300.gds]
@@ -438,9 +431,9 @@ menino perdido.
 voltarmos a busca.
 !******************************!
 [t21_043_400.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:99>Já que mencionou isso, como foi que o Tom
-conseguiu se enfiar num espaço
-tão pequeno?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:99>Falando nisso, como foi que
+o Tom conseguiu se enfiar num
+espaço tão pequeno?
 !******************************!
 [t21_043_500.gds]
 <01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:20>Hmm, boa pergunta.
@@ -449,17 +442,17 @@ tão pequeno?
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:30>Ah, vai mesmo desistir?
 !******************************!
 [t21_044_200.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:102>Tenho que pensar um pouco mais na resposta. Por enquanto,
-vamos retornar às buscas desse
-menino perdido.
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:102>Tenho que pensar um pouco mais
+na resposta. Agora, vamos retornar
+às buscas desse menino perdido.
 !******************************!
 [t21_044_300.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:35>Boa ideia. Vamos voltar a isso.
 !******************************!
 [t21_044_400.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:91>Falando nisso, como foi que o Tom
-conseguiu se enfiar num espaço
-tão pequeno?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:91>Falando nisso, como foi que
+o Tom conseguiu se enfiar num
+espaço tão pequeno?
 !******************************!
 [t21_044_500.gds]
 <01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:22>Hmm... Boa pergunta.
@@ -476,15 +469,16 @@ sapatinho no chão.
 de um bebê.
 !******************************!
 [t21_050_1200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:152>E agora esse gorro encontrado na cozinha...<W>
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:152>E agora esse boné encontrado
+na cozinha...<W>
 !------------------------------!
-Mas foi largado num canto tão pequeno,
-que não sei como Tom conseguiu se
+Mas foi largado num canto tão apertado,
+que não sei como o Tom conseguiu se
 enfiar ali.
 !******************************!
 [t21_050_1300.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:89>Correto. Para conseguir entrar ali,
-Tom não poderia ter mais
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:89>Correto. Para conseguir entrar
+ali, o Tom não poderia ter mais
 do que metade do seu tamanho.
 !******************************!
 [t21_050_1400.gds]
@@ -493,9 +487,9 @@ de ter visto um garoto menor que
 eu no trem.
 !******************************!
 [t21_050_1500.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:364>Esta foi minha impressão também, o que levou-me
-a começar a considerar uma linha de
-pensamento diferente.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:364>Esta foi minha impressão também, o que
+me levou a começar a considerar uma
+outra linha de pensamento.<W>
 !------------------------------!
 Luke, e se nós já tivéssemos
 visto o Tom, sem saber?<W>
@@ -504,30 +498,31 @@ Veja, quando começamos as buscas,
 assumimos que ele fosse uma criança
 pequena.<W>
 !------------------------------!
-Mas e se essa suposição for falsa? E se
-estivemos errado desde o começo?
+Mas e se essa suposição for falsa?
+E se estivemos errado desde o começo?
 !******************************!
 [t21_050_1600.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:52>Acho que sei onde quer chegar, Professsor...
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:52>Acho que sei aonde quer chegar,
+Professsor...
 !******************************!
 [t21_050_1700.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:182>O segundo sapato era um sapato
 esquerdo, igual em todos os aspectos ao
 sapato que o inspetor nos deu.<W>
 !------------------------------!
-Se esse estranho par de sapatos significar
-o que penso que significa, então nosso
-amigo Tom é...
+Se esse estranho par de sapatos
+significar o que penso que significa,
+então nosso amigo Tom é...
 !******************************!
 [t21_050_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:60>Este se parece com um sapato
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:60>Isto se parece com um sapato
 do Tom, não é Professor?
 !******************************!
 [t21_050_300.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:19>Certamente sim.
 !******************************!
 [t21_050_400.gds]
-<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:95>Isso é estranho... É para o mesmo pé 
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:95>Isso é estranho... É o mesmo pé 
 que o sapato que o inspetor nos
 deu mais cedo.
 !******************************!
@@ -538,7 +533,7 @@ deu mais cedo.
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:8>Aha! <@s>
 !******************************!
 [t21_050_650.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:115>Então Tom deve ser...<W>&setani 1 b4_smile&
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:115>Então o Tom deve ser...<W>&setani 1 b4_smile&
 !------------------------------!
 O ho ho ho! Luke, não acredito que nós
 dois fizemos suposições erradas.
@@ -547,19 +542,20 @@ dois fizemos suposições erradas.
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:31>Hmm? O que quer dizer com isso?
 !******************************!
 [t21_050_800.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:66>Relembre, por um momento, como
-os eventos se desenrolaram até agora.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:66>Relembre, por um momento,
+como os eventos se desenrolaram
+até agora.
 !******************************!
 [t21_050_900.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:17>Er, deixe-me pensar...
 !******************************!
 [t21_053_100.gds]
-<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:14>Tom é um cachorro!
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:14>O Tom é um cachorro!
 !******************************!
 [t21_053_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>Você lembra da garota que vimos
-segurando um cãozinho?<W> Suspeito que aquele
-caõzinho era nosso amigo Tom.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>Lembra da garota que vimos segurando
+um cãozinho?<W> Suspeito que aquele
+cãozinho era o nosso amigo Tom.
 !******************************!
 [t21_053_300.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:48>Então se encontrarmos aquela garota,
@@ -570,17 +566,17 @@ encontraremos o Tom!
 atenção, por isso pense bem.
 !******************************!
 [t21_060_100.gds]
-<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:166>Hrm. Hrrrrm? E que tal...?<W>
-Não. Hmph. Esse enigma vai me manter
-acordado a noite toda......<W>
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:166>Hrm. Hrrrrm? E que tal...?<W> Não.
+Hmph. Esse enigma vai me manter
+acordado a noite toda...<W>
 !------------------------------!
 Oh, desculpe por isso. E vocês?
 O que posso fazer por vocês?
 !******************************!
 [t21_060_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:98>Estamos procurando por uma jovem menina com
-um cãozinho. Por acaso viu alguém
-que bate com essa descrição?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:98>Estamos procurando por uma jovem
+menina com um cãozinho. Por acaso viu
+alguém que bate com essa descrição?
 !******************************!
 [t21_060_300.gds]
 <01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:103>Sim, lembro de ter visto alguém assim
@@ -588,34 +584,34 @@ passando por aqui. Acho que ela estava
 indo para o fim do trem.
 !******************************!
 [t21_060_400.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:48>Muito obrigado. Vamos indo, então.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:48>Muito obrigado. Vamos indo.
 !******************************!
 [t21_060_500.gds]
-<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:233>Ei, espere ai, ô da cartola!<W>
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:233>Ei, espera aí, ô da cartola!<W>
 !------------------------------!
-Entendi qual é a sua. Faça o velho
+Saquei qual é a sua. Faça o velho
 Grousley responder uma pergunta sua e
 saia de fininho sem dizer nada.<W>
 !------------------------------!
-Eu falei o que você queria saber, então
-penso que você deveria ao menos
-me dar uma mão.
+Eu falei o que você queria saber,
+então acho que você deveria ao
+menos me dar uma mão.
 !******************************!
 [t21_060_600.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:93>Minhas sinceras desculpas, senhor. Não havia
-percebido que precisava da nossa ajuda. Como
-podemos ser úteis?
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:93>Minhas sinceras desculpas, senhor.
+Não havia percebido que precisava da
+nossa ajuda. Como podemos ser úteis?
 !******************************!
 [t21_060_700.gds]
-<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:138>Um amigo me deu este enigma porque
-amo arte, mas...<W>
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:138>Um amigo me deu este enigma
+porque amo arte, mas...<W>
 !------------------------------!
 Talvez você tenham melhor sorte com ele
 do que eu. Gostaria de resolvê-lo?
 !******************************!
 [t21_061_100.gds]
 <01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:98>Este enigma está me dando um nó no
-cérebro. Eu imploro, resolva-o
+cérebro. Eu imploro, resolva ele
 de uma vez por todas!
 !******************************!
 [t21_063_100.gds]
@@ -623,9 +619,9 @@ de uma vez por todas!
 Que crânio você tem em cima desses
 ombros, viu?<W>
 !------------------------------!
-Agora, sobre a garota que estavam perguntando,
-ela provavelmente está no mirando
-atrás de mim.
+Agora, sobre a garota que estavam
+perguntando, ela provavelmente está
+no mirante atrás de mim.
 !******************************!
 [t21_064_100.gds]
 <01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:103>Ah, vai desistir? Bem, sendo assim,
@@ -637,9 +633,8 @@ algum enquanto não tirarmos esse
 trem do caminho.
 !******************************!
 [t21_071_100.gds]
-<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:73>Espero que consiga mover
-esse trem cedo ou tarde. Tem sido tão
-frustrante!
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:73>Espero que consiga mover esse trem
+cedo ou tarde. Tem sido tão frustrante!
 !******************************!
 [t21_073_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:61>Espero que possamos continuar
@@ -647,15 +642,15 @@ nossa jornada.
 !******************************!
 [t21_073_300.gds]
 <01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:83>Parece que agora está tudo bem.
-Me dê um segundo e estaremos
+Me dá um segundo e estaremos
 rodando novamente.
 !******************************!
 [t21_073_400.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:28>Finalmente estamos nos movendo.
 !******************************!
 [t21_073_500.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:65>Não deve demorar muito para chegarmos
-em Dropstone. 
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:65>Não deve demorar muito para
+chegarmos em Dropstone. 
 !******************************!
 [t21_073_600.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:54>Espero encontrar alguma pista lá.
@@ -664,21 +659,20 @@ em Dropstone.
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:11>Eu também.
 !******************************!
 [t21_074_100.gds]
-<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:99>Este trem está uma bagunça.
-Não acho que vou conseguir arrumá-lo
-tão cedo.
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:99>Este trem está uma bagunça. Não acho
+que eu vá conseguir arrumar ele tão cedo.
 !******************************!
 [t21_080_100.gds]
 <01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:50>Eca! Professor, o açucar está
 coberto por formigas.
 !******************************!
 [t21_080_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:174>Oh, céus. Não posso esquecer de
-pegar açucar para meu chá de outro lugar.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:174>Oh, céus. Não posso esquecer de pegar
+açucar para meu chá de outro lugar.<W>
 !------------------------------!
-Curioso, não é? Como será que elas chegaram
-até ali?<W> Falando de formigas, tente
-resolver este enigma, Luke.
+Curioso, não é? Como será que elas
+chegaram até ali?<W> Falando de formigas,
+tente resolver este enigma, Luke.
 !******************************!
 [t21_081_100.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:62>As formigas não foram a lugar
@@ -691,9 +685,9 @@ formigas vieram?
 [t21_083_100.gds]
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:118>Você conseguiu, meu garoto.<W>
 !------------------------------!
-Apesar de não ser um fã de formigas no meu
-açucar, é de admirar a capacidade
-de trabalhar em equipe delas!
+Apesar de não ser fã de formigas no meu
+açucar, é de admirar a capacidade de
+trabalhar em equipe delas!
 !******************************!
 [t21_083_200.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:77>Será que é porque até mesmo
@@ -717,13 +711,13 @@ Aonde vocês estão indo?
 querida. Infelizmente, não sabemos
 onde está.<W>
 !------------------------------!
-Até encontrarmos uma pista que nos aponte
-na direção certa, podemos apenas
+Até encontrarmos uma pista que nos
+aponte na direção certa, podemos apenas
 continuar procurando.
 !******************************!
 [t21_090_300.gds]
-<01:00000024><03:9>b1 smile<03:5>NONE<01:00000003><03:103>Ooh, me parece bastante trabalhoso.<W>
-Aqui, deixe-me contar um enigma para
+<01:00000024><03:9>b1 smile<03:5>NONE<01:00000003><03:103>Ooh, parece que vai dar trabalho.<W>
+Aqui, vou contar um enigma pra
 que relaxe um pouco.
 !******************************!
 [t21_091_100.gds]
@@ -731,11 +725,12 @@ que relaxe um pouco.
 meu enigma desta vez!
 !******************************!
 [t21_092_100.gds]
-<01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:59>Estou cansada deste trem. Será que já chegamos?
+<01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:59>Estou cansada deste trem.
+Será que já chegamos?
 !******************************!
 [t21_093_100.gds]
-<01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:81>Você conseguiu! Uau, este chapéu que
-está usando deve aumentar a sua
+<01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:81>Você conseguiu! Uau, esta cartola
+que você usa deve aumentar a sua
 inteligência!
 !******************************!
 [t21_093_200.gds]
@@ -743,8 +738,8 @@ inteligência!
 estão procurando!
 !******************************!
 [t21_094_100.gds]
-<01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:65>Ah, não gostaram do meu enigma! Agora fiquei
-super-hiper chateada.
+<01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:65>Ah, não gostaram do meu enigma!
+Agora fiquei super-hiper chateada.
 !******************************!
 [t21_100_100.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:92>Olhe só os detalhes desta jarra, Luke.
@@ -752,18 +747,18 @@ Tenho quase certeza que foi feita
 artesanalmente.
 !******************************!
 [t21_100_200.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:70>Quem poderia imaginar que uma coisa tão
-comum quanto uma jarra poderia ser
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:70>Quem poderia imaginar que uma coisa
+tão simples quanto uma jarra poderia ser
 tão requintada?
 !******************************!
 [t21_100_300.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:210>O que pode ser mais relaxante que estar na sua
-cabine com um refresco gelado e olhando
-o pôr do sol?<W>
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:210>O que pode ser mais relaxante que
+estar na sua cabine com um refresco
+gelado, olhando o pôr do sol?<W>
 !------------------------------!
 Mas nem tudo servido em jarras é
-próprio para se beber. Veja este enigma,
-por exemplo.
+próprio para se beber. Veja este
+enigma, por exemplo.
 !******************************!
 [t21_100_400.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:29>Pode mandar, Professor.
@@ -788,24 +783,25 @@ todo.
 irá chegar até a resposta, Luke.
 !******************************!
 [t21_110_100.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:105>Não há dúvidas de que o Molentary
-Express é a última palavra em luxo.<W> Até mesmo
-os pratos são luxuosos.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:105>Não há dúvidas de que o Molentary 
+Express é a última palavra em luxo.<W>
+Até mesmo os pratos são luxuosos.
 !******************************!
 [t21_110_200.gds]
-<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:30>Digo o mesmo! Olhe este copo!
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:30>Digo o mesmo! Olha este copo!
 !******************************!
 [t21_110_300.gds]
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:95>Sim, as gravuras são impressionantes.<W>
-Falando em copos, já ouviu este antes, Luke?
+Falando em copos, já ouviu este
+antes, Luke?
 !******************************!
 [t21_111_100.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:60>Ah sim, vamos resolver
-aquele enigma de copos de antes.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:60>Ah sim, vamos resolver aquele
+enigma de copos de antes.
 !******************************!
 [t21_112_100.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:78>Este cristal é excepcionalmente
-fino. Devemos tomar cuidado para não
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:78>Este cristal é excepcionalmente fino.
+Devemos tomar cuidado para não
 quebrá-lo.
 !******************************!
 [t21_113_100.gds]
@@ -814,50 +810,50 @@ de perto desses copos. Eles parecem
 bem frágeis.
 !******************************!
 [t21_114_100.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:47>Não desista. Estude esses copos com cuidado.
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:47>Não desista. Estude esses
+copos com cuidado.
 !******************************!
 [t21_120_100.gds]
 <01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:92>Bem vindo a bordo, senhores. Estariam
 interessados em uma bebida refrescante
-ou em um lanche delecioso?
+ou em um lanche delicioso?
 !******************************!
 [t21_120_200.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:60>Obrigado, mas não estamos
 com fome no momento.
 !******************************!
 [t21_120_300.gds]
-<01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:64>É claro que não.<W> Usei o meu melhor
-sorriso para nada.
+<01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:64>É claro que não.<W> Usei o
+meu melhor sorriso pra nada.
 !******************************!
 [t21_120_400.gds]
 <01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:176>A maioria dos passageiros lancha no
-vagão-restaurante. Lá é tão chique que 
-não posso culpá-los.<W>
+vagão-restaurante. Lá é tão chique
+que não posso culpá-los.<W>
 !------------------------------!
-Com uma concorrência dessas, é difícil vender
-até mesmo uma xícara de chá.<W> Ôôô tédio.
+Com uma concorrência dessas,
+é difícil vender até mesmo uma
+xícara de chá.<W> Ôôô tédio.
 !******************************!
 [t21_120_500.gds]
-<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:103>Daqui a pouco acaba meu turno, sendo assim,
-me ajudaria a resolver este
-enigma para passar o tempo?
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:103>Daqui a pouco acaba meu turno, sendo
+assim, me ajudaria a resolver este
+enigma pra passar o tempo?
 !******************************!
 [t21_121_100.gds]
-<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:51>Ah, oi. Quer ver de novo meu 
-enigma?
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:51>Ah, oi. Quer ver de novo meu enigma?
 !******************************!
 [t21_122_100.gds]
 <01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:108>Céus, quase cai de tanto tédio.<W>
-Esse emprego paga bem, mas é tão chato
-que chega a doer.
+Esse emprego paga bem, mas é
+tão chato que chega a doer.
 !******************************!
 [t21_123_100.gds]
-<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:42>Uau, quanto inteligência, garoto.
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:42>Uau, quanta inteligência, garoto.
 !******************************!
 [t21_123_200.gds]
-<01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:290>Então, nossa próxima parada
-é nesse pequeno povoado chamado
-Dropstone, certo?<W>
+<01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:290>Então, nossa próxima parada é nessa
+pequena vila chamada Dropstone, certo?<W>
 !------------------------------!
 Tipo, não tem nada lá. Eu gostaria
 que parássemos em uma cidade grande
@@ -872,7 +868,8 @@ chatice.
 Tente outra vez.
 !******************************!
 [t21_130_100.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:61>Olhe lá. Alguém largou um lixo ali no chão.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:61>Olhe lá. Alguém largou um lixo
+ali no chão.
 !******************************!
 [t21_130_200.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:33>Algumas pessoas não têm educação!
@@ -899,23 +896,24 @@ manter um lugar limpo e arrumado.
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:24>Hmm. Acho que estou travado.
 !******************************!
 [t21_140_100.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:77>Obrigado pela preferência, senhores. Espero que 
-a refeição tenha estado ao gosto
-de vocês.
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:77>Obrigado pela preferência, senhores.
+Espero que a refeição tenha estado
+ao gosto de vocês.
 !******************************!
 [t21_140_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:68>Ah sim, o cardápio estava excelente,
 tanto em variedade, quanto execução.
 !******************************!
 [t21_140_300.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:236>É uma honra, senhor. Garçons profissionais
-como eu vivem de elogios como o seu.<W>
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:236>É uma honra, senhor. Garçons
+profissionais como eu vivem
+de elogios como o seu.<W>
 !------------------------------!
 Bem, devo trazer a conta?<W>
 !------------------------------!
-Oh... sinto muito, senhores, mas acredito
-ter esquecido o seus pedidos. Poderiam
-relembrá-los?
+Oh... sinto muito, senhores, mas
+acredito ter esquecido os seus pedidos.
+Poderiam relembrá-los?
 !******************************!
 [t21_141_100.gds]
 <01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:42>Lembraram dos itens pedidos?
@@ -926,26 +924,26 @@ parada, então por favor, relaxem e
 apreciem o passeio.
 !******************************!
 [t21_143_100.gds]
-<01:0000000D><03:9>b1 smile<03:5>NONE<01:00000002><03:206>Céus, vocês lidaram com aquela conta com
-uma facilidade considerável. Agradeço pelo
-ajuda.<W>
+<01:0000000D><03:9>b1 smile<03:5>NONE<01:00000002><03:206>Céus, vocês lidaram com aquela conta
+com uma facilidade considerável.
+Agradeço pela ajuda.<W>
 !------------------------------!
-Como temos algum tempo até nosso próximo
-destio, convido-os a relaxarem e 
-apreciarem a jornada.
+Como temos algum tempo até nosso
+próximo destino, convido-os a relaxarem
+e apreciarem a jornada.
 !******************************!
 [t21_144_100.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:97>Não fiquem preocupados, senhores. Podem
-voltar quando tiverem lembrado o que
-pediram.
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:97>Não fiquem preocupados, senhores.
+Podem voltar quando tiverem lembrado
+o que pediram.
 !******************************!
 [t21_150_100.gds]
 <01:0000000E><03:8>b1 weep<03:5>NONE<01:00000002><03:43>Ufa... Isso foi mau, até mesmo
-para o Sr Beluga.
+pro Sr. Beluga.
 !******************************!
 [t21_150_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Quer dizer que ele sempre grita assim
-com você?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Quer dizer que ele sempre grita
+assim com você?
 !******************************!
 [t21_150_300.gds]
 <01:0000000E><03:8>b1 weep<03:5>NONE<01:00000002><03:94>Bem, sabe, comigo ou com qualquer outro
@@ -970,7 +968,7 @@ Quero dizer, até mesmo os pratos do
 vagão-restaurante são feitos a mão.
 A qualidade é incrível.<W>
 !------------------------------!
-Dê uma olhada nesses finos detalhes
+Dá uma olhada nos finos detalhes
 no fundo do prato!
 !******************************!
 [t21_151_100.gds]
@@ -978,28 +976,29 @@ no fundo do prato!
 outra vez? Aqui está.
 !******************************!
 [t21_152_100.gds]
-<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:91>O chefe é um pouco ditator, mas ao fim
+<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:91>O chefe é um pouco ditador, mas ao fim
 do dia, não é um trabalho ruim...eu acho.
 !******************************!
 [t21_153_100.gds]
-<01:0000000E><03:8>b1 weep<03:5>NONE<01:00000002><03:146>Puxa, você tem um bom olho
-para esse tipo de coisa.<W>
+<01:0000000E><03:8>b1 weep<03:5>NONE<01:00000002><03:146>Puxa, você tem um olho bom
+pra esse tipo de coisa.<W>
 !------------------------------!
 Tenho certeza que, por melhor que sejam,
-o Sr Beluga vai achar um motivo para
+o Sr. Beluga vai achar um motivo para
 reclamar desses pratos.
 !******************************!
 [t21_153_200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:80>Não me surpreende... Pessoas ricas
-têm dinheiro de sobra para desperdiçar em
-extravagâncias!
+têm dinheiro de sobra pra desperdiçar
+em extravagâncias!
 !******************************!
 [t21_154_100.gds]
 <01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:24>Achou muito difícil?
 !******************************!
 [t21_160_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:94>É uma supresa encontrá-lo a bordo, Inspetor.
-Posso lhe perguntar o que o traz aqui?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:94>É uma surpresa encontrá-lo a bordo,
+Inspetor. Posso lhe perguntar o que
+o traz aqui?
 !******************************!
 [t21_160_200.gds]
 <01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:409>Durante as investigações, encontramos
@@ -1010,46 +1009,45 @@ do doutor e me trouxeram até aqui.<W>
 !------------------------------!
 Mas já que a investigação não lhe diz
 respeito, isso é tudo que posso
-lhe dizer, Sr Layton.<W>
+lhe dizer, Sr. Layton.<W>
 !------------------------------!
 Além disso, minha prioridade agora é
 encontrar aquela criança perdida.<W>
 !------------------------------!
-Só que com apenas um nome e um sapato,
-vai ser como achar uma agulha em
-um palheiro.
+Só que com apenas um nome e
+um sapato, vai ser como procurar
+uma agulha em um palheiro.
 !******************************!
 [t21_160_300.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:65>Luke e eu ficariámos feliz
-em oferecer nossa ajuda neste caso.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:65>Luke e eu ficariámos felizes em
+oferecer nossa ajuda neste caso.
 !******************************!
 [t21_160_400.gds]
-<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:245>Ah, tenho certeza que sim. Eu ouvi
-falar de você, Layton.<W>
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:245>Ah, tenho certeza que sim.
+Eu ouvi falar de você, Layton.<W>
 !------------------------------!
-Você tem o péssimo hábito de
-enfiar o nariz onde não é
-chamado.<W>
+Você tem o péssimo hábito de enfiar
+o nariz onde não é chamado.<W>
 !------------------------------!
 Se quer participar do meu caso, por que
-não mostra seus famosos poderes de
+não me mostra seus famosos poderes de
 dedução resolvendo este enigma?
 !******************************!
 [t21_161_100.gds]
-<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:79>Voltou pelo enigma de sapato?
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:79>Voltou pelo enigma do sapato?
 Não vá falhar desta vez!
 !******************************!
 [t21_162_100.gds]
 <01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:94>Se encontrar o garoto perdido,
-lembre-se de avisar a Babette. Ela
-está no vagão seis.
+lembre-se de avisar à Babette.
+Ela está no vagão seis.
 !******************************!
 [t21_163_100.gds]
 <01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:195>Humph, pelo jeito sua fama
 não é um completo exagero.<W>
 !------------------------------!
-Mesmo assim, este é meu caso. Vou procurar
-pelo Tom sozinho.<W>
+Mesmo assim, este caso é meu.
+Vou procurar pelo Tom sozinho.<W>
 !------------------------------!
 Se quiser, conduza sua própria busca,
 mas não crie esperanças.
@@ -1065,15 +1063,14 @@ um garotinho andando por aí sem um
 dos sapatos?
 !******************************!
 [t21_170_200.gds]
-<01:0000002C><03:5>NONE<03:5>NONE<01:00000003><03:89>Não vi. Me lembraria
-se tivesse visto um garoto só com
-um dos sapatos!
+<01:0000002C><03:5>NONE<03:5>NONE<01:00000003><03:89>Não vi. Me lembraria se tivesse visto
+um garoto só com um dos sapatos!
 !******************************!
 [t21_170_300.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:29>Certo. Bem, muito obrig-
 !******************************!
 [t21_170_400.gds]
-<01:0000002C><03:5>NONE<03:5>NONE<01:00000003><03:106>Ah, mas já falou de sapatos,
+<01:0000002C><03:5>NONE<03:5>NONE<01:00000003><03:106>Ah, mas já que falou de sapatos,
 talvez você possa me ajudar com
 este pequeno problema...
 !******************************!
@@ -1083,54 +1080,54 @@ vez? Sintam-se a vontade, meninos.
 !******************************!
 [t21_172_100.gds]
 <01:0000002C><03:5>NONE<03:5>NONE<01:00000003><03:116>Se querem saber, trens são o jeito
-certo de viajar. <''>Avião<''> é apenas
-um sinônimo para <''>lata de sardinha<''>.
+certo de viajar. <''>Avião<''> é apenas mais
+um sinônimo pra <''>lata de sardinha<''>.
 !******************************!
 [t21_173_100.gds]
-<01:0000002C><03:5>NONE<03:5>NONE<01:00000003><03:77>Uau, surpreendente! Que mente
-brilhante você tem debaixo
-dessa cartola!
+<01:0000002C><03:5>NONE<03:5>NONE<01:00000003><03:77>Uau, surpreendente! Que mente brilhante
+você tem debaixo dessa cartola!
 !******************************!
 [t21_174_100.gds]
 <01:0000002C><03:5>NONE<03:5>NONE<01:00000003><03:81>O que você acha? Difícil, certo?
-Eu mesma tenho tido dificuldade
-com este.
+Eu mesma tenho tido dificuldade com este.
 !******************************!
 [t21_180_100.gds]
-<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:99>Sei que querem muito ver o que tem
-atrás da porta, mas, sem um bilhete, não vai rolar!
+<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:99>Tô ligado que querem muito ver o que tem
+atrás da porta, mas, sem um bilhete,
+não vai rolar!
 !******************************!
 [t21_180_200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:46>E se você deixasse a gente
 dar uma olhada beeeem rapidinho?
 !******************************!
 [t21_180_300.gds]
-<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:163>Sem chance, garoto. Você
-precisa de uma passagem para isso.<W>
+<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:163>Sem chance, garoto. Você precisa
+de uma passagem pra isso.<W>
 !------------------------------!
 Quer saber? O seu amigo Sammy Thunder
-tem um enigma que vai fazer vocês esquecerem
-esta porta. Saca só!
+tem um enigma que vai fazer vocês dois
+esquecerem esta porta. Saca só!
 !******************************!
 [t21_181_100.gds]
-<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:105>Acham que têm um resposta para
-o meu enigma? Beleza, mandem ver!
+<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:105>Acham que têm um resposta pro
+meu enigma? Beleza, mandem ver!
 !******************************!
 [t21_182_100.gds]
 <01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:108>Vocês querem entrar no vagão VIP.
-Beleza, tô ligado nisso. Mas como disse antes,
-não vai rolar. Não posso fazer nada.
+Beleza, tô ligado nisso. Mas como disse
+antes, não rola. Não posso fazer nada.
 !******************************!
 [t21_183_100.gds]
-<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:191>E é assim que se resolve esse.<W> Bem,
-agora que o show acabou, bora circular.<W>
+<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:191>E é assim que se resolve esse.<W>
+Bem, agora que o show acabou,
+bora circular.<W>
 !------------------------------!
 Vou levar um puxão de orelhas se a galera
 aí de dentro souber de outros passageiros
 passeando pela primeira classe.
 !******************************!
 [t21_184_100.gds]
-<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:84>Qual é? Meu enigma cansou vocês?<W>
+<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:84>Qualé? Meu enigma cansou vocês?<W>
 Sem problemas.
 !******************************!
 [t21_190_100.gds]
@@ -1139,53 +1136,50 @@ custar uma pequena fortuna!
 !******************************!
 [t21_190_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:157>Uma decoração bem feita tem o poder
-de transformar o ambiente, não acha? Ainda mais
-se forem flores.<W>
+de transformar o ambiente, não acha?
+Ainda mais se forem flores.<W>
 !------------------------------!
 Diga-me, Luke, o que acha de flores
 como estas?
 !******************************!
 [t21_191_100.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:48>Aqui está aquele enigma
-de antes.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:48>Aqui está aquele enigma de antes.
 !******************************!
 [t21_192_100.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:77>Parando para pensar, por que não temos
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:77>Parando pra pensar, por que não temos
 uma vaso de flores na nossa cabine?
 !******************************!
 [t21_192_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:105>É apenas um palpite, mas penso
-que a Babette seja o tipo de senhora que
-se contenta apenas com o melhor da vida.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:105>É apenas um palpite, mas penso que
+a Babette seja o tipo de senhora que se
+contenta apenas com o melhor da vida.
 !******************************!
 [t21_193_100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:86>Bom trabalho, mas lembre-se que nem
-todos os enigmas são fáceis assim! Bem, vamos
-indo.
+todos os enigmas são fáceis assim!
+Bem, vamos indo.
 !******************************!
 [t21_194_100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:71>Estude todos os detalhes e, cedo
 ou tarde, você chegará na solução.
 !******************************!
 [t21_200_100.gds]
-<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:84>Ah, um passageiro! Sinto muito, senhor,
-não era minha intenção ficar
-em seu caminho.
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:84>Ah, um passageiro! Sinto muito,
+senhor, não era minha intenção
+ficar no seu caminho.
 !******************************!
 [t21_200_200.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:74>Sem problemas, meu bom homem.
-Posso dizer, então, que você não é
+Posso assumir, então, que você não é
 um passageiro, certo?
 !******************************!
 [t21_200_300.gds]
 <01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:94>Nem, sou só o mecânico. Viajo
-com o trem para o caso de algo
-quebrar.
+com o trem pro caso de algo quebrar.
 !******************************!
 [t21_200_400.gds]
-<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:70>Mas como pode ver, ele tá
-firme e forte! Torna o meu trabalho
-uma barbada.
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:70>Mas como pode ver, ele tá firme e forte!
+Torna o meu trabalho uma barbada.
 !******************************!
 [t21_200_500.gds]
 <01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:99>Na verdade, tô com tanto tempo livre
@@ -1198,50 +1192,47 @@ Vai lá, mais uma chance!
 !******************************!
 [t21_202_100.gds]
 <01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:93>Acha que alguma coisa neste trem
-vai quebrar? Tô morrendo de vontade de ter
-o que fazer...
+vai quebrar? Tô morrendo de vontade
+de ter o que fazer...
 !******************************!
 [t21_203_100.gds]
 <01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:94>Fala sério, foi rápido demais!
 Nem teve graça!
 !******************************!
 [t21_204_100.gds]
-<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:85>Meu enigma tá te dando bastante trabalho.
-Pode levar o tempo que quiser.
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:85>Meu enigma tá te dando bastante
+trabalho. Pode levar o tempo que quiser.
 Vou estar por aqui mesmo.
 !******************************!
 [t21_210_100.gds]
-<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:46>Sinto muito por não
-poder ajudar mais.
+<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:46>Sinto muito por não poder ajudar mais.
 !******************************!
 [t21_210_200.gds]
-<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:79>Foi um prazer conversar com
-você. Leve este enigma para a viagem!
+<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:79>Foi um prazer conversar com você.
+Leve este enigma pra viagem!
 !******************************!
 [t21_211_100.gds]
 <01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:62>Hmm? Oh, olá outra vez. Quer tentar
 resolver meu enigma outra vez?
 !******************************!
 [t21_212_100.gds]
-<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:60>Esperamos que tenham sorte e encontrem
-aquela criança!
+<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:60>Esperamos que tenham sorte e
+encontrem aquela criança!
 !******************************!
 [t21_213_100.gds]
-<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:181>Sim, senhor, essa é a resposta. Vocês são 
-mentes brilhantes. Estou bastante
+<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:181>Sim, senhor, essa é a resposta. Vocês
+são mentes brilhantes. Estou bastante
 impressionado.<W>
 !------------------------------!
-Mas não se iludam. Aquela
-criança pode estar em qualquer
-lugar.
+Mas não se iludam. Aquela criança pode
+estar em qualquer lugar.
 !******************************!
 [t21_213_200.gds]
 <01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:170>Céus, não escutem meu marido. 
 As vezes ele é um pouco pessimista.<W>
 !------------------------------!
 Eu, por outro lado, estou torcendo por
-vocês. Boa sorte na busca pela
-criança!
+vocês. Boa sorte na busca pela criança!
 !******************************!
 [t21_214_100.gds]
 <01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:75>Oh, esqueci que vocês estavam no meio
@@ -1255,7 +1246,7 @@ outra vez?
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:31>Quer tentar aquele enigma outra vez?
 !******************************!
 [t21_222_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:70>A vista desse mirante é impressionante.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:70>A vista deste mirante é impressionante.
 !******************************!
 [t21_223_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:18>Perfeito.
@@ -1264,16 +1255,17 @@ outra vez?
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>Pense bem, Luke.
 !******************************!
 [t21_230_100.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:68>Ah, vocês gostariam de revistar
-aquele enigma de antes? Certamente, senhores.
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:68>Ah, vocês gostariam de revistar aquele
+enigma de antes? Certamente, senhores.
 !******************************!
 [t21_231_100.gds]
 <01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:47>Gostaria de tentar este agradável
 enigma outra vez?
 !******************************!
 [t21_232_100.gds]
-<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:98>Minhas mais sinceras desculpas pela demora.
-Chamarei vocês assim que vagar um lugar.
+<01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:98>Minhas mais sinceras desculpas
+pela demora. Chamarei vocês assim
+que vagar um lugar.
 !******************************!
 [t21_233_100.gds]
 <01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:11>Muito bem!
@@ -1282,16 +1274,17 @@ Chamarei vocês assim que vagar um lugar.
 <01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:17>Desistiram, senhores?
 !******************************!
 [t21_240_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:37>Ah, deixe-me lhe contar meu enigma do
-chapéu outra vez!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:37>Ah, me deixa contar meu enigma do
+boné outra vez!
 !******************************!
 [t21_241_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:60>Oh, quer tentar outra vez aquele enigma
-do chapéu que lhe contei mais cedo?
+do boné que lhe contei mais cedo?
 !******************************!
 [t21_242_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:83>Bem, nós já encontramos o chapéu. Não acho
-que há mais coisas para fazer aqui.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:83>Bem, nós já encontramos o boné.
+Não acho que há mais coisas pra
+fazer aqui.
 !******************************!
 [t21_243_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:14>Isso mesmo!
@@ -1307,20 +1300,21 @@ que há mais coisas para fazer aqui.
 quadro me parece muito familiar...
 !******************************!
 [t21_252_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:72>Se eu fosse o dono deste quadro, penduraria ele
-em um lugar de destaque na minha casa.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:72>Se eu fosse o dono deste quadro,
+penduraria ele em um lugar de destaque
+na minha casa.
 !******************************!
 [t21_253_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:122>Claro! Eu sei onde vimos este quadro antes.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:122>Claro! Eu sei onde vimos
+este quadro antes.<W>
 !------------------------------!
-Tenho certeza que este é o quadro que o
-Sr Beluga mandou retirar do
+Tenho certeza que este é o quadro
+que o Sr. Beluga mandou retirar do
 vagão-restaurante.
 !******************************!
 [t21_253_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:85>O garçom deve tê-lo trazido para cá
-depois do Sr Beluga ter brigado
-com ele.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:85>O garçom deve tê-lo trazido pra cá
+depois do Sr. Beluga ter brigado com ele.
 !******************************!
 [t21_253_300.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:54>Uma pena. É um ótimo trabalho.

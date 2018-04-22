@@ -3,9 +3,9 @@
 <02><0A><09><08><12><5B><1A><01><00><04><01><FF>
 O mapa que leva à casa do Dr. Schrader
 teve vários pedaços recortados do seu
-centro. Complete-o deslizando as peças
-com a caneta stylus e os inserindo-as
-em seus devidos lugares.
+centro. Mova as peças com sua caneta
+stylus e coloque-as nos lugares certos
+para completar o mapa!
 
 Pode parecer simples, mas não esqueça que
 você pode mover ou remover os pedaços,
