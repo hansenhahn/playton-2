@@ -1,56 +1,56 @@
 [n1.dat]
 <0001>Mapa do Dr. Schrader
 <02><0A><09><08><12><5B><1A><01><00><04><01><FF>
-O mapa que leva à casa do Dr. Schrader
-teve vários pedaços recortados do seu
-centro. Mova as peças com sua caneta
-stylus e coloque-as nos lugares certos
+O mapa que leva ao prédio do Dr. Schrader
+teve seu centro recortado em vários
+pedaços. Mova os pedaços com a sua caneta
+stylus e coloque-os nos lugares certos
 para completar o mapa!
 
-Pode parecer simples, mas não esqueça que
-você pode mover ou remover os pedaços,
-incluindo o que já está no meio do mapa.
+Pode parecer simples, mas não esqueça
+que, além de mover, você poder remover
+os pedaços, incluindo aquele que já está
+no centro do mapa.
 !******************************!
 Ótimo trabalho!
 
-Agora corra para o apartamento
-do doutor!
+Agora corra para o prédio do doutor!
 !******************************!
 Que pena!
 
 Releia o enigma cuidadosamente e
 tente de novo.
 !******************************!
-Incluindo aquele pedaço que está no centro
-desde o início, você tem seis pedaços para
-movimentar, mas apenas cinco espaços onde
-colocá-los.
+Você tem, incluindo o pedaço que já
+está no centro do mapa, seis pedaços
+disponíveis, mas apenas cinco espaços
+onde posicioná-los.
 
-Isso significa que um dos pedaços 
-não faz parte do mapa.
+Isso quer dizer que um dos pedaços não
+faz parte do mapa.
 !******************************!
 Preste atenção nos pedaços que faltam
-e no restante do mapa. Se conectar os
-padrões das estradas dos cantos de cada
-pedaço aos cantos das partes que faltam,
-cedo ou tarde a resposta aparecerá.
+e no restante do mapa. Se você conectar
+as estradas dos cantos de cada pedaço
+às estradas dos cantos das partes que
+faltam, cedo ou tarde chegará à resposta.
 !******************************!
-Você percebeu que o pedaço no meio
-do mapa no início do enigma não faz
-parte do mapa, logo nem da solução?
+Você percebeu que o pedaço posicionado
+no centro do mapa desde o início do
+enigma não pertence ao mapa, logo não é
+parte da solução?
 
-Agora tudo que resta é organizar
+Agora tudo o que resta é organizar
 os outros cinco pedaços.
 !******************************!
 [n10.dat]
 <0011>Árvores na Floresta
 <00><14><12><10><12><12><09><0A><EF><03><02><FF>
 A floresta abaixo contém quatro tipos
-diferentes de árvores. Use sua caneta
-stylus para desenhar divisórias na
-floresta para que você possa formar 
-quatro pedaços diferentes, cada pedaço
-contendo um tipo de cada árvore.
+de árvores. Use sua caneta stylus para
+dividir a floresta em quatro pedaços, 
+cada pedaço contendo um de cada tipo
+de árvore.
 !******************************!
 Muito bom!
 
@@ -59,34 +59,32 @@ o lindo cenário.
 !******************************!
 Que pena!
 
-Não entre em pânico se você ficar
-trancado. Comece procurando por
-áreas onde os quatro tipos de
-árvores estão conectados.
+Não entre em pânico se você ficar travado.
+Comece procurando por áreas onde os
+quatro tipos de árvores estão conectados
+na sequência.
 !******************************!
 Se você achar duas árvores do mesmo
-tipo próximas umas as outras, então
-você sabe que essas duas devem ser
-separadas por uma linha.
+tipo conectadas umas as outras, então
+você deve separá-las por uma linha.
 
 Isso deve lhe ajudar a começar.
 !******************************!
 Vamos focar nas árvores no canto inferior
-esquerdo da imagem. Se você desenhou as
-linhas de acordo com as instruções na
-Dica 1, esse pedaço da imagem deve ser
-fácil de desvendar. O pedaço que você
-criou deve ter um formato de L.
+esquerdo da imagem. O formato desse pedaço
+é fácil de desvendar se você desenhou as
+linhas de acordo com as instruções dadas
+na Dica 1. Esse pedaço deve ter o formato
+de um L.
 !******************************!
 A árvore no canto superior esquerdo
-e a que está à sua direita pertencem
+e a que está à direita dela pertencem
 a diferentes pedaços. O mesmo se aplica
 a árvore no canto superior direito e
 aquela diretamente abaixo dela.
 
-Use essas dicas como um ponto de partida
+Use essas dicas como ponto de partida
 para resolver o resto do enigma.
-
 !******************************!
 [n11.dat]
 <0012>Nuvens e Céu
@@ -94,289 +92,300 @@ para resolver o resto do enigma.
 Um homem sentado próximo a você no trem lhe
 mostra um desenho que ele fez. 
 
-<''>Digamos que a imagem tenha uma área
-total de 10. Consegue identificar o quanto
-é feito de nuvens e o quanto de céu?
-Não pense que precise adivinhar a resposta.
-Há uma #rmétodo simples#x que você pode
-usar para descobrir isso.<''>
+<''>Digamos que a imagem tenha uma área total
+de 10. Você consegue identificar o quanto da
+imagem é feita de nuvens e o quanto é de
+céu? Não pense que você vai ter que
+adivinhar a resposta. Há um #rmétodo simples#x
+que você pode usar para achar a solução.<''>
 
 Quanto da área é céu e quanto é nuvem?
 !******************************!
 Bom trabalho!
 
-A chave aqui é usar os pinos ao redor
-da imagem para dividi-la. Assim que o
-fizer, ficará claro que B e F, C e I, D e G,
-e E e H são simplesmente pares do mesmo
-desenho, apenas com as cores invertidas.
-Isso significa que nas oito áreas, quatro
-quadrados são de céu e quatro são nuvens.
-Os dois quadrados remanescentes, A e J,
-são somente azuis, então no final, seis
-quadrados são céu e quatro são nuvens.
+A segredo aqui é usar os pinos ao redor
+da imagem para dividi-la em quadrados. Assim
+que o fizer, ficará claro que B e F, C e I,
+D e G, e E e H são simplesmente pares do
+mesmo desenho, apenas com as cores
+invertidas. Isso quer dizer que, desses oito
+quadrados, quatro são de céu e quatro são
+nuvens. Os dois quadrados remanescentes,
+A e J, são completamente azuis, então, no
+final, seis quadrados são céu e quatro são
+nuvens.
 !******************************!
 Que pena!
 
 Dê outra longa e cuidadosa olhada no enigma.
 !******************************!
-Olhe mais de perto... Não na imagem em
-si, mas na sua moldura.
+Olhe mais de perto... Não para a imagem em
+si, mas para a sua moldura.
 
-Você poderia usar os pinos ao redor
-da moldura para simplificar a maneira
-com que vê a imagem.
+Você pode usar os pinos ao redor da moldura
+para ver a imagem a partir de outro ponto
+de vista.
 !******************************!
 A Dica 1 falou sobre os pinos na moldura.
-Percebeu que pode usá-los como guias para 
-dividir a imagem em 10 quadrados.
+Você percebeu que pode usá-los como guias
+para dividir a imagem em 10 quadrados?
 
-Agora tudo que precisa fazer é estudar
-os quadrados cuidadosamente.
+Agora tudo o que precisa fazer é estudar
+esses quadrados cuidadosamente.
 !******************************!
-Compare cada quadrado uns com os outros. Percebeu
-que alguns quadrados são idênticos em seus designs,
-mas com as cores invertidas? Qualquer quadrado que 
-encontrar assim tem a mesma quantidade de céu e nuvem.
-E não se esqueça dos dois quadrados que são preenchidos por
-por apenas uma cor.
+Compare cada quadrado com os demais.
+Você percebeu que alguns quadrados
+possuem o mesmo desenho, porém as cores
+estão invertidas? Qualquer um desses pares
+de quadrado que você encontrar têm a mesma
+quantidade de céu e nuvens. Além disso, não
+esqueça dos dois quadrados que estão
+preenchidos por apenas uma cor.
 !******************************!
 [n12.dat]
-<0013>No seu Prato
+<0013>No Seu Prato
 <01><0F><0D><0B><12><0C><16><0C><F6><03><02><FF>
-O prato na sua frente carrega uma marca feita
-de dois triângulos equilateros, um dentro do outro.
+O prato na sua frente foi marcado com
+uma estampa de dois triângulos equiláteros, 
+um dentro do outro.
 
-Consegue desvendar quantas vezes o triângulo
-grande;é maior que o triângulo pequeno?
+Você consegue descobrir quantas vezes
+o triângulo grande é maior que o triângulo
+pequeno?
 !******************************!
 Isso aí!
 
-Se você imaginar que o triângulo pequeno está
-invertido como mostrado, deverá levar apenas
-um momento para perceber que quatro triângulos
-pequenos caberiam dentro do grande.
+Se você imaginar o triângulo pequeno de
+cabeça para baixo, como mostrado, levará
+apenas um momento para você perceber que 
+caberiam quatro triângulos pequenos dentro
+do triângulo grande.
 !******************************!
 Que pena!
 
-Foque-se no triângulo pequeno.
+Foque a atenção no triângulo pequeno.
 !******************************!
-Você não precisa fazer nenhum cálculo em
-especial aqui. De fato, tudo que você precisa
-é de um pouco de intuição.
+Você não precisa realizar nenhum cálculo
+em especial aqui. De fato, tudo que você
+precisa é um pouco de intuição.
 !******************************!
-Como as coisas ficariam se você girasse
+Como as coisas ficariam se você rotacionar
 o triângulo pequeno?
 !******************************!
 Já tentou visualizar como as coisas
-ficariam se você girasse o triângulo
+ficariam se você rotacionasse o triângulo
 pequeno?
 
-Se já fez isso, deve ser mais fácil ver
-quantos triângulos pequenos cabem
-no grande.
+Se você já fez isso, deveria ser fácil ver
+quantos triângulos pequenos cabem dentro
+do triângulo grande.
 !******************************!
 [n13.dat]
 <0014>Bonés Vermelhos
 <01><19><16><13><11><0C><16><0D><F6><03><02><FF>
-Uma professora pediu para que todo mundo em
-sua turma fechassem seus olhos. Enquanto nenhum
-dos estudantes estavam olhando, ela colocou bonés
-em suas cabeças e disse:
+Uma professora pediu para que todos em
+sua turma fechassem os olhos. Enquanto
+nenhuma das crianças estava olhando, ela
+colocou bonés em suas cabeças e disse:
 
-<''>Ok, pessoal, abram seus olhos e olhem
+<''>Certo, pessoal, abram seus olhos e olhem
 para o boné dos seus colegas. Quem ver
-quatro ou mais pessoas usando bonés vermelhos
-ganha um balão vermelho, e quem não conseguir
-ganha um balão azul.<''>
+quatro ou mais colegas usando bonés
+vermelhos ganha um balão vermelho, e
+quem não ver, ganha um balão azul.<''>
 
-Em uma classe com 10 crianças, só algumas
+Em uma turma com 10 crianças, só algumas
 ganham um balão vermelho. Mas quantas?
 !******************************!
 Isso aí!
 
 Você sabe que só algumas crianças ganharam
-balões vermelhos. Se cinco ou mais crianças
+um balão vermelho. Se cinco ou mais crianças
 estivessem usando um boné vermelho, cada
-criança da turma veria pelo menos quatro bonés
-vermelhos e ganhariam um balão vermelho, então
-deve ser menos que cinco. Mas se três ou menos
-crianças estivessem usando bonés vermelhos, ninguém
-veria quatro balões vermelhos.
-
-Ou seja, quatro crianças devem ter bonés
-vermelhos, o que significa que as outras seis
-crianças receberam balões vermelhos.
+criança da turma veria pelo menos quatro
+bonés vermelhos e todos ganhariam um balão
+vermelho, então deve ser menos que cinco.
+Mas se três ou menos crianças estivessem
+usando um boné vermelho, ninguém veria
+quatro bonés vermelhos. Ou seja, 4 crianças
+estavam de boné vermelho, o que significa
+que as outras 6 crianças ganharam um balão
+vermelho.
 !******************************!
 Que pena!
 
 Pense bem sobre o enigma e tente novamente.
 !******************************!
 O enigma diz que algumas das crianças
-receberam balões vermelhos. Isso significa
+ganharam um balão vermelho. Isso significa
 que algumas crianças viram quatro ou mais
 bonés vermelhos.
 
 Dito isto, podemos concluir que não havia
-menos que quatro crianças de bonés vermelhos.
- 
+menos que 4 crianças de boné vermelho.
 !******************************!
-O enigma diz que #ralgumas#x das 
-crianças receberam balões vermelhos.
+O enigma diz que #ralgumas#x das crianças
+ganharam um balão vermelho.
 
-Ou seja, nem toda criança recebeu um
+Ou seja, nem todas crianças ganharam um
 balão vermelho. Qual seria o número de
 bonés vermelhos que faria com que todas
-as crianças recebesse um balão vermelho?
+as crianças ganhassem um balão vermelho?
 
-A resposta é menos que esse número.
+A resposta é menor que esse número.
 !******************************!
-Se todas as 10 crianças estivessem de
-bonés vermelhos, então todo mundo teria
-visto pelo menos quatro e teriam ganho um
-balão vermelho. Mas nenhuma criança consegue
-ver o boné em suas próprias cabeças. Com isso em
-mente, se pergunte quantas crianças ganhariam um 
-balão vermelho se nove delas estivessem de bonés vermelhos.
-E se fossem oito? Sete?
-child can see the cap on their own head.
+Se todas as 10 crianças estivessem de boné
+vermelho, então todo mundo teria visto ao
+menos quatro bonés vermelhos e ganhado
+um balão vermelho. Mas nenhuma criança
+consegue ver o boné em sua própria cabeça.
+Com isso em mente, faça a seguinte pergunta:
+quantas crianças ganhariam um balão
+vermelho se nove delas estivessem de boné
+vermelho. E se fossem oito? Sete?
 
-Continue diminuindo, e lembre-se que
-pelo menos quatro devem estar usando
-bonés vermelhos.
+Continue diminuindo o número e lembre-se que
+pelo menos 4 crianças devem estar usando
+boné vermelho.
 !******************************!
 [n14.dat]
-<0015>Quem é Tom?
+<0015>Quem é o Tom?
 <00><1E><1B><18><12><09><19><0E><FF><03><02><FF>
-Professor Layton suspeita que Tom não é
-a criança que achávamos que ele era.
+O Professor Layton suspeita que o Tom não
+é a criança que ele achava que fosse.
 
-Mova as peças em forma de L e as organize
-em um formato de + no meio do enigma para
-revelar a verdadeira identidade de Tom.
-
-
+Mova as peças em formato de L e organize-as
+no meio do tabuleiro em um formato de + para
+revelar a verdadeira identidade do Tom.
 !******************************!
 Bom trabalho!
 !******************************!
 N/A
 !******************************!
-Essas peças em forma de L são bastantes
-desconfortáveis de mover, não?
+Dá bastante trabalho mover essas peças
+em forma de L, não?
 
-Se você apenas pudesse mudar a forma das
-peças para algo mais fácil de se mover.
+E se desse para mudar a forma das peças
+para algo mais fácil de mover?
 
 Algo parecido com um quadrado, talvez?
 !******************************!
-Pareie cada peça em L com um quadrado
-pequeno e trate cada par como uma única peça.
+Combine cada peça em L com um quadrado
+pequeno e trate cada par como sendo
+uma única peça.
 !******************************!
-Se está lendo a Dica 3, você provavelmente não
-está se divertindo muito com esse tipo de enigma.
+Se você está lendo a Dica 3, então
+provavelmente você não está se divertindo
+muito com esse tipo de enigma.
 
-Quando você ficar bom em completar enigmas
-assim, talvez queira tentar completar esse em 20
-movimentos!
+Quando você ficar bom em resolver enigmas
+desse tipo, talvez você queira tentar
+completar este enigma em 20 movimentos!
 !******************************!
 [n15.dat]
-<0016>Flores em Negativo
+<0016>Margaridas Malucas
 <00><0F><0B><07><12><0F><02><0F><E8><03><02><FF>
-Agora vamos resolver um enigma mais florido.
+Agora vamos resolver um enigma florido.
 
 Das três imagens rotuladas A, B e C, uma é
-a mesma que a imagem lá na esquerda.
-Porém, a imagem da esquerda teve seu
-conteúdo virado da esquerda pra direita e sua
-coloração invertida e mudada para preto e branco.
+igual à imagem no canto esquerdo. Contudo,
+essa imagem no canto esquerdo foi espelhada
+e suas cores invertidas e trocadas por
+preto e branco.
 
-Qual imagem é a igual a figura preto e branco da
-esquerda, A, B ou C?
+Das imagens A, B, e C, qual delas é igual
+à imagem preto e branco no canto esquerdo?
 !******************************!
 Isso aí!
 
-Imagem A é a mesma da figura em preto e branco
-da esquerda.
+A imagem A é igual à imagem no canto
+esquerdo.
 
-Como mostrad acima, B e C possui pequenas variações.
+Como mostrado acima, B e C possuem pequenas
+diferenças em relação à imagem no canto
+esquerdo.
 !******************************!
 Que pena!
 
-Preste bastante atenção no enigma e tente novamente.
+Preste bastante atenção no enigma e tente
+novamente.
 !******************************!
-As cores invertidas da figura alterada
-fazem esse enigma ficar bastante desafiador,
-não?
+As cores invertidas da imagem no canto
+esquerdo tornam este enigma bastante
+desafiador, não é?
 
-Porém, essa mudança na figura pode lhe
-ajudar mais do que você imagina. Lembre-se,
-na imagem alterada, pontos escuros viraram
+Porém, esta mudança pode lhe ajudar mais do
+que você imagina. Lembre-se que na imagem
+no canto esquerdo, pontos escuros ficam
 claros e vice-versa.
-
 !******************************!
-Procurar por diferenças entre a figura
-preto e branco e cada uma das três imagens
-irá eventualmente lhe levar a resposta,
-mas tem um jeito mais fácil.
+Procurar por diferenças entre a imagem
+preto e branco e cada uma  das três imagens
+fará com que você eventualmente chegue
+à resposta. Contudo, há um jeito mais fácil.
 
-Já que uma das três imagens é igual a
-figura em preto e branco, porque não começar
-por procurar diferenças entre as imagens A, 
-B e C?
+Já que uma das três imagens é igual à imagem
+em preto e branco, por que não começar
+procurando pelas diferenças entre as
+imagens A, B e C?
 !******************************!
 Preste atenção aos círculos no centro de
-cada flor. Aliás, olhe bem para o número de
-pontos em cada imagem e suas posições.
+cada flor. Além disso, preste atenção na
+quantidade e posição dos pontos em cada
+imagem.
 !******************************!
 [n16.dat]
 <0017>A Jornada da Formiga
 <00><19><16><13><12><08><09><10><EF><03><02><FF>
 Essas formigas trabalham incansavelmente
-para levar comida para seus ninhos. Uma dessas
-formigas estava voltando com comida quando
-esbarrou com um conhecido em frente ao ninho.
+para levar comida aos seus ninhos. Uma
+dessas formigas estava voltando com comida
+quando esbarrou com um conhecido em frente
+ao ninho.
 
-<''>O que está fazendo? Não percebeu que
-pegou o #rcaminho de volta mais longo possível#x?
-Preste atenção aonde vai, da próxima vez!<''>
+<''>O que está fazendo? Você não percebeu que
+pegou #ro caminho de volta mais longo possível#x?
+Preste atenção aonde vai da próxima vez!<''>
 
-Sabendo que a formiga nunca percorrou o mesmo
-caminho duas vezes, poderia traça qual foi o caminho
-que a formiga tomou?
+Você pode traçar o caminho que a formiga
+tomou, sabendo que ela nunca percorreu o
+mesmo caminho duas vezes?
 !******************************!
 Isso aí!
 
-Talvez todo esse peso fez a formiguinha se distrair
-de seu caminho para casa. Se ela ao menos tivesse
-pensado no caminho que estava tomando ela poderia
-ter economizado uma baita caminhada!
+Talvez todo esse peso tenha feito a
+formiguinha se distrair e errar o caminho
+para casa. Se ao menos ela tivesse pensado
+no caminho que estava tomando, ela teria
+economizado uma baita caminhada!
 !******************************!
 Que pena!
 
-Preste atenção no enigma e tente novamente.
+Preste atenção no enigma e tente
+novamente.
 !******************************!
-Quando traçar uma rota de volta ao ninho,
-deixe o menor número de caminhos intocados
-que conseguir.
+Quando for traçar uma rota de volta ao
+ninho, tente não passar pelo menor número
+de caminhos que você conseguir.
 !******************************!
 Presumindo que o topo da tela seja o norte,
-vá para o sul do ponto de partida e depois vá
-para oeste na primeira oportunidade.
+siga para o sul do ponto de partida, e depois
+siga para o oeste na primeira oportunidade.
 
-Na próxima interseção , vá para norte
+Na próxima interseção, siga na direção norte
 até o topo do mapa.
 
-Quando chegar em uma interseção em T 
-no topo do mapa, vá para oeste novamente.
-E quando chegar em uma parede, pegue o caminho
-do sul.
+Siga novamente para o oeste quando chegar
+em uma interseção em T no topo do mapa.
+Quando chegar em uma parede, siga na
+direção sul.
 !******************************!
-Do ponto em que parou depois das
-direções da Dica 2, vá para o leste na
-primeira chance, e então pegue o próximo
-caminho que leva ao sul.
+A partir do ponto em que você parou após
+ler a Dica 2, siga para o leste na primeira
+oportunidade, e então pegue o primeiro
+caminho em direção ao sul.
 
-Se chegou até aqui o resto é moleza.
+Se chegou até aqui, o resto é moleza.
 !******************************!
 [n17.dat]
 <0018>Passo a Passo
