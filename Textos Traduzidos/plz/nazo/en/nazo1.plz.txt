@@ -388,20 +388,22 @@ caminho em direção ao sul.
 Se chegou até aqui, o resto é moleza.
 !******************************!
 [n17.dat]
-<0018>Passo a Passo
+<0018>O Labirinto de Sapatos
 <00><14><12><10><11><09><17><11><FD><03><02><FF>
 Aqui temos um labirinto feito de sapatos.
 
-Sua tarefa é percorrer do ponto de partida até
-a chegada. Você só pode andar horizontalmente
-ou verticalmente um espaço de cada vez, e você
-deve alternar entre sapstos esquerdos e direitos
-a cada passo. E você também não pode passar por
-nenhuma parede do labirinto.
+Sua tarefa é percorrer do ponto de partida
+até o ponto de chegada. Você só pode seguir
+na horizontal, ou na vertical, um espaço por
+vez, devendo alternar entre sapatos de pé
+esquerdo e pé direito a cada passo. Você
+também não pode ultrapassar nenhuma parede
+do labirinto.
 
-Toque um espaço de cada vez para realçar o
-caminho que quer tomar. Se errar um passo você
-pode desselecionar o espaço o tocando de novo.
+Toque um espaço de cada vez para selecionar
+o caminho que você deseja seguir. Se errar
+o passo, toque novamente o espaço para
+desselecioná-lo.
 !******************************!
 Bom trabalho!
 
@@ -526,7 +528,7 @@ sapatos que custam <po>30, e também com
 [n2.dat]
 <0003>Qual Chave?
 <00><14><12><10><12><04><12><02><4C><04><01><FF>
-Qual dessas chaves abre a porta?
+Qual destas chaves abre a porta?
 
 Use a caneta stylus para mover as chaves e
 encontrar a que se encaixa na fechadura.
@@ -536,32 +538,32 @@ para encontrar a certa!
 !******************************!
 Isso aí!
 
-Quanto tempo demorou pra você perceber que
-as cabeça das chaves também poderiam ser
-inseridas na fechadura?
+Quanto tempo demorou para você perceber
+que as cabeças das chaves também poderiam
+ser inseridas na fechadura?
 
-Essa liçãozinha sobre os perigos de se fazer
-julgamentos à primeira vista virá a calhar
-nas suas aventuras enigmáticas.
+Que essa pequena lição fique de aviso para
+você não fazer suposições à primeira vista
+durante suas aventuras solucionando
+enigmas.
 !******************************!
 Que pena!
 
-Pode parecer que nenhuma das chaves se encaixam
-na fechadura, mas a resposta está lá.
+Pode parecer que nenhuma das chaves serve
+para esta fechadura, mas não é o caso.
 !******************************!
-À primeira vista, o lado oposto das chaves parecem
-bem mais complexos que o formato da fechadura.
+À primeira vista, os dentes das chaves
+parecem mais complexos que a fechadura.
 
-Concentre-se e tente encontrar um
-formato que combine com a fechadura.
+Preste atenção e procure por um formato
+que combine com a fechadura.
 !******************************!
-Já tentou todas as seis possibilidades?
+Você já tentou todas as seis possibilidades?
 
-O quê? Mas só tem três chaves?
-Isso com certeza é verdade, mas tente
-pensar fora da caixola.
+O quê? Mas só tem três chaves? Isso é
+verdade, mas tente pensar fora da caixa.
 !******************************!
-Gire as chaves e as segure na parte que
+Gire as chaves e segure-as pela parte que
 você normalmente põe na fechadura.
 !******************************!
 [n20.dat]
@@ -1002,46 +1004,45 @@ on this?
 
 !******************************!
 [n3.dat]
-<0004>Um Quarto Trancado
+<0004>Uma Sala Inacessível
 <00><1E><1B><18><12><05><05><03><EB><03><01><FF>
-Dado que o apartamento do doutor se encontra 
-no oitavo andar e que a porta estava seguramente
-trancada, você até poderia pensar que não tinha 
-jeito de sair nem entrar desse quarto. Entretanto, um
-único detalhe suspeito provê uma pista 
-quanto ao que aconteceu aqui.
+Dado que o apartamento do doutor fica no
+oitavo andar e a porta estava bem trancada,
+pode-se pensar que não há como entrar ou
+sair desta sala. Contudo, um detalhe suspeito
+dá pistas do que pode ter acontecido aqui.
 
-Olhe em todas as quatro direções e examine o
-quarto com cuidado. Quando você achar que encontrou
-o tal detalhe acusador, o circule com a caneta stylus
-e toque em #rEnviar#x. Tenha certeza de circulas apenas um
-objeto ou a sua resposta não vai valer!
-
+Olhe nas quatro direções e examine a sala
+com atenção. Quando você tiver encontrado
+o detalhe revelador, circule-o com a stylus
+e toque #rEnviar#x. Certifique-se de circular
+apenas um objeto, caso contrário a sua
+resposta será inválida!
 !******************************!
 Bem observado!
 
-Por alguma razão parte da cortina foi
-rasgada! O que poderia ter acontecido caqui?
+Por alguma razão, parte da cortina foi
+rasgada! O que será que aconteceu aqui?
 !******************************!
 Que pena!
 
-Se você está empacado, pense em como
-o criminoso poderia ter fugido da cena.a
+Se você está empacado, tente pensar em
+como o criminoso poderia ter fugido da cena.
 !******************************!
 Olhe em todas as direções. Você está
 procurando por algo suspeito.
 
-O apartamento do Dr. Schrader certamente
-é cheio de objetos estranhos e raros, mas
-<">estranho e raro<"> não é a 
-mesma coisa que <">suspeito<">.
+O apartamento do Dr. Schrader está cheio
+de objetos estranhos e raros, mas
+<">estranho e raro<"> não é a mesma coisa que
+<">suspeito<">.
 !******************************!
-As partes do apartamento que o
-professor e o Inspetor Chelmey estão
-não têm o que você procura.
+Não há nada a procurar nos lados da sala
+onde estão o professor e o Inspetor
+Chelmey.
 !******************************!
-O objeto em questão é encontrado em pares
-na maioria das vezes.
+O detalhe suspeito em questão está em um
+dos pares de um objeto.
 !******************************!
 [n30.dat]
 <0031>Pass the Apples
@@ -1520,40 +1521,40 @@ The green club should be placed above
 the yellow circle.
 !******************************!
 [n4.dat]
-<0005>A Mala de Luke
+<0005>A Mala do Luke
 <00><1E><1B><18><12><08><1A><04><00><04><02><FF>
-Os pertences de Luke estão uma bagunça
-e precisam ser guardados em sua mala.
+Os pertences do Luke estão espalhados e
+precisam ser guardados em sua mala.
 
-Use a caneta stylus para mover os objetos para a
-mala, prestando atenção para que nenhum fique
-em cima do outro. Quando tudo estiver guardado 
-direitinho na mala, toque em #rEnviar#x.
-
+Use a caneta stylus para colocar os objetos
+na mala, prestando atenção para que nenhum
+fique em cima do outro. Quando tudo estiver
+guardado direitinho na mala, toque em #rEnviar#x.
 !******************************!
 Bom trabalho!
 
-Agora o Luke pode fechar
-sua mala facilmente.
+Agora o Luke não vai mais ter problemas
+para fechar sua mala.
 !******************************!
 Que pena!
 
-Tem certeza que nenhum item está
-por cima do outro?
+Você tem certeza que nenhum item está por
+cima do outro?
 !******************************!
-Você pode usar os itens menores como a
-gaita e o telescópio pra preencher espaços
-pequenos depois, então coloque primeiro
-os itens maiores.
+Você pode usar os itens menores como
+o telescópio, ou a gaita, para preecher
+pequenos espaços mais tarde, portanto
+coloque primeiro na mala os itens maiores.
 !******************************!
-O enorme conjunto de frigideira e espátula
-vão no canto inferior esquerdo. O ursinho
-do Luke pertence no canto superior direito.
-Isso deve bastar pra você poder começar.
+Aquele enormo conjunto de frigideira e
+espátula vai no canto inferior esquerdo da
+mala. O ursinho do Luke vai no canto superior
+direito. Agora, tente guardar o resto das
+coisas.
 !******************************!
 O livro vai no canto superior esquerdo.
 
-Você deve dar conta do resto.
+O resto é com você.
 !******************************!
 [n40.dat]
 <0041>Cube Halves
@@ -1994,47 +1995,50 @@ and three Nowheys, you know that this
 assumption must be incorrect.
 !******************************!
 [n5.dat]
-<0006>Pilhas de Panquecas1
+<0006>Pilhas de Panquecas 1
 <00><0F><0D><0B><02><0E><0D><05><F3><03><02><FF>
-Aqui vai um enigma saboroso pra você.
+Aqui vai um enigma saboroso para você.
 
-Você consegue mover a pilha de panquecas do prato
-azul a esquerda para o prato vermelho na direita?
-Espera aí, não tão fácil quanto parece.
-Você deve seguir estas regras:
+Você consegue mover a pilha de panquecas do
+prato azul à esquerda para o prato vermelho
+à direita? Espera aí, não tão fácil quanto
+parece. Você deve seguir estas regras:
 
-<->Você só pode mover uma panqueca de cada vez.
+<->Você só pode mover uma panqueca de cada
+vez.
 <->Você não pode colocar uma panqueca grande
-em cima de uma menor.
+em cima de uma pequena.
 
-Você pode usar o prato do centro e
-mover as panquecas quantas vezes quiser.
+Você pode usar o prato do centro e mover
+as panquecas quantas vezes você quiser.
 !******************************!
 Delicioso!
 
-Esse enigma é na verdade uma variação do
-famoso <''>Torre de Hanói<''>, um enigma inventando
-por um matemático francês lá em 1883.
+Esse enigma é, na verdade, uma variação
+do famoso <''>Torre de Hanói<''>, um enigma
+inventando por um matemático francês
+em 1883.
 !******************************!
 
 !******************************!
-De início esse enigma pode parecer atordoante,
-mas não é tão difícil assim.
+De início, esse enigma pode parecer muito
+complicado, mas não é tão difícil assim.
 
-Se não conseguir chegar em uma solução pela lógica,
-apenas movas as panquecas um pouco e eventualmente
-você chegará em uma resposta.
+Se você não conseguir chegar em uma solução
+usando a lógica, apenas movas as panquecas
+de um lado para o outro e, eventualmente,
+você chegará a uma resposta.
 !******************************!
-Se você conseguir colocar a maior panqueca no
-prato vermelho, significa que está quase lá.
+Você vai estar quase lá quando conseguir
+colocar a panqueca maior no prato vermelho.
 !******************************!
-Mova a menor das panquecas para o prato 
-vermelho, então coloque a panqueca de 
-tamanho médio no prato do meio.
+Mova a panqueca menor para o prato
+vermelho, então coloque a panqueca média
+no prato do meio.
 
-Em seguida coloque a menor das panquecas em cima
-da panqueca de tamanho médio. Isso vai livrar o
-prato vermelho pra maior das panquecas.
+Em seguida coloque a panqueca menor em
+cima da panqueca média. Isso vai liberar
+o prato vermelho para a panqueca maior.
 !******************************!
 [n50.dat]
 <0051>Gatos Malucos
