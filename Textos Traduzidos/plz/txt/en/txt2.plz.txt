@@ -1,71 +1,71 @@
 [goal_10.txt]
-Siga para a Casa do Dr Schrader!
+Vá para o Prédio do Dr. Schrader!
 !******************************!
 [goal_100.txt]
-Return Tom to Babette!
+Devolva o Tom para a Babette!
 !******************************!
 [goal_110.txt]
-Return to Your Room!
+Volte para sua Cabine!
 !******************************!
 [goal_120.txt]
-Take a Look at the Blockage!
+Vá Verificar o Bloqueio!
 !******************************!
 [goal_130.txt]
-Clear the Tracks!
+Limpe os Trilhos!
 !******************************!
 [goal_140.txt]
-Explore the Village!
+Explore a Vila!
 !******************************!
 [goal_150.txt]
-Look Around the Plaza!
+Olhe os Arredores da Praça!
 !******************************!
 [goal_160.txt]
-Explore until the Competition!
+Explore até o Desfile!
 !******************************!
 [goal_165.txt]
-Go to the Competition!
+Vá para o Desfile!
 !******************************!
 [goal_170.txt]
-Return to the Train Station!
+Volte para a Estação de Trem!
 !******************************!
 [goal_180.txt]
-Find Romie!
+Encontre o Romie!
 !******************************!
 [goal_190.txt]
-Get Back on the Train!
+Volta para o Trem!
 !******************************!
 [goal_20.txt]
-Siga até a Porta do Dr Schrader!
+Vá até a Porta do Dr. Schrader!
 !******************************!
 [goal_200.txt]
-Talk to the Train Crew!
+Fale com a Tripulação!
 !******************************!
 [goal_210.txt]
-Go to the Deluxe Carriage!
+Va para o Vagão de Luxo!
 !******************************!
 [goal_215.txt]
-Search the Deluxe Carriage!
+Vasculhe o Vagão de Luxo!
 !******************************!
 [goal_220.txt]
-Head Back to Your Room!
+Volte para sua Cabine!
 !******************************!
 [goal_230.txt]
-Get off the Train!
+Deixe o Trem!
 !******************************!
 [goal_235.txt]
-Explore the Town!
+Explore a Cidade!
 !******************************!
 [goal_237.txt]
-Find the Hotel!
+Encontre o Hotel!
 !******************************!
 [goal_240.txt]
-Investigate Around Town!
+Investigue os Arredores!
 !******************************!
 [goal_250.txt]
-Enquire at the Antique Shop!
+Faça Perguntas no Antiquário!
 !******************************!
 [goal_255.txt]
-Visit the Herzen Museum!
+Visite o Museu Herzen!
 !******************************!
 [goal_260.txt]
 Gather Clues around Town!
@@ -89,19 +89,19 @@ Entre no Apartamento do Dr Schrader!
 Take the Beef Shank to the Dog!
 !******************************!
 [goal_310.txt]
-Collect the Photo Scraps!
+Colete os Pedaços da Fotografia!
 !******************************!
 [goal_320.txt]
 Get the Remaining Photo Scraps!
 !******************************!
 [goal_330.txt]
-Talk to People around Town!
+Converse com as Pessoas pela Cidade!
 !******************************!
 [goal_340.txt]
-Return to the Hotel!
+Retorne para o Hotel!
 !******************************!
 [goal_35.txt]
-Examine the Room!
+Examine a Cabine!
 !******************************!
 [goal_350.txt]
 Go to Your Hotel Room!
@@ -110,64 +110,64 @@ Go to Your Hotel Room!
 Gather More Clues in Town!
 !******************************!
 [goal_370.txt]
-Visit the Herzen Museum!
+Visite o Museu Herzen!
 !******************************!
 [goal_380.txt]
 Study the Museum's Exhibits!
 !******************************!
 [goal_385.txt]
-Explore the Mine!
+Explore a Mina!
 !******************************!
 [goal_390.txt]
-Go to Herzen Castle!
+Vá para o Castelo Herzen!
 !******************************!
 [goal_40.txt]
-Explore the Train!
+Explore o Trem!
 !******************************!
 [goal_400.txt]
-Examine the Room!
+Examine a Cabine!
 !******************************!
 [goal_410.txt]
 Find a Way to Escape!
 !******************************!
 [goal_420.txt]
-Flee the Castle!
+Fuja do Castelo!
 !******************************!
 [goal_430.txt]
-Investigate Herzen Castle!
+Investigue o Castelo Herzen!
 !******************************!
 [goal_45.txt]
-Head for the Observation Deck!
+Vá para o Mirante!
 !******************************!
 [goal_5.txt]
 Vasculhe as Gavetas da Escrivaninha!
 !******************************!
 [goal_50.txt]
-Continue Exploring the Train!
+Continue Explorando o Trem!
 !******************************!
 [goal_510.txt]
-Find the Last Photo Scrap!
+Ache o Último Pedaço da Fotografia!
 !******************************!
 [goal_520.txt]
-Find Mr Anderson!
+Ache o Sr. Anderson!
 !******************************!
 [goal_54.txt]
-Head to the Dining Car!
+Vá para o Vagão-Restaurante!
 !******************************!
 [goal_58.txt]
-Go to Your Room in Carriage 3!
+Vá para sua Cabine no Vagão 3!
 !******************************!
 [goal_59.txt]
-Search for Tom!
+Procure o Tom!
 !******************************!
 [goal_60.txt]
 Find the Couple Who've Seen Tom!
 !******************************!
 [goal_70.txt]
-Return to Carriage 4 - Hall!
+Volte para o Vagão 4 - Corredor!
 !******************************!
 [goal_80.txt]
-Continue Searching for Tom!
+Continue Procurando o Tom!
 !******************************!
 [goal_85.txt]
 Find the Girl with a Small Dog!
@@ -529,7 +529,7 @@ your hamster get in shape!
 [tx_204.txt]
 Enigma %.3d
 "%s"
-foi adicionado ao Livro de Enigmas!
+foi enviado ao Livro de Enigmas!
 !******************************!
 [tx_205.txt]
 Você encontrou %s!

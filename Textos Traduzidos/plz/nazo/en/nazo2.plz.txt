@@ -807,47 +807,47 @@ able to see an ominous-looking goat's
 head in the middle of the photo.
 !******************************!
 [n116.dat]
-<0002>O Apartamento do Doutor
+<0002>Onde Mora o Doutor?
 <03><0F><0C><09><11><03><05><74><EB><03><01><FF>
-Encontre a janela do Doutor Schrader
-a partir da descrição em sua carta.
+Encontre o apartamento do Dr. Schrader
+a partir das descrições em sua carta.
 
-<''>Pela manhã, geralmente acordo com o som
-de uma música escapando de um apartamento
+"<''>Pela manhã, geralmente acordo com o som de
+uma música escapando de um apartamento
 próximo. Olhando pela janela, vejo uma
 bandeira balançando calmamente, tomo um
 pequeno gole do meu chá e passo a admirar
 o nascer do sol. Sabe, não são muitos 
 apartamentos em Londres que possuem uma
-vista do nascer do sol.<''>
+vista do nascer do sol."<''>
 
-Circule a janela em que o doutor
-vê o nascer do sol.
+Circule a janela onde o doutor vê o nascer
+do sol.
 !******************************!
 Está certo!
 
 Agora que você sabe onde é, siga para
 o apartamento do doutor!
 !******************************!
-Too bad!
+Que pena!
 
-Take another look at what the doctor has
-to say about where he lives.
+Leia outra vez o que o doutor tem a dizer
+sobre o lugar onde ele mora.
 !******************************!
-Since the doctor mentions hearing music
-from a nearby flat, you can rule out the
-window the music is coming from.
+Já que o doutor disse que escuta música
+vindo de um apartamento próximo, você pode
+descartar a janela de onde está vindo a
+música.
 !******************************!
-As the doctor makes special mention of
-being able to see the sunrise, it's likely
-his flat is one of the ones higher up in
-the picture.
+Como o doutor deu destaque para o fato
+de conseguir ver o nascer do sol, então 
+parece correto afirmar que o apartamento
+dele fica nos últimos andares do prédio.
 !******************************!
-The doctor talks about seeing the flag
-outside his window move in the breeze
-from inside the flat. There appears to
-be only one flat where you could
-accomplish this feat.
+O doutor comenta sobre ver uma bandeira do
+lado de fora de seu apartamento balançando
+com o vento. Ao que tudo indica, só há um
+apartamento que atende à todas condições.
 !******************************!
 [n117.dat]
 <0117>Three Couples

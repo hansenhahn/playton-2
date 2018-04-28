@@ -625,788 +625,780 @@ você abra três válvulas. Na primeira
 bifurcação dos canos, vá para cima.
 !******************************!
 [n135.dat]
-<0137>One True Sword
+<0137>A Espada de Verdade
 <00><32><28><1E><11><51><05><87><EB><03><04><FF>
-<''>A true warrior always keeps his blade in
-hand.<''>
+<''>O verdadeiro guerreiro sempre mantém
+sua espada em mãos.<''>
 
-These are Anton's last words to Professor
-Layton before the start of their duel.
-Can you find the one real sword among
-Anton's collection?
+Essas foram as últimas palavras para o
+Professor Layton antes de começar o duelo.
+Você consegue encontrar a verdadeira
+espada no meio da coleção do Anton?
 
-Circle your selection to draw your
-weapon of choice!
+Circule a área para sacar sua arma
+escolhida!
 !******************************!
-Nicely done!
+Muito bem!
 
-<''>A true warrior always keeps his 
-blade in hand.<''>
+<''>O verdadeiro guerreiro sempre mantém
+sua espada em mãos.<''>
 
-Anton's words were a subtle hint that all
-the swords on the wall were for show.
-The only real sword is the one sitting
-in the hand of the suit of armour! 
+As palavras do Anton eram uma dica sutil
+que todas as espadas na parede são enfeites.
+A única espada de verdade é aquela na
+mão do traje de armadura! 
 !******************************!
-Too bad!
+Que pena!
 
-Anton's words are a hint to you. 
-Think about what they suggest!
+As palavras do Anton eram uma dica
+pra você. Pense o que elas significam!
 !******************************!
-Can you picture the professor using a
-curved sword? It doesn't really seem to
-fit his style, does it?
+Consegue imaginar o professor usando uma
+espada curvada? Não parece realmente ser
+do estilo dele, não é?
 !******************************!
-Intricately decorated swords are too
-ornate to be of much practical use.
+Espadas de decoração são exageradamente
+muito enfeitadas para serem de uso prático.
 !******************************!
-No sword on the wall could belong to a
-true warrior. After all, a blade on the
-wall can't be considered <''>in hand<''>.
-Study the picture. Does anyone in the
-picture have a sword <''>in hand<''>?
+Nenhuma espada na parede poderia pertencer
+a um guerreiro de verdade. Afinal, uma
+lâmina na parede não pode ser considerada
+<''>em mãos<''>. Estude a imagem. Alguém na
+imagem tem uma espada <''>em mãos<''>?
 
-Perhaps one of those suits of armour
-knows the answer...
+Talvez algum dos trajes de armadura
+sabe a resposta...
 !******************************!
 [n136.dat]
-<0139>Coast to Coast
+<0139>Costa a Costa
 <00><46><3F><38><72><01><16><88><F6><03><02><FF>
-A woman boards a non-stop flight leaving Los
-Angeles at 12:00 and arrives in New York at
-20:00. The next day, the same woman leaves
-New York at 12:00 and flies back to Los
-Angeles. The flight is unaffected by jet
-streams and takes the same amount of time
-to reach its destination as it did the
-previous day. The time difference means it
-is always three hours later in New York
-than in Los Angeles. Can you work out what
-time the plane arrives back in Los Angeles?
-#rGive your answer in 24-hour notation.#x
+Uma mulher embarca num voo sem parar partindo
+de Los Angeles às 12:00 e chega em Nova Iorque
+às 20:00. No dia seguinte, a mesma mulher sai
+de Nova Iorque às 12:00 e voa de volta para Los
+Angeles. O voo foi desafetado por correntes de
+jato e levou a mesma quantidade de tempo
+para alcançar o seu destino como houve no
+dia anterior. A diferença no fuso horário
+é sempre três horas atrasado em Nova Iorque
+que em Los Angeles. Consegue descobrir
+que horas o avião chega de volta em Los Angeles?
+#rDê sua resposta em notação de 24 horas.#x
 !******************************!
-Good job!
+Bom trabalho!
 
-The plane arrives back in Los Angeles at
+O aviação chega em Los Angeles às
 14:00.
 
-Due to the three-hour time difference,
-when it's 12:00 in Los Angeles, it's 15:00
-in New York. The plane gets into New York at
-20:00, so the duration of the flight must be
-five hours. The flight back to Los Angeles
-also takes five hours, meaning that it
-arrived at 17:00 New York time. Factor in
-the time difference to get the plane's
-arrival in Los Angeles: 14:00.
+Devido à diferença de três horas, quando
+é 12:00 em Los Angeles, é 15:00 em Nova
+Iorque. O avião chega em Nova Iorque às
+20:00, então a duração do voo deve ser de
+cinco horas. O voo de volta a Los Angeles
+também leva cinco horas, significando que
+chegou às 17:00 no horário de Nova Iorque.
+Faça a diferença de tempo pra saber o horário
+de chegada do avião em Los Angeles: 14:00.
 !******************************!
-Too bad!
+Que pena!
 
-Factoring in that bothersome time
-difference can be tricky, but as long as
-you remember to account for it, you'll
-arrive at the correct answer without too
-much work.
+Calcular essa diferença de tempo
+problemática pode ser desafiador, mas
+contanto que você se lembrar da lógica por
+trás disso, irá descobrir a resposta
+correta sem muito trabalho.
 !******************************!
-Think about the rotation of the Earth.
-The time in locations farther to the
-east is ahead of that of more western
-locales.
+Pense sobre a rotação da Terra.
+O horário nas localidades mais para o
+leste são adiantadas que as para
+o oeste.
 
-Therefore, given a three-hour time
-difference, when it's 12:00 in
-Los Angeles, it must be 15:00 in New York.
+Assim, dado uma diferença de três
+horas, quando for 12:00 em Los
+Angeles, deverá ser 15:00 em Nova Iorque.
 !******************************!
-Taking into account the time difference,
-the plane left Los Angeles at 15:00
-New York time and landed at 20:00.
-Therefore, the flight itself must have
-taken five hours.
+Levando em consideração as diferenças
+de horário, o avião saiu de Los Angeles
+às 15:00 em horário de Nova Iorque e
+aterrissou às 20:00. Então, o voo em
+si deve ter levado cinco horas.
 !******************************!
-The time difference has the reverse
-effect on the flight returning to Los
-Angeles.
+A diferença no horário tem o efeito
+reverso no voo retornando em
+Los Angeles.
 
-If the plane to Los Angeles left New
-York at noon New York time, you could
-also say it left New York at 09:00
-Los Angeles time.
+Se o avião para Los Angeles saiu de Nova
+Iorque ao meio-dia no horário de Nova
+Iorque, você também poderia dizer que
+saiu às 09:00 no horário de Los Angeles.
 !******************************!
 [n137.dat]
-<0140>One Extra Block
+<0140>Um Bloco Extra
 <00><46><3F><38><11><01><02><89><E8><03><02><FF>
-The diagram below shows a structure made
-of 28 blocks. Of these blocks, 27 form a
-perfect cube, with the remaining block
-sitting on top poking out above the rest.
+O diagrama abaixo mostra uma estrutura feita
+de 28 blocos. Desses blocos, 27 formam um
+cubo perfeito, com um bloco restante sentado
+em cima pra fora de todo o resto.
 
-Below this diagram sit those same 28 blocks,
-but this time the cube has been separated
-into five chunks. Can you work out which
-of the chunks, A to E, contains the single
-block that sat on top of all the others?
+Abaixo desse diagrama estão os mesmos 28
+blocos, mas dessa vez o cubo foi separado
+em cinco pedaços. Consegue descobrir qual
+dos pedaços, de A até E, contém o único
+bloco que fica sobre todos os outros?
 
-Assume that all five chunks fit together
-as shown and can't be rotated from their
-current orientation.
+Assuma que todos os cinco pedaços se
+encaixam juntos como mostrado e não
+pode ser rotacionado de sua direção atual.
 !******************************!
-Good eye!
+Ótima visão!
 
-B contains the 28th block.
+O B contém bloco 28.
 
-Were you able to visualise all five pieces
-reforming the original structure?
+Você foi capaz de visualizar todas as
+cinco peças reformando a estrutura original?
 !******************************!
-Too bad!
+Que pena!
 
-Imagine combining all the chunks of the
-structure in your head.
+Imagine combinando todos os pedaços
+da estrutura na sua cabeça.
 !******************************!
-If the top block on chunk D were the
-block you're searching for, then the
-block on the bottom-left corner would
-stick out of the cube. D must not be
-the correct answer.
+Se o bloco de cima do pedaço D fosse
+o bloco que está procurando, então o
+bloco inferior esquerdo iria sair
+para fora do cubo. D não deve ser
+a resposta correta.
 
-Remember, each chunk is locked in its
-current orientation and can't be
-rotated.
+Lembre-se, cada pedaço está preso
+em sua direção atual e não pode ser
+rotacionado.
 !******************************!
-If the block you seek was at the top of
-C, then D would be forced out of the
-structure when all the chunks were 
-put back together.
+Se o bloco que você procura fosse o
+topo do C, então D seria forçado pra
+fora da estrutura quando todas as
+peças forem postas juntas.
 
-Chunk C must not be the answer either.
+O pedaço C não pode ser a resposta.
 !******************************!
-Chunk D forms a part of the front-left
-side of the large cube. Use that
-information to start reconstructing the
-structure in your head.
+O pedaço D forma a parte do lado esquerdo
+frontal do cubo largo. Use essa informação
+para começar a reconstrução da estrutura
+na sua cabeça.
 
-As the pieces come together, the answer
-should become clear.
+Assim que as peças ficarem juntas, a
+resposta se tornará clara.
 !******************************!
 [n138.dat]
-<0141>Disappearing Act 6
+<0141>Ato de Desaparecimento 6
 <00><63><58><4D><01><01><1D><8A><02><04><02><FF>
-Just as before, you can move any ball on
-the board below as long as it satisfies
-the following conditions:
-<->To move, jump your selected ball over an
-adjacent space occupied by another ball
-into an empty space on the other side.
-You can't jump diagonally.
-<->Once you've made the jump, the ball you
-jumped over disappears from the board.
-<->To complete the puzzle, you must remove all
-balls from the board except for one.
+Igual nas vezes anteriores, você pode mover
+qualquer bola do tabuleiro contanto que
+satisfaça as seguintes instruções:
+<->Para mover, pule com a bola que selecionou
+por cima de um espaço adjacente ocupado por
+outra bola até um espaço vazio no outro lado.
+Não pode pular diagonalmente.
+<->Assim que fizer o pulo, a bola que você
+pulou por cima irá desaparecer do tabuleiro.
+<->Para completar esse enigma, você deve
+remover todas as bolas do tabuleiro exceto uma.
 
-OK, enough rules. Start getting rid of those
-balls!
+Tá bom, chega de regras. Comece a tirar todas
+essa bolas!
 !******************************!
-Masterfully done!
+Feito com maestria!
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-You have quite a few balls to get rid
-of, so you'll have to do a lot of jumping.
-Just make sure you aren't choosing your
-moves at random, or you'll end up getting
-stuck before you can finish.
+Tem bastante bola para remover, então
+você terá que fazer muitos pulos.
+Apenas tenha certeza de que você não esteja
+fazendo seus movimentos aleatoriamente, ou então
+irá acabar preso antes que possa terminar.
 
-Plan out your jumps so that you never
-leave any balls out away from the group
-where you won't be able to reach them
-later.
+Planeje seus pulos para que você nunca
+deixe nenhuma bola afastada do grupo
+senão não será capaz de alcançá-las
+mais tarde.
 !******************************!
-As you reduce the number of balls on
-the board, those remaining take on a
-configuration that you've previously
-solved.
+Assim que reduzir o número de bolas
+do tabuleiro, essas restantes ficarão
+numa posição que você já resolveu
+anteriormente.
 
-If you've made it this far, this puzzle is
-in the bag for you.
+Se você já chegou tão longe assim, esse
+enigma será mamão com açúcar pra você.
 !******************************!
-Sorry, there are no more hints to be had
-for this puzzle.
+Sinto muito, mas não há mais dicas para
+dar sobre esse enigma.
 
-You may have heard that proper
-solitaire players don't consider these
-puzzles complete unless the remaining
-ball ends up in the centre space. One
-step at a time, though. Let's finish this
-puzzle first.
+Você já deve ter ouvido que os autênticos
+jogadores de resta um não consideram esses
+enigmas completos até que a bola restante
+acabe no espaço central. Mas um passo de
+cada vez. Vamos terminar esse enigma
+primeiro.
 !******************************!
 [n139.dat]
-<0142>The Scholar's Life
+<0142>A Vida de um Erudito
 <00><3C><36><30><12><01><16><8B><F6><03><03><FF>
-The following words are written on a famous
-mathematician's grave.
+As seguintes palavras estão escritas numa
+lápide de um matemático famoso.
 
-<''>Following the 1/6th of my life I spent as a
-child, I spent 1/12th of my life as a young
-man. Then, 1/7th of my life later, I got
-married. Five years after I was wed, I was
-blessed with a child, but sadly, he only lived
-half the time I was alive before passing
-away. Today, four years after his death, I
-too will depart from this world.<''>
+<''>Seguindo o 1/6 da minha vida que passei
+como criança, passei 1/12 da minha vida como
+um jovem. Então, 1/7 da minha vida depois, me
+casei. Cinco anos depois o casamento, fui
+abençoado por uma criança, mas infelizmente,
+ele viveu apenas metade do tempo que eu
+estava vivo antes de falecer. Hoje, quatro
+anos após sua morte, irei departir deste mundo.<''>
 
-Can you work out how many years the
-mathematician lived?
+Consegue descobrir por quantos anos esse
+matemático viveu?
 !******************************!
-Very nice!
+Muito bem!
 
-The mathematician was alive for 84 years.
-Setting up a linear equation, as shown
-above, makes short work of this puzzle.
+O matemático esteve vivo por 84 anos.
+Elaborando uma equação linear, amostrado
+acima, resume basicamente esse enigma.
 
-Interestingly enough, a puzzle very similar
-to the one you just solved is said to be
-written upon the headstone of the grave of
-Diophantus, a famous ancient Greek
-mathematician.
+Só por curiosidade, um enigma bem similar
+a esse que você resolveu diz estar
+escrito na lápide da tuba do Diofanto,
+um famoso matemático da Grécia antiga.
 !******************************!
-Too bad!
+Que pena!
 
-This puzzle takes some brainpower, but
-keep at it.
+Esse enigma frita um pouco o cérebro,
+mas aguente firme.
 !******************************!
-Try setting up a linear equation where
-this mathematician's life in years
-equals x.
+Tente elaborar uma equação linear
+onde a vida do matemático em anos se
+iguala a x.
 !******************************!
-Would you rather not use hard maths to
-solve this puzzle? Have no fear, you
-can also solve this problem without
-using a linear equation.
+Você prefere não usar matemática avançada
+para resolver esse enigma? Não tema, você
+também pode resolver esse enigma sem
+usar uma equação linear.
 
-By adding together 1/6, 1/12, 1/7 and
-1/2 of this man's life, you can express
-the length of the mathematician's life
-as fractions, minus the parts that were
-five and four years long. You can find
-the answer using only this information.
+Somando juntos 1/6, 1/12, 1/7 e 1/2
+da vida desse homem, você pode expressar
+o tamanho da vida desse matemático com
+frações, menos as partes de cinco e
+quatro anos de duração. Você pode encontrar
+a resposta usando apenas essa informação.
 !******************************!
-The lowest common denominator of 1/2,
-1/6, 1/7 and 1/12 seems to be the same
-as the length of the mathematician's life
-expressed in years.
+O menor denominador comum de 1/2,
+1/6, 1/7 e 1/12 parece ser a mesma
+duração da vida do matemático
+expressada em anos.
 !******************************!
 [n140.dat]
-<0143>Letter Calculations
+<0143>Cálculos Alfabéticos
 <00><3C><36><30><12><01><1A><8C><00><04><03><FF>
-If you take the problem 11 x 11 = 121 and
-replace the 1s with As and the 2s with Bs,
-you get AA x AA = ABA.
+Se você pegar o problema 11 x 11 = 121 e
+substituir os 1s com As e os 2s com Bs,
+conseguirá AA x AA = ABA.
 
-A similarly-generated letter equation would
-be AA x AA = BBCC. Can you work out what A,
-B and C equal in the above equation? The
-values of A and B may or may not have
-changed from the first example.
+Uma equação de letras similar a essa seria
+AA x AA = BBCC. Consegue descobrir quanto
+vale A, B e C na equação acima? Os
+valores de A e B podem ter mudado ou
+não do primeiro exemplo.
 !******************************!
-Sharp thinking!
+Bela mente afiada!
 
 88 x 88 = 7744
 
-The numbers work out perfectly if you
-assign A a value of 8, B a value of 7 and
-C a value of 4.
+Os números funcionam perfeitamente se você
+declarar A com valor de 8, B com valor de 7
+e C com valor de 4.
 
-This equation may seem daunting at first,
-but if you bear in mind that the
-potential values of A are limited,
-everything starts coming together
+Essa equação pode ser ameaçadora no
+começo, mas se você deixar em mente
+que os valores potenciais de A são
+limitados, tudo começa a se encaixar!
 
 !******************************!
-Too bad!
+Que pena!
 
-Try running through your calculations
-one more time.
+Tente pensar melhor sobre os cálculos
+mais uma vez.
 !******************************!
-Each letter is represented by a single-
-digit,  so the possibilities for
-each letter represents are fairly
-limited.
+Cada letra é representada por um único
+dígito, então as possibilidades para
+cada letra poder representar são
+bem limitadas.
 !******************************!
-If you start by replacing A with 1 and
-work your way through all the other
-possible digits for A, you'll find your
-answer before long. What's more, if you
-use a calculator, trying out every
-possibility will take only a minute or two.
+Se você começar a substituir o A por 1 e
+fazer seu caminho por todos os outros
+possíveis dígitos para A, irá encontrar sua
+resposta bem cedo. E ainda mais, se você
+usar uma calculadora, tentar cada possibilidade
+irá demorar um minuto ou dois no máximo.
 
-But if you can, try to solve it just
-using your head.
+Mas, se puder, tente resolver usando
+apenas sua cabeça.
 !******************************!
-Try substituting each digit for A and
-working your way up, as detailed in
-Hint 2. You'll find the answer in the
-last half of your search. 
+Tente substituir cada dígito por A e
+mude em ordem crescente, como detalhado
+na Dica 2. Irá encontrar a resposta
+na última metade de sua busca. 
 !******************************!
 [n141.dat]
-<0144>Super Pancakes
+<0144>Super Panquecas
 <00><63><58><4D><02><01><0D><05><F3><03><03><FF>
-Here's a tasty puzzle for you.
+Aqui está um enigma gostoso pra você.
 
-Can you move the pile of pancakes from the
-blue plate on the left to the red plate on
-the right? Wait, though, it's not as easy as
-it sounds. You must follow these rules:
+Você consegue mover a pilha de panquecas
+do prato azul da esquerda para o prato
+vermelho da direita? Espere, não é tão fácil
+quanto parece. Você deve seguir essas regras:
 
-<->You can only move one pancake at a time.
-<->You cannot place a pancake on top of
-another one that is smaller than itself.
+<->Você só pode mover uma panqueca por vez.
+<->Você não pode pôr uma panqueca em cima de
+outra que seja maior que a mesma.
 
-You can use the middle plate and move
-the pancakes as many times as you like.
+Você pode usar o prato do meio e mover as
+panquecas quantas vezes você quiser.
 !******************************!
-Scrumptious!
+Delicioso!
 
-You gave your stylus quite the workout!
+Você se exercitou bem com sua caneta!
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-The method for solving pancake puzzles
-has been described in many other hints.
+Um método para resolver enigmas de
+panquecas pode ser descrito dessa
+maneira:
 
-Move the smallest pancake over to the
-middle plate, then move the next smallest
-pancake to the red plate. Next, stack
-the smallest pancake on top of the one
-on the right. Now take a new, slightly
-larger pancake from the stack on the
-left and move it onto the open middle
-plate. Read more on what to do next in
-Hint 2.
-!******************************!
-From where Hint 1 left off, put the
-smallest pancake on the pancake sitting
-on the middle plate. Next, move the
-pancake on the red plate over to the 
-stack on the left. Now bring the smallest
-pancake you have over to sit on top of
-the stack of pancakes on the left plate.
+Mova a menor panqueca para cima do prato
+do meio, então mova a segunda menor
+panqueca para o prato vermelho. Então,
+empilhe a menor panqueca para cima
+daquela da direita. Agora pegue uma
+nova panqueca da pilha da esquerda e
+mova para o prato do meio. Leia mais
+sobre o que fazer na Dica 2.
+!*****************************!
+De onde a Dia 1 parou, ponha a menor
+panqueca em cima da panqueca que está
+no prato do meio. Então, mova a panqueca
+do prato vermelho para a pilha da
+esquerda. Agora traga a menor panqueca
+que você tem para cima da pilha de
+panquecas da esquerda.
 
-You can solve this puzzle by repeating
-the process outlined in Hints 1 and 2
-while introducing bigger and bigger
-pancakes, but it's not very efficient.
+Você pode resolver esse enigma repetindo
+o processo demonstrado nas Dicas 1 e 2
+enquanto põe panquecas cada vez maiores,
+mas não é muito eficiente.
 !******************************!
-Aim to limit the number of moves you
-make to keep yourself from getting
-confused along the way. 
+Tente limitar o número de movimentos para
+si mesmo para se impedir de ficar confuso
+no meio do caminho.
 !******************************!
 [n142.dat]
-<0145>500 Pearls
+<0145>500 Pérolas
 <00><46><3F><38><12><01><16><8E><F6><03><02><FF>
-A wizard sets a traveller a strange task.
+Um mago pede a um viajante uma estranha tarefa.
 
-<''>There are 500 pearls in that cave. I want
-you to go and bring a certain number of
-pearls to me. This number allows you to
-divide the pearls into groups of 2, 3, 4, 5,
-6 or 7 and always have one pearl left over.
-Bring me this number of pearls and you can
-keep them all for yourself!<''>
+<''>Há 500 pérolas naquela caverna. Eu quero
+que você vá e traga um certo número de pérolas
+para mim. Esse número te permite dividir as
+pérolas em grupos de 2, 3, 4, 5, 6 ou 7 e
+sempre terá uma pérola restante. Traga-me
+este número de pérolas e você poderá ficar
+com todas para si mesmo!<''>
 
-The traveller tries his best, but the number
-of pearls he brings back doesn't leave one
-pearl over when divided into groups of 4.
-How many pearls did he bring to the wizard?
+O viajante tenta o seu melhor, mas o número
+de pérolas que ele traz não resta uma quando
+dividido em grupos de 4. Quantas pérolas ele
+trouxe pro mago?
 !******************************!
-Brilliant!
-The answer is 211 pearls. The traveller's
-number must be between 1 and 500, and
-one more than a number that is divisible
-by 2, 3, 5, 6 and 7. The quickest way
-to find this number is to make a list
-of multiples of 7 up to the limit of 500,
-then see if those numbers are also divisible
-by the other numbers. This takes quite some
-time unless you realise that any number
-divisible by 6 is also divisible by 2 and 3,
-so you really only have to compare your
-multiples of 7 against 6 and 5. If only the
-traveller had brought back 421 pearls...
+Brilhante!
+A resposta é 211 pérolas. O número do
+viajante deveria ser entre 1 e 500 e um a
+mais que o número que é divisível por 2,
+3, 5, 6 e 7. O jeito mais rápido de encontrar
+esse número seria fazer uma lista de múltiplos
+de 7 até o limite de 500 e então ver se esses
+números são também divisíveis pelo os outros
+números. Isso levaria um bom tempo a não ser
+se você percebesse que qualquer número
+divisível por 6 também é divisível por 2 e
+3, então você tem apenas que comparar com 6 e
+5. Imagine só se o viajante tivesse trazido
+421 pérolas...
 !******************************!
-Too bad!
+Que pena!
 
-This puzzle may seem like a pain to solve,
-but if you take the time to calculate
-everything, there's really nothing
-difficult about it. There are also ways
-to reduce the amount of calculation you
-need to do.
+Este enigma parece ser doloroso resolver,
+mas se você tiver tempo pra calcular tudo,
+não terá nada de difícil sobre isso. E
+há jeitos de reduzir a quantidade de
+cálculos que você precisa fazer.
 !******************************!
-Let's reduce the wizard's original
-question a little. If there is always one
-pearl left over when dividing the total
-number by the numbers 2 to 7, then the
-traveller is being asked to find a number
-that can be neatly divided by those
-numbers, and then add one to the total.
+Vamos reduzir o diálogo do mago um pouco.
+Se sempre restará uma pérola quando dividido
+pelo os números de 2 a 7, então foi pedido
+ao viajante para encontrar um número que
+possa ser dividido perfeitamente por esses
+números, com um adicionado no final.
 
-Don't forget that his answer fails to
-take into account the number 4.
+Não se esqueça que a resposta dele falha
+levando em conta com o número 4.
 !******************************!
-The traveller's number must be one more
-than a number that can be divided by 2,
-3, 5, 6 and 7. This means the number you
-want to add one to is a multiple of all
-these numbers. Finding it sounds hard,
-but there are ways to make it easier.
-The largest number, 7, will have the
-fewest multiples in the range 1 to 500,
-so you should start working out
-multiples of 7 in that range and then
-see which of those are divisible by the
-other numbers.
+O número do viajante deve ter um a mais
+e deve ser divisível por 2, 3, 5, 6 e 7.
+Isso significa precisa adicionar mais um no
+múltiplo de todos esses números. Descobrir
+parece difícil, mas há jeitos de deixar mais
+fácil. O maior número, 7, irá ter a menor
+quantidade de múltiplos entre 1 e 500, então
+você deveria começar a trabalhar com esses
+múltiplos e então ver quais são divisíveis
+pelo os outros números.
 !******************************!
-If you're still finding it too
-time-consuming to find common multiples
-for the numbers on the list, here's
-a little trick.
+Se você está achando muito cansativo
+descobrir os múltiplos comuns desses
+números da lista, há um pequeno truque.
 
-Any number that is a multiple of 6
-is also a multiple of 2 and 3.
+Qualquer número que é divisível por 6
+também é um múltiplo de 2 e 3.
 !******************************!
 [n143.dat]
-<0146>Angles in a Box
+<0146>Ângulos numa Caixa
 <00><46><3F><38><12><01><16><8F><F6><03><02><FF>
-On the diagram below, A, B and C indicate the
-centre point of three edges of the cube.
-These points are connected by lines.
+No diagrama abaixo, A, B e C indicam o ponto
+central de três arestas de um cubo. Esses
+pontos estão conectados por linhas.
 
-How many degrees is the internal angle ABC
-at the point where lines AB and BC meet?
+Quantos graus é o ângulo interno ABC no
+ponto onde as linhas AB e BC se encontram?
 !******************************!
-Good job!
+Ótimo trabalho!
 
-The answer is 120 degrees.
+A resposta é 120 graus.
 
-If you continued to connect the middle
-points of the edges in this way, you would
-draw a regular hexagon. And the internal
-angles in regular hexagons are always
-120 degrees!
+Se você continuasse a conectar os pontos
+centrais das arestas desse jeito, você iria
+desenhar um hexágono normal. E os ângulos
+internos dos hexágono regulares são sempre
+120 graus!
 
 !******************************!
-Too bad!
+Que pena!
 
-This puzzle is more about visualisation
-than calculation.
+Este enigma é mais sobre visualização
+que cálculo.
 !******************************!
-There's no need to do any complicated
-calculations. Visualisation is the
-important part.
+Não precisa fazer nenhum cálculo
+complicado. Visualização e a parte mais
+importante.
 
-The three points are each on the centre
-points of the edges of a regular cube.
+Os três pontos estão um em cada ponto
+central das arestas de um cubo normal.
 !******************************!
-The three points are each the centre
-point of a regular cube's edge. Think
-about the other centre points. What
-would happen if you continued
-connecting centre points in this
-fashion?
+Os três pontos estão em cada ponto
+central das arestas de um cubo normal.
+Pense sobre os outros pontos centrais.
+O que aconteceria se você continuasse
+a conectar os pontos centrais desse
+jeito?
 !******************************!
-Think about the regular geometric
-figures you could create that include
-points A, B and C.
+Pense nas figuras geométricas que você
+poderia criar que inclui os pontos
+A, B e C.
 
-You could create a regular hexagon,
-couldn't you?
+Você poderia criar um hexágono regular,
+não?
 !******************************!
 [n144.dat]
-<0147>Sliding Labyrinth
+<0147>Labirinto Deslizante
 <00><50><48><40><12><01><19><90><FF><03><02><FF>
-This map depicts an underground labyrinth,
-but it's all scrambled, so it's up to you to
-put it in the proper order again.
+Este mapa ilustra um labirinto subterrâneo,
+mas está todo bagunçado, então cabe a você
+colocar em ordem novamente.
 
-Tunnel segments of each piece must meet up
-with tunnel edges of adjoining pieces. The
-only times tunnel segments can lead
-outwards without touching other segments
-are when they're the entry and exit points.
-Tunnels can't dead-end at walls otherwise.
+Cada pedaço dos segmentos de túnel deve
+se encontrar com as partes que são
+adjacentes. As únicas vezes que os segmentos
+podem estar ficar com um lado sem tocar nos
+outros segmentos são os pontos de entrada e
+saída. Os túneis não podem encarar as paredes.
 
-Slide the pieces around and see if you can
-solve the puzzle!
+Deslize as peças por aí e veja se
+conseguirá resolver o enigma!
 !******************************!
-Very nice!
+Muito bem!
 
-Seeing which pieces connect to others is
-easy, but getting them all into place
-can be tough.
+Ver quais peças se conectam com as outras é
+fácil, mas colocar todas elas em uma só pode
+ser difícil.
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-Just moving pieces around randomly
-probably won't help much. Think about
-the position of pieces on the grid as
-dictated by where their tunnel
-segments are placed.
+Mover as peças aleatoriamente provavelmente
+não irá ajudar muito. Pense sobre a
+posição das peças na tela descobrindo
+como os segmentos do túnel estarão postos.
 !******************************!
-The piece connected to the entry point
-is the straight horizontal tunnel.
+O pedaço conectado com o ponto de entrada
+é o túnel reto horizontal.
 
-Leave the bottom-right square on the
-map open.
+Deixe o quadrado no canto inferior
+direito do mapa aberto.
 !******************************!
-The pool is below the entry point.
+A piscina é abaixo do ponto de entrada.
 
-The crossroads goes in the centre of
-the map.
+O cruzamento fica no centro do mapa.
 !******************************!
 [n145.dat]
-<0148>Eight Cards
+<0148>Oito Cartas
 <00><46><3F><38><12><01><1A><91><00><04><04><FF>
-These cards, numbered 1 to 8, can be used
-to make two multiplication equations. One
-is given here, but can you work out the
-second one?
+Essas cartas, numeradas de 1 a 8, podem ser
+usadas para fazer duas equações de multiplicação.
+Uma já foi mostrada aqui, mas você consegue
+descobrir a segunda?
 !******************************!
-Well done!
+Muito bem!
 
-The answer is 582 x 3 = 1746.
+A resposta é 582 x 3 = 1746.
 !******************************!
-Too bad!
+Que pena!
 
-Perhaps you made a calculation error?
+Talvez você fez um cálculo errado?
 !******************************!
-The number on the right of the equation
-has four digits, the first of which is 1.
+O número na direita da equação tem
+quatro dígitos, cujo o primeiro é o 1.
 !******************************!
-The last digit in the answer is 6.
+O último dígito da resposta é 6.
 !******************************!
-The single-digit multiplier is 3.
+O dígito único que multiplica é 3.
 !******************************!
 [n146.dat]
-<0149>Number Cycle
+<0149>Ciclo Numérico
 <00><46><3F><38><12><01><16><92><F6><03><04><FF>
-There's a pattern to this cycle of numbers.
-What number should go in place of the
-question mark?
+Há um padrão nesse ciclo de números.
+Qual número deveria ir no lugar desse
+ponto de interrogação?
 !******************************!
-That's right!
+Está certo!
 
-It's 89. Square each digit in a number and
-then add these values together to find the
-next number in the cycle.
+É o 89. Eleve ao quadrado cada dígito de
+um número e então adicione esses valores
+para descobrir o próximo número do ciclo.
 !******************************!
-Too bad!
+Que pena!
 
-What do you think the pattern is?
+Qual você acha que é o padrão?
 !******************************!
-Try treating each digit of a number as
-a separate entity.
+Tente tratar cada dígito de um número
+como uma entidade separada.
 !******************************!
-Try to find a rule that uses the digits
-from one number to create the next
-number in the cycle.
+Tente achar uma regra que usa os
+dígitos de um número para criar o
+próximo número do ciclo.
 !******************************!
-Try squaring the individual digits of
-each number first.
+Tente elevar ao quadrado os dígitos
+individuais de cada número primeiro.
 !******************************!
 [n147.dat]
-<0150>The Knight's Tour 4
+<0150>O Passeio do Cavalo 4
 <00><63><51><48><02><01><11><93><F7><03><04><FF>
-Lead the knight on a trip around the board.
+Leve o cavalo para uma viagem ao redor do tabuleiro.
 
-Chess knights move two squares forwards
-and one square perpendicular on each turn.
-The initial direction can be up, down, left
-or right.
+Os cavalos no xadrez se movem dois espaços para
+frente e um perpendicular a cada turno.
+A direção inicial pode ser cima, baixo,
+esquerda ou direita.
 
-Move this knight around the entire board,
-landing on each square only once. 
+Move este cavalo ao redor do tabuleiro
+inteiramente, pisando em cada espaço só uma vez. 
 
 !******************************!
-Wonderful!
+Maravilhoso!
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-This board is 8 x 8, just like an ordinary
-chessboard. That means this puzzle is
-just like the original Knight's Tour.
+Este tabuleiro é 8 x 8, igual a um tabuleiro
+de xadrez normal. Isso significa que este
+enigma é igual ao Passeio do Cavalo original.
 
-There are no hints to be had here!
-Just work it out on your own.
+Não há dicas para serem dadas aqui!
+Apenas descubra sozinho.
 !******************************!
-The Knight's Tour usually involves
-returning the knight to the starting
-space at the end of the tour. If you're
-trying to accomplish this, then choosing
-the correct starting space is very
-important. Why not use the Memo
-Function to help you?
+O Passeio do Cavalo geralmente envolve
+em retornar o cavalo para o espaço inicial
+no fim do passeio. Se você está almejando
+isso, então escolher um espaço inicial
+correto é muito importante. Por que
+você não usa a Função Memo para te
+ajudar?
 !******************************!
-There are many avid chess researchers
-in Europe and the US who write detailed
-papers with elegant solutions to chess
-puzzles. Looking through resources like
-these is one more way of enjoying chess
-puzzles.
+Há muitos pesquisadores ávidos em xadrez
+na Europa e EUA que escrevem papéis bem
+detalhados com soluções bem elegantes de
+enigmas de xadrez. Procurar por desafios
+como esses é mais uma forma de se divertir
+com enigmas de xadrez.
 !******************************!
 [n148.dat]
-<0151>John's Score
+<0151>A pontuação de John
 <00><63><58><4D><72><01><16><94><F6><03><01><FF>
-Four students took a test where every
-question had two possible answers, A or B.
-Each question was worth 10 points, for a
-total of 100 points.
+Quatro estudantes fizeram um teste onde cada
+pergunta tinha duas possíveis respostas,
+A e B. Cada pergunta vale 10 pontos, com um
+total de 100 pontos.
 
-The students' test results were posted as
-seen below, but the teacher forgot about
-John's score. John was heading to the
-teacher's office when Mary called him back,
-saying they can determine his score using
-the results from the other tests. Can you
-work out John's score?
+Os testes dos estudantes foram resultados como
+você vê abaixo, mas o professor esqueceu sobre
+a nota do John. John estava indo para o
+escritório do professor quando Mary o chamou
+de volta, dizendo que daria pra determinar sua
+pontuação usando o resultado dos outros testes.
+Você consegue descobrir a pontuação do John?
 !******************************!
-A+!
+Nota 10!
 
-An A+ for you, that is. Unfortunately for
-John, his score was 60 points.
+Nota 10 pra você, no sentido figurado.
+Infelizmente pro John, a nota foi 60 pontos.
 
-Based on the results from the three scored
-tests, you could come up with four possible
-answer keys as shown. No matter which one
-you use, John's score is 60!
+Baseado nos resultados dos três testes,
+você chegaria à conclusão de quatro possíveis
+respostas, como mostrado. Não importa a que
+você escolhesse, a pontuação do John é 60!
 !******************************!
-Too bad!
+Que pena!
 
-You need to narrow down the conditions.
-This puzzle's a tough one.
+Você precisa diminuir o máximo de
+condições. Este enigma é complicado.
 !******************************!
-To solve this puzzle, you'll need to work
-out what are the correct answers to
-the 10 questions. The easiest way to do
-this is to create a chart showing the
-potential correct answer for each
-question, compare it to the test results
-and adjust it so that it matches 
-each person's score. Since Mary got
-seven questions right, her answers
-should be the starting point for your
-answer key. Pay attention to where her
-answers differ from everyone else's.
+Para resolver esse enigma, você precisa
+descobrir quais são as respostas corretas
+das 10 perguntas. A forma mais fácil é
+criar uma tabela mostrando a provável
+resposta certa para cada pergunta,
+compará-las com os resultados do teste
+para que combine com as notas de cada
+pessoa. Já que Mary acertou sete
+perguntas, as respostas dela deve ser
+o pontapé inicial para criar o gabarito.
+Preste atenção onde as respostas dela
+diferem dos outros.
 !******************************!
-Are you finding it hard to find the
-correct answers? Using some common
-sense can give you a head-start. If all
-four students answered a question in
-the same way it's quite likely that
-it's the correct answer, isn't it?
+Está achando difícil em encontrar as
+respostas corretas? Usando o senso comum
+pode te ajudar a começar. Se todos os
+quatro alunos responderam uma pergunta
+do mesmo jeito então é bem provável que
+esta seja a resposta correta, não?
 !******************************!
-You'll have noticed that all four people
-agreed on an answer for four questions.
-They can't all be correct, though, since
-Lisa only got 30 points. Let's assume
-that three of them are correct, then...
+Você deve ter percebido que as quatro
+pessoas deram a mesma resposta em quatro
+perguntas. Não pode estar tudo correto,
+já que lista só fez 30 pontos. Vamos
+assumir que só três estão corretas, então...
 !******************************!
 [n149.dat]
-<0152>The Card Tournament
+<0152>O Torneio de Cartas
 <00><50><48><40><12><01><16><95><F6><03><01><FF>
-Some people meet for a round-robin card
-tournament, where every player plays one
-hand against every other player. Monty has
-to leave after only a few hands, missing the
-remainder of the tournament. A total of 59
-hands are played at the tournament. How
-many hands did Monty play before leaving?
+Algumas pessoas se encontraram para um torneio
+de duelos de cartas, onde cada participante
+joga uma partida contra cada jogador.
+Monty teve que sair após algumas partidas,
+perdendo o restante do torneio. Um total de
+59 partidas foram jogadas no torneio. Quantas
+partidas o Monty jogou antes de ir embora?
 
-The card game in question is a two-player
-game, and no person played with the same
-opponent more than once. No one missed any
-hands besides Monty.
+O jogo de cartas em questão é pra dois
+jogadores, e nenhuma pessoa jogou com uma
+outra mais de uma vez. Ninguém perdeu nenhuma
+partida além do Monty.
 !******************************!
-Good job!
-Monty played four hands. First, you need
-to find the total number of hands if
-everyone stayed. You can find it with an
-equation like the one here. If there were 11
-people, there would've been 55 hands, and
-if there were 12 people, there would've been
-66. Since we know 59 hands were played,
-there must have been 12 people at the
-start. When we subtract the 59 hands
-played from the 66 ideal, we learn that
-Monty missed seven hands. Since everyone
-would've played 11 hands ideally, that means
-Monty only played four hands.
+Bom trabalho!
+Monty jogou quatro partidas. Primeiro, você
+precisa encontrar o número total de partidas
+já que todos ficaram. Você pode descobrir com
+uma equação como essa aqui. Se haviam 11
+pessoas, teriam 55 partidas e se tinham 12
+pessoas, seriam 66. Já que sabemos que
+59 partidas foram feitas, então haviam
+12 pessoas no começo. Quando subtraímos
+as 59 partidas do total de 66, aprendemos
+que Monty perdeu sete partidas. Já que todos
+teriam que jogar naturalmente 11 partidas,
+isso significa que o Monty jogou apenas
+quatro partidas.
 !******************************!
-Too bad!
+Que pena!
 
-This is a calculation problem, but it does
-take some ingenuity to solve.
+Isso é um problema de cálculo, mas
+requer muita ingenuidade para resolver.
 !******************************!
-Create an equation with the number of
-people and the number of hands played
-as variables. That would be a good place
-to start.
+Crie uma equação com o número de pessoas
+e o número de partidas como variáveis.
+Será um ótimo pontapé inicial para
+se começar.
 !******************************!
-In order to create the equation for
-the number of hands, you would need to
-multiply the number of players by the
-number of players minus one, then divide
-this product by two. If there were three
-people, there would have been three
-hands. If there were four people, there
-would have been six hands. You can
-assume from the conditions given that
-if no one left, the minimum number of
-hands would still have to be at least 60.
+Para criar uma equação para o número de
+partidas, você precisaria multiplicar
+o número de jogadores pelo o número de
+jogadores menos um, e então dividir esse
+produto por dois. Se houvessem três
+pessoas, haveriam três partidas.
+Se houvesse quatro pessoas, haveriam
+seis partidas. Você pode assumir das
+condições dadas que se ninguém tivesse
+saído, o número mínimo de partidas
+ainda teria que ser pelo menos 60.
 !******************************!
-There were 12 people at the tournament.
-Now think it through!
+Haviam 12 pessoas no torneio.
+Agora basta pensar!
 !******************************!
 [n150.dat]
-<0153>Ultimate Escape
+<0153>A Caixa de Pandora
 <00><63><58><4D><02><01><19><96><FF><03><01><FF>
-This last puzzle is an escape game where
-you need to move the pink gem to the
-circle outline at the bottom.
+Neste último enigma, é um jogo de escapar
+onde você precisa mover a joia rosa para
+o encaixe circular na parte de baixo.
 
-This one is especially devious, as it
-features some very unusually-shaped
-blocks. 
+Mas cuidado! Porque essa caixa de
+pandora não deixará você fugir tão
+facilmente!
 
-Give it a go!
+Aguente firme e tente!
 !******************************!
-Wonderful!
+Maravilhoso!
 
-If you completed this puzzle in 78 moves,
-you can consider yourself a true escape
-master!
+Se você completou este enigma em 78
+movimentos, pode se considerar como
+um mestre dos enigmas!
 
 
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-There is no easy-to-find solution for
-this puzzle. You just have to find ways
-to fit the blocks together and open up a
-little bit of space at a time.
+Não há um jeito fácil de resolver este
+enigma. Você tem que encontrar maneiras
+de encaixar os blocos juntos e abrir um
+pequeno espaço por vez.
 !******************************!
-You can't move the gem out of its alcove
-at first. You should focus initially on
-making room so that the gem can come
-out. Here's one small hint: move the
-yellow vertical bar to the top half of
-the puzzle.
+Você não pode mover a joia para fora de sua
+alcova de primeira. Você deve focar
+inicialmente em criar espaço para a
+joia poder sair. Uma dica pra você:
+mova a barra vertical em amarelo para
+a metade superior do enigma.
 !******************************!
-Here's your last hint. You never have
-to move the cross-shaped piece any
-farther right than the centre of the
-puzzle. In other words, the gem has to
-move clockwise through the puzzle. 
+Aqui está sua última dica. Você nunca
+precisará mover a peça de cruz mais
+pra direita além do centro do enigma.
+Em outras palavras, a joia tem que se
+mover em sentido horário no enigma.
 
-Stick with it!
+Você consegue!
 !******************************!
 [n151.dat]
 <0154>
@@ -1424,59 +1416,60 @@ Stick with it!
 
 !******************************!
 [n152.dat]
-<0155>Sweeping Up
+<0155>Dia do Lixo
 <00><00><00><00><12><01><19><15><4D><04><02><FF>
-Put the rubbish in its proper place. Use the
-stylus to slide the blocks until you can move
-the rubbish into the bin.
+Ponha o lixo no lugar correto. Use a
+Stylus para deslizar os blocos até você
+poder mover o lixo para a lata.
 !******************************!
-Clean as a whistle!
+Limpo como sabão!
 
-Doesn't that feel good?
+Isso não é ótimo?
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-If you think about moving the red
-vertical bars as a set, you should do
-just fine.
+Se você pensa em mover as barras
+verticais de vermelho de uma só
+vez, você ficará bem.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n153.dat]
-<0156>Tile Equation
+<0156>Equação de Quadrados
 <00><00><00><00><12><01><1A><99><00><04><02><FF>
-Below is an addition equation using tiles
-numbered 0 to 9. There's just one small
-problem: the equation doesn't add up!
-Move the tiles to make the equation work.
-Only the answer involving the fewest number
-of moves will be accepted.
+Abaixo está uma equação de adição usando
+quadrados numerados de 0 a 9. Há só um
+problema: a equação não bate!
+Mova os quadrados para fazer a equação
+funcionar. Apenas a resposta envolvendo
+o menor número de movimentos será aceita.
 !******************************!
-That's right!
+Está certo!
 
-Since the puzzle asks you to answer with
-the fewest number of moves possible, the
-only correct solution is to swap the 0
-with the 2 and the 5 with the 6.
+Já que o enigma te pede para responder
+com o menor número de movimentos possíveis,
+a única solução correta seria mudar o 0
+pelo o 2 e 5 pelo o 6..
 
-Of course, if you could rotate the tiles,
-there's a solution that requires even fewer
-moves. Perhaps you'd like to look for that
-one as well?
+Claro que se você rotacionar os quadrados,
+haverá uma solução com ainda menos
+movimentos. Talvez você gostaria de
+descobrir essa também?
 !******************************!
-Too bad!
+Que pena!
 
-Did you make a calculation mistake?
-Or perhaps there's an answer that
-requires fewer moves than you used?
+Você fez um erro de cálculo?
+Ou talvez há uma resposta que usa
+menos movimentos que a que você usou?
 !******************************!
-There are plenty of solutions if you
-were free to make lots of moves, but
-you need the answer involving the
-fewest moves. Also, only numbers in the
-two right-most columns move.
+Há bastante soluções se você estiver
+livre para fazer muitos movimentos,
+mas você precisa da resposta que
+envolve o menor número possível. E
+apenas os números das duas colunas
+da direita devem se mover.
 !******************************!
 
 !******************************!
@@ -1498,37 +1491,37 @@ two right-most columns move.
 
 !******************************!
 [n155.dat]
-<0158>Wrong Clocks
+<0158>Relógios Errados
 <00><00><00><00><11><01><16><9B><F6><03><02><FF>
-The two clocks in the illustration below both
-point exactly to 12:00. One hour later, one
-clock points to 1:01 and the other to 12:59.
-In other words, one clock is fast and the
-other is slow. If these two clocks stay fast
-and slow at a constant ratio to one
-another, how many hours will it take,
-starting from noon, until they both show
-the same time again?
+Os dois relógios da ilustração abaixo apontam
+exatamente às 12:00. Uma hora depois, um
+relógio marca 01:01 e o outro 12:59. Em
+outras palavras, um relógio está adiantado
+e outro atrasado. Se os dois estão em um
+nível constante um com o outro de atraso
+e adiantamento, quantas horas irá demorar,
+começando ao meio-dia, até que eles se
+encontrem novamente?
 !******************************!
-Nicely done!
+Resolvido com sucesso!
 
-It will take 360 hours. Once one clock has
-lost six hours and the other has gained six
-hours, both clocks will show the same time
-again. You needed to ask yourself how long
-it would take a clock deviating by one minute
-per hour to reach six hours.
+Irá demorar 360 horas. Assim que um relógio
+ganhar seis horas e outro perder seis, ambos
+relógios mostrarão o mesmo tempo novamente.
+Você precisaria se perguntar por quanto
+tempo iria demorar com o relógio movendo
+um minuto por hora para alcançar seis horas.
 !******************************!
-Too bad!
+Que pena!
 
-When both clocks point to the same time
-again, what time do you think they will
-be indicating?
+Quando os dois relógios marcarem o mesmo
+horário novamente, qual horário você acha
+que eles estarão apontando?
 !******************************!
-The next time the clocks look the same,
-they won't be pointing at 12:00. Once
-you realise that, it's just a simple
-calculation.
+A próxima vez que os relógios estiverem
+iguais, não estarão apontando nas 12:00.
+Assim que perceber isso, será apenas um
+simples cálculo.
 !******************************!
 
 !******************************!
@@ -1550,102 +1543,102 @@ calculation.
 
 !******************************!
 [n157.dat]
-<0160>Cut and Splice
+<0160>Corte e Cole
 <00><00><00><00><11><01><09><9D><EF><03><02><FF>
-Take a look at the piece of wood in the
-illustration. Can you cut along the grid
-lines and create two pieces that fit
-together to make a new piece of wood eight
-squares high by eight squares wide?
+Dê uma olhada nesse pedaço de madeira dessa
+ilustração. Você consegue cortar seguindo as
+linhas para criar duas partes que se combinam
+e fazer um pedaço novo de madeira com 8
+quadradinhos de altura e largura?
 
-While you can rotate the cut pieces, keep in
-mind that you can't turn them over to make
-them fit. 
+Por mais que você possa rotacionar os pedaços
+cortados, tenha em mente que você não pode
+virá-los de costas para tentar encaixar.
 !******************************!
-Perfect!
+Perfeito!
 
-Your answer probably looks something like
-this.
+Sua resposta provavelmente estará parecida
+com algo assim:
 !******************************!
-Too bad!
+Que pena!
 
-Take a harder look at the piece you're
-cutting.
+Dê uma olhada melhor no pedaço que você
+está cortando.
 !******************************!
-Those two squares that stick out on
-the far right are part of an edge of
-the finished piece.
+Esse dois quadrados que estão pra fora
+na direita são parte de uma borda do
+pedaço feito.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n158.dat]
-<0161>Stacked Dice
+<0161> Dados Empilhados
 <00><00><00><00><11><01><16><9E><F6><03><02><FF>
-Look at the dice stacked below. Though you
-can't see it, the faces that touch other
-dice all share the same number. If that's
-the case, which number should go on the
-question mark?
+Olhe para esses dados empilhados abaixo. Embora
+você não consiga ver, as faces que tocam os
+outros dados compartilham o mesmo número. Se
+é este o caso, qual número deveria estar neste
+ponto de interrogação?
 
-Of course, all of these dice have the same
-layout of numbers.
+E claramente todos esses dados possuem o
+mesmo layout de números.
 !******************************!
-You did it!
+Você conseguiu!
 
-The face in question should have a one on
-it. You needed to visualise the numbers you
-couldn't see and deduce the position of the
-last die from that.
+A face em questão deve ser um. Você
+precisaria visualizar os números que
+não podia ver e deduzir a posição do
+último dado assim.
 
 !******************************!
-Too bad!
+Que pena!
 
-This puzzle requires visualisation and
-deduction.
+Este enigma requer visualização e
+dedução.
 !******************************!
-It helps to know that opposite faces on
-a single die always add up to seven.
+Ajuda saber que as somas das faces opostas
+de um dado é sempre sete.
 
-Use that as the basis for your
-deduction.
+Use isso como base na sua
+dedução.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n159.dat]
-<0162>Paper and Scissors
+<0162>Papel e Tesoura
 <00><00><00><00><11><01><16><9F><F6><03><02><FF>
-Let's say you took a square piece of paper
-and cut off the corners to make the
-largest possible circle. But then you
-realised you needed a square piece instead
-and cut off the curves to make the largest
-possible square. How many times bigger was
-the original square than the one you have
-now?
+Vamos dizer que você pegou um pedaço quadrado
+de papel e cortou os cantos para fazer o
+maior círculo possível. Mas então você
+percebeu que precisava mesmo de um quadrado
+e cortou as curvas para criar o maior
+quadrado possível. Quantas vezes maior
+o quadrado original é em relação a esse
+que você tem agora?
 !******************************!
-You got it!
+Você entendeu bem!
 
-The original square was twice as big.
-It's very easy to see when you draw
-a diagram.
+O quadrado original era duas vezes maior.
+É mais fácil de ver quando você desenha
+um diagrama.
 !******************************!
-Too bad!
+Que pena!
 
-If you can't visualise it yet, try drawing
-a diagram.
+Se você ainda não consegue visualizá-lo,
+tente desenhar um diagrama.
 !******************************!
-The length of a side of the original
-square is equal to the diameter of the
-circle you cut.
+O comprimento de um lado do quadrado
+original é igual ao diâmetro do círculo
+que você cortou.
 
-If you then cut the largest possible
-square from that circle, what would be
-the relationship of the circle's diameter
-to the new square?
+Se você então cortar o maior quadrado
+possível desse círculo, qual seria a
+relação do diâmetro do círculo a
+esse novo quadrado?
 !******************************!
 
 !******************************!
@@ -1654,41 +1647,41 @@ to the new square?
 [n160.dat]
 <0163>AB + B = BA
 <00><00><00><00><11><01><1C><A0><F6><03><02><FF>
-Let's replace the numbers in the equation
-12 + 12 = 24 with letters. 1 is now A, 2
-is B and 4 is C. This produces the letter
-equation AB + AB = BC.
+Vamos substituir os números da equação
+12 + 12 = 24 por letras. 1 agora é A, 2
+é B e 4 é C. Isso produz a equação de
+letras AB + AB = BC.
 
-Now think about another such equation,
-AB + B = BA, where the letters may have
-different values from the sample equation
-above.
+Agora pensando sobre outra equação, a
+AB + B = BA, onde as letras podem ter ou
+não valores diferentes do exemplo de
+equação acima.
 
-What numbers could replace the A and the B
-to make this second equation true? Keep in
-mind that A and B are different numbers.
+Quais números você poderia usar em A e B
+para tornar a segunda equação verdadeira? Tenha
+em mente que A e B são números diferentes.
 !******************************!
-Great job!
+Ótimo trabalho!
 
-If you replace the A with an 8 and the B
-with a 9, then the equation is true because
+Se você substituir o A por 8 e o B por
+9, então a equação será verdadeira porque
 89 + 9 = 98.
 !******************************!
-Too bad!
+Que pena!
 
-Take your time and work it out.
+Tire um tempo para descobrir.
 !******************************!
-If you added B and B together, the last
-digit of the resulting sum would equal A.
+Se você somasse B e B juntos, o último
+digito da soma resultante seria igual a A.
 
-Since no two single-digit numbers can
-add up to more than 18, you know the
-number in the tens place of the sum of
-B+B must be one. The only other value
-that influences the tens place in the
-solution is the A in AB + B.
+Já que nenhum número de dígito único
+possa ter uma soma maior que 18, você
+sabe que o número nas dezenas dessa soma
+de B+B deve ser um. O único outro dígito
+que influencia as dezenas nessa solução
+é o A no AB + B.
 
-Therefore, A + 1 must equal B.
+Então, A + 1 deve ser igual a B.
 !******************************!
 
 !******************************!

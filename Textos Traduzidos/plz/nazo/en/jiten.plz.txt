@@ -1,5 +1,5 @@
 [p_1.txt]
-Escritório de Layton
+Escritório do Layton
 !******************************!
 [p_10.txt]
 Vagão 4 - Corredor
@@ -8,10 +8,10 @@ Vagão 4 - Corredor
 Cabine da Vovó R
 !******************************!
 [p_11.txt]
-Dining Car 5
+Vagão-Restaurante 5
 !******************************!
 [p_12.txt]
-Kitchen
+Cozinha
 !******************************!
 [p_127.txt]
 <83>f<83>o<83>b<83>O<97>p<93>ü<82>è<8C>û
@@ -20,91 +20,91 @@ Kitchen
 <83>i<83><5D><81><5B><83>o<82><CC><8C>Â<8E><BA>
 !******************************!
 [p_129.txt]
-Castle Ruins
+Ruínas do Castelo
 !******************************!
 [p_13.txt]
-Deluxe Room
+Vagão de Luxo
 !******************************!
 [p_14.txt]
-Carriage 6
+Vagão 6
 !******************************!
 [p_15.txt]
-Babette's Room
+Cabine da Babette
 !******************************!
 [p_16.txt]
-Carriage 7
+Vagão 7
 !******************************!
 [p_17.txt]
 ???
 !******************************!
 [p_18.txt]
-Observation Deck
+Mirante
 !******************************!
 [p_19.txt]
-Outside the Train
+Fora do Trem
 !******************************!
 [p_2.txt]
-Prédio de Schrader
+Prédio do Schrader
 !******************************!
 [p_20.txt]
-Broken Train
+Trem Quebrado
 !******************************!
 [p_21.txt]
-Station Platform
+Plataforma da Estação
 !******************************!
 [p_22.txt]
 Station Plaza
 !******************************!
 [p_23.txt]
-Carnival Street
+Festa na Rua
 !******************************!
 [p_24.txt]
 Tree-lined Path
 !******************************!
 [p_25.txt]
-Wheat Field
+Campo de Trigo
 !******************************!
 [p_26.txt]
-Village Hall Hill
+Morro da Prefeitura
 !******************************!
 [p_27.txt]
-Herzen Museum
+Museu Herzen
 !******************************!
 [p_28.txt]
-Village Hall Plaza
+Praça da Prefeitura
 !******************************!
 [p_29.txt]
-Competition Field
+Área do Desfile
 !******************************!
 [p_3.txt]
-Prédio de Schrader
+Prédio do Schrader
 !******************************!
 [p_30.txt]
-Village Shop
+Mercearia da Vila
 !******************************!
 [p_31.txt]
-Path to Farm
+Caminho para a Fazenda
 !******************************!
 [p_32.txt]
-Farm Entrance
+Entrada da Fazenda
 !******************************!
 [p_33.txt]
-Dropstone Pond
+Lago de Dropstone
 !******************************!
 [p_34.txt]
-Folsense Station
+Estação de Folsense
 !******************************!
 [p_35.txt]
-Station Exit
+Saída da Estação
 !******************************!
 [p_36.txt]
-Outside the Hotel
+Fora do Hotel
 !******************************!
 [p_37.txt]
-Hotel Lobby
+Recepção do Hotel
 !******************************!
 [p_38.txt]
-Hotel Room
+Quarto do Hotel
 !******************************!
 [p_39.txt]
 Promenade
@@ -113,22 +113,22 @@ Promenade
 Corredor do Prédio
 !******************************!
 [p_40.txt]
-Antique Shop
+Antiquário
 !******************************!
 [p_41.txt]
-Clocktower Plaza
+Praça da Torre
 !******************************!
 [p_42.txt]
-Eastern Street
+Rua à Leste
 !******************************!
 [p_43.txt]
-Photo Studio
+Estúdio de Fotografia
 !******************************!
 [p_44.txt]
-Restaurant
+Restaurante
 !******************************!
 [p_45.txt]
-North-east Path
+Caminho à Nordeste
 !******************************!
 [p_46.txt]
 Alley Entrance
@@ -149,13 +149,13 @@ Sala do Doutor
 Alley Dead End
 !******************************!
 [p_51.txt]
-Museum Gate
+Portão do Museu
 !******************************!
 [p_52.txt]
-Fountain
+Fonte
 !******************************!
 [p_53.txt]
-Herzen Museum
+Museu Herzen
 !******************************!
 [p_54.txt]
 Museum - G. Floor
@@ -164,13 +164,13 @@ Museum - G. Floor
 Museum - 1. Floor
 !******************************!
 [p_56.txt]
-West Street
+Rua à Oeste
 !******************************!
 [p_57.txt]
-Cabaret
+Cabaré
 !******************************!
 [p_58.txt]
-Grocer's Shop
+Mercearia
 !******************************!
 [p_59.txt]
 Tower - G. Floor
@@ -182,13 +182,13 @@ Carriage 4 - Room
 Tower - 1. Floor
 !******************************!
 [p_61.txt]
-Granny R's
+Vovó Riddleton
 !******************************!
 [p_62.txt]
-Granny R's
+Vovó Riddleton
 !******************************!
 [p_63.txt]
-Lost Puzzle Hut
+Cabana dos Enigmas
 !******************************!
 [p_64.txt]
 West Y-Junction
@@ -209,7 +209,7 @@ Fork in the Road
 Mine Entrance
 !******************************!
 [p_7.txt]
-Carriage 2 - Hall
+Vagão 2 - Corredor
 !******************************!
 [p_70.txt]
 Mine Machine Room
@@ -293,43 +293,43 @@ House in the Alley
 Northern Folsense
 !******************************!
 [type_0.txt]
-Matchstick
+Palitos de Fósforo
 !******************************!
 [type_1.txt]
-Sliding
+Deslizar
 !******************************!
 [type_10.txt]
-Sort
+Ordenar
 !******************************!
 [type_11.txt]
-Arrange to Answer
+Organizar
 !******************************!
 [type_12.txt]
-Rotate and Arrange
+Girar e Organizar
 !******************************!
 [type_13.txt]
-Move to Answer
+Mover
 !******************************!
 [type_14.txt]
-Tap to Answer
+Tocar
 !******************************!
 [type_15.txt]
-Draw Line
+Desenhar Linha
 !******************************!
 [type_16.txt]
-Write Answer
+Escrever
 !******************************!
 [type_17.txt]
-Move Knight
+Mover Cavaleiros
 !******************************!
 [type_18.txt]
-Rotate and Arrange
+Girar e Organizar
 !******************************!
 [type_19.txt]
 Position to Solve  (NOT IN USE)
 !******************************!
 [type_2.txt]
-Multiple Choice
+Múltipla Escolha
 !******************************!
 [type_20.txt]
 <95><B6><8E><9A><93>ü<97>Í<96>â<91>è
@@ -338,55 +338,55 @@ Multiple Choice
 <95><B6><8E><9A><93>ü<97>Í<96>â<91>è
 !******************************!
 [type_22.txt]
-Write Answer
+Escrever
 !******************************!
 [type_23.txt]
-Area
+Área
 !******************************!
 [type_24.txt]
-Rose Placement
+Posicionar Rosas
 !******************************!
 [type_25.txt]
-Sliding
+Deslizar
 !******************************!
 [type_26.txt]
-Arrange to Answer
+Organizar
 !******************************!
 [type_27.txt]
-Skate to Exit
+Ir para a Saída
 !******************************!
 [type_28.txt]
-Write Answer
+Escrever
 !******************************!
 [type_29.txt]
-Remove Balls
+Remover Bolas
 !******************************!
 [type_3.txt]
-Mark Answer
+Marcar Resposta
 !******************************!
 [type_30.txt]
-Move in Pairs
+Mover Pares
 !******************************!
 [type_31.txt]
-Lamp Placement
+Posicionar Lâmpadas
 !******************************!
 [type_32.txt]
-Write Answer
+Escrever Resposta
 !******************************!
 [type_33.txt]
-Cross Bridge
+Atravessar Ponte
 !******************************!
 [type_34.txt]
-Shape Search
+Encontrar Formato
 !******************************!
 [type_4.txt]
 Position to Solve  (NOT IN USe)
 !******************************!
 [type_5.txt]
-Circle Answer
+Circular Resposta
 !******************************!
 [type_6.txt]
-Draw Line
+Desenhar Linha
 !******************************!
 [type_7.txt]
 Connect to Answer (NOT IN USE)
@@ -395,5 +395,5 @@ Connect to Answer (NOT IN USE)
 Cups (NOT IN USE)
 !******************************!
 [type_9.txt]
-Draw Line
+Desenhar Linha
 !******************************!

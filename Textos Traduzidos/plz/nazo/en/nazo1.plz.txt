@@ -33,15 +33,16 @@ Preste atenção nos pedaços que faltam
 e no restante do mapa. Se você conectar
 as estradas dos cantos de cada pedaço
 às estradas dos cantos das partes que
-faltam, cedo ou tarde chegará à resposta.
+faltam, cedo ou tarde você chegará à
+resposta.
 !******************************!
 Você percebeu que o pedaço posicionado
 no centro do mapa desde o início do
 enigma não pertence ao mapa, logo não é
 parte da solução?
 
-Agora tudo o que resta é organizar
-os outros cinco pedaços.
+Agora tudo o que resta é organizar os
+outros cinco pedaços.
 !******************************!
 [n10.dat]
 <0011>Árvores na Floresta
@@ -70,12 +71,12 @@ você deve separá-las por uma linha.
 
 Isso deve lhe ajudar a começar.
 !******************************!
-Vamos focar nas árvores no canto inferior
-esquerdo da imagem. O formato desse pedaço
-é fácil de desvendar se você desenhou as
-linhas de acordo com as instruções dadas
-na Dica 1. Esse pedaço deve ter o formato
-de um L.
+Vamos focar nas árvores no canto
+inferior esquerdo da imagem. O formato
+desse pedaço é fácil de desvendar se
+você desenhou as linhas de acordo com as
+instruções dadas na Dica 1. Esse pedaço
+deve ter o formato de um L.
 !******************************!
 A árvore no canto superior esquerdo
 e a que está à direita dela pertencem
@@ -119,28 +120,31 @@ Que pena!
 
 Dê outra longa e cuidadosa olhada no enigma.
 !******************************!
-Olhe mais de perto... Não para a imagem em
-si, mas para a sua moldura.
+Olhe mais de perto... Não para a imagem
+em si, mas para a sua moldura.
 
-Você pode usar os pinos ao redor da moldura
-para ver a imagem a partir de outro ponto
-de vista.
+Você pode usar os pinos ao redor da
+moldura para ver a imagem a partir de
+outro ponto de vista.
 !******************************!
 A Dica 1 falou sobre os pinos na moldura.
-Você percebeu que pode usá-los como guias
-para dividir a imagem em 10 quadrados?
+Você percebeu que pode usá-los como
+guias para dividir a imagem em 10
+quadrados?
 
-Agora tudo o que precisa fazer é estudar
-esses quadrados cuidadosamente.
+Agora tudo o que você precisa fazer
+é estudar cuidadosamente esses
+quadrados.
 !******************************!
 Compare cada quadrado com os demais.
 Você percebeu que alguns quadrados
 possuem o mesmo desenho, porém as cores
-estão invertidas? Qualquer um desses pares
-de quadrado que você encontrar têm a mesma
-quantidade de céu e nuvens. Além disso, não
-esqueça dos dois quadrados que estão
-preenchidos por apenas uma cor.
+estão invertidas? Qualquer um desses
+pares de quadrado que você encontrar
+têm a mesma quantidade de céu e nuvens.
+Além disso, não esqueça dos dois
+quadrados que estão preenchidos por
+apenas uma cor.
 !******************************!
 [n12.dat]
 <0013>No Seu Prato
@@ -169,16 +173,16 @@ Você não precisa realizar nenhum cálculo
 em especial aqui. De fato, tudo que você
 precisa é um pouco de intuição.
 !******************************!
-Como as coisas ficariam se você rotacionar
-o triângulo pequeno?
+Como as coisas ficariam se você
+rotacionar o triângulo pequeno?
 !******************************!
 Já tentou visualizar como as coisas
-ficariam se você rotacionasse o triângulo
-pequeno?
+ficariam se você rotacionasse o
+triângulo pequeno?
 
-Se você já fez isso, deveria ser fácil ver
-quantos triângulos pequenos cabem dentro
-do triângulo grande.
+Se você já fez isso, deveria ser fácil
+ver quantos triângulos pequenos cabem
+dentro do triângulo grande.
 !******************************!
 [n13.dat]
 <0014>Bonés Vermelhos
@@ -218,7 +222,7 @@ Pense bem sobre o enigma e tente novamente.
 !******************************!
 O enigma diz que algumas das crianças
 ganharam um balão vermelho. Isso significa
-que algumas crianças viram quatro ou mais
+que algumas crianças viram 4 ou mais
 bonés vermelhos.
 
 Dito isto, podemos concluir que não havia
@@ -234,19 +238,18 @@ as crianças ganhassem um balão vermelho?
 
 A resposta é menor que esse número.
 !******************************!
-Se todas as 10 crianças estivessem de boné
-vermelho, então todo mundo teria visto ao
-menos quatro bonés vermelhos e ganhado
-um balão vermelho. Mas nenhuma criança
-consegue ver o boné em sua própria cabeça.
-Com isso em mente, faça a seguinte pergunta:
-quantas crianças ganhariam um balão
-vermelho se nove delas estivessem de boné
-vermelho. E se fossem oito? Sete?
-
-Continue diminuindo o número e lembre-se que
-pelo menos 4 crianças devem estar usando
-boné vermelho.
+Se todas as 10 crianças estivessem de
+boné vermelho, então todo mundo teria
+visto ao menos 4 bonés vermelhos e
+ganhado um balão vermelho. Mas ninguém
+consegue ver o boné em sua própria
+cabeça. Com isso em mente, faça a
+seguinte pergunta: quantas crianças
+ganhariam um balão vermelho se 9 delas
+estivessem de boné vermelho. E se fossem
+8? 7? Continue diminuindo o número e
+lembre-se que pelo menos 4 crianças devem
+estar usando boné vermelho.
 !******************************!
 [n14.dat]
 <0015>Quem é o Tom?
@@ -275,12 +278,13 @@ pequeno e trate cada par como sendo
 uma única peça.
 !******************************!
 Se você está lendo a Dica 3, então
-provavelmente você não está se divertindo
-muito com esse tipo de enigma.
+provavelmente você não está se
+divertindo muito com esse tipo de enigma.
 
-Quando você ficar bom em resolver enigmas
-desse tipo, talvez você queira tentar
-completar este enigma em 20 movimentos!
+Quando você ficar bom em resolver
+enigmas desse tipo, talvez você queira
+tentar completar novamente este enigma
+em 20 movimentos!
 !******************************!
 [n15.dat]
 <0016>Margaridas Malucas
@@ -314,25 +318,26 @@ As cores invertidas da imagem no canto
 esquerdo tornam este enigma bastante
 desafiador, não é?
 
-Porém, esta mudança pode lhe ajudar mais do
-que você imagina. Lembre-se que na imagem
-no canto esquerdo, pontos escuros ficam
-claros e vice-versa.
+Porém, esta mudança pode lhe ajudar mais
+do que você imagina. Lembre-se que na
+imagem no canto esquerdo, pontos escuros
+ficam claros e vice-versa.
 !******************************!
 Procurar por diferenças entre a imagem
-preto e branco e cada uma  das três imagens
-fará com que você eventualmente chegue
-à resposta. Contudo, há um jeito mais fácil.
+preto e branco e cada uma  das três
+imagens fará com que você eventualmente
+chegue à resposta. Contudo, há um jeito
+mais fácil.
 
-Já que uma das três imagens é igual à imagem
-em preto e branco, por que não começar
-procurando pelas diferenças entre as
-imagens A, B e C?
+Já que uma das três imagens é igual à
+imagem em preto e branco, por que não
+começar procurando pelas diferenças
+entre as imagens A, B e C?
 !******************************!
-Preste atenção aos círculos no centro de
-cada flor. Além disso, preste atenção na
-quantidade e posição dos pontos em cada
-imagem.
+Preste atenção aos círculos no centro
+de cada flor. Além disso, veja a
+quantidade e posição dos pontos em
+cada imagem.
 !******************************!
 [n16.dat]
 <0017>A Jornada da Formiga
@@ -365,20 +370,21 @@ Preste atenção no enigma e tente
 novamente.
 !******************************!
 Quando for traçar uma rota de volta ao
-ninho, tente não passar pelo menor número
-de caminhos que você conseguir.
+ninho, tente não passar pelo menor
+número de caminhos que você conseguir.
 !******************************!
-Presumindo que o topo da tela seja o norte,
-siga para o sul do ponto de partida, e depois
-siga para o oeste na primeira oportunidade.
+Presumindo que o topo da tela seja o
+norte, siga para o sul do ponto de
+partida, e depois siga para o oeste na
+primeira oportunidade.
 
-Na próxima interseção, siga na direção norte
-até o topo do mapa.
+Na próxima interseção, siga na direção
+norte até o topo do mapa.
 
-Siga novamente para o oeste quando chegar
-em uma interseção em T no topo do mapa.
-Quando chegar em uma parede, siga na
-direção sul.
+Siga novamente para o oeste quando
+chegar em uma interseção em T no topo
+do mapa. Quando chegar em uma parede,
+siga na direção sul.
 !******************************!
 A partir do ponto em que você parou após
 ler a Dica 2, siga para o leste na primeira
@@ -526,7 +532,7 @@ sapatos que custam <po>30, e também com
 <po>20 em troco.
 !******************************!
 [n2.dat]
-<0003>Qual Chave?
+<0003>A Chave Certa
 <00><14><12><10><12><04><12><02><4C><04><01><FF>
 Qual destas chaves abre a porta?
 
@@ -549,8 +555,9 @@ enigmas.
 !******************************!
 Que pena!
 
-Pode parecer que nenhuma das chaves serve
-para esta fechadura, mas não é o caso.
+Pode parecer que nenhuma das chaves
+serve para esta fechadura, mas não é
+esse o caso.
 !******************************!
 À primeira vista, os dentes das chaves
 parecem mais complexos que a fechadura.
@@ -558,13 +565,14 @@ parecem mais complexos que a fechadura.
 Preste atenção e procure por um formato
 que combine com a fechadura.
 !******************************!
-Você já tentou todas as seis possibilidades?
+Você já tentou todas as seis
+possibilidades?
 
 O quê? Mas só tem três chaves? Isso é
 verdade, mas tente pensar fora da caixa.
 !******************************!
-Gire as chaves e segure-as pela parte que
-você normalmente põe na fechadura.
+Gire as chaves e segure-as pela parte
+que você normalmente põe na fechadura.
 !******************************!
 [n20.dat]
 <0021>Telefone sem Fio!
@@ -1034,8 +1042,8 @@ procurando por algo suspeito.
 
 O apartamento do Dr. Schrader está cheio
 de objetos estranhos e raros, mas
-<">estranho e raro<"> não é a mesma coisa que
-<">suspeito<">.
+<">estranho e raro<"> não é a mesma coisa
+que <">suspeito<">.
 !******************************!
 Não há nada a procurar nos lados da sala
 onde estão o professor e o Inspetor
@@ -1547,10 +1555,10 @@ pequenos espaços mais tarde, portanto
 coloque primeiro na mala os itens maiores.
 !******************************!
 Aquele enormo conjunto de frigideira e
-espátula vai no canto inferior esquerdo da
-mala. O ursinho do Luke vai no canto superior
-direito. Agora, tente guardar o resto das
-coisas.
+espátula vai no canto inferior esquerdo
+da mala. O ursinho do Luke vai no canto
+superior direito. Agora, tente guardar
+o resto das coisas.
 !******************************!
 O livro vai no canto superior esquerdo.
 
@@ -2024,13 +2032,15 @@ em 1883.
 De início, esse enigma pode parecer muito
 complicado, mas não é tão difícil assim.
 
-Se você não conseguir chegar em uma solução
-usando a lógica, apenas movas as panquecas
-de um lado para o outro e, eventualmente,
-você chegará a uma resposta.
+Se você não conseguir chegar em uma
+solução usando a lógica, apenas movas
+as panquecas de um lado para o outro e,
+eventualmente, você chegará a uma
+resposta.
 !******************************!
-Você vai estar quase lá quando conseguir
-colocar a panqueca maior no prato vermelho.
+Você vai estar quase lá quando
+conseguir colocar a panqueca maior
+no prato vermelho.
 !******************************!
 Mova a panqueca menor para o prato
 vermelho, então coloque a panqueca média

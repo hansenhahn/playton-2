@@ -304,29 +304,26 @@ What connection exists between
 the box and the town?
 !******************************!
 [id_2.txt]
-A single ticket with no visible
-destination was discovered in
-Dr Schrader's home. It appears to
-be for the Molentary Express, but
-where exactly is it supposed to
-take its bearer?
+Um bilhete sem destino foi encontrado
+no apartamento do Dr. Schrader. Ele
+parece ser um bilhete do Molentary
+Express, mas aonde exatamente ele
+deve levar seu portador?
 !******************************!
 [id_3.txt]
-Torn fragments of a photograph
-were found in the late doctor's
-hand. In its current state, it's
-impossible to make out the
-contents of the photo.
+Pedaços rasgados de uma fotografia
+foram encontrados na mão do falecido
+doutor. No estado em que estão, é
+impossível saber o conteúdo da
+fotografia.
 
-What could it be depicting?
+O que será que ela retrata?
 !******************************!
 [id_4.txt]
-Somebody managed to steal the
-Elysian Box from Dr Schrader's
-home without leaving behind a
-single implicating clue.
-Who could have made off with
-the box?
+Alguém conseguiu roubar a Caixa Elísia
+do apartamento do Dr. Schrader sem
+deixar pistas para trás. Quem será
+que roubou a caixa?
 !******************************!
 [id_5.txt]
 While riding on the Molentary
@@ -492,33 +489,32 @@ Peppercherry
 Cinder Horse
 !******************************!
 [item_0.txt]
-Tom's Shoe
+Sapato do Tom
 !******************************!
 [item_1.txt]
-Tom's Hat
+Boné do Tom
 !******************************!
 [item_2.txt]
-Tom's 2nd Shoe
+Outro Sapato do Tom
 !******************************!
 [item_3.txt]
 The Beef Shank
 !******************************!
 [item_4.txt]
-As Chaves de Layton
+As Chaves do Layton
 !******************************!
 [d_1.txt]
-Today I received a letter from
-Dr Andrew Schrader, my long-time
-friend and mentor. According to
-his letter, the good doctor has
-finally succeeded in acquiring the
-Elysian Box, the sinister relic
-known colloquially as "Pandora's
-Box". Something about the way
-the letter was worded gnaws at
-me, however. I've decided to check
-in on him, just to make sure that
-everything is all right.
+Hoje eu recebi uma carta do meu velho
+amigo e mentor, Dr. Andrew Schrader.
+De acordo com a sua carta, o bom
+doutor finalmente conseguiu colocar as
+mãos na Caixa Elísia, um sinistro
+artefato também conhecido pelo nome
+"Caixa de Pandora". Contudo, o jeito
+com que a carta foi escrita me deixou
+com um mau pressentimento. Decidi
+visitá-lo e me certificar que está tudo
+bem.
 !******************************!
 [d_10.txt]
 The main event of the Dropstone
@@ -646,14 +642,13 @@ what that something might be, I'm
 still without a clue.
 !******************************!
 [d_2.txt]
-With no other leads at our
-disposal, Luke and I have decided
-to use the ticket we found at the
-doctor's flat to board the
-Molentary Express. I suspect the
-doctor rode this luxurious train
-at some point, but as to where it
-took him, I can't say.
+Sem outras pistas para seguir, eu e
+o Luke dicidimos embarcar no Molentary
+Express com o bilhete que encontramos
+no apartamento do doutor. Suspeito
+que o doutor tenha embarcado nesse
+luxuoso trem em algum momento, mas
+não sei dizer aonde ele foi.
 !******************************!
 [d_20.txt]
 While walking about town, Luke
@@ -778,17 +773,16 @@ inspector's path around town and
 gather up the pieces. Bother!
 !******************************!
 [d_3.txt]
-As I suspected, the dining car of
-the Molentary Express is quite
-popular with the passengers, and
-though we've waited patiently to
-be seated, I get the feeling we
-won't be eating any time soon.
-The waiter recommended waiting
-for the lunchtime rush to pass on
-the observation deck located in
-the last carriage. I'm inclined to
-take his advice.
+Como suspeitava, o vagão-restaurante
+do Molentary Express é muito popular
+com os passageiros e, apesar de
+estarmos pacientemente esperando
+vagar uma mesa, tenho a impressão de
+que não iremos almoçar tão cedo. 
+O garçom sugeriu que esperássemos
+o horário do almoço passar no mirante
+no último vagão. Acho que vou aceitar
+a sugestão dele. 
 !******************************!
 [d_30.txt]
 Inspector Chelmey believes he
@@ -916,18 +910,16 @@ the mouth. Now all I need to do is
 solve the box's mystery.
 !******************************!
 [d_4.txt]
-The view from the observation
-deck of the Molentary Express is
-simply breathtaking. The natural
-beauty that can be seen here is
-something one rarely encounters
-living in the heart of London. When
-I'm gazing out over the land, time
-simply seems to slow to a halt.
-Still, I mustn't allow myself to sit
-idly much longer. It's time to
-return to our investigation of the
-Elysian Box. 
+A vista do mirante do Molentary
+Express é de cair o queixo. A beleza
+natural encontrada aqui é uma das
+coisas que dificilmente se acha morando
+no coração de Londres. Quando vou
+para o campo, o tempo simplesmente
+parece desacelerar. Mesmo assim, não
+posso me dar ao luxo de relaxar por
+muito tempo. É hora de voltar à
+investigação da Caixa Elísia.
 !******************************!
 [d_40.txt]
 From what I understand, Mr Beluga
