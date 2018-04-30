@@ -1,0 +1,1085 @@
+[hintcoin.txt]
+<<5E>!>Una moneda!
+!******************************!
+[tobj0.txt]
+<<5E>!>No me imaginaba que
+ser<'i>a tan bonito!
+!******************************!
+[tobj1.txt]
+Una hermosa vista
+es un remedio ideal
+contra el cansancio.
+!******************************!
+[tobj10.txt]
+Incluso por la noche,
+este lugar debe de ser
+agradable y seguro.
+!******************************!
+[tobj100.txt]
+<<5E>!>Mmm, qu<'e> ganas de
+comer langosta!
+!******************************!
+[tobj101.txt]
+Este tejado es una
+obra de arte.
+!******************************!
+[tobj102.txt]
+Aqu<'i> aparece
+retratado un gran
+n<'u>mero de personas.
+!******************************!
+[tobj103.txt]
+Esta pared est<'a>
+cubierta de hiedra.
+!******************************!
+[tobj104.txt]
+<<5E>!>Canastos! <<5E>!>Este
+callej<'o>n est<'a>
+inundado!
+!******************************!
+[tobj105.txt]
+Las consecuencias
+del consumismo
+resultan tr<'a>gicas.
+!******************************!
+[tobj106.txt]
+Esta zona resulta
+muy l<'o>brega.
+!******************************!
+[tobj107.txt]
+Las chimeneas le
+aportan al lugar un
+toque tranquilizador.
+!******************************!
+[tobj108.txt]
+<<5E>!>Casi parece que de
+ah<'i> va a salir una
+serpiente de sopet<'o>n!
+!******************************!
+[tobj109.txt]
+Esta estructura tan
+grande resulta
+imponente.
+!******************************!
+[tobj11.txt]
+El edificio es bastante
+viejo, pero parece
+muy resistente.
+!******************************!
+[tobj110.txt]
+<<5E>!>Qu<'e> miedo! <<5E>!>Parece que
+a la estatua le brillan
+los ojos!
+!******************************!
+[tobj111.txt]
+Resulta fascinante
+ver c<'o>mo se refleja
+la luz en el agua.
+!******************************!
+[tobj112.txt]
+Las marquesinas
+de cristal son
+muy bonitas.
+!******************************!
+[tobj113.txt]
+Aqu<'i> solo se
+exponen los objetos
+m<'a>s valiosos.
+!******************************!
+[tobj114.txt]
+Estos objetos revelan
+la larga historia de
+la familia.
+!******************************!
+[tobj115.txt]
+Parece un retrato
+del antiguo duque
+Herzen.
+!******************************!
+[tobj116.txt]
+Este cartel es el
+m<'a>s vistoso de
+todo el pueblo.
+!******************************!
+[tobj117.txt]
+Me pregunto para qu<'e>
+sirve este chisme.
+!******************************!
+[tobj118.txt]
+Nunca hab<'i>a visto
+esta cosa en mi vida.
+<<5E>?>Se comer<'a>?
+!******************************!
+[tobj119.txt]
+Las estanter<'i>as est<'a>n
+llenas de recetas e
+ingredientes.
+!******************************!
+[tobj12.txt]
+<<5E>?>C<'o>mo podremos
+entrar al piso del
+doctor?
+!******************************!
+[tobj120.txt]
+<<5E>?>Eh? <<5E>?>Qu<'e> es eso?
+<<5E>!>Ah! Je, je... Solo
+es mi reflejo.
+!******************************!
+[tobj121.txt]
+Con este olor a ajo
+parece que se me va
+a caer la nariz.
+!******************************!
+[tobj122.txt]
+Qu<'e> iluminaci<'o>n
+m<'a>s exquisita.
+!******************************!
+[tobj123.txt]
+Parece que alguien
+ha roto la l<'a>mpara.
+!******************************!
+[tobj124.txt]
+<<5E>!>Hala! <<5E>!>Parece que
+se va a caer en
+cualquier momento!
+!******************************!
+[tobj125.txt]
+Seguro que ambos
+caminos nos llevan a
+sitios espeluznantes.
+!******************************!
+[tobj126.txt]
+Se dir<'i>a que nadie ha
+usado este objeto en
+mucho tiempo.
+!******************************!
+[tobj127.txt]
+Si no estuviera aqu<'i>
+este farol, no se
+ver<'i>a nada.
+!******************************!
+[tobj128.txt]
+Me pregunto qu<'e>
+transportaba esta
+tuber<'i>a.
+!******************************!
+[tobj129.txt]
+<<5E>?>Para qu<'e> servir<'i>a
+este contador?
+!******************************!
+[tobj13.txt]
+Aqu<'i> no hay nada.
+Deber<'i>amos buscar
+otra forma de entrar.
+!******************************!
+[tobj130.txt]
+Espero que esto
+no forme parte
+del elevador.
+!******************************!
+[tobj131.txt]
+<<5E>?>Para qu<'e> servir<'a>n
+estos botones?
+!******************************!
+[tobj132.txt]
+Esta c<'a>mara parece
+casi impenetrable.
+!******************************!
+[tobj133.txt]
+<<5E>!>Puaj! <<5E>!>El suelo
+huele a moho!
+!******************************!
+[tobj134.txt]
+La hiedra me da
+mucho miedo.
+!******************************!
+[tobj135.txt]
+Incluso sin la estatua,
+este lugar resultar<'i>a
+espeluznante.
+!******************************!
+[tobj136.txt]
+Creo que es la
+primera vez que veo
+este tipo de planta.
+!******************************!
+[tobj137.txt]
+Esta seta parece
+muy venenosa.
+!******************************!
+[tobj138.txt]
+Ah<'i> est<'a> el Castillo
+Herzen.
+!******************************!
+[tobj139.txt]
+Este puente no se
+va a caer... <<5E>?>verdad?
+!******************************!
+[tobj14.txt]
+Estos cajones
+est<'a>n vac<'i>os.
+!******************************!
+[tobj140.txt]
+Ay, qu<'e> miedo...
+Se est<'a>
+bamboleando...
+!******************************!
+[tobj141.txt]
+Creo que es mejor
+no mirar abajo...
+!******************************!
+[tobj142.txt]
+No sab<'i>a que el
+Castillo Herzen
+fuera tan grande.
+!******************************!
+[tobj143.txt]
+Con las balaustradas
+hay que tener cuidado.
+!******************************!
+[tobj144.txt]
+Aqu<'i> tambi<'e>n est<'a>
+todo cubierto de ajo.
+!******************************!
+[tobj145.txt]
+El dise<-n>o del suelo
+resulta inquietante.
+!******************************!
+[tobj146.txt]
+El festival est<'a> en
+pleno apogeo.
+!******************************!
+[tobj147.txt]
+<<5E>!>Qu<'e> tiempo m<'a>s bueno
+hace! Qu<'e> pena no
+estar de vacaciones.
+!******************************!
+[tobj148.txt]
+Me pregunto qu<'e> han
+plantado en ese
+campo de ah<'i>.
+!******************************!
+[tobj149.txt]
+Seguro que hay un
+mont<'o>n de animales
+en ese bosque.
+!******************************!
+[tobj15.txt]
+La ventana no se
+abre y aqu<'i> no hay
+ninguna llave oculta.
+!******************************!
+[tobj150.txt]
+Me pregunto si venden
+productos t<'i>picos
+de la regi<'o>n.
+!******************************!
+[tobj151.txt]
+Este parterre es
+todo un primor.
+!******************************!
+[tobj152.txt]
+Hay un mont<'o>n de
+p<'o>sters de vacas.
+!******************************!
+[tobj153.txt]
+Como caballero, es
+mi deber coger un
+globo.
+!******************************!
+[tobj154.txt]
+Esos globos tan
+enormes tienen
+forma de vaca.
+!******************************!
+[tobj155.txt]
+<<5E>!>Hala! <<5E>!>Qu<'e> bonitos!
+!******************************!
+[tobj156.txt]
+<<5E>?>Estar<'a> tallado en
+madera este pez?
+!******************************!
+[tobj157.txt]
+Aqu<'i> hay una gran
+variedad de pinturas.
+!******************************!
+[tobj158.txt]
+<<5E>!>Hay un mont<'o>n de
+cosas a la venta!
+!******************************!
+[tobj159.txt]
+<<5E>?>Qu<'e> clase de edificio
+ser<'a> este?
+!******************************!
+[tobj16.txt]
+<<5E>?>Y aqu<'i>?@p
+No, nada de nada.
+!******************************!
+[tobj160.txt]
+Parece que ah<'i> hay
+un poco m<'a>s de luz.
+!******************************!
+[tobj161.txt]
+Ten cuidado con los
+escalones, Luke.
+!******************************!
+[tobj162.txt]
+Por aqu<'i> hay un gran
+n<'u>mero de tiendas
+sofisticadas.
+!******************************!
+[tobj163.txt]
+Estas l<'a>mparas son un
+complemento perfecto
+para la tienda.
+!******************************!
+[tobj164.txt]
+Parece que hay un
+camino que pasa
+bajo la torre.
+!******************************!
+[tobj165.txt]
+<<5E>!>Qu<'e> c<'a>mara
+m<'a>s grande!
+!******************************!
+[tobj166.txt]
+Esta vitrina est<'a>
+llena de c<'a>maras
+antiguas.
+!******************************!
+[tobj167.txt]
+Si voy con cuidado,
+no es tan dif<'i>cil
+andar por aqu<'i>.
+!******************************!
+[tobj168.txt]
+Esta prenda va muy
+bien con el estilo
+del profesor.
+!******************************!
+[tobj169.txt]
+Esto parece muy
+antiguo.
+!******************************!
+[tobj17.txt]
+Aqu<'i> detr<'a>s no hay
+sitio para esconder
+nada.
+!******************************!
+[tobj170.txt]
+<<5E>?>De verdad necesitan
+farolas en un sitio
+tan iluminado?
+!******************************!
+[tobj171.txt]
+Esta barricada parece
+bastante resistente.
+!******************************!
+[tobj172.txt]
+Aqu<'i> hay un pico
+cubierto de polvo.
+!******************************!
+[tobj173.txt]
+Si no fuera por esta
+l<'a>mpara, no se ver<'i>a
+nada de nada.
+!******************************!
+[tobj174.txt]
+Cuanto m<'a>s nos
+adentramos, m<'a>s
+oscuro est<'a>.
+!******************************!
+[tobj175.txt]
+<<5E>!>Esa bandera parece
+un fantasma! <<5E>!>Qu<'e>
+susto me ha dado!
+!******************************!
+[tobj176.txt]
+Dentro hay una
+enorme l<'a>mpara
+de ara<-n>a.
+!******************************!
+[tobj177.txt]
+<<5E>!>Vaya! Este pasillo es
+tan largo que no se
+ve el final.
+!******************************!
+[tobj178.txt]
+<<5E>!>Es incre<'i>ble! Este
+mantel no tiene ni
+una sola arruga.
+!******************************!
+[tobj179.txt]
+Espero que esa mancha
+del suelo tenga una
+explicaci<'o>n razonable.
+!******************************!
+[tobj18.txt]
+Aqu<'i> solo hay
+basura. <<5E>!>Puaj,
+qu<'e> asco!
+!******************************!
+[tobj180.txt]
+Espero no verme
+nunca esposado.
+!******************************!
+[tobj181.txt]
+Algunos de estos
+objetos pueden
+ser peligrosos.
+!******************************!
+[tobj182.txt]
+La iluminaci<'o>n de
+este lugar resulta
+muy relajante.
+!******************************!
+[tobj183.txt]
+Creo que vimos algo
+parecido a esto en
+la mina.
+!******************************!
+[tobj184.txt]
+<<5E>?>Habr<'a>n cogido esto
+de la mina?
+!******************************!
+[tobj185.txt]
+Me pregunto para
+qu<'e> sirve esta
+medicina.
+!******************************!
+[tobj186.txt]
+Da la impresi<'o>n de que
+en cualquier momento
+va a salir algo de ah<'i>.
+!******************************!
+[tobj187.txt]
+<<5E>!>Esos edificios son
+alt<'i>simos! <<5E>!>Las vistas
+deben de ser geniales!
+!******************************!
+[tobj188.txt]
+Se dir<'i>a que este
+edificio tiene un
+rico pasado.
+!******************************!
+[tobj19.txt]
+Me pregunto qui<'e>n
+habr<'a> puesto aqu<'i>
+una silla.
+!******************************!
+[tobj2.txt]
+Estos enormes tomos
+son la inspiraci<'o>n
+del profesor.
+!******************************!
+[tobj20.txt]
+Este relajante cuadro
+va perfectamente con
+la habitaci<'o>n.
+!******************************!
+[tobj21.txt]
+<<5E>!>Oh! <<5E>!>Una fotograf<'i>a
+de cuando el doctor y
+yo <'e>ramos j<'o>venes!
+!******************************!
+[tobj22.txt]
+<<5E>!>Vaya! <<5E>!>Este pomo est<'a>
+tan pulido que me
+reflejo en <'e>l!
+!******************************!
+[tobj23.txt]
+Una luz excelente,
+ni muy potente
+ni muy d<'e>bil.
+!******************************!
+[tobj24.txt]
+La puerta tiene un
+dise<-n>o sencillo, pero
+es de calidad.
+!******************************!
+[tobj25.txt]
+<<5E>!>Esta alfombra es tan
+mullida que la noto
+hasta con zapatos!
+!******************************!
+[tobj26.txt]
+Cuando est<'a> oscuro,
+enciendo las l<'a>mparas
+y se me quita el miedo.
+!******************************!
+[tobj27.txt]
+Si nos cansamos de
+andar, podemos volver
+aqu<'i> a tomar un t<'e>.
+!******************************!
+[tobj28.txt]
+<<5E>!>C<'o>mo pesa el ba<'u>l
+del profesor! <<5E>?>Qu<'e>
+llevar<'a> dentro?
+!******************************!
+[tobj29.txt]
+Seguro que vamos muy
+r<'a>pido, porque casi no
+se ve el paisaje.
+!******************************!
+[tobj3.txt]
+En estas estanter<'i>as
+hay un mont<'o>n de
+documentos.
+!******************************!
+[tobj30.txt]
+El encaje de estas
+cortinas es de una
+calidad excelente.
+!******************************!
+[tobj31.txt]
+La comida parece
+incluso m<'a>s exquisita
+bajo estas luces.
+!******************************!
+[tobj32.txt]
+Dicen que el color
+verde abre el apetito.
+!******************************!
+[tobj33.txt]
+La comida se disfruta
+mejor ante una vista
+tan espl<'e>ndida.
+!******************************!
+[tobj34.txt]
+Este mantel est<'a> m<'a>s
+blanco que la cal.
+!******************************!
+[tobj35.txt]
+Las copas tienen
+intrincados grabados.
+!******************************!
+[tobj36.txt]
+<<5E>!>Seguro que incluso el
+pan que ponen aqu<'i>
+vale una fortuna!
+!******************************!
+[tobj37.txt]
+<<5E>!>Qu<'e> pinta tienen las
+verduras! Seguro que
+son de huerta.
+!******************************!
+[tobj38.txt]
+<<5E>?>Se imagina la
+cantidad de platos que
+tienen que preparar?
+!******************************!
+[tobj39.txt]
+En el resto del tren
+hay mucha luz, pero
+aqu<'i> est<'a> sombr<'i>o.
+!******************************!
+[tobj4.txt]
+Al parecer, las sillas
+inc<'o>modas le hacen
+a uno m<'a>s listo.
+!******************************!
+[tobj40.txt]
+Estas cortinas son
+incluso m<'a>s finas que
+las de nuestro vag<'o>n.
+!******************************!
+[tobj41.txt]
+<<5E>!>Esta alfombra est<'a>
+incluso m<'a>s blandita
+que la nuestra!
+!******************************!
+[tobj42.txt]
+No sab<'i>a que hicieran
+ropa tan grande...
+!******************************!
+[tobj43.txt]
+Parece que a esta
+mujer no le va eso
+de viajar ligera.
+!******************************!
+[tobj44.txt]
+Pero <<5E>?>esto es un
+vestido o una tienda
+de campa<-n>a?
+!******************************!
+[tobj45.txt]
+Aqu<'i> hasta las flores
+son enormes.
+!******************************!
+[tobj46.txt]
+Seguro que esta
+botella cuesta un
+ojo de la cara.
+!******************************!
+[tobj47.txt]
+A m<'i> esta casita me
+resulta muy familiar...
+!******************************!
+[tobj48.txt]
+Me pregunto si esta
+escoba es de las
+que vuelan.
+!******************************!
+[tobj49.txt]
+Qu<'e> cubo tan peculiar.
+Me pregunto qu<'e> habr<'a>
+dentro.
+!******************************!
+[tobj5.txt]
+Todo caballero debe
+tener alguna planta
+en su estudio.
+!******************************!
+[tobj50.txt]
+<<5E>!>El paisaje pasa tan
+r<'a>pido que casi no
+puedo seguirlo!
+!******************************!
+[tobj51.txt]
+Esta silla es un poco
+rara, pero la verdad
+es que es bonita.
+!******************************!
+[tobj52.txt]
+Es un lugar ideal para
+pasar una tarde
+tomando el t<'e>.
+!******************************!
+[tobj53.txt]
+Con estas barandillas
+no hay ning<'u>n peligro
+de caerse del tren.
+!******************************!
+[tobj54.txt]
+<<5E>!>Resulta f<'a>cil olvidar
+lo genial que es
+este tren!
+!******************************!
+[tobj55.txt]
+<<5E>!>Incluso la barandilla
+es de oro! <<5E>!>Es como
+un yate de lujo!
+!******************************!
+[tobj56.txt]
+Espero que a
+nuestro tren no le
+haya pasado nada.
+!******************************!
+[tobj57.txt]
+No me hab<'i>a dado
+cuenta, pero Londres
+est<'a> muy lejos ya.
+!******************************!
+[tobj58.txt]
+<<5E>!>Est<'a> claro que no
+han reparado en
+gastos!
+!******************************!
+[tobj59.txt]
+Las luces de los
+pasillos tambi<'e>n
+son de calidad.
+!******************************!
+[tobj6.txt]
+Me pregunto qu<'e>
+ser<'a>n todos estos
+trastos.
+!******************************!
+[tobj60.txt]
+Ahora no tenemos
+tiempo de mirar
+utensilios de limpieza.
+!******************************!
+[tobj61.txt]
+Antes de disfrutar de
+las vistas deber<'i>amos
+ver al doctor.
+!******************************!
+[tobj62.txt]
+Las flores son muy
+bonitas, pero tenemos
+que entrar al piso.
+!******************************!
+[tobj63.txt]
+Las flores se est<'a>n
+abriendo. Seguro que
+alguien cuida de ellas.
+!******************************!
+[tobj64.txt]
+<82><A8><82>â<81>A<83><7C><83>X<83>g<82><CC><89>¡<82>É<0D>
+<89><BD><82>©<81>c<81>H<81>i<83>q<83><93><83>g<83><81><83>_<83><8B><81>H<81>j
+!******************************!
+[tobj65.txt]
+Incluso por la noche,
+este lugar resulta
+agradable y seguro.
+!******************************!
+[tobj66.txt]
+Vaya, qu<'e> edificio m<'a>s
+grande. <<5E>?>Cu<'a>l ser<'a>
+el piso del doctor?
+!******************************!
+[tobj67.txt]
+Est<'a> muy claro cu<'a>l
+es el despacho del
+profesor.
+!******************************!
+[tobj68.txt]
+Me pregunto si esto
+ser<'a> un despacho
+o la cafeter<'i>a.
+!******************************!
+[tobj69.txt]
+<<5E>!>Parece que en esta
+zona hay muchas
+actividades!
+!******************************!
+[tobj7.txt]
+Como no limpiemos
+pronto, toda esta pila
+se va a venir abajo.
+!******************************!
+[tobj70.txt]
+Aqu<'i> no estar<'i>a
+de m<'a>s una planta
+o alg<'u>n adorno.
+!******************************!
+[tobj71.txt]
+Este pasillo est<'a>
+muy bien iluminado
+y ventilado.
+!******************************!
+[tobj72.txt]
+Vaya, en Londres no
+se ven monta<-n>as
+como estas.
+!******************************!
+[tobj73.txt]
+Es un banco corriente
+y moliente.
+!******************************!
+[tobj74.txt]
+Estos caminos de
+tierra casi no se
+ven en Londres ya.
+!******************************!
+[tobj75.txt]
+<<5E>!>El pueblo est<'a>
+precioso para el
+festival!
+!******************************!
+[tobj76.txt]
+<<5E>!>Hala, ah<'i> hay m<'a>s
+puestos!
+!******************************!
+[tobj77.txt]
+Parece que ese
+es el centro del
+festival.
+!******************************!
+[tobj78.txt]
+Esa casa es peque<-n>a,
+pero tiene cierto
+encanto.
+!******************************!
+[tobj79.txt]
+Controlar el poder de
+la naturaleza es toda
+una haza<-n>a.
+!******************************!
+[tobj8.txt]
+Las flores se est<'a>n
+abriendo. Seguro que
+alguien cuida de ellas.
+!******************************!
+[tobj80.txt]
+Parece que hoy
+el pueblo cumple
+50 a<-n>os.
+!******************************!
+[tobj81.txt]
+Seguro que les cost<'o>
+mucho poner todos
+esos banderines.
+!******************************!
+[tobj82.txt]
+<<5E>!>C<'o>mo me gustar<'i>a
+vivir en una mansi<'o>n
+rodeada de <'a>rboles!
+!******************************!
+[tobj83.txt]
+Parece que las v<'i>as
+del tren se pierden en
+esas monta<-n>as.
+!******************************!
+[tobj84.txt]
+Eso parece una
+granja. <<5E>?>Estar<'a>n
+pastando las vacas?
+!******************************!
+[tobj85.txt]
+<<5E>!>Qu<'e> granja m<'a>s
+bonita!
+!******************************!
+[tobj86.txt]
+La mansi<'o>n ya parec<'i>a
+grande de lejos, pero
+de cerca es enorme.
+!******************************!
+[tobj87.txt]
+Las vistas desde esa
+mansi<'o>n deben de ser
+maravillosas.
+!******************************!
+[tobj88.txt]
+Qu<'e> bonito tiene que
+ser vivir en una casa
+al borde de un lago.
+!******************************!
+[tobj89.txt]
+<<5E>!>Seguro que aqu<'i> se
+gastan un dineral
+en electricidad!
+!******************************!
+[tobj9.txt]
+<82><A8><82>â<81>A<83><7C><83>X<83>g<82><CC><89>¡<82>É<0D>
+<89><BD><82>©<81>c<81>H<81>i<83>q<83><93><83>g<83><81><83>_<83><8B><81>H<81>j
+!******************************!
+[tobj90.txt]
+Aqu<'i> todos los caminos
+est<'a>n adoquinados.
+!******************************!
+[tobj91.txt]
+Esa estatua de bronce
+est<'a> muy bien cuidada.
+!******************************!
+[tobj92.txt]
+Est<'a> muy oscuro,
+pero no recuerdo que
+se hiciera de noche...
+!******************************!
+[tobj93.txt]
+Este camino parece
+reci<'e>n empedrado.
+!******************************!
+[tobj94.txt]
+Nunca hab<'i>a visto
+un vest<'i>bulo as<'i>.
+!******************************!
+[tobj95.txt]
+<<5E>!>Qu<'e> espejo m<'a>s
+grande y bien pulido!
+!******************************!
+[tobj96.txt]
+Vaya... El sof<'a> del
+tren estaba mucho
+m<'a>s blandito.
+!******************************!
+[tobj97.txt]
+<<5E>!>Pues s<'i> que se pueden
+comprar cosas en
+la calle!
+!******************************!
+[tobj98.txt]
+Este espejo parece
+caro. Ser<'a> mejor que
+tenga cuidado.
+!******************************!
+[tobj99.txt]
+Esta es una silla
+id<'o>nea para leer un
+buen libro.
+!******************************!
+[tobjlist.txt]
+0<09>-1<09>1<09><94>Ä<97>p<0D>
+1<09>1<09>0<09><91><8B><82><CC><8A>O<0D>
+2<09>1<09>1<09><96><7B><92>I<0D>
+3<09>1<09>1<09><96><7B><92>I<89><BA><95><94><0D>
+4<09>1<09>1<09><83><5C><83>t<83>@<81><5B><0D>
+5<09>1<09>0<09><94><AB><90>A<82><A6><0D>
+6<09>1<09>1<09><92>I<0D>
+7<09>1<09>1<09><8A><F7><82><CC><8F><E3><0D>
+8<09>3<09>1<09><90>A<96><D8><0D>
+9<09>3<09>1<09><83><7C><83>X<83>g<0D>
+10<09>3<09>1<09><93>d<93><94><0D>
+11<09>3<09>1<09><91><8B><81><5E><83>x<83><89><83><93><83>_<81>H<0D>
+12<09>4<09>0<09><94><8E><8E>m<82><CC><95><94><89><AE><0D>
+13<09>4<09>0<09><8E>P<97><A7><82>Ä<82>É<82>Í<0D>
+14<09>4<09>1<09><92>I<82><CC><92><86><82>É<82>Í<0D>
+15<09>4<09>0<09><91><8B><82>É<82>Í<0D>
+16<09>4<09>1<09><8A>z<89><8F><82>É<82>Í<0D>
+17<09>4<09>0<09><83><89><83><93><83>v<82>É<82>Í<0D>
+18<09>4<09>1<09><83>o<83>P<83>c<82>É<82>Í<0D>
+19<09>4<09>1<09><88>Õ<8E>q<82>É<82>Í<0D>
+20<09>6<09>0<09><94>Ä<97>p_<8A>z<89><8F><0D>
+21<09>6<09>0<09><8B><BE><0D>
+22<09>7<09>1<09><83>h<83>A<83>m<83>u<0D>
+23<09>7<09>0<09><8F><C6><96><BE><82>P<0D>
+24<09>7<09>0<09><83>h<83>A<94>Â<0D>
+25<09>7<09>1<09><82><B6><82><E3><82><A4><82><BD><82>ñ<0D>
+26<09>-1<09>1<09><94>Ä<97>p_<83><89><83><93><83>v<83>V<83>F<81><5B><83>h<0D>
+27<09>8<09>1<09><83>e<83>B<81><5B><83>Z<83>b<83>g<0D>
+28<09>8<09>1<09><89><D7><95><A8><82>P<0D>
+29<09>-1<09>1<09><94>Ä<97>p_<91><8B><8A>O<82>P<0D>
+30<09>-1<09>0<09><94>Ä<97>p_<83>J<81><5B><83>e<83><93><82>P<0D>
+31<09>11<09>0<09><8F><C6><96><BE><82>Q<0D>
+32<09>11<09>0<09><83>J<81><5B><83>e<83><93><82>Q<0D>
+33<09>11<09>0<09><91><8B><8A>O<82>Q<0D>
+34<09>11<09>1<09><83>e<81><5B><83>u<83><8B><83>N<83><8D><83>X<0D>
+35<09>11<09>0<09><83>O<83><89><83>X<0D>
+36<09>12<09>1<09><83>p<83><93><0D>
+37<09>12<09>1<09><96><EC><8D><D8><0D>
+38<09>12<09>1<09><83>J<83>E<83><93><83><5E><81><5B><0D>
+39<09>12<09>1<09><8F><C6><96><BE><82>R<0D>
+40<09>13<09>0<09><83>J<81><5B><83>e<83><93><82>R<0D>
+41<09>13<09>1<09><83>J<81><5B><83>y<83>b<83>g<0D>
+42<09>15<09>1<09><95>Ç<82><CC><95><9E><0D>
+43<09>15<09>1<09><89><D7><95><A8><82>Q<0D>
+44<09>15<09>1<09><88>Õ<8E>q<82>É<82>©<82>©<82>Á<82><BD><95><9E><0D>
+45<09>15<09>1<09><89>Ô<95>r<0D>
+46<09>15<09>1<09><83><8F><83>C<83><93><0D>
+47<09>17<09>1<09><8F><AC><89><AE><82><CC><89><AE><8D><AA><0D>
+48<09>17<09>1<09><82><D9><82><A4><82><AB><0D>
+49<09>17<09>1<09><83>o<83>P<83>c<0D>
+50<09>18<09>1<09><95><97><8C>i<82>P<0D>
+51<09>18<09>1<09><88>Õ<8E>q<0D>
+52<09>18<09>0<09><83>e<81><5B><83>u<83><8B><0D>
+53<09>18<09>1<09><8E>è<82><B7><82>è<0D>
+54<09>19<09>1<09><8E>Ô<91><CC><82>P<0D>
+55<09>19<09>1<09><8F>o<8C>û<0D>
+56<09>20<09>1<09><8E>Ô<91><CC><82>Q<0D>
+57<09>20<09>1<09><95><97><8C>i<82>Q<0D>
+58<09>-1<09>1<09><94>Ä<97>p_m_<92>Ê<98>H<82><B6><82><E3><82><A4><82><BD><82>ñ<0D>
+59<09>-1<09>0<09><94>Ä<97>p_m_<92>Ê<98>H<8F><C6><96><BE><0D>
+60<09>4<09>1<09><82><D9><82><A4><82><AB><82>P<0D>
+61<09>4<09>1<09><91><8B><0D>
+62<09>4<09>1<09><89>Ô<95>r<82>P<0D>
+63<09>2<09>1<09><90>A<96><D8><0D>
+64<09>2<09>1<09><83><7C><83>X<83>g<0D>
+65<09>2<09>1<09><93>d<93><94><0D>
+66<09>2<09>1<09><91><8B><81><5E><83>x<83><89><83><93><83>_<81>H<0D>
+67<09>91<09>1<09><8D><B6><82><CC><83>h<83>A<0D>
+68<09>91<09>1<09><89>E<82><CC><83>h<83>A<0D>
+69<09>91<09>1<09><8C>f<8E><A6><94>Â<0D>
+70<09>91<09>0<09><91>ã<81>H<0D>
+71<09>91<09>1<09><8F><B0><0D>
+72<09>21<09>1<09><82>Q<82>P<95><97><8C>i<0D>
+73<09>22<09>1<09><82>Q<82>Q<83>x<83><93><83>`<0D>
+74<09>22<09>0<09><82>Q<82>Q<92>n<96>Ê<0D>
+75<09>22<09>1<09><82>Q<82>Q<8A><F8><0D>
+76<09>23<09>1<09><82>Q<82>R<98>I<93>X<98>I<93>X<89><9C><0D>
+77<09>23<09>0<09><82>Q<82>R<8A><F8><0D>
+78<09>24<09>0<09><82>Q<82>S<89><C6><0D>
+79<09>25<09>0<09><82>Q<82>T<95><97><8E>Ô<0D>
+80<09>26<09>0<09><82>Q<82>U<90><82><82>ê<96><8B><0D>
+81<09>28<09>1<09><82>Q<82>W<8A><F8><0D>
+82<09>31<09>1<09><82>R<82>P<89><AE><95><7E><0D>
+83<09>31<09>1<09><82>R<82>P<8E>R<0D>
+84<09>31<09>0<09><82>R<82>P<89><C6><0D>
+85<09>32<09>1<09><82>R<82>Q<8B><8D><8F><AC><89><AE><0D>
+86<09>32<09>1<09><82>R<82>Q<89><AE><95><7E><0D>
+87<09>33<09>1<09><82>R<82>R<89><AE><95><7E><0D>
+88<09>33<09>0<09><82>R<82>R<90><85><95>Ó<82><CC><8F><AC><89><AE><0D>
+89<09>35<09>1<09><82>R<82>T<8A>X<93><94><0D>
+90<09>35<09>1<09><82>R<82>T<92>n<96>Ê<0D>
+91<09>35<09>0<09><82>R<82>T<92><86><89><9B><82><CC><91>ã<0D>
+92<09>36<09>1<09><82>R<82>U<89><93><8C>i<0D>
+93<09>36<09>0<09><82>R<82>U<93><B9><98>H<0D>
+94<09>37<09>1<09><82>R<82>V<90><81><82><AB><94><B2><82><AF><0D>
+95<09>38<09>1<09><82>R<82>W<8B><BE><0D>
+96<09>38<09>1<09><82>R<82>W<83><5C><83>t<83>@<0D>
+97<09>39<09>1<09><82>R<82>X<98>I<93>X<8E>è<91>O<0D>
+98<09>40<09>1<09><82>S<82>O<8B><BE><0D>
+99<09>40<09>0<09><82>S<82>O<88>Õ<8E>q<0D>
+100<09>42<09>1<09><82>S<82>Q<83><8C><83>X<83>g<83><89><83><93><8A><C5><94>Â<0D>
+101<09>42<09>0<09><82>S<82>Q<83>J<83><81><83><89><0D>
+102<09>43<09>0<09><82>S<82>R<95>Ç<82><CC><8E>Ê<90><5E><0D>
+103<09>46<09>1<09><82>S<82>U<8E>è<91>O<82><CC><95>Ç<0D>
+104<09>47<09>1<09><82>S<82>V<90><85><0D>
+105<09>48<09>0<09><82>S<82>W<83>S<83><7E><0D>
+106<09>49<09>1<09><82>S<82>X<8F><C6><96><BE><0D>
+107<09>50<09>0<09><82>T<82>O<89><8C><93><CB><0D>
+108<09>51<09>1<09><82>T<82>P<8E>è<91>O<82><CC><96><CE><82><DD><0D>
+109<09>51<09>0<09><82>T<82>P<96><E5><0D>
+110<09>52<09>1<09><82>T<82>Q<8D><B6><89>E<82><CC><92><A4><91><9C><0D>
+111<09>52<09>1<09><82>T<82>Q<95><AC><90><85><0D>
+112<09>53<09>1<09><82>T<82>R<83>K<83><89><83>X<89><AE><8D><AA><0D>
+113<09>54<09>0<09><82>T<82>S<92><86><89><9B><82><CC><83>P<81><5B><83>X<0D>
+114<09>54<09>0<09><82>T<82>S<89>E<93>W<8E><A6><0D>
+115<09>55<09>1<09><82>T<82>T<8F><E3><82><CC><8F>Ñ<91><9C><89><E6><0D>
+116<09>57<09>0<09><82>T<82>V<83><8A><83><7B><83><93><82><CC><8A><C5><94>Â<0D>
+117<09>58<09>1<09><82>T<82>W<83>J<83>E<83><93><83><5E><81><5B><8F><E3><0D>
+118<09>58<09>1<09><82>T<82>W<92><DD><82>è<89><BA><82><AA><82>Á<82><BD><82>à<82><CC><0D>
+119<09>58<09>0<09><82>T<82>W<8D><B6><8F><E3><82><CC><92>I<0D>
+120<09>59<09>1<09><82>T<82>X<92><86><89><9B><89><BA><8B><BE><0D>
+121<09>59<09>1<09><82>T<82>X<89>E<8F><E3><83>j<83><93><83>j<83>N<0D>
+122<09>64<09>0<09><82>U<82>S<8F><E3><82><CC><93>d<8F>ü<0D>
+123<09>67<09>1<09><82>U<82>V<8D><B6><8F><E3><83><89><83><93><83>v<0D>
+124<09>68<09>1<09><82>U<82>W<8A>R<0D>
+125<09>68<09>1<09><82>U<82>W<97><A7><82>Ä<8E>D<0D>
+126<09>69<09>0<09><82>U<82>X<83>g<83><8D><83>b<83>R<0D>
+127<09>70<09>1<09><82>V<82>O<83><89><83><93><83>v<0D>
+128<09>70<09>0<09><82>V<82>O<83>p<83>C<83>v<0D>
+129<09>70<09>1<09><82>V<82>O<83><81><81><5B><83><5E><81><5B><0D>
+130<09>72<09>0<09><82>V<82>Q<93>S<83>p<83>C<83>v<0D>
+131<09>72<09>1<09><82>V<82>Q<83>X<83>C<83>b<83>`<0D>
+132<09>73<09>0<09><82>V<82>R<8B>à<8C>É<0D>
+133<09>73<09>1<09><82>V<82>R<8F><B0><0D>
+134<09>74<09>1<09><82>V<82>S<96><E5><0D>
+135<09>75<09>1<09><82>V<82>T<93><BA><91><9C><0D>
+136<09>76<09>0<09><82>V<82>U<90>A<95><A8><0D>
+137<09>76<09>1<09><82>V<82>U<83>L<83>m<83>R<0D>
+138<09>77<09>1<09><82>V<82>V<8F>é<0D>
+139<09>78<09>1<09><82>V<82>W<8B><B4><0D>
+140<09>79<09>1<09><82>V<82>X<8B><B4><0D>
+141<09>80<09>1<09><82>W<82>O<8A>R<0D>
+142<09>80<09>1<09><82>W<82>O<8F>é<8F><E3><95><94><0D>
+143<09>35<09>0<09><82>R<82>T<8E>è<82><B7><82>è<0D>
+144<09>60<09>1<09><82>U<82>O<83>j<83><93><83>j<83>N<0D>
+145<09>61<09>1<09><82>U<82>P<92>n<96>Ê<0D>
+146<09>23<09>1<09><82>Q<82>R<98>I<93>X<8E>è<91>O<0D>
+147<09>24<09>1<09><82>Q<82>S<8B>ó<0D>
+148<09>25<09>1<09><82>Q<82>T<94><A8><0D>
+149<09>25<09>1<09><82>Q<82>T<90>X<0D>
+150<09>26<09>0<09><82>Q<82>U<98>I<93>X<0D>
+151<09>28<09>0<09><82>Q<82>W<89>Ô<92>d<0D>
+152<09>28<09>1<09><82>Q<82>W<8C>f<8E><A6><94>Â<0D>
+153<09>29<09>1<09><82>Q<82>X<95><97><91>D<0D>
+154<09>29<09>0<09><82>Q<82>X<8B><8D><95><97><91>D<0D>
+155<09>30<09>1<09><82>R<82>O<82>Ê<82><A2><82><AE><82>é<82><DD><0D>
+156<09>30<09>1<09><82>R<82>O<83><5E><83>C<83><84><83>L<0D>
+157<09>30<09>0<09><82>R<82>O<92>I<0D>
+158<09>26<09>1<09><82>Q<82>U<89>E<82><CC><98>I<93>X<0D>
+159<09>36<09>0<09><82>R<82>U<89>E<82><CC><8C><9A><95><A8><0D>
+160<09>36<09>1<09><82>R<82>U<89><9C><82>Õ<82><CC><92>Ê<98>H<0D>
+161<09>37<09>0<09><82>R<82>V<8A>K<92>i<0D>
+162<09>39<09>0<09><82>R<82>X<89>E<89><9C><82><CC><93>X<0D>
+163<09>40<09>0<09><82>S<82>O<8F><C6><96><BE><0D>
+164<09>41<09>0<09><82>S<82>P<8E><9E><8C>v<91>ã<0D>
+165<09>43<09>1<09><82>S<82>R<83>J<83><81><83><89><0D>
+166<09>43<09>1<09><82>S<82>R<83>V<83><87><81><5B><83>P<81><5B><83>X<0D>
+167<09>45<09>1<09><82>S<82>T<94>Â<0D>
+168<09>55<09>1<09><82>T<82>T<83>R<81><5B><83>g<0D>
+169<09>55<09>1<09><82>T<82>T<90><85><8F><BB><8B>Ê<0D>
+170<09>56<09>1<09><82>T<82>U<8A>X<93><94><0D>
+171<09>56<09>0<09><82>T<82>U<83>o<83><8A><83>P<81><5B><83>h<0D>
+172<09>71<09>1<09><82>V<82>P<82>Â<82>é<82>Í<82><B5><0D>
+173<09>71<09>1<09><82>V<82>P<83><89><83><93><83>v<0D>
+174<09>74<09>1<09><82>V<82>S<90>X<0D>
+175<09>78<09>1<09><82>V<82>W<8F>é<82><CC><8E>ü<82>è<0D>
+176<09>81<09>1<09><82>W<82>P<89><9C><82><CC><82>à<82><CC><0D>
+177<09>82<09>1<09><82>W<82>Q<98>L<89><BA><0D>
+178<09>83<09>1<09><82>W<82>R<83>e<81><5B><83>u<83><8B><0D>
+179<09>84<09>0<09><82>W<82>S<8F><B0><82><CC><83>V<83><7E><0D>
+180<09>84<09>1<09><82>W<82>S<8E>è<8F><F9><0D>
+181<09>84<09>0<09><82>W<82>S<83>I<83>m<0D>
+182<09>86<09>1<09><82>W<82>U<8F><C6><96><BE><0D>
+183<09>87<09>0<09><82>W<82>V<83><5E><83><93><83>N<0D>
+184<09>88<09>1<09><82>W<82>W<8E>è<91>O<82><CC><90><CE><92>Y<0D>
+185<09>93<09>1<09><82>X<82>R<92>I<0D>
+186<09>68<09>1<09><82>U<82>W<90>X<0D>
+187<09>94<09>1<09><8C><9A><95><A8><0D>
+188<09>94<09>0<09><8C><9A><95><A8><8D><B6><0D>
+
+!******************************!

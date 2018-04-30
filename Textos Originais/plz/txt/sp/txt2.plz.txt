@@ -1,0 +1,671 @@
+[goal_10.txt]
+Ve a casa del Dr. Schrader.
+!******************************!
+[goal_100.txt]
+Devuelve a Tom.
+!******************************!
+[goal_110.txt]
+Vuelve a tu habitaci<'o>n.
+!******************************!
+[goal_120.txt]
+Encuentra el problema.
+!******************************!
+[goal_130.txt]
+Despeja la v<'i>a.
+!******************************!
+[goal_140.txt]
+Explora el pueblo.
+!******************************!
+[goal_150.txt]
+Explora la plaza.
+!******************************!
+[goal_160.txt]
+Explora el pueblo.
+!******************************!
+[goal_165.txt]
+Ve al concurso.
+!******************************!
+[goal_170.txt]
+Vuelve a la estaci<'o>n de tren.
+!******************************!
+[goal_180.txt]
+Encuentra a Romie.
+!******************************!
+[goal_190.txt]
+Vuelve al tren.
+!******************************!
+[goal_20.txt]
+Ve al piso del Dr. Schrader.
+!******************************!
+[goal_200.txt]
+Habla con el personal del tren.
+!******************************!
+[goal_210.txt]
+Ve al vag<'o>n de lujo.
+!******************************!
+[goal_215.txt]
+Investiga el vag<'o>n de lujo.
+!******************************!
+[goal_220.txt]
+Vuelve a tu habitaci<'o>n.
+!******************************!
+[goal_230.txt]
+Sal del tren.
+!******************************!
+[goal_235.txt]
+Explora el pueblo.
+!******************************!
+[goal_237.txt]
+Encuentra el hotel.
+!******************************!
+[goal_240.txt]
+Investiga el pueblo.
+!******************************!
+[goal_250.txt]
+Habla con el anticuario.
+!******************************!
+[goal_255.txt]
+Visita el Museo Herzen.
+!******************************!
+[goal_260.txt]
+Busca pistas por el pueblo.
+!******************************!
+[goal_270.txt]
+Visita el Museo Herzen otra vez.
+!******************************!
+[goal_280.txt]
+Vuelve al hotel.
+!******************************!
+[goal_285.txt]
+Dir<'i>gete al nordeste.
+!******************************!
+[goal_290.txt]
+Ve a la tienda de ultramarinos.
+!******************************!
+[goal_30.txt]
+Entra al piso del Dr. Schrader.
+!******************************!
+[goal_300.txt]
+Ll<'e>vale la carne al perro.
+!******************************!
+[goal_310.txt]
+Recoge todos los pedazos.
+!******************************!
+[goal_320.txt]
+Recoge el resto de pedazos.
+!******************************!
+[goal_330.txt]
+Habla con la gente del pueblo.
+!******************************!
+[goal_340.txt]
+Vuelve al hotel.
+!******************************!
+[goal_35.txt]
+Examina la habitaci<'o>n.
+!******************************!
+[goal_350.txt]
+Ve a tu habitaci<'o>n.
+!******************************!
+[goal_360.txt]
+Busca m<'a>s pistas por el pueblo.
+!******************************!
+[goal_370.txt]
+Visita el Museo Herzen.
+!******************************!
+[goal_380.txt]
+Explora el museo.
+!******************************!
+[goal_385.txt]
+Explora la mina.
+!******************************!
+[goal_390.txt]
+Ve al Castillo Herzen.
+!******************************!
+[goal_40.txt]
+Explora el tren.
+!******************************!
+[goal_400.txt]
+Examina la habitaci<'o>n.
+!******************************!
+[goal_410.txt]
+Encuentra una v<'i>a de escape.
+!******************************!
+[goal_420.txt]
+Escapa del castillo.
+!******************************!
+[goal_430.txt]
+Investiga el Castillo Herzen.
+!******************************!
+[goal_45.txt]
+Dir<'i>gete a la plataforma.
+!******************************!
+[goal_5.txt]
+Busca en los cajones.
+!******************************!
+[goal_50.txt]
+Sigue explorando el tren.
+!******************************!
+[goal_510.txt]
+Encuentra el <'u>ltimo pedazo.
+!******************************!
+[goal_520.txt]
+Encuentra al Sr. Anderson.
+!******************************!
+[goal_54.txt]
+Ve al restaurante.
+!******************************!
+[goal_58.txt]
+Ve a tu habitaci<'o>n.
+!******************************!
+[goal_59.txt]
+Busca a Tom.
+!******************************!
+[goal_60.txt]
+Busca a quienes han visto a Tom.
+!******************************!
+[goal_70.txt]
+Vuelve al pasillo.
+!******************************!
+[goal_80.txt]
+Sigue buscando a Tom.
+!******************************!
+[goal_85.txt]
+Encuentra a la chica del perro.
+!******************************!
+[goal_90.txt]
+Habla con la chica misteriosa.
+!******************************!
+[next_10.txt]
+El profesor y Luke deciden
+ir a la casa del Dr. Schrader.
+!******************************!
+[next_100.txt]
+El profesor, Luke y Flora
+deciden devolverle a Tom
+a su due<-n>a, la Sra. Babette.
+!******************************!
+[next_110.txt]
+El profesor, Luke y Flora
+deciden volver a sus habitaciones
+a descansar.
+!******************************!
+[next_120.txt]
+El profesor y Luke deciden
+investigar por qu<'e> se ha
+parado el tren de repente.
+!******************************!
+[next_130.txt]
+El profesor y Luke deciden
+despejar la v<'i>a para que el
+tren pueda seguir su camino.
+!******************************!
+[next_140.txt]
+El profesor, Luke y Flora deciden
+pasear por Dropstone y ver el
+pueblo.
+!******************************!
+[next_150.txt]
+El profesor, Luke y Flora deciden
+explorar la plaza que hay enfrente
+del ayuntamiento.
+!******************************!
+[next_160.txt]
+El profesor, Luke y Flora deciden
+dar un paseo hasta que empiece
+el concurso.
+!******************************!
+[next_165.txt]
+El profesor, Luke y Flora deciden
+volver al lugar donde se va a
+celebrar el concurso de ganado.
+!******************************!
+[next_170.txt]
+El profesor, Luke y Flora deciden
+volver a la estaci<'o>n de tren.
+!******************************!
+[next_180.txt]
+El profesor, Luke y Flora deciden
+buscar a un hombre llamado
+Romie.
+!******************************!
+[next_190.txt]
+El profesor, Luke y Flora deciden
+volver a la estaci<'o>n de tren.
+!******************************!
+[next_20.txt]
+El profesor y Luke deciden
+entrar en casa del Dr. Schrader.
+!******************************!
+[next_200.txt]
+El profesor, Luke y Flora deciden
+hacer algunas preguntas al
+personal del tren.
+!******************************!
+[next_210.txt]
+El profesor, Luke y Flora deciden
+visitar el vag<'o>n de lujo.
+!******************************!
+[next_215.txt]
+El profesor, Luke y Flora deciden
+investigar el vag<'o>n de lujo.
+!******************************!
+[next_220.txt]
+El profesor, Luke y Flora deciden
+volver a sus habitaciones una
+vez m<'a>s.
+!******************************!
+[next_230.txt]
+El profesor y Luke deciden
+salir del tren y echar un vistazo
+por la zona.
+!******************************!
+[next_235.txt]
+El profesor, Luke y Flora deciden
+pasear por el pueblo.
+!******************************!
+[next_237.txt]
+El profesor, Luke y Flora deciden
+buscar un hotel.
+!******************************!
+[next_240.txt]
+El profesor y Luke deciden
+explorar el extra<-n>o pueblo.
+!******************************!
+[next_250.txt]
+El profesor y Luke deciden
+ir al anticuario.
+!******************************!
+[next_255.txt]
+El profesor y Luke deciden
+visitar el Museo Herzen.
+!******************************!
+[next_260.txt]
+El profesor y Luke deciden
+buscar informaci<'o>n por el pueblo.
+!******************************!
+[next_270.txt]
+El profesor y Luke deciden
+visitar otra vez el Museo Herzen.
+!******************************!
+[next_280.txt]
+El profesor y Luke deciden
+volver al hotel.
+!******************************!
+[next_285.txt]
+El profesor y Luke deciden
+investigar la esquina nordeste
+del pueblo.
+!******************************!
+[next_290.txt]
+El profesor y Luke deciden
+visitar la tienda de ultramarinos.
+!******************************!
+[next_30.txt]
+El profesor y Luke deciden
+entrar en el piso del Dr. Schrader.
+!******************************!
+[next_300.txt]
+El profesor y Luke deciden
+llevarle la pierna de cordero
+al perro del callej<'o>n.
+!******************************!
+[next_310.txt]
+El profesor y Luke deciden
+empezar a buscar los pedazos
+de foto por el callej<'o>n.
+!******************************!
+[next_320.txt]
+El profesor y Luke deciden
+buscar los pedazos de foto
+restantes.
+!******************************!
+[next_330.txt]
+El profesor y Luke deciden
+continuar investigando por
+el pueblo.
+!******************************!
+[next_340.txt]
+El profesor y Luke deciden
+volver al hotel.
+!******************************!
+[next_35.txt]
+El profesor y Luke deciden
+investigar el piso del
+Dr. Schrader.
+!******************************!
+[next_350.txt]
+El profesor y Luke deciden
+volver a la habitaci<'o>n del hotel.
+!******************************!
+[next_360.txt]
+El profesor y Luke deciden
+seguir buscando informaci<'o>n
+en Folsense.
+!******************************!
+[next_370.txt]
+El profesor y Luke deciden
+volver al Museo Herzen, ya
+que saben que est<'a> abierto.
+!******************************!
+[next_380.txt]
+El profesor y Luke deciden
+explorar el Museo Herzen.
+!******************************!
+[next_385.txt]
+El profesor y Luke deciden
+ir a la mina que est<'a> a las
+afueras del pueblo.
+!******************************!
+[next_390.txt]
+El profesor y Luke deciden
+aventurarse en el Castillo Herzen.
+!******************************!
+[next_40.txt]
+El profesor y Luke deciden
+explorar el Molentary Express.
+!******************************!
+[next_400.txt]
+El profesor y Luke deciden
+examinar la habitaci<'o>n de
+invitados.
+!******************************!
+[next_410.txt]
+<<5E>!>El profesor y Luke tienen que
+encontrar una salida!
+!******************************!
+[next_420.txt]
+<<5E>!>El profesor y Luke tienen que
+escapar del castillo!
+!******************************!
+[next_430.txt]
+El profesor y Luke deciden
+investigar el castillo antes de
+escapar.
+!******************************!
+[next_45.txt]
+El profesor y Luke deciden
+explorar la plataforma de
+observaci<'o>n.
+!******************************!
+[next_5.txt]
+Ayuda a Luke a encontrar
+las llaves. B<'u>scalas en los
+cajones con el l<'a>piz t<'a>ctil.
+!******************************!
+[next_50.txt]
+El profesor y Luke deciden
+seguir investigando el tren.
+!******************************!
+[next_510.txt]
+El profesor y Luke deciden ir a la
+puerta del bosque para coger el
+<'u>ltimo pedazo de foto.
+!******************************!
+[next_520.txt]
+El profesor, Luke y Flora deciden
+buscar al Sr. Anderson, un hombre
+dif<'i>cil de encontrar.
+!******************************!
+[next_54.txt]
+El profesor y Luke deciden
+volver al restaurante.
+!******************************!
+[next_58.txt]
+El profesor y Luke deciden
+volver a su habitaci<'o>n del
+tercer vag<'o>n.
+!******************************!
+[next_59.txt]
+El profesor y Luke deciden
+ayudar a buscar a Tom, el
+peque<-n>o de la Sra. Babette.
+!******************************!
+[next_60.txt]
+El profesor y Luke deciden
+buscar a la pareja que podr<'i>a
+haber visto a Tom.
+!******************************!
+[next_70.txt]
+El profesor y Luke deciden
+volver al lugar donde
+desapareci<'o> Tom.
+!******************************!
+[next_80.txt]
+El profesor y Luke deciden
+seguir buscando a Tom.
+!******************************!
+[next_85.txt]
+El profesor y Luke deciden
+buscar a la chica que lleva
+un perrito.
+!******************************!
+[next_90.txt]
+El profesor y Luke deciden
+hablar con la chica de la
+plataforma de observaci<'o>n.
+!******************************!
+[tx_100.txt]
+<<5E>?>Quieres volver a la
+pantalla del t<'i>tulo?
+Perder<'a>s los datos
+que no hayas guardado.
+!******************************!
+[tx_1000.txt]
+Esta opci<'o>n no est<'a>
+disponible en la demo.
+!******************************!
+[tx_1001.txt]
+La lista de puzles no
+contiene ning<'u>n puzle.
+!******************************!
+[tx_1100.txt]
+Parece que has resuelto %d
+puzles durante tus aventuras.
+%s
+!******************************!
+[tx_1101.txt]
+<<5E>!>No est<'a> nada mal!
+!******************************!
+[tx_1102.txt]
+<<5E>!>Has demostrado gran ingenio!
+!******************************!
+[tx_1103.txt]
+<<5E>!>Excelente resultado!
+!******************************!
+[tx_1200.txt]
+Lo mejor de Layton
+Ya puedes acceder a los
+puzles de los enamorados.
+!******************************!
+[tx_1201.txt]
+Lo mejor de Layton
+Ya puedes acceder a los
+puzles del doctor.
+!******************************!
+[tx_1300.txt]
+Ahora no hay ning<'u>n puzle
+en la Casa de los puzles.
+!******************************!
+[tx_1400.txt]
+Hola, %s:
+!******************************!
+[tx_1500.txt]
+Puzle (?) %s
+!******************************!
+[tx_1501.txt]
+Puzle W%2d %s
+!******************************!
+[tx_1600.txt]
+<<5E>!>Has conseguido un pedazo
+de la fotograf<'i>a! <<5E>!><'A>nimo,
+solo te queda %d!
+!******************************!
+[tx_1601.txt]
+Has usado %d pista de este puzle.
+!******************************!
+[tx_200.txt]
+
+!******************************!
+[tx_201.txt]
+Has conseguido %s.
+Puedes reconstruir la
+c<'a>mara en el ba<'u>l.
+!******************************!
+[tx_202.txt]
+Has conseguido
+%s.
+<<5E>!>Intenta crear nuevos t<'e>s!
+!******************************!
+[tx_203.txt]
+Has conseguido %s.
+Usa este juguete para
+poner en forma al h<'a>mster.
+!******************************!
+[tx_204.txt]
+El puzle n.<0> %.3d,
+"%s", se ha
+a<-n>adido a tu lista.
+!******************************!
+[tx_205.txt]
+Has conseguido %s.
+Puedes ver tus
+objetos en el ba<'u>l.
+!******************************!
+[tx_206.txt]
+La opci<'o>n del h<'a>mster
+se ha a<-n>adido al ba<'u>l.
+!******************************!
+[tx_207.txt]
+Puzle %.3d: %s
+!******************************!
+[tx_208.txt]
+<<5E>?>Quieres guardar
+la partida?
+!******************************!
+[tx_209.txt]
+<<5E>?>Quieres guardar la
+partida completa?
+!******************************!
+[tx_210.txt]
+La opci<'o>n de la c<'a>mara
+se ha a<-n>adido al ba<'u>l.
+!******************************!
+[tx_211.txt]
+La opci<'o>n del juego de t<'e>
+se ha a<-n>adido al ba<'u>l.
+!******************************!
+[tx_212.txt]
+<<5E>!>Has conseguido un pedazo
+de la fotograf<'i>a! <<5E>!><'A>nimo,
+solo te quedan %d!
+!******************************!
+[tx_213.txt]
+Has hecho una foto de
+este lugar. Aqu<'i> hay algo
+extra<-n>o...
+!******************************!
+[tx_214.txt]
+Toca el ba<'u>l y usa la
+opci<'o>n de la c<'a>mara
+para ver las fotos.
+!******************************!
+[tx_215.txt]
+Luke ha llamado "%s"
+al h<'a>mster.
+!******************************!
+[tx_216.txt]
+<<5E>!>Has encontrado una foto,
+pero el inspector Chelmey
+la ha confiscado!
+!******************************!
+[tx_217.txt]
+<<5E>!>Ahora Flora viaja contigo!
+Tus acompa<-n>antes aparecen
+en la pantalla superior.
+!******************************!
+[tx_218.txt]
+Flora ha dejado el grupo.
+Tus acompa<-n>antes aparecen
+en la pantalla superior.
+!******************************!
+[tx_219.txt]
+La opci<'o>n del diario antiguo
+se ha a<-n>adido al ba<'u>l.
+!******************************!
+[tx_220.txt]
+<<5E>!>Has conseguido una llave del
+diario! <'U>sala para abrir una
+p<'a>gina del diario antiguo.
+!******************************!
+[tx_221.txt]
+
+!******************************!
+[tx_222.txt]
+<<5E>!>Has conseguido un pedazo de
+la fotograf<'i>a! <<5E>!>Muy bien,
+ya los tienes todos!
+!******************************!
+[tx_250.txt]
+<<5E>!>Luke y %s se han
+hecho muy amigos!
+!******************************!
+[tx_251.txt]
+<<5E>!>Has resuelto todos los
+misterios de la opci<'o>n
+de la c<'a>mara!
+!******************************!
+[tx_252.txt]
+<<5E>!>Ya dominas los t<'e>s!
+!******************************!
+[tx_300.txt]
+<<5E>?>Resolver el puzle n.<0> %.3d,
+"%s"?
+!******************************!
+[tx_400.txt]
+N.<0> %.3d: %s
+!******************************!
+[tx_500.txt]
+<<5E>?>Quieres sobrescribir el
+archivo "%s"?
+!******************************!
+[tx_501.txt]
+No hay datos guardados.
+!******************************!
+[tx_600.txt]
+<<5E>!>Es la hora del t<'e>!
+!******************************!
+[tx_601.txt]
+Selecciona un t<'e>
+y despu<'e>s toca #rServir#x.
+!******************************!
+[tx_602.txt]
+<<5E>!>Has encontrado una moneda
+en el fondo de la taza!
+!******************************!
+[tx_603.txt]
+<<5E>!>Vamos a tomarnos un
+descanso con una buena
+taza de t<'e>!
+!******************************!
+[tx_604.txt]
+Vale, ahora que has elegido
+uno, toca #rServir#x para servir
+una taza.
+!******************************!
+[tx_700.txt]
+<<5E>!>Has resuelto el puzle
+"%s"!
+!******************************!
+[tx_701.txt]
+<<5E>!>Lo has resuelto sin usar
+ninguna pista! <<5E>!>Fenomenal!
+!******************************!
+[tx_702.txt]
+Has usado %d pistas de este puzle.
+!******************************!
+[tx_800.txt]
+Error: %d
+!******************************!
+[tx_801.txt]
+
+!******************************!
