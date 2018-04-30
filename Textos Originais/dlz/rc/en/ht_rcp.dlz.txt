@@ -1,0 +1,72 @@
+<0000><0012>Citrus Classic
+!------------------------------!
+A classic tea with the added twist
+of Citronia Seed. This special
+ingredient gives an unique flavour.
+!******************************!
+<0001><0011>Oasis Berry
+!------------------------------!
+A tea loved by women and children.
+Its refreshing sweetness is the
+secret of its popularity.
+!******************************!
+<0002><0027>Sugar Smoke
+!------------------------------!
+An unique blend of fruity flavours
+with smoky undertones. The leaves
+show the future of your love life.
+!******************************!
+<0003><0045>Root Remedy
+!------------------------------!
+Rich in flavour, this tea warms the
+body, improves circulation and is
+ideal if you feel a cold coming on.
+!******************************!
+<0004><0066>Cherry Boost
+!------------------------------!
+The spicy kick of Peppercherry
+makes this tea an ideal pick-me-up
+if you're feeling a little down.
+!******************************!
+<0005><0125>Bitter Fruit
+!------------------------------!
+Sweet and sour with a subdued,
+bitter flavour. This complex tea is
+ideal for discerning adults.
+!******************************!
+<0006><0136>Dream Spice
+!------------------------------!
+This mysterious blend melds sweet
+and mild notes with a fantastic
+spiciness.
+!******************************!
+<0007><0147>Clover Quencher
+!------------------------------!
+Smokiness and sweetness coexist
+in this peculiar tea. It's perfect
+for quenching a thirst.
+!******************************!
+<0008><0234>Radiance Blend
+!------------------------------!
+Soothing in scent and mildly fruity
+in flavour, this vitamin-packed tea
+addresses all kinds of beauty woes.
+!******************************!
+<0009><0346>Cayenne Twilight
+!------------------------------!
+The initial light taste of this tea
+soon transforms into something
+spicy. Perfect for unwinding.
+!******************************!
+<000A><0357>Cinder Flower
+!------------------------------!
+This blend works wonders against
+sickness of all kinds, though the
+taste can be off-puttingly strong.
+!******************************!
+<000B><0467>The Layton Elixir
+!------------------------------!
+A single sip will capture your heart.
+The harmony of unlikely flavours
+results in a miraculous beverage.
+!******************************!
