@@ -1,0 +1,72 @@
+<0000><0012>Cítrico Clássico
+!------------------------------!
+Um chá clássico com o toque especial
+das Sementes Cítricas. Este
+ingrediente lhe dá um sabor único.
+!******************************!
+<0001><0011>Fruta do Oásis
+!------------------------------!
+Um chá que encanta mulheres e
+crianças. Sua doçura refrescante
+é o segredo de sua popularidade.
+!******************************!
+<0002><0027>Névoa Doce
+!------------------------------!
+Um mistura única de sabores frutosos
+com um toque defumado. As folhas
+mostram sua vida amorosa futura.
+!******************************!
+<0003><0045>Raíz Vigorosa
+!------------------------------!
+Rico em sabor, este chá aquece o
+corpo, melhora a circulação e é
+ideal para início de resfriado.
+!******************************!
+<0004><0066>Reforço Apimentado
+!------------------------------!
+A pitada forte da Pimenta Cereja
+faz deste chá ideal para pôr para
+cima os ânimos de quem tá pra baixo.
+!******************************!
+<0005><0125>Fruta Amarga
+!------------------------------!
+De sabor agridoce, com um toque
+amargo. Este chá complexo é
+ideal para adultos perspicazes.
+!******************************!
+<0006><0136>Sonho Apimentado
+!------------------------------!
+Este chá misterioso possui uma
+doce, suave e com um toque
+apimentado.
+!******************************!
+<0007><0147>Trevo Fresco
+!------------------------------!
+Um chá peculiar onde tons defumados
+e doces coexistem. Para quem tem
+sede, é perfeito para refrescar.
+!******************************!
+<0008><0234>Mescla Radiante
+!------------------------------!
+Um chá de aroma relaxante e sabor
+frutoso. É rico em vitaminas e
+acalma inquietudes estéticas.
+!******************************!
+<0009><0346>Caiena Crepuscular
+!------------------------------!
+Ainda que a princípio tenha um
+sabor suave, rapidamente se torna
+apimentado. Ideal para relaxar.
+!******************************!
+<000A><0357>Flor de Cinzas
+!------------------------------!
+Esta mistura faz maravilhas a
+todo tipo de enfermidade, apesar
+de ter um sabor extremamente forte.
+!******************************!
+<000B><0467>Elixir Laytônico
+!------------------------------!
+Será amor ao primeiro gole.
+A harmonia de sabores improváveis
+resulta numa bebida milagrosa.
+!******************************!

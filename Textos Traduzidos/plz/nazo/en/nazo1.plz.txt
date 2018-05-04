@@ -394,7 +394,7 @@ caminho em direção ao sul.
 Se chegou até aqui, o resto é moleza.
 !******************************!
 [n17.dat]
-<0018>O Labirinto de Sapatos
+<0018>Labirinto de Sapatos
 <00><14><12><10><11><09><17><11><FD><03><02><FF>
 Aqui temos um labirinto feito de sapatos.
 
@@ -413,33 +413,36 @@ desselecioná-lo.
 !******************************!
 Bom trabalho!
 
-Que caminhada mais chique!
+Essa foi uma caminhada para o sucesso!
 !******************************!
 Que pena!
 
-Tem certeza que alternou entre os sapatos
-esquerdos e direitos a cada passo?
+Você tem certeza que alternou entre
+os sapatos de pé esquerdo e pé direito
+a cada passo?
 !******************************!
-Fazer o caminho contrário da chegada é uma
-tática que pode lhe ajudar a achar a resposta.
+Fazer o caminho inverso, do final para
+a chegada, é uma excelente tática para
+chegar à resposta.
 !******************************!
-A solução requer que você pise em exatamente
-19 quadrados, incluindo os pontos de partida e chegada.
+A solução requer que você pise em
+exatamente 19 quadrados, incluindo
+os pontos de partida e chegada.
 !******************************!
-Do ponto de partida, inicie sua caminha com
-um passo para a direita.
+Comece sua caminhada com o pé direito.
 !******************************!
 [n18.dat]
 <0019>A Viagem de Trem
 <01><14><12><10><12><09><16><12><F6><03><02><FF>
-Um número desconhecido de pessoas estão
-dentro de um trem. Na primeira estação que o
-trem para, 1/6 das pessoas a bordo descem. Na
-próxima estação, 1/5 dos passageiros remanescentes
-descem. Esse padrão continua pois na próxima estação
-descem 1/4, depois 1/3, e mais tarde 1/2. Então,
-na última estação, os últimos passageiros que sobraram
-também descem.
+Um número desconhecido de pessoas está
+dentro de um trem. Na primeira estação que
+o trem para, 1/6 das pessoas a bordo desce.
+Na próxima estação, 1/5 dos passageiros
+remanescentes desce. Esse padrão
+continua, então na próxima estação desce
+1/4, depois 1/3, e mais tarde 1/2. Por fim,
+na última estação, os últimos passageiros
+que sobraram também descem.
 
 Assumindo que ninguém tenha entrado no trem
 durante a viagem, qual é o menor número de pessoas
@@ -448,88 +451,99 @@ que poderiam estar a bordo do trem quando ele partiu?
 Bom trabalho!
 
 Se você assumir que o trem iniciou com seis
-passageiros, então apenas uma pessoa precisaria
-descer a cada estação. 
+passageiros, então apenas uma pessoa
+precisaria descer a cada estação. 
 
 Esse enigma pode ser bem difícil se você
-esquecer de reduzir o número de pessoas ainda
-no trem em cada estação pelo caminho.
+esquecer de reduzir o número de pessoas
+ainda no trem em cada estação pelo caminho.
 !******************************!
 Que pena!
 
-Preste atenção nas pistas que lhe foi dado e
-tente novamente. Esse enigma fica bem simples
-assim que percebe um certo princípio simples.
+Preste atenção nas pistas que lhe foi dadas
+e tente novamente. Este enigma fica bem
+fácil no momento em que você percebe um 
+premissa bem simples.
 !******************************!
 Já que o enigma diz que ninguém
 entrou no trem durante a viagem,
 é certo dizer que o número de 
 passageiros no trem nunca aumentou.
 !******************************!
-Já que 1/6 dos passageiros descem na
+Já que 1/6 dos passageiros desce na
 primeira estação, então você sabe que o
-número deve ser divisível por seis. Comece
-por escolher um número que é divisível por seis
-e veja o que acontece.
+número deve ser divisível por seis.
+Comece escolhendo um número que é
+divisível por seis e veja o que acontece.
 
-Em breve o princípio usado para se resolver
-este enigma ficará evidente.
+A premissa usada para resolver este
+enigma logo ficará evidente.
 !******************************!
 Imagine que 30 passageiros estão no trem
-quando ele parte. Na primeira estação, o trem
-perde 1/6 de seus passageiros, o que significa que
-cinco pessoas descem. Na próxima estação, 1/5 dos
-25 passageiros remanescentes, ou cinco pessoas, descem.
-E na próxima estação, 1/4 dos 20 passageiros remanescentes,
-ou seja, cinco pessoas, descem.
+quando ele parte. Na primeira estação,
+o trem perde 1/6 de seus passageiros, o
+que significa que cinco pessoas, desce.
+Na próxima estação, 1/5 dos 25
+passageiros remanescentes, ou cinco
+pessoas, desce. E na próxima estação, 1/4
+dos 20 passageiros remanescentes, ou
+seja, cinco pessoas, desce.
 
 Percebeu um padrão aqui?
 !******************************!
 [n19.dat]
 <0020>A Ladra de Sapatos
 <01><19><16><13><11><0A><16><13><F6><03><02><FF>
-Uma mulher em uma loja de sapatos paga <po>30 por
-um par de sapatos com uma etiqueta de <po>50. O atendente
-não tem troco suficiente, então ele vai até a loja vizinha para
-destrocar a nota de <po>50, volta à loja e dá à mulher seu troco.
-Um pouco mais tarde, a vendedora da loja vizinha entra enfurecida
-na loja de sapatos. Parece que a nota que ele deu para ela era falsa!
-O horrorizado atendente entrega á vendedora <po>50 como desculpas.
-Nem a cliente nem os sapatos que ela escolheu estão a vista.
+Uma mulher em uma loja de sapatos paga <po>50
+por um par de sapatos com valor de <po>30.
+O atendente não tem troco suficiente, então
+ele vai até a loja vizinha para trocar a nota
+de <po>50, volta à loja e dá à mulher seu troco.
+Um pouco mais tarde, a vendedora da loja
+vizinha entra enfurecida na loja de sapatos.
+Parece que a nota que ele deu para ela era
+falsa! O horrorizado atendente entrega à
+vendedora <po>50 como desculpas. Nem a cliente,
+nem os sapatos que ela escolheu, estão a
+vista.
 
 No total, quanto a loja de sapatos perdeu?
 !******************************!
 Muito bem!
 
-Os sapatos que a cliente levou custam
-<po>30, e o troco que o vendedor lhe deu
-custam outros <po>20, trazendo seu
-total de perdas para <po>50.
+Os sapatos que a cliente levou custam <po>30,
+e o troco que o vendedor lhe deu custa
+outros <po>20, trazendo seu total de perdas
+para <po>50.
 
-O atendente recebeu <po>50 de dinheiro de
-verdade na troca da nota falsa com a vendedora
-da loja vizinha, então lhe devolveu <po>50 quando
-ela descobriu que a nota era falsa. Essas duas transações
+O atendente recebeu <po>50 em dinheiro de
+verdade na troca da nota falsa com a
+vendedora da loja vizinha, então lhe
+devolveu <po>50 quando ela descobriu que a
+nota era falsa. Essas duas transações
 cancelam uma a outra.
 !******************************!
 Que pena!
 
 Pense bem no enigma e tente novamente.
 !******************************!
-Se o atendente não tivesse ido destrocar o dinheiro
-talvez ele nunca descobrisse sobre a nota falsa.
+Se o atendente não tivesse ido trocar
+o dinheiro, talvez ele nunca descobrisse
+sobre a nota falsa.
 
-Quando ele perderia caso o troco viesse dele mesmo?
+Quanto ele perderia caso ele fornecesse
+o troco?
 !******************************!
 Já que ele usou uma nota falsa, o troco
 que conseguiu na loja vizinha não serviu
-pra nada. Ele ganhou <po>50.
+para nada. Ele ganhou <po>50.
 
-Mas ao retornar o dinheiro ele perdeu <po>50.
+Mas ao retornar o dinheiro ele perdeu
+<po>50.
 !******************************!
-A cliente gatuna acabou fugindo com um par de
-sapatos que custam <po>30, e também com
-<po>20 em troco.
+A cliente gatuna acabou fugindo com
+um par de sapatos que custam <po>30, e
+também com <po>20 em troco.
 !******************************!
 [n2.dat]
 <0003>A Chave Certa
@@ -1042,8 +1056,8 @@ procurando por algo suspeito.
 
 O apartamento do Dr. Schrader está cheio
 de objetos estranhos e raros, mas
-<">estranho e raro<"> não é a mesma coisa
-que <">suspeito<">.
+<''>estranho e raro<''> não é a mesma coisa
+que <''>suspeito<''>.
 !******************************!
 Não há nada a procurar nos lados da sala
 onde estão o professor e o Inspetor
@@ -2523,56 +2537,62 @@ directly proportional to one another.
 [n6.dat]
 <0007>Quatro Casais
 <00><14><12><10><11><0B><05><06><EB><03><02><FF>
-Quatro casais estão sentados em um vagão de jantar lotado.
-Todos os comensais estão sentados de frente ou ao lado
-de seus parceiros:
+Quatro casais estão sentados em um
+vagão-restaurante lotado. Todos os clientes
+estão sentados em frente ou ao lado de
+seus parceiros:
 
 <->Os Jones estão sentados no corredor.
-<->O abigodado Sr. O'Connor está sentado
-próximo à sua esposa.
-<->Sr. Lambert está sentado à frente da sua esposa.
+<->O senhor de bigode, Sr. O'Connor, está
+sentado ao lado da sua esposa.
+<->O Sr. Lambert está sentado em frente
+à sua esposa.
 
-Usando a informação acima, você consegue
+Usando as informações acima, você consegue
 determinar onde a Sra. Hadley está sentada?
 Circule-a e depois toque em #rEnviar#x.
 !******************************!
 Isso aí!
 
-O abigodado Sr. O'Connor está sentado próximo à
-sua esposa, então todas as pessoas a esquerda devem
-estar sentados perto de seus companheiros.
-Sr. Lambert está sentado na frente de sua eposa, 
-então ele deve estar sentado na mesa da direita.
+O senhor de bigode, Sr. O'Connor, está
+sentado ao lado da sua esposa, então todas
+as pessoas da mesa à esquerda devem estar
+sentadas ao lado dos seus parceiros.
+O Sr. Lambert está sentado em frente à sua
+esposa, então ele deve estar sentado na
+mesa à direita.
 
-Os Joneses estão sentados no corredor, então
-eles devem ser c e g. Assim sobram e
-e f como os Hadleys.
+Os Jones estão sentados no corredor,
+logo eles devem ser C e G. Assim, os Hadley
+só podem ser E e F.
 !******************************!
 Que pena!
 
 Pense bastante nas pistas que lhe foram
 dadas e tente novamente
 !******************************!
-O abigodado Sr. O'Connor é b.
-Já que ambos c e f são homens, sua esposa
-deve ser a.
+O senhor de bigode, Sr. O'Connor, é B.
+Já que C e F são homens, sua esposa
+só pode ser A.
 !******************************!
-Ambos os Jones estão sentados no corredor,
-o que significa que eles devem estar sentados um
-na frente do outro.
+Os Jones estão sentados no corredor,
+o que significa que eles devem estar
+sentados em frente um do outro.
 
-Agora que você já sabe que b é o Sr. O'Connor, 
-c e g devem ser o Sr. e Sra. Jones.
+Uma vez que você já sabe que B é
+o Sr. O'Connor, C e G devem ser o
+Sr. e Sra. Jones.
 !******************************!
-E onde deve estar o Sr. Lambert?
+E onde está o Sr. Lambert?
 
-Nós sabemos que a e b são os O'Connors,
-então as pessoas sentadas na frente deles também
-devem ser un casal. Mas não podem ser os Lamberts
-já que eles estão sentados um na frente do outro.
+Nós sabemos que A e B são os O'Connor,
+então as pessoas sentadas em frente
+a eles também são um casal. Mas não
+podem ser os Lambert, já que eles estão
+sentados um na frente do outro.
 
-Agora você deve conseguir identificar
-os quatro casais.
+Agora você deve sercapaz de identificar
+todos os quatro casais.
 !******************************!
 [n7.dat]
 <0008>O Grande Jantar do Luke

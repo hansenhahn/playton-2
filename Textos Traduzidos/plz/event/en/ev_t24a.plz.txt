@@ -564,7 +564,7 @@ no cabaré?
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:15>Erm... Não, eu...
 !******************************!
 [t24_110_300.gds]
-<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:106>Ah, olha só essas bochechinhas
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:106>Ah, olhe só essas bochechinhas
 corando! Não tem pra que
 ficar acanhado, bonitão!<W>
 !------------------------------!

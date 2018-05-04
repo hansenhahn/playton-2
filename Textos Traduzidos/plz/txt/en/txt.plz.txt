@@ -291,8 +291,8 @@ um que se atreva a abri-la. Conforme
 os boatos, a caixa já reivindicou
 muitas vidas e é conhecida como
 "Caixa de Pandora" em muitas partes
-do mundo. Podem esses rumores
-nefastos serem verdadeiros?
+do mundo. Será que esses nefastos
+rumores são verdadeiros?
 !******************************!
 [id_10.txt]
 A large, ominous symbol in the
@@ -643,12 +643,12 @@ still without a clue.
 !******************************!
 [d_2.txt]
 Sem outras pistas para seguir, eu e
-o Luke dicidimos embarcar no Molentary
+Luke decidimos embarcar no Molentary
 Express com o bilhete que encontramos
 no apartamento do doutor. Suspeito
 que o doutor tenha embarcado nesse
 luxuoso trem em algum momento, mas
-não sei dizer aonde ele foi.
+não sei dizer aonde o trem o levou.
 !******************************!
 [d_20.txt]
 While walking about town, Luke
@@ -1223,7 +1223,7 @@ free time to search the village for
 any leads on the Elysian Box.
 !******************************!
 [t_1.txt]
-Visiting Dr Schrader
+Visitando o Dr. Schrader
 !******************************!
 [t_10.txt]
 The Livestock Competition
@@ -1256,7 +1256,7 @@ Exploring Folsense
 What a Millionaire Seeks
 !******************************!
 [t_2.txt]
-A Cruise Ship on Rails
+Um Cruzeiro Sobre Trilhos
 !******************************!
 [t_20.txt]
 The Locked Book
@@ -1289,7 +1289,7 @@ The Goat-shaped Symbol
 The Lost Photograph
 !******************************!
 [t_3.txt]
-Dining Car Commotion
+A Popularidade do Vagão-Restaurante
 !******************************!
 [t_30.txt]
 The Ill-tempered Guard
@@ -1322,7 +1322,7 @@ An Improbable Revelation
 Recovering the Elysian Box
 !******************************!
 [t_4.txt]
-The View from the Deck
+A Vista do Mirante
 !******************************!
 [t_40.txt]
 Rumours of a Great Fortune
@@ -1912,7 +1912,7 @@ Tenho apenas que encontrá-la.
 Nós vamos. Tenho certeza disso.
 !******************************!
 [m1_2.txt]
-Olha só essa cabine!
+Olhe só essa cabine!
 !******************************!
 [m1_3.txt]
 Sim, vejo claramente porque alguns

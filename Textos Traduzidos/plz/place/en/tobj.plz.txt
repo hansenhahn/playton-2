@@ -12,514 +12,501 @@ cura perfeita após longas
 horas de trabalho.
 !******************************!
 [tobj10.txt]
-This seems like a nice,
-safe area in the
-evenings as well.
+Mesmo à noite, este lugar
+deve ser bom e seguro.
 !******************************!
 [tobj100.txt]
-Lobster sounds good
-right now!
+Uma lagosta agora ia
+cair muito bem!
 !******************************!
 [tobj101.txt]
-This sign is a
-masterwork of
-clarity.
+Este telhado é uma
+obra de arte.
 !******************************!
 [tobj102.txt]
-There are all sorts
-of people portrayed
-here.
+Tem todo tipo de gente
+sendo retratada aqui.
 !******************************!
 [tobj103.txt]
-This wall is covered
-in ivy.
+Esta parede está coberta
+de plantas trepadeiras.
 !******************************!
 [tobj104.txt]
-Whoa! This alley's
-flooded!
+Opa! Esse beco está
+alagado!
 !******************************!
 [tobj105.txt]
-The byproduct of
-consumerism is
-a tragic sight.
+As consequências do
+consumismo são trágicas.
 !******************************!
 [tobj106.txt]
-It's awfully gloomy
-in these parts.
+Está bastante sombrio
+por essas bandas.
 !******************************!
 [tobj107.txt]
-Well... At least these
-smoking chimneys are
-reassuring.
+Bom... Pelo menos essas
+chaminés fumaçantes são
+reconfortantes.
 !******************************!
 [tobj108.txt]
-Eek! Looks like a
-snake could slither
-out at any moment!
+Eca! Parece que uma cobra
+pode rastejar do mato
+a qualquer momento!
 !******************************!
 [tobj109.txt]
-This large and
-imposing structure is
-an impressive sight.
+Essa enorme estrutura
+é impressionante.
 !******************************!
 [tobj11.txt]
-It's a pretty old
-building, but it looks
-sturdy enough.
+É um edifício bem antigo,
+mas parece ser muito
+resistente.
 !******************************!
 [tobj110.txt]
-The statue's eyes
-seem to be glowing.
-Eek!
+Os olhos da estátua
+parecem estar piscando.
+Que medo!
 !******************************!
 [tobj111.txt]
-The way the water
-reflects the light is
-mesmerising...
+O jeito que a água
+reflete a luz é
+hipnotizante...
 !******************************!
 [tobj112.txt]
-Glass awnings are
-pretty classy.
+Quem nunca teve um teto
+de vidro bonito desse, que
+atire a primeira pedra.
 !******************************!
 [tobj113.txt]
-Only the most
-valuable items are
-displayed in here.
+Apenas os itens mais
+valiosos estão sendo
+exibidos aqui.
 !******************************!
 [tobj114.txt]
-These artifacts
-reveal the family's
-long history.
+Esses artefatos revelam
+a longa história dessa
+família.
 !******************************!
 [tobj115.txt]
-This seems to be a
-portrait of the old
+Isso parece ser um
+retrato do velho
 Duke Herzen.
 !******************************!
 [tobj116.txt]
-That sign is the most
-glamorous in town.
+Esse pôster é o mais
+colorido de toda a cidade.
 !******************************!
 [tobj117.txt]
-What does this
-contraption do?
+O que essa engenhoca
+faz?
 !******************************!
 [tobj118.txt]
-I've never seen this
-before. Can you eat
-it?!
+Nunca vi isso antes.
+É de comer?!
 !******************************!
 [tobj119.txt]
-These shelves are full
-of recipes and
-ingredients.
+Essas estantes estão
+cheias de receitas e
+ingredientes.
 !******************************!
 [tobj12.txt]
-The question at hand
-is how to get into
-the doctor's flat?
+O "X" da questão é:
+Como podemos entrar no
+apartamento do doutor?
 !******************************!
 [tobj120.txt]
-What was that?!
-Oh, heh heh... It was
-just my reflection!
+O que foi isso?!
+Ah, heh heh... Foi só
+o meu reflexo!
 !******************************!
 [tobj121.txt]
-It feels like my nose
-will fall off with all
-this garlic!
+É como se meu nariz fosse
+cair, por causa de todo
+esse cheiro de alho!
 !******************************!
 [tobj122.txt]
-What charming
-illuminations.
+Que iluminação charmosa.
 !******************************!
 [tobj123.txt]
-This light is broken.
-How did that happen?
+A luz está quebrada.
+Como isso aconteceu?
 !******************************!
 [tobj124.txt]
-Whoa! It looks like
-it might collapse at
-any minute!
+Opa! Parece que isso pode
+quebrar a qualquer
+momento!
 !******************************!
 [tobj125.txt]
-Both paths are sure
-to take us somewhere
-creepy.
+Ambos os caminhos vão
+certamente nos levar a
+algum lugar arrepiante.
 !******************************!
 [tobj126.txt]
-This seems to be
-unchanged since
-time immemorial.
+Há de se dizer que esse
+objeto não foi usado por
+ninguém, há um tempo.
 !******************************!
 [tobj127.txt]
-Without this lamp,
-it would be pitch-
-black!
+Sem esta lâmpada,
+ia ficar um breu aqui!
 !******************************!
 [tobj128.txt]
-I wonder what
-substance this
-pipe carried.
+Pergunto-me qual
+substância continha
+nesse cano.
 !******************************!
 [tobj129.txt]
-I wonder what this
-meter measured?
+O que será que esse
+medidor estava medindo?
 !******************************!
 [tobj13.txt]
-There's nothing there.
-We'll have to think of
-another way to get in.
+Não há nada aqui.
+Temos que pensar em
+outro jeito de entrar.
 !******************************!
 [tobj130.txt]
-I do hope this isn't
-part of the lift!
+Espero que isso não
+seja parte da alavanca!
 !******************************!
 [tobj131.txt]
-What could this
-switch be for?
+Pra quê será que
+esse interruptor serve?
 !******************************!
 [tobj132.txt]
-This vault seems
-well-secured.
+Essa abóbada parece ser
+quase impenetrável.
 !******************************!
 [tobj133.txt]
-This floor smells of
-mould. Blech!
+Esse andar tem cheiro
+de mofo. Blergh!
 !******************************!
 [tobj134.txt]
-Ivy really gives me
-the heebie-jeebies.
+Essas trepadeiras tão
+me dando um medo danado.
 !******************************!
 [tobj135.txt]
-This place is spooky
-enough without that
-horrible statue.
+Mesmo sem essa estátua
+horrível, esse lugar já
+seria assustador.
 !******************************!
 [tobj136.txt]
-I don't believe I've
-come across this
-type of plant before.
+Não creio que tenhamos
+cruzado com esse tipo
+de planta antes.
 !******************************!
 [tobj137.txt]
-This mushroom has
-got 'poison' written
-all over it!
+Esse cogumelo é tão
+venenoso que parece que
+dá pra sentir de longe!
 !******************************!
 [tobj138.txt]
-That's Herzen Castle
-up there.
+O Castelo dos Herzen
+está bem ali.
 !******************************!
 [tobj139.txt]
-This bridge isn't going
-to break...is it?
+Essa ponte não vai
+quebrar... vai?
 !******************************!
 [tobj14.txt]
-There's nothing in
-these drawers.
+Não tem nada nessas
+gavetas.
 !******************************!
 [tobj140.txt]
-It's wobbling! Ugh, I
-feel sick...
+Está balançando!
+Urgh, tô enjoando...
 !******************************!
 [tobj141.txt]
-Probably best not to
-look down...
+Talvez seja melhor
+não olhar para baixo...
 !******************************!
 [tobj142.txt]
-I never realised
-Herzen Castle
-was so big.
+Não esperava que
+o Castelo dos Herzen
+fosse tão grande.
 !******************************!
 [tobj143.txt]
-These marble railings
-bespeak a level of
-polish.
+Essas balaustradas
+parecem ter sido muito
+bem polidas.
 !******************************!
 [tobj144.txt]
-This place is covered
-in garlic as well.
+Esse lugar também está
+coberto dessa névoa de
+alho.
 !******************************!
 [tobj145.txt]
-There's something
-unsettling about this
-pattern.
+Tem algo que me é
+inquietante sobre o
+design desse piso.
 !******************************!
 [tobj146.txt]
-The celebrations
-appear to be in full
-swing.
+O festival está em pleno
+andamento.
 !******************************!
 [tobj147.txt]
-What lovely weather!
-If only today were a
-proper holiday.
+Que clima adorável!
+Se ao menos eu
+estivesse de férias.
 !******************************!
 [tobj148.txt]
-I wonder what's
-growing in this
-field.
+Me pergunto o que está
+crescendo neste campo.
 !******************************!
 [tobj149.txt]
-There's bound to be
-loads of things living
-in the forest.
+Certamente há muitos
+animais nessa floresta.
 !******************************!
 [tobj15.txt]
-This window doesn't
-open. No hidden keys,
-either.
+Essa janela não quer
+abrir. E também não há
+chaves escondidas nela.
 !******************************!
 [tobj150.txt]
-I wonder if they sell
-any local delicacies?
+Será que eles vendem
+guloseimas locais aqui?
 !******************************!
 [tobj151.txt]
-This circular flower
-bed is truly delightful.
+Esse parterre é um
+primor de beleza.
 !******************************!
 [tobj152.txt]
-This notice board is
-covered in cow
-posters.
+Há muitos pôsteres de
+vacas.
 !******************************!
 [tobj153.txt]
-As a gentleman, I feel
-it is my duty to take
-one of these balloons.
+Como um cavalheiro, sinto
+que é meu trabalho pegar
+um desses balões.
 !******************************!
 [tobj154.txt]
-Those large balloons
-are in the shape of
-cows.
+Esses balões enormes
+estão na forma de vacas.
 !******************************!
 [tobj155.txt]
-Aww! These are so
-cute!
+Ahh! Que bonitinhos!
 !******************************!
 [tobj156.txt]
-Is this fish a stuffed
-animal as well?
+Esse peixe também é
+bicho de pelúcia?
 !******************************!
 [tobj157.txt]
-This is quite the
-variety of paints.
+Aqui há uma grande
+variedade de pinturas.
 !******************************!
 [tobj158.txt]
-There are so many
-things to buy!
+Há tantas coisas
+para comprar!
 !******************************!
 [tobj159.txt]
-What kind of building
-is this?
+Que tipo de edifício
+é esse?
 !******************************!
 [tobj16.txt]
-What's behind here?!@p
-Oh. Nothing.
+O que tem aqui atrás?!@p
+Ah. Nada.
 !******************************!
 [tobj160.txt]
-It seems to be a bit
-brighter over there!
+Parece que há um pouco
+mais de luz lá!
 !******************************!
 [tobj161.txt]
-Take care you don't
-fall down those
-stairs, Luke.
+Cuide-se para que não
+caia dessas escadas,
+Luke.
 !******************************!
 [tobj162.txt]
-There are some very
-glamorous shops
-around here.
+Por aqui há um grande
+número de lojas
+sofisticadas.
 !******************************!
 [tobj163.txt]
-These soft lights
-match the shop's
-mood perfectly.
+Estas lâmpadas são um
+complemento perfeito
+para a loja.
 !******************************!
 [tobj164.txt]
-There seems to be a
-passage going under
-the clocktower.
+Parece que há um caminho
+que passa por baixo da
+torre.
 !******************************!
 [tobj165.txt]
-I wonder what they use
-this huge camera for.
+Me pergunto pra quê
+essa câmera enorme
+é usada.
 !******************************!
 [tobj166.txt]
-This showcase is full
-of very old cameras.
+Essa vitrine está
+cheia de câmeras
+bastante antigas.
 !******************************!
 [tobj167.txt]
-It's not hard to walk
-down here if you're
-careful.
+Não é difícil de andar
+por aqui se você tiver
+cuidado.
 !******************************!
 [tobj168.txt]
-This looks like
-something the
-professor would wear.
+Isso parece algo que
+cairia muito bem com
+o estilo do professor.
 !******************************!
 [tobj169.txt]
-This book looks
-ancient!
+Esse livro parece
+ser antigo!
 !******************************!
 [tobj17.txt]
-You can't hide
-anything behind this.
+Aqui atrás não há lugar
+para esconder nada.
 !******************************!
 [tobj170.txt]
-Do we really need
-street lights when
-it's so bright?
+Realmente precisa de ruas
+com postes, num lugar tão
+bem iluminado assim?
 !******************************!
 [tobj171.txt]
-This barricade seems
-to be strictly
-enforced.
+Essa barricada parece
+bastante resistente.
 !******************************!
 [tobj172.txt]
-This pickaxe is
-covered in dust.
+Essa picareta está
+toda empoeirada.
 !******************************!
 [tobj173.txt]
-It would be very
-gloomy without
-this lamp.
+Se não fosse por esta
+lâmpada, não daria para
+ver nada.
 !******************************!
 [tobj174.txt]
-It seems to just
-get darker from
-here on in...
+Parece que quanto mais
+adentramos, mais escuro
+vai ficando...
 !******************************!
 [tobj175.txt]
-That flag looks
-like a ghost!
-I hate it!
+Essa bandeira parece
+um fantasma!
+Odeio isso!
 !******************************!
 [tobj176.txt]
-I can see an enormous
-chandelier inside!
+Vejo um enorme
+candelabro lá dentro!
 !******************************!
 [tobj177.txt]
-Cor! This corridor
-is so long I can't
-see the other end.
+Uau! Este corredor é tão
+longo que nem dá pra ver
+o final.
 !******************************!
 [tobj178.txt]
-I can't believe there's
-not a single wrinkle
-on this tablecloth.
+Não acredito que essa
+toalha de mesa não tenha
+uma única ruga.
 !******************************!
 [tobj179.txt]
-I do hope there's an
-innocent explanation
-for that stain.
+Espero muito que haja
+uma explicação inocente
+para esta mancha.
 !******************************!
 [tobj18.txt]
-There's nothing in
-here but a load of
-smelly rubbish.
+Aqui só tem lixo.
+Eca, que nojo!
 !******************************!
 [tobj180.txt]
-I hope that I never
-have to wear these!
+Espero que eu nunca
+precise vestir essas
+coisas!
 !******************************!
 [tobj181.txt]
-There are some
-rather dangerous
-items around here.
+Algum desses objetos
+podem ser bem perigosos.
 !******************************!
 [tobj182.txt]
-The lighting in here
-is so relaxing.
+A iluminação aqui é tão
+relaxante.
 !******************************!
 [tobj183.txt]
-I think we saw
-something similar to
-this down in the mine.
+Acho que vimos algo
+similar a isso, lá na
+mina.
 !******************************!
 [tobj184.txt]
-Was this taken from
-the mine?
+Será que isso foi
+retirado da mina?
 !******************************!
 [tobj185.txt]
-I wonder what this
-medicine is for?
+Pra quê será que
+serve esse remédio?
 !******************************!
 [tobj186.txt]
-I feel like something
-could jump out at
-any minute...
+Sinto como se algo fosse
+saltar daí a qualquer
+minuto...
 !******************************!
 [tobj187.txt]
-What tall buildings!
-I'd love to see the
-view from up there!
+Que prédios altos!
+Adoraria ver a vista
+lá de cima!
 !******************************!
 [tobj188.txt]
-This seems to be a
-very historical
-building.
+Parece que esse edifício
+tem um passado bem rico.
 !******************************!
 [tobj19.txt]
-I wonder why the
-chair's been placed
-over here?
+Por que será que a
+cadeira foi colocada
+bem aqui?
 !******************************!
 [tobj2.txt]
-Estes pesados livros
+Estes livros pesados
 são a fonte da sabedoria
 do Professor.
 !******************************!
 [tobj20.txt]
-This relaxing picture
-really suits this
-room's ambience.
+Essa foto relaxante
+realmente combina com
+o ambiente desta sala.
 !******************************!
 [tobj21.txt]
-Oh! It's a picture of
-the doctor and I in
-our younger days!
+Ah! É uma foto minha e
+do doutor, nos nossos
+tempos de juventude!
 !******************************!
 [tobj22.txt]
-Whoa! This doorknob
-is so shiny I can see
-my face in it!
+Opa! Essa maçaneta é
+tão brilhante que consigo
+ver até meu rosto nela!
 !******************************!
 [tobj23.txt]
-Not too dark, not too
-bright. You can't beat
-high-quality lighting.
+Não tão escuro, nem tão
+claro. Essa iluminação de
+alta-qualidade é boa.
 !******************************!
 [tobj24.txt]
-This door is very
-minimalist, but is
-clearly well-made.
+Esta porta é bastante
+minimalista, mas também
+é muito bem-feita.
 !******************************!
 [tobj25.txt]
-This carpet is so soft
-and thick, I can feel
-it with my shoes on!
+Esse tapete é tão leve
+e grosso que eu sinto
+isso até de sapato!
 !******************************!
 [tobj26.txt]
-These lamps would put
-me at ease in the
-evening.
+Essas lâmpadas me deixam
+bem à vontade durante
+as noites.
 !******************************!
 [tobj27.txt]
-If walking around gets
-tiring, we can always
-return here for tea.
+Se for cansativo demais
+andar por aí, podemos
+voltar aqui pra um chá.
 !******************************!
 [tobj28.txt]
-The professor's trunk
-is so heavy! I wonder
-what is in there?
+A mala do professor
+é muito pesada! O que
+será que tem dentro?
 !******************************!
 [tobj29.txt]
-The scenery outside is
-a blur! We must be
-going really fast!
+Com certeza estamos indo
+bem rápido, pois mal dá
+pra ver a paisagem.
 !******************************!
 [tobj3.txt]
 Há todos os tipos de
@@ -527,53 +514,51 @@ documentos nestas
 estantes.
 !******************************!
 [tobj30.txt]
-My, what a delightful
-pair of lace curtains.
+Céus, que belo par de
+encaixes de cortinas.
+De excelente qualidade.
 !******************************!
 [tobj31.txt]
-Fine foods appear
-even more delicious
-under these lights.
+A comida parece ainda
+mais requintada sob
+essas luzes.
 !******************************!
 [tobj32.txt]
-All this greenery
-gives one quite
-the appetite.
+Todo esse verde realmente
+abre o apetite.
 !******************************!
 [tobj33.txt]
-The best partner for
-great food is superb
-scenery.
+Uma boa comida é melhor
+apreciada diante de uma
+vista belíssima.
 !******************************!
 [tobj34.txt]
-This tablecloth is
-the whitest thing
-I've ever seen!
+Esta toalha de mesa
+é mais branca que cal.
 !******************************!
 [tobj35.txt]
-Detailed patterns
-have been carved
-into every glass.
+As taças de vidro tem
+gravuras intrincadas.
 !******************************!
 [tobj36.txt]
-I'm sure that even
-the bread costs a
-fortune!
+Com certeza, até o pão
+que colocaram aqui
+vale uma fortuna!
 !******************************!
 [tobj37.txt]
-These vegetables
-look great! They must
-be farm-fresh.
+Essas verduras tem uma
+boa cara! Com certeza
+são de uma horta.
 !******************************!
 [tobj38.txt]
-Can you imagine all
-the dishes they must
-have to do?
+Consegue imaginar a
+quantidade de pratos que
+eles tem que preparar?
 !******************************!
 [tobj39.txt]
-Unlike the rest of the
-train, it's kind of dim
-and dreary here.
+Há muita luz no resto
+do trem, mas aqui está
+escuro.
 !******************************!
 [tobj4.txt]
 Aparentemente, poltronas
@@ -581,105 +566,103 @@ desconfortáveis o tornam
 mais inteligente.
 !******************************!
 [tobj40.txt]
-The curtains here are
-even finer than those
-in our carriage.
+As cortinas aqui são ainda
+mais finas que as do nosso
+vagão.
 !******************************!
 [tobj41.txt]
-Cor! This carpet is
-even fluffier than
-the one we've got!
+Caramba! Esse tapete é
+ainda mais macio do que
+o nosso!
 !******************************!
 [tobj42.txt]
-I didn't know they made
-clothes that big!
+Eu não sabia que eles
+faziam roupas tão
+grandes!
 !******************************!
 [tobj43.txt]
-Babette doesn't seem
-like the type to
-travel light.
+Babette parece ser o tipo
+de mulher que demora para
+se preparar pra viajar.
 !******************************!
 [tobj44.txt]
-Is this really a dress?
-Or a tent?
+Isso é mesmo um vestido?
+Ou uma tenda?
 !******************************!
 [tobj45.txt]
-It seems that she likes
-everything big.
-Even flowers.
+Aqui, tudo é enorme.
+Até mesmo as flores.
 !******************************!
 [tobj46.txt]
-No expense has been
-spared with the
-tableware either.
+Certamente essa garrafa
+deve custar os olhos da
+cara.
 !******************************!
 [tobj47.txt]
-I'm sure I've seen
-this little house
-somewhere before...
+Com certeza essa casa
+me é muito familiar...
 !******************************!
 [tobj48.txt]
-I wonder if this is
-one of those brooms
-that can fly.
+Será que essa vassoura é
+daquelas que voam?
+E lá vamos nós...
 !******************************!
 [tobj49.txt]
-Is this a bucket...or a
-cauldron?
+Isso é um balde... ou um
+caldeirão?
 !******************************!
 [tobj5.txt]
-Todos os cavalheiros
-devem ter algumas plantas
-em seus escritórios.
+Todo cavalheiro deve
+ter alguma planta
+em seu escritório.
 !******************************!
 [tobj50.txt]
-The scenery flies by
-so fast, my eyes can
-hardly follow it!
+A paisagem passa tão
+rápido que mal dá pra
+seguir com os olhos!
 !******************************!
 [tobj51.txt]
-This chair's a bit
-different, but it's
-still really stylish!
+Essa cadeira é um pouco
+diferente, mas ainda sim
+é muito estilosa!
 !******************************!
 [tobj52.txt]
-One could spend a
-pleasant afternoon
-here with some tea.
+Esse é um lugar ideal
+para passar uma tarde
+agradável tomando chá.
 !******************************!
 [tobj53.txt]
-There's no danger of
-falling with handrails
-like these!
+Com grades como essas,
+não há perigo algum de
+cair do trem.
 !******************************!
 [tobj54.txt]
-It's easy to forget
-how amazing this
-train is!
+Às vezes é fácil esquecer
+como esse trem é genial!
 !******************************!
 [tobj55.txt]
-Even the handrails
-are made of gold!
-It's like a cruise ship!
+Até as grades são feitas
+de ouro! É como se fosse
+um cruzeiro de luxo!
 !******************************!
 [tobj56.txt]
-I hope there's nothing
-wrong with the train!
+Espero que não tenha
+nada de errado com o
+trem!
 !******************************!
 [tobj57.txt]
-We seem to have left
-London far behind. I
-didn't even notice!
+Londres já está tão longe
+que eu nem tinha notado!
 !******************************!
 [tobj58.txt]
-From top to bottom,
-no expense has
-been spared!
+De cabo a rabo, pra fazer
+esse trem, nenhum tostão
+foi poupado!
 !******************************!
 [tobj59.txt]
-My, the lights in the
-corridors are high
-quality too.
+Ora, as luzes nos
+corredores também são
+de alta qualidade.
 !******************************!
 [tobj6.txt]
 Fico imaginando o que são
@@ -687,211 +670,204 @@ estas coisas estranhas
 e maravilhosas...
 !******************************!
 [tobj60.txt]
-There's no time right
-now to examine
-cleaning supplies!
+Agora não temos tempo de
+examinar as ferramentas
+de limpeza!
 !******************************!
 [tobj61.txt]
-We can look at the
-view after we make
-sure the doctor's OK.
+Antes de desfrutarmos a
+vista, devemos visitar
+o doutor.
 !******************************!
 [tobj62.txt]
-The flowers are nice,
-but we've got to get
-into that flat!
+As flores são muito
+bonitas, mas temos que
+entrar no apartamento.
 !******************************!
 [tobj63.txt]
-The flowers are in
-full bloom. Someone
-looks after them well.
+As flores estão se
+desabrochando. Alguém
+com certeza cuida delas.
 !******************************!
 [tobj64.txt]
 <82><A8><82>â<81>A<83><7C><83>X<83>g<82><CC><89>¡<82>É<0D>
 <89><BD><82>©<81>c<81>H<81>i<83>q<83><93><83>g<83><81><83>_<83><8B><81>H<81>j
 !******************************!
 [tobj65.txt]
-This seems like it
-would be a safe area,
-even in the evenings.
+Mesmo à noite, esse lugar
+é agradável e seguro.
 !******************************!
 [tobj66.txt]
-This is one tall, old
-building. Which flat's
-the doctor's?
+Esse edifício é enorme.
+Qual desses apartamentos
+é o do doutor?
 !******************************!
 [tobj67.txt]
-There's no doubt
-which office is the
-professor's.
+Não há dúvida de qual é
+o escritório do professor.
 !******************************!
 [tobj68.txt]
-Is that an office or
-a cafe?
+Isso é um escritório
+ou uma cafeteria?
 !******************************!
 [tobj69.txt]
-There seems to be a
-lot going on in the
-area!
+Parece que existem muitas
+atividades nesta área!
 !******************************!
 [tobj7.txt]
-Esta pilha vai cair
-se não fizermos nada
-logo!
+Esta pilha de livros vai
+cair se não fizermos alguma
+coisa logo!
 !******************************!
 [tobj70.txt]
-A plant or some other
-decoration would add
-some cheer here.
+Não ia doer se tivesse uma
+planta ou algum ornamento
+aqui.
 !******************************!
 [tobj71.txt]
-This is a very bright
-and airy corridor.
+Esse corredor está muito
+bem iluminado e ventilado.
 !******************************!
 [tobj72.txt]
-Wow, you can't see
-mountains like those
-in London!
+Uau, não se vê montanhas
+como essas em Londres!
 !******************************!
 [tobj73.txt]
-Yep, that's a bench.
-It's very...benchy.
+Sim, é um banco. Tá tão
+mole que vai quebrar.
+Mas que... bancada.
 !******************************!
 [tobj74.txt]
-Dirt roads like these
-are a rare sight in
-London these days.
+Caminhos de terra como
+esses são raros de se ver
+esses dias em Londres.
 !******************************!
 [tobj75.txt]
-The whole village is
-decorated for the
-festival!
+A cidade toda está linda
+para o festival!
 !******************************!
 [tobj76.txt]
-Yay! There are even
-more booths set up
-over there!
+Oba! Tem ainda mais
+barracas montadas bem
+ali!
 !******************************!
 [tobj77.txt]
-Most of the festivities
-seem to be taking
-place over there. 
+Parece que a maioria das
+festividades estão
+centradas aqui. 
 !******************************!
 [tobj78.txt]
-It's a small house, but
-it's decidedly
-charming.
+É uma casa pequena, mas
+que tem um certo charme.
 !******************************!
 [tobj79.txt]
-Harnessing the power
-of nature is quite an
-impressive feat.
+Controlar o poder da
+natureza é um feito
+e tanto.
 !******************************!
 [tobj8.txt]
-The flowers are in
-full bloom. Someone
-looks after them well.
+As flores estão se
+abrindo. Alguém está
+cuidando bem delas.
 !******************************!
 [tobj80.txt]
-It would appear to be
-the 50th anniversary
-of the village.
+Parece que hoje é o
+aniversário de 50 anos
+do vilarejo.
 !******************************!
 [tobj81.txt]
-It must have taken
-ages to put all these
-banners up!
+Com certeza levaram um
+um tempão pra levantar
+esses cartazes!
 !******************************!
 [tobj82.txt]
-Cor! I wish I could
-live in a mansion
-surrounded by trees.
+Como eu gostaria de morar
+em uma mansão cercada de
+árvores!
 !******************************!
 [tobj83.txt]
-Looks like the tracks
-continue past those
-mountains.
+Parece que os trilhos do
+trem continuam seguindo
+por essas montanhas.
 !******************************!
 [tobj84.txt]
-That must be a farm.
-I wonder if the cows
-are out grazing now. 
+Deve ser uma fazenda.
+Será que as vacas estão
+pastando?
 !******************************!
 [tobj85.txt]
-What a lovely farm!
+Que fazenda adorável!
 !******************************!
 [tobj86.txt]
-The mansion seemed big
-from far away, but
-it's massive up close!
+A mansão já parecia
+grande de longe, mas de
+perto é ainda maior!
 !******************************!
 [tobj87.txt]
-The view from that
-mansion must be out
-of this world.
+As vistas de dentro da
+mansão devem ser de
+outro mundo.
 !******************************!
 [tobj88.txt]
-Houses built on the
-waterfront are so
-refreshingly cool.
+Deve ser bem refrescante
+viver em uma casa à
+beira de um lago.
 !******************************!
 [tobj89.txt]
-Wow, the electricity
-bill for this place
-must be huge!
+Uau, a conta de luz desse
+lugar deve ser cara pra
+burro!
 !******************************!
 [tobj9.txt]
 <82><A8><82>â<81>A<83><7C><83>X<83>g<82><CC><89>¡<82>É<0D>
 <89><BD><82>©<81>c<81>H<81>i<83>q<83><93><83>g<83><81><83>_<83><8B><81>H<81>j
 !******************************!
 [tobj90.txt]
-Every road as far
-as I can see is
-cobbled.
+Até onde vi, todas as
+estradas aqui são
+pavimentadas.
 !******************************!
 [tobj91.txt]
-That bronze statue
-appears to be well
-cared for.
+Essa estátua de bronze
+parece estar muito bem
+cuidada.
 !******************************!
 [tobj92.txt]
-The sky is pitch-black
-now. I don't remember
-night falling...
+Já anoiteceu aqui.
+Não me lembro de já ter
+caído a noite...
 !******************************!
 [tobj93.txt]
-The stones on this
-road look like they
-were just laid.
+Esse caminho parece ter
+sido recém-pavimentado.
 !******************************!
 [tobj94.txt]
-I've never seen a
-lobby like this before.
+Eu nunca tinha visto
+um salão assim.
 !******************************!
 [tobj95.txt]
-That's a huge mirror!
-And not a single
-streak on it!
+Que espelho enorme!
+E não tem um risco
+sequer nele!
 !******************************!
 [tobj96.txt]
-Tsk. This is nowhere
-near as soft as the
-one on the train.
+Tsc. Não chega nem perto
+da macieza do sofá do
+trem.
 !******************************!
 [tobj97.txt]
-I can't believe you
-can buy all this on
-the street!
+Não acredito que dá pra
+comprar todas essas
+coisas na rua!
 !******************************!
 [tobj98.txt]
-I wonder if this
-mirror is valuable?
-Better be careful.
+Será que esse preço
+é muito caro?
+Melhor ter cuidado.
 !******************************!
 [tobj99.txt]
-This is exactly the
-kind of chair in which
-to read a good book.
+Esta é uma cadeira ideal
+para ler um bom livro.
 !******************************!
 [tobjlist.txt]
 0<09>-1<09>1<09><94>Ä<97>p<0D>

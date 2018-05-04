@@ -1231,7 +1231,7 @@ felizes se você-
 !******************************!
 [t11_410_300.gds]
 <01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:385>Opa, opa, espera aí, engomadinho!
-Olha só essa pequena quantidade de
+Olhe só essa pequena quantidade de
 enigmas que você resolveu!<W>
 !------------------------------!
 Olha, você pode até achar que pode
@@ -1248,7 +1248,7 @@ resolvido 12 ou mais enigmas!
 !******************************!
 [t11_411_100.gds]
 <01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:386>Opa, opa, espera aí, engomadinho!
-Olha só essa pequena quantidade de
+Olhe só essa pequena quantidade de
 enigmas que você resolveu!<W>
 !------------------------------!
 Olha, você pode até achar que pode

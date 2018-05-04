@@ -158,7 +158,7 @@ no oitavo andar e aquela porta estava
 trancada, Inspetor.<W>
 !------------------------------!
 Ainda assim, eu não diria que este
-quarto está completamente sem acesso
+quarto está completamente inacessível
 ao mundo lá fora.
 !******************************!
 [t20_020_2100.gds]
@@ -227,7 +227,7 @@ Ah, sim, Layton. Sr. Layton,
 o que você acha?
 !******************************!
 [t20_020_3200.gds]
-<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:183>O cenário que você pinta certamente
+<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:183>O cenário que você descreve certamente
 não pode ser descartado.<W>
 !------------------------------!
 Mas considerando que as luzes estavam

@@ -221,7 +221,7 @@ cantos, o que significa dizer que você
 deve procurá-las a todo momento.<W>
 !------------------------------!
 Use sua stylus para tocar qualquer
-coisa que parece suspeita, beleza?<W>
+coisa que pareça suspeita, beleza?<W>
 !------------------------------!
 Bem, era tudo que eu tinha para lhe
 dizer. Até mais ver, senhor.
@@ -286,7 +286,7 @@ Vamos ver se achamos uma maneira de
 entrar no seu apartamento.
 !******************************!
 [t10_120_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:30>Como isso pode ter acontecido?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:30>Como isso pôde ter acontecido?
 !******************************!
 [t10_120_1000.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:44>Olhe, Professor! As autoridades
@@ -311,14 +311,14 @@ precisamos avisar a polícia!
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:26>Hum? O que temos aqui?
 !******************************!
 [t10_120_700.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:45>Uma passagem de trem... para
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:45>Um bilhete de trem... para
 o Molentary Express?
 !******************************!
 [t10_120_800.gds]
 <01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:157>Olhe isso, Professor. Não há
-destino escrito na passagem.<W>
+destino escrito no bilhete.<W>
 !------------------------------!
-Nunca tinha visto uma passagem que não
+Nunca tinha visto um bilhete que não
 mostrasse o destino. Muito estranho!
 !******************************!
 [t10_120_900.gds]
@@ -342,7 +342,7 @@ não passa disso por enquanto.<W>
 !------------------------------!
 Contudo, temos uma pista para
 entendermos os eventos de hoje. Em
-outras palavras, aquela passagem.
+outras palavras, aquele bilhete.
 !******************************!
 [t10_140_400.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:48>Você está pensando no que
@@ -358,7 +358,7 @@ a chave para resolvermos esse
 mistério no trem?
 !******************************!
 [t10_150_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:198>O Dr. Schrader fez o melhor que pode
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:198>O Dr. Schrader fez o melhor que pôde
 para nos guiar ao Molentary Express,
 caso algo acontecesse a ele.<W>
 !------------------------------!
