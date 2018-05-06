@@ -12,8 +12,7 @@ cartografia bastante incomum.<W>
 Olhe aqui, Luke.
 !******************************!
 [t20_000_200.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:134>Ah, que inteligente!
-O próprio mapa é um enigma!<W>
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:134>Ah, genial! O mapa em si é um enigma!<W>
 !------------------------------!
 Professor, se importaria de deixar
 este comigo?<W> Tenho certeza que
@@ -92,8 +91,8 @@ outra olhada nestas chaves!
 e preste atenção em todos os detalhes.
 !******************************!
 [t20_020_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:63>Ah, céus... O rosto dele não está
-saindo. Ele é de verdade.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:63>Ah, céus... O rosto dele não sai!
+É de verdade!
 !******************************!
 [t20_020_1000.gds]
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:5>Hmm.
@@ -132,7 +131,7 @@ pra este apartamento no oitavo andar,
 estava bem trancada.<W>
 !------------------------------!
 Então o doutor estava trancado aqui
-dentro, completamente a parte do
+dentro, completamente à parte do
 mundo lá fora, certo?
 !******************************!
 [t20_020_1750.gds]
@@ -141,7 +140,7 @@ certeza disso! O velho doutor deve ter
 sofrido um ataque cardíaco!
 !******************************!
 [t20_020_1800.gds]
-<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:50>O quê?! Como você chegou a esta
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:50>O quê?! Como você chegou a essa
 conclusão?
 !******************************!
 [t20_020_1900.gds]
@@ -173,7 +172,7 @@ não foi dada a devida importância.
 <01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:4>Ah é?
 !******************************!
 [t20_020_2400.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:52>Está tão na cara quanto este
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:52>Está tão na cara quanto esse
 nariz em seu rosto, Inspetor.
 !******************************!
 [t20_020_2500.gds]
@@ -181,9 +180,8 @@ nariz em seu rosto, Inspetor.
 que seus títulos bestas os preparam
 pra brincar de detetive, correto?<W>
 !------------------------------!
-Vou lhe dizer uma coisa, hoje em dia,
-qualquer um parece achar que pode
-fazer meu trabalho.<W>
+Hoje em dia, qualquer um parece
+achar que pode fazer meu trabalho.<W>
 !------------------------------!
 Agora, de volta ao que estava dizendo,
 a causa da morte é ataque cardíaco,
@@ -195,15 +193,15 @@ de um Kronossauro, se não estou
 enganado.
 !******************************!
 [t20_020_2700.gds]
-<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:180>Pode apostar que esta pilha de ossos
-daria pesadelos em qualquer um. Isso
-foi o que provavelmente aconteceu...<W>
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:180>Pode apostar que aquela pilha de ossos
+daria pesadelos em qualquer um. Foi
+isso o que provavelmente aconteceu...<W>
 !------------------------------!
 O velho coitado ligou a luz, olhou para
-aquele monstro e caiu bem ali.
+aquele monstro e caiu duro.
 !******************************!
 [t20_020_2800.gds]
-<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:88>Mas... esta é a casa do doutor.
+<01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:88>Mas... este é o apartamento do doutor.
 Por que ele se assustaria com os ossos
 que ele mesmo colocou ali?
 !******************************!
@@ -255,7 +253,7 @@ falando? Esses fedelhos de hoje em
 dia não têm mais modos!
 !******************************!
 [t20_020_500.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:155>Minhas desculpas pela confusão.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:155>Aceite minhas desculpas pela confusão.
 Permita apresentar-me. Me chamo
 Hershel Layton.<W>
 !------------------------------!
@@ -310,7 +308,7 @@ Muito bem, meu garoto.
 [t20_023_500.gds]
 <01:00000006><03:11>b2 suprise<03:5>NONE<01:00000001><03:85>Bem, er, sim, faz todo o sentido!
 Eu mesmo estava prestes a apresentar
-esta ideia.
+essa ideia.
 !******************************!
 [t20_023_600.gds]
 <01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:6>Mentiroso!

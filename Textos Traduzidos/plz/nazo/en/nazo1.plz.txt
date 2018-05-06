@@ -591,56 +591,61 @@ que você normalmente põe na fechadura.
 [n20.dat]
 <0021>Telefone sem Fio!
 <00><14><12><10><51><06><16><14><F6><03><02><02>
-Oito pessoas estão jogando um jogo de
-comunicação. Neste jogo, uma pessoa
-deve passar uma mensagem para outras
-sete pessoas.
+Oito pessoas participam de um jogo.
+Neste jogo, uma pessoa deve passar uma
+mensagem para as outras sete.
 
-Leva um minuto para repassar a mensagem,
-e cada vez que a mensagem é falada, ela deve
-conter apenas um ouvinte. Usando essas regras,
-qual  o menor tempo em minutos que levaria para a
-mensagem passar por todos os sete jogadores?
+Cada pessoa leva um minuto para passar a
+mensagem em frente e essa mensagem só
+pode ser passada para um ouvinte por vez.
+Usando essas regras, qual o menor tempo,
+em minutos, necessário para a mensagem
+passar pelos sete jogadores?
 !******************************!
 Muito bom!
 
-Se o jogador original espalhou a mensagem como
-mostrado acima, o jogo pode ser completado em três
-minutos. Durante esse tempo, o jogador original pode
-contar a mensagem para três pessoas, e os que a ouviram
-nos primeiros minutos podem espalhar mais.
+Se o mensageiro original passar a mensagem
+como mostrado acima, o jogo pode ser
+completado em três minutos. Durante esse
+tempo, o mensageiro original pode passar
+a mensagem para outras três pessoas, e
+essas, que ouviram a mensagem nos primeiros
+dois minutos, também tornam-se mensageiros.
 
-Em emergências, redes de informações estruturadas dessa
-maneira ajudam a espalhar mensagens de forma rápida.
+Em situações de emergência, redes de
+informações estruturadas dessa maneira
+ajudam a espalhar mensagens de forma
+rápida.
 !******************************!
 Que pena!
 
-Tem certeza que não está se distraindo com a 
-forma em que o enigma foi fraseado?
+Tem certeza que não está fazendo
+conclusões erradas por causa da forma
+com que o enigma foi escrito?
 !******************************!
-<''>Cada vez que a mensagem é falada, ela
-deve conter apenas um ouvinte.<''>
+<''>Essa mensagem só pode ser passada
+para um ouvinte por vez.<''>
 
-O que você precisa lembrar é que um jogador
-pode repassar a mensagem à uma pessoa de 
-cada vez.
+O que você precisa entender aqui é que
+qualquer pessoa pode passar a mensagem
+a uma outra pessoa por vez.
 
-Tente reler o enigma com isto em mente.
-
+Tente reler o enigma tendo isto em mente.
 !******************************!
-Toda vez que uma pessoa repassa a mensagem
-para outra, o número de pessoas que sabem a mensagem
-aumenta por um.
+Toda vez que uma pessoa passa a
+mensagem para outra, o número de
+pessoas que ficam sabendo da mensagem
+aumenta em um.
 !******************************!
 Um minuto depois do início do jogo,
-duas pessas já sabem a mensagem.
+duas pessoas já conhecem a mensagem.
 
-Então se cada uma dessas pessoas forem
-espalhar a mensagem no final do segundo
-minuto, um total de quatro pessas saberão
-a mensagem.
+Então se cada uma dessas pessoas passar
+a mensagem no final do segundo minuto,
+um total de quatro pessoas ficarão
+conhecendo a mensagem.
 
-Vê aonde estamos indo?
+Viu aonde queremos chegar?
 !******************************!
 [n21.dat]
 <0022>Tirando o Lixo 1
@@ -648,9 +653,9 @@ Vê aonde estamos indo?
 Coloque o lixo na lata de lixo, que é onde
 ele pertence!
 
-Mova os blocos que estão te atrapalhando
-e deslize a pilha de lixo para a lixeira no final
-da tela.
+Tire os blocos que estão no caminho e
+mova a pilha de lixo para a lixeira na parte
+inferior da tela.
 !******************************!
 Ah, muito melhor!
 
@@ -659,23 +664,25 @@ não na rua!
 !******************************!
 
 !******************************!
-Tente começar com as instruções abaixo.
+Tente começar seguindo as instruções
+abaixo.
 
-Empilhe os quatro blocos azuis, com o primeiro
-bloco no fundo da lixeira. Em seguida, encontre
-um jeito de colocar um dos quatro blocos no vão
-do canto superior direito.
+Empilhe os quatro blocos azuis, com o
+primeiro bloco no fundo da lixeira. Em
+seguida, encontre um jeito de colocar
+um dos quatro blocos no vão do canto
+superior direito.
 
-Assim que os encaixar, não precisará mover
-esse bloco de novo!
+Assim que colocar ele lá, não será mais
+necessário mover esse bloco outra vez!
 !******************************!
-Se está empacado, coloque um bloco
-azul nas áreas do topo, fundo e na direta do
-enigna, então tente mover os outros blocos
-nos espaços que restaram.
-
+Se você estiver travado, coloque um
+bloco azul nos espaços superior, inferior
+e a direita do enigma, então tente mover
+os demais blocos nos espaços que
+sobraram.
 !******************************!
-Remover o bloco azul do fundo da lixeira
+Tirar o bloco azul do fundo da lixeira
 será o seu penúltimo movimento.
 !******************************!
 [n22.dat]
@@ -1034,7 +1041,7 @@ pode-se pensar que não há como entrar ou
 sair desta sala. Contudo, um detalhe suspeito
 dá pistas do que pode ter acontecido aqui.
 
-Olhe nas quatro direções e examine a sala
+Olhe as quatro direções e examine a sala
 com atenção. Quando você tiver encontrado
 o detalhe revelador, circule-o com a stylus
 e toque #rEnviar#x. Certifique-se de circular

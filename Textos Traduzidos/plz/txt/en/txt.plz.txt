@@ -308,11 +308,11 @@ Um bilhete sem destino foi encontrado
 no apartamento do Dr. Schrader. Ele
 parece ser um bilhete do Molentary
 Express, mas aonde exatamente ele
-deve levar seu portador?
+leva seu portador?
 !******************************!
 [id_3.txt]
 Pedaços rasgados de uma fotografia
-foram encontrados na mão do falecido
+foram encontrados na mão do finado
 doutor. No estado em que estão, é
 impossível saber o conteúdo da
 fotografia.
@@ -2075,10 +2075,10 @@ Vocês dois encontraram o corpo, correto?
 M-Mas que raios?
 !******************************!
 [m4_6.txt]
-Não, Luke! Deixe ele em paz!
+Não, Luke! Deixe-o em paz!
 !******************************!
 [m4_7.txt]
-Luke, pare! Este é seu rosto!
+Luke, pare! Esse é rosto dele!
 !******************************!
 [m4_8.txt]
 Preste atenção, Luke!

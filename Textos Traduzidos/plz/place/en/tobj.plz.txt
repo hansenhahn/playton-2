@@ -7,13 +7,14 @@ uma moeda de dica!
 sequer poderia imaginar!
 !******************************!
 [tobj1.txt]
-Uma adorável vista é a
-cura perfeita após longas
-horas de trabalho.
+Nada como uma adorável
+vista após longas horas
+de trabalho.
 !******************************!
 [tobj10.txt]
-Mesmo à noite, este lugar
-deve ser bom e seguro.
+Mesmo à noite, este
+lugar é agradável
+e seguro.
 !******************************!
 [tobj100.txt]
 Uma lagosta agora ia
@@ -671,7 +672,7 @@ e maravilhosas...
 !******************************!
 [tobj60.txt]
 Agora não temos tempo de
-examinar as ferramentas
+examinar os utensílios
 de limpeza!
 !******************************!
 [tobj61.txt]
@@ -703,8 +704,9 @@ Qual desses apartamentos
 é o do doutor?
 !******************************!
 [tobj67.txt]
-Não há dúvida de qual é
-o escritório do professor.
+Não há dúvidas sobre
+qual dos escritórios é o
+do professor.
 !******************************!
 [tobj68.txt]
 Isso é um escritório
@@ -766,9 +768,9 @@ natureza é um feito
 e tanto.
 !******************************!
 [tobj8.txt]
-As flores estão se
-abrindo. Alguém está
-cuidando bem delas.
+As flores estão
+desabrochando. Alguém
+está cuidando bem delas.
 !******************************!
 [tobj80.txt]
 Parece que hoje é o
