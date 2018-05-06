@@ -1,9 +1,12 @@
 
 .nds
 
-.open "Originais\arm9.bin", "arm9.bin", 0x02000000
+.open "Originais\arm9_splash.bin", "arm9.bin", 0x02000000
 
 .arm                                                    ; ARM code
+
+.org 0x2000bb4      ; Desliga a compressão do arm9.bin
+.dw 0
 
 .org 0x02045908
 LoadPuzzleNo2:

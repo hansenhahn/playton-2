@@ -835,19 +835,21 @@ Leia outra vez o que o doutor tem a dizer
 sobre o lugar onde ele mora.
 !******************************!
 Já que o doutor disse que escuta música
-vindo de um apartamento próximo, você pode
-descartar a janela de onde está vindo a
-música.
+vindo de um apartamento próximo, você
+pode descartar a janela de onde está
+vindo a música.
 !******************************!
-Como o doutor deu destaque para o fato
-de conseguir ver o nascer do sol, então 
-parece correto afirmar que o apartamento
-dele fica nos últimos andares do prédio.
+Como o doutor deu destaque para o
+fato de conseguir ver o nascer do sol,
+então  parece correto afirmar que o
+apartamento dele fica nos últimos
+andares do prédio.
 !******************************!
-O doutor comenta sobre ver uma bandeira do
-lado de fora de seu apartamento balançando
-com o vento. Ao que tudo indica, só há um
-apartamento que atende à todas condições.
+O doutor comenta sobre ver uma bandeira
+do lado de fora de seu apartamento
+balançando com o vento. Ao que tudo
+indica, só há um apartamento que atende
+à todas condições.
 !******************************!
 [n117.dat]
 <0117>Three Couples

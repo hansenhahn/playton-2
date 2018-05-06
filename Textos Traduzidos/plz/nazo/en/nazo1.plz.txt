@@ -2595,29 +2595,30 @@ Agora você deve sercapaz de identificar
 todos os quatro casais.
 !******************************!
 [n7.dat]
-<0008>O Grande Jantar do Luke
+<0008>A Janta do Luke
 <00><19><16><13><11><0B><03><07><E9><03><02><FF>
-<''>Luke, tem certeza aue consegue comer 
-isso tudo? Você fez um baita pedido.<''>
+<''>Luke, tem certeza que consegue comer 
+isso tudo? Você pediu coisas demais.<''>
 
-<''>Sem problemas, Professor! Vou limpar meu prato
-e ainda ter espaço pra mais.<''>
+<''>Sem problemas, Professor! Vou limpar meu
+prato e ainda vai sobrar espaço pra mais.<''>
 
-Não é à toa que o professor esteja preocupado, já
-que o pedido do Luke custa o dobro que o seu próprio pedido!
+Não é à toa que o professor esteja
+preocupado, já que o pedido do Luke 
+custa duas vezes o seu próprio pedido!
 
-Abaixo você pode ver todos os itens que os dois
-compraram, junto de seus preços.
+Abaixo você pode ver todos os itens que os
+dois pediram, junto de seus preços.
 
-Toque os preços dos itens que Luke comprou.
+Toque os preços dos itens que o Luke pediu.
 !******************************!
 Bom trabalho!
 
 Se você calcular o total da conta, verá que
 a refeição custou <po>105. Sabendo do total,
-Luke deve ter pedido o equivalente a <po>70 de comida
-e o professor <po>35. Depois que conseguiu esses
-números o resto é moleza.
+o Luke deve ter pedido o equivalente a <po>70
+em comida e o professor <po>35. Depois que
+você chega a esses números, o resto é fácil.
 
 <''>Tem certeza que não pediu demais?<''>
 
@@ -2628,102 +2629,111 @@ bife (nhac) é delicioso também!<''>
 !******************************!
 Que pena!
 
-Talvez não esteja vendo o problema do jeito certo.
-Por quê não tenta uma abordagem diferente?
+Talvez você não esteja vendo o problema da
+maneira certa. Por que você não tenta uma
+abordagem diferente?
 !******************************!
-Comece somando o custo de toda a refeição.
+Comece somando o custo de todos os
+itens na mesa.
 !******************************!
-A refeição de Luke custou o dobro da refeição
-do professor. Isso significa que a relação dos
-gastos de Luke comparada aos do professor
-deve ser de 2:1.
+A refeição do Luke custou o dobro da
+refeição do professor. Isso significa que
+a razão dos gastos do Luke, em relação
+aos do professor, deve ser de 2:1.
 !******************************!
 O custo da refeição inteira é de <po>105. 
-Esse total precisa ser dividido para se encaixar
-na nossa relação de 2:1. A soma das partes dessa
-relação é 3, então divida o total por 3 para dar <po>35 
-e os custos vão para (2 x <po>35):(1 x <po>35). Ou seja,
-o jantar de Luke custou <po>70 e o do professor <po>35.
+Esse total precisa ser dividido de forma
+a obedecer a razão de 2:1. A soma das
+partes dessa razão é 3, então divida o
+total por 3 para dar <po>35 e os custos
+ficarão em (2 x <po>35):(1 x <po>35). Ou seja,
+o jantar do Luke custou $<po>70 e o do
+professor <po>35.
 
-Que combinação de comidas e bebidas você consegue encontrar
-que dê a soma de <po>70?
+Que combinação de comidas e bebidas
+somam <po>70?
 !******************************!
 [n8.dat]
 <0009>Copos Empilhados
 <00><0A><08><06><12><0B><02><08><E8><03><02><FF>
-O dono de um restaurante quatro estrelas pede
-para um garçom empilhar copos de uma forma
-decorativa. Ansioso para agradar, o jovem garçom
-imediatamente desenha cinco designs separados
-e os mostra para o dono. O dono dá uma olhada
-rápida nos designs e, com um olhar de irritação, vira
-para o garoto e grita, <''>Esse design é absurdo! 
-Onde você tava com a  cabeça?<''>.
+O dono de um restaurante quatro estrelas
+pede para um garçom empilhar copos de uma
+forma decorativa. Ansioso para agradar, o
+jovem garçom imediatamente desenha cinco
+modelos e os mostra para o dono. O dono dá
+uma olhada rápida nos modelos e, com um olhar
+de irritação, vira para o garoto e grita:
+<''>Este modelo é absurdo! Onde você estava
+com a cabeça?<''>.
 
-Quais dos cincos design o dono
-está se referindo?
+O dono do restaurante está se referindo
+a qual do cinco modelos?
 !******************************!
-Exatamente certo!
+Exatamente!
 
 O dono do restaurante estava falando do
-desenho D. Se prestar atenção, verá que a
+modelo D. Se prestar atenção, verá que a
 primeira e segunda fileira de copos não
-poderiam de nenhum serem organizadas da
+podem, de forma alguma, ser organizadas da
 maneira retratada.
 
-O simples desenho 2D não considerou
+O simples desenho 2D não levou em conta
 a boca dos copos.
-
 !******************************!
 Que pena!
 
-O que você acha que o dono do restaurante viu em um
-simples desenho que o deixou tão zangado?
+Por que será que um simples desenho deixou
+o dono do restaurante tão zangado?
 !******************************!
-<''>Esse design é absurdo!<''>
+<''>Este modelo é absurdo!<''>
 
-O dono não éstava com raiva porque o design era
-difícil de ser montado. Ele estava chateado porque
-o design é fisicamente impossível de se fazer na vida real.
-
-
-
-
+O dono não estava com raiva porque o
+modelo era difícil de ser montado.
+Ele estava brabo porque o modelo é
+fisicamente impossível de reproduzir
+na vida real.
 !******************************!
-A e C até que poderiam ser organizados com
+A e C até que poderiam ser montados com
 mãos firmes e bastante paciência
 
 Nos resta B, D e E.
 !******************************!
-Um dos designs até pode ser desenhado em 2D
-mas, na realidade, seria impossível empilhar os
-copos daquele jeito na vida real.
+Um dos modelos até pode ser desenhado
+em 2D mas, na realidade, seria impossível
+empilhar os copos daquele jeito na vida
+real.
 
-No papel, cada copo é representado por  simples linhas
-em formato de U, mas copos de verdade têm mais
-que isso, como lados e uma boca no topo.
+No papel, cada copo é representado por
+linhas em formato de U, mas copos de
+verdade são mais do que isso, possuindo
+lados e uma boca no topo.
 !******************************!
 [n9.dat]
 <0010>Uma Obra de Arte
 <01><0F><0D><0B><12><0B><16><09><F6><03><02><FF>
-O desenho abaixo é feito de linhas curvas que se cruzam
-para fazer seções. Se você quer colorir a tela inteira
-para que nenhuma seção se encontre com outra da mesma
-cor, qual o menor número de cores que se pode usar?
-Você pode usar uma cor quantas vezes quiser desde que
-não toque em nenhuma área da mesma cor.
+O desenho abaixo é feito de linhas curvas
+que se cruzam criando seções. Se você quer
+colorir a tela inteira de modo que nenhuma
+seção encoste em outra seção com a mesma
+cor, qual o menor número de cores que você
+vai precisar usar?
+Você pode usar uma cor quantas vezes
+quiser, desde que a seção não escoste em
+nenhuma outra seção com mesma cor.
 
 Quando tiver sua resposta, toque em
-#rSolução#x e escreva o número de cores.
+#rEnviar Solução#x e escreva o número de
+cores.
 
 !******************************!
 Isso aí!
 
-Você precisará de três cores para preencher o
-desenho. A maior parte do desenho pode ser
-feito com duas cores, mas um lugarzinho danado
-no canto inferior esquerdo precisa de uma terceira
-cor para ser completado.
+Você precisará de três cores para
+preencher o desenho. A maior parte do
+desenho pode ser preenchida com duas
+cores, mas uma seção danada no canto
+inferior esquerdo vai precisar de uma
+terceira cor.
 !******************************!
 Que pena!
 
@@ -2732,15 +2742,15 @@ Pense bem e dê outra chance.
 Não tem truques aqui.
 
 Você pode achar mais fácil se usar a
-função Memo para marcar seções do 
+função Memória para marcar seções do 
 desenho.
 !******************************!
-Por que não olha dá uma olhada nos cantos
+Por que não dá uma olhada nos cantos
 do desenho?
 !******************************!
 Você pode completar a maior parte do
 desenho usando apenas duas cores, mas
-percebeu como tem uma área danada no
-canto inferior esquerdo que precisa de uma
-cor adicional?
+você percebeu a seção danada no canto
+inferior esquerdo que vai precisar de
+uma cor adicional?
 !******************************!

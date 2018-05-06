@@ -11,9 +11,9 @@ de aptidão e de amor por resolver
 enigmas que eu.
 !******************************!
 [t18_020_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:84>Olha, Professor! Foi adicionada uma
-nova página de personagens na
-seção Perfis*!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:84>Olha, Professor! Foi adicionada
+uma nova página de personagens na
+seção Perfis!
 !******************************!
 [t18_020_300.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>De fato, Luke. É um presente nosso
@@ -25,156 +25,147 @@ Isto é, você!
 Divirta-se com as novidades!
 !******************************!
 [t18_110_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:179>O Professor Layton recebeu
-uma carta de seu amigo e mentor,
-o Dr. Andrew Schrader.<W>
-!------------------------------!
-A carta convenceu o bom professor e
-seu assistente, o Luke, a irem
-pagar uma visita ao doutor.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:179>O Professor Layton recebe uma
+carta do seu amigo e mentor,
+Dr. Andrew Schrader.<W>
 !******************************!
 [t18_110_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:308>A carta revelava que o doutor havia
-adquirido uma antiguidade
-conhecida como a Caixa Elisiana.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:308>A carta revela que o doutor havia
+adquirido um antigo artefato conhecido
+por Caixa Elísia.<W>
 !------------------------------!
-Também conhecida como Caixa de Pandora,
-havia um rumor acerca da Caixa que
-dizia que ela matava quem a abrisse.<W>
+Também chamada de Caixa de Pandora, 
+é dito que ela mata qualquer um que
+se atreva a abri-la.<W>
 !------------------------------!
 Apesar disso, a curiosidade do doutor
-foi maior que seu bon senso, e ele
-vocalizou sua intenção de abri-la.
+foi maior que o seu bom senso, e ele
+anuncia a intenção de abri-la.
 !******************************!
 [t18_110_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:85>
-Alarmado pelo fato, Layton decidiu
-visitar o doutor em sua casa,
-em Londres, e ver se estava bem.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:85>Alarmado com o fato, Layton decide
+visitar o doutor em seu apartamento
+em Londres, e ver se está tudo bem.
 !******************************!
 [t18_120_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Layton e Luke subiram à borto
-do Molentary Express* na esperança
-de aprender o que aconteceu com o doutor.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Layton e Luke embarcam no Molentary
+Express na esperança de descobrirem
+o que aconteceu com o doutor.
 !******************************!
 [t18_120_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>A extravagância do trem,
-conhecido por ser um <''>cruseiro de
-luxo sobre trilhos<''>, os espantou.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>A opulência do trem, conhecido por
+ser <''>um cruzeiro de luxo sobre trilhos<''>,
+deixa os dois espantados.
 !******************************!
 [t18_120_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>Cercados pelas luxuosas instalações
-do Molentary Express, a dupla
-deu início à sua investigação.
+do Molentary Express, a dupla dá início
+à sua investigação.
 !******************************!
 [t18_130_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Layton e Luke conheceram Babette, uma
-mulher rica que estava arrasada
-pelo desaparecimento de seu bebê, Tom.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Layton e Luke conhecem Babette,
+uma mulher rica que está arrasada pelo
+desaparecimento do seu bebê, Tom.
 !******************************!
 [t18_130_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Os dois se ofereceram para ajudá-la a
-encontrar Tom, mas a única pista que
-tinham eram os sapatinhos do bebê.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Os dois se oferecem para ajudar nas
+buscas pelo Tom, mas a única pista até
+o momento são os sapatinhos do bebê.
 !******************************!
 [t18_130_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>O Professor Layton e o Luke questionar
-os passageiros do trem visando
-reunir mais pistas.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>O Professor Layton e Luke fazem
+perguntas aos passageiros do trem
+buscando reunir mais pistas.
 !******************************!
 [t18_140_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:106>Em sua busca, o professor começou a
-suspeitar que Tom poderia ser
-não humano, mas sim, canino.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:106>Em sua busca, o professor começa a
+suspeitar que o Tom pode não ser uma
+criança, mas sim, um cachorro.
 !******************************!
 [t18_140_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:78>Essa revelação fez a dupla lembrar
-de uma jovem que antes viram
-com um cachorrinho nas mãos.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:78>Essa revelação faz a dupla lembrar
+da jovem que viram mais cedo com
+um cachorrinho nas mãos.
 !******************************!
 [t18_140_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Para confirmar suas suspeitas, o
-professor e o Luke seguiram para
-vasculhar o trem em busca da jovem.
+professor e Luke decidem procurar
+a jovem pelo trem.
 !******************************!
 [t18_150_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:74>Foi revelado que a misteriosa
-menina com o cachorro nas mãos
-era a Flora, disfarçada.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:74>A menina misteriosa carregando um
+cachorro é ninguém mais, ninguém
+menos, que Flora disfarçada.
 !******************************!
 [t18_150_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Incapaz de mandá-la de volta para Londres,
-o professor concordou em deixá-la
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Incapaz de mandá-la de volta a Londres,
+o professor concorda em deixá-la
 acompanhá-los pelo resto da aventura.
 !******************************!
 [t18_150_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Com o pequeno Tom em mãos, Layton,
-Luke e Flora deram meia volta para
-devolver a Babette seu <''>bebê<''>.
+Luke e Flora seguem para devolver
+a Babette seu <''>bebê<''>.
 !******************************!
 [t18_160_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:78>Layton e seus ajudentes devolveram
-Tom à sua dona, Babette, em
-segurança.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:78>Layton e seus ajudantes devolvem Tom
+à sua dona, Babette, em segurança.
 !******************************!
 [t18_160_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Com Babette enfim acalentada e
-a busca por Tom encerrada, a
-atmosfera no trem ficou tranquila.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>A atmosfera no trem é de tranquilidade,
+agora com Babette enfim recuperada e
+a busca por Tom encerrada.
 !******************************!
 [t18_160_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>Layton, Luke e Flora decidiram
-descansar e, para tal, voltaram
-para sua suíte.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>Layton, Luke e Flora decidem descansar
+em suas cabines.
 !******************************!
 [t18_170_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>O breve descanso de Layton, Luke e
-Flora foi interrompido quando o
-trem repentinamente parou.
+Flora é interrompido quando o trem
+repentinamente para.
 !******************************!
 [t18_170_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Para entender a situação e descobrir
-o motivo por trás da parada, os
-três resolveram sair do trem.
+o motivo por trás da parada, os três
+resolvem descer do trem.
 !******************************!
 [t18_170_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>Uma vez fora dele, os três se depararam
-com um trem danificado bloqueando
-os trilhos.*
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>Uma vez fora dele, os três se deparam
+com um trem estragado bloqueando
+os trilhos.
 !******************************!
 [t18_180_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>O breve descanso de Layton, Luke e
-Flora foi interrompido quando o
-trem repentinamente parou.
+Flora é interrompido quando o trem
+repentinamente para.
 !******************************!
 [t18_180_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:83>Uma vez fora do trem, os três se depararam
-com um trem danificado bloqueando
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:83>Uma vez fora dele, os três se deparam
+com um trem estragado bloqueando
 os trilhos.
 !******************************!
 [t18_180_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Ansioso para seguir com sua jornada,
-Layton tentou pensar em uma forma de
-tirar o trem e desobstruir os trilhos.
+Layton tenta pensar em uma maneira de
+mover o trem e desobstruir os trilhos.
 !******************************!
 [t18_185_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>O breve descanso de Layton, Luke e
-Flora foi interrompido quando o
-trem repentinamente parou.
+Flora é interrompido quando o trem
+repentinamente para.
 !******************************!
 [t18_185_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:87>Mas o professor logo bolou um modo
-de locomover o trem que estava
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:87>Mas o professor logo acha uma
+maneira de mover o trem que está
 obstruindo os trilhos.
 !******************************!
 [t18_185_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:157>Com os trilhos novamente desimpedidos,
-Layton e os demais voltaram ao seu
-próprio trem.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:157>Com os trilhos livres novamente,
+Layton e os demais voltam ao trem.<W>
 !------------------------------!
-E assim eles seguiram rumo à
-sua próxima parada, a pequena
-cidade de Dropstone.
+E assim eles seguem rumo à sua próxima
+parada, o pequeno vilarejo de Dropstone.
 !******************************!
 [t18_190_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>O Molentary Express trouxe nossos

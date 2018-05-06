@@ -1,0 +1,72 @@
+<0000><0012>T<'e> c<'i>trico
+!------------------------------!
+Un t<'e> cl<'a>sico con el toque especial
+de las semillas c<'i>tricas. Este
+ingrediente le da un sabor <'u>nico.
+!******************************!
+<0001><0011>Caramelo del oasis
+!------------------------------!
+A los ni<-n>os y a las mujeres les
+encanta. Su secreto es su
+refrescante dulzura.
+!******************************!
+<0002><0027>Terr<'o>n ahumado
+!------------------------------!
+Un t<'e> que combina el sabor a frutas
+con un toque ahumado. Los posos
+predicen tu futuro en el amor.
+!******************************!
+<0003><0045>Terapia de tr<'e>bol
+!------------------------------!
+Este t<'e> refinado proporciona
+calor y mejora la circulaci<'o>n.
+Ideal contra los resfriados.
+!******************************!
+<0004><0066>Poleo de fuego
+!------------------------------!
+Este t<'e>, rico en poleo chili, es un
+remedio ideal contra la tristeza
+y la pesadumbre.
+!******************************!
+<0005><0125>Frutos amargos
+!------------------------------!
+Agridulce y con un toque
+amargo. Un t<'e> complejo
+solo apto para adultos.
+!******************************!
+<0006><0136>Especias on<'i>ricas
+!------------------------------!
+Este misterioso t<'e> tiene una
+nota dulce y suave con un
+toque picante.
+!******************************!
+<0007><0147>Tr<'e>bol saciante
+!------------------------------!
+Una mezcla peculiar de tonos
+ahumados y dulces. Perfecto
+para calmar la sed.
+!******************************!
+<0008><0234>Esencia de luces
+!------------------------------!
+Un t<'e> de aroma relajante y sabor
+a frutas. Es rico en vitaminas y
+calma las inquietudes est<'e>ticas.
+!******************************!
+<0009><0346>Ocaso c<'a>ustico
+!------------------------------!
+Aunque al principio tiene un
+sabor suave, pronto se vuelve
+picante. Ideal para relajarse.
+!******************************!
+<000A><0357>T<'o>nico seco
+!------------------------------!
+Esta mezcla cura todas las
+enfermedades, pero tiene un
+sabor bastante fuerte.
+!******************************!
+<000B><0467>Elixir de Layton
+!------------------------------!
+Amor a primer sorbo. Una mezcla
+muy poco ortodoxa que produce
+un t<'e> incre<'i>blemente delicioso.
+!******************************!

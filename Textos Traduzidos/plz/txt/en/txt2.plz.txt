@@ -20,7 +20,7 @@ Explore a Vila!
 Olhe os Arredores da Praça!
 !******************************!
 [goal_160.txt]
-Explore até o Desfile!
+Explore até a Hora do Desfile!
 !******************************!
 [goal_165.txt]
 Vá para o Desfile!
@@ -35,7 +35,7 @@ Encontre o Romie!
 Volta para o Trem!
 !******************************!
 [goal_20.txt]
-Vá até a Porta do Dr. Schrader!
+Vá para a Porta do Dr. Schrader!
 !******************************!
 [goal_200.txt]
 Fale com a Tripulação!
@@ -83,7 +83,7 @@ Head for the North-east Area!
 Visit the Grocer!
 !******************************!
 [goal_30.txt]
-Entre no Apartamento do Dr Schrader!
+Entre no Apartamento do Dr. Schrader!
 !******************************!
 [goal_300.txt]
 Take the Beef Shank to the Dog!

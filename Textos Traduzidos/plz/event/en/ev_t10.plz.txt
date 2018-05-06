@@ -223,7 +223,7 @@ deve procurá-las a todo momento.<W>
 Use sua stylus para tocar qualquer
 coisa que pareça suspeita, beleza?<W>
 !------------------------------!
-Bem, era tudo que eu tinha para lhe
+Bem, era tudo que eu tinha pra lhe
 dizer. Até mais ver, senhor.
 !******************************!
 [t10_090_100.gds]
