@@ -490,9 +490,8 @@ e grosso que eu sinto
 isso até de sapato!
 !******************************!
 [tobj26.txt]
-Essas lâmpadas me deixam
-bem à vontade durante
-as noites.
+Durmo melhor à noite
+com um abajur aceso.
 !******************************!
 [tobj27.txt]
 Se for cansativo demais
@@ -515,9 +514,8 @@ documentos nestas
 estantes.
 !******************************!
 [tobj30.txt]
-Céus, que belo par de
-encaixes de cortinas.
-De excelente qualidade.
+É um belo par de cortinas
+de renda.
 !******************************!
 [tobj31.txt]
 A comida parece ainda
@@ -677,7 +675,7 @@ de limpeza!
 !******************************!
 [tobj61.txt]
 Antes de desfrutarmos a
-vista, devemos visitar
+vista, deveríamos visitar
 o doutor.
 !******************************!
 [tobj62.txt]

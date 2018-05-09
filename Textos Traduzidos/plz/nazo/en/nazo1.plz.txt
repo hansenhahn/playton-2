@@ -688,51 +688,56 @@ será o seu penúltimo movimento.
 [n22.dat]
 <0023>Uma Derrota Amarga
 <00><0F><07><04><12><06><02><16><E8><03><02><FF>
-Dois homens, aqui conhecidos como 1 e 2, estão
-jogando um estranho jogo. Primeiro, os dois homens
-colocam seus jarros vazios sob a mesa. A seguir, um
-juiz traz uma jarra cheia de veneno e a coloca ou no
-ponto A ou no B. O juiz então começa a colocar o veneno
-na jarra adjacente, e depois de novo e de novo. Depois de
-mover o líquido 55 vezes, o dono da jarra cheia de veneno
-deve bebê-la.
+Dois homens, aqui chamados de 1 e 2, estão
+disputando um estranho jogo. Primeiro, os
+dois homens colocam suas jarras vazias
+sobre a mesa. A seguir, um juiz traz uma
+jarra cheia de vinagre e a coloca ou no
+ponto A, ou no ponto B. O juiz então começa
+a derramar o vinagre na jarra adjacente,
+e depois de novo e de novo. Depois de mover
+o líquido 55 vezes, o dono da jarra cheia de
+vinagre deve bebê-la! Ugh!
 
-Se você fosse o juiz e secretamente quisesse
-que o 2 bebesse o veneno, colocaria o jarro no
-ponto A ou B?
+Se você fosse o juiz e secretamente
+quisesse que o 2 bebesse o vinagre,
+colocaria a jarra no ponto A, ou no porto B?
 !******************************!
 Muito bem!
 
-O líquido troca de jarros 55 vezes, que é um
-número ímpar. Onde quer que coloque o seu
-jarro, o que ficar no meio sempre terá veneno
-depois de um número ímpar de trocas.
+O líquido troca de jarras 55 vezes, que é um
+número ímpar. Onde quer que você coloque a
+sua jarra, a jarra que ficar no meio sempre
+terá vinagre depois de um número ímpar de
+trocas.
 
-Ou seja, para que o 1 possa ganhar, o jarro de veneno
-deve ir no ponto B, já que assim o jarro do 2 ficará no meio,
+Ou seja, para que o 1 possa ganhar, a jarra
+de vinagre deve ser colocada no ponto B,
+já que assim a jarra do 2 ficará no meio,
 garantindo sua derrota.
 !******************************!
 Que pena!
 
-Normalmente você precisaria de encorajamento para tentar
-de novo, mas como só tem duas respostas possíveis, creio que
-você já tenha a solução...
+Normalmente, você seria encorajado a não
+desistir e tentar novamente, mas como só
+há duas respostas possíveis, você já tem
+a solução...
 
-Mas tente pensar nos motivos que te levariam até a
-resposta certa!
+Mas não deixe de pensar no porquê essa é
+a resposta certa!
 !******************************!
-Pegue alguns copos d'água e tente você mesmo
-o enigma. Tirando o veneno, claro
+Pegue alguns copos, troque o vinagre
+por água, e tente você mesmo o enigma.
 
-A regra que determina onde o veneno irá parar
-se revelará num instante.
+Você vai perceber a regra que determina
+onde o vinagre vai estar em um instante.
 !******************************!
 Se você parasse depois de cinco trocas
 ao invés de 55, mudaria alguma coisa?
 !******************************!
-Não é engraçado como
-em toda troca que termina em números ímpares,
-o veneno sempre acaba no meio dos três jarros?
+Não é engraçado como em toda troca que
+termina em números ímpares, o vinagre 
+sempre acaba na jarra do meio?
 !******************************!
 [n23.dat]
 <0024>A Tira de Papel
@@ -1570,12 +1575,12 @@ Que pena!
 Você tem certeza que nenhum item está por
 cima do outro?
 !******************************!
-Você pode usar os itens menores como
-o telescópio, ou a gaita, para preecher
+Você pode usar os objetos menores como
+o telescópio, ou a gaita, para preencher
 pequenos espaços mais tarde, portanto
 coloque primeiro na mala os itens maiores.
 !******************************!
-Aquele enormo conjunto de frigideira e
+Aquele enorme conjunto de frigideira e
 espátula vai no canto inferior esquerdo
 da mala. O ursinho do Luke vai no canto
 superior direito. Agora, tente guardar

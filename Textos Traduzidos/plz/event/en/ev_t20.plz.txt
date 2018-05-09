@@ -280,10 +280,10 @@ nesta janela!
 !******************************!
 [t20_023_1000.gds]
 <01:00000006><03:6>shout<03:10>b1 normal<01:00000001><03:221>Qual é a sua? Você não pode sair
-pegandos as evidências numa cena de
-crime. Tire suas mãos desse... dessa...<W>
+pegandos as provas numa cena de crime.
+Tire suas mãos desse... dessa...<W>
 !------------------------------!
-O que é isto?<W>
+O que é isso, afinal?<W>
 !------------------------------!
 Hmph, não que importe. Eu vou ficar
 com isto. Agora, pra rua, vocês dois!

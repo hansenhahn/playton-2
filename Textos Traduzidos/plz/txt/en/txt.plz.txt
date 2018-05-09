@@ -312,7 +312,7 @@ leva seu portador?
 !******************************!
 [id_3.txt]
 Pedaços rasgados de uma fotografia
-foram encontrados na mão do finado
+foram encontrados na mão do falecido
 doutor. No estado em que estão, é
 impossível saber o conteúdo da
 fotografia.
@@ -2084,7 +2084,7 @@ Luke, pare! Esse é rosto dele!
 Preste atenção, Luke!
 !******************************!
 [m5_0.txt]
-Professor Layton e Luke
+O Professor Layton e Luke
 deixaram para trás a cidade,
 !******************************!
 [m5_1.txt]

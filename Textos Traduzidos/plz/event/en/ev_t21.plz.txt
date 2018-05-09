@@ -4,7 +4,7 @@ aberta e todas as suas coisas
 estão espalhadas por aí.
 !******************************!
 [t21_000_200.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:19>Oops! Que mancada!
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:19>Ops! Que mancada!
 !******************************!
 [t21_000_300.gds]
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:70>Você precisa guardar suas coisas
@@ -15,13 +15,13 @@ antes de sairmos explorando o trem.
 impedir de guardar tudo!
 !******************************!
 [t21_003_100.gds]
-<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:69>Ufa! Tive que expremer bastante,
-mas agora está, enfim, tudo guardado.
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:69>Ufa! Tive que espremer bastante,
+mas agora está tudo guardado.
 !******************************!
 [t21_003_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:88>Nós estávamos com pressa, então
-suponho que você não tenha tido tempo
-para arrumar tudo apropriadamente.
+imagino que você não tenha tido tempo
+para organizar tudo adequadamente.
 !******************************!
 [t21_003_300.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:92>Na verdade, me sinto melhor com
@@ -685,9 +685,9 @@ formigas vieram?
 [t21_083_100.gds]
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:118>Você conseguiu, meu garoto.<W>
 !------------------------------!
-Apesar de não ser fã de formigas no meu
-açucar, é de admirar a capacidade de
-trabalhar em equipe delas!
+Apesar de não apreciar formigas em meu
+açucar, não há como negar a capacidade
+delas de trabalharem em equipe!
 !******************************!
 [t21_083_200.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:77>Será que é porque até mesmo

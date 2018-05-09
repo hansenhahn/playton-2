@@ -1,7 +1,7 @@
 [t11_020_100.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:95>Céus, olhe este lugar, Professor!
-Ele é tão chique que sinto que deveria
-estar usando um monóculo!
+Ele é tão chique que dá até vontade
+de usar um monóculo!
 !******************************!
 [t11_020_200.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:171>Ha ha! É por aí mesmo, Luke.

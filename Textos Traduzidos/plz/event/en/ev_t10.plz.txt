@@ -353,9 +353,8 @@ estou pensando, Professor?
 a bordo do Molentary Express.
 !******************************!
 [t10_150_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:75>Você suspeita que iremos encontrar
-a chave para resolvermos esse
-mistério no trem?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:75>Acha que iremos encontrar a chave
+pra resolvermos esse mistério no trem?
 !******************************!
 [t10_150_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:198>O Dr. Schrader fez o melhor que pôde
@@ -363,6 +362,6 @@ para nos guiar ao Molentary Express,
 caso algo acontecesse a ele.<W>
 !------------------------------!
 Tenho tanta certeza quanto neblina numa
-manhã londrina que esse trem nos
+manhã londrina de que este trem nos
 levará às respostas que buscamos.
 !******************************!

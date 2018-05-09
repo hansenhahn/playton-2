@@ -134,7 +134,7 @@ Caminho à Nordeste
 Alley Entrance
 !******************************!
 [p_47.txt]
-Flooded Alley
+Beco Inundado
 !******************************!
 [p_48.txt]
 Litter-filled Alley
@@ -146,7 +146,7 @@ Seedy Alley
 Sala do Doutor
 !******************************!
 [p_50.txt]
-Alley Dead End
+Beco Sem Saída
 !******************************!
 [p_51.txt]
 Portão do Museu
@@ -158,10 +158,10 @@ Fonte
 Museu Herzen
 !******************************!
 [p_54.txt]
-Museum - G. Floor
+Museu - Térreo
 !******************************!
 [p_55.txt]
-Museum - 1. Floor
+Museu - Andar 1
 !******************************!
 [p_56.txt]
 Rua à Oeste
@@ -173,13 +173,13 @@ Cabaré
 Mercearia
 !******************************!
 [p_59.txt]
-Tower - G. Floor
+Torre - Térreo
 !******************************!
 [p_6.txt]
-Carriage 4 - Room
+Vagão 4 - Cabine
 !******************************!
 [p_60.txt]
-Tower - 1. Floor
+Torre - Andar 1
 !******************************!
 [p_61.txt]
 Vovó Riddleton
