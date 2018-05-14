@@ -504,8 +504,8 @@ A mala do professor
 será que tem dentro?
 !******************************!
 [tobj29.txt]
-Com certeza estamos indo
-bem rápido, pois mal dá
+O trem deve estar bem
+rápido, já que mal dá
 pra ver a paisagem.
 !******************************!
 [tobj3.txt]
@@ -715,9 +715,9 @@ Parece que existem muitas
 atividades nesta área!
 !******************************!
 [tobj7.txt]
-Esta pilha de livros vai
-cair se não fizermos alguma
-coisa logo!
+Esta pilha de livros
+vai cair se não fizermos
+alguma coisa logo!
 !******************************!
 [tobj70.txt]
 Não ia doer se tivesse uma

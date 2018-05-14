@@ -729,9 +729,8 @@ meu enigma desta vez!
 Será que já chegamos?
 !******************************!
 [t21_093_100.gds]
-<01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:81>Você conseguiu! Uau, esta cartola
-que você usa deve aumentar a sua
-inteligência!
+<01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:81>Você conseguiu! Uau! Essa cartola
+deve aumentar a sua inteligência!
 !******************************!
 [t21_093_200.gds]
 <01:00000024><03:10>b2 normal<03:5>NONE<01:00000003><03:61>Espero que vocês encontrem o que
@@ -752,7 +751,7 @@ tão simples quanto uma jarra poderia ser
 tão requintada?
 !******************************!
 [t21_100_300.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:210>O que pode ser mais relaxante que
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:210>O que pode ser mais relaxante do que
 estar na sua cabine com um refresco
 gelado, olhando o pôr do sol?<W>
 !------------------------------!

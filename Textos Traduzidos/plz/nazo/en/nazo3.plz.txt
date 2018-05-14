@@ -1688,63 +1688,63 @@ Então, A + 1 deve ser igual a B.
 
 !******************************!
 [n161.dat]
-<0164>What Number?
+<0164>Qual é o Número?
 <00><00><00><00><11><01><16><A1><F6><03><02><FF>
-The numbers in the diagram below follow a
-certain rule. Some manipulation of pairs of
-adjacent numbers is used to derive the
-number centred below them. Can you work
-out what number goes in the space marked
-with a question mark?
+Os números no diagrama abaixo seguem uma
+certa regra. Algum tipo de manipulação em
+pares dos dados adjacentes é usada para
+gerar o número central abaixo deles. Você
+consegue descobrir qual número vai no espaço
+marcado com um ponto de interrogação?
 
-The rule at work here is absolute, so there
-are no exceptions.
+A regra feita aqui é absoluta, então não
+há exceções.
 !******************************!
-That's right! The answer is 16. 
+Está certo! A resposta é 16. 
 
-The way to find the answer is to think of all
-the digits of the numbers in the diagram as
-single-digit integers. Then you just add
-them up. So, 160 and 144 would give you
-1 + 6 + 0 + 1 + 4 + 4, which equals 16, the
-number below. That is the rule.
+A maneira para encontrar a resposta é pensar
+em todos dígitos dos números no diagrama como
+inteiros de único dígito. Então você soma
+todos eles. Então, 160 e 144 lhe daria
+1 + 6 + 0 + 1 + 4 + 4, que é igual a 16, o
+número abaixo. Esta é a regra.
 
-At first, it might seem that the rule is to
-take the absolute value of the difference
-between two adjacent numbers, but there's
-one place that won't work.
+Primeiro, parece que a regra é pegar o
+valor absoluto das diferenças entre dois
+números adjacentes, mas há um lugar em
+que isso não irá funcionar.
 !******************************!
-Too bad!
+Que pena!
 
-Think carefully about the possibilities.
+Pense sobre todas as possibilidades.
 !******************************!
-Subtraction? No, that's not it.
+Subtração? Não, não é isso.
 
-You want to add.
+Você precisa somar.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n162.dat]
-<0165>Mouse Escape!
+<0165>A Fuga do Rato!
 <00><00><00><00><01><01><19><A2><FF><03><02><FF>
-This poor mouse fell asleep and awoke to
-find himself trapped by a bunch of blocks.
-Can you help free the unlucky mouse?
+Este pobre rato dormiu e acordou preso por
+um punhado de blocos. Você consegue ajudar
+a libertar este rato azarado?
 !******************************!
-Whew! He's free!
+Ufa! Ele está livre!
 
-I'm sure he'll find some way to repay you...
-eventually.
+Tenho certeza que ele irá achar um jeito
+de te agradecer... eventualmente.
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-Bring down the green upside-down L in
-the top-left corner to the same level
-as the top blue  block.
-Once you've cleared a path, drag the
-blue gate-shaped block up.
+Traga o L verde de cabeça pra baixo
+no canto superior esquerdo para o mesmo
+nível que o bloco azul superior.
+Assim que limpar o caminho, arraste
+o bloco azul para cima.
 !******************************!
 
 !******************************!
@@ -1766,32 +1766,32 @@ blue gate-shaped block up.
 
 !******************************!
 [n164.dat]
-<0167>Different Chickens
+<0167>Galinhas Diferentes
 <00><00><00><00><11><01><02><A4><E8><03><02><FF>
-It's time to play <''>spot the difference<''>!
-Of A, B and C, which one is identical to
-the panel on the left?
+Hora de brincar de <''>ache as diferenças<''>!
+De A, B e C, qual desses painéis é idêntico
+ao painel da esquerda?
 
-The panel on the left is a negative image in
-black and white, and it's been flipped from
-left to right.
+O painel na esquerda é uma imagem negativa
+em preto e branco, e está invertida da
+esquerda pra direita.
 !******************************!
-Good eye!
+Bem atento!
 
-The answer is B. A and C both have
-differences, which are circled here.
+A resposta é B. A e C possuem uma
+diferença em cada, circuladas aqui.
 !******************************!
-Too bad!
+Que pena!
 
-Take a closer look at the pictures.
+Dê uma olhada mais de perto nas imagens.
 
 !******************************!
-Chicken's eyes.
+Nos olhos da galinha.
 
-The direction in which a chick faces.
+Na direção que um pintinho encara.
 
-These are what you should be paying
-attention to!
+São nessas coisas que você deveria
+estar prestando atenção!
 !******************************!
 
 !******************************!
@@ -1813,210 +1813,210 @@ attention to!
 
 !******************************!
 [n166.dat]
-<0169>Territory War
+<0169>Território de Guerra
 <00><00><00><00><11><01><05><A6><EB><03><02><FF>
-Three kings have become entangled in a
-territory dispute over the land shown
-below. They have decided to divide the
-land by colouring it red, blue and yellow
-after their national colours. The rule for
-dividing land is that each territory must
-not border another territory of the same
-colour. If territory A is red and territory
-B is blue, what colour is territory C?
+Três reis ficaram confusos numa disputa
+de território sobre uma terra mostrada
+abaixo. Eles decidiram dividir a terra
+a colorindo de vermelho, azul e amarelo
+devido às suas cores nacionais. A regra
+para a divisão é que cada território não
+pode fazer fronteira com outro território
+de mesma cor. Se o território A é vermelho
+e B é azul, qual cor é território C?
 
-Circle that colour's king and touch #rSubmit#x
-to enter your answer.
+Circule a cor do rei e toque em #rSubmit#x
+para inserir sua resposta.
 !******************************!
-That's right!
+Está certo!
 
-If you divide the land correctly, C must be
-blue.
+Se você dividir as áreas corretamente,
+C deve ser azul.
 !******************************!
-Too bad!
+Que pena!
 
-The only way to solve a puzzle like this is
-to actually do it!
+O único jeito de resolver um enigma como
+esse é fazendo manualmente!
 !******************************!
-Try actually marking the territories
-using the Memo Function to make sure
-you don't make adjacent ones the same
-colour.
+Tente marcar os territórios usando a
+Função Memo para ter certeza de que
+você não deixe os adjacentes com a
+mesma cor.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n167.dat]
-<0170>A Sure Win
+<0170>Uma Vitória Garantida
 <00><00><00><00><11><01><1A><A7><00><04><02><FF>
-In this game, players take turns moving
-stones one space up, down, left, right or
-diagonally to an open space. The goal is
-to line up three of your stones, as in
-noughts and crosses. Based on the board
-layout below, there is one move that white
-can make to ensure victory in the following
-turn.
+Neste jogo, os participantes fazem turnos
+movendo as pedras para um espaço vazio pra
+cima, baixo, esquerda, direita ou diagonalmente.
+O objetivo é alinhar três de suas pedras,
+como em nada e cruzes. Baseado no tabuleiro
+abaixo, há um movimento que o das peças
+brancas pode fazer para garantir vitória
+no turno seguinte.
 
-Make that move and touch #rSubmit#x.
+Faça o movimento e toque em #rSubmit#x.
 !******************************!
-Brilliant!
+Brilhante!
 
-Did you see the answer right away?
+Você viu a resposta de imediato?
 !******************************!
-Too bad!
+Que pena!
 
-Try again!
+Tente novamente!
 !******************************!
-In this setup, black is one move away
-from victory. If you don't block black's
-winning move, you will lose.
+Do jeito que está, as peças pretas estão
+a um movimento da vitória, se você não
+bloquear esse movimento, irá perder.
 
-Can you see now where a white stone
-needs to go?
+Consegue ver agora onde a pedra branca
+precisa ir?
 !******************************!
 
 !******************************!
 
 !******************************!
 [n168.dat]
-<0171>The M<:o>bius Puzzle
+<0171>O Enigma de M<:o>bius
 <00><00><00><00><11><01><02><A8><E8><03><02><FF>
-By twisting a thin strip of paper once and
-using some tape to form a ring with it, you
-can make a ring with one continuous
-surface. If you started to draw a line on
-one side, it would eventually cover both
-sides and join back up with itself. This
-is the famous M<:o>bius strip.
+Torcendo uma tira fina de papel uma vez e
+usando uma fita para formar um anel com ela,
+dá pra fazer um anel com uma superfície
+contínua. Se você começasse a desenhar uma
+linha em um lado, irá eventualmente cobrir
+ambos os lados e iriam se conectar entre si.
+Este é a famosa fita de M<:o>bius.
 
-Now, if you cut along this line with a pair
-of scissors, which shape would the paper
-make: A, B or C?
+Agora, se você cortar essa linha com uma
+tesoura, qual desses formatos o papel
+terá: A, B ou C?
 !******************************!
-Very good!
+Muito bem!
 
-This is a fun puzzle to try in real life.
-You end up with one very long ring.
+Este enigma é divertido de fazer na vida
+real. Irá terminar com um anel bem longo.
 
-Try it out and see how many twists you
-end up with.
+Tente e veja com quantas torcidas você
+acabará fazendo.
 !******************************!
-Too bad!
+Que pena!
 
-You know, if you have some paper, a pair
-of scissors and some tape...
+Sabe, se você tivesse um papel, tesouras
+e um pouco de fita...
 !******************************!
-You know, twisting before forming a ring
-yields a completely different result
-than cutting an untwisted ring.
+Pra você saber, torcer antes de formar
+um anel terá um resultado completamente
+diferente que cortar um anel não torcido.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n169.dat]
-<0172>Too Many Bridges
+<0172>Muitas Pontes
 <00><00><00><00><11><01><02><A9><E8><03><02><FF>
-There are so many rivers running through
-this town, they've built 12 bridges.
-It's possible to cross each bridge only
-once on your way to the area indicated by
-the white arrow, but which letter would
-you have to start from to do this?
+Há tantos rios correndo nesta cidade,
+que eles construíram 12 pontes.
+É possível atravessar cada ponte apenas
+uma vez no caminho para a área indicada
+pela seta branca, mas por qual letra
+você teria que começar pra fazer isso?
 !******************************!
-That's right!
+Está certo!
 
-You would have to start at A. One possible
-route is shown here, but there are other
-possible routes that take you over each
-bridge only once. This is the kind of
-puzzle you solve by tracing a long line
-without lifting the stylus.
+Você teria que começar no A. Uma rota
+possível está sendo mostrada aqui, mas
+há outras rotas que também dá pra ir
+uma vez em cada ponte. Este é um tipo
+de enigma que se resolve traçando uma
+longa linha sem soltar a stylus.
 !******************************!
-Too bad!
+Que pena!
 
-Try another route.
+Tente outra rota.
 !******************************!
-The key is the number of bridges
-connected to each spot. Take a closer
-look.
+O segredo é o número de pontes
+conectadas em cada ponto. Dê uma
+boa olhada nisso.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n170.dat]
-<0173>The Rotating Arrow
+<0173>A Seta Rotativa
 <00><00><00><00><31><01><02><AA><E8><03><02><FF>
-Here we have a pentagon with equal sides.
-As shown in Figure 1, a square with sides
-the same length as one side of the pentagon
-sits flush against the five-sided shape.
-It's labelled with an arrow pointing up.
-If you flip the square along the pentagon
-as shown in Figure 2, the arrow on the
-square changes direction.
+Aqui temos um pentágono com lados iguais.
+Como mostrado na Figura 1, um quadrado com
+lados de mesmo tamanho de um do pentágono
+faz um contorno contra os cinco lados.
+Está rotulada com uma seta apontada pra cima.
+Se você virar o quadrado ao redor do
+pentágono como mostrado na Figura 2,
+a seta no quadrado muda de direção.
 
-Using the diagram below, work out which
-direction the arrow faces if you continue
-to flip the square anticlockwise along the
-pentagon back to its original position.
+Usando o diagrama abaixo, descubra qual
+direção a seta estará encarando se você
+continuar a girar no sentido anti-horário
+ao redor do pentágono até a posição original.
 !******************************!
-You did it!
+Você conseguiu!
 
-There's nothing all that difficult about
-this puzzle, but it does require you to
-do a little creative thinking before
-you can arrive at the answer.
+Não há nada de difícil sobre este
+enigma, mas requer que você tenha uma
+mente criativa antes de alcançar este
+resultado.
 !******************************!
-Too bad!
+Que pena!
 
-Don't get discouraged. Collect your
-thoughts and try again!
+Não se desanime. Elabore um raciocínio
+e tente novamente!
 !******************************!
-This puzzle may seem like a pain to
-solve, but if you follow the example
-given and visualise each of the steps,
-it's really not all that hard.
+Este enigma parece ser doloroso de
+resolver, mas se você seguir o exemplo
+dado e visualizar cada um dos passos,
+realmente verá que não é tão difícil.
 
-Try sketching out each flip of the
-square using the Memo Function.
+Tente esboçar cada rotação do
+quadrado usando a Função Memo.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n171.dat]
-<0174>A Row of Dice
+<0174>Fileira de Dados
 <00><00><00><00><11><01><02><AB><E8><03><02><FF>
-A number of dice are arranged in a row as
-shown below. Can you work out which of
-A to D belongs in the spot marked with a
-question mark?
+Um número de dados foram organizados em
+uma fileira como demonstrado abaixo. Você
+consegue descobrir qual de A até D pertence
+no espaço marcado com uma interrogação?
 
-All the dice are arranged so that where
-one die touches another, the two faces
-that are touching have the same number on
-them. Assume all the dice are identical.
+Todos os dados estão organizados para que
+um se encoste no outro e as duas faces que
+estão se tocando possuam o mesmo número
+nelas. Presuma que os dados são idênticos.
 !******************************!
-Great work!
+Ótimo trabalho!
 
-C is the correct die!
+C é o dado correto!
 
-Once you realise that each set of opposing
-sides on a die adds up to seven, and that
-all the touching faces are either ones or
-sixes, you can use logic to work out the
-rest.
+Assim que perceber que qualquer soma
+dos lados opostos dá sete e que todas
+as faces que estão se tocando ou pode
+ser um ou seis, você pode usar a lógica
+para elaborar o resto.
 !******************************!
-Too bad!
+Que pena!
 
-Think hard about the clues you've been
-given and try again.
+Pense mais sobre as pistas que
+recebeu e tente novamente.
 !******************************!
-Can you see any ones or sixes?
+Você consegue ver algum um ou seis?
 !******************************!
 
 !******************************!
@@ -2053,129 +2053,130 @@ Can you see any ones or sixes?
 
 !******************************!
 [n174.dat]
-<0177>Mouse on the Loose!
+<0177>Rato à Solta!
 <00><00><00><00><01><01><19><AE><FF><03><02><FF>
-Oh no, it looks like the mouse fell asleep
-and got himself trapped again! While he was
-napping, the owners of the house piled all
-sorts of blocks around him. Can you clear a
-path and help the little guy out?
+Oh não, parece que o rato dormiu e ficou
+preso novamente! Enquanto ele estava
+cochilando, os donos da casa encheram
+com vários blocos ao redor dele. Você
+consegue limpar o caminho e ajudar o
+nosso carinha a sair?
 !******************************!
-He's free!
+Finalmente livre!
 
-That's twice now you've saved this mouse.
-Maybe he should dig up a little cheese
-to say thanks.
+É a segunda vez que você salva esse rato.
+Talvez ele deveria te dar um queijinho
+como agradecimento.
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-There's lots of open space in this
-puzzle, so you'd think it'd be easy
-to shift things around, but clearing a
-path can be surprisingly difficult.
+Há vários espaços vazios nesse enigma,
+então deve estar pensando que será fácil
+mover as coisas por aí, mas limpar o
+caminho pode ser surpreendentemente difícil.
 
-To beat this one, you'll need to make
-effective use of the indentations on
-certain blocks. Oh, and try to get that
-straight orange block above the blue
-U-shaped one at the top of the screen. 
+Para conseguir, você precisará usar
+efetivamente as indentações dos blocos
+certos. Oh, tente levar esse bloco reto
+laranja para cima do bloco azul com
+formato de U na parte superior da tela.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n175.dat]
-<0178>The Ant Takes a Walk
+<0178>A Passeata da Formiga
 <00><00><00><00><11><01><02><AF><E8><03><02><FF>
-A wire cube sits on the floor below, with an
-ant sitting at the point under the white
-arrow. Starting from its current position,
-the ant wants to walk on each wire in the
-cube, without ever crossing any length of
-wire twice. To do this, you need to add a
-single wire to the cube.
+Um cubo de fios está abaixo, com uma formiga
+sentada no ponto abaixo da seta branca.
+Começando se sua posição atual, a formiga
+quer caminhar em cada fio do cubo, mas sem
+atravessar uma extensão do fio duas vezes.
+Para fazer isso, precisa adicionar um único
+fio nesse cubo.
 
-To which area out of A, B or C should you
-add the wire to make this possible? Note
-that the ant may cross over a point where
-two or more wires meet as many times as it
-likes. Select a letter to answer.
+Em qual área de A, B ou C você deveria
+adicionar o fio para tornar isso possível?
+Saiba que a formiga pode passar em qualquer
+ponto onde dois ou mais fios se encontram
+quantas vezes quiser. Escolha uma letra.
 !******************************!
-Good job!
+Bom trabalho!
 
-The answer is C.
+A resposta é C.
 
-This puzzle uses an ant as a visual aid, but
-it's basically asking you to draw a 3D shape
-in a single, continuous stroke.
+Esse enigma usa uma como ilustração, mas
+basicamente está te pedindo para desenhar
+um formato 3D em um único traço contínuo.
 
-While wire A also lets you draw the cube in
-one stroke, it doesn't let you do so when
-starting from the white arrow. B is also
-incorrect because, no matter where you
-start from, you can't complete the drawing
-in one continuous line.
+Por mais que o fio A também te deixa desenhar
+em um traço, não lhe permite fazer isso
+quando iniciado pela seta branca. B também
+está incorreto porque, não importa de onde
+comece, você não conseguirá completar
+o desenho com uma única e contínua linha.
 !******************************!
-Too bad!
+Que pena!
 
-Study that wire structure carefully.
+Estude a estrutura desse fio com esmero.
 !******************************!
-Essentially, this puzzle is asking you
-where to add a wire in order to create a
-3D shape you could draw without ever
-lifting your pen from the page or
-retracing a line.
+Essencialmente, este enigma está te pedindo
+para adicionar um fio em ordem de criar
+uma forma 3D que se possa desenhar sem
+soltar a caneta alguma vez, ou redesenhar
+alguma linha.
 
-Two of the potential answers let you do
-this, but only one works when you start
-from the point under the white arrow.
+Duas das alternativas permitem fazer
+isso, mas apenas uma funciona quando
+se começa pelo ponto da seta branca.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n176.dat]
-<0179>John and Bill
+<0179>John e Bill
 <00><00><00><00><71><01><1C><B0><F6><03><02><FF>
-John and Bill are playing in the park
-and they start chatting.
+John e Bill estavam brincando no parque
+e então começaram a conversar.
 
-<''>Hey, Bill! Three years from now, you'll
-be twice my current age, won't you?<''> says
+<''>Ei, Bill! Daqui a três anos, você terá
+o dobro da minha idade atual, né?<''> Diz
 John.
-Bill pauses for a moment, then responds.
-<''>Well, get this! When I'm twice the age I am
-now, I'll be three times your current age.
-Crazy, right?<''>
+Bill pausa por um momento e responde:
+<''>Bem, olha só! Quando eu tiver o dobro
+da idade que tenho agora, terei o triplo
+da sua idade atual. Loucura, não acha?<''>
 
-So how old are John and Bill? Just so
-you know, neither of the boys are 10 yet.
+Quantos anos eles têm? Só pra você saber,
+nenhum deles chegaram nos 10 anos ainda.
 !******************************!
-That's right!
+Está certo!
 
-If John is six and Bill is nine, then in
-three years Bill will be twice John's
-current age, and in nine years Bill will
-be three times John's current age.
+Se o John tiver seis e o Bill nove, então
+em três anos o Bill terá o dobro da idade
+atual do John, e em nove antos o Bill terá
+o triplo da idade atual do John.
 
-You could use a formal set of equations to
-solve this, but just plugging in numbers
-until you get it right can be fun too.
+Você poderia usar várias equações para
+resolver isso, mas combinar os números
+até descobrir pode ser legal também.
 
-For a pair of children, John and Bill
-certainly have some advanced discussions.
+Para uma dupla de crianças, John e Bill
+possuem discussões bem avançadas.
 !******************************!
-Too bad!
+Que pena!
 
-The numbers just don't work out with the
-ages you entered.
+Os números que você escolheu não
+funcionam.
 !******************************!
-Since both of the boys are younger than
-10, there are only so many combinations
-of ages you need to explore.
+Já que ambos os garotos possuem menos
+de 10 anos, há poucas combinações de
+idades que você precisa explorar.
 
-Don't forget, Bill is the older of the
-two boys.
+Não se esqueça, o Bill é o mais velho
+dos dois garotos.
 !******************************!
 
 !******************************!
@@ -2197,230 +2198,233 @@ two boys.
 
 !******************************!
 [n178.dat]
-<0181>The Tape's Shape
+<0181>O Formato da Fita
 <00><00><00><00><11><01><05><B2><EB><03><02><FF>
-Two pieces of tape the same length and the
-same width are shaped into rings and then
-stuck together at point P as shown.
+Dois pedaços de fita de mesmo comprimento e
+largura estão em formato de anéis e então
+presas entre si no ponto P como mostrado.
 
-If you were to cut the two pieces along the
-dotted lines, which of the four shapes
-below would be formed? Choose an answer
-from A to D by circling it.
+Se você fosse cortar os dois pedaços
+seguindo as linhas pontilhadas, quais das
+quatro formas abaixo se formaria? Escolha
+uma resposta de A até D circulando-a.
 !******************************!
-Amazing!
+Incrível!
 
-The correct answer is D.
+A resposta correta é D.
 
-It almost seems impossible, but try it for
-yourself.
+Parece ser um absurdo, mas tente
+fazer em casa.
 !******************************!
-Too bad!
+Que pena!
 
-This one is tough to visualise in your head.
+Esse daí é difícil de visualizar
+mentalmente.
 !******************************!
-Did you notice that point P would be
-divided into four sections?
+Você percebeu que o ponto P estaria
+dividido em quatro seções?
 !******************************!
 
 !******************************!
 
 !******************************!
 [n179.dat]
-<0182>The Long Formula
+<0182>O Cálculo Gigante
 <00><00><00><00><11><01><16><B3><F6><03><02><FF>
-Formulas like the first one are a familiar
-sight to students.
+Fórmulas igual a primeira são familiares
+para os estudantes.
 
-One day, a mathematician thought up the
-second formula. This formula basically took
-all the letters in the alphabet,
-subtracted them from x, and then multiplied
-them all together. Since the formula was so
-long, the mathematician used <''>...<''> to
-indicate part of the formula. Soon after,
-he discovered that no matter what numbers
-he substituted for any of the letters, the
-formula always yielded the same answer.
-What is that answer?
+Um dia, um matemático pensou na segunda
+fórmula. Essa fórmula basicamente pegou
+todas as letras do alfabeto, subtraiu por
+x, e então os multiplicou todos juntos.
+Já que a fórmula era muito extensa, o
+matemático usou <''>...<''> para indicar
+uma parte da fórmula. Logo depois, ele
+descobriu que não importa quais números
+estivessem substituídos nas letras, a
+fórmula sempre teria a mesma resposta.
+Qual é a resposta?
 !******************************!
-Good thinking!
+Bem pensado!
 
-One of the hidden sections of the formula
-is (X - X), which equals zero, and any 
-number you multiply by zero equals zero!
+Uma das seções escondidas da fórmula
+é (X - X), que é igual a zero, e qualquer
+número multiplicado por zero é igual a zero!
 !******************************!
-Too bad!
+Que pena!
 
-There is, of course, a very clear, logical
-answer, so do your best!
+Há, é claro, uma resposta bem clara,
+simples e lógia, então dê o seu melhor!
 !******************************!
-In the hidden segment of the formula is
-something very important.
+No segmento escondido da fórmula está
+algo muito importante.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n180.dat]
-<0183>How Many Gems?
+<0183>Quantas Joias?
 <00><00><00><00><11><01><16><B4><F6><03><02><FF>
-The following is a conversation between
-two sneaky thieves:
+A seguir é uma conversa entre dois
+ladrões sorrateiro:
 
-<''>Huh? So of all the gems out on display
-in the jeweller's, only one is real?<''>
+<''>Hã? Então de todas essas joias em
+exposição na joalheria, apenas uma é real?<''>
 
-<''>That's right. It's fourth from the top, 
-second from the bottom, third from the
-right and third from the left. That's
-the one we're after.<''>
+<''>Exato. É a quarta de cima, a segunda
+de baixo, a terceira da direita e a
+terceira da esquerda. É esta qual
+estamos atrás.<''>
 
-Supposing that the gems are ordered
-in uniform rows and columns, how many
-gems are there in total?
+Supondo que as joias estão ordenadas
+uniformemente em fileiras e
+colunas, quantas joias há no total?
 !******************************!
-Dazzling!
+Deslumbrante!
 
-<''>That's right. It's fourth from the top, 
-second from the bottom, third from the
-right, and third from the left. That's the
-one we're after.<''>
+<''>Exato. É a quarta de cima, a segunda
+de baixo, a terceira da direita e a
+terceira da esquerda. É esta qual
+estamos atrás.<''>
 
-If you draw a picture of this description,
-it would look like this. All in all, there
-are five rows and five columns, meaning
-there are 25 gems.
+Se você desenhar uma imagem com essa
+descrição, irá se parecer assim. Contudo,
+há cinco fileiras e cinco colunas,
+significando que há 25 joias.
 
 !******************************!
-Too bad!
+Que pena!
 
-Try reading the thieves' conversation
-one more time.
+Tente ler a conversa dos ladrões
+mais uma vez.
 !******************************!
-You're only seeing part of the 
-conversation. Try drawing a picture 
-of the gems' layout.
+Você viu apenas parte da conversa.
+Tente desenhar uma imagem retratando
+uma exposição de joias.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n181.dat]
-<0184>Who's Married?
+<0184>Quem se Casou?
 <00><00><00><00><71><01><03><B5><E9><03><02><FF>
-Walking around, you overhear the neighbours
-talking about a family that consists of a
-married couple, a son and a daughter.
+Caminhando por aí, você escuta os vizinhos
+conversando sobre uma família que consiste
+de um casal, um filho e uma filha.
 
-A: <''>Mary is certainly younger than Dan.<''>
-B: <''>Say, Mary is older than Lisa, isn't she?<''>
-C: <''>Sam is younger than Dan, for sure.<''>
-D: <''>No, Lisa and Sam aren't a couple.<''>
+A: <''>A Mary é com certeza mais nova que o Dan.<''>
+B: <''>Diga-me, a Mary é mais velha que a Lisa, não?<''>
+C: <''>Sam é mais nova que o Dan, com certeza.<''>
+D: <''>Não, a Lisa e o Sam não são um casal.<''>
 
-Of the four statements above, two are true
-and two are false. Work out which
-statements are accurate and tick the
-boxes of the two people who are married.
+Das quatro afirmações acima, duas são
+verdadeiras e duas são falsas. Descubra
+quais afirmações são as corretas e marque
+as caixas das duas pessoas que estão casadas.
 !******************************!
-That's right!
+Está certo!
 
-Sam and Mary are the married couple.
-A and C are lies, while B and D are
-accurate statements.
+O Sam e a Mary são o casal.
+A e C são mentiras, enquanto B e D
+são afirmações precisas.
 
-The answer comes together when you test
-each statement. If B is false, then A,
-C and D can all potentially be false or
-correct. Furthermore, if D is incorrect,
-both B and C must also be assumed to be
-incorrect.
+A resposta é revelada quando você testa
+cada afirmação. Se B fosse falsa, então
+A, C e D podem potencialmente ser
+falsas ou corretas. E se D estivesse
+incorreta, ambos B e C também
+deveriam estar incorretas.
 !******************************!
-Too bad!
+Que pena!
 
-Try running through a few possible answers.
+Tente raciocinar as poucas respostas
+possíveis.
 !******************************!
-Statements A and C are incorrect.
+As afirmações A e C estão incorretas.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n182.dat]
-<0185>Miscalculation
+<0185>Erro de Cálculo
 <00><00><00><00><11><01><16><B6><F6><03><02><FF>
-Mike has always been terrible at maths.
-He's asked to multiply #ra certain
-number#x by 9, then add 7, but instead
-he multiplies by 7 and adds 9.
+Mike sempre foi terrível em matemática.
+Pediram para ele multiplicar "um certo número
+por 9 e depois somar 7", mas em vez disso,
+ele multiplica por 7 e então soma por 9.
 
-He soon notices his error and, in a
-panic, tries the problem again. When he
-does the problem correctly, however,
-he ends up getting the same
-answer as he did the first time.
+Ele depois percebe seu erro e, em pânico,
+tenta o problema novamente. Quando ele
+faz o problema corretamente, entretanto,
+acaba conseguindo o mesmo resultado
+que ele fez pela primeira vez.
 
-What is this #rcertain number#x?
+Qual "certo número" é esse?
 !******************************!
-Well done!
+Muito bem!
 
-The number is one.
+O número é o um.
 
-If you do the maths, it all works out.
+Se você fizer os cálculos, irá
+funcionar.
 !******************************!
-Too bad!
+Que pena!
 
-The answer doesn't add up.
+A resposta não funciona.
 !******************************!
-Try creating an equation.
+Tente criar uma equação.
 
-Then again, you might just be able to
-use intuition to guess the answer...
+Mas você pode usar sua intuição para
+descobrir a resposta...
 !******************************!
 
 !******************************!
 
 !******************************!
 [n183.dat]
-<0186>Three Ladies
+<0186>Três Senhoritas
 <00><00><00><00><51><01><1A><B7><00><04><02><FF>
-Can you work out the names of each of
-these three ladies?
-A :<''>The woman next to me is Judy.<''>
-B: <''>I'm Ellie. Pleasure to meet you!<''>
-C: <''>The woman next to me? Her name's Anna.<''>
+Você consegue descobrir o nome de cada
+uma dessas três senhoritas?
+A :<''>Esta mulher próxima de mim é a Judy.<''>
+B: <''>Eu sou a Ellie. Prazer em conhecê-lo!<''>
+C: <''>Esta mulher próxima de mim? É a Anna.<''>
 
-Keep track of what each lady said to help
-you deduce their names. There's a catch,
-though. While Judy is always truthful,
-Ellie occasionally lies and Anna tells
-fibs every chance she gets.
-Arrange the nameplates at the bottom of
-the screen so that each plate correctly
-labels its owner.
+Lembre-se do que cada senhorita disse para
+te ajudar na dedução de nomes. Há uma
+pegadinha nisso: enquanto a Judy sempre
+é sincera, Ellie mente às vezes e a
+Anna graceja sempre que pode.
+Organize os nomes na parte de baixo da
+tela para que então as placas digam
+corretamente o nome de cada uma delas.
 !******************************!
-That's right!
+Está certo!
 
-A is Ellie, B is Anna and C is Judy.
+A é a Ellie, B é a Anna e C é a Judy.
 
-A says that B is Judy, so you know that
-A can't be our honest friend Judy.
-B claims to be Ellie, so we know this
-person can't be Judy either.
+A diz que B é a Judy, então você já sabe
+que A não pode ser a nossa amiga honesta
+Judy. B alega ser Ellie, então sabemos que
+esta pessoa também não pode ser a Judy.
 
-Therefore, you know that C must be Judy,
-and if that's so, B must be Anna.
-With everyone else now identified, you
-can be sure that A is Ellie.
+Então, você sabe que C deve ser a Judy,
+e assim, B deve ser a Anna.
+Com as duas já identificadas, já
+pode ter certeza que A é a Ellie.
 !******************************!
-Too bad!
+Que pena!
 
-Think logically about the clues you've been
-given.
+Pense logicamente sobre as pistas
+que você recebeu.
 !******************************!
-The other two ladies keep talking about
-B. Who could she possibly be? Remember
-that Judy never lies.
+As outras duas senhoritas ficam falando
+sobre a B. Quem ela deve ser? Lembre-se
+que a Judy nunca mente.
 !******************************!
 
 !******************************!
@@ -2457,37 +2461,35 @@ that Judy never lies.
 
 !******************************!
 [n186.dat]
-<0189>The Lion's Escape
+<0189>A Fuga do Leão
 <00><00><00><00><11><01><05><BA><EB><03><02><FF>
+Um leão fugiu de sua jaula no zoológico.
+Parece que você, o tratador, esqueceu
+de trancar a jaula.
 
-A lion has escaped from its cage in the zoo.
-It appears that you, the zookeeper, forgot
-to lock the cage.
+Esse leão é uma espécie extremamente perigosa
+e você é a única pessoa restante no zoológico.
 
-This lion is an extremely ferocious specimen,
-and you are the only person left in the zoo.
-
-Circle the safest place to hide until help
-arrives.
- 
+Circule o local mais seguro de se esconder
+até a ajuda chegar.
 !******************************!
-Well done!
+Muito bem!
 
-You want to hide in the escaped lion's cage!
-Since you're the zookeeper, you can go in
-and lock the door.
+Você deveria se esconder na jaula do leão
+que fugiu! Já que você é o tratador,
+você pode ir lá e trancar a porta.
 
-As the lion is now running around the
-zoo, hiding inside the cage is your safest
-option! 
+Como o leão está correndo ao redor do
+zoológico, se esconder dentro da jaula
+dele é a melhor opção!
 !******************************!
-Too bad!
+Que pena!
 
-Try thinking about it a little bit more.
+Tente pensar um pouco mais sobre isso.
 !******************************!
-Don't look for a place where the lion
-won't find you. Instead, try looking for
-a place where the lion can't get you.
+Não procure um lugar onde o leão não
+possa te encontrar. Em vez disso, procure
+um lugar onde o leão não possa te pegar.
 !******************************!
 
 !******************************!
@@ -2509,155 +2511,153 @@ a place where the lion can't get you.
 
 !******************************!
 [n188.dat]
-<0191>Pattern Recognition
+<0191>Reconhecimento de Padrão
 <00><00><00><00><11><01><02><BC><E8><03><02><FF>
-Which pattern matches the one in the
-top-left corner? Is it A, B or C?
+Qual padrão combina com aquele do canto
+superior esquerdo? É o A, B ou C?
 
-The top-left pattern has had its contents
-flipped left to right and its colours
-inverted and changed to black and white.
+O padrão do superior esquerdo teve seus
+conteúdos invertidos da esquerda pra direita,
+suas cores trocadas e em preto e branco.
 !******************************!
-Good eye!
+Na mosca!
 
-The answer is B. The areas circled in A and C
-are different from the black-and-white
-pattern.
+A resposta é a B. As áreas circuladas
+em A e C são diferentes do padrão
+preto e branco.
 !******************************!
-Too bad!
+Que pena!
 
-Look very closely!
+Dê uma olhada mais de perto!
 !******************************!
-First try looking at the centres of the
-patterns.
+Primeiro, tente olhar para os centros
+dos padrões.
 
-The really hard part is the difference
-in the triangles around the edges.
-Look closely at the shades of grey!
-
-
+A parte realmente difícil é as
+diferenças dos triângulos nas bordas.
+Olhe atentamente para os tons de cinza!
 !******************************!
 
 !******************************!
 
 !******************************!
 [n189.dat]
-<0192>Suits in a Row
+<0192>Uma Fileira de Naipes
 <00><00><00><00><11><01><0A><BD><50><04><02><FF>
-Below are 16 cards. There are four cards
-from each suit: diamonds, clubs, spades and
-hearts. The cards are arranged in a 4 x 4
-grid as shown below, and three cards have
-already been put down.
+Abaixo há 16 cartas. Há quatro cartas de
+cada naipe: ouros, paus, espadas e copas.
+As cartas estão organizadas em uma tabela
+4 x 4 mostrada abaixo, e três cartas já
+foram postas.
 
-Arrange the remaining cards so that each
-vertical column, horizontal row and 
-#rdiagonal line#x of four cards contains one
-card from each suit. Touch a card to cycle
-through the suits.
+Organize as cartas restantes para que cada
+coluna vertical, linha horizontal e
+linha diagonal de quatro cartas possuam
+uma de cada naipe. Toque em uma carta
+para colocá-la em um espaço.
 !******************************!
-You did it!
+Você conseguiu!
 
-It may be hard to decide on your first
-moves but when you start to get it right,
-everything falls into place!
+Pode ser difícil escolher os primeiros
+movimentos, mas quando você começa a
+acertar, no final dá tudo certo!
 !******************************!
-Too bad!
+Que pena!
 
-You've probably overlooked something.
-Take a good look and try to work it out!
+Você provavelmente despercebeu alguma coisa.
+Dê uma boa olhada e tente fazer funcionar!
 !******************************!
-Start with the card above the club.
-Since there's a club below it, a heart
-diagonally above it and a spade to its
-right, it must be a diamond. The card to
-the left of this diamond has a diamond
-and a spade in the same row and a heart
-above it, so this card must be a club.
+Comece com a carta acima da de paus.
+Já que há uma de paus abaixo, uma de
+copas na diagonal e uma de espada na
+sua direita, deve ser ouro nesta. A
+carta na esquerda dessa tem uma de ouro
+e uma de espada na mesma linha e uma
+de copas acima dela, então será paus.
 
-Three of the four cards in the second
-row are now in position, so you know the
-last one must be a heart. Proceed in this
-manner and work out all the cards!
+Três de quatro cartas da segunda fileira
+estão em posição, então deve saber que
+a última deve ser copas. Prossiga com
+esta maneira e termine a tabela!
 !******************************!
 
 !******************************!
 
 !******************************!
 [n190.dat]
-<0193>The Cleaning Robot
+<0193>O Robô de Limpeza
 <00><00><00><00><11><01><05><BE><EB><03><02><FF>
-Scientists in a research lab have built a
-robot to clean the long corridors. Because
-the robot isn't quite complete yet, it can
-be programmed to turn only right or only
-left. The specific corners where it turns
-can also be programmed.
+Uns cientistas de um laboratório de pesquisa
+construíram um robô capaz de limpar longos
+corredores. Por causa do robô ainda não
+estar completo, foi programado para virar
+ou só pra esquerda ou só pra direita. Nos
+cruzamentos também pode ser controlado.
 
-The scientists want to give the robot a
-route so that it cleans every part of the
-hallway, but doesn't clean any part of the
-hallway twice. From which point should they
-start the robot? Choose from A-E and
-circle your answer. The robot can move
-through intersections twice.
+Os cientistas querem dar ao robô uma rota
+que limpe todas as partes do corredor,
+mas sem limpar nenhuma parte duas vezes.
+De qual ponto o robô deveria começar?
+Escolha de A-E e circule sua resposta.
+O robô pode passar por interseções
+duas vezes.
 !******************************!
-Affirmative!
+Afirmativo!
 
-The robot starts from point E and should be
-programmed to turn only right. It could also
-be programmed for left-only turns if it
-starts at the end of the route shown here.
-However you program it, it sounds like a
-difficult robot to use! 
+O robô deveria começar pelo ponto E e ser
+programado para virar apenas para direita.
+Também pode ser só para a esquerda se começar
+no fim da rota demonstrada aqui. Seja lá
+o que você escolher, ainda é um robô
+difícil de usar!
 !******************************!
-Too bad!
+Que pena!
 
-Starting from there won't do the trick.
+Começar por lá não fará o truque.
 !******************************!
-You should try as many routes as
-possible. If you really can't work it
-out, there's one place that's a little
-different from the others.
+Você deveria tentar o máximo de rotas
+possíveis. Se você realmente não consegue
+descobrir, há um único lugar diferente
+dos outros.
 
-That's the spot!
+É esta a resposta!
 !******************************!
 
 !******************************!
 
 !******************************!
 [n191.dat]
-<0194>Cracking the Code
+<0194>Burlando o Código
 <00><00><00><00><11><01><0A><BF><53><04><02><FF>
-Find the four-digit code that opens this
-safe. You can use the digits 0 to 5 in your
-answer, but each digit can only be used
-once. The small lights next to each row of
-digits are the key to finding the code, as
-they tell you how much in common that row
-has with the code. A white light indicates a
-digit that is in the code but in a different
-place in the sequence. An orange light
-indicates a digit that is in the code and in
-the correct spot. Touch the digits at the
-bottom of the screen to change them, then
-touch #rSubmit#x when you have your answer.
+Descubra o código de quatro dígitos que abre
+esse cofre. Você pode usar os dígitos de 0
+a 5 em sua resposta, mas cada dígito pode ser
+usado apenas uma vez. As luzinhas em cada
+fileira de dígitos são a chave para descobrir
+o código, já que dizem quantos números em
+comum aquela fileira tem com o código. A luz
+branca indica que um dígito está no código, mas
+na posição errada. Uma luz laranja indica que
+o código está no local correto. Toque nos
+dígitos na tela de baixo para mudá-los, e
+toque em #rSubmit#x quando quiser enviar
+sua resposta.
 !******************************!
-You cracked it!
+Você arrebentou!
 
-This was a rather hard puzzle, but it's
-fun when your guesses start to work out.
+Foi um enigma difícil, mas é divertido
+quando seus palpites começam a funcionar.
 !******************************!
-Too bad!
+Que pena!
 
-This one is pretty tough...
+Esse aí é bem complicado...
 !******************************!
-From the lights next to the third row,
-you can tell that the four digits in the
-code are 3102. Finding the correct order
-is just a matter of checking the other
-rows, though some educated guessing
-might work just as well.
+Sobre as luzes da terceira fileira, dá
+pra dizer que os quatro dígitos do código
+são 3102. Descobrir a ordem correta é
+só uma questão de checar as outras
+fileiras, embora com um pouco de
+conjeturas também possa funcionar.
 !******************************!
 
 !******************************!
@@ -2694,35 +2694,36 @@ might work just as well.
 
 !******************************!
 [n194.dat]
-<0197>Crazy Dice
+<0197>Dados Malucos
 <00><00><00><00><11><01><16><C2><F6><03><02><FF>
-There are two dice, A and B. The pictures
-show each die from two different angles.
-Maybe the dice maker was up to no good,
-but the dots on each face are all completely
-random. You can see all the faces here, so
-if you were to roll both dice, the highest
-total you could get would be nine. 
+Há dois dados, A e B. As imagens mostram
+cada dado com dois ângulos diferentes.
+Talvez o criador estava planejando algo,
+mas os pontos de cada face estão
+completamente aleatórios. Você consegue
+ver todas as faces aqui, então se rolasse
+os dois dados, o maior número que você
+conseguiria seria nove.
 
-Knowing this, what is the lowest number
-you could get? Remember, only the numbers
-visible on the sides facing up count.
+Sabendo disso, qual é o menor número que
+dá pra tirar? Lembre-se, apenas os números
+visíveis do lado de cima contam.
 
 !******************************!
-That's right!
+Está certo!
 
-The dice don't have to be lined up like they
-are in the picture. If you position the dice
-like the picture shown here, you get the
-lowest possible number: one. Of course, it's
-not likely anyone would ever roll this
-configuration naturally...
+Os dados não precisam estar alinhados igual
+na imagem. Mas se você posicionar os dados
+igual na imagem mostrada aqui, conseguirá
+o menor número possível: Um! Claro, é pouco
+provável que alguém conseguiria rolar
+e conseguir fazer isso naturalmente...
 !******************************!
-Too bad!
+Que pena!
 
-Try thinking of some more possibilities...
+Tente pensar em mais possibilidades...
 !******************************!
-This puzzle is...a bit mean.
+Este enigma é... meio malvado.
 !******************************!
 
 !******************************!
@@ -2774,60 +2775,60 @@ This puzzle is...a bit mean.
 
 !******************************!
 [n198.dat]
-<0201>Number Tiles
+<0201>Blocos Numerados
 <00><00><00><00><11><01><12><C6><F8><03><02><FF>
-Rearrange the three tiles so that they
-display a number divisible by 43.
+Reorganize os três blocos para que então
+eles mostrem um número divisível por 43.
 !******************************!
-Sharp thinking!
+Bem afiado!
 
-Once you notice that the six can be turned
-upside down to form a nine, you can make
-129.
+Assim que perceber que o seis pode ficar
+de cabeça pra baixo pra formar um nove,
+você pode fazer o 129.
 !******************************!
-Too bad!
+Que pena!
 
-That's not divisible by 43!
+Isso não é divisível por 43!
 !******************************!
-Try handling the tiles in different ways.
-Maybe you'll notice something.
+Mexa nos blocos de modos diferentes.
+Talvez você perceberá algo.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n199.dat]
-<0202>The Bus's Route
+<0202>A Rota do Ônibus
 <00><00><00><00><11><01><09><C7><EF><03><02><FF>
-A very large bus approaches a town.
-Since the streets of this town are so
-narrow, the bus can only turn at corners
-where there are no buildings and only
-in the direction the corner allows.
+Um ônibus bem largo se aproxima da cidade
+Já que as ruas desta cidade são bem
+estreitas, o ônibus só pode virar nas
+esquinas onde não há prédios e só
+na direção que a esquina permitir.
 
-The bus arrives from the south, so can you
-find the shortest route for the bus if it
-wants to exit to the east? Trace a line
-from the starting point to the goal.
+O ônibus chega do sul, então você consegue
+descobrir a menor rota pro ônibus se ele
+quiser sair para o leste? Trace uma linha
+do ponto inicial para o objetivo.
 !******************************!
-Great!
+Ótimo!
 
-Following the rules of the puzzle, the route
-in map A is the quickest route.
+Seguindo as regras do enigma, a rota no
+mapa A é a mais rápida.
 
-However, under ordinary circumstances, the
-bus can also go in reverse, so if it drove
-forwards, as in map B, reversed around the
-corner and then exited, that would actually
-be the quickest.
+Entretanto, sob circunstâncias normais, o
+ônibus poderia dar a marcha ré, então se
+dirigisse pra frente, como no mapa B, desse
+a ré na esquina e então saísse, seria a
+real rota mais rápida.
 !******************************!
-Too bad!
+Que pena!
 
-Try a different route.
+Tente uma rota diferente.
 !******************************!
-Drive until you hit a wall, then turn
-right. Keep going until you hit a wall...
-Then it's up to you to puzzle out.
+Dirija até você acertar uma parede, então
+vire para a direita. Continue até acertar
+outra parede... O resto é com você.
 !******************************!
 
 !******************************!
@@ -2879,183 +2880,186 @@ Then it's up to you to puzzle out.
 
 !******************************!
 [n203.dat]
-<0138>The Elysian Box
+<0138>A Caixa Elísia
 <00><3C><36><30><12><81><12><CB><55><04><04><FF>
-<''>The sun rises when you and I meet, and
-when the wind blows, you will know my heart.<''>
+<''>O sol irá se pôr quando você e eu nos
+encontrarmos e quando o vento soprar,
+você conhecerá meu coração.<''>
 
-These words are the key to opening the
-Elysian Box.
+Essas palavras são a chave para abrir
+a Caixa Elísia.
 
-It's up to you to find a way to open the box
-and solve the final puzzle of our story.
+Cabe a você achar uma maneira de abrir a
+caixa e resolver o enigma final dessa história.
 !******************************!
-Wonderful!
+Maravilhoso!
 
-What was the message that Anton left to his
-sweetheart all those years ago?
+Qual foi a mensagem que o Anton deixou
+para o seu amor por todos esses anos?
 
-The time has come to find out.
+Está na hora de descobrir.
 !******************************!
-Too bad!
+Que pena!
 
-Read over the words Anton told Luke again.
-They tell you everything you need to know.
+Leia o que o Anton disse para o Luke novamente.
+Já diz tudo o que você precisa saber.
 !******************************!
-<''>When you and I meet...<''>
+<''>Quando você e eu nos encontrarmos...<''>
 
-The two figures set into the box are
-facing away from each other. Perhaps
-there's some way to turn them around.
+As duas pessoas nesta caixa estão de
+costas uma da outra. Talvez tenha
+algum jeito de fazê-las virarem.
 !******************************!
-<''>The sun rises...<''>
+<''>O sol irá se pôr...<''>
 
-The sun here is located very low on the
-box. Once those two figures face each
-other, you should be able to raise it
-high into the sky.
+O sol aqui está bem abaixo da caixa.
+Assim que as duas pessoas se encararem,
+você deverá ser capaz de levá-lo para
+o céu.
 !******************************!
-<''>And when the wind blows...<''>
+<''>E quando o vento soprar...<''>
 
-As you've probably seen, when the sun
-is raised high, a small hole appears.
-It seems the next thing you need to do
-is get a breeze to pass through that
-opening.
+E como você deve ter percebido, quando
+o sol está no alto, um buraquinho
+apareceu. Parece que a próxima coisa
+que você precisa fazer é deixar uma
+brisa passar por esta abertura.
 
-Don't bother using your stylus for this
-one. Instead, use your own breath to 
-summon up a gust strong enough to make
-the sun shake.
+Não se incomode em usar sua caneta
+agora. Em vez disso, use seu próprio
+fôlego para invocar um vento forte o
+bastante para o sol se mexer.
 !******************************!
 [n204.dat]
-<0133>Grab the Key
+<0133>Pegue a Chave
 <00><3C><36><30><01><54><19><CC><FF><03><04><47>
-The key to the door is sitting behind some
-blocks. Slide the key out towards the
-professor's hand so that the two can make
-their escape!
+A chave para a porta está presa atrás
+de uns blocos. Deslize a chave para a mão
+do professor para que então os dois possam
+fugir!
 !******************************!
-Great work!
+Ótimo trabalho!
 
-Now Luke and Professor Layton can finally
-leave the room!
+Agora o Luke e o Professor Layton podem
+finalmente sair dessa sala!
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-Before you start moving things around,
-focus on what you need to accomplish
-first.
+Antes que você comece a mover as coisas
+por aí, foque no que se precisa
+conseguir primeiro.
 
-Start by finding a way to get the yellow
-block at the bottom into the hole
-currently occupied by the key.
-
-
-!******************************!
-If you feel like you're stuck, you might
-find it easier to just start over.
-
-At the beginning, move the yellow block
-into the slot near the professor's hand.
-Next, take the square block on the right
-and move it to the left. After that, you
-need to find some way of moving that
-yellow block into the top-right area
-of the puzzle.
+Comece descobrindo um jeito de levar
+o bloco amarelo de baixo para o
+buraco atualmente ocupado pela chave.
 
 
 !******************************!
-Once you've completed everything in
-Hint 2, you should be able to swap the
-key for that yellow block. Once you've
-put that yellow block in the slot the key
-was in, just shift all the other blocks
-and the key in one direction until the
-key is positioned at the bottom by
-the slot.
+Se você se sentir preso, pode ser
+mais fácil começar tudo de novo.
+
+No começo, mova o bloco amareço para o
+espaço próximo da mão do professor.
+Depois, leve o bloco quadrado da direita
+e mova-o para a esquerda. Após isso,
+você precisará encontrar um jeito de
+mover aquele bloco amarelo para a área
+superiora direita desse enigma.
+
+
+!******************************!
+Assim que completar tudo da Dica 2,
+você deverá ser capaz de trocar a
+chave pelo bloco amarelo. Assim que
+pôr esse bloco amarelo no espaço que
+a chave estava, apenas deslize todos
+os outros blocos e a chave em uma
+direção até que a chave esteja
+posicionada no espaço de baixo.
 !******************************!
 [n205.dat]
-<0135>The Magic Lock
+<0135>A Tranca Mágica
 <00><32><2D><28><11><58><1A><CD><00><04><04><FF>
-It seems that the lock here is some sort of
-magic square. In order to solve it, position
-the remaining numbers so that each string
-of four vertical, horizontal and diagonal
-numbers adds up to the same total.
+Parece que a tranca aqui é algum tipo de
+quadrado mágico. Para conseguir resolvê-lo,
+posicione os números restantes para que
+cada linha vertical, horizontal e diagonal
+com quatro números dê a mesma soma total.
 
-Solve the magic square to open the hatch!
+Resolva o quadrado mágico e abra a escotilha!
 !******************************!
-Very nice!
+Muito legal!
 
-Each horizontal, vertical and diagonal line
-of four tiles adds up to 18 when placed in
-the correct positions.
+Cada linha vertical, horizontal e diagonal
+de quatro números somam 18 quando postos
+nas posições corretas.
 
-Now, onward to freedom!
+Agora, rumo à liberdade!
 !******************************!
-Too bad!
+Que pena!
 
-At least one string of four numbers isn't
-adding up to the same total as all the
-others.
+Pelo menos uma linha de quatro números
+não está somando ao mesmo total de
+todas as outras.
 !******************************!
-You're out to make each horizontal,
-vertical and diagonal line of four
-numbers equal the same number, so first
-you need to find that number.
+Você tem que fazer cada linha horizontal,
+vertical e diagonal de quatro números
+com o mesmo resultado, então você precisa
+descobrir esse resultado primeiro.
 
-The total is there for you to find, so
-just examine the square until you see it.
+O total está lá para você descobrir,
+então examine o quadrado até vê-lo.
 !******************************!
-One diagonal string of numbers appears
-to be in place already. The numbers
-within it add up to 18.
+Uma linha em diagonal já parece estar
+em lugar. Os números dela somando
+dão 18.
 !******************************!
-Now that you know each string of
-numbers needs to add up to 18, all you
-need to do is fill in the blank spaces
-with the correct tiles. As you start
-filling in spaces on the square, you'll
-be left with fewer and fewer squares
-to work with.
+Agora que você sabe que cada linha de
+números precisa dar 18, tudo o que se
+precisa fazer é encher os espaços
+vazios com os números corretos. Assim
+que começar a encher os espaços no
+quadrado, você terá cada vez menos
+espaços pra lidar.
 
-Lay down a line, make sure it totals 18
-and then keep on working with what
-you've got. You'll make your way to the
-solution sooner or later.
+Preencha uma linha, tenha certeza que
+totaliza 18 e continue trabalhando com
+o que você conseguiu. Você chegará
+na solução mais cedo ou mais tarde.
 !******************************!
 [n206.dat]
-<0000>A Curious Present
+<0000>Um Presente Misterioso
 <00><00><00><00><01><01><19><CE><FF><03><02><FF>
-If you're playing this puzzle right now,
-you've probably taken at least one trip to
-the village of St Mystere with Luke and
-the professor.
+Se está jogando esse enigma agora, então
+você provavelmente já viajou pelo menos
+uma vez para a vila de St Mystere com o
+Luke e o Professor.
 
-This puzzle is a gift from the residents of
-St Mystere. Unscramble the puzzle to reveal
-a picture of Professor Layton and Luke
-from their first adventure!
+Este enigma é um presente dos residentes
+de St Mystere. Desembaralhe este enigma
+para revelar um retrato do Professor
+Layton e do Luke na primeira aventura
+deles!
 !******************************!
-Well done!
+Muito bem!
 
-We hope you have a wonderful time playing
-through the rest of Professor Layton and
-Pandora's Box.
+Esperamos que você tenha um tempo
+maravilhoso jogando o resto do 
+Professor Layton e a Caixa de Pandora.
 !******************************!
-Too bad!
+Que pena!
 
-Don't give up! Keep at the puzzle and
-you'll solve it before long.
+Não desista! Continue neste enigma
+e você irá resolvê-lo logo, logo.
 !******************************!
-This puzzle is a variation on the classic
-15-piece slide puzzle you may have seen
-at your local toy shop.
+Este enigma é uma variação do clássico
+quebra-cabeça de deslizar de 15 peças
+que você já deve ter visto em uma loja
+de brinquedos.
 
-It's not a particularly difficult version
-of the puzzle, so relax, take your time
-with it...and have fun!
+Não é uma versão particularmente
+difícil deste enigma, então relaxe,
+vá com calma... e divirta-se!
 !******************************!
 
 !******************************!

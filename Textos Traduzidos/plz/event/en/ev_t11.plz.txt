@@ -22,22 +22,22 @@ juntar suas coisas e trancar
 sua mala antes de saírmos por aí?
 !******************************!
 [t11_045_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:84>Lembre-se, Luke, que estamos atrás
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:84>Luke, não esqueça que estamos atrás
 da Caixa Elísia, então não vá se
 perder por aí.
 !******************************!
 [t11_045_200.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:100>Não precisa dizer duas vezes,
 Professor.<W> Então, por que não
-começamos investigando o trem?
+começamos explorando o trem?
 !******************************!
 [t11_050_100.gds]
 <01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:160>Ouvi dizer que as cabines da dianteira
 do trem são tão luxuosas a ponto das
 maçanetas serem feitas de ouro!<W>
 !------------------------------!
-Mas ninguém pode entrar lá, exceto
-pessoas REALMENTE ricas.
+Mas ninguém pode entrar lá,
+exceto pessoas MUITO ricas.
 !******************************!
 [t11_050_200.gds]
 <01:00000024><03:10>b2 normal<03:5>NONE<01:00000003><03:101>Então, senhores, vocês são REALMENTE
@@ -243,7 +243,7 @@ nem um pouco sujas!
 [t11_100_500.gds]
 <01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:206>Diga o que quiser, baixinho, mas
 não muda o fato de que sou eu quem
-está no comando desta cozinha.<W>
+manda nesta cozinha.<W>
 !------------------------------!
 Você parou para pensar no que
 poderia acontecer se germes nojentos
@@ -1273,9 +1273,9 @@ apaixonados solucionadores de enigmas
 como vocês. Vamos ser amigos, né?
 !******************************!
 [t11_430_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:112>Céus, essa mulher é o exato
-tipo de pessoa que eu esperaria
-ver no Molentary Express.<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:112>Céus, essa mulher é o tipo
+de pessoa que eu esperaria ver
+no Molentary Express.<W>
 !------------------------------!
 Falando sobre riquezas e futilidades!
 !******************************!
@@ -1284,12 +1284,12 @@ Falando sobre riquezas e futilidades!
 de pessoas afortunadas, como essa
 mulher que acabamos de conhecer.<W>
 !------------------------------!
-Precisamos cuidar nossas palavras
-aqui. Uma ocasião formal exige
-formalidades, não acha?
+Precisamos cuidar as nossas
+palavras aqui. Uma ocasião formal
+exige formalidades, não acha?
 !******************************!
 [t11_430_300.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:23>Absolutamente, Professor!
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:23>Com certeza, Professor!
 !******************************!
 [t11_440_100.gds]
 <01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:152>Céus, não precisa me olhar com

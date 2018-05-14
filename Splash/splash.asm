@@ -1,6 +1,6 @@
 .nds
 
-.open "arm9_original.bin", "arm9.bin",0x2000000
+.open "arm9_original.bin", "arm9_splash.bin",0x2000000
 .arm
 
 .org 0x2000bb4      ; Desliga a compressão do arm9.bin

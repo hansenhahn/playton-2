@@ -392,7 +392,7 @@ visit the train's observation deck.
 !******************************!
 [next_5.txt]
 Luke deve encontrar as chaves do
-carro do professor. Encontre elas
+carro do professor. Encontre-as
 tocando as gavetas da escrivaninha!
 !******************************!
 [next_50.txt]
@@ -579,7 +579,7 @@ hamster "%s".
 [tx_216.txt]
 Você encontrou uma fotografia
 rasgada, mas o Inspetor Chelmey
-confiscou-a!
+ficou com ela!
 !******************************!
 [tx_217.txt]
 Flora is now travelling with

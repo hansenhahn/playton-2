@@ -42,9 +42,9 @@ uma teoria, ainda que não seja capaz
 de prová-la.
 !******************************!
 [t10_030_502.gds]
-<01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:290>Minha intenção inicial era
-finalizar minhas pesquisas antes de
-me atrever a abrir seu conteúdo.<W>
+<01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:290>Minha intenção inicial era finalizar
+minhas pesquisas antes de me atrever
+a abrir seu conteúdo.<W>
 !------------------------------!
 Mas confesso que minha curiosidade
 é simplesmente incontrolável.<W>
@@ -110,7 +110,7 @@ canto inferior direito.
 !******************************!
 [t10_035_500.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:84>Então toco uma das pequenas
-flechas que aparecerão para seguir
+flechas que aparecerão pra seguir
 naquela direção.
 !******************************!
 [t10_035_600.gds]
@@ -203,7 +203,7 @@ informações úteis. Escute o que
 tenho a lhe dizer, companheiro.
 !******************************!
 [t10_080_100.gds]
-<01:0000002E><03:5>NONE<03:5>NONE<01:00000002><03:471>Brilhante! Isto que você achou é
+<01:0000002E><03:5>NONE<03:5>NONE<01:00000002><03:471>Brilhante! Isso que você achou é
 uma moeda de dica.<W>
 !------------------------------!
 Já se sentiu alguma vez travado

@@ -7,8 +7,8 @@ Algum tempo atrás, durante uma de
 suas visitas, ele teve a bondade de
 deixar este mapa para a sua casa.<W>
 !------------------------------!
-O mapa, contudo, é um pedaço de
-cartografia bastante incomum.<W>
+O mapa, contudo, representa a cidade
+de uma maneira bastante incomum.<W>
 Olhe aqui, Luke.
 !******************************!
 [t20_000_200.gds]
@@ -36,9 +36,8 @@ que parece...
 Dr. Schrader.
 !******************************!
 [t20_010_1000.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Luke, não vê? O doutor
-deixou mais um enigma para
-resolvermos.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Luke, não vê? O doutor deixou
+mais um enigma para resolvermos.
 !******************************!
 [t20_010_200.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:90>Dr. Schrader? Está em casa?<W>
@@ -67,8 +66,7 @@ entrarmos sem a chave!
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:129>Ah, é claro! Como pude ter esquecido?<W>
 !------------------------------!
 Estas chaves estavam dentro do
-envelope, junto à carta do
-doutor.
+envelope, junto à carta do doutor.
 !******************************!
 [t20_010_800.gds]
 <01:00000002><03:9>b4 laugh<03:5>NONE<01:00000003><03:48>Rápido, Professor, deixe-me
@@ -108,9 +106,8 @@ Podem sair da frente?
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:15>Certamente.
 !******************************!
 [t20_020_1300.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:67>Luke, nenhuma palavra sobre
-aquele bilhete para as autoridades,
-combinado?
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:67>Luke, nenhuma palavra sobre aquele
+bilhete para as autoridades, combinado?
 !******************************!
 [t20_020_1400.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:23>Pode deixar, Professor.
@@ -130,9 +127,9 @@ entramos.
 pra este apartamento no oitavo andar,
 estava bem trancada.<W>
 !------------------------------!
-Então o doutor estava trancado aqui
-dentro, completamente à parte do
-mundo lá fora, certo?
+Então o doutor estava trancado
+aqui dentro, completamente à parte
+do mundo lá fora, certo?
 !******************************!
 [t20_020_1750.gds]
 <01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:102>Sendo este o caso... Humm... Sim, tenho
@@ -185,10 +182,10 @@ achar que pode fazer meu trabalho.<W>
 !------------------------------!
 Agora, de volta ao que estava dizendo,
 a causa da morte é ataque cardíaco,
-ponto final. E aqui está o motivo.
+ponto final. E ali está o motivo.
 !******************************!
 [t20_020_2600.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:75>Isto?<W> É um modelo em miniatura
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:75>Aquilo?<W> É um modelo em miniatura
 de um Kronossauro, se não estou
 enganado.
 !******************************!
@@ -286,15 +283,14 @@ Tire suas mãos desse... dessa...<W>
 O que é isso, afinal?<W>
 !------------------------------!
 Hmph, não que importe. Eu vou ficar
-com isto. Agora, pra rua, vocês dois!
+com isso. Agora, pra rua, vocês dois!
 !******************************!
 [t20_023_1100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:30>Ahh! Mas nós não terminamos!
 !******************************!
 [t20_023_200.gds]
-<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:78>Hmph! Sim, falta. Mas o que isso
-tem a ver com a minha cena de
-crime?
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:78>Hmph! Sim, falta. Mas o que isso tem
+a ver com a minha cena de crime?
 !******************************!
 [t20_023_300.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:94>Significa que alguém deixou o prédio
@@ -344,7 +340,7 @@ que vai encontrar.
 ao prédio do doutor.
 !******************************!
 [t20_030_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:23>Mas qual apartamento é o dele?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:23>Mas qual é o apartamento dele?
 !******************************!
 [t20_030_300.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:126>Temo não saber isso.<W>

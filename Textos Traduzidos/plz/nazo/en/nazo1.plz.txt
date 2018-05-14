@@ -342,27 +342,26 @@ cada imagem.
 [n16.dat]
 <0017>A Jornada da Formiga
 <00><19><16><13><12><08><09><10><EF><03><02><FF>
-Essas formigas trabalham incansavelmente
-para levar comida aos seus ninhos. Uma
-dessas formigas estava voltando com comida
-quando esbarrou com um conhecido em frente
-ao ninho.
+Essas formigas trabalham duro para levar
+comida ao seu ninho. Uma dessas formigas
+voltava com açucar quando esbarrou com
+uma conhecida em frente ao ninho.
 
-<''>O que está fazendo? Você não percebeu que
-pegou #ro caminho de volta mais longo possível#x?
-Preste atenção aonde vai da próxima vez!<''>
+<''>O que deu em você? Não percebeu que voltou
+pelo #rcaminho mais longo possível#x? Preste
+atenção aonde vai da próxima vez!<''>
 
-Você pode traçar o caminho que a formiga
-tomou, sabendo que ela nunca percorreu o
-mesmo caminho duas vezes?
+Você consegue traçar o caminho que a
+formiga tomou, sabendo que ela nunca
+percorreu o mesmo caminho duas vezes?
 !******************************!
-Isso aí!
+É isso mesmo!
 
-Talvez todo esse peso tenha feito a
-formiguinha se distrair e errar o caminho
-para casa. Se ao menos ela tivesse pensado
-no caminho que estava tomando, ela teria
-economizado uma baita caminhada!
+Talvez todo aquele trabalho impediu a
+formiguinha de pensar no caminho que ela
+deveria tomar. Se ela tivesse prestado
+atenção aonde ia, poderia ter se poupado
+de uma boa caminhada.
 !******************************!
 Que pena!
 
@@ -370,8 +369,8 @@ Preste atenção no enigma e tente
 novamente.
 !******************************!
 Quando for traçar uma rota de volta ao
-ninho, tente não passar pelo menor
-número de caminhos que você conseguir.
+ninho, procure passar pelo maior número
+de trechos possíveis.
 !******************************!
 Presumindo que o topo da tela seja o
 norte, siga para o sul do ponto de
@@ -740,74 +739,80 @@ termina em números ímpares, o vinagre
 sempre acaba na jarra do meio?
 !******************************!
 [n23.dat]
-<0024>A Tira de Papel
+<0024>Uma Tira de Papel
 <01><0A><09><08><11><09><16><17><F6><03><02><FF>
-Depois de tentar dobrar uma tira de papel
-no meio, você percebe que um dos lados
-é um centímetro maior que o outro. Determinado
-a fazer certo, você dobra a tira de novo, e descobre
-que agora é a outra ponta da tira que é um centímetro
-maior.
+Depois de dobrar uma tira de papel, você
+percebe que um dos lados é um centímetro
+maior que o outro. Determinado a fazer
+certo, você dobra a tira de novo e
+descobre que agora a outra ponta é um
+centímetro maior.
 
-Você fez duas dobras na tira. Qual é a distância em
-milímetros entre as duas dobras
+Você fez dois vincos na tira. Qual é a
+distância, em milímetros, entre os dois
+vincos?
 !******************************!
 Isso aí!
 
-A distância entre as dobras são de 1
-centímetro, ou 10 milímetros.
+A distância entre os vincos é de
+1 centímetro, ou 10 milímetros.
 
-Se está com problemas para visualizar,
+Se você está com problemas para visualizar,
 imagine que a caixa de fósforos mostrada
-acima tem a altura d um centímetro.
+acima tem a altura de 1 centímetro.
 
-Agora imagine que um dos lados da caixa de
-fósforos foi removida e que parece com sua tira
-de papel depois de ter sido dobrada duas vezes!
+Imagine que um dos lados da caixa de
+fósforos representa os vincos no papel e
+então verá que o excesso causado pelas
+dobraduras pode ser representado pelo
+lado oposto.
 !******************************!
 Que pena!
 
-Comece considerando onde a primeira dobra
-na tira de papel deve ser posicionada.
+Comece considerando onde o primeiro vinco
+na tira de papel deve ser posicionado.
 !******************************!
-Pense o quão mais longo uma das <''>metades<''> da
-tira era comparado ao outro depois da primeira 
-dobra.
+Pense no quanto maior uma das <''>metades<''>
+da tira era comparada à outra após a
+primeira dobra.
 !******************************!
-Lembre-se, está sendo pedido para responder em
+Lembre-se, a resposta deve ser em
 milímetros.
 !******************************!
-Considere a localização da primeira
-dobra. A segunda deve ter sido feita a
-um centímetro desta localização.
+Considere a localização do primeiro
+vinco. O segundo vinco deve ter sido 
+feito a 1 centímetro deste.
 
-Isso esclarece as coisas para você?
+Isso resolve as coisas para você?
 !******************************!
 [n24.dat]
 <0025>Natureza Selvagem
 <00><14><12><10><11><12><03><18><E9><03><02><FF>
 Depois de anos com os negócios indo mal,
 um zoológico finalmente ficou sem dinheiro
-para comprar comida aos seus animais. Com
-suas barrigas roncando de fome, os animais bolam
-um plano para escaparem de lá. Depois de forçar as
-barras enferrujadas de suas jaulas, todos tentam
-encontrar a saída por entre os caminhos confusos
-do zoológico.
+para comprar comida para seus animais. Com
+suas barrigas roncando de fome, os animais
+bolam um plano para escaparem de lá. Depois
+de forçar as barras enferrujadas de suas
+jaulas, todos tentam encontrar a saída por
+entre os caminhos confusos do zoológico.
 
-Toque a imagem de cada animal que você acha que
-conseguirá escapar com segurança do zoológico, depois
-toque em #rEnviar#x para responder. Mas lembre-se, na
-selva os animais mostram quem realmente são.
+Toque a imagem de cada animal que você acha
+que conseguirá escapar com segurança do
+zoológico, depois toque em #rEnviar#x.
+Lembre-se, é em situações como essa que os
+animais mostram sua verdadeira natureza.
 !******************************!
 Bem pensado!
 
-O único animal que conseguirá escapar com segurança
-é o leão. Enquanto ambos o leão e o coelho conseguem
-ir até o caminho que leva à saída, assim que o leão
-bater os olhos no coelho, é certeza que irá comê-lo.
+O único animal que conseguirá escapar com
+segurança é o leão. Tanto o leão, quanto
+o coelho, conseguem pegar o caminho que
+leva à saída, contudo, assim que o leão
+bater os olhos no coelho, é certeza que
+irá comê-lo.
 
-A natureza as vezes é cruel...
+A natureza às vezes é cruel...
 
 !******************************!
 Que pena!
@@ -816,50 +821,53 @@ Pense bem nas pistas que lhe foram dadas e
 tente novamente.
 !******************************!
 Para começar, tente traçar seu caminho
-com a caneta stylus.
+pelo labirinto com a caneta stylus.
 
-Aliás, esse truque pode já ser conhecido por
-você, mas geralmente é mais fácil traçar o seu
-caminho começando pela saída.
+Talvez voce já conheça este truque, mas
+caso tenha esquecido, é mais fácil traçar
+seu caminho começando pela saída.
 !******************************!
-Labirintos te deixam tonto? Economize tempo
-usando a função memo para marcar os caminhos
-sem saída.
+Labirintos lhe deixam tonto? Economize
+tempo usando a função Notas para marcar
+os caminhos sem saída.
 !******************************!
-Se já descobriu quais animais conseguem
-escapar, parabéns! Mas pense por um momento
-no título desse enigma. Todos os animas são livres
-assim que saem de suas jaulas. Mas lá fora ser uma selva.
-Só porque tem uma rota das jaulas dos animais até a saída,
-não significa que vão conseguir escapar com segurança.
+Se você já descobriu quais animais
+conseguem escapar, parabéns! Mas pense
+por um momento no título deste enigma.
+Todos os animais são livres assim que
+saem de suas jaulas, mas a vida lá fora
+pode ser perigosa. Só porque há uma rota
+das jaulas dos animais até a saída, não
+significa que todos vão conseguir escapar
+com segurança.
 !******************************!
 [n25.dat]
 <0026>Troca de Trens
 <00><19><16><13><11><14><19><19><FF><03><02><03>
-Troque as posições dos dois trens nos trilhos.
-Mova os vagões um de cada vez, tendo certeza
-que os números ao lado dos trilhos correspondem
-com os de cada vagão.
+Troque os trens de trilhos. Mova um vagão
+por vez e certifique-se que os números em
+cada vagão correspondam aos números ao
+lado do trilhos.
 !******************************!
 Isso aí!
 
-Agora apresse-se se volta ao trem! Já está
-mais atrasado do que deveria.
+Agora volte logo ao trem! Ele já está
+suficientemente atrasado!
 !******************************!
 
 !******************************!
-O primeiro passo é colocar os vagões do
-mais curto nos trilhos de cima.
+Comece colocando os vagões do trem
+menor nos trilhos de cima.
 !******************************!
 Mova o vagão vermelho #1 para o espaço
-do lado direito nos trilhos de cima. Depois
-mova todos os vagões verdes para os trilhos
-de baixo e você poderá mover o vagão vermelho #1
-até seu lugar designado.
+à direita nos trilhos de cima. Depois
+mova todos os vagões verdes para os
+trilhos debaixo, permitindo mover o vagão
+vermelho #1 ao seu lugar final.
 !******************************!
-Aplique o método da Dica 2 para
-mover os outros vagões e você terá
-os trens trocados em um instante.
+Use o método da Dica 2 com os outros
+vagões e você terá trocado os trens
+em um instante.
 !******************************!
 [n26.dat]
 <0027>A Dramatic Farewell

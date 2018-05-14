@@ -125,7 +125,7 @@ def insert(file = '2598 - Yggdra Union - We\'ll Never Fight Alone (U).gba'):
 		
 		# infile = tempfile.NamedTemporaryFile()
 		# data.tofile(infile.file)
-	infile = open('teste.bin', 'rb')
+	infile = open('teste_beta3.bin', 'rb')
 
 	sliding_window = array.array('c')
 	data_buffer = array.array('c')
