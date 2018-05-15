@@ -99,7 +99,7 @@ estavam esperando a bastante-
 [t21_013_500.gds]
 <01:0000000B><03:6>shout<03:5>NONE<01:00000002><03:101>Nem pensar! Nem mais uma palavra sobre
 isso! Você ia servir estas pessoas antes
-de nós? Isto é um insulto!
+de nós? Isso é um insulto!
 !******************************!
 [t21_013_600.gds]
 <01:0000000D><03:8>b1 weep<03:5>NONE<01:00000002><03:80>Sinto muito, madame. É que estes
@@ -155,7 +155,7 @@ estavam esperando a bastante-
 [t21_014_500.gds]
 <01:0000000B><03:6>shout<03:5>NONE<01:00000002><03:101>Nem pensar! Nem mais uma palavra sobre
 isso! Você ia servir estas pessoas antes
-de nós? Isto é um insulto!
+de nós? Isso é um insulto!
 !******************************!
 [t21_014_600.gds]
 <01:0000000D><03:8>b1 weep<03:5>NONE<01:00000002><03:78>Sinto muito, madame. É que estes
@@ -836,11 +836,12 @@ xícara de chá.<W> Ôôô tédio.
 !******************************!
 [t21_120_500.gds]
 <01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:103>Daqui a pouco acaba meu turno, sendo
-assim, me ajudaria a resolver este
-enigma pra passar o tempo?
+assim, não querem me ajudar a resolver
+este enigma pra passar o tempo?
 !******************************!
 [t21_121_100.gds]
-<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:51>Ah, oi. Quer ver de novo meu enigma?
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:51>Ah, oi. Querem ver de novo
+meu enigma?
 !******************************!
 [t21_122_100.gds]
 <01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:108>Céus, quase cai de tanto tédio.<W>
@@ -848,7 +849,7 @@ Esse emprego paga bem, mas é
 tão chato que chega a doer.
 !******************************!
 [t21_123_100.gds]
-<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:42>Uau, quanta inteligência, garoto.
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:42>Uau! Quanta inteligência, meninos.
 !******************************!
 [t21_123_200.gds]
 <01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:290>Então, nossa próxima parada é nessa
@@ -858,13 +859,13 @@ Tipo, não tem nada lá. Eu gostaria
 que parássemos em uma cidade grande
 de vez em quando.<W>
 !------------------------------!
-Mas não vai acontecer. As vezes você
-tem que aprender a conviver com essa
-chatice.
+Mas não vai acontecer. Às vezes
+temos que aprender a conviver com
+essa chatice.
 !******************************!
 [t21_124_100.gds]
-<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:62>Ah, não seja um estraga-prazeres.
-Tente outra vez.
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:62>Ah, não sejam estraga-prazeres.
+Tentem outra vez.
 !******************************!
 [t21_130_100.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:61>Olhe lá. Alguém largou um lixo

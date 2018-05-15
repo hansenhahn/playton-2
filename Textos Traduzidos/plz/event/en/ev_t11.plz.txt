@@ -136,18 +136,18 @@ irmos olhar por conta própria?
 que há para comer aqui!
 !******************************!
 [t11_100_1000.gds]
-<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:237>Ah droga, parece que meu segredo
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:237>Ah! Droga, parece que meu segredo
 foi revelado.<W>
 !------------------------------!
 Escutem, eu sei que é contra as
 regras manter animais na cozinha.<W>
-Mas... Ele é meu único amigo, sabe?<W>
+Mas... ele é meu único amigo, sabe?<W>
 !------------------------------!
-Peludo ou não, ele é a única pess...er,
+Peludo ou não, ele é a única pess... er,
 criatura que tenho para conversar aqui.
 !******************************!
 [t11_100_1100.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:88>Nossa, ele é...generosamente
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:88>Nossa, ele é... exageradamente
 grande, né?<W> Acredito que ele
 seja um hamster, certo?
 !******************************!
@@ -165,8 +165,8 @@ restos da comida dos pratos, o que acaba
 sendo uma dieta, err, bem calórica.<W>&setani 14 b2_weep&
 !------------------------------!
 Ele está bem fora de forma e, para ser
-honesto, fico pensando se isso não vai
-fazer mal à saúde dele...
+honesto, fico pensando se isso não está
+fazendo mal à sua saúde...
 !******************************!
 [t11_100_1400.gds]
 <01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:16>Pobre criaturinha!
@@ -177,22 +177,22 @@ a vocês?<W> Se importariam de cuidar do
 meu amigo por um tempinho?<W>
 !------------------------------!
 Quando ele está aqui, fico apenas
-alimentando-o. Só que o foie grass e
+alimentando-o. Só que o foie gras e
 as tortas vão engordá-lo ainda mais.
 !******************************!
 [t11_100_1700.gds]
-<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:195>Você está pedindo para cuidarmos
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:195>Você está pedindo pra cuidarmos
 e colocarmos ele em forma? Parece
-uma grande ideia para mim!<W>
+uma grande ideia pra mim!<W>
 !------------------------------!
 Err, quero dizer, o que você acha,
-Professor? Podemos, por favor,
-ficar com ele por um tempo?
+Professor? Podemos ficar com ele
+por um tempo?
 !******************************!
 [t11_100_1800.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:194>Bem, eu sempre disse que ajudar
 roedores em necessidade faz parte dos
-deveres de um verdadeiro cavalheiro.<W>
+deveres de um legítimo cavalheiro.<W>
 !------------------------------!
 Ficaremos felizes em termos
 a custódia deste hamster até
@@ -222,7 +222,7 @@ dar a ele esta maçã?<W> Ele vai amar.
 !******************************!
 [t11_100_2200.gds]
 <01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:63>Ah, vou sentir falta do meu amigo
-peludo! Por favor, cuidem dele!
+peludo! Por favor, cuidem bem dele!
 !******************************!
 [t11_100_2300.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:33>Não se preocupe, ele
@@ -266,12 +266,12 @@ amigo, o cozinheiro, tem mantido um
 animal na cozinha!<W>
 !------------------------------!
 Que atrevimento da parte dele dar
-uma aula para outras pessoas sobre
+uma aula pra outras pessoas sobre
 germes!
 !******************************!
 [t11_101_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:61>Certo, carinha, a partir de agora,
-onde quer que eu vá, você vai também.
+aonde quer que eu vá, você vai também.
 !******************************!
 [t11_101_200.gds]
 <01:00000054><03:5>NONE<03:5>NONE<01:00000003><03:24>Squeak?<W> Squee-Squeak!

@@ -540,9 +540,9 @@ As taças de vidro tem
 gravuras intrincadas.
 !******************************!
 [tobj36.txt]
-Com certeza, até o pão
-que colocaram aqui
-vale uma fortuna!
+Posso apostar que
+até o pão custa
+uma fortuna!
 !******************************!
 [tobj37.txt]
 Essas verduras tem uma
@@ -552,12 +552,12 @@ são de uma horta.
 [tobj38.txt]
 Consegue imaginar a
 quantidade de pratos que
-eles tem que preparar?
+eles têm que preparar?
 !******************************!
 [tobj39.txt]
-Há muita luz no resto
-do trem, mas aqui está
-escuro.
+Pra um trem tão bem
+iluminado, aqui está
+bastante escuro.
 !******************************!
 [tobj4.txt]
 Aparentemente, poltronas
