@@ -176,7 +176,7 @@ Agora, saia da nossa frente!
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:24>Mas que adorável mirante.
 !******************************!
 [t21_020_200.gds]
-<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:49>Uau, está ótimo aqui!
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:49>Uau! Está ótimo aqui!
 Que brisa mais fresca!
 !******************************!
 [t21_020_300.gds]
@@ -285,8 +285,9 @@ trabalho quintessencial do
 mundialmente renomado-
 !******************************!
 [t21_030_1400.gds]
-<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:85>Não ligo se a Rainha da Inglaterra
-pintou o quadro! Troque-o e seja rápido!
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:85>Não ligo se o quadro foi pintado
+pela Rainha da Inglaterra! Troque-o
+imediatamente!
 !******************************!
 [t21_030_1500.gds]
 <01:0000000D><03:8>b1 weep<03:5>NONE<01:00000002><03:67>C-certamente, senhor. Farei
@@ -298,7 +299,7 @@ mais cedo? Acho que nunca tinha visto
 alguém tão mandão.<W> E barulhento.
 !******************************!
 [t21_030_1700.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:105>Ele mesmo, Sr. Beluga.<W> É uma pena
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:105>Ele mesmo, o Sr. Beluga.<W> É uma pena
 que o quadro não fosse do seu agrado.
 Eu achei ele maravilhoso.
 !******************************!
@@ -313,8 +314,8 @@ Vamos lá dar uma olhada?
 !******************************!
 [t21_030_300.gds]
 <01:0000000D><03:9>b1 smile<03:5>NONE<01:00000002><03:93>Bem-vindos novamente, senhores. Minhas
-mais sinceras desculpas pela demora.
-Deixe-me mostrar seus lugares.
+sinceras desculpas pela demora. Deixe-me
+acompanhá-los aos seus lugares.
 !******************************!
 [t21_030_400.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:33>Ótimo! Finalmente vamos comer!
@@ -323,12 +324,12 @@ Deixe-me mostrar seus lugares.
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:25>Digo o mesmo.
 !******************************!
 [t21_030_600.gds]
-<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:69>Uau, olha só todas estas opções!
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:69>Uau! Olhe só todas estas opções!
 São tantas que fico tonto só de olhar!
 !******************************!
 [t21_030_700.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:65>Oh, olhe lá.<W> Parece estar acontecendo
-algum tipo de confusão.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:65>Oh! Olhe lá.<W> Parece que estão
+tendo uma discussão.
 !******************************!
 [t21_030_800.gds]
 <01:00000009><03:6>shout<03:5>NONE<01:00000002><03:103>Chama isso de alta gastronomia?<W>
@@ -363,12 +364,12 @@ enigmas a serem enviados à cabana.<W>
 !------------------------------!
 Se não aparecerem enigmas na próxima
 tela, então não há enigmas não resolvidos
-para enviar para lá no momento.
+a enviar para lá no momento.
 !******************************!
 [t21_034_100.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:82>Você ficaria chateado se déssemos
-uma pausa nos enigmas por agora?
-Ainda estou fazendo a digestão.
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:82>Você ficaria chateado se a gente desse
+uma pausa nos enigmas por um tempo?
+Ainda estou fazendo a digestão!
 !******************************!
 [t21_034_200.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:33>Humm. Você tem razão.
@@ -395,7 +396,7 @@ enigmas a serem enviados à cabana.<W>
 !------------------------------!
 Se não aparecerem enigmas na próxima
 tela, então não há enigmas não resolvidos
-para enviar para lá no momento.
+a enviar para lá no momento.
 !******************************!
 [t21_040_100.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:46>O que é aquilo? Parece que caiu algo ali.

@@ -132,8 +132,8 @@ parece levar à cozinha. Que tal
 irmos olhar por conta própria?
 !******************************!
 [t11_100_100.gds]
-<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:50>Uau, olha só a quantidade de coisas
-que há para comer aqui!
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:50>Uau! Olhe só a quantidade de coisas
+que há pra comer aqui!
 !******************************!
 [t11_100_1000.gds]
 <01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:237>Ah! Droga, parece que meu segredo
@@ -320,7 +320,7 @@ para colocar energia neste corpo!
 [t11_140_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:107>Impossível não concordar.<W> E não há modo
 melhor de fazer isso do que em um trem
-tão luxuoso como o seu, Sr. Beluga.
+tão luxuoso quanto o seu, Sr. Beluga.
 !******************************!
 [t11_140_300.gds]
 <01:00000009><03:10>b1 normal<03:5>NONE<01:00000002><03:33>Ahn? Então você sabe meu nome?
@@ -329,7 +329,8 @@ tão luxuoso como o seu, Sr. Beluga.
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:138>Claro que sim. Este trem e seu dono
 têm uma reputação louvável em Londres.<W>
 !------------------------------!
-Vi seu rosto nos jornais muitas vezes.
+Já vi seu rosto nos jornais
+muitas vezes.
 !******************************!
 [t11_140_500.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:83>É simplesmente incrível como
@@ -339,9 +340,9 @@ tão jovem.
 [t11_140_600.gds]
 <01:00000009><03:9>b1 laugh<03:5>NONE<01:00000002><03:115>Ho ho, então é isso?<W>
 !------------------------------!
-Sinto muito, er...meu amigo, mas não
-posso dizer que lhe conheço tão bem
-quanto você me conhece.
+Sinto muito, er... meu amigo, mas
+não posso dizer que o conheço tão
+bem quanto você me conhece.
 !******************************!
 [t11_140_700.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:210>Meu nome é Hershel Layton. Sou
@@ -353,9 +354,8 @@ deste trem, então decidi que era hora
 de conhecê-lo pessoalmente.
 !******************************!
 [t11_140_800.gds]
-<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:187>Bem, já é um começo. Certamente
-é um prazer conhecê-lo, Sr...Layton,
-certo?<W>
+<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:187>Bem, já é um começo. É um prazer
+conhecê-lo, Sr... Layton, certo?<W>
 !------------------------------!
 Oh céus, olhe que horas já são.
 Realmente tenho que ir. Aproveite
