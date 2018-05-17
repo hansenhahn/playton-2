@@ -15,7 +15,7 @@ Olhe aqui, Luke.
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:134>Ah, genial! O mapa em si é um enigma!<W>
 !------------------------------!
 Professor, se importaria de deixar
-este comigo?<W> Tenho certeza que
+este comigo?<W> Tenho certeza de que
 posso resolvê-lo!
 !******************************!
 [t20_001_100.gds]
@@ -209,7 +209,7 @@ entender isso, garoto.
 !******************************!
 [t20_020_300.gds]
 <01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:93>Sinto muito, senhor! Não era minha
-intenção! Tinha certeza que estávamos
+intenção! Tinha certeza de que estávamos
 com outro impostor em nossas mãos.
 !******************************!
 [t20_020_3000.gds]
@@ -241,8 +241,9 @@ estranho?
 <01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:29>O que quer dizer, Professor?
 !******************************!
 [t20_020_3600.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:62>Preste atenção a sua volta, Luke.
-Tenho certeza que também consegue ver.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:62>Preste atenção a sua volta,
+Luke. Tenho certeza de que também
+consegue ver.
 !******************************!
 [t20_020_400.gds]
 <01:00000006><03:6>shout<03:10>b1 normal<01:00000001><03:98>Sobre o que esta criança está

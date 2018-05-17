@@ -419,12 +419,12 @@ bonés, por acaso já ouviu esse,
 Professor?
 !******************************!
 [t21_043_100.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:51>Caramba! Jurei que não
-fosse conhecer este.
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:51>Caramba! Jurei que não fosse
+conhecer este.
 !******************************!
 [t21_043_200.gds]
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:98>Melhor sorte da próxima vez, Luke.
-Agora,vamos retornar às buscas desse
+Agora, vamos retornar às buscas desse
 menino perdido.
 !******************************!
 [t21_043_300.gds]
@@ -696,9 +696,9 @@ o açucar do Molentary Express é
 de primeira classe?
 !******************************!
 [t21_083_300.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:60>Ha ha, tenho certeza que estas
-formigas são genuínas apreciadoras
-de açucar.
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:60>Ha ha, tenho certeza de que
+estas formigas são verdadeiras
+apreciadoras de açucar.
 !******************************!
 [t21_084_100.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:33>Pense melhor, Luke.
@@ -722,7 +722,7 @@ Aqui, vou contar um enigma pra
 que relaxe um pouco.
 !******************************!
 [t21_091_100.gds]
-<01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:58>Tenho certeza que vai resolver
+<01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:58>Tenho certeza de que vai resolver
 meu enigma desta vez!
 !******************************!
 [t21_092_100.gds]
@@ -743,7 +743,7 @@ Agora fiquei super-hiper chateada.
 !******************************!
 [t21_100_100.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:92>Olhe só os detalhes desta jarra, Luke.
-Tenho quase certeza que foi feita
+Tenho quase certeza de que foi feita
 artesanalmente.
 !******************************!
 [t21_100_200.gds]
@@ -779,8 +779,8 @@ Não podemos ficar aqui parados o dia
 todo.
 !******************************!
 [t21_104_100.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:70>Pense com calma. Tenho certeza que
-irá chegar até a resposta, Luke.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:70>Pense com calma. Tenho certeza de
+que irá chegar até a resposta, Luke.
 !******************************!
 [t21_110_100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:105>Não há dúvidas de que o Molentary 
@@ -930,7 +930,7 @@ com uma facilidade considerável.
 Agradeço pela ajuda.<W>
 !------------------------------!
 Como temos algum tempo até nosso
-próximo destino, convido-os a relaxarem
+próximo destino, sugiro descansarem
 e apreciarem a jornada.
 !******************************!
 [t21_144_100.gds]
@@ -953,13 +953,12 @@ bem difícil de agradar.
 !******************************!
 [t21_150_400.gds]
 <01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:93>Isso é terrível. Vocês não podem
-deixar ele tratar vocês dessa
-maneira.
+deixar que ele os trate dessa maneira.
 !******************************!
 [t21_150_500.gds]
 <01:0000000E><03:8>b2 weep<03:5>NONE<01:00000002><03:317>Bem, o chefe tem um pouco de razão.
-Afinal, ele tornou esta ferrovia o que
-ela é hoje.<W>
+Afinal, foi ele quem tornou esta ferrovia
+no que ela é hoje.<W>
 !------------------------------!
 Ele sempre diz que um trem de primeira
 classe precisar ter uma atmosfera
@@ -984,9 +983,9 @@ do dia, não é um trabalho ruim...eu acho.
 <01:0000000E><03:8>b1 weep<03:5>NONE<01:00000002><03:146>Puxa, você tem um olho bom
 pra esse tipo de coisa.<W>
 !------------------------------!
-Tenho certeza que, por melhor que sejam,
-o Sr. Beluga vai achar um motivo para
-reclamar desses pratos.
+Tenho certeza de que, por melhor que
+sejam, o Sr. Beluga vai achar um motivo
+para reclamar desses pratos.
 !******************************!
 [t21_153_200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:80>Não me surpreende... Pessoas ricas
@@ -1024,7 +1023,7 @@ uma agulha em um palheiro.
 oferecer nossa ajuda neste caso.
 !******************************!
 [t21_160_400.gds]
-<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:245>Ah, tenho certeza que sim.
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:245>Ah, tenho certeza de que sim.
 Eu ouvi falar de você, Layton.<W>
 !------------------------------!
 Você tem o péssimo hábito de enfiar
@@ -1309,7 +1308,7 @@ na minha casa.
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:122>Claro! Eu sei onde vimos
 este quadro antes.<W>
 !------------------------------!
-Tenho certeza que este é o quadro
+Tenho certeza de que este é o quadro
 que o Sr. Beluga mandou retirar do
 vagão-restaurante.
 !******************************!

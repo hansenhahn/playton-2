@@ -390,7 +390,7 @@ menino de volta!
 [t11_170_1100.gds]
 <01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:227>Parece que as únicas pistas que temos
 são este sapato que a criança deixou
-para trás e o seu nome, Tom.<W>
+pra trás e o seu nome, Tom.<W>
 !------------------------------!
 Tentei obter mais informações
 da mulher, mas não deu certo.<W>
@@ -407,9 +407,8 @@ Parece bem pequeno, né?
 Bastante intrigante, na verdade.
 !******************************!
 [t11_170_1400.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:62>Acho que crianças com este
-tamanho de pé ainda não
-conseguem caminhar!
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:62>Acho que crianças com este tamanho
+de pé ainda não conseguem caminhar!
 !******************************!
 [t11_170_1500.gds]
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:10>É verdade...
@@ -435,11 +434,11 @@ Bem, chega de papo-furado. Tenho
 coisas para resolver. Em outras
 palavras, achar uma criança perdida.<W>
 !------------------------------!
-Parece que o filho desta mulher sumiu.
-Por acaso vocês não viram ele por aí?
+Parece que o filho daquela mulher sumiu.
+Por acaso vocês viram ele por aí?
 !******************************!
 [t11_170_600.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>Não, não lembro de termos vistos
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>Não, não me lembro de termos visto
 crianças no trem.
 !******************************!
 [t11_170_700.gds]
@@ -473,7 +472,7 @@ imediatamente.
 <01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:216>Ahn? Ah, oi...<W>
 !------------------------------!
 Então, eu invadi a cabine do meu tio e
-peguei a câmera dele emprestada, certo?
+peguei a câmera dele emprestada, sabe?
 O problema é que eu derrubei ela.<W>
 !------------------------------!
 Estou aqui tentando encontrar
