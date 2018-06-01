@@ -448,18 +448,18 @@ talk with the girl on the
 observation deck.
 !******************************!
 [tx_100.txt]
-Return to the Title Screen?
+Retornar à Tela Inicial?
 
-All unsaved progress will be
-lost.
+Qualquer progresso não salvo
+será perdido.
 !******************************!
 [tx_1000.txt]
 You can't access this
 feature in this demo.
 !******************************!
 [tx_1001.txt]
-There aren't any puzzles
-in your Puzzle Index yet.
+Ainda não há enigmas no
+seu Livro de Enigmas.
 !******************************!
 [tx_1100.txt]
 We see that you managed to solve
@@ -494,10 +494,10 @@ Para meu querido amigo,
 %s,
 !******************************!
 [tx_1500.txt]
-Puzzle ??? %s
+Enigma ??? %s
 !******************************!
 [tx_1501.txt]
-Puzzle W%2d %s
+Enigma W%2d %s
 !******************************!
 [tx_1600.txt]
 You got a photo scrap!
@@ -512,19 +512,19 @@ solving this puzzle.
 
 !******************************!
 [tx_201.txt]
-You got a %s!
-Use it to rebuild the camera
-in the Professor's Trunk!
+Você conseguiu um %s!
+Use-o para reconstruir a câmera
+na Mala do Professor!
 !******************************!
 [tx_202.txt]
-You got the ingredient
+Você conseguiu o ingrediente
 %s!
-Use it to create new blends!
+Use-o para criar novas infusões!
 !******************************!
 [tx_203.txt]
-You got a new hamster toy!
-Use this %s to help
-your hamster get in shape!
+Você conseguiu um %s!
+Use-o para ajudar o seu
+hamster a entrar em forma!
 !******************************!
 [tx_204.txt]
 Enigma %.3d
@@ -537,8 +537,8 @@ Você pode ver os itens encontrados
 na Mala do Professor.
 !******************************!
 [tx_206.txt]
-The Hamster minigame has
-been added to the trunk!
+O jogo do Hamster foi
+adicionado à mala!
 !******************************!
 [tx_207.txt]
 Enigma %.3d: %s
@@ -547,20 +547,20 @@ Enigma %.3d: %s
 Salvar seu progresso?
 !******************************!
 [tx_209.txt]
-Save your completed game?
+Salvar seu jogo finalizado?
 !******************************!
 [tx_210.txt]
-The Camera minigame has
-been added to the trunk!
+O jogo da Câmera foi
+adicionado à mala!
 !******************************!
 [tx_211.txt]
-The Tea Set minigame has
-been added to the trunk!
+O jogo do Conjunto de Chá
+foi adicionado à mala!
 !******************************!
 [tx_212.txt]
-You got a photo scrap!
-There are %d photo scraps
-left to be collected!
+Você achou um pedaço da
+fotografia! Ainda há %d
+pedaços para encontrar!
 !******************************!
 [tx_213.txt]
 You've taken a photo of
@@ -573,8 +573,8 @@ the trunk to examine the
 photos you've taken.
 !******************************!
 [tx_215.txt]
-Luke has named the portly
-hamster "%s".
+Luke deu o nome "%s"
+ao hamster gordinho.
 !******************************!
 [tx_216.txt]
 Você encontrou uma fotografia
@@ -620,21 +620,21 @@ minigame's mysteries!
 You are now a tea master!
 !******************************!
 [tx_300.txt]
-Solve puzzle %.3d,
+Resolver o enigma %.3d,
 "%s"?
 !******************************!
 [tx_400.txt]
 No. %.3d: %s
 !******************************!
 [tx_500.txt]
-Overwrite the file
-named "%s"?
+Sobrescrever o arquivo
+"%s"?
 !******************************!
 [tx_501.txt]
 VAZIO
 !******************************!
 [tx_600.txt]
-It's Tea Time!
+É Hora do Chá!
 !******************************!
 [tx_601.txt]
 Select a tea, then touch #rServe!#x to
@@ -653,16 +653,16 @@ OK, you've made your choice.
 Touch #rServe!#x to pour a cup!
 !******************************!
 [tx_700.txt]
-You solved the puzzle
+Você resolveu o enigma
 "%s"!
 !******************************!
 [tx_701.txt]
-You solved that puzzle without
-looking at a single hint! Great job! 
+Você resolveu o enigma sem olhar
+uma única dica! Bom trabalho!
 !******************************!
 [tx_702.txt]
-You viewed %d of the hints while
-solving this puzzle.
+Você viu %d dicas enquanto
+resolvia o enigma.
 !******************************!
 [tx_800.txt]
 Error Code: %d

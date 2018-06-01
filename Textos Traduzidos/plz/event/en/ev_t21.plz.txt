@@ -43,7 +43,7 @@ organizada depois.
 [t21_010_100.gds]
 <01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:101>Sinto muitíssimo, senhor. Temo que todos
 os lugares do nosso fino estabelecimento
-estão ocupados no momento.
+estejam ocupados no momento.
 !******************************!
 [t21_010_200.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:13>Que pena.
@@ -58,7 +58,7 @@ resolver um enigma?
 há nada melhor para abrir o apetite
 do que um adorável enigma.<W>
 !------------------------------!
-Oh, e parece que uma mesa
+Oh! Parece que uma mesa
 acabou de vagar.<W>
 !------------------------------!
 Permitam-me apenas um momento para
@@ -67,8 +67,8 @@ até seus lugares.
 !******************************!
 [t21_013_1000.gds]
 <01:0000000D><03:10>b2 normal<03:5>NONE<01:00000002><03:192>Er, peço desculpas, senhores.<W>
-Há um adorável mirante no último vagão
-do trem.<W>
+Há um adorável mirante no último
+vagão do trem.<W>
 !------------------------------!
 Por favor, sintam-se convidados a
 relaxar lá por alguns minutos enquanto
@@ -87,7 +87,7 @@ ao vagão-restaurante mais tarde.
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:21>Ótimo! Estou morrendo de fome!
 !******************************!
 [t21_013_300.gds]
-<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:77>Oh, que bom. Nossa mesa está
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:77>Oh! Que bom! Nossa mesa está
 finalmente pronta. Vamos logo
 ocupar nossos lugares.
 !******************************!
@@ -98,7 +98,7 @@ estavam esperando a bastante-
 !******************************!
 [t21_013_500.gds]
 <01:0000000B><03:6>shout<03:5>NONE<01:00000002><03:101>Nem pensar! Nem mais uma palavra sobre
-isso! Você ia servir estas pessoas antes
+isso! Você ia servir essas pessoas antes
 de nós? Isso é um insulto!
 !******************************!
 [t21_013_600.gds]
@@ -474,8 +474,8 @@ de um bebê.
 na cozinha...<W>
 !------------------------------!
 Mas foi largado num canto tão apertado,
-que não sei como o Tom conseguiu se
-enfiar ali.
+que não consigo imaginar como o Tom
+conseguiu se enfiar lá.
 !******************************!
 [t21_050_1300.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:89>Correto. Para conseguir entrar
@@ -496,11 +496,11 @@ Luke, e se nós já tivéssemos
 visto o Tom, sem saber?<W>
 !------------------------------!
 Veja, quando começamos as buscas,
-assumimos que ele fosse uma criança
+presumimos que ele fosse uma criança
 pequena.<W>
 !------------------------------!
 Mas e se essa suposição for falsa?
-E se estivemos errado desde o começo?
+E se estivermos errados desde o começo?
 !******************************!
 [t21_050_1600.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:52>Acho que sei aonde quer chegar,
@@ -585,7 +585,7 @@ passando por aqui. Acho que ela estava
 indo para o fim do trem.
 !******************************!
 [t21_060_400.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:48>Muito obrigado. Vamos indo.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:48>Muito obrigado. Vamos andando.
 !******************************!
 [t21_060_500.gds]
 <01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:233>Ei, espera aí, ô da cartola!<W>
@@ -686,9 +686,9 @@ formigas vieram?
 [t21_083_100.gds]
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:118>Você conseguiu, meu garoto.<W>
 !------------------------------!
-Apesar de não apreciar formigas em meu
-açucar, não há como negar a capacidade
-delas de trabalharem em equipe!
+Apesar de não apreciar formigas em
+meu açucar, não há como não admirar
+a dedicação delas!
 !******************************!
 [t21_083_200.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:77>Será que é porque até mesmo
@@ -774,9 +774,9 @@ sendo um cavalheiro britânico, nada me
 agrada mais do que um chá.
 !******************************!
 [t21_103_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:82>Excelente trabalho. Agora vamos indo.
-Não podemos ficar aqui parados o dia
-todo.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:82>Excelente trabalho. Agora vamos
+andando. Não podemos ficar parados
+aqui o dia todo.
 !******************************!
 [t21_104_100.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:70>Pense com calma. Tenho certeza de
@@ -1131,7 +1131,7 @@ passeando pela primeira classe.
 Sem problemas.
 !******************************!
 [t21_190_100.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:58>Uau, aquele vaso de flores parece
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:58>Uau! Aquele vaso de flores parece
 custar uma pequena fortuna!
 !******************************!
 [t21_190_200.gds]
@@ -1155,9 +1155,9 @@ a Babette seja o tipo de senhora que se
 contenta apenas com o melhor da vida.
 !******************************!
 [t21_193_100.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:86>Bom trabalho, mas lembre-se que nem
-todos os enigmas são fáceis assim!
-Bem, vamos indo.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:86>Bom trabalho, mas lembre-se de que
+nem todos os enigmas são fáceis assim!
+Bem, vamos andando.
 !******************************!
 [t21_194_100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:71>Estude todos os detalhes e, cedo

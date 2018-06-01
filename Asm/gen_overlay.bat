@@ -12,7 +12,7 @@ blz.exe -en overlay_0023.bin
 copy "overlay_0002_nocompression.bin" "overlay_0002.bin" /B/Y
 blz.exe -en overlay_0002.bin
 
-rem copy "arm9.bin" "..\Arquivos Gerais" /B/Y
+copy "arm9.bin" "..\Arquivos Gerais" /B/Y
 copy "overlay_0019.bin" "..\Arquivos Gerais" /B/Y
 copy "overlay_0023.bin" "..\Arquivos Gerais" /B/Y
 copy "overlay_0002.bin" "..\Arquivos Gerais" /B/Y

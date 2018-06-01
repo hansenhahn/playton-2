@@ -248,8 +248,8 @@ seguinte pergunta: quantas crianças
 ganhariam um balão vermelho se 9 delas
 estivessem de boné vermelho. E se fossem
 8? 7? Continue diminuindo o número e
-lembre-se que pelo menos 4 crianças devem
-estar usando boné vermelho.
+lembre-se de que pelo menos 4 crianças
+devem estar usando boné vermelho.
 !******************************!
 [n14.dat]
 <0015>Quem é o Tom?
@@ -319,7 +319,7 @@ esquerdo tornam este enigma bastante
 desafiador, não é?
 
 Porém, esta mudança pode lhe ajudar mais
-do que você imagina. Lembre-se que na
+do que você imagina. Lembre-se de que na
 imagem no canto esquerdo, pontos escuros
 ficam claros e vice-versa.
 !******************************!
@@ -691,7 +691,7 @@ Dois homens, aqui chamados de 1 e 2, estão
 disputando um estranho jogo. Primeiro, os
 dois homens colocam suas jarras vazias
 sobre a mesa. A seguir, um juiz traz uma
-jarra cheia de vinagre e a coloca ou no
+jarra cheia de vinagre e coloca-a ou no
 ponto A, ou no ponto B. O juiz então começa
 a derramar o vinagre na jarra adjacente,
 e depois de novo e de novo. Depois de mover
@@ -700,7 +700,7 @@ vinagre deve bebê-la! Ugh!
 
 Se você fosse o juiz e secretamente
 quisesse que o 2 bebesse o vinagre,
-colocaria a jarra no ponto A, ou no porto B?
+colocaria a jarra no ponto A, ou no ponto B?
 !******************************!
 Muito bem!
 
@@ -761,11 +761,11 @@ Se você está com problemas para visualizar,
 imagine que a caixa de fósforos mostrada
 acima tem a altura de 1 centímetro.
 
-Imagine que um dos lados da caixa de
+Imagine que uma das laterais da caixa de
 fósforos representa os vincos no papel e
-então verá que o excesso causado pelas
-dobraduras pode ser representado pelo
-lado oposto.
+então verá que a lateral oposta pode 
+representar o excesso de papel causado
+pelas dobraduras.
 !******************************!
 Que pena!
 
@@ -2185,7 +2185,7 @@ já riscou. Se você começar pelo retrato certo,
 poder-se-á remover todas as mulheres na roda,
 deixando somente os seis retratos de homens.
 Qual retrato é esse? Circule sua resposta.
-Lembre-se que você se mover tanto no sentido
+Lembre-se de que você se mover tanto no sentido
 horárioo como no sentido anti-horário.
 !******************************!
 Muito bem!

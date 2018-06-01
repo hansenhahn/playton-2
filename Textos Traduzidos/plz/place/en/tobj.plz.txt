@@ -580,9 +580,9 @@ faziam roupas tão
 grandes!
 !******************************!
 [tobj43.txt]
-Babette parece ser o tipo
-de mulher que demora para
-se preparar pra viajar.
+A Babette não parece
+ser do tipo que viaja
+com pouca bagagem.
 !******************************!
 [tobj44.txt]
 Isso é mesmo um vestido?
@@ -631,7 +631,7 @@ para passar uma tarde
 agradável tomando chá.
 !******************************!
 [tobj53.txt]
-Com grades como essas,
+Com grades como estas,
 não há perigo algum de
 cair do trem.
 !******************************!

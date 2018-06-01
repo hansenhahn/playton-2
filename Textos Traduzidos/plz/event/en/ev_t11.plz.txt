@@ -62,14 +62,14 @@ elas se parecem!<W>
 Aposto que são espetaculares!
 !******************************!
 [t11_060_100.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:60>Fico pensando nos tipos de luxo
-disponíveis no outro vagão!
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:60>Será que esse outro vagão
+é tão luxuoso quanto este?
 !******************************!
 [t11_060_200.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:245>Para aí mesmo, cara!<W>
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:245>Pare aí mesmo, carinha!<W>
 !------------------------------!
 Sammy Thunder informa que a entrada
-para este vagão é apenas para VIPs,
+pra esse vagão é apenas pra VIPs,
 capiche?<W>&setani 8 b2_normal&
 !------------------------------!
 Sei que vocês gostariam de dar
@@ -78,7 +78,7 @@ lotado, então não vai rolar.&setani 8 b1_normal&
 !******************************!
 [t11_060_400.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:82>As pessoas que reservam cabines
-neste vagão devem ser podres de rica!
+nesse vagão devem ser podres de rica!
 !******************************!
 [t11_060_500.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:104>De fato. Imagino como deve ser ter
@@ -96,14 +96,14 @@ né, Professor?<W> Ha ha ha ha!
 [t11_070_100.gds]
 <01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:107>Parados aí, caras!<W> Não quero estragar
 a brincadeira de vocês, mas esta parte
-do trem é só para VIPs, sacaram?<@v>
+do trem é só pra VIPs, sacaram?<@v>3
 !******************************!
 [t11_080_100.gds]
 <01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:190>Sim, acredito que estas acomodações
 vão servir. Espero que agrade meu
 querido menino.<W>
 !------------------------------!
-Isso me fez lembrar que talvez já
+Isso me fez lembrar de que talvez já
 esteja na hora da janta do meu bebê.
 Hora de visitar o vagão-restaurante.
 !******************************!
@@ -229,7 +229,7 @@ peludo! Por favor, cuidem bem dele!
 estará em boas mãos!
 !******************************!
 [t11_100_300.gds]
-<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:170>Oh céus, passageiros na cozinha!
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:170>Oh, céus! Passageiros na cozinha!
 Sinto muito, mas vocês não podem
 permanecer aqui.<W>
 !------------------------------!
@@ -362,7 +362,7 @@ Realmente tenho que ir. Aproveite
 sua estadia a bordo.
 !******************************!
 [t11_140_900.gds]
-<01:00000009><03:9>b1 laugh<03:5>NONE<01:00000002><03:86>Oh céus, olhe que horas já são.
+<01:00000009><03:9>b1 laugh<03:5>NONE<01:00000002><03:86>Oh, céus! Olhe que horas já são.
 Realmente tenho que ir. Aproveite
 sua estadia a bordo.
 !******************************!
@@ -539,13 +539,13 @@ umas aulas sobre boas maneiras.
 <01:00000004><03:5>NONE<03:5>NONE<01:00000003><03:4>Oh!
 !******************************!
 [t11_200_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:31>Está tudo bem, senhora?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:31>Está tudo bem, senhorita?
 !******************************!
 [t11_200_300.gds]
 <01:00000004><03:5>NONE<03:5>NONE<01:00000003><03:32>Estou bem, obrigada. Desculpe-me.
 !******************************!
 [t11_200_400.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:56>Ela não lhe parecia...familiar,
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:56>Ela não lhe parecia... familiar,
 Professor?
 !******************************!
 [t11_200_500.gds]
@@ -619,8 +619,8 @@ Vovó Riddleton está diante de vocês
 para ajudá-los!
 !******************************!
 [t11_220_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:118>Como eu pensava! De quem mais
-esta cabaninha poderia ser?<W>
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:118>Como eu suspeitava! De quem
+mais seria essa cabaninha?<W>
 !------------------------------!
 Ei, espere um segundo! O que você
 está fazendo aqui?
@@ -683,7 +683,7 @@ aqueles que vocês esqueceram de
 resolver. Vejam por vocês mesmo.
 !******************************!
 [t11_240_100.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:82>Desculpe-me, senhor. Por acaso
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:82>Com licença, senhor. Por acaso
 você não viu uma criança sem um
 dos sapatos andando por aí?
 !******************************!
@@ -709,7 +709,7 @@ lhes façam uma visita?
 Obrigado por sua ajuda.
 !******************************!
 [t11_240_600.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:76>Vamos indo, Luke. Vamos encontrar
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:76>Vamos andando, Luke. Vamos encontrar
 o casal do quarto vagão.
 !******************************!
 [t11_241_100.gds]
@@ -761,12 +761,12 @@ esperto, por assim dizer.
 procurando ele há algum tempo já.
 !******************************!
 [t11_250_600.gds]
-<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:99>Hein? Eu não sabia dizer se ele era
-menino, ou menina, para dizer a verdade.
+<01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:99>Hein? Eu não sabia dizer se era
+menino, ou menina, pra dizer a verdade. 
 Mas Tom é mesmo um ótimo nome.
 !******************************!
 [t11_250_700.gds]
-<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:89>Oh besteira, querida. Posso apostar
+<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:89>Não fale besteiras, querido. Aposto
 o meu melhor conjunto de chá que foi
 uma menina que passou por nós.
 !******************************!
@@ -780,9 +780,9 @@ e dê uma boa olhada, não tem como
 ter certeza, não é?
 !******************************!
 [t11_250_900.gds]
-<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:90>Agora eu me perdi. Não tenho
-mais a menor ideia de quem nós
-estamos falando.
+<01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:90>Espere aí que agora eu me perdi.
+Não tenho mais a menor ideia de quem
+nós estamos falando.
 !******************************!
 [t11_250_950.gds]
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:9>O quê?!<@s>
@@ -923,7 +923,7 @@ nos seguindo?
 !******************************!
 [t11_280_600.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:64>É certamente possível. Mantenha
-um olho em qualquer coisa fora
+os olhos em qualquer coisa fora
 do comum.
 !******************************!
 [t11_290_100.gds]
