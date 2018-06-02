@@ -738,8 +738,8 @@ Professor. Está toda dobrada.
 ser bem velha. Imagino há quanto
 tempo ela está aqui.<W>
 !------------------------------!
-Ah, Luke, essa nossa conversa
-me lembrou de um enigma. Quer ouvir?
+Ah, Luke, essa nossa conversa me
+lembrou de um enigma. Quer ouvir?
 !******************************!
 [t22_110_300.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:9>Por que não?

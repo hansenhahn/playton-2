@@ -545,9 +545,9 @@ até o pão custa
 uma fortuna!
 !******************************!
 [tobj37.txt]
-Essas verduras tem uma
-boa cara! Com certeza
-são de uma horta.
+Essas verduras têm uma
+cara boa! Com certeza
+são orgânicas.
 !******************************!
 [tobj38.txt]
 Consegue imaginar a

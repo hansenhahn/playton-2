@@ -89,7 +89,7 @@ outra olhada nestas chaves!
 e preste atenção em todos os detalhes.
 !******************************!
 [t20_020_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:63>Ah, céus... O rosto dele não sai!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:63>Caramba!... O rosto dele não sai!
 É de verdade!
 !******************************!
 [t20_020_1000.gds]

@@ -55,7 +55,7 @@ de árvore.
 !******************************!
 Muito bom!
 
-Agora tire um momento pra admirar
+Agora tire um momento para admirar
 o lindo cenário.
 !******************************!
 Que pena!
@@ -2677,14 +2677,15 @@ somam <po>70?
 <0009>Copos Empilhados
 <00><0A><08><06><12><0B><02><08><E8><03><02><FF>
 O dono de um restaurante quatro estrelas
-pede para um garçom empilhar copos de uma
-forma decorativa. Ansioso para agradar, o
-jovem garçom imediatamente desenha cinco
-modelos e os mostra para o dono. O dono dá
-uma olhada rápida nos modelos e, com um olhar
-de irritação, vira para o garoto e grita:
-<''>Este modelo é absurdo! Onde você estava
-com a cabeça?<''>.
+pede para um garçom empilhar os copos de
+uma maneira decorativa. Ansioso para
+agradar, o jovem garçom imediatamente
+desenha cinco modelos e os mostra para
+o dono. O dono dá uma olhada rápida nos
+modelos e, com um olhar de irritação, vira
+para o garçom e grita:
+<''>Este modelo é um absurdo! Onde você
+estava com a cabeça?<''>.
 
 O dono do restaurante está se referindo
 a qual do cinco modelos?

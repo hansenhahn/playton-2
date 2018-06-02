@@ -691,36 +691,35 @@ O que acontecerá quando a câmera for
 de descobrir por conta própria!
 !******************************!
 [t18_420_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:232>Use todos os objetos* que forem precisos
-para ajudar esse hamster preguiçoso
-a entrar em forma.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:232>Use os objetos que forem sendo
+recolhidos para ajudar esse hamster
+preguiçoso a entrar em forma.<W>
 !------------------------------!
-Os objetos à sua disposição ficam
-à mostra na parte de cima da
-Tela de Toque*.<W>
+Os objetos à sua disposição são
+mostrados na parte superior da
+Tela de Toque.<W>
 !------------------------------!
-Arraste objetos com a stylus e
-posicione-os no parquinho*
-do hamster.
+Arraste os objetos com a stylus e
+posicione-os no parquinho do hamster.
 !******************************!
 [t18_420_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:406>O hamster tem sua atenção atraída
-por todos os objetos dentro de uma
-distância de três casas dele.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:406>O hamster é atraído por qualquer
+objeto a uma distância de até três
+passos dele.<W>
 !------------------------------!
-Ele não reage a objetos há
-quatro casas ou mais, então pense
-bem em onde colocar os objetos.<W>
+Ele não reage a objetos a quatro
+passos ou mais, então pense bem onde
+colocar os objetos.<W>
 !------------------------------!
-Toque em um objeto para conferir
+Toque um objeto para conferir
 suas propriedades.<W>
 !------------------------------!
-Aproveite-se das propriedades especiais
-de cada objeto para maximizar a perda
-de calorias do hamster.<W>
+Aproveite as propriedades especiais
+de cada objeto para maximizar as
+calorias perdidas pelo hamster.<W>
 !------------------------------!
-Posicione os objetos onde quiser
-e então toque em #rExercise!#x para
+Posicione os objetos onde desejar
+e toque o botão #rExercitar!#x para
 fazer o hamster começar a andar.
 !******************************!
 [t18_420_300.gds]
@@ -728,13 +727,13 @@ fazer o hamster começar a andar.
 um objeto, o mesmo desaparece do
 parquinho.<W>
 !------------------------------!
-O regime de exercícios dele termina após
-todos os objetos serem usados ou ele
-não ser capaz de achar um próximo.<W>
+O exercício termina quando todos os
+objetos forem usados, ou o hamster não
+encontrar o próximo objeto.<W>
 !------------------------------!
-Sempre que o hamster anda o número
-de casas listado como seu objetivo,
-ele fica um pouquinho mais saudável.<W>
+O hamster fica cada vez mais saudável
+sempre que atinge o número de passos
+dados especificados pelo exercício.<W>
 !------------------------------!
 Se conseguir fazer o hamster alcançar
 sua melhor condição física, uma coisa
@@ -751,7 +750,6 @@ aparecer na tela.<W>
 !------------------------------!
 Quando isso acontecer, toque no ícone
 para tirar uma foto da área.
-
 !******************************!
 [t18_430_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:192>Para ver um álbum com todas as

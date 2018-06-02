@@ -1,38 +1,34 @@
 
-Professor Layton e a Vila Misteriosa PT-BR - Revisão 2
+Professor Layton e a Caixa de Pandora PT-BR - Beta 2
 
-- Um lançamento Monkeys Traduções em parceria com Po.B.R.E. e Trans-Center -
+- Um lançamento Monkeys Traduções e Jacutem Sabão -
 
-Assumindo o controle do simpático investigador Layton que, com o auxílio
-de seu assistente Luke, deve partir para St. Mystère para resolver um mistério
-acerca do testamento e também do último desejo do excêntrico Barão Reinhold,
-que remonta a um enigmático objeto perdido chamado Maçã Dourada.
+Professor Layton e a Caixa de Pandora é o segundo jogo na série Professor Layton, da Level-5.
+O jogo apresenta o professor Layton e Luke viajando através do país num trem para resolver o
+mistério por trás de uma estranha caixa que dizem matar quem a abrir. (Wikipedia)
 
 =============================================================================
 
 Informações sobre a ROM:
-	Nome Original: 2888 Professor Layton and the Curious Village (EU)(M5).nds
-	Idioma Original: Multi-5 (Inglês, Francês, Alemão, Espanhol, Italiano)
-	Idioma Traduzido: Inglês para Português Brasileiro
-	CRC: B1BB205B
+	Nome Original: 4215 - Professor Layton and Pandora's Box (EU)(BAHAMUT).nds
+	Idioma Original: Inglês
+	Idioma Traduzido: Português Brasileiro
+	CRC: DF132837
 
 Sobre a Tradução:
-	Textos: 100%
-	Imagens: 100%
-	Revisão: 100%
+	Textos:  ?%
+	Imagens: ?%
+	Revisão: ?%
 
 Equipe:
-	Projeto Original: Hyllian
 	Responsável: DiegoHH
-	ROMHacking: DiegoHH
-	Programação: DiegoHH
-	Textos: alizor, DiegoHHHyllian
-	Imagens: DiegoHH, Haru, spyblack, Solid One
-	Revisão: DiegoHH, Gamerulez, gamer_boy, Solid One
-	Colaboração: Lobim, Marvin Dalkiri
+	ROMHacking e Programação: DiegoHH
+	Textos da História: DiegoHH, Solid One, Sahgo, Steve Doido, 
+	Textos dos Enigmas: DiegoHH, Gamerulez, Magalicia, Shagohod
+	Imagens: DiegoHH, Solid One
+	Revisão: DiegoHH
 
 Notas da Equipe:
-	- A revisão foi feita baseada na nova ortografia brasileira
 	- Pelo fato do jogo se passar numa Inglaterra fictícia, os nomes das personagens
 	  foram mantidos conforme a ortografia original.
 	- Os únicos nomes que sofreram pela não tradução são:
@@ -40,27 +36,29 @@ Notas da Equipe:
 		Poderia ter sido traduzido para Vovó Charada
 	  * Stachescarfen 
 		Junção das palavras (Mu)Stache + Scarf[en]. Poderia ter sido
-		traduzido para ?Bigodenço? - Bigode + (Le)nço
-	- St. Mystère foi mantida como no original francês, apenas sendo corrigido
-	  a falta de crase no e.
+		traduzido para ?Bigodenço? - Bigod[e] + (L)enço
 	- Todos os enigmas da versão europeia são universais. Assim sendo, todos
 	  estão devidamente traduzidos para o português brasileiro.
 
 Notas das Versões:
-	- XX/XX/XXXX Revisão 2:
-		* Readequação de alguns textos;
-		* Diversas correções ortográficas;
-		* Verificação e correção das dicas;
-		* Correção de janelas de textos que não esperavam iteração do jogador;
-		* Alterações na maioria dos gráficos, visando padronizar o layout
-		  com os demais jogos da série;
-	- 28/07/2013 Revisão 1:
-		* Lançamento Inicial
+	- 29/04/2019 Beta 2:
+		* Revisão da história secundária do Capítulo 1 a 3.
+		* Revisão dos enigmas 1 a 7 e 11 a 20.
+		* Tradução dos comentários dos personagens.
+		* Correção de algumas imagens.
+		* Desbloqueio dos enigmas semanais.
+		* Inserção da Splash Screen.
+	- 14/04/2018 Beta 1:
+		* Todos os textos da história traduzidos.
+		** História principal do Prólogo, Capítulo 1 a 5 revisadas.
+		** História secundária do Prólogo revisada.
+		* Alguns enigmas traduzidos, mas não revisados, indo além do limite da tela.
+		* A maioria das imagens traduzidas.
 
 Contato:	
 	E-mail: hansen.hahn@gmail.com
-	Pelo FUT: http://www.romhacking.net.br
-	Canal do Grupo no Discord: https://discord.gg/bmPEa9K
+	Pelo FURT: http://www.romhacking.net.br
+	Canal FURT/RHBR no Discord: https://discord.gg/keJkKWk
 
 Licença de Uso:
 	A presente obra encontra-se licenciada sob a licença

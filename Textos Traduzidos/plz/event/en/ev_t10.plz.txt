@@ -132,7 +132,7 @@ irmos, deixe-me lembrá-lo como usar
 esta mala.
 !******************************!
 [t10_045_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>Para abrir a mala, toque no ícone
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>Para abrir a mala, toque o ícone
 no canto superior direito da tela.
 !******************************!
 [t10_045_300.gds]

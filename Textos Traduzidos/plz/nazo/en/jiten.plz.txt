@@ -8,7 +8,7 @@ Vagão 4 - Corredor
 Cabine da Vovó R
 !******************************!
 [p_11.txt]
-Vagão-Restaurante 5
+Vagão-Restaurante
 !******************************!
 [p_12.txt]
 Cozinha

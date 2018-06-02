@@ -505,25 +505,25 @@ There is %d photo scrap
 left to be collected!
 !******************************!
 [tx_1601.txt]
-You viewed %d hint while
-solving this puzzle.
+Você viu %d dicas enquanto
+resolvia este enigma.
 !******************************!
 [tx_200.txt]
 
 !******************************!
 [tx_201.txt]
-Você conseguiu um %s!
-Use-o para reconstruir a câmera
-na Mala do Professor!
+Você conseguiu um%s!
+Use o objeto para reconstruir
+a câmera na Mala do Professor!
 !******************************!
 [tx_202.txt]
 Você conseguiu o ingrediente
 %s!
-Use-o para criar novas infusões!
+Use-o para criar novos chás!
 !******************************!
 [tx_203.txt]
-Você conseguiu um %s!
-Use-o para ajudar o seu
+Você conseguiu um%s!
+Use o objeto para ajudar o seu
 hamster a entrar em forma!
 !******************************!
 [tx_204.txt]

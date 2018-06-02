@@ -200,7 +200,7 @@ Elísia estão profundamente
 relacionadas.
 !******************************!
 [ide_2.txt]
-O tíquete era para Folsense,
+O bilhete era para Folsense,
 um destino acessível apenas aos
 passageiros de um certo vagão do
 Molentary Express. Parece que o
@@ -365,7 +365,7 @@ A Caixa Elísia
 O Emblema de Cabra
 !******************************!
 [it_2.txt]
-Um Tíquete Sem Destino
+Um Bilhete Sem Destino
 !******************************!
 [it_3.txt]
 A Fotografia Rasgada
@@ -389,64 +389,64 @@ A Busca de Beluga
 O Vampiro no Castelo
 !******************************!
 [cam_0.txt]
-peça quadrada
+a peça quadrada
 !******************************!
 [cam_1.txt]
 peça de vidro
 !******************************!
 [cam_2.txt]
-peça do botão
+a peça com botão
 !******************************!
 [cam_3.txt]
-peça arredondada
+a peça arredondada
 !******************************!
 [cam_4.txt]
-peça bilateral
+a peça reversível
 !******************************!
 [cam_5.txt]
-peça parafusal
+a peça com parafusos
 !******************************!
 [cam_6.txt]
-bateria
+a bateria
 !******************************!
 [cam_7.txt]
-mola
+a mola
 !******************************!
 [cam_8.txt]
-pecinha
+a pecinha
 !******************************!
 [cam_9.txt]
-peça de engrenagem
+a engrenagem
 !******************************!
 [ham_0.txt]
-maçã
+a maçã
 !******************************!
 [ham_1.txt]
-bloco
+ bloco
 !******************************!
 [ham_2.txt]
-casinha
+a casinha
 !******************************!
 [ham_3.txt]
-tronco de árvore
+ tronco de árvore
 !******************************!
 [ham_4.txt]
-flor
+a flor
 !******************************!
 [ham_5.txt]
-lâmpada
+a lâmpada
 !******************************!
 [ham_6.txt]
-caixa-de-surpresas
+a caixa-de-surpresas
 !******************************!
 [ham_7.txt]
-caixa de areia
+a caixa de areia
 !******************************!
 [ham_8.txt]
-piscina
+a piscina
 !******************************!
 [ham_9.txt]
-trampolim
+ trampolim
 !******************************!
 [herb_0.txt]
 Folha de Oásis
@@ -473,10 +473,10 @@ Pimenta Cereja
 Capim Seco
 !******************************!
 [item_0.txt]
-Sapato do Tom
+O Sapato do Tom
 !******************************!
 [item_1.txt]
-Boné do Tom
+O Boné do Tom
 !******************************!
 [item_2.txt]
 Outro Sapato do Tom
@@ -1165,7 +1165,7 @@ abandonado nos trilhos.
 Nosso trem está atualmente parado
 em uma pequena cidade pitoresca
 chamada Dropstone. A cidada está
-atualmente comemorando seu 50º
+atualmente comemorando seu 50o
 aniversário e está transbordando
 de agitação. Dado que temos algumas
 horas antes de sair novamente,

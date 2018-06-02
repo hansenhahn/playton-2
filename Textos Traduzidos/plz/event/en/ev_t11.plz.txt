@@ -1,5 +1,5 @@
 [t11_020_100.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:95>Céus, olhe este lugar, Professor!
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:95>Caramba! Olhe este lugar, Professor!
 Ele é tão chique que dá até vontade
 de usar um monóculo!
 !******************************!
@@ -357,7 +357,7 @@ de conhecê-lo pessoalmente.
 <01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:187>Bem, já é um começo. É um prazer
 conhecê-lo, Sr... Layton, certo?<W>
 !------------------------------!
-Oh céus, olhe que horas já são.
+Oh, céus! Olhe que horas já são.
 Realmente tenho que ir. Aproveite
 sua estadia a bordo.
 !******************************!
@@ -369,7 +369,7 @@ sua estadia a bordo.
 [t11_150_100.gds]
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:88>Por que não voltamos para
 o vagão-restaurante, Luke?
-O passeio abriu meu apetite.
+O passeio abriu-me o apetite.
 !******************************!
 [t11_160_100.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:58>Luke, vamos passar na nossa
@@ -384,7 +384,7 @@ outro lugar.
 !******************************!
 [t11_170_1000.gds]
 <01:0000000B><03:10>b1 normal<03:5>NONE<01:00000002><03:98>Você ainda está aqui?<W> Não fique aí
-parado conversando e traga logo meu
+parado de papo furado e traga logo meu
 menino de volta!
 !******************************!
 [t11_170_1100.gds]
@@ -399,7 +399,7 @@ Ela só fica ordenando que eu
 faça buscas no recinto.
 !******************************!
 [t11_170_1200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:64>Este é um dos sapatos de Tom?!<W>
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:64>Este é um dos sapatos do Tom?!<W>
 Parece bem pequeno, né?
 !******************************!
 [t11_170_1300.gds]
@@ -419,7 +419,7 @@ Você precisa fazer alguma coisa!
 Procure por todo este trem!
 !******************************!
 [t11_170_300.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:60>Madame, por favor, acalme-se para
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:60>Madame, por favor, acalme-se pra
 que eu possa entender a situação.
 !******************************!
 [t11_170_400.gds]
@@ -431,10 +431,10 @@ que você estava a bordo.
 Quais são as chances, né?<W>
 !------------------------------!
 Bem, chega de papo-furado. Tenho
-coisas para resolver. Em outras
+coisas pra resolver. Em outras
 palavras, achar uma criança perdida.<W>
 !------------------------------!
-Parece que o filho daquela mulher sumiu.
+Parece que o filho dessa mulher sumiu.
 Por acaso vocês viram ele por aí?
 !******************************!
 [t11_170_600.gds]
@@ -450,7 +450,7 @@ Cavalheiros, exijo que parem o que
 estão fazendo e encontrem meu garoto!
 !******************************!
 [t11_170_800.gds]
-<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:67>Hrmph, ela está agindo assim desde
+<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:67>Hrmph... Ela está agindo assim desde
 que cheguei.
 !******************************!
 [t11_170_900.gds]
@@ -458,22 +458,22 @@ que cheguei.
 Eu e o meu assistente ficaremos felizes
 em ajudá-la em sua busca.<W>
 !------------------------------!
-Aumentaremos a chance de encontrar
+Aumentaremos as chances de encontrar
 seu filho se começarmos as buscas
 imediatamente.
 !******************************!
 [t11_175_100.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:25>Ah velho, que toupeira eu sou...
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:25>Velho, que toupeira eu sou...
 !******************************!
 [t11_175_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>Qual o problema, senhor?
 !******************************!
 [t11_175_300.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:216>Ahn? Ah, oi...<W>
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:216>Ahn? Ah! Oi...<W>
 !------------------------------!
 Então, eu invadi a cabine do meu tio e
-peguei a câmera dele emprestada, sabe?
-O problema é que eu derrubei ela.<W>
+peguei a câmera dele emprestada, saca?
+O problema é que eu deixei ela cair.<W>
 !------------------------------!
 Estou aqui tentando encontrar
 todas as peças a mais de uma hora,
@@ -487,12 +487,12 @@ mas achei apenas uma...
 quebrada se espalhar, meu tio vai
 tirar meu couro.<W>
 !------------------------------!
-Opa, tive uma ideia sagaz!<W> Saca só.
+Opa! Tive uma ideia sagaz!<W> Saca só.
 Vou dar este pedaço de lixo para você.<W>
 !------------------------------!
-Pode fazer o que quiser com isto, 
-apenas suma com ela, beleza?<W> Por essa
-você não esperava.
+Pode fazer o que quiser com
+isto, apenas suma com ela, beleza?<W>
+Por essa você não esperava.
 !******************************!
 [t11_175_600.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>O q-? Ei, volte aqui!
@@ -506,14 +506,14 @@ então toque o ícone Câmera.
 !******************************!
 [t11_180_100.gds]
 <01:0000002F><03:7>normal<03:5>NONE<01:00000005><03:59>Zzzz. Zzzz. RONC! Zzzzzzzz...
-Meu doce...menino... Zzzz.
+Meu doce... menino... Zzzz.
 !******************************!
 [t11_180_200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:40>Como ela pode dormir numa hora dessas?
 !******************************!
 [t11_180_300.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:173>Acho que o desespero pelo sumiço
-do filho a cansou.<W>
+do filho deixou ela cansada.<W>
 !------------------------------!
 Vamos, Luke. Quanto mais cedo
 encontrarmos a criança, mais cedo
@@ -523,15 +523,15 @@ esta pobre mulher descansará em paz.
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:45>Oh! Olhe isto, Professor. É...
 !******************************!
 [t11_190_200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:34>Restos de comida,
-se não estou enganado.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:34>Restos de comida, se não
+estou enganado.
 !******************************!
 [t11_190_300.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:73>Acha que o Tom invadiu a cozinha
-para pegar algo para comer?
+pra pegar algo para comer?
 !******************************!
 [t11_190_400.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:109>Bem, é possível, mas se esse for 
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:109>Bem, é possível, mas se for esse
 o caso, então ele está precisando de
 umas aulas sobre boas maneiras.
 !******************************!
@@ -1272,7 +1272,7 @@ apaixonados solucionadores de enigmas
 como vocês. Vamos ser amigos, né?
 !******************************!
 [t11_430_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:112>Céus, essa mulher é o tipo
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:112>Caramba! Essa mulher é o tipo
 de pessoa que eu esperaria ver
 no Molentary Express.<W>
 !------------------------------!
@@ -1291,7 +1291,7 @@ exige formalidades, não acha?
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:23>Com certeza, Professor!
 !******************************!
 [t11_440_100.gds]
-<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:152>Céus, não precisa me olhar com
+<01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:152>Oh, céus! Não precisa me olhar com
 tanta raiva. Não sabia que senhoras
 vem sempre em primeiro lugar?<W>
 !------------------------------!
