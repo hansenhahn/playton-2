@@ -176,28 +176,28 @@ Ache a Garota com o Cachorrinho!
 Converse com a Garota Misteriosa!
 !******************************!
 [next_10.txt]
-The professor and Luke decide
-to visit Dr Schrader's home.
+O professor e o Luke decidem visitar
+o apartamento do Dr. Schrader.
 !******************************!
 [next_100.txt]
-The professor, Luke and Flora
-decide to return Tom to his owner,
-Babette.
+O professor, o Luke e a Flora
+decidem devolver o Tom para sua
+dona, Babette.
 !******************************!
 [next_110.txt]
-The professor, Luke and Flora
-decide to return to their quarters
-to rest.
+O professor, o Luke e a Flora
+decidem retornar às suas cabines
+para descansarem.
 !******************************!
 [next_120.txt]
-The professor and Luke decide to
-investigate the cause of the
-train's sudden stop.
+O professor e o Luke decidem
+investigar a causa da parada
+repentina do trem.
 !******************************!
 [next_130.txt]
-The professor and Luke decide to
-clear the track so that the train
-can get moving again.
+O professor e o Luke decidem limpar
+os trilhos para que o trem possa
+seguir seu caminho outra vez.
 !******************************!
 [next_140.txt]
 The professor, Luke and Flora
@@ -235,8 +235,8 @@ decide to return to the train
 station.
 !******************************!
 [next_20.txt]
-The professor and Luke decide
-to enter Dr Schrader's home.
+O professor e o Luke decidem entrar
+no prédio do Dr. Schrader.
 !******************************!
 [next_200.txt]
 The professor, Luke and Flora
@@ -306,8 +306,8 @@ The professor and Luke decide to
 visit the local grocer's.
 !******************************!
 [next_30.txt]
-The professor and Luke decide
-to enter Dr Schrader's flat.
+O professor e o Luke decidem entrar
+no apartamento do Dr. Schrader.
 !******************************!
 [next_300.txt]
 The professor and Luke decide to
@@ -366,7 +366,7 @@ The professor and Luke decide to
 venture out to Herzen Castle.
 !******************************!
 [next_40.txt]
-O professor e Luke decidem explorar
+O professor e o Luke decidem explorar
 o Molentary Express.
 !******************************!
 [next_400.txt]
@@ -396,9 +396,8 @@ carro do professor. Encontre-as
 tocando as gavetas da escrivaninha!
 !******************************!
 [next_50.txt]
-The professor and Luke decide to
-begin their investigation of the
-train.
+O professor e o Luke decidem iniciar
+as investigações no trem.
 !******************************!
 [next_510.txt]
 The professor and Luke decide to
@@ -411,41 +410,37 @@ decide to locate the elusive
 Mr Anderson.
 !******************************!
 [next_54.txt]
-The professor and Luke decide to
-visit the dining car a second time.
+O professor e o Luke decidem visitar
+o vagão-restaurante uma segunda vez.
 !******************************!
 [next_58.txt]
-The professor and Luke decide to
-return to their room in carriage 3.
+O professor e o Luke decidem retornar
+à sua cabine no vagão 3.
 !******************************!
 [next_59.txt]
-The professor and Luke decide to
-help search for Tom, Babette's
-little boy.
+O professor e o Luke decidem ajudar
+nas buscas pelo filhinho da Babette, Tom.
 !******************************!
 [next_60.txt]
-The professor and Luke decide to
-search for the couple who may
-have seen Tom.
+O professor e o Luke decidem procurar
+pelo casal que pode ter visto o Tom.
 !******************************!
 [next_70.txt]
-The professor and Luke decide to
-return to the site of Tom's
-disappearance.
+O professor e o Luke decidem retornar
+para o local do desaparecimento do Tom.
 !******************************!
 [next_80.txt]
-The professor and Luke decide to
-continue their search for Tom.
+O professor e o Luke decidem continuar
+as buscas pelo Tom.
 !******************************!
 [next_85.txt]
-The professor and Luke decide to
-search for the young woman
-seen holding a little dog.
+O professor e o Luke decidem
+procurar pela jovem vista segurando
+um cachorrinho.
 !******************************!
 [next_90.txt]
-The professor and Luke decide to
-talk with the girl on the
-observation deck.
+O professor e o Luke decidem conversar
+com a garota no mirante.
 !******************************!
 [tx_100.txt]
 Retornar à Tela Inicial?
