@@ -662,18 +662,18 @@ reunir o maior número possível delas,
 pois com certeza lhes serão úteis!
 !******************************!
 [t18_410_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:165>Toque nas peças da câmera* na parte
-de cima da Tela de Toque* para
-aumentá-las.*<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:165>Toque nas peças da câmera disponíveis
+na parte superior da Tela de Toque para
+aumentá-las.<W>
 !------------------------------!
-Uma vez nessa sesção, arraste a
-peça selecionada para posicioná-la
-dentro do corpo* da câmera.
+Em seguida, arraste a peça
+selecionada para posicioná-la
+dentro da carcaça da câmera.
 !******************************!
 [t18_410_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:430>Controle o sentido e o posicionamento
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:430>Controle a posição e o sentido
 das peças dentro da câmera com
-a stylus.<W>
+a sua stylus.<W>
 !------------------------------!
 Toque no centro de uma peça
 e arraste para movê-la.<W>
@@ -682,13 +682,13 @@ Para rotacionar uma peça, toque
 em uma de suas extremidades e
 arraste a stylus como um círculo.<W>
 !------------------------------!
-Para consertar a câmera, é preciso reunir
-todas as 10 peças que faltam e posicioná-las
-corretamente de modo que não sobrem espaços.<W>
+A câmera estará consertada após
+reunir e posicionar corretamente as
+10 peças que faltam.<W>
 !------------------------------!
-O que acontecerá quando a câmera for
-100% consertada?<W> Isso você terá
-de descobrir por conta própria!
+O que acontecerá quando a câmera
+estiver funcional outra vez?<W> Isso você
+terá de descobrir por conta própria!
 !******************************!
 [t18_420_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:232>Use os objetos que forem sendo

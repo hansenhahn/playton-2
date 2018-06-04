@@ -64,13 +64,13 @@ Meu pai sempre fez o que bem lhe
 entende, sem se importar com mais
 ninguém. Ele age desse jeito com
 todo mundo, até seus filhos. Não é
-de se admirar que meu irmão mais
+de se admirar que meu irmão mais novo
 se dê tão mal com ele. Apesar de
-tudo, temos que aceitar seus
-caprichos, já que somos futuros
-governantes de Folsense, não podemos
-sair daqui. Nós somos os protetores
-desta cidade, e temos que cuidar dela.
+tudo, temos que aceitar seus caprichos,
+já que somos futuros governantes de
+Folsense e não podemos sair daqui.
+Nós somos os protetores desta cidade,
+e temos que cuidar dela.
 !******************************!
 [diary_4.txt]
 Não sendo mais capaz de continuar
@@ -85,17 +85,18 @@ achar que nunca vou entender aquele
 homem.
 !******************************!
 [diary_5.txt]
-Encontramos um novo minério enterrado.
-Meu pai acredita que podemos
-refiná-lo e criar um tipo de metal
-muito valioso. Eu duvido que nós
+Encontramos um novo minério
+enterrado. Meu pai acredita que
+podemos refiná-lo e criar um tipo de
+metal muito valioso. Eu duvido que nós
 consigamos transformar esse negócio,
 que parece uma pedra, em algo de
 valor. Mas isso não impediu meu pai.
 A escavação já chegou a tal ponto
 que formou um buraco gigantesco sob
-o castelo. Começo a prever que ele
-pode acabar caindo abismo abaixo.
+nosso castelo. Começo a prever que o
+castelo pode acabar caindo abismo
+abaixo.
 !******************************!
 [diary_6.txt]
 Hoje é um dia fabuloso! Finalmente,
@@ -106,7 +107,7 @@ Até mudarei a decoração inteira do
 castelo se isso a deixar feliz.
 Eu também pedi para ela um vestido
 personalizado. Ela ficará linda
-nele. Não tenho dúvidas.
+no vestido. Não tenho dúvidas.
 !******************************!
 [diary_7.txt]
 Muitas pessoas na cidade adoeceram
@@ -143,7 +144,7 @@ me abandonado, eu poderia ter
 resistido à tempestade. Ainda me
 pergunto por que ela deixou a cidade.
 Se ela realmente me amava, então
-por que ela foi embora?
+por que foi embora?
 !******************************!
 [dt_1.txt]
 
@@ -338,15 +339,14 @@ essa mudança repentina da aparência
 da estação de trem?
 !******************************!
 [id_8.txt]
-Parece que Beluga está fazendo
-Sammy trabalhar feito um condenado,
-fazendo-o vasculhar toda a cidade
-em busca de um item desconhecido.
-Não se sabe por que Beluga criou uma
-linha férrea secreta entre Dropstone
-e Folsense, mas está claro que o que
-ele procura é muito importante.
-O que poderia ser?
+Parece que Beluga está fazendo Sammy
+trabalhar como condenado, fazendo-o
+vasculhar toda a cidade em busca de um
+item desconhecido. Não se sabe por que
+Beluga criou uma linha férrea secreta
+entre Dropstone e Folsense, mas está
+claro que o que ele procura é muito
+importante. O que poderia ser?
 !******************************!
 [id_9.txt]
 Circulam boatos de que um vampiro
@@ -392,7 +392,7 @@ O Vampiro no Castelo
 a peça quadrada
 !******************************!
 [cam_1.txt]
-peça de vidro
+a peça de vidro
 !******************************!
 [cam_2.txt]
 a peça com botão
@@ -2073,11 +2073,11 @@ Hmm...
 Professor?
 !******************************!
 [m6_13.txt]
-O que jaz adiante
-pode ser perigoso.
+A jornada que nos aguarda
+pode ser perigosa.
 !******************************!
 [m6_14.txt]
-Hã?
+Huh?
 !******************************!
 [m6_15.txt]
 É por isso que você terá
@@ -2203,1122 +2203,1142 @@ Crescendo em Dropstone
 Um Balé para Recordar
 !******************************!
 [chr_0.txt]
-His two passions are
-solving puzzles and
-enjoying a good cup of
-tea. While his job is
-teaching archaeology,
-he is also quite the
-fencer. Many wonder
-what's under the hat,
-but only the professor
-knows the answer
-to that mystery.
+Suas duas paixões são
+resolver enigmas e tomar
+uma boa xícara de chá.
+Embora seu trabalho seja
+ensinar arqueologia, ele
+é bastante aventureiro.
+Muitos se perguntam o
+que se esconde debaixo
+de sua cartola, mas só
+o professor sabe a
+resposta desse mistério.
 !******************************!
 [chr_1.txt]
-As the self-proclaimed
-apprentice of the
-professor, Luke is
-generally sweet and
-earnest, but, like all
-boys his age, can
-occasionally let slip
-a cheeky comment.
-His unique way with
-animals has come in
-handy more than once.
+Como o autoproclamado
+aprendiz do professor,
+Luke é geralmente doce e
+muito disposto. Mas, como
+todo garoto nessa idade,
+de vez em quando lhe
+escapa algum comentário
+descarado. Seu jeito
+único com animais tem sido
+útil em mais de uma
+ocasião.
 !******************************!
 [chr_10.txt]
-Beluga is the demanding
-owner and founder of
-the Molentary Express.
-He chases after the 
-Elysian Box in the hope
-it will lead him to the 
-Herzen family fortune,
-which he believes he
-is entitled to as a son
-of the former duke and
-brother to Anton.
+Beluga é o proprietário e
+fundador do Molentary
+Express. Ele está em
+busca da Caixa Elísia, na
+esperança de que isso
+o levará à fortuna da
+família Herzen, a qual ele
+acredita ter direito como
+filho do finado duque e
+irmão de Anton.
 !******************************!
 [chr_11.txt]
-Beluga's nephew, Sammy,
-has only one thing on
-his mind: pedal-to-the-
-metal rock and roll. By
-day, he's just a normal
-train conductor, but
-once he grips the mike,
-he transforms into his
-wild, rock-star alter
-ego, Sammy Thunder.
+Sobrinho de Beluga, Sammy
+só quer saber de uma
+coisa: rock 'n roll e metal
+da pesada. De dia, ele é
+apenas um condutor de
+trem comum, mas assim que
+ele pega no microfone,
+surge seu alter ego de
+estrela de rock selvagem:
+Sammy Thunder.
 !******************************!
 [chr_12.txt]
-Macaroon is the chef
-on the Molentary
-Express. While quite
-trim in his younger
-days, years of testing
-his own dishes have
-rounded him out. His
-food is so good that
-many people ride the
-Molentary Express just
-to experience his magic.
+Macaroon é o chef do
+Molentary Express.
+Apesar dele ser bastante
+magro quando jovem, os
+anos que passou na
+cozinha provando de seus
+quitutes acabaram por
+engordá-lo bastante. Sua
+comida é tão boa que
+várias pessoas viajam no
+Molentary Express só
+para provar seus pratos.
 !******************************!
 [chr_13.txt]
-Peek into the Molentary
-Express's dining car
-and you're likely to see
-Chester, waiter and
-host extraordinaire.
-His commitment to
-catering to customers'
-needs contributes to
-the Molentary Express's
-lavish reputation.
+Ao dar uma espiada no
+vagão-restaurante do
+Molentary Express, você
+provavelmente verá
+Chester, o maitre do
+restaurante. Seu
+compromisso com o serviço
+de restaurante de seus
+clientes  tem contribuído
+bastante à reputação
+magnífica do Molentary
+Express.
 !******************************!
 [chr_14.txt]
-Babette is the pompous
-wife of a moneyed man.
-Her aim in life is to make
-everyone around her
-know that she deserves
-special treatment.
-A long-time fan of the
-Molentary Express
-dining car, she can
-often be spotted there
-coddling her dog, Tom.
+Babette é a esposa
+pomposa de um homem rico.
+Seu objetivo na vida é
+convencer as pessoas ao
+seu redor de que ela
+merece tratamento
+especial. Como ela é fã
+de longa data do vagão-
+restaurante do Molentary
+Express, é com frequência
+que pode-se vê-la lá,
+junto de seu cão, Tom.
 !******************************!
 [chr_15.txt]
-This petite canine is the
-beloved pet of Babette.
-Raised in the lap of
-luxury, Tom often gets
-up to mischief, causing
-trouble for those
-around him. Despite
-being the apple of
-Babette's eye, he
-doesn't seem very
-fond of her.
+Esse cão pequenino é o
+bichinho de estimação de
+Babette. Como ele cresceu
+em luxo e abundância, ele
+Tom tem sido por vezes
+travesso, causando
+confusão àqueles à sua
+volta. Apesar de ser o
+"menino dos olhos" de
+Babette, ele não parece
+ser tão apegado à sua
+dona.
 !******************************!
 [chr_16.txt]
-Vera is the glamorous
-proprietor of the
-Folsense cabaret,
-Beluga's favourite
-haunt. She owns a lot
-of expensive jewellery,
-but most of it
-eventually ends up in
-the local antiques shop.
+Vera é a glamorosa
+proprietária da casa
+noturna de Folsense, o
+lugar preferido de Beluga
+para relaxar. Ela é dona
+de várias joalharias, mas
+a maioria delas acabam
+indo parar na loja local
+de antiquários mais
+próxima.
 !******************************!
 [chr_17.txt]
-High in the watchtower,
-Geoff keeps an eye
-fixed on Herzen Castle
-for any signs of vampire
-activity. Even among
-the eclectic folks living
-in Folsense, Geoff is
-considered eccentric.
-Some say that fighting
-evil is just his way of
-trying to impress Vera.
+Do topo de sua torre,
+Geoff está sempre alerta
+para qualquer possível
+ataque do vampiro. Até
+mesmo as passoas mais
+excêntricas de Folsense
+consideram Geoff alguém
+excêntrico. Alguns dizem
+que combater o mal é
+apenas uma forma dele
+impressionar Vera.
 !******************************!
 [chr_18.txt]
-This town grocer fears
-vampires so much that
-he's smothered his shop
-in garlic. The reek of
-the place has already
-driven a number of
-patrons elsewhere, yet
-the amount of garlic in
-his store only seems to
-increase day by day.
+O dono da mercearia tem
+tanto medo de vampiros
+que ele encheu sua loja
+de alho. O fedor do lugar
+já fez vários clientes
+fazerem seu mercantil
+em outro lugar, e ainda
+sim a quantidade de alho
+em sua loja só aumenta
+a cada dia que passa.
 !******************************!
 [chr_19.txt]
-Though sinister looking,
-the Herzen family
-butler is actually quite
-kind. With no other
-servants currently
-employed in the castle,
-Nigel is constantly busy.
-In his spare time, he
-unwinds by scrubbing
-the castle's bathtubs.
+Apesar de seu aspecto
+sinistro, o mordomo da
+família Herzen é bastante
+gentil. Como não há mais
+servos trabalhando no
+castelo, Nigel vive o dia
+todo ocupado. Em seu
+tempo livre, ele gosta de
+desopilar esfregando as
+banheiras do castelo para
+limpá-las.
 !******************************!
 [chr_2.txt]
-The only daughter from
-a wealthy family, Flora
-follows Luke and Layton
-onto the Molentary
-Express. In her free
-time, she likes cooking,
-though most of her
-efforts in the kitchen
-have the unfortunate
-effect of turning
-stomachs.
+Filha única de uma família
+rica, Flora segue Luke e
+Layton até o Molentary
+Express. No seu tempo
+livre, ela gosta de
+cozinhar, embora a maior
+parte de seus esforços
+na cozinha tenham gerado
+o infeliz efeito de revirar
+o estômago das pessoas.
 !******************************!
 [chr_20.txt]
-Jacques is the patient
-butler to the Anderson
-family, which means he
-knows the family's
-history as well as its
-secrets. One of his main
-tasks is watching after
-young Katia. He rallies
-the servants to give
-her a warm send-off.
+Jacques é o mordomo da
+família Anderson, o que
+implica dizer que ele
+conhece tanto a história
+da família, como seus
+segredos. Um de seus
+principais deveres é
+cuidar da jovem Katia.
+Ele mobilizou todos os
+criados para dar a ela
+uma despedida
+emocionante.
 !******************************!
 [chr_21.txt]
-Despite his appearance,
-Inspector Chelmey's
-assistant, Constable
-Barton, is a mere 27
-years old. Though he's
-often hard to read,
-Barton is actually
-extremely adept at
-covering for his
-supervisor's occasional
-oversights.
+Apesar de sua aparência,
+o agente Barton, que é
+assistente do Inspetor
+Chelmey, só tem 27 anos.
+Apesar de ser difícil
+saber o que ele pensa,
+Barton é perito em
+cobrir os vacilos que
+o seu supervisor dá
+de vez em quando.
 !******************************!
 [chr_22.txt]
-Grousley is one of the
-many passengers on the
+Grousley é mais um, dentre
+os vários passageiros do
 Molentary Express.
-While he may not look
-the part, the eccentric
-Grousley is actually
-a very well-to-do artist
-and Beluga's friend.
-He gets inspiration from
-the natural scenery
-he sees on train rides.
+Embora, analisando-o pela
+sua excentricidade, não
+pareça ser, Grousley na
+verdade é um renomado
+artista e amigo de Beluga.
+Ele se inspira olhando
+para as paisagens que vê
+em suas viagens de trem.
 !******************************!
 [chr_23.txt]
-As the mechanic on the
-Molentary Express, it's
-Steve's job to fix
-whatever breaks.
-Besides having a soft
-spot for animals and
-sweets, he's dedicated
-to researching new
-methods for keeping his
-trademark quiff as
-gravity-defying as ever.
+Como o mecânico do
+Molentary Express, é
+trabalho de Steve
+consertar seja lá o que
+quebrar no trem. Apesar
+de ter uma queda por
+animais e doces, ele é
+empenhado em pesquisar
+novos métodos de manter
+seu topete marcante
+sempre de pé, desafiando
+a gravidade.
 !******************************!
 [chr_24.txt]
-There's something
-childlike and scattered
-about Capone, as
-illustrated by the
-questionable information
-he provides when Tom
-disappears. As
-unbelievable as it
-sounds, Capone is
-actually a CEO of a big
-corporation.
+Há um jeito infantil e meio
+sem noção em Capone e
+como ele se comporta,
+conforme demonstrado
+pelas informações
+questionáveis que ele
+forneceu quando Tom
+desapareceu. Por mais
+inacreditável que pareça,
+Capone na verdade é o
+diretor executivo de uma
+grande empresa.
 !******************************!
 [chr_25.txt]
-Mitzi is Capone's chatty
-wife. Though she enjoys
-contradicting Capone,
-the couple are so sweet
-with each other that
-they've been known to
-drive people away with
-their public displays of
-affection.
+Mitzi é a esposa tagarela
+de Capone. Apesar dela
+adorar contrariar seu
+marido, eles são tão
+carinhosos entre si, que
+isso acaba afastando as
+pessoas ao redor, devido
+às suas demonstrações
+públicas de afeto.
 !******************************!
 [chr_26.txt]
-This precocious girl is
-travelling by herself to
-visit her grandmother.
-For her age, Lili has a
-very adult way of
-thinking and can seem
-startlingly mature at
-times. Her charm has
-earned her a spot in
-the hearts of many of
-the train's employees.
+Esta menina precoce está
+viajando sozinha para
+visitar sua avó. Para a
+sua idade, Lili possui um
+modo muito maduro de
+pensar. Seu charme foi
+capaz de encantar vários
+funcionários do trem.
 !******************************!
 [chr_27.txt]
-Sally has dreams of
-big-city life, but, for
-now, she just pushes
-the snack trolley on the
-Molentary Express,
-offering a bevy of
-appetising treats to
-uninterested train
-patrons. She can often
-be found trading quips
-with her friend, Steve.
+Sally sonha em morar numa
+cidade grande, mas no
+momento ela precisa se
+contentar com a venda de
+lanches no Molentary
+Express, oferecendo um
+monte de guloseimas
+apetitosas aos
+passageiros do trem,
+desinteressados. É bem
+comum ela ser vista
+gracejando com Steve.
 !******************************!
 [chr_28.txt]
-By day, Marjorie works
-as a teacher in
-Dropstone, as you might
-have guessed from her
-good nature and
-sensible shoes.
-At night, Marjorie lets
-loose by writing a
-series of popular
-mystery novels.
+Durante o dia, Marjorie
+trabalha como professora
+em Dropstone, como você
+pode ter adivinhado por
+sua aparência formal e
+sapatos sensíveis. Já de
+noite, Marjorie gosta de
+descontrair escrevendo
+uma série de populares
+romances de mistério.
 !******************************!
 [chr_29.txt]
-Conrad is a college
-student, originally from
-Dropstone. His role
-model is Marjorie, and
-he emulates her in
-every way possible. He
-claims to enjoy reading
-anything he can get his
-hands on, but this may
-just be something he
-heard Marjorie say.
+Conrad é um estudante
+universitário que nasceu
+em Dropstone. O seu maior
+exemplo a seguir é
+Marjorie, e ele tenta
+imitá-la de todas as
+formas possíveis. Ele diz
+gostar de ler de tudo,
+mas provavelmente é só
+porque ele ouviu Marjorie
+dizer uma vez.
 !******************************!
 [chr_3.txt]
-The mere mention of
-Inspector Chelmey
-leaves London criminals
-shaking in their boots,
-though his reputation
-may slightly overstate
-his actual skills. After
-wrapping up a case, he
-loves celebrating with
-his beloved wife's
-home-made cakes.
+A mera menção de seu
+nome faz os criminosos de
+Londres tremerem até as
+botas, muito embora sua
+reputação não o seja de
+todo merecida. Depois de
+fechar um caso, ele gosta
+de comemorar comendo os
+biscoitos caseiros que
+sua amada esposa faz.
 !******************************!
 [chr_30.txt]
-Karla is a wealthy woman
-with a burning desire to
-see every inch of the
-globe. Unfortunately,
-she's also deathly
-afraid of flying and
-plastic cutlery, which
-is why she only travels
-by luxury train.
+Karla é uma mulher muito
+rica, com um desejo
+ardente de explorar
+todos os cantos do mundo.
+Infelizmente, ela entra em
+pânico ao voar em aviões
+ou avistar talheres de
+plástico, e é por isso que
+ela só viaja em um trem de
+primeira classe.
 !******************************!
 [chr_31.txt]
-This friendly, big-
-hearted adventurer
-travels the globe in an
-attempt to shed light
-on many of the world's
-unsolved mysteries.
-Romie always travels
-with a huge backpack
-that's said to hold the
-seven tools necessary
-for globe-trotting.
+Este viajante de grande
+coração viaja por todo o
+mundo com o desejo de
+resolver todos os seus
+mistérios. Romie sempre
+viaja com uma mochila
+enorme que, segundo as
+más línguas, contém
+as sete ferramentas
+necessárias para viajar
+pelo mundo.
 !******************************!
 [chr_32.txt]
-One of many servants in
-the Anderson house,
-Dorothea's main duties
-involve looking after
-Katia, though the two
-are actually close in
-age. Perhaps it's this
-closeness in age that
-causes Katia to turn to
-Dorothea when she
-wants to talk.
+Uma dentre as várias
+criadas na casa de
+Sr. Anderson, a maior
+obrigação de Dorothea
+é cuidar de Katia, embora
+ambas tenham quase que
+a mesma idade. Talvez seja
+por causa das idades
+parecidas que Katia
+confia em Dorothea para
+contar seus segredos.
 !******************************!
 [chr_33.txt]
-Clabber is a dairy
-farmer and breeder of
-fine cattle. Considering
-how proud he is of his
-own livestock, he has a
-surprisingly hard time
-telling his cows apart
-from those of other
-farmers.
+Clabber é fazendeiro e
+criador das melhores
+vacas da cidade.
+Considerando o quão
+orgulhoso de sua criação
+ele é, por incrível que
+pareça ele tem grandes
+dificuldades em distinguir
+suas vacas das dos
+outros fazendeiros.
 !******************************!
 [chr_34.txt]
-Oscar is a dairy farmer
-who raises all his cows
-with affection and
-tenderness, yet for
-some reason many of
-his best cows dislike
-him. Even so, Oscar
-takes such good care
-of them that they all
-have lustrous coats
-worthy of blue ribbons.
+Oscar é um fazendeiro
+que cria todas as suas
+vacas com carinho e
+afeto, muito embora, por
+alguma razão, várias de
+suas vacas não gostam
+dele. Mesmo assim, Oscar
+cuida tão bem delas que
+todas possuem um pelo
+lustroso digno de todos
+os prêmios.
 !******************************!
 [chr_35.txt]
-Layton and Luke meet
-Nick at the livestock
-competition, where he
-tells them about an
-influential figure in
-Dropstone. He loves
-chatting with anyone
-he can find, so he often
-plays tour guide to
-unsuspecting visitors.
+Layton e Luke conheceram
+Nick na competição de
+gado, onde ele lhes
+contou sobre uma figura
+influente em Dropstone.
+Ele adora conversar com
+todo mundo que encontra,
+então é comum ele atuar
+como guia turístico da
+cidade para visitantes
+desavisados.
 !******************************!
 [chr_36.txt]
-Gabe knows his way
-around a kitchen and
-is the best chef in all
-Dropstone. His
-creations are so
-delicious, in fact, that
-people throw parties
-just so he'll cater
-them. He's also a loving
-husband to Balsa.
+Gabe sabe tudo sobre
+cozinha e é o melhor
+chef de toda Dropstone.
+Seus pratos são tão
+requintados de fato,
+que as pessoas celebram
+festas só para poder
+saboreá-los. Ele também
+é o marido amoroso de
+Balsa.
 !******************************!
 [chr_37.txt]
-You may have met
-Balsa in Dropstone,
-where she was probably
-building something. A
-hardy woman who enjoys
-physical labour, she lets
-her husband, Gabe, do
-most of the cooking. For
-his birthday, she built a
-display case for his
-ramekin collection.
+Você talvez tenha
+conhecido Balsa em
+Dropstone quando ela
+estava construindo algo.
+É uma mulher forte que
+gosta de trabalho físico,
+e que deixa seu marido,
+Gabe, ficar com a cozinha.
+Para o aniversário dele,
+ela construiu uma
+prateleira para sua
+coleção de panelas.
 !******************************!
 [chr_38.txt]
-Wurtzer is a warm
-gentleman whose way
-with words and
-companionable nature
-make him the perfect
-conversation partner.
-When Mr Anderson
-feels down and wants
-to talk to someone, he
-often seeks out
-Wurtzer.
+Wurtzer é um bom
+cavalheiro cuja natureza
+companheira e jeito com
+as palavras fazem dele
+alguém com quem é um
+prazer bater um papo.
+Quando o Sr. Anderson
+está triste e precisa
+conversar com alguém, é
+a Wurtzer que ele
+recorre.
 !******************************!
 [chr_39.txt]
-Lopez is Dropstone's
-resident fashionista,
-and he constantly feels
-the need to analyse the
-fashion choices of
-others. Ironically,
-though, most of what
-he wears is decidedly
-unexciting and average.
-He's most critical of
-people's hat choices.
+Lopez é o fashionista
+local de Dropstone, e ele
+constantemente sente
+uma vontade de analisar
+as escolhas de moda dos
+outros. Ironicamente, no
+entanto, a maior parte do
+que ele veste é medíocre
+e desinteressante. Ele é
+ainda mais crítico quanto
+aos chapéus das pessoas.
 !******************************!
 [chr_4.txt]
-A brilliant scientist who
-believes himself to be
-Layton's arch-nemesis,
-Don Paolo disguises
-himself as Flora to gain
-access to information
-and to wreak general
-havoc. Unbeknownst to
-Layton, Don Paolo also
-studied under Dr
-Schrader.
+Um cientista brilhante que
+se considera arqui-inimigo
+de Layton, Don Paolo se
+disfarça de Flora para
+obter informações e
+semear o caos. Sem o
+conhecimento de Layton,
+Don Paolo também foi
+aluno de Dr. Schrader.
 !******************************!
 [chr_40.txt]
-Laurel is an elderly 
-farmer who tells Luke
-and Layton all about
-brewing tea. She has
-her own herb garden,
-where she grows many
-tea ingredients. She can
-often be found cooing
-over her pet bird, whose
-name, incidentally, is
-Tweets.
+Laurel é uma fazendeira
+idosa que conta a Luke e
+Layton tudo sobre como
+preparar chá. Ela tem seu
+próprio jardim de ervas,
+onde planta vários
+ingredientes para chá.
+É comum vê-la mimando seu
+passarinho de estimação
+que, por coincidência,
+se chama Tweets.
 !******************************!
 [chr_41.txt]
-This brave postman
-is based in Dropstone,
-but fearlessly delivers
-letters as far away as
-Folsense. Parcelle is
-known for his positive
-attitude and dedication
-to the job. His motto is
-"Delivering smiles, one
-letter at a time."
+Este carteiro corajoso
+trabalha principalmente
+em Dropstone, mas também
+entrega, sem medo, cartas
+até mesmo na longínqua
+Folsense. Parcelle é
+conhecido pelo seu
+otimismo e sua dedicação
+ao trabalho. Seu lema é
+"Entregar sorrisos a
+cada carta entregue".
 !******************************!
 [chr_42.txt]
-Lulu's carefree nature
-doesn't always sit well
-with everyone. On the
-surface, she seems to
-be the polar opposite of
-her brother, Angus,
-but the two actually
-spend weeks planning
-and building their
-festival booths
-together.
+A natureza descuidada de
+Lulu nem sempre é bem
+vista por todos. Vendo de
+fora, ela parece ser o
+completo oposto de seu
+irmão, Angus, mas os dois
+na verdade passam
+semanas planejando e
+montando as barracas do
+festival juntos.
 !******************************!
 [chr_43.txt]
-Albert believes himself
-to be an expert in
-all things Dropstone,
-but isn't up to speed
-with the truth behind
-Dropstone's beginnings.
-Albert dreams of one
-day becoming a teacher.
-Or a professional
-Dropstone trivia nerd.
+Albert acredita ser um
+especialista em tudo o que
+tem a ver com Dropstone,
+mas não está a par da
+verdade por trás das
+origens de Dropstone.
+Albert sonha em se tornar
+professor algum dia. Ou
+talvez um especialista na
+história de Dropstone.
 !******************************!
 [chr_44.txt]
-Madeline can be hard
-to read. One minute
-she's warm and friendly;
-the next minute she's
-irritated and ranting.
-It is this unpredictable
-nature that makes her
-so alluring to more than
-a few men in the village.
+Madeline pode ser uma
+pessoa complicada de
+lidar. Em um instante ela
+está calma e amigável, mas
+no instante seguinte ela
+fica irritada e ranzinza.
+É essa sua natureza
+imprevisível que torna ela
+tão atraente aos olhos
+de alguns homens no
+vilarejo.
 !******************************!
 [chr_45.txt]
-Remy works as a guard
-at Mr Anderson's
-mansion, though few
-people ever come by.
-Therefore, Remy usually
-spends his days asleep
-on his feet at his post.
-Few people are as good
-as Remy at multitasking
-while asleep.
+Remy trabalha como
+guarda da mansão de Sr.
+Anderson, embora seja
+raro alguém ir até lá.
+Portanto, ele geralmente
+passa os dias dormindo de
+pé no seu posto. Poucas
+pessoas conseguem a
+façanha de Remy, quanto
+a dormir e trabalhar ao
+mesmo tempo.
 !******************************!
 [chr_46.txt]
-Angus manages several
-of the carnival booths
-in Dropstone. He loves
-seeing his customers
-smile, but because his
-focus is always on the
-customer, he rarely
-turns a profit. At least
-he'll always have the
-adoration of the village
-children.
+Angus cuida de várias
+barracas do festival em
+Dropstone. Ele adora ver
+seus clientes sorrirem,
+mas como seu foco está
+sempre no cliente, ele
+raramente faz com que
+o negócio das barracas
+seja lucrativo. Pelo menos
+ele sempre é adorado
+pelas crianças do
+vilarejo.
 !******************************!
 [chr_47.txt]
-Kostya is an elderly man
-who was around at the
-founding of Dropstone
-and has lived there ever
-since. Before that, he
-lived in Folsense and,
-as such, talk of curses
-and monsters tends to
-make him a little jumpy.
+Kostya é um velho senhor
+estava por perto no dia
+em que Dropstone foi
+fundado, e tem morado lá
+desde então. Antes disso,
+ele morava em Folsense e,
+por causa disso, ouvir
+sobre maldições e
+monstros tende a
+deixá-lo um pouco
+nervoso.
 !******************************!
 [chr_48.txt]
-Until it closed, Dylan
-worked in the Folsense
-mine, where he spent
-long hours excavating
-precious metals. The
-rumour in Folsense is
-that Joanie has Dylan
-wrapped 'round her
-little finger, and that
-he'd do anything for her.
+Até ser fechada, Dylan
+trabalhou na mina de
+Folsense, onde passava
+longas horas escavando
+metais preciosos. Há
+rumores de que Joanie
+tem Dylan na palma de sua
+mão, e que por isso ele
+faz qualquer coisa por
+ela.
 !******************************!
 [chr_49.txt]
-Joseph runs the photo
-studio in Folsense and
-loves to play pranks on
-his customers. Because
-of his penchant for
-mischief, some of the
-locals consider him
-to be a bit of a fibber.
-But he has no interest
-in lying to anyone. He
-just likes a good prank.
+Joseph administra o
+estúdio de fotografia de
+Folsense, e adora pregar
+peças em seus clientes.
+Devido a essa propensão
+a traquinagens, alguns
+cidadãos o consideram um
+mentiroso. No entanto,
+ele não tem interesse
+em mentir pra ninguém.
+Ele gosta mesmo é de
+uma boa pegadinha.
 !******************************!
 [chr_5.txt]
-After opening the box,
-the doctor falls into a
-coma so deep even the
-inspector believes him
-to be deceased. Luckily,
-this proves not to be
-the case, and his
-subsequent recovery is
-sure to be documented
-in medical journals for
-years to come.
+Depois de abrir a caixa, o
+doutor entra em um coma
+tão profundo que até o
+inspetor acredita que ele
+faleceu. Por sorte, não é
+esse o caso, e a sua
+recuperação milagrosa
+certamente será falada
+em diversas publicações
+médicas, nos anos a
+seguir.
 !******************************!
 [chr_50.txt]
-Rory's the youth you
-may have seen standing
-outside Folsense
-station all day long.
-Though he seems like
-a slacker, he's just a
-guy who's been waiting
-outside the station for
-his girlfriend to return
-for a very long time.
+Rory é o jovem que você
+talvez já tenha visto na
+frente da estação de
+Folsense. Apesar de
+parecer um preguiçoso,
+ele é apenas um rapaz
+que passa o dia na
+estação esperando que
+sua namorada, ausente
+por um bom tempo, volte
+à cidade.
 !******************************!
 [chr_51.txt]
-Everyone in Folsense
-knows Lila's distinctive
-laugh. Her curious
-nature and love of
-rumours make her a
-great source for town
-gossip. Lila also has
-poor circulation and
-often suffers from the
-chills.
+Todos em Folsense
+conhecem a risadinha
+distinta de Lila. Por ser
+muito curiosa e gostar
+de rumores, isso faz dela
+uma grande fonte de
+fofocas na cidade. Lila
+também sofre de má
+circulação e está
+sempre com frio.
 !******************************!
 [chr_52.txt]
-Damon's the hip kid who
-teaches you about hint
-coins on a corner in
-London. Though
-everything from his hair
-to his jacket exudes
-street cred, he's almost
-certainly from some dull
-suburb.
+Damon é aquele carinha
+de roupa legal que ensina
+como encontrar moedas de
+dica em um canto de
+Londres. Embora sua
+aparência urbana leve a
+crer que ele mora em um
+bairro nobre, é quase
+certo que na verdade ele
+seja de algum subúrbio da
+cidade.
 !******************************!
 [chr_53.txt]
-Felix works on the door
-at one of Folsense's
-chicest restaurants.
-Felix strictly enforces
-the restaurant's
-no-hat policy, but the
-irony of the situation is
-that Felix actually has
-the most extensive hat
-collection in Folsense.
+Felix trabalha como
+porteiro de um dos
+restaurantes mais
+chiques de Folsense. Ele
+é muito rigoroso com a
+norma de não usar chapéu
+dentro do restaurante,
+mas a ironia da situação
+é que Felix na verdade
+tem a maior coleção de
+chapéus da cidade.
 !******************************!
 [chr_54.txt]
-Niles is just a regular
-kid who likes to play,
-but almost everyone
-left in Folsense is an
-adult. Since he has no
-one to play with, poor
-Niles just gobbles 
-Citronia Seeds until his
-fingers turn orange.
-Duke is his older
-brother.
+Niles é só uma criança
+normal que gosta de
+brincar, mas quase todos
+que restaram em Folsense
+são adultos. Como ele não
+tem ninguém com quem
+brincar, o pobrezinho do
+Niles passa o dia comendo
+Sementes Cítricas até
+seus dedos ficarem
+laranja. Duke é seu irmão
+mais velho.
 !******************************!
 [chr_55.txt]
-Though it can seem like
-Duke talks down to
-people, it's actually
-just the unfortunate
-way he holds his face
-that makes him seem
-that way. His softer
-side comes out when
-he's with his little
-brother, Niles.
+Apesar de parecer que
+Duke fala mal das outras
+pessoas, na verdade é só
+o jeito mal-encarado de
+seu rosto que faz isso
+parecer. Seu lado mais
+gentil aflora quando ele
+está com seu irmão mais
+novo, Niles.
 !******************************!
 [chr_56.txt]
-Fun-loving and spiky-
-haired Hopper is always
-out to have a good time.
-Because of this, he's a
-walking guidebook of
-Folsense's hot spots
-and restaurants.
-Recently, though, his
-rock 'n' roll lifestyle
-seems to be taking
-its toll.
+Com uma paixão por
+diversão e um cabelo
+espetado, Hopper está
+sempre disposto a
+festejar. Por causa
+disso, ele é como um guia
+de lazer de Folsense.
+Recentemente, porém, ele
+começou a perceber que
+seu estilo de vida
+festeiro está ficando
+mais difícil de aguentar.
 !******************************!
 [chr_57.txt]
-Olson doesn't draw much
-attention from people,
-and he isn't one for
-cracking jokes. His
-eyesight is so bad that,
-even with his glasses on,
-the illusion of Folsense
-could melt away and
-Olson wouldn't notice
-any difference.
-
+Olson é um homem normal
+que não atrai muita
+atenção das pessoas. Sua
+vista é tão ruim que,
+mesmo com os óculos, a
+ilusão de Folsense poderia
+desaparecer e ele sequer
+perceberia a diferença.
 !******************************!
 [chr_58.txt]
-Derby is one of those
-rare people who
-moved into Folsense.
-He's aware of the
-town's strange nature
-but appears to be
-happy enough just
-ignoring the odd
-happenings.
-Apparently, living in a
-ghost town suits him.
+Derby é uma das raras
+pessoas que se mudaram
+para Folsense. Ele está
+ciente da natureza
+estranha da cidade, mas
+parece feliz o bastante
+e simplesmente ignora
+esses acontecimentos
+estranhos.
+Aparentemente, morar
+em uma cidade fantasma
+combina bem com ele.
 !******************************!
 [chr_59.txt]
-Dawson runs the antique
-shop in town and gets
-most excited over items
-with historical meaning
-or personal stories
-attached to them. Items
-whose only significance
-is their monetary value
-don't get his juices
-flowing.
+Dawson administra o
+antiquário da cidade,
+e fica animado na hora
+quando vê objetos com
+significado histórico ou
+histórias pessoas. Itens
+cujo único significado é
+seu valor monetário
+geralmente não o
+interessam muito.
 !******************************!
 [chr_6.txt]
-Anton, the current duke
-of Folsense, is rumoured
-to be a vampire.
-Fifty years ago, Anton
-was separated from his
-love, Sophia, a blow from
-which he never truly
-recovered.
-He is also the elder
-brother of Beluga.
+Anton é o atual duque de
+Folsense, e durante anos
+correu o boato de que ele
+era um vampiro. Cinquenta
+anos atrás, Anton se
+separou de seu grande
+amor, Sophia, um trauma
+do qual ele nunca se
+recuperou. Ele também é
+o irmão mais velho de
+Beluga.
 !******************************!
 [chr_60.txt]
-Joanie's a sweet little
-girl with a penchant for
-being straight with
-people. Her fearless
-attitude has made her
-very popular with the
-tougher crowd up in
-the north-east part of
-town. She loves all
-things cute.
+Joanie é uma garotinha
+doce com uma tendência
+de ser direta com as
+pessoas. Sua atitude
+destemida a tornou muito
+popular entre as pessoas
+do lugar mais a norte da
+cidade, onde geralmente
+são mais duras que o
+costume. Ela adora
+coisas fofas.
 !******************************!
 [chr_61.txt]
-Krantz works on the
-front desk at the
-Folsense hotel and has
-many fond memories of
-the Herzen family. Over
-the years, all the hotel
-staff fled Folsense,
-leaving Krantz to run
-the whole operation
-by himself.
+Krantz trabalha na
+recepção do hotel de
+Folsense e guarda ótimas
+recordações da família
+Herzen. Com o passar dos
+anos, todo o resto dos
+empregados do hotel foi
+embora de Folsense,
+deixando Krantz para
+administrar sozinho todo
+o estabelecimento.
 !******************************!
 [chr_62.txt]
-Grinko's main job is
-Herzen Museum curator,
-but his employer, Beluga,
-often sends him around
-town to sniff out leads
-on the Elysian Box.
-Grinko is one of the few
-people in town who
-fully comprehends many
-of the town's secrets.
-
+O trabalho principal
+de Grinko é servir de
+curador do Museu Herzen,
+mas seu empregador,
+Beluga, comumente o manda
+procurar por pistas da
+Caixa Elísia na cidade.
+Grinko é uma das poucas
+pessoas na cidade que
+compreende totalmente
+vários dos segredos da
+cidade.
 !******************************!
 [chr_63.txt]
-Marina is the daughter
-of the garlic-crazed
-grocer, Garland. If you
-ever doubt that the
-two are related, just
-take a whiff of the
-snacks she carries
-around with her. They
-smell of garlic too.
+Marina é a filha do
+merceeiro obcecado por
+alho, Garland. Se ainda
+tiver alguma dúvida do
+parentesco dos dois, é
+só dar uma olhada nos
+lanches que ela carrega
+consigo. Também tem
+cheiro de alho.
 !******************************!
 [chr_64.txt]
-One of the few remaining
-members of Folsense's
-aristocracy, Opal lives
-in the lap of luxury on
-the north side of town
-with her husband. She
-secretly dreams of a
-more down-to-earth
-life, which is why she
-sewed her favourite
-mustard-yellow dress
-herself.
+Uma dentre os poucos
+aristocratas de Folsense
+que restaram, Opal vive
+cercade de luxo no lugar
+mais a norte da cidade,
+com seu marido. Em sigilo,
+ela sonha em levar uma
+vida mais simples, e por
+isso, ela mesma costurou
+o vestido de cor amarelo-
+mostarda que usa.
 !******************************!
 [chr_65.txt]
-Ray hangs out on the
-edge of town, wearing
-sunglasses at night.
-He enjoys looking like a
-tough guy, but when the
-glasses come off he
-gets so shy that he
-won't even venture out
-into the street.
+Ray anda pela periferia
+da cidade à noite, usando
+óculos escuros. Ele gosta
+de parecer um cara durão,
+mas quando ele tira os
+óculos, ele fica tão tímido
+que tem vergonha até de
+atravessar a rua sozinho.
 !******************************!
 [chr_66.txt]
-There have been many
-chess fans throughout
-history, but few love
-chess like Gregorio.
-His love for chess
-extends to the decor of
-his house, which,
-naturally, consists of
-alternating pieces of
-black-and-white
-furniture.
+Apareceram muitos fãs de
+xadrez no decorrer da
+história, mas poucos
+gostam tanto disso
+quanto Gregorio. Seu amor
+por xadrez chega a ponto
+de afetar até mesmo a
+decoração da sua casa,
+a qual, naturalmente,
+consiste de vários móveis
+alternando entre as
+cores preto e branco.
 !******************************!
 [chr_67.txt]
-Clarice is always out
-chasing the latest
-report of paranormal
-activity. Nothing thrills
-her more than sitting
-quietly in the latest
-ghost-spotting site,
-waiting for something
-creepy to drift by.
+Clarice está sempre à
+procura das últimas
+notícias sobre atividades
+paranormais. Nada lhe
+agrada mais do que ficar
+escondida no último ponto
+de aparição de fantasmas
+que encontra, e lá ficar
+esperando até que algo
+assustador dê as caras.
 !******************************!
 [chr_68.txt]
-If you're craving
-pancakes in Folsense,
-visit Gertie. The
-pancakes she flips
-consistently score
-full marks for taste,
-but never seem to
-come out the same
-size, much to her
-chagrin.
+Se estiver desejando
+comer panquecas em
+Folsense, visite Gertie.
+As panquecas que ela vira
+na caçarola são obras-
+primas em sabor, mas
+parece que nunca ficam
+do mesmo tamanho quando
+prontas, para seu
+desapontamento.
 !******************************!
 [chr_69.txt]
-Why, it's our old friend
-Mr Stachenscarfen!
-Where'd he come from?
-He has a strange habit
-of suddenly appearing,
-only to vanish moments
-later. Where he'll show
-up tomorrow is as much
-of a mystery as his
-identity.
-
+Ora, se não é o
+nosso velho amigo,
+o Sr. Stachenscarfen!
+De onde ele veio? Ele tem
+um estranho hábito de
+aparecer do nada, só
+para sumir de novo
+momentos depois. Onde ele
+reaparecerá amanhã é
+algo tão misterioso
+quanto a sua identidade.
 !******************************!
 [chr_7.txt]
-Katia is the daughter
-of Dropstone's Mr
-Anderson, though the
-two haven't been
-getting along recently.
-Katia goes to Folsense
-to deliver a message
-from her grandmother,
-Sophia, to Anton,
-her grandfather.
+Katia é a filha do Sr.
+Anderson, de Dropstone,
+embora os dois não
+tenham se dado muito bem
+ultimamente. Katia vai até
+Folsense para entregar
+uma mensagem de sua avó,
+Sophia, para Anton, seu
+avô.
 !******************************!
 [chr_70.txt]
-A man of contradictions,
-Pavel is a fearless
-adventurer with no
-sense of direction. He
-was on his way to Egypt
-when he somehow ended
-up in Folsense. He has a
-talent for getting into
-forbidding places, but
-he has no clue how he
-does it.
+Um homem de contradições,
+Pavel é um aventureiro
+imprudente sem senso de
+direção. Ele estava a
+caminho do Egito quando,
+de algum modo, acabou indo
+parar em Folsense. Ele tem
+um dom de se meter em
+lugares proibidos, mas
+não faz ideia de como
+consegue essas proezas.
 !******************************!
 [chr_71.txt]
-Puzzle savant and
-all-round know-it-all
-Granny Riddleton has
-the uncanny ability to
-store puzzles that Luke
-and Layton didn't grab
-on their adventure.
-She's never without her
-trademark hat and tiny
-shack, where she keeps
-the lost puzzles.
+A Vovó Riddleton é
+a "madrinha" dos enigmas
+perdidos, e possui a inata
+habilidade de armazenar
+os enigmas que Luke e
+Layton não viram em sua
+aventura. Ela nunca anda
+sem seu chapéu, que é sua
+marca registrada, e nem
+sem a sua típica cabana,
+onde os enigmas perdidos
+são guardados.
 !******************************!
 [chr_72.txt]
-With Luke's help, this
-little fellow managed to
-get in shape. However,
-the mountain of
-delectable food scraps
-back at home proved to
-be too tempting, and
-upon returning to the
-train the poor hamster
-returned to his old,
-sedentary ways.
+Graças a Luke, nosso
+pequeno amigo conseguiu
+entrar em forma. Porém,
+a quantidade gigante de
+restos de comida que ele
+achou em casa lhe foram
+muito tentadores, e ao
+voltar ao trem, o coitado
+do hamster acabou de
+volta ao seu velho estilo
+de vida sedentário.
 !******************************!
 [chr_73.txt]
-Precious guards the
-path to the north-east
-part of Folsense. He's
-very wary of strangers,
-but is by no means an
-aggressive dog. In fact,
-he warms to you
-awfully quickly if you
-bring him a snack.
+Precious é o guardião do
+caminho que leva à parte
+mais a nordeste de
+Folsense. Ele desconfia
+bastante de estranhos,
+mas não quer dizer que
+seja um cão agressivo.
+Na verdade, se torna
+bastante gentil se você
+lhe trouxer algo para
+comer.
 !******************************!
 [chr_74.txt]
-The Molentary Express
-is owned by Beluga,
-the railroad tycoon.
-It's famous for its
-luxury, earning it the
-title of the world's only
-cruise ship on rails.
-Just a few passengers
-know that it also has
-a secret second route
-that goes to Folsense.
+O dono do Molentary
+Express é Sr. Beluga, o
+magnata das ferrovias.
+O trem é famoso pelo seu
+luxo, assim ganhando o
+título de "iate sobre
+trilhos". Poucos são os
+passageiros que sabem
+que também há uma
+segunda rota secreta
+que leva à Folsense.
 !******************************!
 [chr_75.txt]
-Puzzle Lad One livens up
-puzzles with his endless
-energy and dashing
-moustache. Back in the
-day, he was quite
-athletic and popular
-with the ladies. He's put
-on a few pounds since
-then, but still knows how
-to add flair to puzzles
-with his athletic poses.
+O Enigmano Um se anima
+bastante com enigmas. Ele
+tem muita energia e um
+enorme bigode. No passado
+ele era muito atlético
+e popular entre as
+mulheres. Agora ele
+ganhou uns quilos, mas
+ainda sabe como usar suas
+poses atléticas para
+dar um toque extra aos
+enigmas.
 !******************************!
 [chr_76.txt]
-Famous for his bushy
-beard, Puzzle Lad Two is
-considered the poster
-boy for all the members
-of the puzzle troupe. He
-is an accomplished
-entertainer capable of
-many different feats. 
-You'll rarely spot him
-without his broom and
-other props.
+Famoso pela sua barba
+espessa, o Enigmano Dois
+é o mais conhecido do
+grupo. Ele é um artista
+nato, capaz de várias
+proezas distintas. Você
+raramente o verá sem sua
+vassoura e outros
+equipamentos.
 !******************************!
 [chr_77.txt]
-Puzzle Lad Three is a
-middle-aged gent who
-believes that you don't
-need to show off to do
-a great job. The skill he
-brings to his craft
-makes other puzzle lads
-and lasses look up to
-him like a father. Apart
-from puzzles, his other
-passion is napping.
+O Enigmano Três é um
+senhor de meia-idade que
+acredita que não precisa
+se destacar para fazer
+um bom trabalho. As suas
+manhas com enigmas fazem
+com que outros enigmanos
+e enigminas o vejam como
+um pai. Além dos enigmas,
+sua outra paixão é uma
+boa soneca.
 !******************************!
 [chr_78.txt]
-The identity of this
-puzzle lad is shrouded
-in mystery. Some whisper
-that he secretly rules
-over puzzles from the
-shadows, though no one
-is certain. Puzzle Lad
-Four is extremely
-intelligent and can beat
-almost anyone in a
-battle of wits.
+A identidade deste
+enigmano é cercada por
+mistério. Alguns dizem que
+ele domina os enigmas das
+sombras, embora ninguém
+saiba ao certo. O Enigmano
+Quatro é extremamente
+inteligente, e venceria
+qualquer pessoa em uma
+batalha de intelectos.
 !******************************!
 [chr_79.txt]
-Puzzle Lad Five believes
-his best feature is his
-dapper little moustache.
-While he's not yet as
-skilled as the other
-puzzle lads and lasses,
-he has the market
-cornered when it comes
-to dedication. No one
-tackles puzzles with his
-kind of positivity.
+O Enigmano Cinco acredita
+que seu ponto forte é
+seu bigodinho limpo e
+arrumado. Embora ele não
+seja tão habilidoso como
+os outros enigmanos e
+enigminas, ele domina o
+mercado quando se trata
+de dedicação. Ninguém tem
+uma atitude tão positiva
+quanto ele.
 !******************************!
 [chr_8.txt]
-Sophia was Katia's
-grandmother and
-Anton's former fianc<'e>e.
-In order to protect the
-child growing inside her,
-she left behind her life
-in Folsense to start
-afresh in the fledgling
-village of Dropstone.
-Kind and honest, she was
-loved by all.
+Sophia era a avó de Katia
+e a ex-noiva de Anton.
+Para proteger a criança
+que carregava consigo,
+ela deixou para trás sua
+vida em Folsense, para
+começar uma nova vida no
+recém-fundado vilarejo
+de Dropstone.
+De natureza gentil e
+sincera, ela era amada
+por todos.
 !******************************!
 [chr_80.txt]
-Puzzle Lass One is all
-about sporting the
-hottest looks and
-keeping up with the
-latest trends. One such
-trend is telling people
-to "talk to the hand,"
-which has been her
-new thing of late.
+A Enigmina Um é quem mais
+conhece a moda e suas
+tendências mais recentes.
+Uma das tendências é
+dizer para as pessoas a
+frase "entrou por um
+ouvido e saiu pelo outro",
+o que tem sido o que ela
+mais tem dito ultimamente.
 !******************************!
 [chr_81.txt]
-Puzzle Lass Two has a
-devilish nature and is
-great at convincing
-people to do stuff for
-her. Despite this, no one
-can seem to get angry
-with her. Perhaps she
-should consider a
-career in diplomacy.
+A Enigmina Dois tem uma
+natureza maldosa e é
+muito boa em convencer
+pessoas a fazer coisas
+para ela. Apesar disso,
+ninguém parece ficar
+zangado com ela. Talvez
+ela devesse considerar
+seguir carreira de
+diplomata.
 !******************************!
 [chr_82.txt]
-Puzzle Lass Three is the
-most dependable of the
-bunch and helps to
-organise things in the
-puzzle-actor community.
-In the future she'd like
-to be a music teacher,
-but there's a slight
-hole in her plan: the
-poor thing can't carry
-a tune in a bucket.
+A Enigmina Três é a mais
+responsável do grupo, e
+sempre tenta contribuir
+com a comunidade. No
+futuro, ela gostaria de
+ser professora de música,
+mas tem um porém: ela tem
+um ouvido tão terrível
+que não consegue acertar
+uma nota, o que é uma
+pena.
 !******************************!
 [chr_83.txt]
-Puzzle Lass Four has
-the single unfortunate
-habit of inserting
-herself into every
-conversation around
-her. Some people see
-her as nosy, but she
-is only trying to be
-friendly.
+A Enigmina Quatro tem um
+infeliz costume de se
+meter nas conversas de
+todos à sua volta. Alguns
+vêem-na como intrometida,
+mas ela só está tentando
+ser amigável.
 !******************************!
 [chr_84.txt]
-In a sea of strangeness,
-Puzzle Lass Five stands
-out as decidedly normal.
-She's good at having
-fun in almost every
-situation, no matter how
-mundane. She considers
-her best feature to be
-her snappy taste in
-accessories.
+Em um mar de estranheza,
+a Enigmina Cinco acaba por
+ser a mulher mais normal
+de todas. Ela é boa em
+se divertir em quase toda
+situação, não importa o
+quão mundana for. Ela
+acredita que seu maior
+ponto forte é seu bom
+gosto por acessórios.
 !******************************!
 [chr_85.txt]
-Flora must have thought
-a scarf and sunglasses
-would be enough to
-disguise her identity.
-Of course, anyone who
-knows her should have
-recognised her in an
-instant, but for some
-strange reason, neither
-Layton nor Luke saw 
-through her disguise.
+Flora deve ter pensado
+que um cachecol e um
+óculos de sol seria o
+suficiente para esconder
+sua identidade. Claro,
+qualquer um que a conhece
+devia tê-la reconhecido
+no mesmo instante, mas
+por alguma razão incomum,
+nem Layton e nem Luke
+perceberam seu disfarce.
 !******************************!
 [chr_86.txt]
-Don't be fooled. While
-this may look like Flora,
-it is actually Don
-Paolo in another of his
-masterful disguises. He
-swapped places with
-the real Flora to spy
-on Luke and Layton.
-He's such a master of
-mimicry that he's even
-got her walk spot on.
+Não se engane. Ainda que
+se pareça com a Flora, na
+verdade se trata de Don
+Paolo em outro de seus
+disfarces magistrais. Ele
+trocou de lugar com a
+Flora verdadeira para
+espionar Luke e Layton.
+Seu domínio na arte da
+imitação é tão incrível
+que até o jeito de andar
+dela foi imitado.
 !******************************!
 [chr_87.txt]
-Duke Herzen is Anton
-and Beluga's father, as
-well as the man who
-discovered Folsense's
-gold deposit and made
-the town rich. Unyielding
-and stubborn, he never
-got along well with his
-sons, but was only
-trying to do what he
-thought was best.
+Duke Herzen é o pai de
+Anton e Beluga, e também
+é o homem que descobriu a
+mina de ouro de Folsense
+e enriqueceu a cidade.
+Inflexível e teimoso, ele
+nunca se deu bem com
+seus filhos, mas sempre
+tentava fazer o que
+achava melhor para eles.
 !******************************!
 [chr_88.txt]
-Winston is the Anderson
-family's devoted
-chauffeur. When seeing
-Katia off on her
-journey to Folsense,
-one wonders if he felt
-a twinge of jealousy,
-however irrational, at
-her decision to travel
-by rail instead of by
-car.
+Winston é o chofer devoto
+da família Anderson. Ao
+ver Katia indo embora em
+sua jornada à Folsense,
+imagina-se que ele tenha
+sentido uma pontada de
+ciúme, embora irracional,
+por sua decisão de viajar
+de trem ao invés de ir de
+carro.
 !******************************!
 [chr_89.txt]
-Layton's pride and joy
-is an ode to classic
-design, cast in shiny
-red metal. He keeps the
-car in tip-top shape, so
-it looks great whenever
-he takes it out to solve
-a new mystery. Its tall
-roof affords Layton
-the headroom he needs
-to drive with his hat on.
+O orgulho e alegria de
+Layton é um ode ao design
+clássico, envolto em um
+metal vermelho brilhoso.
+Ele mantém o carro em
+perfeitas condições, por
+isso sempre parece novo
+quando Layton dirige nele
+para resolver um novo
+mistério. Seu teto alto
+permite a Layton dirigir
+com o chapéu.
 !******************************!
 [chr_9.txt]
-Mr Anderson is Katia's
-father and a popular
-and beloved figure in
-Dropstone.
-A gentle soul, he has
-recently been fretting
-about the growing divide
-between himself and
-his daughter.
+O Sr. Anderson é o pai de
+Katia, e uma figura muito
+importante e amada em
+Dropstone. É um homem
+gentil que ultimamente
+está preocupado com o
+crescente abismo que o
+separa de sua filha.
 !******************************!
 [music_0.txt]
 Música Tema do Professor Layton
@@ -3597,37 +3617,37 @@ Precious
 Molentary Express
 !******************************!
 [name_75.txt]
-Rapaz de Enigma 1
+Enigmano Um
 !******************************!
 [name_76.txt]
-Rapaz de Enigma 2
+Enigmano Dois
 !******************************!
 [name_77.txt]
-Rapaz de Enigma 3
+Enigmano Três
 !******************************!
 [name_78.txt]
-Rapaz de Enigma 4
+Enigmano Quatro
 !******************************!
 [name_79.txt]
-Rapaz de Enigma 5
+Enigmano Cinco
 !******************************!
 [name_8.txt]
 Sophia
 !******************************!
 [name_80.txt]
-Moça de Enigma 1
+Enigmina Um
 !******************************!
 [name_81.txt]
-Moça de Enigma 2
+Enigmina Dois
 !******************************!
 [name_82.txt]
-Moça de Enigma 3
+Enigmina Três
 !******************************!
 [name_83.txt]
-Moça de Enigma 4
+Enigmina Quatro
 !******************************!
 [name_84.txt]
-Moça de Enigma 5
+Enigmina Cinco
 !******************************!
 [name_85.txt]
 Flora Disfarçada

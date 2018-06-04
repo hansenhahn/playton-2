@@ -1,5 +1,9 @@
 @echo off
 
+REM copy "Originais\arm9_splash.bin" "arm9.bin" /B/Y
+REM copy "Originais\overlay_0019.bin" "overlay_0019.bin" /B/Y
+REM copy "Originais\overlay_0023.bin" "overlay_0023.bin" /B/Y
+
 armips.exe arm9.asm
 rem blz.exe -en9 arm9.bin
 

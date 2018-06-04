@@ -41,7 +41,7 @@ Vá para a Porta do Dr. Schrader!
 Fale com a Tripulação!
 !******************************!
 [goal_210.txt]
-Va para o Vagão de Luxo!
+Vá para o Vagão de Luxo!
 !******************************!
 [goal_215.txt]
 Vasculhe o Vagão de Luxo!
@@ -128,7 +128,7 @@ Explore o Trem!
 Examine a Cabine!
 !******************************!
 [goal_410.txt]
-Find a Way to Escape!
+Ache um Jeito de Escapar!
 !******************************!
 [goal_420.txt]
 Fuja do Castelo!
@@ -161,7 +161,7 @@ Vá para sua Cabine no Vagão 3!
 Procure o Tom!
 !******************************!
 [goal_60.txt]
-Find the Couple Who've Seen Tom!
+Ache o Casal que viu o Tom!
 !******************************!
 [goal_70.txt]
 Volte para o Vagão 4 - Corredor!
@@ -170,10 +170,10 @@ Volte para o Vagão 4 - Corredor!
 Continue Procurando o Tom!
 !******************************!
 [goal_85.txt]
-Find the Girl with a Small Dog!
+Ache a Garota com o Cachorrinho!
 !******************************!
 [goal_90.txt]
-Talk to the Mystery Girl!
+Converse com a Garota Misteriosa!
 !******************************!
 [next_10.txt]
 The professor and Luke decide
@@ -486,8 +486,8 @@ has been added to Layton's
 Challenges.
 !******************************!
 [tx_1300.txt]
-There are currently no puzzles
-in Granny Riddleton's shack.
+No momento, não há enigmas na
+cabana da Vovó Riddleton.
 !******************************!
 [tx_1400.txt]
 Para meu querido amigo,

@@ -460,9 +460,9 @@ são a fonte da sabedoria
 do Professor.
 !******************************!
 [tobj20.txt]
-Essa foto relaxante
-realmente combina com
-o ambiente desta sala.
+Essa pintura relaxante
+realmente combina com o
+ambiente desta cabine.
 !******************************!
 [tobj21.txt]
 Ah! É uma foto minha e

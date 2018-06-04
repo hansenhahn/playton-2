@@ -104,7 +104,7 @@ Quanto da área é céu e quanto é nuvem?
 !******************************!
 Bom trabalho!
 
-A segredo aqui é usar os pinos ao redor
+O segredo aqui é usar os pinos ao redor
 da imagem para dividi-la em quadrados. Assim
 que o fizer, ficará claro que B e F, C e I,
 D e G, e E e H são simplesmente pares do
@@ -443,9 +443,10 @@ continua, então na próxima estação desce
 na última estação, os últimos passageiros
 que sobraram também descem.
 
-Assumindo que ninguém tenha entrado no trem
-durante a viagem, qual é o menor número de pessoas
-que poderiam estar a bordo do trem quando ele partiu?
+Assumindo que ninguém tenha entrado no
+trem durante a viagem, qual é o menor
+número de pessoas que poderiam estar a
+bordo do trem quando ele partiu?
 !******************************!
 Bom trabalho!
 

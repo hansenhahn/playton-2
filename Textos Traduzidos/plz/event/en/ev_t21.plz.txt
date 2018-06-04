@@ -470,7 +470,7 @@ sapatinho no chão.
 de um bebê.
 !******************************!
 [t21_050_1200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:152>E agora esse boné encontrado
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:152>Depois, tem aquele boné encontrado
 na cozinha...<W>
 !------------------------------!
 Mas foi largado num canto tão apertado,
@@ -504,7 +504,7 @@ E se estivermos errados desde o começo?
 !******************************!
 [t21_050_1600.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:52>Acho que sei aonde quer chegar,
-Professsor...
+Professor...
 !******************************!
 [t21_050_1700.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:182>O segundo sapato era um sapato
@@ -516,11 +516,11 @@ significar o que penso que significa,
 então nosso amigo Tom é...
 !******************************!
 [t21_050_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:60>Isto se parece com um sapato
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:60>Isto se parece com o sapato
 do Tom, não é Professor?
 !******************************!
 [t21_050_300.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:19>Certamente sim.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:19>Certamente.
 !******************************!
 [t21_050_400.gds]
 <01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:95>Isso é estranho... É o mesmo pé 
@@ -607,7 +607,7 @@ nossa ajuda. Como podemos ser úteis?
 <01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:138>Um amigo me deu este enigma
 porque amo arte, mas...<W>
 !------------------------------!
-Talvez você tenham melhor sorte com ele
+Talvez você tenha melhor sorte com ele
 do que eu. Gostaria de resolvê-lo?
 !******************************!
 [t21_061_100.gds]
@@ -635,14 +635,14 @@ trem do caminho.
 !******************************!
 [t21_071_100.gds]
 <01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:73>Espero que consiga mover esse trem
-cedo ou tarde. Tem sido tão frustrante!
+cedo ou tarde. Tá complicado!
 !******************************!
 [t21_073_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:61>Espero que possamos continuar
 nossa jornada.
 !******************************!
 [t21_073_300.gds]
-<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:83>Parece que agora está tudo bem.
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:83>Parece que agora tá tudo bem.
 Me dá um segundo e estaremos
 rodando novamente.
 !******************************!
@@ -660,8 +660,9 @@ chegarmos em Dropstone.
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:11>Eu também.
 !******************************!
 [t21_074_100.gds]
-<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:99>Este trem está uma bagunça. Não acho
-que eu vá conseguir arrumar ele tão cedo.
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:99>Esse trem tá uma bagunça.
+Não acho que eu vá conseguir
+arrumar ele tão cedo.
 !******************************!
 [t21_080_100.gds]
 <01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:50>Eca! Professor, o açucar está
