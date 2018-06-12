@@ -8,7 +8,7 @@ stylus e coloque-os nos lugares certos
 para completar o mapa!
 
 Pode parecer simples, mas não esqueça
-que, além de mover, você poder remover
+que, além de mover, você pode remover
 os pedaços, incluindo aquele que já está
 no centro do mapa.
 !******************************!
@@ -344,7 +344,7 @@ cada imagem.
 <00><19><16><13><12><08><09><10><EF><03><02><FF>
 Essas formigas trabalham duro para levar
 comida ao seu ninho. Uma dessas formigas
-voltava com açucar quando esbarrou com
+voltava com açúcar quando esbarrou com
 uma conhecida em frente ao ninho.
 
 <''>O que deu em você? Não percebeu que voltou
@@ -723,8 +723,8 @@ desistir e tentar novamente, mas como só
 há duas respostas possíveis, você já tem
 a solução...
 
-Mas não deixe de pensar no porquê essa é
-a resposta certa!
+Mas não deixe de pensar no porquê dessa
+ser a resposta certa!
 !******************************!
 Pegue alguns copos, troque o vinagre
 por água, e tente você mesmo o enigma.
@@ -871,48 +871,49 @@ vagões e você terá trocado os trens
 em um instante.
 !******************************!
 [n26.dat]
-<0027>A Dramatic Farewell
+<0027>Um Dramático Adeus
 <00><14><12><10><12><15><05><1A><EB><03><03><04>
-Train stations are an especially good place
-for dramatic farewells, aren't they?
+Estações de trem são bons lugares para
+despedidas dramáticas, não é mesmo?
 
-Below is a painting of a man and woman
-bidding each other a tearful goodbye.
-Somewhere within this painting, however, is a
-single unrealistic detail. 
+Abaixo está uma pintura de um homem e
+uma mulher despedindo-se um do outro.
+Contudo, em algum lugar desta pintura, há
+um pequeno detalhe impossível de acontecer
+no mundo real.
 
-Find and circle that detail.
-
+Encontre e circule o detalhe.
 !******************************!
-Well spotted!
+Muito bem apontado!
 
-Were the man in the painting to open the
-window as shown above, the frame would go
-through the roof of the train!
+Se o homem na pintura tivesse aberto a
+janela como mostrado acima, a moldura
+teria atravessado o teto do trem!
 
-These days, most trains have windows that
-only open partially. Of course, thanks to
-modern air-conditioning, a good number of
-trains have been fitted with windows that
-don't open at all!
+Nos dias atuais, a maioria dos trens têm
+janelas que só abrem parcialmente. É claro
+que, graças aos ar-condicionados, um bom
+número de trens possuem janelas que nem
+mesmo podem ser abertas!
 !******************************!
-Too bad!
+Que pena!
 
-Cast a sceptical eye over the painting and
-try again.
+Lance um olhar crítico sobre a pintura
+e tente novamente.
 !******************************!
-There's nothing wrong with the dog.
+Não há nada errado com o cachorro.
 !******************************!
-The moon and the lamp-post are fine.
+Está tudo certo com a lua e o poste
+de luz.
 
-Oh, and don't bother with the man in
-the foreground of the painting either.
+Ah, e também não perca tempo com o
+homem no primeiro plano da pintura.
 !******************************!
-The detail you're searching for has to
-do with the train carriage. Once you've
-spotted it, you're sure to shout,
-<''>There's no way you could move it
-like that!<''>.
+O detalhe que você procura tem a ver
+com o vagão do trem. No momento em
+que encontrá-lo, tenho certeza que
+irá falar <''>Não tem como abrir isso
+assim!<''>.
 !******************************!
 [n27.dat]
 <0028>The Warped Wheel
@@ -2044,7 +2045,7 @@ Aqui vai um enigma saboroso para você.
 
 Você consegue mover a pilha de panquecas do
 prato azul à esquerda para o prato vermelho
-à direita? Espera aí, não tão fácil quanto
+à direita? Espera aí, não é tão fácil quanto
 parece. Você deve seguir estas regras:
 
 <->Você só pode mover uma panqueca de cada

@@ -745,7 +745,7 @@ Que inoportuno!
 [d_3.txt]
 Como suspeitava, o vagão-restaurante
 do Molentary Express é muito popular
-com os passageiros e, apesar de
+entre os passageiros e, apesar de
 estarmos pacientemente esperando
 vagar uma mesa, tenho a impressão de
 que não iremos almoçar tão cedo. 
@@ -1240,7 +1240,7 @@ O Símbolo na Forma de Cabra
 A Fotografia Perdida
 !******************************!
 [t_3.txt]
-A Popularidade do Vagão-Restaurante
+O Popular Vagão-Restaurante
 !******************************!
 [t_30.txt]
 O Guardião Mal-Humorado
@@ -2034,7 +2034,7 @@ Bem, meu nome é Inspetor Chelmey.
 Vocês dois encontraram o corpo, correto?
 !******************************!
 [m4_5.txt]
-M-Mas que raios?
+M-mas que raios?
 !******************************!
 [m4_6.txt]
 Não, Luke! Deixe-o em paz!

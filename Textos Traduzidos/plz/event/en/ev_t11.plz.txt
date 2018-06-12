@@ -152,16 +152,16 @@ grande, né?<W> Acredito que ele
 seja um hamster, certo?
 !******************************!
 [t11_100_1200.gds]
-<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:423>É claro que ele é um hamster! Sua
-compostura os torna a mais nobre
-entre todas as criaturas!<W>
+<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:423>Claro que ele é um hamster! A compostura
+desses animais os tornam as mais nobres
+dentre todas as criaturas!<W>
 !------------------------------!
 Quando eu comecei a trabalhar aqui,
 precisava de alguém para me fazer
 companhia, então eu o comprei.<W>
 !------------------------------!
-O problema é que alimento ele com os
-restos da comida dos pratos, o que acaba
+O problema é que dou para ele apenas os
+restos de comida dos pratos, o que acaba
 sendo uma dieta, err, bem calórica.<W>&setani 14 b2_weep&
 !------------------------------!
 Ele está bem fora de forma e, para ser
@@ -191,7 +191,7 @@ por um tempo?
 !******************************!
 [t11_100_1800.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:194>Bem, eu sempre disse que ajudar
-roedores em necessidade faz parte dos
+roedores em apuros faz parte dos
 deveres de um legítimo cavalheiro.<W>
 !------------------------------!
 Ficaremos felizes em termos
@@ -1283,7 +1283,7 @@ Falando sobre riquezas e futilidades!
 de pessoas afortunadas, como essa
 mulher que acabamos de conhecer.<W>
 !------------------------------!
-Precisamos cuidar as nossas
+Precisamos medir as nossas
 palavras aqui. Uma ocasião formal
 exige formalidades, não acha?
 !******************************!

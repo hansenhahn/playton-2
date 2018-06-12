@@ -363,8 +363,8 @@ Aqui está o primeiro grupo de
 enigmas a serem enviados à cabana.<W>
 !------------------------------!
 Se não aparecerem enigmas na próxima
-tela, então não há enigmas não resolvidos
-a enviar para lá no momento.
+tela, então nenhum enigma não-resolvido
+foi enviado para lá até o momento.
 !******************************!
 [t21_034_100.gds]
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:82>Você ficaria chateado se a gente desse
@@ -395,8 +395,8 @@ Aqui está o primeiro grupo de
 enigmas a serem enviados à cabana.<W>
 !------------------------------!
 Se não aparecerem enigmas na próxima
-tela, então não há enigmas não resolvidos
-a enviar para lá no momento.
+tela, então nenhum enigma não-resolvido
+foi enviado para lá até o momento.
 !******************************!
 [t21_040_100.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:46>O que é aquilo? Parece que caiu algo ali.
@@ -665,12 +665,12 @@ Não acho que eu vá conseguir
 arrumar ele tão cedo.
 !******************************!
 [t21_080_100.gds]
-<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:50>Eca! Professor, o açucar está
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:50>Eca! Professor, o açúcar está
 coberto por formigas.
 !******************************!
 [t21_080_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:174>Oh, céus. Não posso esquecer de pegar
-açucar para meu chá de outro lugar.<W>
+açúcar para meu chá de outro lugar.<W>
 !------------------------------!
 Curioso, não é? Como será que elas
 chegaram até ali?<W> Falando de formigas,
@@ -678,7 +678,7 @@ tente resolver este enigma, Luke.
 !******************************!
 [t21_081_100.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:62>As formigas não foram a lugar
-algum, tão pouco aquele enigma.
+algum, tampouco aquele enigma.
 !******************************!
 [t21_082_100.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:52>De onde você acha que essas
@@ -688,18 +688,18 @@ formigas vieram?
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:118>Você conseguiu, meu garoto.<W>
 !------------------------------!
 Apesar de não apreciar formigas em
-meu açucar, não há como não admirar
+meu açúcar, não há como não admirar
 a dedicação delas!
 !******************************!
 [t21_083_200.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:77>Será que é porque até mesmo
-o açucar do Molentary Express é 
+o açúcar do Molentary Express é 
 de primeira classe?
 !******************************!
 [t21_083_300.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:60>Ha ha, tenho certeza de que
 estas formigas são verdadeiras
-apreciadoras de açucar.
+apreciadoras de açúcar.
 !******************************!
 [t21_084_100.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:33>Pense melhor, Luke.
@@ -754,8 +754,8 @@ tão requintada?
 !******************************!
 [t21_100_300.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:210>O que pode ser mais relaxante do que
-estar na sua cabine com um refresco
-gelado, olhando o pôr do sol?<W>
+estar na sua cabine com uma bebida
+gelada, olhando o pôr do sol?<W>
 !------------------------------!
 Mas nem tudo servido em jarras é
 próprio para se beber. Veja este
@@ -837,7 +837,7 @@ Com uma concorrência dessas,
 xícara de chá.<W> Ôôô tédio.
 !******************************!
 [t21_120_500.gds]
-<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:103>Daqui a pouco acaba meu turno, sendo
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:103>Daqui a pouco acaba meu turno. Sendo
 assim, não querem me ajudar a resolver
 este enigma pra passar o tempo?
 !******************************!

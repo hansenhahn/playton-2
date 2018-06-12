@@ -45,7 +45,7 @@ mais um enigma para resolvermos.
 li sua carta.
 !******************************!
 [t20_010_300.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:32>Olá? Está ai?<W> Doutor?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:32>Olá? Está aí?<W> Doutor?
 !******************************!
 [t20_010_400.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:58>Não ouço ninguém lá dentro,

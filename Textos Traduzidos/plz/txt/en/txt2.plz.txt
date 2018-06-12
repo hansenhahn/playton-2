@@ -176,26 +176,26 @@ Ache a Garota com o Cachorrinho!
 Converse com a Garota Misteriosa!
 !******************************!
 [next_10.txt]
-O professor e o Luke decidem visitar
+O professor e Luke decidem visitar
 o apartamento do Dr. Schrader.
 !******************************!
 [next_100.txt]
-O professor, o Luke e a Flora
+O professor, Luke e Flora
 decidem devolver o Tom para sua
 dona, Babette.
 !******************************!
 [next_110.txt]
-O professor, o Luke e a Flora
+O professor, Luke e Flora
 decidem retornar às suas cabines
 para descansarem.
 !******************************!
 [next_120.txt]
-O professor e o Luke decidem
+O professor e Luke decidem
 investigar a causa da parada
 repentina do trem.
 !******************************!
 [next_130.txt]
-O professor e o Luke decidem limpar
+O professor e Luke decidem limpar
 os trilhos para que o trem possa
 seguir seu caminho outra vez.
 !******************************!
@@ -235,7 +235,7 @@ decide to return to the train
 station.
 !******************************!
 [next_20.txt]
-O professor e o Luke decidem entrar
+O professor e Luke decidem entrar
 no prédio do Dr. Schrader.
 !******************************!
 [next_200.txt]
@@ -306,7 +306,7 @@ The professor and Luke decide to
 visit the local grocer's.
 !******************************!
 [next_30.txt]
-O professor e o Luke decidem entrar
+O professor e Luke decidem entrar
 no apartamento do Dr. Schrader.
 !******************************!
 [next_300.txt]
@@ -366,7 +366,7 @@ The professor and Luke decide to
 venture out to Herzen Castle.
 !******************************!
 [next_40.txt]
-O professor e o Luke decidem explorar
+O professor e Luke decidem explorar
 o Molentary Express.
 !******************************!
 [next_400.txt]
@@ -387,8 +387,8 @@ The professor and Luke decide to
 search the castle before leaving.
 !******************************!
 [next_45.txt]
-The professor and Luke decide to
-visit the train's observation deck.
+O professor e Luke decidem
+visitar o mirante do trem.
 !******************************!
 [next_5.txt]
 Luke deve encontrar as chaves do
@@ -396,7 +396,7 @@ carro do professor. Encontre-as
 tocando as gavetas da escrivaninha!
 !******************************!
 [next_50.txt]
-O professor e o Luke decidem iniciar
+O professor e Luke decidem iniciar
 as investigações no trem.
 !******************************!
 [next_510.txt]
@@ -410,36 +410,36 @@ decide to locate the elusive
 Mr Anderson.
 !******************************!
 [next_54.txt]
-O professor e o Luke decidem visitar
+O professor e Luke decidem visitar
 o vagão-restaurante uma segunda vez.
 !******************************!
 [next_58.txt]
-O professor e o Luke decidem retornar
+O professor e Luke decidem retornar
 à sua cabine no vagão 3.
 !******************************!
 [next_59.txt]
-O professor e o Luke decidem ajudar
-nas buscas pelo filhinho da Babette, Tom.
+O professor e Luke decidem ajudar
+nas buscas pelo filhinho de Babette, Tom.
 !******************************!
 [next_60.txt]
-O professor e o Luke decidem procurar
+O professor e Luke decidem procurar
 pelo casal que pode ter visto o Tom.
 !******************************!
 [next_70.txt]
-O professor e o Luke decidem retornar
-para o local do desaparecimento do Tom.
+O professor e Luke decidem retornar
+para o local do desaparecimento de Tom.
 !******************************!
 [next_80.txt]
-O professor e o Luke decidem continuar
-as buscas pelo Tom.
+O professor e Luke decidem continuar
+as buscas por Tom.
 !******************************!
 [next_85.txt]
-O professor e o Luke decidem
-procurar pela jovem vista segurando
+O professor e Luke decidem
+procurar a jovem vista segurando
 um cachorrinho.
 !******************************!
 [next_90.txt]
-O professor e o Luke decidem conversar
+O professor e Luke decidem conversar
 com a garota no mirante.
 !******************************!
 [tx_100.txt]
