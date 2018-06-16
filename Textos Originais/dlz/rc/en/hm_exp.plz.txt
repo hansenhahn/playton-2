@@ -1,0 +1,160 @@
+[msg_nrm_clear.txt]
+%s walked %d steps!
+His level went from %d to %d!
+!******************************!
+[msg_nrm_clear1.txt]
+%s reached his goal
+with %d steps! Oh, yeah!
+!******************************!
+[msg_nrm_clear2.txt]
+%s will now sniff
+out hint coins for you!
+Never miss another coin!
+!******************************!
+[msg_nrm_fail.txt]
+%s walked %d steps
+but wasn't able to reach
+his goal.
+!******************************!
+[msg_nrm_fail1.txt]
+%s walked %d step
+but wasn't able to reach
+his goal.
+!******************************!
+[msg_nrm_start.txt]
+Fitness Level: %d
+Steps for Next Level: %d
+!******************************!
+[msg_slm_clear.txt]
+%s broke his previous
+record by walking %d steps!
+Boy, does he look proud!
+!******************************!
+[msg_slm_even.txt]
+%s walked %d steps
+but was one step short of
+breaking his record. Drat!
+!******************************!
+[msg_slm_fail.txt]
+%s walked %d steps
+but wasn't able to break his
+previous record.
+!******************************!
+[msg_slm_fail1.txt]
+%s walked %d step
+but wasn't able to break his
+previous record.
+!******************************!
+[msg_slm_start.txt]
+Get that hamster walking!
+Try to get him to walk
+more than %d steps!
+!******************************!
+[obj_e00.txt]
+Place items down on the grid in a
+way that makes the hamster walk
+as far as possible. Touch an item
+to see its special characteristics.
+!******************************!
+[obj_e01.txt]
+As the hamster's favourite snack,
+when he comes within three spaces
+of it, he will ignore all other items
+around him and walk straight
+towards it.
+!******************************!
+[obj_e02.txt]
+The hamster isn't interested in
+these blocks, but they are useful
+for blocking his path and line of
+sight. Position them accordingly
+for maximum effectiveness.
+!******************************!
+[obj_e03.txt]
+Your hamster is attracted to this
+adorable little house when it's
+within three spaces of him, but he
+will always ignore it in favour of
+an apple, if there is one nearby.
+!******************************!
+[obj_e04.txt]
+This tiny stump attracts the
+hamster if he's within three spaces
+of it. However, if an apple is also
+within three spaces, the hamster
+always goes for the apple instead. 
+!******************************!
+[obj_e05.txt]
+This charming little flower
+attracts the hamster if he's within
+three spaces of it, though he
+likes apples even more.
+!******************************!
+[obj_e06.txt]
+When the hamster makes contact
+with this tiny light bulb, it flashes,
+causing your hamster friend to
+dash in the direction he's facing
+until he runs into something.
+!******************************!
+[obj_e07.txt]
+When the hamster draws near, this
+item bursts open, surprising the
+hamster and causing him to run
+back the way he came until he
+bumps into something.
+!******************************!
+[obj_e08.txt]
+Playing in the sand pit always
+makes the hamster somersault
+straight for the pool, ignoring all
+nearby items. Somersaults don't
+count towards the step total.
+!******************************!
+[obj_e09.txt]
+After playing in the sand pit, the
+hamster always somersaults
+straight towards the nearest pool,
+no matter what. Somersaults don't
+count towards the step total.
+!******************************!
+[obj_e10.txt]
+The trampoline makes the hamster
+jump forward two spaces and, upon
+landing, run forward until he hits
+something. If his jump lands on an
+item square, the item vanishes.
+!******************************!
+[obj_n00.txt]
+Design a Course
+!******************************!
+[obj_n01.txt]
+Apple
+!******************************!
+[obj_n02.txt]
+Block
+!******************************!
+[obj_n03.txt]
+Pet House
+!******************************!
+[obj_n04.txt]
+Tree Stump
+!******************************!
+[obj_n05.txt]
+Flower
+!******************************!
+[obj_n06.txt]
+Light Bulb
+!******************************!
+[obj_n07.txt]
+Jack-in-a-Box
+!******************************!
+[obj_n08.txt]
+Sand Pit
+!******************************!
+[obj_n09.txt]
+Pool
+!******************************!
+[obj_n10.txt]
+Trampoline
+!******************************!

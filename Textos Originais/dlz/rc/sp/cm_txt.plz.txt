@@ -1,0 +1,21 @@
+[msg_cam.txt]
+<<5E>!>Has arreglado la c<'a>mara! Ahora
+ya puedes hacer fotograf<'i>as.
+!******************************!
+[msg_pht1.txt]
+<<5E>!>Has encontrado la primera
+diferencia de la fotograf<'i>a!
+!******************************!
+[msg_pht2.txt]
+<<5E>!>Has encontrado la segunda
+diferencia de la fotograf<'i>a!
+!******************************!
+[msg_pht3.txt]
+<<5E>!>Felicidades! Has encontrado todas
+las diferencias de la fotograf<'i>a y
+has desbloqueado un puzle.
+!******************************!
+[msg_phtf.txt]
+Parece que ah<'i> no hab<'i>a
+ninguna diferencia...
+!******************************!

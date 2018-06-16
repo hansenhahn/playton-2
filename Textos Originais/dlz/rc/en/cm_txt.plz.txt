@@ -1,0 +1,21 @@
+[msg_cam.txt]
+You've assembled the camera!
+Now you can take photos!
+!******************************!
+[msg_pht1.txt]
+You found the first difference in
+this photo!
+!******************************!
+[msg_pht2.txt]
+You found the second difference in
+this photo!
+!******************************!
+[msg_pht3.txt]
+Congratulations! You found all the
+differences in this photo, and found
+a hidden puzzle in this location!
+!******************************!
+[msg_phtf.txt]
+It seems that there was no
+difference there...
+!******************************!

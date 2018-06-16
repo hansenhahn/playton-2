@@ -1,0 +1,771 @@
+[ht_000_0.txt]
+Oh, it's a little sour and a little
+sweet. Yum.
+!******************************!
+[ht_000_1.txt]
+I certainly have to tip my hat to
+this tea's drinkability. I imagine it
+would be delicious iced, as well.
+!******************************!
+[ht_000_2.txt]
+Yep, and since it's nice and light,
+I'm sure just about anyone would
+be happy to have a cup.
+!******************************!
+[ht_000_3.txt]
+Mmm, yes. I myself am partial to
+its lovely fruity aftertaste.
+!******************************!
+[ht_001_0.txt]
+Deeeelicious! I just love how sweet
+this tea is, Professor!
+!******************************!
+[ht_001_1.txt]
+Well, it's a bit too sweet for me,
+but I understand why so many
+children enjoy it.
+!******************************!
+[ht_001_2.txt]
+I think I could drink a whole pot of
+this stuff  by myself.
+Just watch me!
+!******************************!
+[ht_001_3.txt]
+Ha ha ha! You've got quite the
+sweet tooth, Luke. Just try not to
+drink it too fast.
+!******************************!
+[ht_002_0.txt]
+Hmm. What an interesting blend of
+fruitiness and subtle smokiness.
+!******************************!
+[ht_002_1.txt]
+I've heard you can use the tea
+leaves from this blend to predict
+your love life.
+!******************************!
+[ht_002_2.txt]
+I'm impressed, Luke. It heartens
+me that you take such interest
+in the blending of tea.
+!******************************!
+[ht_002_3.txt]
+But of course, Professor! I
+couldn't rightly call myself your
+apprentice if I didn't!
+!******************************!
+[ht_003_0.txt]
+This tea seems like just the thing
+for driving away the chills when
+you feel a cold coming on.
+!******************************!
+[ht_003_1.txt]
+Maybe so, Professor, but it's a
+little bitter for my tastes.
+!******************************!
+[ht_003_2.txt]
+Now then Luke, no good medicine
+is ever easy to drink! That's
+how you know this is effective.
+!******************************!
+[ht_003_3.txt]
+Oh, I think you might be on to
+something there, Professor!
+I feel all warm inside now!
+!******************************!
+[ht_004_0.txt]
+Ooh, spicy! My whole mouth is
+tingly now!
+!******************************!
+[ht_004_1.txt]
+Yes, there's quite a healthy dose
+of Peppercherry in there. No
+doubt about it.
+!******************************!
+[ht_004_2.txt]
+I kind of like it. It makes me feel
+very chirpy. Next time I'm feeling
+down, I know what to reach for.
+!******************************!
+[ht_004_3.txt]
+Yes, a good cup of Cherry Boost
+can be quite nice every once in
+a while.
+!******************************!
+[ht_005_0.txt]
+Oh, this is simply exquisite. 
+There's a depth of flavour here
+that is lacking in most other teas.
+!******************************!
+[ht_005_1.txt]
+Really? Gosh, maybe my tongue's
+just broken or something. I don't
+see what all the fuss is about...
+!******************************!
+[ht_005_2.txt]
+Ha ha! You may be a bit young for
+this one. It's what some might call
+a tea for the experienced palate.
+!******************************!
+[ht_005_3.txt]
+Well, I don't know about that.
+As far as I'm concerned, it's too
+bitter to be tasty.
+!******************************!
+[ht_006_0.txt]
+My, what a peculiar blend this is.
+Subtle and spicy all at once.
+!******************************!
+[ht_006_1.txt]
+And sweet at the end as well.
+!******************************!
+[ht_006_2.txt]
+I especially like how the initial
+heat helps to balance out the
+sweetness that comes later.
+!******************************!
+[ht_006_3.txt]
+I never imagined spicy and sweet
+could work together so well.
+!******************************!
+[ht_007_0.txt]
+Impressive. One sip and I feel
+rejuvenated. It's smoky, yet it
+has a wonderful sweetness to it.
+!******************************!
+[ht_007_1.txt]
+This is a whole new flavour for
+me, Professor. I've never tried
+anything quite like it.
+!******************************!
+[ht_007_2.txt]
+It's interesting, and I'm sure it's
+good for when you've worked up a
+thirst, but it's not quite my thing.
+!******************************!
+[ht_007_3.txt]
+Really? Well, I for one think it's
+rather tasty.
+!******************************!
+[ht_008_0.txt]
+Mmm, now this smells nice.
+!******************************!
+[ht_008_1.txt]
+Indeed. There's something about
+the aroma of this tea that's quite
+soothing.
+!******************************!
+[ht_008_2.txt]
+You hit the nail on the head,
+Professor. I think it's making me
+sleepy. Yaaaaaawn...
+!******************************!
+[ht_008_3.txt]
+I suppose that's further proof of
+its relaxing effect. It does seem -
+yaaaawn - rather potent, eh?
+!******************************!
+[ht_009_0.txt]
+Ahhh, just take in that aroma.
+It's incredibly relaxing!
+!******************************!
+[ht_009_1.txt]
+Sort of makes you forget all your
+troubles for a minute, eh,
+Professor?
+!******************************!
+[ht_009_2.txt]
+I must confess, this is rather nice.
+It's like the tea drove all the
+weariness from me.
+!******************************!
+[ht_009_3.txt]
+Wow, all that with just a couple of
+sips? The good a cup of herb tea
+can do never fails to amaze me!
+!******************************!
+[ht_010_0.txt]
+Um... What's this flavour? It's a
+bit...odd.
+!******************************!
+[ht_010_1.txt]
+It certainly has a distinct taste,
+but you know, Luke, the more I
+drink it, the more I like it.
+!******************************!
+[ht_010_2.txt]
+If you're that fond of it, you're
+more than welcome to drink my
+cup as well.
+!******************************!
+[ht_010_3.txt]
+Sorry to hear that Cinder Flower
+isn't your...erm...cup of tea,
+Luke.
+!******************************!
+[ht_011_0.txt]
+Wow! This tea is out of this world!
+
+!******************************!
+[ht_011_1.txt]
+I agree, Luke. I'm amazed that
+it's possible to make something
+like this with common ingredients.
+!******************************!
+[ht_011_2.txt]
+The world's just full of
+mysteries like that, isn't it,
+Professor?
+!******************************!
+[ht_011_3.txt]
+Indeed, my boy. Well, consider
+me mystified...
+!******************************!
+[ht_100_0.txt]
+Oh, dear...
+!******************************!
+[ht_100_1.txt]
+Professor, is this tea supposed to
+look so...erm, brown and murky?
+!******************************!
+[ht_100_2.txt]
+I hate to say it, but I think I may
+be wide of the mark with this
+blend. It's completely unpalatable.
+!******************************!
+[ht_100_3.txt]
+Let's write this one down so we
+don't ever try to make it again.
+!******************************!
+[ht_101_0.txt]
+This tea smells a bit, well, funny.
+Are you sure we can drink this,
+Professor?
+!******************************!
+[ht_101_1.txt]
+Why not take a sip and find out
+for yourself?
+!******************************!
+[ht_101_2.txt]
+Eww! I think I'll give this one a
+miss.
+
+!******************************!
+[ht_101_3.txt]
+Where did I go wrong? I was so sure
+I'd brewed something good, too.
+!******************************!
+[ht_102_0.txt]
+Well...
+!******************************!
+[ht_102_1.txt]
+Well...
+!******************************!
+[ht_102_2.txt]
+Um, Professor? I think I'm going to
+throw up.
+!******************************!
+[ht_102_3.txt]
+I'm not surprised. This is really
+not the kind of tea that a
+gentleman should be making.
+!******************************!
+[ht_103_0.txt]
+This is just terrible.
+!******************************!
+[ht_103_1.txt]
+Sorry, Professor. I don't think I
+can choke down another sip.
+!******************************!
+[ht_103_2.txt]
+That's quite all right, Luke. No one
+should ever feel obliged to drink
+something as rank as this tea.
+!******************************!
+[ht_103_3.txt]
+Everything looked good going in.
+I wonder where you went wrong.
+!******************************!
+[ht_104_0.txt]
+Professor, this tea is...foaming!
+!******************************!
+[ht_104_1.txt]
+Oh, dear. I suppose that's a clear
+sign that this tea isn't fit for
+human consumption, then.
+!******************************!
+[ht_104_2.txt]
+I don't understand. We checked all
+the ingredients. Why all this foam?
+!******************************!
+[ht_104_3.txt]
+I'm afraid I have no answer there,
+Luke. But perhaps we can use it
+to clean the floor.
+!******************************!
+[ht_105_0.txt]
+Oh, this won't do at all.
+!******************************!
+[ht_105_1.txt]
+Ugh, this tea is making me sad.
+One sip was enough to make me
+want to cry.
+!******************************!
+[ht_105_2.txt]
+I don't think I've ever come out
+of tea time wearing anything but
+a smile...until now.
+!******************************!
+[ht_105_3.txt]
+Believe me, Professor, you're not
+the only one frowning.
+!******************************!
+[ht_106_0.txt]
+P-Professor! There's smoke
+coming out of this tea!
+!******************************!
+[ht_106_1.txt]
+We may have unwittingly invented
+a drink that should never have
+been.
+!******************************!
+[ht_106_2.txt]
+I'm no coward, but I'm not brave
+enough to drink any of that stuff.
+!******************************!
+[ht_106_3.txt]
+Well then, our course of action is
+clear. Let's seal this recipe away
+and never make it again.
+!******************************!
+[ht_107_0.txt]
+Professor...this tea is...peculiar.
+!******************************!
+[ht_107_1.txt]
+I admit, I can't seem to find a more
+appropriate word for this blend
+than peculiar.
+!******************************!
+[ht_107_2.txt]
+What is that taste anyway?
+Old shoe?
+!******************************!
+[ht_107_3.txt]
+All right, I get the picture, Luke.
+Let's rip up the recipe and never
+make it again.
+!******************************!
+[ht_108_0.txt]
+Interesting. I've never seen tea
+congeal before.
+!******************************!
+[ht_108_1.txt]
+It looks more like pudding than
+tea, Professor. We might need a
+spoon to drink it.
+!******************************!
+[ht_108_2.txt]
+The individual ingredients we used
+seem fine. Technically speaking,
+we should be able to drink it.
+!******************************!
+[ht_108_3.txt]
+Er... None for me, thanks.
+!******************************!
+[ht_109_0.txt]
+Professor, this doesn't look like
+tea at all. If I didn't know better,
+I'd swear we've brewed some mud.
+!******************************!
+[ht_109_1.txt]
+It is rather...viscous. How in the
+world did this happen?
+!******************************!
+[ht_109_2.txt]
+We must have brewed a few
+incompatible ingredients together.
+!******************************!
+[ht_109_3.txt]
+You're quite right there, Luke.
+Next time, let's try a different
+combination, shall we?
+!******************************!
+[ht_110_0.txt]
+The real beauty of tea is the way
+different flavours come together.
+Try using a variety of ingredients.
+!******************************!
+[ht_110_1.txt]
+Yeah. We put in lots of the same
+ingredient, but all it made was a
+boring, one-note tea.
+!******************************!
+[ht_200_0.txt]
+Hmm... What to make with this?
+!******************************!
+[ht_200_1.txt]
+That's an excellent first choice.
+!******************************!
+[ht_200_2.txt]
+Here's our first ingredient.
+!******************************!
+[ht_200_3.txt]
+What to mix with this? Hmm...
+!******************************!
+[ht_200_4.txt]
+This should do nicely.
+!******************************!
+[ht_201_0.txt]
+I've got a tasty idea!
+!******************************!
+[ht_201_1.txt]
+This is a good place to start.
+!******************************!
+[ht_201_2.txt]
+Now, which one should we add
+next?
+!******************************!
+[ht_201_3.txt]
+This is a great first choice!
+!******************************!
+[ht_201_4.txt]
+What would go nicely with that?
+!******************************!
+[ht_210_0.txt]
+An interesting selection of herbs!
+!******************************!
+[ht_210_1.txt]
+Into the pot with this one.
+!******************************!
+[ht_210_2.txt]
+Be it puzzles or brewing tea,
+creative thinking pays off.
+!******************************!
+[ht_210_3.txt]
+Let's see how these ingredients
+blend together.
+!******************************!
+[ht_210_4.txt]
+Ah, we've got a fascinating
+combination on our hands now.
+!******************************!
+[ht_211_0.txt]
+Gosh, I didn't see that combination
+coming.
+!******************************!
+[ht_211_1.txt]
+What to add in next...?
+!******************************!
+[ht_211_2.txt]
+That's two down. But which
+ingredient do we finish with?
+!******************************!
+[ht_211_3.txt]
+Hopefully those two mix together
+well!
+!******************************!
+[ht_211_4.txt]
+Do you suppose these ingredients
+will go well together?
+!******************************!
+[ht_220_0.txt]
+Well, that takes care of the
+ingredients. Now all we need to
+do is start brewing!
+!******************************!
+[ht_220_1.txt]
+I'm quite proud of this concoction.
+I hope the tea tastes as good as
+it looks.
+!******************************!
+[ht_220_2.txt]
+I'm anxious to see how this tea
+comes out. Let's put the lid on
+and start brewing.
+!******************************!
+[ht_220_3.txt]
+I do believe we've assembled a
+rather delectable blend.
+!******************************!
+[ht_220_4.txt]
+What kind of tea will this make?
+I can hardly contain my
+excitement.
+!******************************!
+[ht_221_0.txt]
+This tea's going to be great!
+I'd bet my hat on that!
+!******************************!
+[ht_221_1.txt]
+My fingers are crossed on this
+one! Now let's put the lid on
+the pot and start brewing!
+!******************************!
+[ht_221_2.txt]
+As long as this tea is drinkable,
+I'll be as happy as a clam.
+!******************************!
+[ht_221_3.txt]
+I sure hope this blend makes
+a tasty pot of tea.
+!******************************!
+[ht_221_4.txt]
+Now all we need to do is slap the
+lid on our pot and start brewing!
+!******************************!
+[ht_300_0.txt]
+I'm feeling less than my best. Will
+you make me a tea with Oasis Leaf,
+Brisk Berry and Citronia Seed?
+!******************************!
+[ht_300_1.txt]
+This is splendid, Luke! This is truly
+testament to the restorative
+power of tea!
+!******************************!
+[ht_300_2.txt]
+Luke, this isn't quite what I had
+in mind. I'd like something a bit
+lighter and more fruity.
+!******************************!
+[ht_301_0.txt]
+I'm exhausted! Could you make me a
+tea with some Oasis Leaf and a
+double dose of Brisk Berry?
+!******************************!
+[ht_301_1.txt]
+Oh, this tea sure hits the spot.
+It's sweet, and it's got me ready
+to start walking again.
+!******************************!
+[ht_301_2.txt]
+I don't mean to complain,
+Professor, but do you think you
+can make something sweeter?
+!******************************!
+[ht_400_0.txt]
+%s takes the steaming cup
+of %s and gulps it
+down!
+!******************************!
+[ht_400_1.txt]
+Now that's good tea! %s
+seems restored and in high spirits.
+!******************************!
+[ht_400_2.txt]
+Unfortunately, the tea you brewed
+isn't quite what %s's
+looking for.
+!******************************!
+[ht_exp1.txt]
+<83>n<81><5B><83>u<82><F0><91>I<82>ñ<82><C5><82><AD><82><BE><82><B3><82><A2><81>B
+!******************************!
+[ht_exp2.txt]
+<82>Ó<82><BD><82><F0><82><B5><82>ß<82>Ä<82><AD><82><BE><82><B3><82><A2><81>B
+!******************************!
+[ht_hint_1.txt]
+Listen up! What I want is a classic
+tea with Oasis Leaf, Brisk Berry
+and a good pinch of Citronia Seed.
+!******************************!
+[ht_hint_10.txt]
+I could do with a cup of spicy tea
+to help me chase away these blues.
+!******************************!
+[ht_hint_11.txt]
+I'd like a tea that's sweet, sour
+and a little bitter. You know, a
+sophisticated tea for an adult.
+!******************************!
+[ht_hint_12.txt]
+Could I trouble you for something
+sweet and bitter? If it happens to
+be a bit sour too, all the better.
+!******************************!
+[ht_hint_13.txt]
+Something mysterious would be
+just wonderful. And by mysterious,
+I mean sweet, mild and spicy. OK?
+!******************************!
+[ht_hint_14.txt]
+I'll take a mild tea with a spicy
+kick, if you're making. A dash
+of sweetness would be good too.
+!******************************!
+[ht_hint_15.txt]
+Fix me a smoky tea with clover and
+something sweet in there, and make
+it quick!
+!******************************!
+[ht_hint_16.txt]
+I'm parched, sonny boy. Brew me up
+something sweet and smoky that'll
+take care of my dry throat. 
+!******************************!
+[ht_hint_17.txt]
+One cup of tea with Citronia
+Seed, please. Make sure it tastes
+mild and doesn't keep me awake.
+!******************************!
+[ht_hint_18.txt]
+I need vitamins to brighten up my
+skin! Make me some soothing tea
+with lots of vitamins.
+!******************************!
+[ht_hint_19.txt]
+I'd be a happy camper if you'd fix
+me something spicy and earthy
+that'll help me relax.
+!******************************!
+[ht_hint_2.txt]
+I want something that's got, ur, a
+classic tea taste.
+!******************************!
+[ht_hint_20.txt]
+I'd give my jacket for a relaxing
+cup of tea, and if it had a gentle
+scent and spicy taste, I'd swoon!
+!******************************!
+[ht_hint_21.txt]
+If the tea isn't strong enough,
+I'll be sending it back. Make sure
+it has some Dream Fluff in it too.
+!******************************!
+[ht_hint_22.txt]
+I want a tea that's energising and
+good for what ails ya. Make sure
+it's got a real kick to it, OK?
+!******************************!
+[ht_hint_23.txt]
+For this tea, you'll need something
+that symbolises fire and an
+ingredient that brings happiness.
+!******************************!
+[ht_hint_24.txt]
+That tea must have had a pretty
+wacky blend of ingredients, but I
+do remember it was kind of spicy.
+!******************************!
+[ht_hint_3.txt]
+If you're making a cuppa, love,
+make sure it's refreshing and
+sweet. Like me!
+!******************************!
+[ht_hint_4.txt]
+I'm really into sweets, so make me
+tea that's EXTRA sweet, OK?
+!******************************!
+[ht_hint_5.txt]
+I want a tea that'll tell the future!
+It'll have Oasis Leaf, something
+smoky, and something tart.
+!******************************!
+[ht_hint_6.txt]
+Make me a tea that's fruity and
+smoky. To get the flavour I'm
+after, it needs something burned.
+!******************************!
+[ht_hint_7.txt]
+The tea I'm after has clover, some
+kind of leaf, and something that
+works on colds! You got all that?
+!******************************!
+[ht_hint_8.txt]
+Help me find a tea that'll f-fix my
+b-bad circulation and warm me up.
+I'm f-freezing!
+!******************************!
+[ht_hint_9.txt]
+Gimme something with a bit of
+zing to it, boyo. No half measures,
+now. I want it fiery hot, see?
+!******************************!
+[ht_rcp1.txt]
+Hmm, a textbook cup of
+%s, I'd say.
+!******************************!
+[ht_rcp2.txt]
+Ah, this seems to be a lovely pot
+of %s.
+!******************************!
+[ht_step_m0.txt]
+Add ingredients to the teapot.
+!******************************!
+[ht_step_m1.txt]
+Add two more ingredients to
+the teapot.
+!******************************!
+[ht_step_m2.txt]
+Add one more ingredient to
+the teapot.
+!******************************!
+[ht_step_m3.txt]
+Put the lid on the teapot to start
+brewing.
+!******************************!
+[ht_step_m4.txt]
+Now brewing a pot of
+%s.
+!******************************!
+[ht_step_m5.txt]
+Wait just a moment...
+!******************************!
+[ht_step_m6.txt]
+<92><B2><8D><87><82>É<90><AC><8C><F7><81>I<83>n<81><5B><83>u<83>e<83>B<81><5B><82><AA><8A><AE><90><AC><81>I
+!******************************!
+[ht_step_m6f.txt]
+Your tea was no good.
+What a pity.
+!******************************!
+[ht_step_m6s.txt]
+Well done! One pot of tea coming
+right up!
+!******************************!
+[ht_step_m7f.txt]
+Unfortunately, you failed to make
+anything worth drinking.
+!******************************!
+[ht_step_s0.txt]
+Combine three ingredients to brew
+a tasty pot of tea!
+!******************************!
+[ht_step_s5.txt]
+Oh, the suspense! What will this
+tea taste like?
+!******************************!
+[ht_tea00.txt]
+Citrus Classic
+!******************************!
+[ht_tea01.txt]
+Oasis Berry
+!******************************!
+[ht_tea02.txt]
+Sugar Smoke
+!******************************!
+[ht_tea03.txt]
+Root Remedy
+!******************************!
+[ht_tea04.txt]
+Cherry Boost
+!******************************!
+[ht_tea05.txt]
+Bitter Fruit
+!******************************!
+[ht_tea06.txt]
+Dream Spice
+!******************************!
+[ht_tea07.txt]
+Clover Quencher
+!******************************!
+[ht_tea08.txt]
+Radiance Blend
+!******************************!
+[ht_tea09.txt]
+Cayenne Twilight
+!******************************!
+[ht_tea10.txt]
+Cinder Flower
+!******************************!
+[ht_tea11.txt]
+The Layton Elixir
+!******************************!

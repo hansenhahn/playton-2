@@ -1,0 +1,762 @@
+[ht_000_0.txt]
+<<5E>!>Mmm! Es un poco agrio
+y dulce a la vez.
+!******************************!
+[ht_000_1.txt]
+Se trata de un t<'e> exquisito.
+Seguro que tambi<'e>n est<'a>
+delicioso fr<'i>o.
+!******************************!
+[ht_000_2.txt]
+S<'i>, y como es suave y est<'a>
+muy rico, seguro que le
+gusta a casi todo el mundo.
+!******************************!
+[ht_000_3.txt]
+En efecto. A m<'i> ya me ha
+cautivado el gusto afrutado
+que deja.
+!******************************!
+[ht_001_0.txt]
+<<5E>!>Qu<'e> bueno est<'a>! No sab<'i>a
+que se pudiera hacer un t<'e>
+tan dulce, profesor.
+!******************************!
+[ht_001_1.txt]
+Para m<'i> es quiz<'a>s demasiado
+dulce, pero entiendo por qu<'e>
+a los ni<-n>os les encanta.
+!******************************!
+[ht_001_2.txt]
+Seguro que me puedo beber
+una tetera entera yo solo.
+<<5E>!>Ya ver<'a>, profesor!
+!******************************!
+[ht_001_3.txt]
+<<5E>!>Ja, ja, ja! Qu<'e> goloso eres,
+Luke. No bebas demasiado
+deprisa.
+!******************************!
+[ht_002_0.txt]
+Mmm. Qu<'e> mezcla m<'a>s interesante
+de sabor afrutado y ahumado.
+!******************************!
+[ht_002_1.txt]
+He o<'i>do que puedes leer tu
+futuro amoroso en los posos
+de este t<'e>.
+!******************************!
+[ht_002_2.txt]
+Estoy asombrado, Luke.
+Tu inter<'e>s sobre los distintos
+tipos de t<'e> me impresiona.
+!******************************!
+[ht_002_3.txt]
+<<5E>!>Por supuesto, profesor!
+<<5E>?>Acaso no soy el aprendiz
+del profesor Layton?
+!******************************!
+[ht_003_0.txt]
+Este t<'e> parece la opci<'o>n perfecta
+para combatir los resfriados.
+!******************************!
+[ht_003_1.txt]
+Puede ser, profesor, pero a m<'i>
+me resulta un poco amargo.
+!******************************!
+[ht_003_2.txt]
+Eso es que funciona, muchacho.
+Una de las caracter<'i>sticas de las
+medicinas es que nunca saben bien.
+!******************************!
+[ht_003_3.txt]
+<<5E>!>Puede que tenga raz<'o>n, profesor!
+Ya siento c<'o>mo me calienta
+por dentro.
+!******************************!
+[ht_004_0.txt]
+<<5E>!>C<'o>mo pica este t<'e>!
+!******************************!
+[ht_004_1.txt]
+S<'i>, es evidente que lleva una
+buena dosis de poleo chili.
+!******************************!
+[ht_004_2.txt]
+Pues no est<'a> mal. Hace que me
+suba la moral. La pr<'o>xima vez
+que est<'e> triste, ya s<'e> qu<'e> tomar.
+!******************************!
+[ht_004_3.txt]
+S<'i>, una buena taza de poleo
+de fuego sienta muy bien de vez
+en cuando.
+!******************************!
+[ht_005_0.txt]
+Ah, este t<'e> es sencillamente
+exquisito. Es raro encontrar
+un sabor tan penetrante.
+!******************************!
+[ht_005_1.txt]
+<<5E>?>En serio? A lo mejor no me
+funciona bien la lengua. A m<'i>
+no me parece nada especial...
+!******************************!
+[ht_005_2.txt]
+<<5E>!>Ja, ja, ja! Puede que seas un poco
+joven para este t<'e>. Es para
+paladares m<'a>s sofisticados.
+!******************************!
+[ht_005_3.txt]
+Pues no s<'e>. A m<'i> me sigue
+pareciendo que est<'a>
+demasiado amargo.
+!******************************!
+[ht_006_0.txt]
+Qu<'e> mezcla m<'a>s peculiar. Es sutil
+a la par que picante.
+!******************************!
+[ht_006_1.txt]
+Y adem<'a>s deja un gustito dulce.
+!******************************!
+[ht_006_2.txt]
+Me gusta c<'o>mo el calor inicial
+se compensa con el sabor
+dulce posterior.
+!******************************!
+[ht_006_3.txt]
+No sab<'i>a que el picante y
+el dulce combinaran tan bien.
+!******************************!
+[ht_007_0.txt]
+Impresionante. Con solo un sorbo
+me siento lleno de energ<'i>a. Sabe
+ahumado, pero bastante dulce.
+!******************************!
+[ht_007_1.txt]
+Este sabor es completamente
+nuevo para m<'i>. Nunca hab<'i>a
+probado algo as<'i>.
+!******************************!
+[ht_007_2.txt]
+Seguro que es estupendo para
+calmar la sed, pero lo cierto es
+que no acaba de ser de mi gusto.
+!******************************!
+[ht_007_3.txt]
+<<5E>?>En serio? Pues a m<'i> me parece
+que est<'a> muy rico.
+!******************************!
+[ht_008_0.txt]
+Mmm... Qu<'e> bien huele.
+!******************************!
+[ht_008_1.txt]
+En efecto. El aroma de este
+t<'e> resulta muy relajante.
+!******************************!
+[ht_008_2.txt]
+Tiene raz<'o>n, profesor. Creo...
+que me est<'a> dando sue<-n>o...
+Zzz...
+!******************************!
+[ht_008_3.txt]
+Bueno, eso es una... prueba m<'a>s
+de que es muy... relajante... Zzz...
+!******************************!
+[ht_009_0.txt]
+Qu<'e> aroma m<'a>s relajante.
+!******************************!
+[ht_009_1.txt]
+Con este t<'e> uno se olvida de
+todos los problemas, <<5E>?>verdad,
+profesor?
+!******************************!
+[ht_009_2.txt]
+Debo confesar que resulta
+muy agradable. Parece que
+elimina las preocupaciones.
+!******************************!
+[ht_009_3.txt]
+<<5E>!>Y solo con un par de sorbos!
+El poder del t<'e> nunca deja
+de fascinarme.
+!******************************!
+[ht_010_0.txt]
+Eh... <<5E>?>A qu<'e> huele este t<'e>? Es
+un poco raro.
+!******************************!
+[ht_010_1.txt]
+Es cierto que tiene un sabor muy
+peculiar, pero cuanto m<'a>s bebo,
+m<'a>s me gusta.
+!******************************!
+[ht_010_2.txt]
+Si tanto le gusta, puede quedarse
+con mi taza.
+!******************************!
+[ht_010_3.txt]
+Lamento que el t<'o>nico seco
+no sea de tu agrado, Luke.
+!******************************!
+[ht_011_0.txt]
+<<5E>!>Vaya! <<5E>!>Este t<'e> es excepcional!
+!******************************!
+[ht_011_1.txt]
+Tienes raz<'o>n, Luke. Me pregunto
+c<'o>mo se puede hacer este t<'e>
+con ingredientes tan sencillos.
+!******************************!
+[ht_011_2.txt]
+No tengo ni idea, profesor. El
+mundo est<'a> lleno de misterios.
+!******************************!
+[ht_011_3.txt]
+Muy cierto, muchacho. Yo, por
+lo menos, no consigo explic<'a>rmelo.
+!******************************!
+[ht_100_0.txt]
+Oh, vaya...
+!******************************!
+[ht_100_1.txt]
+Profesor, <<5E>?>cree usted que el t<'e>
+tiene normalmente ese color tan...
+cetrino?
+!******************************!
+[ht_100_2.txt]
+Es una pena, pero creo que esta
+mezcla no ha salido nada bien.
+Es completamente inaceptable.
+!******************************!
+[ht_100_3.txt]
+Vamos a escribir la receta para
+no volver a prepararla nunca m<'a>s.
+!******************************!
+[ht_101_0.txt]
+Este t<'e> huele bastante raro,
+profesor. <<5E>?>Cree usted que
+se podr<'a> beber?
+!******************************!
+[ht_101_1.txt]
+Solo hay una manera de saberlo,
+Luke. <<5E>?>Por qu<'e> no lo pruebas?
+!******************************!
+[ht_101_2.txt]
+<<5E>!>Puaaaj! Creo que yo paso.
+!******************************!
+[ht_101_3.txt]
+<<5E>?>D<'o>nde me habr<'e> equivocado?
+Estaba seguro de que me
+hab<'i>a salido bien.
+!******************************!
+[ht_102_0.txt]
+Vaya...
+!******************************!
+[ht_102_1.txt]
+Pues s<'i>...
+!******************************!
+[ht_102_2.txt]
+Profesor... me est<'a>n dando
+n<'a>useas.
+!******************************!
+[ht_102_3.txt]
+No me sorprende, muchacho.
+Un t<'e> como este no es digno
+de un caballero.
+!******************************!
+[ht_103_0.txt]
+Este brebaje es inaceptable.
+!******************************!
+[ht_103_1.txt]
+Profesor, creo que no puedo
+dar ni un sorbo m<'a>s.
+!******************************!
+[ht_103_2.txt]
+No te preocupes, Luke. Nadie
+deber<'i>a tener que soportar
+un t<'e> tan indigno.
+!******************************!
+[ht_103_3.txt]
+La verdad es que no ten<'i>a tan
+mala pinta. Me pregunto d<'o>nde
+se equivoc<'o>.
+!******************************!
+[ht_104_0.txt]
+Profesor, el t<'e> est<'a> echando
+espuma.
+!******************************!
+[ht_104_1.txt]
+Oh, vaya. Eso es una se<-n>al
+evidente de que no es apto
+para el consumo humano.
+!******************************!
+[ht_104_2.txt]
+No lo entiendo. Los ingredientes
+estaban en buen estado. <<5E>?>Por
+qu<'e> echa espuma?
+!******************************!
+[ht_104_3.txt]
+Me temo que no s<'e> la respuesta,
+Luke, pero por lo menos podemos
+usarlo para limpiar el suelo.
+!******************************!
+[ht_105_0.txt]
+Vaya, esto no tiene buen aspecto.
+!******************************!
+[ht_105_1.txt]
+Profesor, este t<'e> me pone triste.
+Solo le he dado un sorbo y ya
+casi estoy llorando.
+!******************************!
+[ht_105_2.txt]
+Hasta ahora, el t<'e> siempre me
+hab<'i>a hecho sonre<'i>r.
+!******************************!
+[ht_105_3.txt]
+Cr<'e>ame, profesor, comparto
+su opini<'o>n.
+!******************************!
+[ht_106_0.txt]
+<<5E>!>Profesor, mire! <<5E>!>Est<'a> saliendo
+un humo muy raro del t<'e>!
+!******************************!
+[ht_106_1.txt]
+Me temo que hemos creado un t<'e>
+que nunca deber<'i>a haber existido.
+!******************************!
+[ht_106_2.txt]
+Yo no soy un cobarde, pero no
+me atrevo a probar eso.
+!******************************!
+[ht_106_3.txt]
+Entonces nuestro plan de acci<'o>n
+est<'a> claro. Encerremos esta
+receta bajo llave.
+!******************************!
+[ht_107_0.txt]
+Profesor, este t<'e> es... bastante
+peculiar.
+!******************************!
+[ht_107_1.txt]
+S<'i>, "peculiar" es la palabra
+perfecta para este t<'e>.
+!******************************!
+[ht_107_2.txt]
+<<5E>?>No le sabe como a zapatos
+viejos?
+!******************************!
+[ht_107_3.txt]
+Muy descriptivo, Luke. Y ahora,
+vamos a olvidarnos de esta
+receta para siempre.
+!******************************!
+[ht_108_0.txt]
+Interesante. Nunca hab<'i>a visto
+un t<'e> coagularse.
+!******************************!
+[ht_108_1.txt]
+Profesor, casi parece m<'a>s un
+flan que un t<'e>. Nos lo tendremos
+que comer con cucharilla.
+!******************************!
+[ht_108_2.txt]
+Los ingredientes estaban en buen
+estado. T<'e>cnicamente, deber<'i>amos
+poder beb<'e>rnoslo.
+!******************************!
+[ht_108_3.txt]
+Ejem... Todo suyo, profesor.
+!******************************!
+[ht_109_0.txt]
+Profesor, esto no parece t<'e> en
+absoluto. Si me preguntaran,
+dir<'i>a que es barro.
+!******************************!
+[ht_109_1.txt]
+Parece... viscoso. <<5E>?>C<'o>mo puede
+haber ocurrido esto?
+!******************************!
+[ht_109_2.txt]
+Creo que los ingredientes
+que hemos mezclado eran
+incompatibles entre s<'i>.
+!******************************!
+[ht_109_3.txt]
+Tienes raz<'o>n, Luke. Ser<'a> mejor
+que intentemos algo diferente
+la pr<'o>xima vez.
+!******************************!
+[ht_110_0.txt]
+Lo m<'a>s bonito del t<'e> es combinar
+diferentes sabores. Probemos a
+usar distintos ingredientes.
+!******************************!
+[ht_110_1.txt]
+Usando solo un ingrediente nos
+ha quedado un t<'e> soso y aburrido.
+!******************************!
+[ht_200_0.txt]
+Mmm... <<5E>?>Qu<'e> hacemos con esto?
+!******************************!
+[ht_200_1.txt]
+Es una primera elecci<'o>n excelente.
+!******************************!
+[ht_200_2.txt]
+Aqu<'i> va el primer ingrediente.
+!******************************!
+[ht_200_3.txt]
+<<5E>?>Con qu<'e> ir<'a> bien esto?
+!******************************!
+[ht_200_4.txt]
+Esto est<'a> muy bien para empezar.
+!******************************!
+[ht_201_0.txt]
+<<5E>!>Tengo una idea estupenda para
+un t<'e>!
+!******************************!
+[ht_201_1.txt]
+Esto es un buen comienzo.
+!******************************!
+[ht_201_2.txt]
+Vale, y despu<'e>s, <<5E>?>qu<'e> ponemos?
+!******************************!
+[ht_201_3.txt]
+<<5E>!>Una primera elecci<'o>n estupenda!
+!******************************!
+[ht_201_4.txt]
+<<5E>?>Qu<'e> m<'a>s le echamos ahora?
+!******************************!
+[ht_210_0.txt]
+Una elecci<'o>n interesante.
+!******************************!
+[ht_210_1.txt]
+Uno m<'a>s para la tetera.
+!******************************!
+[ht_210_2.txt]
+Tanto en los puzles como en el
+t<'e>, lo importante es ser creativo.
+!******************************!
+[ht_210_3.txt]
+Veamos qu<'e> tal se combinan
+estos ingredientes.
+!******************************!
+[ht_210_4.txt]
+Ah, creo que hemos dado con
+una combinaci<'o>n fascinante.
+!******************************!
+[ht_211_0.txt]
+Vaya, no me esperaba ese.
+!******************************!
+[ht_211_1.txt]
+<<5E>?>Qu<'e> m<'a>s ponemos?
+!******************************!
+[ht_211_2.txt]
+Vale, ya hay dos ingredientes.
+<<5E>?>Y el tercero?
+!******************************!
+[ht_211_3.txt]
+Esperemos que vayan bien juntos.
+!******************************!
+[ht_211_4.txt]
+<<5E>?>Cree que estos ingredientes
+pegar<'a>n, profesor?
+!******************************!
+[ht_220_0.txt]
+Bien, ya est<'a>n todos los
+ingredientes. Ahora solo falta
+preparar el t<'e>.
+!******************************!
+[ht_220_1.txt]
+Estoy bastante orgulloso de
+esta combinaci<'o>n. Espero que
+el t<'e> est<'e> tan bueno como parece.
+!******************************!
+[ht_220_2.txt]
+Tengo ganas de ver c<'o>mo sale
+este t<'e>. Pongamos la tapa y
+empecemos a prepararlo.
+!******************************!
+[ht_220_3.txt]
+Creo que esta combinaci<'o>n va
+a resultar en un t<'e> delicioso.
+!******************************!
+[ht_220_4.txt]
+<<5E>?>Qu<'e> t<'e> saldr<'a> de aqu<'i>? Casi no
+puedo contener la emoci<'o>n.
+!******************************!
+[ht_221_0.txt]
+<<5E>!>Seguro que este t<'e> va a salir
+estupendo!
+!******************************!
+[ht_221_1.txt]
+<<5E>!>Cruzar<'e> los dedos para que
+salga riqu<'i>simo! <<5E>!>Vamos a
+poner la tapa!
+!******************************!
+[ht_221_2.txt]
+Si este t<'e> sale potable, me
+doy por satisfecho.
+!******************************!
+[ht_221_3.txt]
+Espero que con esta combinaci<'o>n
+consigamos un t<'e> de los buenos.
+!******************************!
+[ht_221_4.txt]
+Y ahora, ponemos la tapa
+y empezamos a prepararlo.
+!******************************!
+[ht_300_0.txt]
+No me siento bien. Necesitar<'i>a
+un t<'e> con hoja de oasis, fruto
+del alba y semilla c<'i>trica.
+!******************************!
+[ht_300_1.txt]
+<<5E>!>Espl<'e>ndido, Luke! Esta es la
+prueba definitiva del poder
+reconstituyente del t<'e>.
+!******************************!
+[ht_300_2.txt]
+Luke, esto no es lo que ten<'i>a en
+mente. Necesito algo m<'a>s
+ligero y afrutado.
+!******************************!
+[ht_301_0.txt]
+<<5E>!>Qu<'e> cansancio! <<5E>?>Me puede hacer
+un t<'e> con hoja de oasis y dos
+frutos del alba?
+!******************************!
+[ht_301_1.txt]
+Este t<'e> es perfecto. Est<'a> dulce
+y me ha proporcionado la energ<'i>a
+necesaria para seguir caminando.
+!******************************!
+[ht_301_2.txt]
+Profesor, no es que no me guste,
+pero <<5E>?>podr<'i>a hacerme un t<'e>
+m<'a>s dulce, por favor?
+!******************************!
+[ht_400_0.txt]
+%s se bebe la taza de
+%s paladeando
+cada sorbo.
+!******************************!
+[ht_400_1.txt]
+<<5E>!>Qu<'e> t<'e> m<'a>s bueno!
+%s se encuentra
+otra vez en plena forma.
+!******************************!
+[ht_400_2.txt]
+Lamentablemente, a %s
+no le ha gustado mucho tu t<'e>.
+!******************************!
+[ht_exp1.txt]
+<83>n<81><5B><83>u<82><F0><91>I<82>ñ<82><C5><82><AD><82><BE><82><B3><82><A2><81>B
+!******************************!
+[ht_exp2.txt]
+<82>Ó<82><BD><82><F0><82><B5><82>ß<82>Ä<82><AD><82><BE><82><B3><82><A2><81>B
+!******************************!
+[ht_hint_1.txt]
+<<5E>!>Escuchad! Quiero un t<'e> cl<'a>sico
+con hoja de oasis, fruto del alba
+y un toque de semilla c<'i>trica.
+!******************************!
+[ht_hint_10.txt]
+Creo que un t<'e> picante
+me podr<'i>a ayudar a
+combatir la tristeza.
+!******************************!
+[ht_hint_11.txt]
+Quiero un t<'e> dulce, agrio y un
+poco amargo. Ya sabe, algo
+sofisticado y digno de un adulto.
+!******************************!
+[ht_hint_12.txt]
+<<5E>?>Me podr<'i>a hacer un t<'e> agridulce?
+Y si tambi<'e>n tiene algo amargo,
+mejor que mejor.
+!******************************!
+[ht_hint_13.txt]
+Me apetece algo misterioso. Y con
+esto quiero decir dulce y ligero,
+<<5E>!>pero tambi<'e>n picante!
+!******************************!
+[ht_hint_14.txt]
+Quiero algo ligero con un toque
+picante. Tampoco estar<'i>a de m<'a>s
+que fuera un poco dulce.
+!******************************!
+[ht_hint_15.txt]
+<<5E>!>Quiero un t<'e> con sabor ahumado,
+tr<'e>bol y algo dulce, y lo quiero
+ahora!
+!******************************!
+[ht_hint_16.txt]
+Hijos, <<5E>?>me pod<'e>is hacer algo
+dulce y con sabor ahumado?
+Tengo una sed terrible.
+!******************************!
+[ht_hint_17.txt]
+Una taza de t<'e> con semillas
+c<'i>tricas, por favor. Que sea
+ligero y no me quite el sue<-n>o.
+!******************************!
+[ht_hint_18.txt]
+<<5E>!>Necesito vitaminas para la piel!
+<<5E>?>Y si me hacen un t<'e> que me relaje
+y que tenga muchas vitaminas?
+!******************************!
+[ht_hint_19.txt]
+Me vendr<'i>a muy bien un t<'e> picante
+con un toque terroso para
+relajarme. <<5E>?>Tienen algo as<'i>?
+!******************************!
+[ht_hint_2.txt]
+No me hace falta nada especial,
+me conformo con un t<'e> cl<'a>sico,
+ju, ju.
+!******************************!
+[ht_hint_20.txt]
+Dar<'i>a lo que fuera por un t<'e>
+relajante de aroma suave y
+sabor picante.
+!******************************!
+[ht_hint_21.txt]
+Como no sea un t<'e> muy fuerte, no
+me lo pienso beber. Ah, y tiene
+que llevar flor de ensue<-n>o.
+!******************************!
+[ht_hint_22.txt]
+Quiero un t<'e> vigorizante y
+medicinal. Ah, y que sea fuerte
+y ahumado, <<5E>?>estamos?
+!******************************!
+[ht_hint_23.txt]
+Para este t<'e> necesitar<'a>n algo
+que represente el fuego y algo
+que proporcione felicidad.
+!******************************!
+[ht_hint_24.txt]
+Ese t<'e> legendario era una extra<-n>a
+mezcla de ingredientes comunes.
+Creo que llevaba algo picante.
+!******************************!
+[ht_hint_3.txt]
+Si me van a preparar un t<'e>,
+procuren que sea dulce y
+refrescante, como yo. <<5E>!>Ji, ji, ji!
+!******************************!
+[ht_hint_4.txt]
+Me encanta el dulce, as<'i> que
+quiero un t<'e> MUY dulce, <<5E>?>vale?
+!******************************!
+[ht_hint_5.txt]
+<<5E>!>Quiero un t<'e> que me permita ver
+el futuro! Deber<'i>a llevar hoja de
+oasis, algo seco y algo <'a>cido.
+!******************************!
+[ht_hint_6.txt]
+Quiero un t<'e> afrutado y ahumado.
+Y no se olviden de ponerle algo
+que tenga un sabor seco.
+!******************************!
+[ht_hint_7.txt]
+Necesito un t<'e> que lleve tr<'e>bol y
+alguna hoja. <<5E>!>Ah, y que sea bueno
+para el resfriado!
+!******************************!
+[ht_hint_8.txt]
+<<5E>!>Brrr! <<5E>!>Qu<'e> fr<'i>o! <<5E>!>Necesito un t<'e>
+que... que me caliente y me... me
+arregle la circulaci<'o>n!
+!******************************!
+[ht_hint_9.txt]
+Quiero algo fuerte. No, no un t<'e>
+picantillo para beb<'e>s, sino algo
+que me abrase. <<5E>?>Est<'a> claro?
+!******************************!
+[ht_rcp1.txt]
+Parece una buena taza de
+%s.
+!******************************!
+[ht_rcp2.txt]
+Con todos estos ingredientes
+obtendremos %s.
+!******************************!
+[ht_step_m0.txt]
+A<-n>ade ingredientes a la tetera.
+!******************************!
+[ht_step_m1.txt]
+A<-n>ade dos ingredientes m<'a>s a
+la tetera.
+!******************************!
+[ht_step_m2.txt]
+A<-n>ade un ingrediente m<'a>s a
+la tetera.
+!******************************!
+[ht_step_m3.txt]
+Coloca la tapa para
+empezar a hacer el t<'e>.
+!******************************!
+[ht_step_m4.txt]
+Preparando %s.
+!******************************!
+[ht_step_m5.txt]
+Espera un momento...
+!******************************!
+[ht_step_m6.txt]
+<92><B2><8D><87><82>É<90><AC><8C><F7><81>I<83>n<81><5B><83>u<83>e<83>B<81><5B><82><AA><8A><AE><90><AC><81>I
+!******************************!
+[ht_step_m6f.txt]
+<<5E>!>L<'a>stima! Ese t<'e>
+no estaba bueno.
+!******************************!
+[ht_step_m6s.txt]
+<<5E>!>Bien hecho! <<5E>!>Marchando
+una taza de t<'e>!
+!******************************!
+[ht_step_m7f.txt]
+Lamentablemente, no te
+ha salido nada decente.
+!******************************!
+[ht_step_s0.txt]
+<<5E>!>Combina tres ingredientes
+para hacer un t<'e>!
+!******************************!
+[ht_step_s5.txt]
+<<5E>!>Qu<'e> intriga!
+<<5E>?>Te saldr<'a> rico este t<'e>?
+!******************************!
+[ht_tea00.txt]
+t<'e> c<'i>trico
+!******************************!
+[ht_tea01.txt]
+caramelo del oasis
+!******************************!
+[ht_tea02.txt]
+terr<'o>n ahumado
+!******************************!
+[ht_tea03.txt]
+terapia de tr<'e>bol
+!******************************!
+[ht_tea04.txt]
+poleo de fuego
+!******************************!
+[ht_tea05.txt]
+frutos amargos
+!******************************!
+[ht_tea06.txt]
+especias on<'i>ricas
+!******************************!
+[ht_tea07.txt]
+tr<'e>bol saciante
+!******************************!
+[ht_tea08.txt]
+esencia de luces
+!******************************!
+[ht_tea09.txt]
+ocaso c<'a>ustico
+!******************************!
+[ht_tea10.txt]
+t<'o>nico seco
+!******************************!
+[ht_tea11.txt]
+elixir de Layton
+!******************************!

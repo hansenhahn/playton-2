@@ -1,0 +1,161 @@
+[msg_nrm_clear.txt]
+<<5E>!>%s ha dado %d pasos!
+<<5E>!>Ha subido del nivel %d al %d!
+!******************************!
+[msg_nrm_clear1.txt]
+<<5E>!>%s ha cumplido
+su objetivo con %d pasos!
+<<5E>!>Muy bien!
+!******************************!
+[msg_nrm_clear2.txt]
+<<5E>!>Ahora %s encontrar<'a>
+monedas! <<5E>!>Nunca se te
+volver<'a> a pasar ninguna!
+!******************************!
+[msg_nrm_fail.txt]
+%s ha dado %d pasos,
+pero no ha cumplido
+su objetivo.
+!******************************!
+[msg_nrm_fail1.txt]
+%s ha dado %d paso,
+pero no ha cumplido
+su objetivo.
+!******************************!
+[msg_nrm_start.txt]
+Nivel del h<'a>mster: %d
+Pasos necesarios para el
+siguiente nivel: %d
+!******************************!
+[msg_slm_clear.txt]
+<<5E>!>%s ha batido su
+propio r<'e>cord con %d pasos!
+<<5E>!>Est<'a> muy orgulloso!
+!******************************!
+[msg_slm_even.txt]
+<<5E>!>Vaya! %s ha dado %d
+pasos, pero no ha superado
+su r<'e>cord por un paso.
+!******************************!
+[msg_slm_fail.txt]
+%s ha dado %d pasos,
+pero no ha conseguido
+batir su r<'e>cord anterior.
+!******************************!
+[msg_slm_fail1.txt]
+%s ha dado %d paso,
+pero no ha conseguido
+batir su r<'e>cord anterior.
+!******************************!
+[msg_slm_start.txt]
+<<5E>!>Entrena al h<'a>mster!
+Intenta que camine
+m<'a>s de %d pasos.
+!******************************!
+[obj_e00.txt]
+Coloca los objetos en las casillas.
+El objetivo es que el h<'a>mster
+camine la mayor distancia posible.
+Toca un objeto para ver sus
+caracter<'i>sticas especiales.
+!******************************!
+[obj_e01.txt]
+Es la comida favorita del h<'a>mster.
+Si est<'a> a tres casillas o menos
+del h<'a>mster, este correr<'a> hacia
+ella sin fijarse en nada m<'a>s.
+!******************************!
+[obj_e02.txt]
+Aunque al h<'a>mster no le interesa,
+resulta <'u>til para cortarle el paso
+o para que no pueda ver otros
+objetos. Si lo colocas de forma
+estrat<'e>gica, ser<'a> m<'a>s efectivo.
+!******************************!
+[obj_e03.txt]
+Si el h<'a>mster se encuentra a tres
+casillas o menos, se dirigir<'a> hacia
+ella, pero las manzanas le gustan
+m<'a>s y la ignorar<'a> si tiene que
+decidir entre ambos objetos.
+!******************************!
+[obj_e04.txt]
+Atrae la atenci<'o>n del h<'a>mster si
+se encuentra a tres casillas o
+menos. Sin embargo, si tiene que
+decidir entre un toc<'o>n y una
+manzana, siempre elige la manzana.
+!******************************!
+[obj_e05.txt]
+Estas preciosas flores atraen la
+atenci<'o>n del h<'a>mster, siempre y
+cuando est<'e> a tres casillas o
+menos de una y no haya manzanas
+cerca.
+!******************************!
+[obj_e06.txt]
+La bombilla se enciende cuando la
+toca el h<'a>mster, que se asusta
+y sale corriendo en la direcci<'o>n
+en la que est<'a> mirando hasta
+toparse con algo.
+!******************************!
+[obj_e07.txt]
+En cuanto el h<'a>mster se acerca,
+la caja lo asusta y sale corriendo
+por donde vino. Solo se detiene
+cuando se topa con algo.
+!******************************!
+[obj_e08.txt]
+Despu<'e>s de jugar con la arena,
+el h<'a>mster va dando volteretas
+a la piscina, ignorando el resto
+de objetos de la zona. Las
+volteretas no cuentan como pasos.
+!******************************!
+[obj_e09.txt]
+Despu<'e>s de jugar con la arena,
+el h<'a>mster siempre va dando
+volteretas a la piscina. Las
+volteretas no cuentan como pasos.
+!******************************!
+[obj_e10.txt]
+El h<'a>mster salta dos casillas
+y despu<'e>s sigue corriendo hasta
+que se encuentra con algo. Si
+aterriza sobre un objeto, ese
+objeto desaparece.
+!******************************!
+[obj_n00.txt]
+Dise<-n>a un entrenamiento
+!******************************!
+[obj_n01.txt]
+Manzana
+!******************************!
+[obj_n02.txt]
+Bloque
+!******************************!
+[obj_n03.txt]
+Casita
+!******************************!
+[obj_n04.txt]
+Toc<'o>n
+!******************************!
+[obj_n05.txt]
+Flor
+!******************************!
+[obj_n06.txt]
+Bombilla
+!******************************!
+[obj_n07.txt]
+Caja
+!******************************!
+[obj_n08.txt]
+Arena
+!******************************!
+[obj_n09.txt]
+Piscina
+!******************************!
+[obj_n10.txt]
+Trampol<'i>n
+!******************************!
