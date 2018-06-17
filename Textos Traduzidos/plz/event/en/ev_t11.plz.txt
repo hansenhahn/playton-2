@@ -824,12 +824,12 @@ criança desceu, ou caiu, do trem.
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:11>Caiu?!
 !******************************!
 [t11_260_600.gds]
-<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:267>Sim, o que é extramemente plausível,
+<01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:267>Sim, o que é extremamente plausível,
 visto que crianças adoram sair correndo
 por aí sem cuidado.<W>
 !------------------------------!
-Combinando isso mais as suas cabeças
-desproporcionalmente grandes, tem-se os
+Some isso ao fato de terem cabeças
+desproporcionalmente grandes, e terá os
 ingredientes certos pra um desastre.<W>
 !------------------------------!
 Contatarei a polícia ferroviária na
@@ -986,15 +986,15 @@ Tomzinho! Senti tanto sua falta!
 Meu garoto! Meu bebê!
 !******************************!
 [t11_330_1000.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:85>Err, talvez devessemos manter
-o envolvimento da Flora no sumiço
-do Tom apenas entre nós?
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:85>Err, talvez seja melhor mantermos
+apenas entre nós o envolvimento da
+Flora no sumiço do Tom...
 !******************************!
 [t11_330_1100.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:19>Boa ideia, Luke.
 !******************************!
 [t11_330_1150.gds]
-<01:00000005><03:10>b1 notalk<03:5>NONE<01:00000006><03:5>Aham.
+<01:00000005><03:10>b1 notalk<03:5>NONE<01:00000006><03:5>Sim!
 !******************************!
 [t11_330_1200.gds]
 <01:0000000B><03:9>b1 smile<03:5>NONE<01:00000002><03:95>Acredito que seja necessária uma
@@ -1086,8 +1086,8 @@ uma palavrinha com você sobre
 esses seus modos abomináveis!
 !******************************!
 [t11_330_800.gds]
-<01:0000000B><03:10>b1 normal<03:5>NONE<01:00000002><03:95>Bem, chega disso. Bem vindo de volta,
-minha doçura. Aonde meu Tomzinho
+<01:0000000B><03:10>b1 normal<03:5>NONE<01:00000002><03:95>Bem, chega disso. Seja bem-vindo,
+meu tesouro. Aonde meu Tomzinho
 foi hoje?
 !******************************!
 [t11_330_900.gds]

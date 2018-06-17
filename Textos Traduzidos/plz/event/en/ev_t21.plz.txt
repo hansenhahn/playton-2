@@ -568,10 +568,10 @@ atenção, por isso pense bem.
 !******************************!
 [t21_060_100.gds]
 <01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:166>Hrm. Hrrrrm? E que tal...?<W> Não.
-Hmph. Esse enigma vai me manter
+Hmph. Este enigma vai me manter
 acordado a noite toda...<W>
 !------------------------------!
-Oh, desculpe por isso. E vocês?
+Eita! Desculpe aí por isso. E vocês?
 O que posso fazer por vocês?
 !******************************!
 [t21_060_200.gds]
@@ -581,22 +581,22 @@ alguém que bate com essa descrição?
 !******************************!
 [t21_060_300.gds]
 <01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:103>Sim, lembro de ter visto alguém assim
-passando por aqui. Acho que ela estava
-indo para o fim do trem.
+passando por aqui. Acho que ela tava
+indo pro fim do trem.
 !******************************!
 [t21_060_400.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:48>Muito obrigado. Vamos andando.
 !******************************!
 [t21_060_500.gds]
-<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:233>Ei, espera aí, ô da cartola!<W>
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:233>Ei, espere aí, ô da cartola!<W>
 !------------------------------!
-Saquei qual é a sua. Faça o velho
-Grousley responder uma pergunta sua e
-saia de fininho sem dizer nada.<W>
+Saquei você. Faz o velho do Grousley
+responder uma pergunta, e depois dá no
+pé, sem nem saber se ele tá bem.<W>
 !------------------------------!
 Eu falei o que você queria saber,
 então acho que você deveria ao
-menos me dar uma mão.
+menos me dar uma mão aqui.
 !******************************!
 [t21_060_600.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:93>Minhas sinceras desculpas, senhor.
@@ -607,26 +607,26 @@ nossa ajuda. Como podemos ser úteis?
 <01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:138>Um amigo me deu este enigma
 porque amo arte, mas...<W>
 !------------------------------!
-Talvez você tenha melhor sorte com ele
-do que eu. Gostaria de resolvê-lo?
+Talvez você tenha mais sorte com ele
+do que eu. Por que não tenta resolvê-lo?
 !******************************!
 [t21_061_100.gds]
-<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:98>Este enigma está me dando um nó no
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:98>Este enigma tá me dando um nó no
 cérebro. Eu imploro, resolva ele
 de uma vez por todas!
 !******************************!
 [t21_063_100.gds]
-<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:186>Aaah, então era assim que fazia.
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:186>Aaah! Então era assim que fazia...
 Que crânio você tem em cima desses
 ombros, viu?<W>
 !------------------------------!
-Agora, sobre a garota que estavam
-perguntando, ela provavelmente está
-no mirante atrás de mim.
+Agora, sobre a garota que vocês tavam
+perguntando, ela provavelmente tá no
+mirante atrás de mim.
 !******************************!
 [t21_064_100.gds]
-<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:103>Ah, vai desistir? Bem, sendo assim,
-não vou deixar que passe por aqui!
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:103>Vai desistir? Bem, então não
+vou deixar que passe por aqui!
 !******************************!
 [t21_070_100.gds]
 <01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:85>O Molentary Express não vai a lugar
@@ -815,7 +815,7 @@ bem frágeis.
 copos com cuidado.
 !******************************!
 [t21_120_100.gds]
-<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:92>Bem vindo a bordo, senhores. Estariam
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:92>Bem-vindo a bordo, senhores. Estariam
 interessados em uma bebida refrescante
 ou em um lanche delicioso?
 !******************************!
@@ -1231,7 +1231,7 @@ estar em qualquer lugar.
 !******************************!
 [t21_213_200.gds]
 <01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:170>Oh, céus! Não escutem meu marido. 
-As vezes ele é um pouco pessimista.<W>
+Às vezes ele é um pouco pessimista.<W>
 !------------------------------!
 Eu, por outro lado, estou torcendo por
 vocês. Boa sorte na busca pela criança!

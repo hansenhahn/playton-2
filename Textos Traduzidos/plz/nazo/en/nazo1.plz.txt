@@ -807,8 +807,8 @@ animais mostram sua verdadeira natureza.
 Bem pensado!
 
 O único animal que conseguirá escapar com
-segurança é o leão. Tanto o leão, quanto
-o coelho, conseguem pegar o caminho que
+segurança é o leão. Tanto o leão quanto
+o coelho conseguem pegar o caminho que
 leva à saída, contudo, assim que o leão
 bater os olhos no coelho, é certeza que
 irá comê-lo.
@@ -884,7 +884,7 @@ no mundo real.
 
 Encontre e circule o detalhe.
 !******************************!
-Muito bem apontado!
+Muito bem observado!
 
 Se o homem na pintura tivesse aberto a
 janela como mostrado acima, a moldura
@@ -916,136 +916,137 @@ irá falar <''>Não tem como abrir isso
 assim!<''>.
 !******************************!
 [n27.dat]
-<0028>The Warped Wheel
+<0028>A Roda Retorcida
 <00><14><12><10><12><1A><02><1B><E8><03><03><FF>
-In the back of the train yard, there's an
-old, warped wheel lying on the ground, as
-shown below. While no longer functional, the
-wheel is interesting because, when rolled on
-a flat surface, its axle traces a funny
-pattern if you look at it from the side.
+Nos fundos da estação de trem, há uma
+velha e retorcida roda sobre o chão, como
+mostrada abaixo. Apesar de não ter mais
+utilidade há muito tempo, a roda ainda é
+interessanteporque, ao ser rolada sobre
+uma superfície plana, o seu eixo traça
+um caminho engraçado quando visto de lado.
 
-Of the five diagrams below, which one
-depicts the actual path of the axle?
+Dos cinco diagrama abaixo, qual deles
+representa o traçado real do eixo?
 !******************************!
-That's right!
+Isso mesmo!
 
-Diagram A correctly traces the path of the
-axle as the wheel rolls.
+O diagrama A traça corretamente o caminho
+do eixo quando a roda é rolada.
 
-You probably won't see this wheel on a train
-anytime soon, but it would be fun to watch
-it bounce around.
+Você provavelmente não irá ver uma roda
+como esta em um trem, mas seria engraçado
+vê-la quicando por aí.
 !******************************!
-Too bad!
+Que pena!
 
-Try imagining how the wheel rotates again.
-
+Tente imaginar mais uma vez como a roda
+gira.
 !******************************!
-This wheel's shape is essentially a
-triangle with the corners rounded off.
-Since the axle is positioned close to
-one of the corners, you can expect the
-pattern it creates to be rather
-unconventional.
+O formato desta roda é, essencialmente,
+um triângulo com os cantos arredondados.
+Uma vez que o eixo está posicionado perto
+de um dos cantos, é de se esperar que
+o traçado criado não será nem um pouco
+convencional.
 !******************************!
-The axle is positioned far from the
-centre of the wheel, so you can expect
-the path it traces to contain an
-exaggerated up-and-down movement.
+O eixo está posicionado longe do centro
+da roda, então é de se esperar que o
+caminho traçado tenha movimentos de
+cima para baixo exagerados.
 !******************************!
-The answer isn't B or E. Choose from
-the remaining three options and don't
-forget what you read in Hint 2!
+B e E não são as respostas. Escolha
+uma das três opções que sobraram, sem
+esquecer do que foi dito na Dica 2!
 !******************************!
 [n28.dat]
-<0029>Which Arrow?
+<0029>A Flecha Vencedora
 <00><14><12><10><12><1A><02><1C><E8><03><03><07>
-A bag of sweets dangles from one of three
-arrows attached to the wall. Assuming that
-all three arrows are perfectly straight,
-which arrow is connected to the sweets?
+Uma bolsa de doces balança de uma das três
+flechas presas na parede. Assumindo que
+as três flechas são perfeitamente retas,
+em qual das flechas a bolsa de doces está
+pendurada?
 !******************************!
-Good eye!
+Muito bem!
 
-Arrow B is the one attached to the sweets.
+A bolsa de doces está pendurada na
+flecha B.
 
-This puzzle is an example of the famous
-Poggendorff optical illusion. When a
-diagonal line is partially obscured by a
-straight shape, the viewer tends not to be
-able to accurately determine which of the
-lines on the right is the continuation of
-the one on the left.
+Este enigma é um exemplo da famosa ilusão
+de ótica de Poggendorff. Quando uma linha
+diagonal é parcialmente coberta por um
+objeto reto, o observador tende a não ser
+mais capaz de determinar com precisão qual
+das linhas à direita é a continuação da linha
+à esquerda.
 !******************************!
-Too bad!
+Que pena!
 
-It would appear you fell right into the trap
-this puzzle set for you.
+Parece que você caiu direitinho na armadilha
+que este enigma montou para você.
 !******************************!
-Don't trust your eyes! This puzzle
-contains an optical illusion.
+Não confie nos seus olhos! Este enigma
+contém uma ilusão de ótica.
 !******************************!
-Instead of looking at this one straight
-on, try taking a different perspective.
+Ao invés de ficar encarando este enigma,
+tente vê-lo por outra perspectiva.
 !******************************!
-Here's an interesting bit of trivia.
+Aqui vai uma curiosidade interessante.
 
-This particular optical illusion is known
-as the Poggendorff Illusion.
+Esta ilusão de ótica, em particular, é
+conhecida como Ilusão de Poggendorff.
 !******************************!
 [n29.dat]
-<0030>The Wrong Date
+<0030>A Data Errada
 <00><1E><1B><18><11><1C><23><1D><F6><03><03><FF>
-Dropstone was founded 50 years ago, and
-the founders commissioned a stone
-sculpture to commemorate that day.
-Unfortunately the dozy sculptor managed to
-engrave the wrong date onto it. The whole
-village had to live with the erroneous
-sculpture until some bright spark realised
-that converting it in a certain way would
-enable the correct date to be displayed.
-Think about what the sculpture could have
-been converted into in order to display the
-correct date.
-On which date was Dropstone founded?
-Answer in four digits (DD/MM).
+Dropstone foi fundada a 50 anos atrás e
+seus fundadores encomendaram uma
+escultura de pedra para comemorar esse dia.
+Infelizmente, o escultor conseguiu gravar
+a data errada na escultura. A comunidade
+inteira teve que conviver com esse erro,
+até que alguém percebeu que, mudando a
+função da escultura, seria possível mostrar
+a data certa. Pense no que a escultura
+deve ser convertida para que a data
+apareça correta.
+Em que data Dropstone foi fundada?
+Responda na forma DD/MM.
 !******************************!
-Brilliant!
+Brilhante!
 
-When converted into a fountain, water fills
-the bowl, allowing the true date of
-Dropstone's founding, 13-8, to be displayed.
+Quando convertida em uma fonte, a água
+inunda a cuba, permitindo que a verdadeira
+data de fundação de Dropstone, 13/8, seja
+mostrada.
 
-The inattentive sculptor must have been
-relieved at getting away with such sloppy
-chiselling.
+O distraído escultor deve estar aliviado
+agora que seu erro foi consertado.
 !******************************!
-Too bad!
+Que pena!
 
-Think hard about the puzzle and try again.
+Leia de novo o enigma e tente novamente.
 !******************************!
-The puzzle text tells you that the
-sculptor engraved the wrong date into
-the stone, so you know that 12-8 isn't
-the date Dropstone was founded.
+O texto do enigma diz que o escultor
+gravou a data errada na pedra. Com 
+isso, podemos concluir que 12/8 não foi
+a data em que Dropstone foi fundada.
 !******************************!
-Does the sculpture's shape give you a
-clue into what it could have been
-converted?
+O formato da escultura não lhe dá
+uma pista sobre no que ela pode ser
+convertida?
 
-That big bowl and the opening at the
-top should indicate that this sculpture
-is now a fountain.
+Aquela grande cuba e a abertura no topo
+indicam que esta escultura pode virar
+uma fonte.
 !******************************!
-Though currently dry, the fountain's
-big bowl is usually filled with water.
+Apeser de seca no momento, a grande
+cuba da fonte está normalmente cheia
+de água.
 
-Why don't you take a moment to...reflect
-on this?
-
-
+Por que você não tira um momento para...
+refletir sobre este enigma?
 !******************************!
 [n3.dat]
 <0004>Uma Sala Inacessível

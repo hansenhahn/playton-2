@@ -1022,7 +1022,7 @@ foto, Professor?
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:107>
 Não tenho certeza do conteúdo da
 foto, mas estou confiante de que
-nos levará à Caisa Elísea. 
+nos levará à Caisa Elísia. 
 !******************************!
 [t24_503_600.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:189>
@@ -1331,7 +1331,7 @@ de fama e felicidade?
 [t24_580_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:95>
 Na verdade, estamos procurando por
-um item chamado Caixa Elísea. Esse
+um item chamado Caixa Elísia. Esse
 nome lhe soa familiar?
 !******************************!
 [t24_580_300.gds]
@@ -1346,7 +1346,7 @@ Já estão de volta?
 !******************************!
 [t24_582_100.gds]
 <01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:91>
-A Caixa Elísea... Que nome legal.
+A Caixa Elísia... Que nome legal.
 Quem será o gênio que bolou esse
 nome com sonoridade tão bacana?
 !******************************!

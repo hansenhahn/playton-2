@@ -158,7 +158,7 @@ pouco para um povoado nesta região.
 [t12_050_300.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:100>E aqui é tão calmo que duvido
 muito acharmos alguma pista
-sobre a Caixa Elísea.
+sobre a Caixa Elísia.
 !******************************!
 [t12_050_400.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:156>Ah, eu não teria tanta certeza
@@ -320,7 +320,7 @@ o Sr. Anderson.
 !******************************!
 [t12_100_600.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:93>Acha que há uma conexão entre este
-Sr. Anderson e a Caixa Elísea,
+Sr. Anderson e a Caixa Elísia,
 Professor?
 !******************************!
 [t12_100_700.gds]
@@ -473,7 +473,7 @@ humilde vilarejo?
 [t12_110_400.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:103>Eu e meus companheiros estamos atrás
 de um artefato conhecido como Caixa
-Elísea. Já ouviu este nome antes?
+Elísia. Já ouviu este nome antes?
 !******************************!
 [t12_110_500.gds]
 <01:00000016><03:9>b1 smile<03:5>NONE<01:00000003><03:102>Hmm, não creio ter ouvido.<W> Mas o
@@ -609,7 +609,7 @@ talvez você possa ser de grande
 ajuda.<W>
 !------------------------------!
 Ouvi rumores que ele tentou
-encontrar esta Caixa Elísea no
+encontrar esta Caixa Elísia no
 passado, então fui falar com ele.<W>
 !------------------------------!
 Mas quando cheguei na sua casa,
@@ -626,7 +626,7 @@ um chazinho!
 !******************************!
 [t12_130_700.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:81>Mas por que o Sr. Anderson
-se interessaria pela Caixa Elísea
+se interessaria pela Caixa Elísia
 em primeiro lugar?
 !******************************!
 [t12_130_800.gds]
@@ -700,7 +700,7 @@ alguma coisa.
 [t12_160_100.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:99>Ouvi que você esteve perguntando
 na vila sobre uma antiguidade
-conhecida como Caixa Elísea.
+conhecida como Caixa Elísia.
 !******************************!
 [t12_160_200.gds]
 <01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:217>Ah é, aquela coisa. Dizem que ela mata
@@ -729,7 +729,7 @@ têm sido os objetos de minha pesquisa
 há anos.<W>
 !------------------------------!
 Até onde sei dizer, esse artefato
-que está atrás, a Caixa Elísea,
+que está atrás, a Caixa Elísia,
 também está ligada a esta cidade.
 !******************************!
 [t12_160_500.gds]
@@ -755,7 +755,7 @@ seu tempo.
 [t12_160_750.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:92>Professor, você ouviu isso?!<W> Acho
 que finalmente achamos uma nova
-pista da Caixa Elísea.
+pista da Caixa Elísia.
 !******************************!
 [t12_160_800.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:182>Ainda é meio cedo para comemorar,
@@ -820,7 +820,7 @@ Aonde vocês foram?
 [t12_200_1100.gds]
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:221>Que um homem chamado Romie estava
 fazendo perguntas por aí, sobre
-a Caixa Elísea.<W>
+a Caixa Elísia.<W>
 !------------------------------!
 Se pudermos rastreá-lo, talvez
 ele possa nos dizer algo que

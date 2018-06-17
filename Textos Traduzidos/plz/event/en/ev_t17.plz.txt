@@ -246,7 +246,7 @@ as costas e fugir. Não agora.<W>
 !------------------------------!
 Estamos muito perto de descobrir
 a verdade sobre Folsense e a
-caixa Elísea. Temos que continuar.
+caixa Elísia. Temos que continuar.
 !******************************!
 [t17_067_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:27>
@@ -721,7 +721,7 @@ Oh, Sophia... finalmente eu entendi.
 [t17_180_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:441>
 E esta foi a história da Caixa
-Elísea, uma relíquia temida pela
+Elísia, uma relíquia temida pela
 maldição fatal que diziam carregar.<W>
 !------------------------------!
 Mas quando tudo acabou, descobriu-se
