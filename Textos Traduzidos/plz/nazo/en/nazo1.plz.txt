@@ -2049,9 +2049,9 @@ prato azul à esquerda para o prato vermelho
 à direita? Espera aí, não é tão fácil quanto
 parece. Você deve seguir estas regras:
 
-<->Você só pode mover uma panqueca de cada
+<60> Você só pode mover uma panqueca de cada
 vez.
-<->Você não pode colocar uma panqueca grande
+<60> Você não pode colocar uma panqueca grande
 em cima de uma pequena.
 
 Você pode usar o prato do centro e mover
@@ -2131,9 +2131,9 @@ pena olhar também!
 <00><1E><1B><18><71><18><0B><33><F1><03><03><FF>
 Há um rapaz com certas regra específicas
 sobre quando usar o seu chapéu.
-<->Quando está sol, ele usa o chapéu.
-<->Quando está chovendo, ele não o usa.
-<->Quando está nublado, ele não usa o chapéu
+<60> Quando está sol, ele usa o chapéu.
+<60> Quando está chovendo, ele não o usa.
+<60> Quando está nublado, ele não usa o chapéu
 a não ser que esteja nublado por dois dias
 seguidos, quando, então, ele usa seu chapéu
 no segundo dia desse caso.
@@ -2311,11 +2311,11 @@ In order to pass through this door, Luke
 and Layton must arrange the symbols
 according to the following rules:
 
-<->The star must be next to the moon.
-<->The X must be second from the top.
-<->The circle must be somewhere above the
+<60> The star must be next to the moon.
+<60> The X must be second from the top.
+<60> The circle must be somewhere above the
 diamond.
-<->The moon must be located two places below
+<60> The moon must be located two places below
 the diamond.
 
 Give it a shot!
@@ -2565,10 +2565,10 @@ vagão-restaurante lotado. Todos os clientes
 estão sentados em frente ou ao lado de
 seus parceiros:
 
-<->Os Jones estão sentados no corredor.
-<->O senhor de bigode, Sr. O'Connor, está
+<60> Os Jones estão sentados no corredor.
+<60> O senhor de bigode, Sr. O'Connor, está
 sentado ao lado da sua esposa.
-<->O Sr. Lambert está sentado em frente
+<60> O Sr. Lambert está sentado em frente
 à sua esposa.
 
 Usando as informações acima, você consegue

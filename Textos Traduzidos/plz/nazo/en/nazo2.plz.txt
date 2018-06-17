@@ -5,13 +5,13 @@ Here's a classic puzzle. The rules are
 simple. You can move any ball on the
 board below as long as it satisfies the
 following conditions:
-<->To move, jump your selected ball over an
+<60> To move, jump your selected ball over an
 adjacent space occupied by another ball
 into an empty space on the other side.
 You can't jump diagonally.
-<->Once you've made the jump, the ball you
+<60> Once you've made the jump, the ball you
 jumped over disappears from the board.
-<->To complete the puzzle, you must remove all
+<60> To complete the puzzle, you must remove all
 balls from the board except for one.
 
 OK, enough rules. Try it for yourself!
@@ -50,13 +50,13 @@ Here's a different configuration for you
 to try. As with last time, you can move
 any ball on the board below as long as it
 satisfies the following conditions:
-<->To move, jump your selected ball over an
+<60> To move, jump your selected ball over an
 adjacent space occupied by another ball
 into an empty space on the other side.
 You can't jump diagonally.
-<->Once you've made the jump, the ball you
+<60> Once you've made the jump, the ball you
 jumped over disappears from the board.
-<->To complete the puzzle, you must remove all
+<60> To complete the puzzle, you must remove all
 balls from the board except for one.
 
 OK, enough rules. Try it for yourself!
@@ -98,13 +98,13 @@ Hmm, these are getting pretty tough.
 You can move any ball on the board below
 as long as it satisfies the following
 conditions:
-<->To move, jump your selected ball over an
+<60> To move, jump your selected ball over an
 adjacent space occupied by another ball
 into an empty space on the other side.
 You can't jump diagonally.
-<->Once you've made the jump, the ball you
+<60> Once you've made the jump, the ball you
 jumped over disappears from the board.
-<->To complete the puzzle, you must remove all
+<60> To complete the puzzle, you must remove all
 balls from the board except for one.
 
 OK, enough rules. Try it for yourself!
@@ -155,13 +155,13 @@ time, the rest really is up to you.
 You know the drill by now. You can move
 any ball on the board below as long as it
 satisfies the following conditions:
-<->To move, jump your selected ball over an
+<60> To move, jump your selected ball over an
 adjacent space occupied by another ball
 into an empty space on the other side.
 You can't jump diagonally.
-<->Once you've made the jump, the ball you
+<60> Once you've made the jump, the ball you
 jumped over disappears from the board.
-<->To complete the puzzle, you must remove all
+<60> To complete the puzzle, you must remove all
 balls from the board except for one.
 
 OK, enough rules. Try it for yourself!
@@ -215,13 +215,13 @@ Get ready, because this one's going to be
 rough. Just like before, you can move
 any ball on the board below as long as it
 satisfies the following conditions:
-<->To move, jump your selected ball over an
+<60> To move, jump your selected ball over an
 adjacent space occupied by another ball
 into an empty space on the other side.
 You can't jump diagonally.
-<->Once you've made the jump, the ball you
+<60> Once you've made the jump, the ball you
 jumped over disappears from the board.
-<->To complete the puzzle, you must remove all
+<60> To complete the puzzle, you must remove all
 balls from the board except for one.
 
 OK, enough rules. Try it for yourself!
@@ -2132,8 +2132,8 @@ blue plate on the left to the red plate on
 the right? Wait, though, it's not as easy as
 it sounds. You must follow these rules:
 
-<->You can only move one pancake at a time.
-<->You cannot place a pancake on top of
+<60> You can only move one pancake at a time.
+<60> You cannot place a pancake on top of
 another one that is smaller than itself.
 
 You can use the middle plate and move
@@ -2187,8 +2187,8 @@ blue plate on the left to the red plate on
 the right? Wait, though, it's not as easy as
 it sounds. You must follow these rules:
 
-<->You can only move one pancake at a time.
-<->You cannot place a pancake on top of
+<60> You can only move one pancake at a time.
+<60> You cannot place a pancake on top of
 another one that is smaller than itself.
 
 You can use the middle plate and move

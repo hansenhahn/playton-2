@@ -793,13 +793,13 @@ resposta se tornará clara.
 Igual nas vezes anteriores, você pode mover
 qualquer bola do tabuleiro contanto que
 satisfaça as seguintes instruções:
-<->Para mover, pule com a bola que selecionou
+<60> Para mover, pule com a bola que selecionou
 por cima de um espaço adjacente ocupado por
 outra bola até um espaço vazio no outro lado.
 Não pode pular diagonalmente.
-<->Assim que fizer o pulo, a bola que você
+<60> Assim que fizer o pulo, a bola que você
 pulou por cima irá desaparecer do tabuleiro.
-<->Para completar esse enigma, você deve
+<60> Para completar esse enigma, você deve
 remover todas as bolas do tabuleiro exceto uma.
 
 Tá bom, chega de regras. Comece a tirar todas
@@ -955,8 +955,8 @@ do prato azul da esquerda para o prato
 vermelho da direita? Espere, não é tão fácil
 quanto parece. Você deve seguir essas regras:
 
-<->Você só pode mover uma panqueca por vez.
-<->Você não pode pôr uma panqueca em cima de
+<60> Você só pode mover uma panqueca por vez.
+<60> Você não pode pôr uma panqueca em cima de
 outra que seja maior que a mesma.
 
 Você pode usar o prato do meio e mover as

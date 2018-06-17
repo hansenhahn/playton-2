@@ -911,7 +911,7 @@ comecei a fuçar nessa coisa pra
 passar o tempo, mas acho que quebrei!<W>
 !------------------------------!
 Podem me ajudar a consertá-la,
-s'il vous pla<<5E>i>t?
+s'il vous pla<^i>t?
 !******************************!
 [t24_171_100.gds]
 <01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:85>Ah, ni hao de novo. Me ajudem aqui
