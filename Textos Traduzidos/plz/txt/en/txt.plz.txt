@@ -64,13 +64,13 @@ Meu pai sempre fez o que bem lhe
 entende, sem se importar com mais
 ninguém. Ele age desse jeito com
 todo mundo, até seus filhos. Não é
-de se admirar que meu irmão mais novo
+de se admirar que meu irmão mais
 se dê tão mal com ele. Apesar de
-tudo, temos que aceitar seus caprichos,
-já que somos futuros governantes de
-Folsense e não podemos sair daqui.
-Nós somos os protetores desta cidade,
-e temos que cuidar dela.
+tudo, temos que aceitar seus
+caprichos, já que somos futuros
+governantes de Folsense, não podemos
+sair daqui. Nós somos os protetores
+desta cidade, e temos que cuidar dela.
 !******************************!
 [diary_4.txt]
 Não sendo mais capaz de continuar
@@ -85,18 +85,17 @@ achar que nunca vou entender aquele
 homem.
 !******************************!
 [diary_5.txt]
-Encontramos um novo minério
-enterrado. Meu pai acredita que
-podemos refiná-lo e criar um tipo de
-metal muito valioso. Eu duvido que nós
+Encontramos um novo minério enterrado.
+Meu pai acredita que podemos
+refiná-lo e criar um tipo de metal
+muito valioso. Eu duvido que nós
 consigamos transformar esse negócio,
 que parece uma pedra, em algo de
 valor. Mas isso não impediu meu pai.
 A escavação já chegou a tal ponto
 que formou um buraco gigantesco sob
-nosso castelo. Começo a prever que o
-castelo pode acabar caindo abismo
-abaixo.
+o castelo. Começo a prever que ele
+pode acabar caindo abismo abaixo.
 !******************************!
 [diary_6.txt]
 Hoje é um dia fabuloso! Finalmente,
@@ -107,7 +106,7 @@ Até mudarei a decoração inteira do
 castelo se isso a deixar feliz.
 Eu também pedi para ela um vestido
 personalizado. Ela ficará linda
-no vestido. Não tenho dúvidas.
+nele. Não tenho dúvidas.
 !******************************!
 [diary_7.txt]
 Muitas pessoas na cidade adoeceram
@@ -144,7 +143,7 @@ me abandonado, eu poderia ter
 resistido à tempestade. Ainda me
 pergunto por que ela deixou a cidade.
 Se ela realmente me amava, então
-por que foi embora?
+por que ela foi embora?
 !******************************!
 [dt_1.txt]
 
@@ -275,7 +274,7 @@ cuja lenda fala sobre matar qualquer
 um que se atreva a abri-la. Conforme
 os boatos, a caixa já reivindicou
 muitas vidas e é conhecida como
-"Caixa de Pandora" em muitas partes
+"Caixa de Pandora" em diversas partes
 do mundo. Será que esses nefastos
 rumores são verdadeiros?
 !******************************!
@@ -339,14 +338,15 @@ essa mudança repentina da aparência
 da estação de trem?
 !******************************!
 [id_8.txt]
-Parece que Beluga está fazendo Sammy
-trabalhar como condenado, fazendo-o
-vasculhar toda a cidade em busca de um
-item desconhecido. Não se sabe por que
-Beluga criou uma linha férrea secreta
-entre Dropstone e Folsense, mas está
-claro que o que ele procura é muito
-importante. O que poderia ser?
+Parece que Beluga está fazendo
+Sammy trabalhar feito um condenado,
+fazendo-o vasculhar toda a cidade
+em busca de um item desconhecido.
+Não se sabe por que Beluga criou uma
+linha férrea secreta entre Dropstone
+e Folsense, mas está claro que o que
+ele procura é muito importante.
+O que poderia ser?
 !******************************!
 [id_9.txt]
 Circulam boatos de que um vampiro
@@ -3668,8 +3668,8 @@ O Laytonmóvel
 Mr. Anderson
 !******************************!
 [err1.txt]
-Incapaz de conectar-se com
-a Conexão Nintendo Wi-Fi.
+Não foi possível se conectar
+com a Nintendo WFC.
 Para ajuda, verifique o Manual de
 Instruções deste software ou visite
 support.nintendo.com.
@@ -3683,39 +3683,39 @@ Falha na transferência. Para ajuda,
 visite support.nintendo.com.
 !******************************!
 [err13.txt]
-Não foi possível usar a Conexão
-Nintendo Wi-Fi porque um erro
-ocorreu. Desligue o portátil e
+Não foi possível se conectar à
+Nintendo WFC porque ocorreu um
+erro. Desligue o portátil e
 tente novamente.
 !******************************!
 [err2.txt]
-Ou a Conexão Nintendo Wi-Fi está
-presenciando altos volumes de
+Ou a Nintendo WFC está tendo
+problemas com altos volumes de
 tráfego, ou o serviço está fora
 do ar. Por favor tente novamente
 mais tarde. Para ajuda, visite
 support.nintendo.com.
 !******************************!
 [err3.txt]
-Este ID de Conexão Nintendo Wi-Fi
-foi removido pois ficou inativo
+Este ID da Nintendo WFC foi
+removido pois ficou inativo
 por um longo período de tempo.
 Para ajuda, visite
 support.nintendo.com.
 !******************************!
 [err4.txt]
-O serviço de Conexão Nintendo Wi-Fi
-foi descontinuado para este software.
+O serviço da Nintendo WFC foi
+descontinuado para este software.
 Visite support.nintendo.com
 para uma lista dos softwares
 atuais compatíveis com a
-Conexão Nintendo Wi-Fi.
+Nintendo WFC.
 !******************************!
 [err5.txt]
 O ponto de acesso está ocupado.
-Incapaz de conectar-se. Por favor
-tente novamente mais tarde.
-Para ajuda, visite
+Não foi possível se conectar.
+Por favor tente novamente mais
+tarde. Para ajuda, visite
 support.nintendo.com.
 !******************************!
 [err6.txt]
@@ -3725,7 +3725,7 @@ estiver perto de um. Para ajuda,
 visite support.nintendo.com.
 !******************************!
 [err7.txt]
-Sem pontos de acesso compatível
+Sem pontos de acesso compatíveis
 na área. Verifique suas
 configurações de conexão e tente
 novamente. Para ajuda, visite
@@ -3740,18 +3740,17 @@ equipamento. Para ajuda, visite
 support.nintendo.com.
 !******************************!
 [err9.txt]
-Incapaz de conectar à
-Conexão Nintendo Wi-Fi. Confirme
-as configurações de conexão e do
+Não foi possível se conectar à
+Nintendo WFC. Verifique as
+configurações da conexão e do
 ponto de acesso. Para ajuda,
 visite support.nintendo.com.
 !******************************!
 [flow1.txt]
 Suas Informações de Usuário da
-Conexão Nintendo Wi-Fi foram
-apagadas. Verifique suas
-configurações de conexão.
-Para ajuda, visite
+Nintendo WFC foram apagadas.
+Verifique suas configurações
+de conexão. Para ajuda, visite
 support.nintendo.com.
 !******************************!
 [flow100.txt]
@@ -3785,14 +3784,14 @@ Não desligue seu DS.
 !******************************!
 [flow11.txt]
 Desconectando-se da
-Conexão Nintendo Wi-Fi.
+Nintendo WFC.
 !******************************!
 [flow12.txt]
 Você foi desconectado da
-Conexão Nintendo Wi-Fi.
+Nintendo WFC.
 !******************************!
 [flow2.txt]
-Conectar-se à Conexão Nintendo Wi-Fi?
+Conectar-se à Nintendo WFC?
 !******************************!
 [flow300.txt]
 O serviço de transferência de
@@ -3801,6 +3800,6 @@ Enigmas Semanais ainda não iniciou.
 Por favor, verifique mais tarde.
 !******************************!
 [flow8.txt]
-Conectando-se à Conexão Nintendo Wi-Fi...
+Conectando-se à Nintendo WFC...
 Por favor, aguarde um momento...
 !******************************!

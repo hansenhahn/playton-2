@@ -1,0 +1,162 @@
+[msg_nrm_clear.txt]
+%s andou %d passos!
+Seu nível subiu de %d para %d!
+!******************************!
+[msg_nrm_clear1.txt]
+%s alcançou seu objetivo
+com %d passos! É isso aí!
+!******************************!
+[msg_nrm_clear2.txt]
+%s agora vai farejar
+moedas de dica para você!
+Não vá perder essa moeda!
+!******************************!
+[msg_nrm_fail.txt]
+%s andou %d passos
+mas não conseguiu alcançar
+seu objetivo.
+!******************************!
+[msg_nrm_fail1.txt]
+%s andou %d passo
+mas não conseguiu alcançar
+seu objetivo.
+!******************************!
+[msg_nrm_start.txt]
+Nível de Malhação: %d
+Passos pro Próximo Nível: %d
+!******************************!
+[msg_slm_clear.txt]
+%s quebrou seu recorde
+anterior andando %d passos!
+Caraca, como ele tá orgulhoso!
+!******************************!
+[msg_slm_even.txt]
+%s andou %d passos
+mas faltava só mais um passo
+para quebrar seu recorde. Bolas!
+!******************************!
+[msg_slm_fail.txt]
+%s andou %d passos
+nas não conseguiu quebrar
+seu recorde anterior.
+!******************************!
+[msg_slm_fail1.txt]
+%s andou %d passo
+mas não conseguiu quebrar
+seu recorde anterior.
+!******************************!
+[msg_slm_start.txt]
+Bota esse hamster pra andar!
+Tente fazer ele andar
+mais de %d passos!
+!******************************!
+[obj_e00.txt]
+Posicione os objetos nos espaços
+abaixo, de modo que faça o hamster
+andar o mais longe possível.
+Toque um objeto para ver suas
+características especiais.
+!******************************!
+[obj_e01.txt]
+É a comida favorita do hamster.
+Quando estiver num raio de três
+espaços, ele ignorará todos os
+outros objetos à sua volta e
+irá direto para a fruta.
+!******************************!
+[obj_e02.txt]
+O hamster não se interessa por
+esses blocos, mas eles são úteis
+para bloquear seu caminho e linha
+de visão. Posicione-os de acordo,
+para maximizar sua efetividade.
+!******************************!
+[obj_e03.txt]
+Seu hamster será atraído por esta
+casinha adorável se ela estiver
+num raio de três espaços do objeto,
+mas sempre vai ignorá-la caso haja
+aguma maçã por perto.
+!******************************!
+[obj_e04.txt]
+Este tronquinho atrai a atenção do
+hamster se ele estiver num raio de
+três espaços do objeto. Porém, se
+uma maçã também estiver nesse mesmo
+raio, o hamster preferirá a fruta.
+!******************************!
+[obj_e05.txt]
+Esta florzinha preciosa atrai a
+atenção do hamster se ele estiver
+num raio de três espaços da flor,
+muito embora ele goste muito mais
+de maçãs.
+!******************************!
+[obj_e06.txt]
+Quando o hamster se encosta nessa
+lampadazinha, ela acende, fazendo
+seu amigo criceto correr pra
+frente sem parar até encostar
+em outro objeto.
+!******************************!
+[obj_e07.txt]
+Quando o hamster se encosta nessa
+caixa, um boneco salta fora dela,
+dando um susto no hamster e fazendo
+ele correr na direção oposta sem
+parar até encostar em outro objeto.
+!******************************!
+[obj_e08.txt]
+Brincar na caixa de areia sempre
+faz o hamster dar um salto em
+direção a uma piscina, ignorando
+todos os itens por perto. Saltos
+não contam como passos.
+!******************************!
+[obj_e09.txt]
+Depois de brincar na caixa de
+areia, o hamster sempre dá um
+salto em direção à piscina mais
+próxima, haja o que houver.
+Saltos não contam como passos.
+!******************************!
+[obj_e10.txt]
+O trampolim faz o hamster pular
+dois passos para frente e, ao
+aterrissar, ele corre pra frente
+até encostar em algo. Se ele cair
+em cima de um objeto, este some.
+!******************************!
+[obj_n00.txt]
+Faça o treino do Hamster
+!******************************!
+[obj_n01.txt]
+Maçã
+!******************************!
+[obj_n02.txt]
+Bloco
+!******************************!
+[obj_n03.txt]
+Casinha de Hamster
+!******************************!
+[obj_n04.txt]
+Tronco de Árvore
+!******************************!
+[obj_n05.txt]
+Flor
+!******************************!
+[obj_n06.txt]
+Lâmpada
+!******************************!
+[obj_n07.txt]
+Caixinha de Surpresas
+!******************************!
+[obj_n08.txt]
+Caixa de Areia
+!******************************!
+[obj_n09.txt]
+Piscina
+!******************************!
+[obj_n10.txt]
+Trampolim
+!******************************!

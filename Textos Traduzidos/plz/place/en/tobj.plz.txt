@@ -60,7 +60,7 @@ Essa enorme estrutura
 !******************************!
 [tobj11.txt]
 É um edifício bem antigo,
-mas parece ser muito
+mas ainda assim muito
 resistente.
 !******************************!
 [tobj110.txt]
@@ -768,7 +768,7 @@ e tanto.
 [tobj8.txt]
 As flores estão
 desabrochando. Alguém
-está cuidando bem delas.
+tem cuidado bem delas.
 !******************************!
 [tobj80.txt]
 Parece que hoje é o

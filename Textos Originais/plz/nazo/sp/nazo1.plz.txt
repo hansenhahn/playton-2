@@ -1,0 +1,2390 @@
+[n1.dat]
+<0001>El mapa de Schrader
+<02><0A><09><08><12><5B><1A><01><00><04><01><FF>
+Varias de las piezas del centro del mapa
+que indica d<'o>nde vive el Dr. Schrader
+se han desprendido. Arr<'a>stralas con el
+l<'a>piz t<'a>ctil e ins<'e>rtalas en los
+lugares correctos.
+
+Puede parecer simple, pero recuerda
+que puedes mover y quitar cualquier
+pieza, incluida la de en medio.
+!******************************!
+<<5E>!>Excelente!
+
+Y ahora ser<'a> mejor que te pongas rumbo
+al apartamento del Dr. Schrader.
+!******************************!
+<<5E>!>L<'a>stima!
+
+Observa el mapa con atenci<'o>n.
+!******************************!
+Si incluyes la pieza que tienes en el
+centro del mapa desde el principio,
+tienes que trabajar con seis piezas.
+
+Puede que no te hayas dado cuenta,
+pero solo hay cinco espacios.
+
+Esto significa que una de las piezas no
+se usa en la soluci<'o>n.
+!******************************!
+Observa atentamente todas las piezas,
+incluyendo la que est<'a> en el centro.
+
+Si vas haciendo que las carreteras
+encajen a la perfecci<'o>n,
+acabar<'a>s resolviendo el puzle.
+!******************************!
+[n10.dat]
+<0011>El bosque
+<00><14><12><10><12><12><09><0A><EF><03><02><FF>
+El bosque que ves m<'a>s abajo tiene
+cuatro tipos de <'a>rboles diferentes.
+Divide el bosque en cuatro secciones
+con ayuda del l<'a>piz t<'a>ctil. Cada secci<'o>n
+debe tener un <'a>rbol de cada tipo.
+!******************************!
+<<5E>!>Muy bien!
+
+<<5E>!>Ahora, disfruta del hermoso paisaje!
+!******************************!
+<<5E>!>L<'a>stima!
+
+No te preocupes si te bloqueas. Busca
+zonas en las que haya cuatro tipos de
+<'a>rboles conectados unos a otros.
+!******************************!
+Si encuentras dos <'a>rboles del mismo
+tipo juntos, ya sabes que hay que
+separarlos con una l<'i>nea.
+
+Con esta informaci<'o>n ya puedes empezar.
+!******************************!
+A ver si encontramos una forma de
+separar los <'a>rboles de la esquina
+inferior izquierda del dibujo. Las
+l<'i>neas que hayas dibujado despu<'e>s de
+leer la pista 1 deber<'i>an de servirte
+de gu<'i>a. La secci<'o>n de esta zona
+deber<'i>a tener forma de L.
+!******************************!
+[n11.dat]
+<0012>Cielo nublado
+<01><1E><1B><18><11><10><1C><0B><F6><03><02><01>
+Mientras viajas en tren, un se<-n>or te
+ense<-n>a un dibujo que est<'a> haciendo.
+
+<''>Mira, si este dibujo tiene un <'a>rea total
+de 10 unidades, <<5E>?>cu<'a>l es la proporci<'o>n de
+nubes y cielo? No tienes por qu<'e> contestar
+al azar; puedes usar un #rm<'e>todo concreto#x
+para averiguar la respuesta.<''>
+
+Teniendo en cuenta que hay un total de 10
+unidades, <<5E>?>cu<'a>ntas son de cielo y cu<'a>ntas
+de nubes?
+!******************************!
+<<5E>!>Buen trabajo!
+
+La clave de este puzle es usar los clavos
+del marco como referencia. Como ves, hay
+varios pares de im<'a>genes que son el mismo
+dibujo con los colores invertidos: B-F,
+C-I, D-G y E-H. Eso significa que, de estas
+8 <'a>reas, 4 son cielo y 4 nubes. Solo
+quedan dos cuadrados azules sin contar,
+A y J, por lo que hay un total de 6
+cuadrados de cielo y 4 de nubes.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+<<5E>?>Te has fijado en el marco que rodea
+el dibujo? Prueba a usar los clavos como
+referencia para simplificar el problema.
+!******************************!
+La pista 1 mencionaba los clavos.
+<<5E>?>Te has dado cuenta de que puedes
+usarlos para dividir la imagen en
+10 cuadrados?
+
+Ahora, lo <'u>nico que te queda es
+observar la imagen atentamente...
+!******************************!
+[n12.dat]
+<0013>Vajilla de lujo
+<01><0F><0D><0B><12><0C><16><0C><F6><03><02><FF>
+Este plato tiene un s<'i>mbolo compuesto
+por dos tri<'a>ngulos equil<'a>teros, uno
+dentro de otro.
+
+<<5E>?>Sabr<'i>as decir cu<'a>ntas veces m<'a>s grande
+es el tri<'a>ngulo grande en comparaci<'o>n
+con el tri<'a>ngulo peque<-n>o?
+!******************************!
+<<5E>!>Eso es!
+
+Si le das la vuelta al tri<'a>ngulo peque<-n>o
+como se muestra en el diagrama, enseguida
+se hace evidente que dentro del tri<'a>ngulo
+grande caben cuatro tri<'a>ngulos como el
+peque<-n>o.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Conc<'e>ntrate en el tri<'a>ngulo peque<-n>o.
+!******************************!
+Este puzle no requiere de c<'a>lculos
+muy complicados. Solo necesitas un
+poco de intuici<'o>n.
+!******************************!
+<<5E>?>Y si le das la vuelta al tri<'a>ngulo
+peque<-n>o?
+!******************************!
+[n13.dat]
+<0014>Gorras y globos
+<01><19><16><13><11><0C><16><0D><F6><03><02><FF>
+Un d<'i>a, en clase, una profesora les pidi<'o> a
+sus alumnos que cerraran los ojos y les
+puso a todos una gorra en la cabeza.
+Cuando abrieron los ojos, dijo:
+
+<''>A ver, ni<-n>os, observad bien las gorras de
+vuestros compa<-n>eros. Los que vean cuatro
+o m<'a>s gorras rojas se llevan un globo rojo,
+y los que no, se llevan un globo azul.<''>
+
+Si tenemos en cuenta que hay un total de
+diez ni<-n>os y que solo algunos se llevaron
+un globo rojo, <<5E>?>cu<'a>ntos globos rojos
+reparti<'o> la profesora?
+!******************************!
+<<5E>!>Correcto!
+
+Como ya sabes, solo algunos ni<-n>os
+recibieron un globo rojo. Si cinco ni<-n>os
+o m<'a>s hubieran llevado gorra roja, todos los
+ni<-n>os de la clase ver<'i>an por lo menos
+cuatro gorras rojas y recibir<'i>an un globo
+rojo. Por lo tanto, tienen que ser menos
+de cinco. Sin embargo, si tres ni<-n>os o menos
+tuvieran gorras rojas, ninguno de los
+ni<-n>os de la clase ver<'i>a cuatro gorras rojas.
+Por lo tanto, exactamente cuatro ni<-n>os
+ten<'i>an puesta una gorra roja. Los otros
+seis recibieron un globo rojo.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+El enunciado dice que algunos ni<-n>os se
+llevaron un globo rojo. Para cumplir esta
+condici<'o>n, varios ni<-n>os tuvieron que
+ver cuatro o m<'a>s gorras rojas.
+
+Si solo hubiera tres ni<-n>os con gorra
+roja, ninguno de los ni<-n>os de la clase
+se habr<'i>a llevado un globo rojo. Por lo
+tanto, el n<'u>mero de ni<-n>os con gorra roja
+tiene que ser mayor que tres.
+!******************************!
+El enunciado dice que #ralgunos#x ni<-n>os
+recibieron un globo rojo.
+
+Eso significa que no todos los ni<-n>os
+recibieron un globo rojo. <<5E>?>Cu<'a>l es
+el n<'u>mero de gorras rojas que le
+permitir<'i>a a todo el mundo llevarse
+un globo rojo?
+
+La soluci<'o>n es un n<'u>mero menor que
+ese.
+!******************************!
+[n14.dat]
+<0015><^?>Qui<'e>n es Tom?
+<00><1E><1B><18><12><09><19><0E><FF><03><02><FF>
+El profesor Layton sospecha que Tom
+no es el ni<-n>o que todos creen que es.
+
+Mueve las piezas con forma de L para
+colocarlas en forma de cruz en medio
+del tablero y descubrir la verdadera
+identidad de Tom.
+!******************************!
+<<5E>!>Muy bien!
+!******************************!
+N/A
+!******************************!
+Se hace un poco dif<'i>cil mover las
+piezas con forma de L, <<5E>?>no?
+
+Ojal<'a> pudieras cambiar la forma de
+las piezas para que fueran m<'a>s
+f<'a>ciles de mover...
+
+<<5E>?>Qu<'e> tal un cuadrado, por ejemplo?
+!******************************!
+Empareja cada pieza con forma de L
+con una pieza cuadrada y tr<'a>talas
+como si fueran una sola unidad.
+!******************************!
+[n15.dat]
+<0016>Flores en negativo
+<00><0F><0B><07><12><0F><02><0F><E8><03><02><FF>
+Vamos a hacer un puzle de flores.
+
+Abajo tienes tres dibujos, A, B y C. Solo
+uno de ellos es exactamente el mismo que
+el dibujo de la izquierda. Sin embargo,
+esta imagen ha sido alterada: primero le
+hemos dado la vuelta, despu<'e>s hemos
+invertido los colores y finalmente la
+hemos puesto en blanco y negro.
+
+<<5E>?>Cu<'a>l de las tres opciones es la misma
+imagen que la que se muestra a la izquierda?
+!******************************!
+<<5E>!>Correcto!
+
+La imagen A es la misma que aparece
+modificada a la izquierda de la pantalla.
+
+Tal y como puedes ver, B y C son ligeramente
+diferentes.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+<<5E>?>A que el cambio de colores hace el puzle
+algo m<'a>s dif<'i>cil?
+
+Aun as<'i>, puede que este detalle te acabe
+ayudando m<'a>s de lo que crees. Recuerda
+que en la imagen alterada los lugares
+oscuros aparecen en blanco y viceversa.
+!******************************!
+Si comparas la imagen alterada con
+A, B y C, acabar<'a>s dando con la
+respuesta. Sin embargo, y dado que
+solo una de las opciones es la correcta,
+puede que te sea m<'a>s f<'a>cil empezar a
+buscar diferencias entre A, B y C...
+!******************************!
+[n16.dat]
+<0017>La hormiga laboriosa
+<00><19><16><13><12><08><09><10><EF><03><02><FF>
+Las hormigas trabajan sin descanso para
+llevar comida al nido. Un d<'i>a, cuando una
+hormiga volv<'i>a a casa con comida, se
+encontr<'o> con una conocida cerca del nido
+que le dijo: <''>Pero <<5E>?>qu<'e> haces, loca? <<5E>?>No
+sabes que has cogido el #rcamino m<'a>s largo
+de vuelta al nido#x? <<5E>!>Piensa antes de
+echarte a andar!<''>.
+
+Sabiendo que la hormiga no ha recorrido
+el mismo tramo dos veces, <<5E>?>puedes dibujar
+el camino que ha seguido para volver al
+nido?
+!******************************!
+<<5E>!>Eso es!
+
+Quiz<'a>s todo el peso que llevaba a
+cuestas le impidi<'o> darse cuenta de
+cu<'a>l era el mejor camino para llegar
+a casa. Si se lo hubiera pensado bien,
+<<5E>!>se habr<'i>a ahorrado un buen trecho!
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+Cuando dibujes el camino de vuelta
+al nido, intenta pasar por todas
+las calles que puedas.
+!******************************!
+Arrastra el l<'a>piz t<'a>ctil desde la
+salida hacia abajo y gira por la
+primera calle a la izquierda. En
+la siguiente intersecci<'o>n, sube
+hacia la parte superior del mapa.
+
+Cuando llegues a la pared, gira hacia
+la izquierda. Cuando llegues a un muro,
+gira hacia abajo.
+!******************************!
+[n17.dat]
+<0018>Paso a paso
+<00><14><12><10><11><09><17><11><FD><03><02><FF>
+<<5E>?>Hab<'i>as visto alguna vez un laberinto hecho
+de zapatos? Tienes que llegar desde la
+salida hasta la meta siguiendo unas sencillas
+normas. Solo puedes moverte horizontal o
+verticalmente de casilla en casilla y
+tienes que alternar siempre entre pie
+izquierdo y pie derecho. Adem<'a>s, no puedes
+atravesar las paredes.
+
+Toca las casillas de una en una para
+moverte. Si te equivocas, puedes tocar
+otra vez una casilla seleccionada para
+deshacer ese paso.
+!******************************!
+<<5E>!>Buen trabajo!
+
+<<5E>?>Qu<'e> tal te ha sentado la caminata?
+!******************************!
+<<5E>!>L<'a>stima!
+
+<<5E>?>Seguro que has ido alternando entre
+pie izquierdo y pie derecho?
+!******************************!
+<<5E>?>Has probado a empezar desde la meta
+e ir hacia atr<'a>s?
+!******************************!
+Para superar este laberinto tienes que
+dar exactamente 19 pasos incluyendo las
+casillas de salida y de meta.
+!******************************!
+[n18.dat]
+<0019>Viaje en tren
+<01><14><12><10><12><09><16><12><F6><03><02><FF>
+Un n<'u>mero desconocido de gente viaja en
+un tren. En la primera estaci<'o>n, 1/6 de
+las personas se baja. En la siguiente,
+se baja 1/5 de los pasajeros restantes.
+En las sucesivas estaciones, se sigue el
+mismo patr<'o>n: en la siguiente parada se baja
+1/4, despu<'e>s 1/3 y despu<'e>s 1/2. Y en la
+<'u>ltima, se bajan los pasajeros que quedan.
+
+Asumiendo que nadie se haya subido
+al tren durante el viaje, <<5E>?>cu<'a>l es el
+m<'i>nimo n<'u>mero de gente que podr<'i>a haber
+ido en el tren cuando sali<'o>?
+!******************************!
+<<5E>!>Muy bien!
+
+Si suponemos que el tren sali<'o> con seis
+pasajeros, solo se habr<'i>a bajado una
+persona en cada estaci<'o>n.
+
+Este puzle puede resultar muy dif<'i>cil
+si no te acuerdas de ir reduciendo el
+n<'u>mero de pasajeros que quedan en el
+tren en cada estaci<'o>n.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo. Este puzle resulta
+muy f<'a>cil cuando tienes en cuenta un
+principio muy sencillo.
+!******************************!
+Dado que el enunciado dice que nadie
+se ha subido al tren durante el viaje,
+podemos suponer que el n<'u>mero de
+pasajeros del tren no ha aumentado
+en ning<'u>n momento.
+!******************************!
+Como 1/6 de los pasajeros se baja
+en la primera estaci<'o>n, ya sabes que
+el n<'u>mero que buscas debe ser divisible
+entre seis. Empieza con un n<'u>mero que
+sea divisible entre seis y ve haciendo
+c<'a>lculos.
+
+Enseguida te dar<'a>s cuenta del principio
+en el que se basa la soluci<'o>n de este
+problema.
+!******************************!
+[n19.dat]
+<0020>Ladrona de zapatos
+<01><19><16><13><11><0A><16><13><F6><03><02><FF>
+Una se<-n>ora entra a una zapater<'i>a y paga
+un par de zapatos de 30 <po> con un billete de
+50 <po>. Como el dependiente no tiene cambio,
+se va a la tienda de al lado a cambiarlo.
+Seguidamente vuelve a la zapater<'i>a y le da
+el cambio a la mujer.
+Un rato despu<'e>s, la dependienta de la tienda
+de al lado viene a quejarse de que el billete
+que le hab<'i>a dado el dependiente era falso.
+El pobre hombre se disculpa y le da un
+billete de 50 <po> de la caja.
+Teniendo en cuenta que ya no es posible
+localizar ni el billete ni a la clienta, <<5E>?>cu<'a>nto
+dinero ha perdido en total el dependiente?
+!******************************!
+<<5E>!>Bien hecho!
+
+Los zapatos que se llev<'o> la timadora
+cuestan 30 <po>, y adem<'a>s el dependiente le
+dio otras 20 <po> de cambio, por lo que las
+p<'e>rdidas totales del dependiente son de
+50 <po>.
+
+El dependiente recibi<'o> 50 <po> aut<'e>nticas
+cuando cambi<'o> el billete falso, pero
+despu<'e>s tuvo que devolver otras 50 <po>
+aut<'e>nticas a la dependienta de al lado.
+Por lo tanto, ambas transacciones se
+cancelan.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+Si el dependiente no hubiera ido a por
+cambio a la tienda de al lado, puede que
+no se hubiera dado cuenta de que hab<'i>a
+perdido dinero.
+
+<<5E>?>Cu<'a>nto dinero habr<'i>a perdido si
+hubiera tenido cambio en la caja?
+!******************************!
+Como utiliz<'o> un billete falso, el
+dinero que recibi<'o> el dependiente
+en la tienda de al lado le sali<'o>
+<''>gratis<''>. Recibi<'o> 50 <po> por nada.
+
+Cuando devolvi<'o> el dinero, perdi<'o> 50 <po>.
+!******************************!
+[n2.dat]
+<0003>La llave correcta
+<00><14><12><10><12><04><12><02><4C><04><01><FF>
+<<5E>?>Cu<'a>l es la llave que abre la puerta?
+
+Usa el l<'a>piz t<'a>ctil para mover las llaves y
+encontrar la que encaja en la cerradura.
+
+Para encontrar la correcta, tendr<'a>s que
+observar atentamente la forma de cada
+llave.
+!******************************!
+<<5E>!>Eso es!
+
+<<5E>?>Te ha costado mucho darte cuenta
+de que tambi<'e>n ser<'i>a posible introducir
+las llaves al rev<'e>s en la cerradura?
+
+Seguro que este puzle te ha ense<-n>ado a
+no hacer presuposiciones con sucesivos
+puzles.
+!******************************!
+<<5E>!>L<'a>stima!
+
+Puede parecer que ninguna de las
+llaves encaja en la cerradura, pero
+no desesperes, la respuesta est<'a> ah<'i>.
+!******************************!
+A primera vista, las formas de las llaves
+parecen muy complejas en comparaci<'o>n
+con la forma de la cerradura.
+
+Conc<'e>ntrate en encontrar una llave
+que pueda encajar en la cerradura.
+!******************************!
+<<5E>?>Seguro que has considerado las
+seis posibilidades?
+
+<<5E>?>C<'o>mo? <<5E>?>Que solo hay tres llaves?
+S<'i>, es cierto, pero m<'i>ralas bien...
+!******************************!
+[n20.dat]
+<0021><^!>P<'a>salo!
+<00><14><12><10><51><06><16><14><F6><03><02><02>
+Ocho personas est<'a>n jugando a un extra<-n>o
+juego de comunicaci<'o>n que consiste en que
+una de ellas tiene que hacer llegar un
+mensaje a las otras siete.
+
+Se tarda un minuto en transmitir el mensaje
+y solo puede haber un receptor cada vez.
+Teniendo en cuenta estas reglas, <<5E>?>cu<'a>l
+es la cantidad m<'i>nima de tiempo que se
+necesita para comunicar el mensaje a los
+otros siete jugadores?
+!******************************!
+<<5E>!>Muy bien!
+
+Si el mensajero transmite el mensaje de
+esta forma, se puede completar el juego
+en tres minutos. Durante ese tiempo, el
+mensajero puede comunicar el mensaje a
+tres personas y las dos primeras personas
+pueden ser mensajeros tambi<'e>n.
+
+En una emergencia, las redes de informaci<'o>n
+estructuradas como en el diagrama de
+arriba pueden servir para que la
+informaci<'o>n se transmita r<'a>pidamente.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+<<5E>?>No te estar<'a> liando un poco
+la formulaci<'o>n del enunciado?
+!******************************!
+<''>Solo puede haber un receptor
+cada vez.<''>
+
+Tienes que recordar que una persona
+solo puede transmitir el mensaje a
+otra persona cada vez.
+
+Vuelve a leer el enunciado de nuevo
+teniendo esto en cuenta.
+!******************************!
+Cada vez que una persona transmite
+el mensaje a otra, el n<'u>mero de gente
+que conoce el mensaje aumenta en uno.
+!******************************!
+[n21.dat]
+<0022>Saca la basura 1
+<00><2D><28><23><11><12><19><15><4D><04><02><FF>
+<<5E>!>Tira la basura al contenedor!
+
+Usa el l<'a>piz t<'a>ctil para mover los bloques
+que te obstruyen el camino y arrastra la
+basura al contenedor que hay en la parte
+inferior de la pantalla.
+!******************************!
+<<5E>!>Hala, limpio y reluciente!
+
+Si todav<'i>a no lo has conseguido,
+intenta resolverlo en 29 pasos.
+
+<<5E>!>Y recuerda que la basura no se tira al
+suelo nunca!
+!******************************!
+
+!******************************!
+Intenta seguir los pasos que se
+describen a continuaci<'o>n.
+
+Coloca un bloque azul en el fondo del
+contenedor y despu<'e>s apila los otros
+tres encima.
+
+Despu<'e>s, intenta meter uno de ellos en
+la cavidad que hay arriba a la derecha.
+<<5E>!>En cuanto est<'e> ah<'i>, no tendr<'a>s que
+volver a moverlo!
+!******************************!
+Si no sabes qu<'e> hacer, intenta colocar
+bloques azules arriba, abajo y a la
+derecha del todo. Despu<'e>s intenta
+mover el resto de los bloques por el
+espacio que te queda.
+!******************************!
+[n22.dat]
+<0023>Agria derrota
+<00><0F><07><04><12><06><02><16><E8><03><02><FF>
+Dos hombres, 1 y 2, participan en un extra<-n>o
+juego. Ponen sus jarras en la mesa y un
+juez coloca una tercera jarra llena de
+vinagre en el lugar A o en el lugar B.
+El juez comienza a verter el vinagre de
+una jarra a otra adyacente una y otra vez.
+Despu<'e>s de trasvasar el l<'i>quido 55 veces,
+el due<-n>o de la jarra que quede llena de
+vinagre tendr<'a> que beb<'e>rsela de un trago.
+
+Si fueras el juez y quisieras que el
+hombre 2 se bebiera el vinagre, <<5E>?>colocar<'i>as
+la jarra en el lugar A o en B?
+!******************************!
+<<5E>!>Bien hecho!
+
+El vinagre se trasvasa 55 veces, un
+n<'u>mero impar. Independientemente de
+d<'o>nde coloques tu jarra, la jarra que
+est<'e> en medio de las tres siempre
+contendr<'a> el l<'i>quido despu<'e>s de un
+n<'u>mero impar de trasvases.
+
+Por lo tanto, para que sea el hombre 2
+el que beba, habr<'a> que colocar la jarra
+de vinagre en el lugar B. De esta forma,
+la jarra del hombre 2 quedar<'a> en medio y
+acabar<'a> llena de vinagre.
+!******************************!
+<<5E>!>Vaya, qu<'e> pena!
+
+Normalmente necesitar<'i>as alguna
+pista para seguir intent<'a>ndolo, pero
+como solo hay dos respuestas posibles,
+ya conoces la soluci<'o>n.
+
+Piensa por qu<'e> esa es la respuesta
+correcta y soluciona el problema.
+!******************************!
+Coge unos vasos de agua e intenta
+resolver el puzle, pero sin el vinagre,
+claro.
+
+Enseguida descubrir<'a>s cu<'a>l es el
+principio en el que se basa este
+puzle.
+!******************************!
+Si dejases de trasvasar el l<'i>quido
+despu<'e>s de 5 trasvases en lugar
+de 55, <<5E>?>qu<'e> cambiar<'i>a?
+!******************************!
+[n23.dat]
+<0024>La tira de papel
+<01><0A><09><08><11><09><16><17><F6><03><02><FF>
+Un d<'i>a se te ocurre doblar una tira de papel
+por la mitad, pero un extremo te queda un
+cent<'i>metro m<'a>s largo que el otro. Como
+quieres que te quede bien, la vuelves
+a doblar. Esta vez es el otro extremo el
+que te queda un cent<'i>metro m<'a>s largo.
+
+<<5E>?>Qu<'e> distancia, en mil<'i>metros, hay entre los
+dos dobleces que has hecho?
+!******************************!
+<<5E>!>Correcto!
+
+La distancia entre ambos dobleces es de un
+cent<'i>metro, es decir, 10 mil<'i>metros.
+
+Si te cuesta visualizar esto, imag<'i>nate que
+la caja de cerillas que se muestra en la
+pantalla superior tiene un cent<'i>metro de
+altura. Ahora, imag<'i>nate que quitamos uno
+de los lados. Seguro que ahora la caja se
+parece mucho a tu tira de papel tras ser
+doblada dos veces. El lado que queda
+representa la superficie restante de tus
+dobleces.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Tu primer paso deber<'i>a ser preguntarte
+d<'o>nde est<'a> el primer doblez.
+!******************************!
+Preg<'u>ntate qu<'e> tama<-n>o relativo tiene
+una <''>mitad<''> del papel comparada con la
+otra tras el primer doblez.
+!******************************!
+<<5E>!>Recuerda que tienes que contestar en
+mil<'i>metros!
+!******************************!
+[n24.dat]
+<0025>Naturaleza salvaje
+<00><14><12><10><11><12><03><18><E9><03><02><FF>
+Despu<'e>s de a<-n>os al borde de la bancarrota,
+el due<-n>o de un zoo se queda finalmente sin
+dinero para alimentar a los animales. Al
+l<'i>mite de la inanici<'o>n, los animales trazan
+un plan para escaparse y consiguen salir de
+sus jaulas. Ahora solo les queda encontrar
+la salida del laber<'i>ntico zoo.
+
+Toca la imagen de todos los animales que
+puedan salir del zoo y toca #rListo#x
+cuando tengas la soluci<'o>n. Pero recuerda:
+los animales muestran sus instintos en
+libertad.
+!******************************!
+<<5E>!>Bien pensado!
+
+El <'u>nico animal que podr<'a> quedar
+libre ser<'a> el le<'o>n. Aunque tanto
+<'e>l como el conejo pueden llegar
+hasta la salida, en cuanto el le<'o>n
+vea al conejo, se lo zampar<'a>.
+
+La naturaleza puede resultar cruel...
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+Para empezar, intenta dibujar el
+camino dentro del laberinto.
+
+Puede que esto te parezca un truco
+muy viejo, pero por si no lo conoces
+o lo has olvidado, intenta recorrer
+el laberinto al rev<'e>s, desde el final.
+!******************************!
+No dejes que el laberinto te maree.
+Usa la funci<'o>n de las notas para marcar
+los puntos sin salida y los caminos
+que llegan a ellos.
+!******************************!
+[n25.dat]
+<0026>Cambio de trenes
+<00><19><16><13><11><14><19><19><FF><03><02><03>
+Intercambia las posiciones de los
+dos trenes. Mueve los vagones de
+uno en uno para colocarlos en su
+n<'u>mero correspondiente.
+!******************************!
+<<5E>!>Correcto!
+
+Y ahora ser<'a> mejor que vuelvas al tren, que
+ya lleva retraso.
+!******************************!
+
+!******************************!
+Lo primero que deber<'i>as hacer es
+colocar los vagones del tren m<'a>s
+corto en la v<'i>a de arriba.
+!******************************!
+Mueve el vag<'o>n rojo que tiene el n<'u>mero
+1 a la derecha del todo de la v<'i>a de
+arriba. Despu<'e>s, mueve todos los vagones
+verdes a la v<'i>a de abajo. <<5E>!>Ahora ya
+puedes poner el vag<'o>n rojo en su sitio!
+!******************************!
+[n26.dat]
+<0027>Dram<'a>tica despedida
+<00><14><12><10><12><15><05><1A><EB><03><03><04>
+Las estaciones de tren son el escenario
+perfecto para las despedidas, <<5E>?>verdad?
+
+La imagen de abajo representa a un hombre
+y una mujer despidi<'e>ndose amargamente.
+Sin embargo, en la imagen se puede observar
+un detalle poco realista.
+
+Rodea con un c<'i>rculo ese detalle extra<-n>o.
+!******************************!
+<<5E>!>Qu<'e> buen ojo!
+
+Si el hombre quisiera abrir la ventana
+como en la imagen de arriba, <<5E>!>el marco
+de la ventana atravesar<'i>a el techo del
+tren!
+
+La mayor<'i>a de los trenes tienen ventanas
+que se deslizan hacia abajo o que solo
+permiten abrir una parte de la ventana.
+Aunque claro, gracias al aire acondicionado,
+la mayor parte de los trenes de hoy en
+d<'i>a tienen ventanas que no se abren.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Observa de nuevo la imagen en busca
+de detalles extra<-n>os.
+!******************************!
+El perro es completamente normal.
+!******************************!
+Tanto la luna como la farola est<'a>n
+bien como est<'a>n.
+
+Y por cierto, tampoco te molestes en
+buscarle nada raro al hombre que se
+ve en primer plano.
+!******************************!
+[n27.dat]
+<0028>La rueda retorcida
+<00><14><12><10><12><1A><02><1B><E8><03><03><FF>
+En la parte de atr<'a>s de la estaci<'o>n hay una
+rueda retorcida y deformada tal y como se
+ve m<'a>s abajo. Aunque ya no sirve de mucho,
+resulta muy curiosa: cuando se la hace
+rodar sobre una superficie plana, el eje
+traza una trayectoria muy rara si se mira
+desde un lado.
+
+De los cinco diagramas que aparecen
+abajo, <<5E>?>cu<'a>l representa la trayectoria
+del eje?
+!******************************!
+<<5E>!>Correcto!
+
+El diagrama A es el que representa el
+itinerario del eje.
+
+Ser<'i>a muy dif<'i>cil que te encontraras alguna
+vez con una rueda as<'i> en un tren, pero <<5E>?>no
+te parecer<'i>a gracioso verla en acci<'o>n?
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Intenta visualizar otra vez la rotaci<'o>n
+de la rueda.
+!******************************!
+La rueda tiene la forma de un tri<'a>ngulo
+con esquinas redondeadas. Si tenemos en
+cuenta que el eje est<'a> cerca de una de
+las esquinas, la trayectoria del eje
+tiene que ser bastante an<'o>mala.
+!******************************!
+El eje se encuentra lejos del centro de
+la rueda, por lo que en la trayectoria
+deber<'i>a haber un movimiento vertical
+pronunciado.
+!******************************!
+[n28.dat]
+<0029>La flecha ganadora
+<00><14><12><10><12><1A><02><1C><E8><03><03><07>
+De una de las tres flechas enganchadas
+a la pared cuelga una bolsa de caramelos.
+Suponiendo que las tres flechas son rectas,
+<<5E>?>a cu<'a>l de ellas est<'a> enganchada la bolsa
+de caramelos?
+!******************************!
+<<5E>!>Qu<'e> buen ojo!
+
+La bolsa de caramelos est<'a> enganchada a
+la flecha B.
+
+Este puzle es un ejemplo de la famosa
+ilusi<'o>n <'o>ptica de Poggendorff. Cuando
+se tapa una l<'i>nea diagonal con una forma
+recta, a simple vista parece como si las
+dos secciones visibles de dicha l<'i>nea
+no formaran parte de la misma diagonal.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Seguro que has ca<'i>do en la trampa
+del puzle...
+!******************************!
+<<5E>!>No te f<'i>es de tus ojos! En este puzle
+hay una ilusi<'o>n <'o>ptica.
+!******************************!
+Intenta enfocar este puzle desde una
+perspectiva diferente.
+!******************************!
+[n29.dat]
+<0030>La fecha incorrecta
+<00><1E><1B><18><11><1C><23><1D><F6><03><03><FF>
+Dropstone se fund<'o> hace 50 a<-n>os. Para
+conmemorar la fecha, se encarg<'o> una
+escultura especial. Sin embargo, el
+escultor se equivoc<'o> al inscribir la
+fecha y el pueblo tuvo que vivir con
+ese error hasta que alguien se dio cuenta
+de que, con una ligera modificaci<'o>n, la
+escultura pod<'i>a mostrar la fecha correcta.
+
+Piensa c<'o>mo se podr<'i>a haber transformado
+la escultura y averigua la fecha en la que
+se fund<'o> Dropstone. Introduce los cuatro
+d<'i>gitos correspondientes al d<'i>a y al mes.
+!******************************!
+<<5E>!>Magn<'i>fico!
+
+Si se transforma en una fuente, al
+llenarse la pila de agua, se revela
+la fecha en que se fund<'o> Dropstone,
+13-8.
+
+Seguro que el torpe escultor se qued<'o>
+muy aliviado al ver que era tan f<'a>cil
+reparar su error.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+El puzle te dice que el escultor
+grab<'o> una fecha incorrecta en la
+piedra, as<'i> que ya sabes que 12-8
+no es la fecha en la que se fund<'o>
+Dropstone.
+!******************************!
+<<5E>?>La forma de la escultura no te da
+pistas sobre en qu<'e> otra cosa se
+puede transformar?
+
+La enorme pila y el orificio de
+arriba deber<'i>an indicarte que la
+estatua es ahora una fuente.
+!******************************!
+[n3.dat]
+<0004>La habitaci<'o>n aislada
+<00><1E><1B><18><12><05><05><03><EB><03><01><FF>
+A primera vista puede parecer que esta
+habitaci<'o>n est<'a> completamente aislada del
+exterior, ya que est<'a> en un octavo piso
+y la puerta estaba cerrada. Sin embargo,
+hay un detalle sospechoso que te ayudar<'a>
+a entender lo que ocurri<'o> aqu<'i>.
+
+Toca las flechas para mirar por toda la
+habitaci<'o>n hasta que encuentres este
+detalle. Cuando lo hayas encontrado,
+utiliza el l<'a>piz t<'a>ctil para dibujar
+un c<'i>rculo alrededor de la zona y toca
+#rListo#x. Aseg<'u>rate de rodear un solo
+objeto.
+!******************************!
+<<5E>!>Bien visto!
+
+Por alg<'u>n motivo, alguien ha arrancado
+parte de la cortina.
+!******************************!
+<<5E>!>L<'a>stima!
+
+Si te bloqueas, piensa en c<'o>mo podr<'i>a
+haberse marchado de la escena el agresor.
+!******************************!
+Echa un vistazo alrededor.
+
+Est<'a>s buscando algo sospechoso. Aunque
+muchos de los objetos se pueden
+considerar raros, no quiere decir que
+sean sospechosos.
+!******************************!
+No encontrar<'a>s la respuesta en las
+zonas en las que est<'a>n el profesor
+Layton y el inspector Chelmey.
+!******************************!
+[n30.dat]
+<0031><^?>Cu<'a>ntas manzanas?
+<00><14><12><10><11><1E><1C><1E><F6><03><03><FF>
+Johnny y Thomas tienen cada uno algunas
+manzanas. Si Johnny le diera a Thomas
+una manzana, los dos tendr<'i>an el mismo
+n<'u>mero de manzanas. Del mismo modo, si
+Thomas le diera a Johnny dos manzanas,
+Johnny tendr<'i>a el triple de manzanas que
+Thomas.
+
+<<5E>?>Cu<'a>ntas manzanas tiene cada uno?
+!******************************!
+<<5E>!>Muy bien!
+
+Johnny tiene siete manzanas y Thomas
+tiene cinco.
+
+Si Johnny le da a Thomas una manzana,
+ambos tendr<'a>n seis manzanas. Por otro
+lado, si Thomas le da a Johnny dos
+manzanas, Johnny tendr<'a> nueve en total,
+que es el triple de las que tendr<'a> Thomas.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+<''>Si Johnny le diera a Thomas una
+manzana, los dos tendr<'i>an el mismo
+n<'u>mero de manzanas.<''>
+
+Si analizas esta frase del enunciado con
+atenci<'o>n, te dar<'a>s cuenta de que Johnny
+debe de tener dos manzanas m<'a>s que
+Thomas.
+!******************************!
+<''>Si Thomas le diera a Johnny dos
+manzanas, Johnny tendr<'i>a el triple
+de manzanas que Thomas.<''>
+
+La pista 1 ya te informaba de que
+la diferencia entre los dos es de
+dos manzanas. En este caso, esta
+diferencia aumenta cuatro manzanas,
+as<'i> que en total son seis. Ya sabemos
+que cuando Thomas pierde dos manzanas,
+Johnny tiene seis m<'a>s que <'e>l, y tambi<'e>n
+el triple que <'e>l.
+!******************************!
+[n31.dat]
+<0032>Flores para regalo
+<00><14><10><0C><11><18><02><1F><E8><03><03><2C>
+Tienes que envolver esta flor.
+Si quieres que te quede exactamente
+igual que la imagen de la izquierda,
+<<5E>?>c<'o>mo deber<'i>as empezar a envolverla?
+
+Cuando creas que tienes la respuesta
+correcta, toca A, B, C o D.
+!******************************!
+<<5E>!>Excelente!
+
+<<5E>?>Te ha costado mucho imaginar una forma
+tridimensional a partir de una plana?
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Intenta envolver la flor mentalmente.
+!******************************!
+F<'i>jate bien en la direcci<'o>n y el punto
+de partida de cada diagrama.
+!******************************!
+Como el borde verde quedar<'a> oculto
+si envuelves el papel como se
+muestra en los diagramas A y D, puedes
+descartar esas posibilidades.
+!******************************!
+[n32.dat]
+<0033>Red de pesca
+<00><14><12><10><12><21><16><20><F6><03><03><FF>
+Has echado una red de pesca al estanque.
+La superficie del estanque es peque<-n>a,
+pero es m<'a>s grande bajo el agua, as<'i>
+que una parte de la red sumergida no
+es visible desde la superficie.
+
+Suponiendo que la red no est<'a> rasgada
+y que el borde est<'a> fabricado con una
+sola cuerda cuyos extremos salen a la
+orilla, <<5E>?>cu<'a>ntos de los peces que se
+ven en el estanque crees que habr<'a>s
+atrapado cuando tires de la red?
+!******************************!
+<<5E>!>Eso es!
+
+Para resolver este puzle tienes
+que imaginarte c<'o>mo son las partes
+de la red que no puedes ver, que
+ser<'i>an m<'a>s o menos como la imagen
+de arriba.
+
+Como puedes ver, la red atrapar<'a>
+un total de siete peces.
+!******************************!
+<<5E>!>L<'a>stima!
+
+<<5E>?>Seguro que has contado bien?
+!******************************!
+<<5E>?>Por qu<'e> no intentas trazar las
+partes de la red que no se ven?
+!******************************!
+Cuando la tengas dibujada, ver<'a>s
+que la red tiene una forma muy rara
+e intrincada.
+!******************************!
+[n33.dat]
+<0034><'A>rboles en el camino
+<00><14><10><0C><12><18><0F><21><F5><03><03><2B>
+Aqu<'i> puedes ver un camino decorado con
+una fila de <'a>rboles. Cada uno de ellos est<'a>
+separado cierta distancia del siguiente.
+
+De los cinco <'a>rboles marcados con letras
+de la A a la E, <<5E>?>qu<'e> dos <'a>rboles est<'a>n m<'a>s
+separados entre s<'i>?
+
+Observa la imagen con atenci<'o>n y, cuando
+tengas la respuesta, dibuja una l<'i>nea entre
+las letras de los dos <'a>rboles.
+!******************************!
+<<5E>!>Correcto!
+
+No importa las vueltas que le des; est<'a>
+claro que A y E son los <'a>rboles m<'a>s
+separados entre s<'i>.
+!******************************!
+<<5E>!>L<'a>stima!
+
+Vuelve a leer el enunciado y observa
+atentamente el dibujo.
+!******************************!
+Es una pregunta muy sencilla, as<'i> que no
+te compliques la vida.
+!******************************!
+El enunciado de este puzle tiene trampa.
+No, nadie te est<'a> contando mentiras,
+pero deber<'i>as leerlo atentamente.
+!******************************!
+[n34.dat]
+<0035>Casas de colores
+<00><1E><1B><18><11><19><0A><22><F0><03><03><FF>
+Las casas A, B, C y D son cada una de un
+color. Descubre cu<'a>l es el color de cada
+casa teniendo en cuenta estas pistas:
+
+1. La casa roja est<'a> m<'a>s cerca del pino
+que la casa azul.
+2. La casa amarilla est<'a> m<'a>s cerca del
+lago que la casa verde.
+3. La casa verde est<'a> m<'a>s cerca del
+poste el<'e>ctrico que la casa azul.
+4. La casa D es amarilla, azul o verde.
+
+Puedes cambiar los colores de las casas
+toc<'a>ndolas con el l<'a>piz t<'a>ctil.
+!******************************!
+<<5E>!>Eso es!
+
+Este es uno de esos puzles en los que
+la soluci<'o>n se hace evidente cuando
+se cumplen las condiciones del enunciado.
+!******************************!
+<<5E>!>L<'a>stima!
+
+<<5E>?>Por qu<'e> no vuelves a leer toda
+la informaci<'o>n atentamente?
+!******************************!
+Si despu<'e>s de leer el enunciado a<'u>n
+no sabes por d<'o>nde empezar, intenta
+volver a leerlo, pero esta vez
+empezando por la cuarta condici<'o>n.
+!******************************!
+La casa roja est<'a> m<'a>s cerca del pino
+que la casa verde.
+!******************************!
+[n35.dat]
+<0036>Pobre pollito
+<00><23><1F><1B><11><18><02><23><E8><03><03><FF>
+<<5E>!>Oh, no! <<5E>!>El pollito de Julia se ha ca<'i>do
+en un hoyo!
+
+Enfrente del pollito hay tres salidas:
+A, B y C. <<5E>?>Por qu<'e> t<'u>nel deber<'i>a ir para
+salir a la superficie?
+!******************************!
+<<5E>!>Muy bien!
+
+El pollito puede escapar de su prisi<'o>n
+subterr<'a>nea siguiendo el t<'u>nel B.
+Si sigue cualquiera de los otros dos,
+se encontrar<'a> de bruces con una voraz
+serpiente o acabar<'a> todav<'i>a m<'a>s
+enterrado.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Intenta seguir los t<'u>neles para ver
+ad<'o>nde llevan.
+!******************************!
+Cada uno de los t<'u>neles se bifurca
+varias veces, as<'i> que te costar<'a> mucho
+dar con la soluci<'o>n a simple vista.
+
+Utiliza la funci<'o>n de las notas para
+trazar las rutas y ya ver<'a>s como
+empiezas a entender mejor el
+funcionamiento de los t<'u>neles.
+!******************************!
+Los t<'u>neles incorrectos se ramifican
+en varios puntos, pero el correcto
+converge en un solo t<'u>nel antes
+de llegar a la salida.
+!******************************!
+[n36.dat]
+<0037>Golf profesional
+<00><19><16><13><11><19><16><24><F6><03><03><FF>
+Un golfista profesional tiene la habilidad de
+conseguir putts de 3, 5, 7 y 11 metros. Sin
+embargo, son las <'u>nicas distancias a las que
+es capaz de hacer putt.
+
+El golfista est<'a> ahora en el green con la
+pelota a 20 metros del hoyo. <<5E>?>Cu<'a>l es el
+m<'i>nimo n<'u>mero de golpes que tendr<'a> que
+dar para meter la pelota en el hoyo?
+
+Si el golpe es demasiado fuerte, la pelota
+pasar<'a> por encima del hoyo sin entrar en <'e>l.
+!******************************!
+<<5E>!>Bien hecho!
+
+Si el golfista hace dos putts diagonales
+como los que se muestran arriba, podr<'a>
+embocar la pelota en dos golpes. Nadie
+ha dicho que tenga que ejecutarlos
+directamente hacia el hoyo, <<5E>?>verdad?
+
+Por supuesto que, para seguir el m<'e>todo
+de arriba, habr<'i>a que calcular el <'a>ngulo de
+cada golpe con exactitud... pero por eso es
+precisamente un profesional.
+!******************************!
+<<5E>!>L<'a>stima!
+
+Recuerda que estamos hablando de un
+profesional. Es capaz de hacer cosas
+sorprendentes.
+!******************************!
+La soluci<'o>n correcta no tiene nada
+que ver con ejecutar golpes demasiado
+largos.
+!******************************!
+No hay ninguna raz<'o>n por la que todos
+los putts tengan que estar dirigidos
+hacia el hoyo.
+
+Quiz<'a>s pueda colocar la pelota mejor con
+un golpe diagonal.
+!******************************!
+[n37.dat]
+<0038>Mudanza equina
+<00><23><1F><1B><32><20><16><25><F6><03><03><08>
+Tienes cuatro caballos que corren a
+velocidades diferentes. Para llegar del
+punto A al punto B, tardan 1, 2, 4 y 6
+horas respectivamente.
+
+Un d<'i>a, decides llevarte todos tus caballos
+contigo de A a B. Sin embargo, solo puedes
+mover dos caballos a la vez y tienes que
+usar un caballo cada vez que quieras volver
+de B a A a recoger otro. Teniendo en
+cuenta que tu velocidad est<'a> limitada a
+la del caballo m<'a>s lento que lleves,
+<<5E>?>cu<'a>l es el n<'u>mero m<'i>nimo de horas que te
+llevar<'a> mover todos los caballos?
+!******************************!
+<<5E>!>Correcto!
+
+Lo primero que tienes que hacer es llevar
+tus caballos de 1 y 2 horas. Despu<'e>s,
+vuelve a lomos de tu caballo de 1 hora.
+El siguiente paso es llevar a B tus caballos
+de 4 y 6 horas y volver en el de 2 horas.
+En ese momento llevar<'i>as 11 horas moviendo
+caballos: 3 en el primer viaje y 8 en el
+siguiente.
+
+Ahora deber<'i>as estar en A con tus
+caballos de 1 y 2 horas. Ll<'e>valos a
+ellos y habr<'a>s acabado en 13 horas.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+Para volver de B a A lo mejor es ir lo
+m<'a>s r<'a>pido posible. Por lo tanto,
+deber<'i>as intentar volver a A en el
+caballo de 1 hora siempre que puedas.
+
+No obstante, esto solo es una regla
+general. Si siempre intentas usar el
+caballo de 1 hora para volver a A,
+puede que acabes malgastando tiempo...
+!******************************!
+Para mover todos los caballos de A a B
+en el menor tiempo posible, tendr<'a>s que
+ir de A a B tres veces y de B a A dos
+veces.
+
+<<5E>?>C<'o>mo aprovechar al m<'a>ximo este n<'u>mero
+de viajes?
+!******************************!
+[n38.dat]
+<0039>Ropa vers<'a>til
+<00><1E><1B><18><11><1D><0A><26><4E><04><03><FF>
+Los hombres A, B y C llevaban cada uno ropa
+de un solo color. A iba de rojo, B de azul y
+C de blanco. Luego se vendaron los ojos y
+se cambiaron algunas prendas. Cuando se
+quitaron la venda de los ojos, esto es lo
+que dijeron:
+A: <''>El color de camisetas y pantalones ya no
+nos coincide a ninguno.<''>
+B: <''>C es el <'u>nico que no lleva ninguna de
+sus prendas originales.<''>
+C: <''>No me gustan estos pantalones rojos.<''>
+Toca los personajes para ponerles la ropa
+que llevan ahora.
+!******************************!
+<<5E>!>Bien hecho!
+
+Ya sabes que C es el <'u>nico que no lleva
+ninguna de sus prendas originales, as<'i> que
+no lleva nada blanco. Tambi<'e>n sabes que
+lleva pantalones rojos, as<'i> que la camiseta
+solo puede ser azul.
+Dado que A y B llevan cada uno o la
+camisa o los pantalones propios, puedes
+deducir que A lleva la camiseta roja y B
+los pantalones azules. Una vez que sabes
+todo eso, solo tienes que colocar las
+prendas blancas restantes correctamente
+para resolver el puzle.
+!******************************!
+<<5E>!>L<'a>stima!
+
+Int<'e>ntalo otra vez y a ver qu<'e> sale.
+!******************************!
+Ya sabes que C lleva pantalones rojos y
+que no lleva nada suyo, as<'i> que tiene que
+llevar una camiseta azul.
+!******************************!
+Recuerda que C es el <'u>nico de los tres
+que no lleva ni sus pantalones ni su
+camiseta.
+!******************************!
+[n39.dat]
+<0040>Decora la caja
+<00><1E><1B><18><11><17><12><27><F8><03><03><FF>
+Las dos cajas que puedes ver abajo no son
+sino la misma caja vista desde dos <'a>ngulos
+diferentes. Tu tarea es reconstruir el
+dise<-n>o original de esta caja colocando los
+dibujos en las casillas correspondientes
+de la figura desplegada.
+
+Ten en cuenta que los dibujos no solo
+tienen que ir en la posici<'o>n correcta,
+sino que tambi<'e>n tienes que respetar la
+orientaci<'o>n de los mismos. Puedes rotar
+los dibujos con el l<'a>piz t<'a>ctil.
+!******************************!
+<<5E>!>Buen trabajo!
+
+<<5E>?>Te ha costado mucho imaginar una forma en
+tres dimensiones a partir de una de dos
+dimensiones?
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Intenta visualizar la caja desplegada.
+!******************************!
+Al principio solo conoces la posici<'o>n y
+orientaci<'o>n de la pica. Intenta deducir
+d<'o>nde deber<'i>a ir el resto de los dibujos
+tomando como referencia la segunda
+imagen de la caja.
+!******************************!
+El c<'i>rculo amarillo va justo encima
+de la pica.
+!******************************!
+[n4.dat]
+<0005>La maleta de Luke
+<00><1E><1B><18><12><08><1A><04><00><04><02><FF>
+Luke ha dejado sus cosas por todas
+partes y ahora hay que recogerlas
+en la maleta.
+
+Mueve los objetos con el l<'a>piz t<'a>ctil para
+colocarlos dentro de la maleta y aseg<'u>rate
+de que ninguno quede por encima de otro.
+
+Cuando creas que todo est<'a> bien colocado
+dentro de la maleta, toca #rListo#x.
+!******************************!
+<<5E>!>Muy bien!
+
+Seguro que ahora Luke podr<'a> cerrar la
+maleta sin problemas.
+!******************************!
+<<5E>!>L<'a>stima!
+
+<<5E>?>Seguro que todos los objetos est<'a>n
+bien colocados y no hay ninguno por
+encima de otro?
+!******************************!
+Intenta ocupar los huecos peque<-n>os
+con objetos peque<-n>os como la arm<'o>nica
+o el telescopio m<'a>s adelante; empieza por
+los grandes.
+!******************************!
+La sart<'e>n y la esp<'a>tula van en la
+esquina inferior izquierda. El osito
+de peluche va en la esquina superior
+derecha.
+!******************************!
+[n40.dat]
+<0041>Medios cubos
+<00><19><14><0F><11><17><05><28><EB><03><03><FF>
+En la pantalla t<'a>ctil tenemos cuatro piezas.
+Tres de ellas forman un cubo al unirlas a
+otra pieza id<'e>ntica. Sin embargo, hay otra
+que no cumple este requisito y no forma
+un cubo al unirla a otra pieza id<'e>ntica.
+
+Rodea con un c<'i>rculo dicha pieza.
+!******************************!
+<<5E>!>Eso es!
+
+C no formar<'a> un cubo cuando la unas
+con una pieza id<'e>ntica. Algunas de las
+zonas de la pieza son demasiado complejas
+para encajar completamente.
+
+Aunque si la miras bien, seguro que
+podr<'i>as hacer que encajara con algunas
+modificaciones, <<5E>?>no te parece?
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Observa bien las figuras e int<'e>ntalo
+de nuevo.
+!******************************!
+Parece que B deber<'i>a de encajar
+completamente con una pieza
+id<'e>ntica.
+!******************************!
+Si unieras D a una pieza id<'e>ntica
+se formar<'i>a un cubo perfecto.
+!******************************!
+[n41.dat]
+<0042>Bricolaje casero 1
+<00><19><16><13><11><1F><09><29><EF><03><03><05>
+Este tabl<'o>n de madera tiene una forma tan
+rara que has decidido cortarlo en dos y
+hacer un cuadrado, que es una forma
+m<'a>s f<'a>cil de usar.
+
+Si no puedes voltear ninguna de las piezas
+una vez que est<'e>n separadas, <<5E>?>por d<'o>nde
+deber<'i>as cortar el tabl<'o>n para cumplir tu
+prop<'o>sito?
+!******************************!
+<<5E>!>Excelente!
+
+<<5E>?>A que era m<'a>s f<'a>cil de lo que parec<'i>a?
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+<<5E>?>Seguro que esa manera de cortar el
+tabl<'o>n te permitir<'a> crear un cuadrado?
+!******************************!
+El cuadrado restante tiene que tener
+cuatro unidades de alto por cuatro de
+ancho.
+!******************************!
+Para resolver este puzle tienes que
+cortar el tabl<'o>n por dos sitios.
+!******************************!
+[n42.dat]
+<0043>Bricolaje casero 2
+<00><1E><16><13><11><1F><0F><2A><F5><03><03><06>
+Aqu<'i> tenemos otro tabl<'o>n con forma rara.
+Este es todav<'i>a m<'a>s dif<'i>cil de usar que
+el anterior, as<'i> que tienes que cortarlo
+en dos piezas de manera que puedas formar
+un rect<'a>ngulo con ellas.
+
+Si no puedes voltear ninguna de las piezas
+una vez que est<'e>n separadas, <<5E>?>por d<'o>nde
+deber<'i>as cortar el tabl<'o>n para cumplir tu
+prop<'o>sito?
+!******************************!
+<<5E>!>Muy bien!
+
+<<5E>?>No te parecen divertidos estos puzles
+de cortar madera?
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Int<'e>ntalo otra vez y a ver qu<'e> sale.
+!******************************!
+Al igual que en el anterior puzle de
+cortar tablones, tienes que cortar por
+dos sitios para hacer dos piezas.
+Recuerda que tienes que conseguir que
+te quede un rect<'a>ngulo, por lo que debes
+intentar que ambas piezas encajen a la
+perfecci<'o>n.
+!******************************!
+Tras hacer los cortes, ni siquiera
+tendr<'a>s que girar las piezas para que
+encajen.
+!******************************!
+[n43.dat]
+<0044>L<'i>o de cuerdas
+<00><19><13><0D><11><20><16><2B><F6><03><03><FF>
+Estas cuerdas est<'a>n enredadas en una
+cuerda roja. Si tiraras de ambos
+extremos de la cuerda roja, se formar<'i>a
+un nudo en el medio. <<5E>?>Cu<'a>ntas cuerdas
+se quedar<'i>an enganchadas en este nudo?
+
+Recuerda que, aunque ahora haya cuerdas
+dentro del nudo que se formar<'a> al tirar
+de la cuerda roja, es posible que queden
+libres al tirar de esta.
+!******************************!
+<<5E>!>Qu<'e> buen ojo!
+
+Ninguna de las cuerdas se quedar<'a>
+enganchada. En cuanto se forme el nudo,
+una de ellas quedar<'a> autom<'a>ticamente libre
+y las otras dos se quedar<'a>n colgando de la
+cuerda roja.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+<<5E>!>Aseg<'u>rate de examinar la imagen
+detenidamente!
+!******************************!
+Observa atentamente los puntos en
+los que parece que la cuerda roja
+se entrelaza con las dem<'a>s. Aunque
+parezca que las cuerdas est<'a>n
+enredadas, es posible que est<'e>n
+simplemente amontonadas unas encima
+de otras.
+
+Quiz<'a>s te haya pasado alguna vez
+desenredando cables en casa.
+!******************************!
+F<'i>jate especialmente en el trozo de
+la cuerda roja que forma un lazo, ya
+que es esta parte la que formar<'a> un
+nudo al tirar de los extremos y es de
+especial importancia para el puzle.
+
+<<5E>?>Por qu<'e> no usas la funci<'o>n de las
+notas para dibujar las partes de las
+cuerdas que quedar<'a>n atrapadas en el
+nudo al tirar de la cuerda roja?
+!******************************!
+[n44.dat]
+<0045>Recogida de equipaje
+<00><1E><1B><18><11><20><19><2C><FF><03><03><FF>
+<<5E>!>Pero qu<'e> mala suerte! Cuando vas a
+recoger tu equipaje, te das cuenta de
+que tu bolsa ha quedado al fondo del
+mont<'o>n. El mozo que se encarga de
+descargar las maletas dice que no
+ha bajado tu bolsa porque est<'a> bloqueada.
+
+Usa tu habilidad para mover los bloques
+y sacar por fin tu bolsa.
+!******************************!
+<<5E>!>Muy bien!
+
+Ahora cu<'e>ntale al mozo c<'o>mo lo has
+hecho para que la pr<'o>xima vez pueda
+encargarse <'e>l del equipaje.
+!******************************!
+<<5E>!>Qu<'e> pena!
+!******************************!
+Seguro que hay algunos bloques que
+quieres mover primero, pero empieza
+por los que puedes mover para despejar
+algo de espacio.
+!******************************!
+En primer lugar, mueve los dos bloques
+cuadrados de la izquierda hacia arriba.
+Con esto conseguir<'a>s algo de espacio
+para mover uno de los bloques rojos
+rectangulares de debajo.
+!******************************!
+[n45.dat]
+<0046>La figura sobrante
+<00><14><0F><0A><11><1A><05><2D><EB><03><03><FF>
+Observa la caja que se muestra m<'a>s abajo.
+Si usamos los cubos blancos como unidad
+de medida, la caja tiene dos cubos de alto,
+tres de ancho y dos de profundidad. Como
+puedes ver, ya hay dos cubos blancos en el
+fondo de la caja.
+
+Tenemos cuatro figuras: A, B, C y D.
+Se puede rellenar por completo la caja con
+tres de ellas sin que quede ning<'u>n hueco.
+
+Rodea con un c<'i>rculo la letra de la figura
+que sobra.
+!******************************!
+<<5E>!>Qu<'e> buen ojo!
+
+D es la <'u>nica figura que no encaja.
+
+<<5E>?>Te ha costado mucho visualizar las formas
+dentro de la caja?
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Int<'e>ntalo otra vez.
+!******************************!
+Imag<'i>nate que la caja tiene una
+capa superior y otra inferior. Piensa
+en ellas como superficies diferentes.
+!******************************!
+<<5E>?>Te has dado cuenta de que la forma C
+encaja perfectamente en la capa
+inferior de la caja?
+!******************************!
+[n46.dat]
+<0047>Las elecciones
+<00><19><16><13><12><1C><16><2E><F6><03><03><FF>
+Tres personas se presentan como
+candidatos a la alcald<'i>a de un pueblo.
+Incluyendo a los tres candidatos, el
+pueblo tiene una poblaci<'o>n de 40 personas.
+Para ganar, un candidato necesita reunir
+m<'a>s votos que los dem<'a>s.
+
+Suponiendo que cada uno de los 40 votantes
+emite un solo voto y que no hay ninguno
+nulo, <<5E>?>cu<'a>l es el m<'i>nimo n<'u>mero de votos
+que necesita un candidato para garantizar
+la victoria?
+!******************************!
+<<5E>!>Eso es!
+
+El ganador necesita al menos 20 votos
+para ganar. Como ninguno de los candidatos
+quiere que ganen los dem<'a>s, se votar<'a>n a s<'i>
+mismos. 40 votos menos 3 votos hacen un
+total de 37 votos. El ganador necesitar<'a>
+m<'a>s de la mitad de los votos -en este caso,
+un m<'i>nimo de 19 votos adicionales-. Si les
+sumamos el voto del candidato ganador,
+tenemos 20 votos. Y aunque otro
+candidato consiguiera los 18 votos
+restantes, no ser<'i>a suficiente para
+superar al candidato con 20 votos.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+Calcula cu<'a>ntos votos hay en el pueblo
+sin contar los tres votos que emitir<'a>n
+los candidatos.
+!******************************!
+Los tres candidatos tambi<'e>n tienen
+derecho a votar.
+
+Por supuesto, teniendo en cuenta que
+todos quieren ganar, es de suponer que
+se votar<'a>n a s<'i> mismos.
+!******************************!
+[n47.dat]
+<0048><^?>Qui<'e>n es Anderson?
+<00><19><16><13><11><1D><05><2F><EB><03><03><FF>
+<''>Acabo de ver al Sr. Anderson hace un
+minuto. La barba y el sombrero lo hacen
+inconfundible. Y qu<'e> porte de caballero
+ingl<'e>s le dan el bast<'o>n y la pajarita...
+Menos mal que no lleva gafas, porque
+a lo mejor ese detalle le restar<'i>a
+elegancia. <<5E>!>Ah, ah<'i> est<'a>!<''>
+
+<<5E>?>Puedes encontrar al Sr. Anderson
+en medio de la multitud con esta
+descripci<'o>n?
+!******************************!
+<<5E>!>Qu<'e> buen ojo!
+
+Parece que el viento se est<'a> llevando el
+sombrero del Sr. Anderson.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+Ten en cuenta que esta informaci<'o>n se
+refiere al Sr. Anderson <''>hace un minuto<''>.
+
+A veces las cosas cambian, as<'i> que no
+te f<'i>es completamente de la descripci<'o>n.
+!******************************!
+Parece que hoy hace mucho viento
+en Dropstone...
+!******************************!
+[n48.dat]
+<0049>Derroche real
+<00><14><10><0C><11><17><05><30><EB><03><03><FF>
+En un pa<'i>s lejano hay un rey al
+que le gusta presumir de sus <'u>ltimas
+adquisiciones. Sus s<'u>bditos, sin embargo,
+tienen prohibido comprar estos objetos
+hasta que no haya pasado al menos un mes;
+solo pueden comprarlos cuando <'e>l se cansa
+de ellos.
+
+Sin embargo, tras su <'u>ltima adquisici<'o>n,
+el rey ha pedido a sus s<'u>bditos que se
+compren un ejemplar similar enseguida.
+
+Rodea lo que acaba de comprar el rey.
+!******************************!
+<<5E>!>Correcto!
+
+La soluci<'o>n es el tel<'e>fono.
+
+Al fin y al cabo, <<5E>?>para qu<'e> sirve
+un tel<'e>fono si nadie m<'a>s tiene uno?
+!******************************!
+<<5E>!>L<'a>stima!
+
+Si quisieras presumir de tu <'u>ltima
+adquisici<'o>n, <<5E>?>con cu<'a>l de estas
+cosas te resultar<'i>a m<'a>s dif<'i>cil?
+!******************************!
+<<5E>?>Qui<'e>n no querr<'i>a presumir de su coche
+o televisor nuevo durante un tiempo?
+!******************************!
+Una de las cosas de esta lista es
+in<'u>til si no existen al menos dos
+o m<'a>s del mismo tipo.
+!******************************!
+[n49.dat]
+<0050>L<'i>o vacuno
+<00><1E><1B><18><12><1D><03><31><E9><03><03><FF>
+Hay cinco vacas en un concurso. Dos de
+ellas son vacarderas, una variedad de
+vacas que solo dice la verdad. Las otras
+tres son mentivinas, una variedad que
+siempre miente. Averigua cu<'a>les son las
+que mienten tomando como referencia las
+siguientes afirmaciones. Toca las letras
+para marcar a las mentirosas.
+
+A: <<5E>!>D es una mentivina, te lo prometo!
+B: No, C no es una vacardera.
+C: A no es una mentivina, te lo digo yo.
+D: E es una mentivina, est<'a> clar<'i>simo.
+E: B no es una vacardera, cr<'e>eme.
+!******************************!
+<<5E>!>Correcto!
+
+A, C y E son mentivinas. Si vas asignando
+una variedad a cada vaca e intentas seguir
+las afirmaciones de cada una, al final te
+dar<'a>s cuenta de que solo puede haber tres
+mentivinas si estas son A, C y E.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa bien las afirmaciones de las
+vacas antes de contestar.
+!******************************!
+Intenta no darle demasiadas vueltas al
+problema. En su lugar, parte de una
+suposici<'o>n e intenta ver si se cumplen
+las afirmaciones.
+!******************************!
+As<'i>gnale una variedad a una vaca e
+intenta contrastar las afirmaciones
+de todas con esa base para ver si son
+v<'a>lidas. No tardar<'a>s en dar con la
+soluci<'o>n.
+!******************************!
+[n5.dat]
+<0006>Pilas de tortitas 1
+<00><0F><0D><0B><02><0E><0D><05><F3><03><02><FF>
+Aqu<'i> va un puzle delicioso.
+El objetivo es mover esa pila de
+tortitas del plato azul de la izquierda
+al plato rojo de la derecha. Sin embargo,
+tienes que seguir estas normas:
+
+- Solo puedes mover las tortitas de una
+en una.
+- No puedes dejar una tortita sobre
+otra que sea m<'a>s peque<-n>a.
+
+Mueve las tortitas cuanto quieras y no
+dudes en usar el plato de en medio.
+!******************************!
+<<5E>!>Mmm, qu<'e> ricas!
+
+Esta es una variante del famoso puzle de
+<''>Las torres de Han<'o>i<''>, que fue inventado
+por un matem<'a>tico franc<'e>s en 1883.
+!******************************!
+
+!******************************!
+Este puzle no es de los de pensar mucho,
+as<'i> que t<'o>matelo con tranquilidad.
+
+Una manera de resolver este tipo de
+puzles es, simplemente, experimentar.
+Prueba a mover las tortitas
+de un lado a otro.
+!******************************!
+Si consigues poner la tortita m<'a>s
+grande en el plato rojo, estar<'a>s a
+punto de resolver el puzle.
+!******************************!
+[n50.dat]
+<0051>Gatos en negativo
+<00><14><0F><0A><11><1E><02><32><E8><03><03><FF>
+Uno de los tres dibujos en color,
+A, B o C, es id<'e>ntico al dibujo
+en blanco y negro de la izquierda.
+<<5E>?>Sabr<'i>as decir cu<'a>l?
+
+Sin embargo, ten en cuenta que al dibujo
+de la izquierda le hemos dado la vuelta,
+despu<'e>s hemos invertido los colores y
+finalmente lo hemos puesto en blanco y
+negro.
+!******************************!
+<<5E>!>Qu<'e> buen ojo!
+
+B es el dibujo que buscabas.
+Las cejas del gato en el dibujo A y
+el fondo del dibujo C son diferentes
+del dibujo de la izquierda.
+!******************************!
+<<5E>!>L<'a>stima!
+
+Observa atentamente los detalles
+de cada dibujo una vez m<'a>s.
+!******************************!
+Si comparas A, B o C con el dibujo
+de la izquierda, te parecer<'a> muy
+dif<'i>cil encontrar las diferencias.
+
+<<5E>?>Por qu<'e> no te olvidas del dibujo
+en blanco y negro de momento y te
+concentras en las diferencias entre
+los dibujos A, B y C?
+!******************************!
+No te olvides de las l<'i>neas del fondo.
+!******************************!
+[n51.dat]
+<0052>Su mejor sombrero
+<00><1E><1B><18><71><18><0B><33><F1><03><03><FF>
+Un se<-n>or tiene unas normas muy espec<'i>ficas
+a la hora de ponerse su mejor sombrero:
+
+- Cuando hace sol, siempre se lo pone.
+- Cuando llueve, no se lo pone nunca.
+- Cuando est<'a> nublado, no se lo pone a no
+ser que est<'e> nublado dos d<'i>as seguidos,
+en cuyo caso se lo pone el segundo d<'i>a.
+
+Aqu<'i> tienes un calendario con los d<'i>as en
+los que este caballero se puso el sombrero.
+Usa los paneles para indicar el tiempo
+que hizo cada d<'i>a de la semana.
+!******************************!
+<<5E>!>Excelente!
+
+Si suponemos que el lunes estuvo nublado
+por segundo d<'i>a consecutivo y por lo tanto
+nuestro amigo se puso el sombrero, el resto
+es muy f<'a>cil.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Ten en cuenta todas las reglas de
+este peculiar se<-n>or.
+!******************************!
+Empieza por poner un panel de lluvia en
+cada uno de los d<'i>as que nuestro amigo
+no se puso el sombrero.
+!******************************!
+Si marcas como lluviosos los d<'i>as que
+menciona la pista 1, puede que te des
+cuenta de que no te queda ning<'u>n d<'i>a
+en el que poner d<'i>as nublados.
+
+Podr<'i>as ponerlo en uno de los d<'i>as que
+llevaba sombrero siempre y cuando ese
+d<'i>a fuera el segundo d<'i>a nublado
+consecutivo, pero no parece haber dos
+d<'i>as nublados seguidos...
+!******************************!
+[n52.dat]
+<0053>Club masculino
+<00><1E><1B><18><11><1C><05><34><EB><03><03><FF>
+Abajo tienes una rueda de retratos de
+hombres y mujeres. Elige uno y cuenta
+seis retratos hacia la derecha o hacia
+la izquierda incluyendo el primero.
+Elimina el <'u>ltimo de los seis y repite
+este proceso en la misma direcci<'o>n
+comenzando desde el siguiente retrato
+disponible, pero no vuelvas a contar
+los retratos eliminados.
+Si empiezas desde un retrato determinado,
+podr<'a>s eliminar los de las mujeres y dejar
+solo los de los hombres. Rodea ese retrato.
+!******************************!
+<<5E>!>Muy bien!
+
+Si empiezas a contar desde este hombre
+y cuentas hacia la izquierda, podr<'a>s
+quitar los retratos de todas las mujeres.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Prueba otra vez.
+!******************************!
+El retrato desde el que debes
+comenzar es el de un hombre.
+!******************************!
+Mu<'e>vete hacia la izquierda para dar
+con la soluci<'o>n.
+!******************************!
+[n53.dat]
+<0054>Bandera de colores
+<00><19><16><13><12><19><16><35><F6><03><03><FF>
+Un d<'i>a te encuentras una bandera blanca
+y decides pintarla. Para ello, la divides
+en tres partes y te haces con tres
+pinturas de diferentes colores.
+
+Estas son las normas: no puedes pintar del
+mismo color dos partes contiguas, cada
+parte solo puede estar pintada de un mismo
+color y no puedes alterar el n<'u>mero o
+tama<-n>o de las partes. Por supuesto,
+tampoco vale mezclar colores.
+
+<<5E>?>Cu<'a>l es el n<'u>mero total de combinaciones
+posibles?
+!******************************!
+<<5E>!>Bien pensado!
+
+Si tienes en cuenta que el blanco tambi<'e>n
+es un color, en realidad tienes 4 colores
+con los que trabajar. Si le asignas un
+color a la primera parte de la bandera y
+cuentas todas las combinaciones posibles,
+te saldr<'a> un total de 9.
+
+Si multiplicas este n<'u>mero por cuatro, que
+es el n<'u>mero de colores de los que dispones,
+conseguir<'a>s la respuesta: 36 combinaciones.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+Tienes tres pinturas, pero nadie dice
+que la bandera solo pueda llevar tres
+colores.
+!******************************!
+Puede que ya te hayas dado cuenta, pero
+el blanco tambi<'e>n es un color y puedes
+usarlo en las combinaciones.
+!******************************!
+[n54.dat]
+<0055>La cadena de Sammy
+<00><1E><1B><18><11><15><16><36><F6><03><03><FF>
+Sammy tiene ocho fragmentos de siete
+eslabones cada uno y quiere unirlos
+todos para hacerse una cadena. El
+joyero dice que puede abrir y cerrar
+cada eslab<'o>n por 2 <po>.
+
+Como puedes ver m<'a>s abajo, Sammy
+podr<'i>a abrir un eslab<'o>n de cada
+fragmento para hacerse una cadena
+larga. Pero eso le costar<'i>a 16 <po> y
+la verdad es que hay una forma m<'a>s
+barata de conseguirlo. <<5E>?>Cu<'a>nto le
+podr<'i>a costar a Sammy la cadena de
+la forma m<'a>s econ<'o>mica?
+!******************************!
+<<5E>!>Eso es!
+
+Coge uno de los fragmentos, separa
+todos los eslabones y <'u>salos para unir
+los fragmentos restantes como se muestra
+en la ilustraci<'o>n.
+
+Si Sammy usa este m<'e>todo, podr<'a> hacerse
+la cadena de sus sue<-n>os por solo 14 <po>.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Prueba otra vez.
+!******************************!
+El n<'u>mero de eslabones de cada
+cadena es una pista crucial que
+te ayudar<'a> a resolver el puzle.
+!******************************!
+No habr<'a>s pensado solo en abrir los
+eslabones del final de cada fragmento,
+<<5E>?>no?
+!******************************!
+[n55.dat]
+<0056>Descifra el c<'o>digo
+<00><28><24><20><11><09><1A><37><00><04><02><29>
+Para poder atravesar esta puerta, Luke
+y el profesor deben colocar los s<'i>mbolos
+teniendo en cuenta las siguientes
+normas:
+
+- La estrella debe ir al lado de la luna.
+- La X debe estar en la segunda posici<'o>n.
+- El c<'i>rculo debe ir a la izquierda del
+diamante, pero no sabes exactamente d<'o>nde.
+- La luna debe ir dos sitios a la derecha
+del diamante.
+!******************************!
+<<5E>!>Bien hecho! <<5E>!>Ya puedes pasar!
+
+<<5E>!>Se te ha dado de maravilla descifrar
+el c<'o>digo!
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Vuelve a leer el enunciado atentamente.
+!******************************!
+<''>La X debe estar en la segunda posici<'o>n.<''>
+
+Como ya sabes d<'o>nde va la X, empieza por
+ah<'i> y despu<'e>s sigue con el resto.
+!******************************!
+<''>La luna debe ir dos sitios a la derecha
+del diamante.<''>
+
+Si la luna est<'a> dos sitios a la derecha
+del diamante, el diamante debe ir en
+una de las tres primeras posiciones.
+Como ya hemos dicho que X va en la
+segunda, el diamante tiene que ir en
+la primera o en la tercera.
+!******************************!
+[n56.dat]
+<0057>Olor a rosas 1
+<00><1E><1B><18><11><0D><18><38><FE><03><02><FF>
+Ah, no hay nada como el olor a rosas
+reci<'e>n cortadas para subirle la moral a uno.
+<<5E>?>Puedes ayudar a Sammy a ambientar un
+poco el vag<'o>n con su fragancia?
+
+Toca un cuadrado con el l<'a>piz t<'a>ctil para
+poner una rosa. El aroma de la rosa alcanza
+dos casillas en todas las direcciones, pero
+no traspasa muros. Si la fragancia de dos
+rosas coincide en una casilla, el olor podr<'i>a
+resultar demasiado penetrante, as<'i> que
+procura que las rosas est<'e>n bien colocadas.
+Si quieres quitar una rosa que ya hayas
+colocado, t<'o>cala de nuevo.
+!******************************!
+<<5E>!>Bien hecho!
+
+Con cinco rosas ha bastado para
+ambientar el vag<'o>n.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+<<5E>?>Seguro que has mantenido las rosas
+bien separadas unas de otras para
+evitar que el olor sea demasiado
+penetrante?
+!******************************!
+Esta pista te ser<'a> muy <'u>til: empieza por
+las esquinas del vag<'o>n.
+!******************************!
+Coloca una rosa en la esquina inferior
+derecha del vag<'o>n y entonces comienza
+a pensar d<'o>nde colocar las dem<'a>s.
+!******************************!
+[n57.dat]
+<0058>El t<'u>nel misterioso
+<00><23><1F><1B><12><0D><19><39><FF><03><02><2D>
+Dos trenes se cruzan en la oscuridad
+de un largo t<'u>nel. C<'a>mbialos de sitio
+de manera que cada locomotora acabe en
+la v<'i>a opuesta sin alterar el orden de
+los vagones. Ten en cuenta que el segundo
+vag<'o>n de cada tren ya est<'a> en la v<'i>a
+correcta.
+!******************************!
+<<5E>!>Correcto!
+
+Los trenes se intercambian el segundo
+vag<'o>n y se pierden en la oscuridad...
+!******************************!
+<<5E>!>L<'a>stima!
+
+No te desanimes y vuelve a intentarlo.
+!******************************!
+Intenta colocar todos los vagones de la
+v<'i>a de arriba en sus posiciones
+correspondientes antes de preocuparte
+de la v<'i>a de abajo.
+!******************************!
+Empieza por colocar el primer vag<'o>n rojo
+en el espacio que tienes en medio de las
+dos v<'i>as.
+
+Seguidamente, baja todos los vagones de
+la v<'i>a de arriba. Ahora ya puedes mover
+el vag<'o>n rojo de en medio a su sitio
+correspondiente.
+!******************************!
+[n58.dat]
+<0059>Destino incierto
+<00><28><24><20><11><0D><16><3A><F6><03><02><FF>
+Este el billete de tren que encontraron
+Luke y el profesor en casa del Dr. Schrader.
+A primera vista, parece que no indica hacia
+d<'o>nde va el tren, pero si lo miras con
+atenci<'o>n, ver<'a>s que s<'i> que informa del
+destino: Folsense.
+
+La clave para descubrir el destino es
+encontrar el #rn<'u>mero#x que falta en
+el billete. <<5E>?>Sabes de qu<'e> n<'u>mero se
+trata?
+
+Usa el billete que encontrar<'a>s en el manual
+de instrucciones para resolver este puzle.
+!******************************!
+<<5E>!>Excelente!
+
+El n<'u>mero que faltaba era el 2.
+
+Si doblas el billete tal y como se muestra
+arriba y alineas los dos grupos de n<'u>meros,
+forman las letras de la palabra <''>FOLSENSE<''>.
+<<5E>!>El billete indicaba hacia d<'o>nde iba el
+tren desde el principio!
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Si quieres dar con la soluci<'o>n, tendr<'a>s
+que hacer algo con el billete para
+conectar las dos filas de n<'u>meros de
+alguna forma.
+!******************************!
+Para encontrar la soluci<'o>n tienes
+que doblar el billete de una forma
+determinada.
+!******************************!
+Sujeta el billete a lo largo y d<'o>blalo
+hacia dentro por la mitad. Ahora dobla
+cada uno de los lados hacia fuera por
+la mitad de cada fila de c<'o>digos.
+
+Si lo doblas de esta forma, la mitad
+de arriba de la primera fila quedar<'a>
+conectada con la mitad de abajo de la
+segunda fila. As<'i> podr<'a>s ver una serie
+de letras.
+!******************************!
+[n59.dat]
+<0060>La plaza circular
+<00><19><16><13><11><23><06><3B><EC><03><04><FF>
+<''>En medio de una plaza circular hay una
+estatua enorme. Si se quitara de ah<'i> la
+estatua, la plaza tendr<'i>a forma de rosquilla.
+Tu tarea es dividir esta plaza con forma de
+rosquilla en dos figuras semejantes usando
+una sola l<'i>nea.
+
+Ah, antes de que vayas a lo f<'a>cil:
+la soluci<'o>n que ves abajo no es la
+correcta, ya que, como puedes ver,
+hay dos l<'i>neas punteadas.<''>
+
+Traza la soluci<'o>n en la pantalla t<'a>ctil.
+!******************************!
+<<5E>!>Muy bien!
+
+Si trazas un c<'i>rculo a un tercio de la
+distancia que hay desde el medio al
+borde de la plaza, te quedar<'a>n dos
+figuras directamente proporcionales.
+En t<'e>rminos geom<'e>tricos, estas figuras
+se llaman figuras semejantes.
+!******************************!
+<<5E>!>L<'a>stima!
+
+La parte importante del enunciado es
+<''>una sola l<'i>nea<''>.
+!******************************!
+En la ilustraci<'o>n de ejemplo hay dos
+l<'i>neas, por lo que la respuesta no es
+v<'a>lida.
+
+La clave de este puzle es usar una sola
+l<'i>nea. Teniendo en cuenta esto, no dar<'a>s
+con la soluci<'o>n trazando l<'i>neas que
+crucen la plaza.
+!******************************!
+No solo es imposible resolver este
+puzle trazando l<'i>neas que pasen por
+el centro de la plaza, sino que con
+una l<'i>nea recta no conseguir<'a>s obtener
+dos piezas de la misma forma.
+
+Por cierto, <<5E>?>te has dado cuenta de que
+el enunciado no te pide el mismo tama<-n>o?
+!******************************!
+[n6.dat]
+<0007>Cena en pareja
+<00><14><12><10><11><0B><05><06><EB><03><02><FF>
+Cuatro parejas se sientan en un
+restaurante lleno de gente. Todos
+los comensales est<'a>n sentados al lado
+de sus parejas o enfrente de ellas.
+
+- Los Jones se sientan al lado del pasillo.
+- El se<-n>or del bigote, el Sr. O'Connor, se
+sienta al lado de su mujer.
+- El Sr. Lambert se sienta enfrente de su
+mujer.
+
+Con esta informaci<'o>n, <<5E>?>puedes deducir
+d<'o>nde se sienta la Sra. Hadley?
+Rod<'e>ala con un c<'i>rculo y toca #rListo#x.
+!******************************!
+<<5E>!>Eso es!
+
+Como el Sr. O'Connor (con bigote) est<'a>
+sentado al lado de su mujer, las cuatro
+personas de la izquierda deben de estar
+sentadas al lado de sus c<'o>nyuges.
+
+Dado que el Sr. Lambert est<'a> sentado
+enfrente de su mujer, tiene que estar
+sentado en la mesa de la derecha.
+
+Los Jones, que se sientan al lado
+del pasillo, deben de ser c y g, as<'i> que
+los Hadley solo pueden ser e y f.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+El se<-n>or del bigote, O'Connor, es b.
+Dado que c y f son hombres, su mujer
+tiene que ser a.
+!******************************!
+Los Jones se sientan al lado del pasillo,
+as<'i> que tienen que estar sentados el
+uno enfrente del otro.
+
+Como ya sabes que b es el Sr. O'Connor,
+c y g deben de ser el Sr. y la Sra. Jones,
+<<5E>?>verdad?
+!******************************!
+[n7.dat]
+<0008>El fest<'i>n de Luke
+<00><19><16><13><11><0B><03><07><E9><03><02><FF>
+-Luke, <<5E>?>est<'a>s seguro de que podr<'a>s
+acabarte todo lo que has pedido?
+Parece demasiada comida para ti.
+
+-No se preocupe, profesor. <<5E>!>Voy a dejar
+el plato reluciente!
+
+El profesor tiene motivos para preocuparse,
+ya que la comida de Luke cuesta el doble que
+la suya. Abajo puedes ver los platos que
+han pedido y sus precios. Marca los precios
+de los platos que ha pedido Luke toc<'a>ndolos
+con el l<'a>piz t<'a>ctil.
+!******************************!
+<<5E>!>Buen trabajo!
+
+Si calculas el total, te dar<'a>s cuenta de que
+la comida cost<'o> 105 <po>. Por lo tanto, la
+comida de Luke tiene que haber costado
+70 <po> y la del profesor 35 <po>. En cuanto
+tienes eso claro, el resto es f<'a>cil.
+
+-<<5E>?>Est<'a>s seguro de que no es demasiado?
+
+-<<5E>!>Qu<'e> va! El estofado est<'a> divino. <<5E>!>Y menudo
+filete! <<5E>!><-N>am, <-n>am!
+
+-Bueno, pues... <<5E>!>Que aproveche!
+!******************************!
+<<5E>!>L<'a>stima!
+
+A lo mejor esa manera de enfrentarse
+al puzle no es muy efectiva. <<5E>?>Por qu<'e>
+no pruebas otro enfoque?
+!******************************!
+Tu primer paso deber<'i>a ser calcular el
+coste total de toda la comida y
+bebida que hay en la mesa.
+!******************************!
+La comida de Luke cuesta el doble de
+la del profesor. Esto significa que, con
+respecto a la del profesor, tiene un
+coste proporcional de 2 a 1.
+!******************************!
+[n8.dat]
+<0009>Torres de vasos
+<00><0A><08><06><12><0B><02><08><E8><03><02><FF>
+El due<-n>o de un restaurante de cuatro
+tenedores encarga a un joven camarero
+que apile los vasos de forma decorativa.
+El joven dibuja cinco bocetos diferentes
+y se los muestra al due<-n>o. Este echa un
+vistazo a los dibujos y, visiblemente
+irritado, le grita al muchacho: <''><<5E>!>Este
+boceto es absurdo! <<5E>?>En qu<'e> estabas
+pensando?<''>.
+
+<<5E>?>De cu<'a>l de los cinco bocetos est<'a>
+hablando el due<-n>o?
+!******************************!
+<<5E>!>Eso es!
+
+El due<-n>o del restaurante hablaba del
+boceto D. Si lo observas atentamente,
+te dar<'a>s cuenta de que la primera y
+la segunda fila de vasos no podr<'i>an
+colocarse tal y como muestra el dibujo.
+
+El boceto en dos dimensiones no tiene
+en cuenta el borde del vaso.
+!******************************!
+<<5E>!>L<'a>stima!
+
+<<5E>?>No te parece raro que el due<-n>o del
+restaurante se haya enfadado tanto
+por un simple dibujo?
+!******************************!
+<''><<5E>!>Este boceto es absurdo!<''>
+
+El due<-n>o no se ha enfadado porque
+el boceto sea dif<'i>cil de llevar a
+cabo, sino porque es f<'i>sicamente
+imposible de reproducir en la vida real.
+!******************************!
+Tanto A como C se pueden llevar a
+cabo con buen pulso y mucha paciencia.
+
+Ahora solo te quedan B, D y E.
+!******************************!
+[n9.dat]
+<0010>Una obra de arte
+<01><0F><0D><0B><12><0B><16><09><F6><03><02><FF>
+Este dibujo est<'a> formado por l<'i>neas curvas
+que se cruzan para formar <'a>reas. Si quieres
+pintar todas las zonas sin que se toquen
+dos <'a>reas del mismo color, <<5E>?>cu<'a>l es el
+n<'u>mero m<'i>nimo de colores diferentes que
+puedes utilizar? Puedes usar un mismo
+color tantas veces como quieras; la <'u>nica
+regla es que nunca se pueden tocar dos
+<'a>reas del mismo color.
+
+Cuando tengas la respuesta, toca #rSoluci<'o>n#x
+e introduce el n<'u>mero de colores.
+!******************************!
+<<5E>!>Correcto!
+
+Necesitas tres colores diferentes para
+pintar todas las <'a>reas. En realidad, casi
+todo el dibujo se puede pintar con solo
+dos colores, pero esa <'a>rea de la esquina
+inferior izquierda requiere un tercer color.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+Aqu<'i> no hay truco que valga.
+
+A lo mejor te resulta m<'a>s f<'a>cil usar
+la funci<'o>n de las notas para marcar las
+<'a>reas.
+!******************************!
+F<'i>jate en las esquinas del dibujo.
+!******************************!

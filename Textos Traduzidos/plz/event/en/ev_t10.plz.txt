@@ -18,16 +18,16 @@ amigo, Dr. Andrew Schrader.
 [t10_030_500.gds]
 <01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:104>Caro Hershel. Sendo o exímio arqueólogo
 que sei que é, estou certo de que está a
-par desse item chamado Caixa Elísia.
+par desse objeto chamado Caixa Elísia.
 !******************************!
 [t10_030_501.gds]
-<01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:493>Esse parece ser um nome muito
-apropriado, uma vez que dizem que
+<01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:493>Esse parece ser um apelido muito
+apropriado, uma vez que é dito que
 todos que a abrem morrem.<W>
 !------------------------------!
 É claro que não acredito nessas lendas,
 mas quando o meu interesse é fisgado,
-simplesmente me obrigo a investigar.<W>
+sou simplesmente obrigado a investigar.<W>
 !------------------------------!
 É por isso que fico muito feliz em lhe
 dizer que esse elusivo artefato está
@@ -42,15 +42,15 @@ uma teoria, ainda que não seja capaz
 de prová-la.
 !******************************!
 [t10_030_502.gds]
-<01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:290>Minha intenção inicial era finalizar
-minhas pesquisas antes de me atrever
+<01:00000003><03:5>NONE<03:5>NONE<01:00000002><03:290>Minha intenção inicial era concluir
+minhas pesquisas antes de atrever-me
 a abrir seu conteúdo.<W>
 !------------------------------!
 Mas confesso que minha curiosidade
 é simplesmente incontrolável.<W>
 !------------------------------!
-No improvável caso de algo vir a
-acontecer comigo, por favor, termine
+No improvável caso de que algo venha
+a acontecer comigo, por favor, termine
 o trabalho que comecei aqui.<W>
 !------------------------------!
 Seu amigo,
@@ -216,8 +216,8 @@ Bem, quando isso acontecer, você pode
 trocar uma dessas brilhantes moedas
 de dica por dicas.<W>
 !------------------------------!
-Elas estão espalhadas por todos os
-cantos, o que significa dizer que você
+Elas estão espalhadas por todos
+os cantos, o que quer dizer que você
 deve procurá-las a todo momento.<W>
 !------------------------------!
 Use sua stylus para tocar qualquer

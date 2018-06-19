@@ -528,8 +528,8 @@ foi enviado ao Livro de Enigmas!
 !******************************!
 [tx_205.txt]
 Você encontrou %s!
-Você pode ver os itens encontrados
-na Mala do Professor.
+Você pode ver os objetos
+encontrados na Mala do Professor.
 !******************************!
 [tx_206.txt]
 O jogo do Hamster foi

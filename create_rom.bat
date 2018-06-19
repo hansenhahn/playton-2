@@ -32,6 +32,7 @@ rem Copia alguns arquivos "estratégicos" para a pasta com a Rom Modificada
 copy "Arquivos Gerais\arm9.bin" "ROM Modificada\PLAYTON2" /B/Y
 copy "Arquivos Gerais\banner.bin" "ROM Modificada\PLAYTON2" /B/Y
 copy "Arquivos Gerais\y9.bin" "ROM Modificada\PLAYTON2" /B/Y
+copy "Arquivos Gerais\utility.bin" "ROM Modificada\PLAYTON2\data\dwc" /B/Y
 copy "Arquivos Gerais\overlay_0002.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y
 copy "Arquivos Gerais\overlay_0019.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y
 copy "Arquivos Gerais\overlay_0023.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y

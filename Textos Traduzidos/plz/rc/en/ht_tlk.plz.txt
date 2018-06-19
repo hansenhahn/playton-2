@@ -1,0 +1,785 @@
+[ht_000_0.txt]
+Ah, o sabor é um pouquinho
+agridoce. Nham.
+!******************************!
+[ht_000_1.txt]
+Certamente trata-se de um chá
+esquisito. Imagino que também
+seja delicioso se servido frio.
+!******************************!
+[ht_000_2.txt]
+Aí sim, já que o sabor é suave e
+muito rico, com certeza todo mundo
+vai tomar uma xícara com prazer.
+!******************************!
+[ht_000_3.txt]
+Hmm, sim. Pessoalmente estou
+cativado por este gostinho
+frutoso que tem depois de beber.
+!******************************!
+[ht_001_0.txt]
+Ahh, que delícia! Não sabia que
+você conseguia fazer um chá assim
+tão doce, Professor!
+!******************************!
+[ht_001_1.txt]
+Bom, é um pouco doce demais pro
+meu paladar, mas entendo o motivo
+de tantas crianças gostarem.
+!******************************!
+[ht_001_2.txt]
+Eu acho que consigo beber sozinho
+um bule inteiro desse negócio.
+Você vai ver!
+!******************************!
+[ht_001_3.txt]
+Ha ha ha! Como você é guloso por
+coisas doces, Luke. Tome cuidado
+para não beber muito depressa.
+!******************************!
+[ht_002_0.txt]
+Hmm. Que mistura interessante e
+sutil de frutosidade e fumosidade.
+!******************************!
+[ht_002_1.txt]
+Ouvi dizer que você consegue usar
+as folhas de chá dessa mistura
+para prever sua vida amorosa.
+!******************************!
+[ht_002_2.txt]
+Estou impressionado, Luke. É de
+aquecer o coração o seu enorme
+interesse em vários tipos de chá.
+!******************************!
+[ht_002_3.txt]
+Mas é claro, Professor! Não podia
+me chamar de seu aprendiz se eu
+não gostasse de fazer chá!
+!******************************!
+[ht_003_0.txt]
+Este chá parece ser o ideal para
+tirar a frieza de alguém que está
+pressentindo um resfriado.
+!******************************!
+[ht_003_1.txt]
+Talvez seja, Professor, mas é
+meio amargo demais pro meu gosto.
+!******************************!
+[ht_003_2.txt]
+É assim mesmo, Luke. Remédio
+algum tem gosto bom! É assim que
+você sabe se tem efeito ou não.
+!******************************!
+[ht_003_3.txt]
+Ah, acho que tem razão no que
+disse, Professor! Me sinto bem
+quentinho por dentro agora!
+!******************************!
+[ht_004_0.txt]
+Aah, tem pimenta! Minha boca
+todinha tá pegando fogo, bicho!
+!******************************!
+[ht_004_1.txt]
+Sim, tem uma dose bem forte de
+Pimenta Cereja no chá. É bem
+apimentado, sem dúvidas.
+!******************************!
+[ht_004_2.txt]
+Até meio que gostei. Tá me fazendo
+sentir bem alegre. Quando eu tiver
+triste, já sei o que tomar.
+!******************************!
+[ht_004_3.txt]
+Sim, uma boa xícara de Cereja
+Revigorante pode fazer muito bem
+à gente, de vez em quando.
+!******************************!
+[ht_005_0.txt]
+Ah, que chá simplesmente esquisito.
+Há uma profundidade de sabores aqui
+que não se nota em outros chás.
+!******************************!
+[ht_005_1.txt]
+Sério? Caramba, acho que minha tá
+ruim ou algo do tipo. Não consigo
+notar o que há de tão bom nisso...
+!******************************!
+[ht_005_2.txt]
+Ha ha! Talvez você seja muito novo
+para esse chá. É o que alguns chamam
+de chá para paladares experientes.
+!******************************!
+[ht_005_3.txt]
+Bom, não sei sobre isso. Até onde
+posso notar, é amargo demais pra
+saber se é saboroso.
+!******************************!
+[ht_006_0.txt]
+Céus, que mistura peculiar esta
+daqui. É sutil e picante ao mesmo
+tempo.
+!******************************!
+[ht_006_1.txt]
+E também tem um gostinho doce
+no final.
+!******************************!
+[ht_006_2.txt]
+Particularmente gosto de como o
+calorzinho inicial é compensado
+com o sabor doce que vem depois.
+!******************************!
+[ht_006_3.txt]
+Nunca imaginei que uma mistura
+adocicada e apimentada pudesse
+se dar tão bem nesse chá.
+!******************************!
+[ht_007_0.txt]
+Impressionante. Um gole e já me
+sinto rejuvenescido. É defumado,
+porém tem um ótimo sabor doce.
+!******************************!
+[ht_007_1.txt]
+É um sabor totalmente novo pra
+mim, Professor. Nunca provei
+algo assim antes.
+!******************************!
+[ht_007_2.txt]
+É interessante, e com certeza é
+bom para matar a sede de alguém,
+mas não é bem do meu gosto.
+!******************************!
+[ht_007_3.txt]
+Sério? Bom, já eu acho que é
+bem gostoso.
+!******************************!
+[ht_008_0.txt]
+Hmm, esse cheiro é bom.
+!******************************!
+[ht_008_1.txt]
+De fato. Há algo no aroma deste
+chá que me é bastante aliviador.
+!******************************!
+[ht_008_2.txt]
+Acertou bem na mosca, Professor.
+Acho que tá me deixando meio
+sonolento. Uááááááhhh...
+!******************************!
+[ht_008_3.txt]
+Suponho que seja mais uma prova de
+seu efeito relaxante. De fato é -
+uááááhh - bem potente, não é?
+!******************************!
+[ht_009_0.txt]
+Ahhh, sinta só este aroma.
+É incrivelmente relaxante!
+!******************************!
+[ht_009_1.txt]
+Meio que te faz esquecer todos os
+seus problemas por um instante,
+né Professor?
+!******************************!
+[ht_009_2.txt]
+Devo confessar que é bem agradável.
+É como se o chá tirasse todas as
+minhas preocupações de mim.
+!******************************!
+[ht_009_3.txt]
+Uau, tudo isso só por causa de um
+ou dois goles? O que uma xícara de
+chá é capaz de fazer é fascinante!
+!******************************!
+[ht_010_0.txt]
+Um... Que cheiro é este?
+É meio... tosco.
+!******************************!
+[ht_010_1.txt]
+Certamente tem um sabor distinto,
+mas sabe, Luke, quanto mais eu
+bebo, mais passo a gostar.
+!******************************!
+[ht_010_2.txt]
+Se você apreciou tanto assim esse
+chá, pode ficar com minha xícara
+e beber o meu também.
+!******************************!
+[ht_010_3.txt]
+Lamento ouvir que o tom defumado
+do Flor de Cinzas não é do seu
+agrado, Luke.
+!******************************!
+[ht_011_0.txt]
+Uau! Esse chá é do balacobaco!
+
+!******************************!
+[ht_011_1.txt]
+Concordo, Luke. Estou estupefato
+por ver que é possível fazer algo
+assim com ingredientes comuns.
+!******************************!
+[ht_011_2.txt]
+O mundo é cheio de mistérios
+como esse, não é, Professor?
+!******************************!
+[ht_011_3.txt]
+De fato, meu garoto.
+Bom, considere-me mistificado...
+!******************************!
+[ht_100_0.txt]
+Ah, céus...
+!******************************!
+[ht_100_1.txt]
+Professor, esse chá devia mesmo
+ter essa aparência tão... err,
+marrom e sem graça?
+!******************************!
+[ht_100_2.txt]
+Odeio ter que dizer isso, mas é
+melhor ser franco sobre esta bebida.
+Está completamente intragável.
+!******************************!
+[ht_100_3.txt]
+Vamos anotar essa placa, pra que
+nunca mais essa passe sem a gente
+ver. Melhor não fazer isso de novo.
+!******************************!
+[ht_101_0.txt]
+Este chá tem um cheiro meio, bem,
+engraçado. Tem certeza que podemos
+beber isso, Professor?
+!******************************!
+[ht_101_1.txt]
+Por que você não toma um gole
+e descobre por si mesmo?
+!******************************!
+[ht_101_2.txt]
+Eca! Acho que vou deixar essa
+passar.
+
+!******************************!
+[ht_101_3.txt]
+Onde foi que eu errei? Eu estava
+certo de que havia preparado algo
+bom.
+!******************************!
+[ht_102_0.txt]
+Bom...
+!******************************!
+[ht_102_1.txt]
+Bom...
+!******************************!
+[ht_102_2.txt]
+Ahn, Professor? Acho que vou
+provocar.
+!******************************!
+[ht_102_3.txt]
+Não estou surpreso. Este não é o
+tipo de chá que cavalheiros deviam
+estar preparando, sem dúvidas.
+!******************************!
+[ht_103_0.txt]
+Este chá está terrível.
+!******************************!
+[ht_103_1.txt]
+Desculpe, Professor. Não acho que
+consigo tomar outro gole.
+!******************************!
+[ht_103_2.txt]
+Está tudo bem, Luke. Ninguém deveria
+se sentir obrigado a beber algo tão
+indigno quanto este chá.
+!******************************!
+[ht_103_3.txt]
+Tudo parecia estar indo bem.
+Me pergunto onde foi que deu
+errado.
+!******************************!
+[ht_104_0.txt]
+Professor, tá saindo... espuma
+desse chá!
+!******************************!
+[ht_104_1.txt]
+Ah, céus. Suponho que é um sinal
+claro de que este chá não está
+adequado para o consumo humano.
+!******************************!
+[ht_104_2.txt]
+Não entendo. Checamos todos os
+ingredientes. Por que toda essa
+espuma?
+!******************************!
+[ht_104_3.txt]
+Receio não ter resposta sobre isso,
+Luke. Mas talvez possamos usar isso
+para limpar o chão.
+!******************************!
+[ht_105_0.txt]
+Ah, isso não está com uma boa
+aparência.
+!******************************!
+[ht_105_1.txt]
+Urgh, esse chá tá me deixando
+triste. Um gole já basta pra me
+dar vontade de chorar.
+!******************************!
+[ht_105_2.txt]
+Acho que nunca me ocorreu de
+não sorrir após tomar uma xícara
+de chá... até agora.
+!******************************!
+[ht_105_3.txt]
+Acredite, Professor. Você não é
+o único com uma cara triste.
+!******************************!
+[ht_106_0.txt]
+P-Professor! Tá saindo fumaça
+desse chá!
+!******************************!
+[ht_106_1.txt]
+Talvez tenhamos inventado sem
+querer um chá que nunca devia
+ter existido.
+!******************************!
+[ht_106_2.txt]
+Não sou covarde, mas também não
+tenho coragem de beber essa joça.
+!******************************!
+[ht_106_3.txt]
+Então nosso plano de ação está claro.
+Vamos selar esta receita para sempre
+e nunca mais prepará-la.
+!******************************!
+[ht_107_0.txt]
+Professor... este chá é... peculiar.
+!******************************!
+[ht_107_1.txt]
+Admito: não consigo encontrar um
+termo mais apropriado para esta
+mistura que não seja "peculiar".
+!******************************!
+[ht_107_2.txt]
+Isso tem gosto de que mesmo?
+Sapato velho?
+!******************************!
+[ht_107_3.txt]
+Certo, entendi a descrição, Luke.
+Vamos esquecer essa receita e nunca
+mais prepará-la novamente.
+!******************************!
+[ht_108_0.txt]
+Interessante. Nunca havia visto
+chá congelado antes.
+!******************************!
+[ht_108_1.txt]
+Tá mais com cara de pudim do que
+chá, Professor. Talvez a gente
+precise de uma colher pra beber.
+!******************************!
+[ht_108_2.txt]
+Os ingredientes individuais estavam
+em bom estado. Tecnicamente falando,
+era para ser possível beber.
+!******************************!
+[ht_108_3.txt]
+Err... Não pra mim, valeu.
+!******************************!
+[ht_109_0.txt]
+Professor, isso aqui não tem cara
+de chá mesmo. Se eu não soubesse
+da receita, juraria que era lama.
+!******************************!
+[ht_109_1.txt]
+Isso está bastante... viscoso.
+Como raios isso aconteceu?
+!******************************!
+[ht_109_2.txt]
+Talvez a gente tenha misturado
+alguns ingredientes incompatíveis.
+!******************************!
+[ht_109_3.txt]
+Você tem razão, Luke. Da próxima
+vez, vamos tentar uma combinação
+diferente, certo?
+!******************************!
+[ht_110_0.txt]
+A verdadeira beleza do chá é a
+combinação distinta de sabores.
+Tente usar ingredientes diferentes.
+!******************************!
+[ht_110_1.txt]
+É. Se a gente usar só um tipo de
+ingrediente, o resultado é um
+chazinho chato dum gosto só.
+!******************************!
+[ht_200_0.txt]
+Hmm... O que fazemos com isso?
+!******************************!
+[ht_200_1.txt]
+É uma primeira escolha excelente.
+!******************************!
+[ht_200_2.txt]
+Aqui vai nosso primeiro
+ingrediente.
+!******************************!
+[ht_200_3.txt]
+Com o que isso combina? Hmm...
+!******************************!
+[ht_200_4.txt]
+Isso deve ser muito bom para
+começar.
+!******************************!
+[ht_201_0.txt]
+Tenho uma ideia estupenda!
+!******************************!
+[ht_201_1.txt]
+É um com bomeço.
+!******************************!
+[ht_201_2.txt]
+Agora, qual ingrediente devemos
+adicionar?
+!******************************!
+[ht_201_3.txt]
+É uma primeira escolha muito
+boa!
+!******************************!
+[ht_201_4.txt]
+O que será que combina com isso?
+!******************************!
+[ht_210_0.txt]
+Uma seleção de ervas interessante!
+!******************************!
+[ht_210_1.txt]
+E agora, direto pro bule.
+!******************************!
+[ht_210_2.txt]
+Seja no enigma ou no chá, o
+importante é ser criativo.
+!******************************!
+[ht_210_3.txt]
+Vejamos como esses ingredientes
+se combinam.
+!******************************!
+[ht_210_4.txt]
+Ah, temos em mãos uma combinação
+fascinante agora.
+!******************************!
+[ht_211_0.txt]
+Caramba, essa combinação passou
+e eu nem vi. Alguém anotou a placa?
+!******************************!
+[ht_211_1.txt]
+O que adicionar agora...?
+!******************************!
+[ht_211_2.txt]
+Dois já eram. Mas com qual
+ingrediente nós vamos fechar?
+!******************************!
+[ht_211_3.txt]
+Se tudo correr bem, esses dois
+ingredientes vão combinar!
+!******************************!
+[ht_211_4.txt]
+Será que esses ingredientes vão
+combinar?
+!******************************!
+[ht_220_0.txt]
+Bom, aqui estão todos os
+ingredientes. Agora só falta
+começar a preparar o chá!
+!******************************!
+[ht_220_1.txt]
+Estou bastante orgulhoso desta
+preparação. Espero que o chá seja
+tão bom quanto parece.
+!******************************!
+[ht_220_2.txt]
+Estou ansioso para ver como vai
+ficar este chá. Vamos colocar a
+tampa e começar a preparar.
+!******************************!
+[ht_220_3.txt]
+Creio que forjamos uma bebida
+bastante deleitável.
+!******************************!
+[ht_220_4.txt]
+Que tipo de chá sairá daqui?
+Mal consigo conter minha
+empolgação.
+!******************************!
+[ht_221_0.txt]
+Este chá vai ficar ótimo!
+Aposto meu chapéu nisso!
+!******************************!
+[ht_221_1.txt]
+Meus dedos estão cruzados aqui!
+Agora vamos colocar a tampa no
+bule e começar a preparar!
+!******************************!
+[ht_221_2.txt]
+Desde que esse chá seja bebível,
+me darei por satisfeito.
+!******************************!
+[ht_221_3.txt]
+Espero que esta mistura resulte
+numa saborosa chávena.
+!******************************!
+[ht_221_4.txt]
+Agora só falta botar a tampa no
+bule e começar a preparar!
+!******************************!
+[ht_300_0.txt]
+Não estou me sentindo bem. Você pode
+me fazer um chá com Folha de Oásis,
+Fruta Vigorosa e Semente Cítrica?
+!******************************!
+[ht_300_1.txt]
+Que esplêndido, Luke! Esta é a prova
+definitiva do poder fortificante
+do chá!
+!******************************!
+[ht_300_2.txt]
+Luke, isso não era bem o que eu
+tinha em mente. Gostaria de algo
+menos pesado e mais frutoso.
+!******************************!
+[ht_301_0.txt]
+Mas que cansaço! Você poderia me
+fazer um chá com Folha de Oásis e
+uma dose dupla de Fruta Vigorosa?
+!******************************!
+[ht_301_1.txt]
+Ah, este chá acertou na mosca.
+É doce e me proporcionou a energia
+necessária pra voltar a andar.
+!******************************!
+[ht_301_2.txt]
+Não queria reclamar, Professor,
+mas acha que consegue fazer algo
+mais doce?
+!******************************!
+[ht_400_0.txt]
+%s pega a xícara quente
+de %s saboreando cada
+gole do chá!
+!******************************!
+[ht_400_1.txt]
+Isso sim é chá bom! %s
+parece bem, e está muito feliz.
+!******************************!
+[ht_400_2.txt]
+Infelizmente, o chá que você
+preparou não é bem o que %s
+está desejando.
+!******************************!
+[ht_exp1.txt]
+<83>n<81><5B><83>u<82><F0><91>I<82>ñ<82><C5><82><AD><82><BE><82><B3><82><A2><81>B
+!******************************!
+[ht_exp2.txt]
+<82>Ó<82><BD><82><F0><82><B5><82>ß<82>Ä<82><AD><82><BE><82><B3><82><A2><81>B
+!******************************!
+[ht_hint_1.txt]
+Prestenção! Quero um chá clássico
+com Folha de Oásis, Fruta Vigorosa
+e um toque de Semente Cítrica.
+!******************************!
+[ht_hint_10.txt]
+Ia me cair muito bem uma xícara
+de chá bem picante pra me ajudar
+a espantar essa melancolia.
+!******************************!
+[ht_hint_11.txt]
+Quero um chá que seja doce, azedo
+e meio amargo. Sabe, um chá
+sofisticado para um adulto.
+!******************************!
+[ht_hint_12.txt]
+Posso importuná-lo para me preparar
+algo doce e amargo? Se tiver um
+pouquinho azedo também, é bom.
+!******************************!
+[ht_hint_13.txt]
+Algo misterioso seria maravilhoso.
+E por misterioso, eu quero dizer
+doce, suave e apimentado. OK?
+!******************************!
+[ht_hint_14.txt]
+Eu aceito um chá suave com uma
+pitada de pimenta, se puder. Um
+tiquinho de doce seria bom também.
+!******************************!
+[ht_hint_15.txt]
+Faz pra mim um chá defumado com
+trevo e algo doce aí, e é pra
+ser rápido!
+!******************************!
+[ht_hint_16.txt]
+Tô morrendo de sede, filhão. Me
+prepara algo doce e defumado que
+dê cabo da minha garganta seca. 
+!******************************!
+[ht_hint_17.txt]
+Uma xícara de chá com Semente
+Cítrica, por favor. Quero um sabor
+suave, e que não me deixe acordado.
+!******************************!
+[ht_hint_18.txt]
+Preciso de vitaminas para clarear
+minha pele! Faça para mim um chá
+calmante com um monte de vitaminas.
+!******************************!
+[ht_hint_19.txt]
+Vou ficar de boa na lagoa se você
+me arrumar algo apimentado e
+terroso que me faça relaxar.
+!******************************!
+[ht_hint_2.txt]
+Quero algo que tenha, hmm,
+um gosto de chá clássico.
+!******************************!
+[ht_hint_20.txt]
+Daria minha jaqueta por um chá
+relaxante, e se tiver um aroma
+suave e sabor apimentado, perfeito!
+!******************************!
+[ht_hint_21.txt]
+Se o chá não for forte do jeito
+que eu gosto, vou devolver. E não
+se esqueça da Flor de Sonho nele.
+!******************************!
+[ht_hint_22.txt]
+Quero um cha que seja revigorante
+e bom pra curar as mazela. Tem que
+ser forte e defumado, OK?
+!******************************!
+[ht_hint_23.txt]
+Para este chá, vai precisar de algo
+que simboliza fogo, e algo que
+proporcione felicidade.
+!******************************!
+[ht_hint_24.txt]
+Este chá tinha uma mistura de
+ingredientes bem estranha, mas me
+lembro que era meio apimentado.
+!******************************!
+[ht_hint_3.txt]
+Se vai me preparar um chazinho,
+meu amor, faça com que seja
+doce e resfrescante. Como eu!
+!******************************!
+[ht_hint_4.txt]
+Eu adoro doces, então faz pra mim
+um chá que seja SUPER doce, tá?
+!******************************!
+[ht_hint_5.txt]
+Quero um chá que me diga o futuro!
+Nele vai Folha de Oásis, algo
+defumado, e algo ácido.
+!******************************!
+[ht_hint_6.txt]
+Me prepare um chá que seja frutoso
+e defumado. Para conseguir o sabor
+que procuro, precisa de algo seco.
+!******************************!
+[ht_hint_7.txt]
+O chá que eu tô atrás tem trevo,
+um tipo de folha, e algo que sirva
+pra resfriados! Tem isso tudo aí?
+!******************************!
+[ht_hint_8.txt]
+Me ajuda a achar um chá que vá
+r-resolver minha m-má circulação e
+me aqueça. Tô c-congelando!
+!******************************!
+[ht_hint_9.txt]
+Eu quero algo forte, garoto. Não
+um chá de bebê, mas algo muito
+forte e bem quente, viu?
+!******************************!
+[ht_rcp1.txt]
+Hmm, uma boa xícara de
+%s, pelo visto.
+!******************************!
+[ht_rcp2.txt]
+Ah, parece ser uma bela chávena
+de %s.
+!******************************!
+[ht_step_m0.txt]
+Adicione ingredientes no bule.
+!******************************!
+[ht_step_m1.txt]
+Adicione mais dois ingredientes
+no bule.
+!******************************!
+[ht_step_m2.txt]
+Adicione mais um ingrednente
+no bule.
+!******************************!
+[ht_step_m3.txt]
+Coloque a tampa no bule para
+começar a preparar o chá.
+!******************************!
+[ht_step_m4.txt]
+Preparando um bule de
+%s.
+!******************************!
+[ht_step_m5.txt]
+Aguarde só um instante...
+!******************************!
+[ht_step_m6.txt]
+<92><B2><8D><87><82>É<90><AC><8C><F7><81>I<83>n<81><5B><83>u<83>e<83>B<81><5B><82><AA><8A><AE><90><AC><81>I
+!******************************!
+[ht_step_m6f.txt]
+Seu chá não foi bom não.
+Que pena.
+!******************************!
+[ht_step_m6s.txt]
+Muito bem! Mais um bule de chá
+saindo!
+!******************************!
+[ht_step_m7f.txt]
+Infelizmente, você não conseguiu
+preparar algo bebível.
+!******************************!
+[ht_step_s0.txt]
+Combine três ingredientes para
+preparar um saboroso bule de chá!
+!******************************!
+[ht_step_s5.txt]
+Ah, que suspense! Qual será o
+gosto que esse chá vai ter?
+!******************************!
+[ht_tea00.txt]
+Cítrico Clássico
+!******************************!
+[ht_tea01.txt]
+Fruta do Oásis
+!******************************!
+[ht_tea02.txt]
+Névoa Doce
+!******************************!
+[ht_tea03.txt]
+Raiz Vigorosa
+!******************************!
+[ht_tea04.txt]
+Cereja Revigorante
+!******************************!
+[ht_tea05.txt]
+Fruta Amarga
+!******************************!
+[ht_tea06.txt]
+Sonho Apimentado
+!******************************!
+[ht_tea07.txt]
+Trevo Fresco
+!******************************!
+[ht_tea08.txt]
+Mescla Radiante
+!******************************!
+[ht_tea09.txt]
+Caiena Crepuscular
+!******************************!
+[ht_tea10.txt]
+Flor de Cinzas
+!******************************!
+[ht_tea11.txt]
+Elixir Laytônico
+!******************************!

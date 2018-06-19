@@ -123,12 +123,12 @@ estava trancada quando eu e o Luke
 entramos.
 !******************************!
 [t20_020_1700.gds]
-<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:188>Entendo. Então a porta, o único caminho
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:188>Entendo. Então a porta, a única entrada
 pra este apartamento no oitavo andar,
-estava bem trancada.<W>
+estava trancada.<W>
 !------------------------------!
 Então o doutor estava trancado
-aqui dentro, completamente à parte
+aqui dentro, completamente isolado
 do mundo lá fora, certo?
 !******************************!
 [t20_020_1750.gds]
@@ -186,13 +186,13 @@ ponto final. E ali está o motivo.
 !******************************!
 [t20_020_2600.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:75>Aquilo?<W> É um modelo em miniatura
-de um Kronossauro, se não estou
+de um Cronossauro, se não estou
 enganado.
 !******************************!
 [t20_020_2700.gds]
-<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:180>Pode apostar que aquela pilha de ossos
-daria pesadelos em qualquer um. Foi
-isso o que provavelmente aconteceu...<W>
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:180>Posso apostar que aquela pilha de ossos
+daria pesadelos em qualquer um. Foi isso
+o que provavelmente aconteceu...<W>
 !------------------------------!
 O velho coitado ligou a luz, olhou para
 aquele monstro e caiu duro.
@@ -233,8 +233,8 @@ encontramos nossas respostas ainda.
 <01:00000006><03:11>b2 suprise<03:5>NONE<01:00000001><03:12>Oh, é mesmo?
 !******************************!
 [t20_020_3400.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:79>Além disso, olhe em sua volta,
-Inspetor. Nada mais lhe parece
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:79>Além disso, olhe à sua volta,
+Inspetor. Nada mais lhe parece...
 estranho?
 !******************************!
 [t20_020_3500.gds]
@@ -252,7 +252,7 @@ dia não têm mais modos!
 !******************************!
 [t20_020_500.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:155>Aceite minhas desculpas pela confusão.
-Permita apresentar-me. Me chamo
+Permita apresentar-me. Meu nome é
 Hershel Layton.<W>
 !------------------------------!
 Sou um professor de arqueologia
@@ -348,7 +348,7 @@ ao prédio do doutor.
 !------------------------------!
 Mas parando para pensar, a carta que
 recebi menciona algumas coisas sobre
-este lugar...
+esse lugar...
 !******************************!
 [t20_033_100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:92>A não ser que eu esteja enganado, acho

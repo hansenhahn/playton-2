@@ -1,0 +1,21 @@
+[msg_cam.txt]
+Você montou a câmera!
+Agora pode bater fotos!
+!******************************!
+[msg_pht1.txt]
+Você achou a primeira diferença
+nesta foto!
+!******************************!
+[msg_pht2.txt]
+Você achou a segunda diferença
+nesta foto!
+!******************************!
+[msg_pht3.txt]
+Parabéns! Você achou todas as
+diferenças nesta foto, e ainda
+achou um enigma escondido!
+!******************************!
+[msg_phtf.txt]
+Parece que não havia nenhuma
+diferença aqui...
+!******************************!

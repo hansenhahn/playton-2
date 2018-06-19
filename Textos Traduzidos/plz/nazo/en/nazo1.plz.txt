@@ -1057,7 +1057,7 @@ pode-se pensar que não há como entrar ou
 sair desta sala. Contudo, um detalhe suspeito
 dá pistas do que pode ter acontecido aqui.
 
-Olhe as quatro direções e examine a sala
+Olhe às quatro direções e examine a sala
 com atenção. Quando você tiver encontrado
 o detalhe revelador, circule-o com a stylus
 e toque #rEnviar#x. Certifique-se de circular
@@ -1090,143 +1090,138 @@ O detalhe suspeito em questão está em um
 dos pares de um objeto.
 !******************************!
 [n30.dat]
-<0031>Pass the Apples
+<0031>Passe as Maçãs
 <00><14><12><10><11><1E><1C><1E><F6><03><03><FF>
-Johnny and Thomas are each carrying some
-apples. If Johnny gave Thomas one apple, the
-two men would each have the same number of
-apples. Conversely, if Thomas gave Johnny
-two apples, Johnny would have three times
-the number of apples that Thomas has.
+Johnny e Thomas estão com algumas maçãs.
+Se Johnny der a Thomas uma maçã, ambos
+terão a mesma quantidade de maçãs. Contudo,
+se Thomas der a Johnny duas maçãs, Johnny
+terá três vezes mais maçãs do que Thomas.
 
-So, just how many apples are each of the
-men holding?
+Sendo assim, quantas maçãs têm cada um
+dos homens?
 !******************************!
-Nice!
+Muito bem!
 
-Johnny has seven apples and Thomas has
-five.
+Johnny tem sete maçãs e Thomas tem cinco.
 
-As you can tell, if Johnny gave Thomas one
-apple, both men would have six apples.
-Additionally, if Thomas decided to give
-Johnny two of his apples, Johnny would have
-nine apples in total, three times as many
-as Thomas.
+Como pode ver, se Johnny der a Thomas uma
+maçã, ambos terão seis maçãs. Além disso, se
+Thomas decidir dar a Johnny duas das suas
+maçãs, Johnny terá nove maçãs no total,
+três vezes a mais do que Thomas.
 !******************************!
-Too bad!
+Que pena!
 
-Think hard about the puzzle and try again.
+Leia de novo o enigma e tente outra vez.
 !******************************!
-<''>If Johnny gave Thomas one apple, the
-two men would each have the same number
-of apples.<''>
+<''>Se Johnny der a Thomas uma maçã, ambos
+terão a mesma quantidade de maçãs.<''>
 
-A little critical thinking applied to the
-above statement tells you that Johnny
-must have two more apples than Thomas.
+Após uma rápida leitura crítica sobre
+a afirmação acima, podemos concluir que
+Johnny tem duas maçãs a mais do que
+Thomas.
 !******************************!
-<''>If Thomas gave Johnny two apples,
-Johnny would have three times the
-number of apples that Thomas would
-have.<''>
+<''>Se Thomas der a Johnny duas maçãs,
+Johnny terá três vezes mais maçãs do
+que Thomas.<''>
 
-You know from Hint 1 that the gap
-between Johnny and Thomas is two. In
-the above scenario, the gap increases
-by four, to six. We now know that
-when Thomas loses two apples, Johnny
-has six more than him, and also three
-times more.
+Você sabe, da dica 1, que a diferença
+entre Johnny e Thomas são de duas
+maçãs. No cenário acima, a diferença 
+aumenta para quatro, totalizando seis
+maçãs. Agora sabemos que, quando Thomas
+perde duas maçãs, Johnny fica com seis
+maçãs a mais do que ele, e isso também
+são três vezes a mais.
 !******************************!
-Can you think of a number where the
-result of adding six and multiplying by
-three is the same? That number is how
-many apples Thomas has after giving two
-away. So if we add those two back,
-Thomas has...
+Você consegue pensar em um número
+onde somar seis, ou multiplicar por três
+resulta no mesmo valor? Esse é o número
+de maçãs que Thomas terá após dar duas
+de suas maçãs. Então, se pegarmos essas
+duas maçãs de volta, Thomas terá...
 !******************************!
 [n31.dat]
-<0032>It's a Wrap
+<0032>Flores para Presente
 <00><14><10><0C><11><18><02><1F><E8><03><03><2C>
-Laurel is very particular about wrapping
-this flower as it is a gift for an important
-friend of hers. She would like it to be
-wrapped as shown below, but has no idea
-where to begin.
+Laurel deseja embrulhar estas flores de
+uma forma muito específica, visto que é
+um presente para uma importante amiga sua.
+Ela gostaria que as flores fossem
+embrulhadas como mostrado abaixo, mas ela
+não tem ideia de por onde começar.
 
-In order to wrap the flower just like the
-leftmost drawing, how should you begin your
-wrapping?
+Para que as flores fiquem embrulhadas
+conforme o desenho à esquerda, de que
+forma você deve começar o embrulho?
 
-Touch A, B, C or D to answer.
+Toque A, B, C ou D para responder.
 !******************************!
-Excellent!
+Excelente!
 
-Were you able to follow the paper's
-transition from a flat shape into a
-3-D one?
+Você conseguiu acompanhar a transição
+do papel em um objeto plano para um
+objeto em 3D?
 !******************************!
-Too bad!
+Que pena!
 
-Try to visualise wrapping the flower.
+Experimente embrulhar a flor mentalmente.
 !******************************!
-Pay attention to the direction and
-starting point of each diagrammed fold.
+Preste atenção na direção e no ponto
+de partida de cada diagrama.
 !******************************!
-Since the green edge of the wrapping
-paper will be obscured as you roll up the
-paper in A and D, you can disregard both
-these answers.
+Você pode descartar A e D, uma vez que
+a linha verde do papel de embrulho ficará
+escondida nessas opções.
 !******************************!
-You're left with only two options at
-this point, so focus on the direction
-of the wrapping and you'll soon find
-the solution.
+Você tem duas opções no momento, então
+foque na direção do embrulho e você
+logo chegará à solução.
 !******************************!
 [n32.dat]
-<0033>Fishing Net
+<0033>Rede de Pesca
 <00><14><12><10><12><21><16><20><F6><03><03><FF>
-A large net has been cast out in a pond to
-catch some fish. The pond's surface is small,
-but it's actually wider underwater, so parts
-of the sunken net are no longer visible
-from the surface.
+Uma grande rede foi jogada sobre um lago
+para pescar alguns peixes. Apesar do lago
+parecer pequeno, ele é bastante fundo,
+então várias partes submersas da rede não
+são mais visíveis da superfície.
 
-Assuming that there are no tears in the net
-and that the whole rim of the net is
-constructed of a single length of rope that
-ends on the shore, how many of the fish
-visible in the pond will be caught when the
-net is pulled up?
+Assumindo que não há furos na rede e que
+a borda da rede foi feita de um pedaço
+único de corda cuja as extremidades
+estão na margem, quantos peixes serão
+capturados quando a rede for puxada?
 !******************************!
-That's right!
+Isso mesmo!
 
-To solve this puzzle, you need to imagine
-how the unseen parts of the net connect,
-which should look something like the
-illustration above.
+Para resolver este enigma, você deve
+imaginar como são as partes da rede que
+não são visíveis, que devem parecer mais
+ou menos como a ilustração acima.
 
-As you can see, the net will catch a
-total of seven fish.
+Como pode ver, a rede irá pescar um total
+de sete peixes.
 !******************************!
-Too bad!
+Que pena!
 
-Are you sure you're counting them
-correctly?
+Você tem certeza que está contando
+os peixes corretamente?
 !******************************!
-Why not try sketching the parts of the
-net that you can't see?
+Por que você não tenta desenhar as
+partes da rede que você não vê?
 !******************************!
-When fully drawn out, the net is one
-strange and complicated shape.
+Você verá que a rede tem um formato
+estranho e complicado, depois de
+desenhá-la completamente.
 !******************************!
-Since the rim of the whole net is
-fashioned from a single piece of rope
-with no tears, take the drawing you
-did for Hint 1 and count the number
-of fish on the inside of the net.
-There's your answer.
+Uma vez que a borda da rede foi feita
+de uma peça única de corda e não possui
+furos, pegue o desenho que você fez
+na Dica 1 e conte o número de peixes
+dentro da rede. Aí está sua resposta.
 !******************************!
 [n33.dat]
 <0034>Trees on an Old Road

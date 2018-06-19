@@ -1,0 +1,2757 @@
+[n120.dat]
+<0120>Tira y afloja
+<00><1E><1B><18><12><40><03><78><E9><03><04><40>
+Estos equipos de caballos juegan al
+tira y afloja. Todos los equipos salen
+de un establo de ocho caballos. Los
+primeros tres juegos acaban en empate:
+
+ABCD contra EFGH
+HCB contra GA
+DA contra FHE
+
+<<5E>?>Qu<'e> caballos elegir<'i>as en el cuarto
+juego para tirar contra E y F y que
+acabe en empate? Toca la soluci<'o>n.
+!******************************!
+<<5E>!>As<'i> se hace!
+
+Seguro que hay otras combinaciones que
+tambi<'e>n funcionar<'i>an, pero el <'u>nico caballo
+que te asegurar<'a> un empate seg<'u>n la
+informaci<'o>n disponible es el caballo D.
+!******************************!
+<<5E>!>Vaya, qu<'e> pena!
+
+Lee atentamente los resultados de los
+juegos anteriores para encontrar el
+equipo correcto.
+!******************************!
+Para encontrar la soluci<'o>n no hace falta
+recurrir a complicados c<'a>lculos. Todos
+los caballos se enfrentan varias veces
+y un empate significa que los dos
+equipos participantes son iguales;
+piensa en las diferentes combinaciones.
+!******************************!
+Examina los resultados del primer y del
+tercer juego de esta forma:
+ABCD = EFGH
+DA = FHE
+
+Si haces algunas sustituciones, llegar<'a>s
+a la siguiente conclusi<'o>n:
+BC = G
+!******************************!
+[n121.dat]
+<0121>Luz en el bosque 1
+<00><14><12><10><01><4B><1F><79><04><04><04><FF>
+Ilumina los senderos con faroles.
+Cada farol puede iluminar cualquier
+sendero recto sin importar su longitud.
+Usa el menor n<'u>mero de faroles posible
+para iluminar todos los senderos.
+
+<<5E>!>Venga, int<'e>ntalo!
+!******************************!
+<<5E>!>Buen trabajo!
+
+Estos senderos daban un poco de miedo,
+aunque solo porque no estaban iluminados...
+<<5E>?>verdad?
+!******************************!
+<<5E>!>Qu<'e> pena!
+!******************************!
+Te bastar<'a> con usar cuatro faroles.
+!******************************!
+Los senderos que van en l<'i>nea recta son
+los m<'a>s f<'a>ciles porque con un farol
+puedes iluminarlos de un extremo a otro.
+
+Los senderos que van en diagonal te
+pueden dar m<'a>s problemas. Piensa en
+c<'o>mo vas a iluminarlos antes de nada.
+!******************************!
+[n122.dat]
+<0122>Luz en el bosque 2
+<00><1E><1B><18><02><4B><1F><7A><04><04><04><FF>
+Ilumina los senderos con faroles.
+Cada farol puede iluminar cualquier
+sendero recto sin importar su longitud.
+Usa el menor n<'u>mero de faroles posible
+para iluminar todos los senderos.
+
+<<5E>!>Venga, int<'e>ntalo!
+!******************************!
+<<5E>!>Buen trabajo!
+
+Estos senderos daban un poco de miedo,
+aunque solo porque no estaban iluminados...
+<<5E>?>verdad?
+!******************************!
+<<5E>!>Qu<'e> pena!
+!******************************!
+Te bastar<'a> con usar cinco faroles.
+!******************************!
+Los senderos diagonales necesitan tres
+faroles, as<'i> que enc<'a>rgate de ellos
+primero. Aseg<'u>rate de que no te
+estorban a la hora de iluminar los
+senderos horizontales y verticales.
+!******************************!
+[n123.dat]
+<0123>Luz en el bosque 3
+<00><28><24><20><02><4C><1F><7B><04><04><04><FF>
+Ilumina los senderos con faroles.
+Cada farol puede iluminar cualquier
+sendero recto sin importar su longitud.
+Usa el menor n<'u>mero de faroles posible
+para iluminar todos los senderos.
+
+<<5E>!>Venga, int<'e>ntalo!
+!******************************!
+<<5E>!>Buen trabajo!
+
+Estos senderos daban un poco de miedo,
+aunque solo porque no estaban iluminados...
+<<5E>?>verdad?
+!******************************!
+<<5E>!>Qu<'e> pena!
+!******************************!
+Te bastar<'a> con usar seis faroles.
+!******************************!
+Hay seis senderos horizontales y seis
+verticales, as<'i> que ya sabes que
+necesitas por lo menos seis faroles
+para iluminarlos todos. Intenta partir
+de esta base.
+!******************************!
+[n124.dat]
+<0124><^!>Ovnis!
+<00><1E><14><0A><12><31><02><7C><E8><03><04><FF>
+<<5E>!>Por ah<'i> parece que se ven cuatro ovnis!
+
+En el cielo se ven cuatro extra<-n>os objetos
+flotantes, pero cada uno de ellos est<'a>
+formado por cuatro piezas id<'e>nticas.
+
+<<5E>?>Cu<'a>l de las piezas que ves aqu<'i> es la
+pieza b<'a>sica con la que se han construido
+todos estos ovnis?
+!******************************!
+<<5E>!>Eso es!
+
+Es la pieza C. As<'i> que parece que no hay
+cuatro ovnis en el cielo... <<5E>!>sino 16!
+
+<<5E>!>Qu<'e> miedo!
+!******************************!
+<<5E>!>L<'a>stima!
+
+Usa la funci<'o>n de las notas; puede
+que te ayude a dar con la soluci<'o>n.
+!******************************!
+Usa la funci<'o>n de las notas para
+intentar reconstruir los ovnis
+probando cada una de las piezas.
+!******************************!
+Para empezar, intenta construir el
+ovni de la derecha probando todas
+las piezas.
+!******************************!
+[n125.dat]
+<0125>Hongos salvajes
+<00><32><2D><28><12><4C><0F><7D><F5><03><04><FF>
+Llega hasta la meta recogiendo todos los
+champi<-n>ones de este bosque. Como puedes
+ver en el dibujo, en todos los claros
+con forma de c<'i>rculo hay champi<-n>ones.
+
+Quieres pasar el menor tiempo posible en
+este bosque tan tenebroso, as<'i> que
+aseg<'u>rate de pasar por cada claro solo
+una vez.
+!******************************!
+<<5E>!>Champilicioso!
+
+A estas alturas ya te habr<'a>s dado cuenta
+de que no tienes por qu<'e> usar todos los
+senderos.
+!******************************!
+<<5E>!>L<'a>stima!
+
+Aseg<'u>rate de que no te has olvidado
+de pasar por ning<'u>n claro.
+!******************************!
+Nada m<'a>s empezar, ve hacia la derecha.
+!******************************!
+Para resolver el puzle correctamente,
+debes llegar a la meta desde la derecha.
+!******************************!
+[n126.dat]
+<0126>Lago resbaladizo 1
+<00><14><12><10><11><4D><1B><7E><01><04><04><FF>
+El profesor tiene que cruzar este lago
+helado. El hielo es suficientemente
+grueso como para andar por encima, pero
+tan escurridizo que cualquier movimiento
+que hace el profesor le hace resbalar en
+la direcci<'o>n escogida hasta que llega a
+un muro. Cuando est<'a> parado, puedes
+cambiar la direcci<'o>n en la que se mover<'a>
+tocando las flechas que aparecen a su
+alrededor.
+
+Gu<'i>a al profesor hasta la meta a trav<'e>s
+del lago.
+!******************************!
+<<5E>!>Vaya, s<'i> que era resbaladizo!
+!******************************!
+<<5E>!>L<'a>stima!
+!******************************!
+Cuando te topes con el primer muro, gira
+hacia la derecha.
+!******************************!
+Despu<'e>s de girar hacia la derecha tal
+y como se indica en la pista 1, llegar<'a>s
+a otro muro. No intentes llegar a la
+meta desde all<'i>.
+!******************************!
+[n127.dat]
+<0127>Lago resbaladizo 2
+<00><1E><1B><18><12><4D><1B><7F><01><04><04><FF>
+El profesor tiene que cruzar este lago
+helado. El hielo es suficientemente
+grueso como para andar por encima, pero
+tan escurridizo que cualquier movimiento
+que hace el profesor le hace resbalar en
+la direcci<'o>n escogida hasta que llega a
+un muro. Cuando est<'a> parado, puedes
+cambiar la direcci<'o>n en la que se mover<'a>
+tocando las flechas que aparecen a su
+alrededor.
+
+Gu<'i>a al profesor hasta la meta a trav<'e>s
+del lago.
+!******************************!
+<<5E>!>Lo has conseguido!
+
+<<5E>?>A que ya empiezan a resultarte m<'a>s
+f<'a>ciles estos puzles? De todas formas,
+si un d<'i>a llegas a un lago helado de
+verdad, al<'e>jate de <'e>l: <<5E>!>son peligrosos!
+!******************************!
+<<5E>!>L<'a>stima!
+!******************************!
+Ve hacia la izquierda cuando te topes
+con el primer muro.
+!******************************!
+Ahora dir<'i>gete hacia la parte superior
+de la pantalla.
+!******************************!
+[n128.dat]
+<0128>Lago resbaladizo 3
+<00><28><24><20><11><4D><1B><80><01><04><04><FF>
+El profesor tiene que cruzar este lago
+helado. El hielo es suficientemente
+grueso como para andar por encima, pero
+tan escurridizo que cualquier movimiento
+que hace el profesor le hace resbalar en
+la direcci<'o>n escogida hasta que llega a
+un muro. Cuando est<'a> parado, puedes
+cambiar la direcci<'o>n en la que se mover<'a>
+tocando las flechas que aparecen a su
+alrededor.
+
+Gu<'i>a al profesor hasta la meta a trav<'e>s
+del lago.
+!******************************!
+<<5E>!>Excelente!
+
+Si el profesor fuera un as del patinaje
+sobre hielo, esto resultar<'i>a mucho m<'a>s
+f<'a>cil, pero <<5E>?>y el puzle que te habr<'i>as
+perdido?
+!******************************!
+<<5E>!>L<'a>stima!
+!******************************!
+Tuerce a la derecha cuando llegues
+al primer muro.
+!******************************!
+Todos estos muros hacen que este puzle
+parezca imposible de resolver, pero
+piensa de esta forma: cuantas m<'a>s
+barreras tengas, m<'a>s opciones puedes
+barajar.
+
+Intenta planificar tus movimientos
+antes de moverte por el hielo.
+!******************************!
+[n129.dat]
+<0129>El topo vago
+<00><28><24><20><11><3D><05><81><EB><03><04><FF>
+Cerca del bosque vive el topo m<'a>s
+vago del mundo. Aunque no le gusta nada
+moverse, de vez en cuando tiene que
+limpiar su madriguera. Sin embargo, como
+es tan vago, quiere que le cueste el menor
+trabajo posible.
+
+<<5E>?>Desde qu<'e> hoyo deber<'i>a empezar a recoger
+la basura si quisiera evitar pasar dos veces
+por el mismo t<'u>nel? Ten en cuenta que puede
+pasar por los cruces de los t<'u>neles tantas
+veces como quiera.
+!******************************!
+<<5E>!>Bien hecho!
+
+Nuestro perezoso amigo tendr<'a> que empezar
+desde el hoyo C. Si empieza desde cualquier
+otro, tendr<'a> que recorrer dos veces uno o
+m<'a>s t<'u>neles.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Si empiezas desde ese hoyo, el topo
+tendr<'a> que recorrer dos veces uno o
+m<'a>s t<'u>neles.
+
+<<5E>?>No te da pena el pobre topillo?
+!******************************!
+Utiliza la funci<'o>n de las notas para
+trazar los diferentes itinerarios que
+podr<'i>a seguir el topo.
+!******************************!
+<<5E>?>Has visto la peque<-n>a intersecci<'o>n de
+dos t<'u>neles que hay sobre el hoyo F?
+Ah<'i> es donde el topo debe acabar su
+recorrido. Encuentra un recorrido que
+le permita concluir su ronda de limpieza
+en ese punto.
+!******************************!
+[n130.dat]
+<0130>Un cuadro extra<-n>o
+<00><1E><1B><18><12><56><05><82><EB><03><04><FF>
+La pareja que aparece bailando en
+este cuadro parece estar flotando
+cerca de la l<'a>mpara como por arte
+de magia. Pero si la miras bien,
+la imagen es completamente normal.
+Obs<'e>rvala atentamente y encontrar<'a>s
+el detalle que hace que resulte tan
+artificial.
+
+Rodea ese detalle.
+!******************************!
+<<5E>!>Bien visto!
+
+Estas dos personas eran las <'u>nicas que
+se ve<'i>an perfectamente en el reflejo del
+suelo. Como puedes ver, la escena del
+cuadro no representa el baile en s<'i>,
+sino el reflejo del suelo de la sala.
+
+Quiz<'a>s los j<'o>venes del cuadro estaban
+tan ensimismados que el pintor no quiso
+molestarlos mientras pintaba el cuadro.
+!******************************!
+<<5E>!>L<'a>stima!
+
+La verdad es que al principio resulta
+dif<'i>cil ver algo raro en esta escena
+tan alegre.
+!******************************!
+En este cuadro hay muchas cosas que te
+pueden llamar la atenci<'o>n, pero <<5E>?>cu<'a>l
+es el detalle m<'a>s extra<-n>o?
+!******************************!
+F<'i>jate bien en la pareja del centro del
+cuadro; la respuesta est<'a> ah<'i>.
+!******************************!
+[n131.dat]
+<0131><^?>C<'o>mo escapar?
+<00><28><24><20><11><54><03><83><E9><03><04><FF>
+Alg<'u>n malhechor ha atado a este se<-n>or y ha
+dejado la cuerda tirada por unos postes.
+Aunque nuestro amigo no puede liberarse
+de sus ataduras, es perfectamente capaz
+de mover las piernas. Sin embargo, parece
+que si intentara escapar, la cuerda se
+quedar<'i>a enganchada en al menos un poste.
+Por suerte, siempre puede tirar de una
+patada los postes que le impiden escapar.
+
+Marca cualquier poste que cumpla esta
+condici<'o>n.
+!******************************!
+<<5E>!>Muy bien!
+
+Si marcas el <'a>rea que forma el interior
+de la cuerda, el puzle resulta mucho m<'a>s
+f<'a>cil. Solo uno de los postes le impide
+escapar, as<'i> que ser<'a> mejor que se d<'e> prisa
+en tirarlo y ponga pies en polvorosa...
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Observa atentamente el recorrido de
+la cuerda por los postes.
+!******************************!
+Tu mejor opci<'o>n es fijarte bien en
+la cuerda y en los postes. Utiliza la
+funci<'o>n de las notas para trazar el
+recorrido de la cuerda entre los postes.
+!******************************!
+A nuestro amigo le bastar<'a> con tirar
+uno de los postes.
+!******************************!
+[n132.dat]
+<0132>Arte compartido
+<00><28><24><20><71><51><02><84><E8><03><04><FF>
+Dos hermanos han heredado la colecci<'o>n
+de arte de sus padres, que comprende
+cinco obras. Seg<'u>n el testamento, el
+hermano mayor debe heredar cuadros por
+valor del doble de lo que herede el
+peque<-n>o. Para conocer el valor real de
+cada cuadro, los hermanos han llamado
+a un tasador, que ha valorado los cuadros
+como se muestra en la imagen de abajo. Le
+pagar<'a>n por sus servicios con el cuadro
+que quede tras dividir la colecci<'o>n seg<'u>n
+los <'u>ltimos deseos de sus padres.
+Los cuadros no se pueden dividir; as<'i>
+pues, <<5E>?>qu<'e> cuadro obtiene el tasador?
+!******************************!
+<<5E>!>Eso es!
+
+El tasador se quedar<'a> con el cuadro E.
+
+El hermano mayor hereda los cuadros A,
+C y D, que valen 120 000 <po> en total.
+El hermano peque<-n>o solo heredar<'a> un
+cuadro por valor de 60 000 <po>, que es
+exactamente la mitad del valor de los
+cuadros del hermano.
+
+Al final, el tasador se queda con el
+cuadro m<'a>s valioso. <<5E>!>Pues s<'i> que le
+ha salido redondo el negocio!
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa los c<'a>lculos una vez m<'a>s.
+!******************************!
+El tasador recibe una buena
+remuneraci<'o>n por sus servicios.
+!******************************!
+Ninguno de los cuadros que recibe el
+hermano mayor vale m<'a>s que uno solo
+de los cuadros que hereda el hermano
+peque<-n>o.
+!******************************!
+[n133.dat]
+<0136>La puerta oculta
+<00><28><24><20><11><53><17><85><FD><03><04><FF>
+<''>De la puerta sale un camino
+que te lleva hasta el final.
+Si tu ingenio no tiene par
+llegar<'a>s sin desatino.
+
+Las estrellas que se ven
+en medio de los cuadrados
+marcan la senda perfecta;
+s<'i>guela con gran cuidado.<''>
+
+Se dice que este acertijo indica la
+posici<'o>n de la puerta oculta. Toca la
+casilla correcta.
+!******************************!
+<<5E>!>Excelente!
+
+Los cuadrados que tienen una estrella
+en el medio forman una flecha que indica
+exactamente d<'o>nde est<'a> la puerta oculta.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Reflexiona un poco sobre las palabras
+del acertijo.
+!******************************!
+<''>De la puerta sale un camino...<''>
+
+La puerta de la que habla el acertijo
+se encuentra en la parte inferior
+derecha de la imagen.
+
+Est<'a> claro que tienes que salir desde
+ah<'i>. <<5E>?>Y despu<'e>s, qu<'e>?
+!******************************!
+<''>Las estrellas que se ven
+en medio de los cuadrados
+marcan la senda perfecta;
+s<'i>guela con gran cuidado.<''>
+
+Dicho de otra manera: las estrellas
+que no se salen de sus cuadrados te
+llevar<'a>n hasta la puerta oculta.
+!******************************!
+[n134.dat]
+<0134>A toda m<'a>quina
+<00><28><24><20><12><57><03><86><54><04><04><FF>
+<<5E>?>Qu<'e> v<'a>lvulas tienes que abrir para
+que el vapor de la caldera llegue solo
+al punto 2 sin que llegue al punto 1 ni
+al punto 3?
+
+Todas las v<'a>lvulas est<'a>n cerradas. Busca
+la soluci<'o>n en la que haya que abrir el
+menor n<'u>mero de v<'a>lvulas posible.
+
+Para abrir o cerrar una v<'a>lvula, t<'o>cala.
+!******************************!
+<<5E>!>Excelente!
+
+Solo tienes que abrir tres v<'a>lvulas para
+que el vapor llegue al punto 2 sin que
+llegue al punto 3 o 1.
+!******************************!
+<<5E>!>Vaya, qu<'e> pena!
+
+<<5E>?>Seguro que no ha llegado parte del
+vapor a los puntos 1 o 3?
+!******************************!
+Una parte de las tuber<'i>as que est<'a>n
+conectadas con el punto 2 tambi<'e>n
+est<'a>n conectadas con los puntos 1 y 3.
+Procura no abrir las v<'a>lvulas que
+dejen pasar el vapor hacia esos puntos.
+!******************************!
+En la soluci<'o>n, el vapor que llega
+al punto 2 sale de la tuber<'i>a del
+medio de las que salen de la caldera.
+!******************************!
+[n135.dat]
+<0137>La espada verdadera
+<00><32><28><1E><11><51><05><87><EB><03><04><FF>
+<''>Un verdadero guerrero siempre tiene la
+espada a mano.<''>
+
+Esto es lo <'u>ltimo que le dice Anthony al
+profesor Layton antes de empezar a
+luchar. <<5E>?>Cu<'a>l es la espada verdadera?
+
+Rod<'e>ala con un c<'i>rculo.
+!******************************!
+<<5E>!>Bien hecho!
+
+<''>Un verdadero guerrero siempre tiene la
+espada a mano.<''>
+
+Estas palabras son una sutil indicaci<'o>n de
+que ninguna de las espadas de la pared es
+aut<'e>ntica. La <'u>nica verdadera es la que
+sostiene la mano de la armadura.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Las palabras de Anthony son una pista.
+<<5E>!>Piensa bien en lo que quieren decir!
+!******************************!
+<<5E>?>Te imaginas al profesor usando una
+espada curva? No le pega mucho,
+<<5E>?>verdad?
+!******************************!
+Las espadas demasiado engalanadas
+no suelen ser muy pr<'a>cticas.
+!******************************!
+[n136.dat]
+<0139>De costa a costa
+<00><46><3F><38><72><01><16><88><F6><03><02><FF>
+Una mujer se sube a un avi<'o>n que sale
+de Los <'A>ngeles a mediod<'i>a y llega a
+Nueva York a las 20:00. Al d<'i>a siguiente,
+sale de Nueva York a mediod<'i>a hacia
+Los <'A>ngeles. El vuelo dura exactamente
+el mismo tiempo que el d<'i>a anterior
+puesto que no le afectan las corrientes.
+Dada la diferencia horaria, en Nueva
+York siempre son tres horas m<'a>s que en
+Los <'A>ngeles. Calcula a qu<'e> hora llegar<'a> el
+avi<'o>n a Los <'A>ngeles. #rEscribe la soluci<'o>n
+con el formato de 24 horas.#x
+!******************************!
+<<5E>!>Bien hecho!
+
+El avi<'o>n llega a Los <'A>ngeles a las 14:00.
+Debido a la diferencia horaria de tres
+horas, cuando es mediod<'i>a en Los <'A>ngeles,
+son las 15:00 en Nueva York. El avi<'o>n
+llega a Nueva York a las 20:00, as<'i> que
+el vuelo dura cinco horas. El vuelo de
+vuelta a Los <'A>ngeles tambi<'e>n dura cinco
+horas, as<'i> que llega a las 17:00 de
+Nueva York. Si restamos la diferencia
+horaria obtenemos la hora de llegada a
+Los <'A>ngeles, las 14:00.
+!******************************!
+<<5E>!>Vaya, qu<'e> pena!
+
+Puede que resulte complejo tener
+en cuenta la diferencia horaria,
+pero es necesario para dar con
+la soluci<'o>n.
+!******************************!
+Piensa en c<'o>mo la Tierra gira sobre su
+propio eje. La hora est<'a> adelantada en
+los lugares que est<'a>n al este con
+respecto a la de los lugares m<'a>s
+occidentales.
+
+Por tanto, si tenemos en cuenta la
+diferencia horaria de tres horas,
+cuando son las 12:00 en Los <'A>ngeles,
+deben ser las 15:00 en Nueva York.
+!******************************!
+Si tienes en cuenta la diferencia
+horaria, el avi<'o>n sali<'o> de Los <'A>ngeles
+a las 15:00 seg<'u>n la hora de Nueva
+York y aterriz<'o> a las 20:00. Es decir,
+el vuelo dur<'o> cinco horas.
+!******************************!
+[n137.dat]
+<0140>Aqu<'i> sobra un bloque
+<00><46><3F><38><11><01><02><89><E8><03><02><FF>
+Este dibujo muestra una estructura
+formada por 28 bloques. 27 de ellos
+forman un cubo, pero hay uno que
+sobresale de la cara superior.
+
+Debajo del dibujo puedes ver 5 figuras
+formadas por los 28 bloques en cuesti<'o>n
+marcadas con las letras de la A a la E.
+<<5E>?>Cu<'a>l de ellas contiene el bloque que
+sobresale del cubo? Toca la respuesta.
+
+Ten en cuenta que las cinco figuras
+encajan perfectamente tal como aparecen
+y no se pueden girar hacia ning<'u>n lado.
+!******************************!
+<<5E>!>Bien visto!
+
+El bloque que sobresale est<'a> en B.
+
+<<5E>?>Te ha costado visualizar c<'o>mo encajan
+las cinco piezas?
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Intenta combinar mentalmente las
+cinco figuras.
+!******************************!
+Si el bloque superior de D fuera el
+que est<'a>s buscando, el bloque de la
+esquina inferior izquierda se saldr<'i>a
+del cubo. Por lo tanto, la respuesta
+correcta no puede ser D.
+
+Recuerda que las figuras aparecen en
+una posici<'o>n fija y no se pueden girar
+hacia ning<'u>n lado.
+!******************************!
+Si el bloque que buscas fuera el que
+sobresale de C, D no encajar<'i>a en la
+estructura final.
+
+Por lo tanto, la respuesta tampoco
+puede ser C.
+!******************************!
+[n138.dat]
+<0141>Desaparici<'o>n 6
+<00><63><58><4D><01><01><1D><8A><02><04><02><FF>
+Como siempre, mueve cualquiera de las
+bolas del tablero cumpliendo estas
+condiciones:
+- Para desplazar una bola, salta sobre otra
+bola situada en un espacio adyacente
+hacia un espacio libre. No puedes
+realizar este movimiento en diagonal.
+- Cuando pases por encima de otra bola,
+esta desaparecer<'a> del tablero.
+- El puzle acaba cuando consigues quedarte
+solo con una bola.
+
+Basta de reglas, ahora prueba t<'u>.
+!******************************!
+<<5E>!>As<'i> se hace!
+!******************************!
+<<5E>!>L<'a>stima!
+!******************************!
+Aqu<'i> tienes que deshacerte de muchas
+bolas, as<'i> que tendr<'a>s que moverte
+bastante. Procura no mover las bolas
+al azar o acabar<'a>s bloque<'a>ndote.
+
+Al moverte, planea bien los saltos e
+intenta que no te queden bolas muy
+separadas del resto.
+!******************************!
+Conforme se vaya reduciendo el n<'u>mero
+de bolas en el tablero, se ir<'a> formando
+una figura que ya has resuelto antes.
+
+Si has llegado hasta aqu<'i>, el resto
+es pan comido.
+!******************************!
+[n139.dat]
+<0142>Vida en fracciones
+<00><3C><36><30><12><01><16><8B><F6><03><03><FF>
+La tumba de un famoso matem<'a>tico contiene
+un curioso epitafio:
+
+<''>Tras pasar 1/6 de mi vida como un ni<-n>o,
+pas<'e> 1/12 como un joven. 1/7 de mi vida
+despu<'e>s me cas<'e>. Cinco a<-n>os despu<'e>s de
+casarme, mi esposa tuvo un hijo, pero
+lamentablemente este ni<-n>o solo vivi<'o> un
+tiempo equivalente a la mitad de mi vida
+antes de dejarnos. Hoy, cuatro a<-n>os
+despu<'e>s de este terrible suceso, yo
+tambi<'e>n abandono este mundo.<''>
+
+<<5E>?>Cu<'a>ntos a<-n>os vivi<'o> el matem<'a>tico?
+!******************************!
+<<5E>!>Muy bien!
+
+El matem<'a>tico vivi<'o> 84 a<-n>os. Si planteas
+el problema como una ecuaci<'o>n de primer
+grado, enseguida dar<'a>s con la soluci<'o>n.
+
+Un dato interesante: se dice que en la
+tumba de Diofanto, un famoso matem<'a>tico
+griego, aparece escrito un acertijo muy
+similar.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Este puzle es bastante complicado. No
+te desanimes y encontrar<'a>s la respuesta.
+!******************************!
+Intenta hacer una ecuaci<'o>n de primer
+grado en la que X corresponda al n<'u>mero
+total de a<-n>os que vivi<'o> el matem<'a>tico.
+!******************************!
+<<5E>?>Prefieres no complicarte con las
+ecuaciones? No te preocupes, tambi<'e>n
+puedes resolver este problema sin ellas.
+
+Si sumas 1/6, 1/12, 1/7 y 1/2 de la
+vida de este gran matem<'a>tico, puedes
+expresar en fracciones los a<-n>os que
+vivi<'o>, menos las partes de cinco y
+cuatro a<-n>os. Puedes dar con la soluci<'o>n
+trabajando solo con estos datos.
+!******************************!
+[n140.dat]
+<0143>Ecuaciones
+<00><3C><36><30><12><01><1A><8C><00><04><03><FF>
+Si en la operaci<'o>n 11 x 11 = 121 sustituyes
+los 1 por A y los 2 por B, obtienes
+AA x AA = ABA.
+
+Una ecuaci<'o>n similar ser<'i>a AA x AA = BBCC.
+<<5E>?>Puedes calcular los valores de A, B y C
+en esta ecuaci<'o>n? Ten en cuenta que los
+valores de A y B pueden no haber cambiado
+con respecto a los del primer ejemplo.
+!******************************!
+<<5E>!>Bien pensado!
+
+88 x 88 = 7744
+
+Estos n<'u>meros encajan perfectamente si
+asignas a A el valor 8, a B el valor
+7 y a C el valor 4.
+
+Puede que al principio las posibilidades
+parecieran ilimitadas, pero cuando te
+das cuenta de que solo unos pocos n<'u>meros
+pueden sustituir a A, todo empieza a
+encajar.
+!******************************!
+<<5E>!>Vaya, qu<'e> pena!
+
+Intenta repasar las cuentas una
+vez m<'a>s.
+!******************************!
+Cada letra representa un n<'u>mero de una
+sola cifra, as<'i> que las posibilidades
+para cada letra son relativamente
+limitadas.
+!******************************!
+Si sopesas todas las posibilidades
+num<'e>ricas para A empezando por los
+n<'u>meros m<'a>s peque<-n>os, encontrar<'a>s
+la respuesta antes de lo que parece.
+Adem<'a>s, si usas una calculadora,
+probar todas las posibilidades no te
+llevar<'a> m<'a>s de un par de minutos.
+
+Pero si puedes, es mejor que intentes
+resolverlo mentalmente.
+!******************************!
+[n141.dat]
+<0144>Supertortitas
+<00><63><58><4D><02><01><0D><05><F3><03><03><FF>
+Aqu<'i> va un puzle delicioso.
+El objetivo es mover esa pila de
+tortitas del plato azul de la izquierda
+al plato rojo de la derecha. Sin embargo,
+tienes que seguir estas normas:
+
+- Solo puedes mover las tortitas de una
+en una.
+- No puedes dejar una tortita sobre
+otra que sea m<'a>s peque<-n>a.
+
+Mueve las tortitas cuanto quieras y no
+dudes en usar el plato de en medio.
+!******************************!
+<<5E>!>Deliciosas!
+
+<<5E>!>Menuda agilidad tienes con el l<'a>piz t<'a>ctil!
+
+Si todav<'i>a no lo has conseguido,
+<<5E>?>por qu<'e> no intentas resolver este
+puzle en 127 pasos?
+!******************************!
+<<5E>!>Qu<'e> pena!
+!******************************!
+Ya hemos revelado el mejor m<'e>todo de
+enfrentarse a este tipo de puzles en
+otras pistas.
+
+Mueve la tortita m<'a>s peque<-n>a al plato
+central y despu<'e>s la siguiente al de
+la derecha. A continuaci<'o>n, coloca la
+peque<-n>a sobre la de la derecha. Coge la
+siguiente de la pila de la izquierda y
+ponla en el plato de en medio. Puedes
+encontrar m<'a>s informaci<'o>n en la pista 2.
+!******************************!
+Cuando hayas hecho todo lo que dec<'i>a la
+pista 1, pon la tortita m<'a>s peque<-n>a en
+el plato de en medio. Despu<'e>s, coloca la
+de la derecha del todo en la pila de la
+izquierda. Ahora coloca la tortita m<'a>s
+peque<-n>a en la pila de la izquierda.
+
+Puedes resolver este puzle repitiendo
+los pasos descritos en estas dos pistas
+con las tortitas m<'a>s grandes, pero
+existen mejores soluciones.
+!******************************!
+[n142.dat]
+<0145>500 perlas
+<00><46><3F><38><12><01><16><8E><F6><03><02><FF>
+Un mago le propone un extra<-n>o reto
+a un viajero.
+
+<''>Hay 500 perlas en esa cueva. Tr<'a>eme
+unas cuantas, pero el n<'u>mero de perlas
+que traigas se debe poder dividir en
+grupos de 2, 3, 4, 5, 6 o 7 y adem<'a>s
+siempre debe sobrar una perla. Si me traes
+ese n<'u>mero de perlas, <<5E>!>puedes qued<'a>rtelas
+todas!<''>
+
+El viajero trae un n<'u>mero de perlas con el
+que no queda una perla despu<'e>s de dividirlas
+en grupos de 4. <<5E>?>Cu<'a>ntas perlas le llev<'o>?
+!******************************!
+<<5E>!>Estupendo! La respuesta es 211 perlas.
+
+La soluci<'o>n debe ser un n<'u>mero del 1 al 500
+divisible entre 2, 3, 5, 6 y 7, m<'a>s 1. Para
+encontrarlo r<'a>pidamente, hay que buscar
+m<'u>ltiplos de 7 y observar cu<'a>les de ellos
+son tambi<'e>n divisibles entre otros n<'u>meros.
+Cualquier n<'u>mero divisible entre 6 tambi<'e>n
+lo es entre 2 y 3, as<'i> que solo tienes que
+comparar los m<'u>ltiplos de 7 con los de 6 y 5.
+Los m<'u>ltiplos de 30 tambi<'e>n lo son de 5 y 6,
+y son m<'a>s f<'a>ciles de ver entre los m<'u>ltiplos
+de 7. Si el viajero hubiera pensado en esto,
+probablemente habr<'i>a tra<'i>do 421 perlas.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Quiz<'a>s este puzle te parezca muy
+complicado, pero si te tomas el
+tiempo necesario para calcularlo
+todo, no es tan dif<'i>cil. Existen
+algunas formas de reducir el
+n<'u>mero de c<'a>lculos que tienes que
+hacer.
+!******************************!
+Intenta simplificar un poco la petici<'o>n
+del mago. Si siempre tiene que quedar
+una perla al dividir el n<'u>mero entre
+los n<'u>meros del 2 al 7, tienes que buscar
+un n<'u>mero divisible entre esos n<'u>meros y
+sumar despu<'e>s uno.
+
+Recuerda, sin embargo, que el n<'u>mero del
+viajero no es divisible entre 4.
+!******************************!
+El n<'u>mero tiene que ser 1 m<'a>s que uno
+divisible entre 2, 3, 5, 6 y 7. Esto
+significa que el n<'u>mero al que tienes
+que sumar 1 es m<'u>ltiplo de estos
+n<'u>meros. Puede parecerte dif<'i>cil, pero
+hay formas de facilitarte la tarea.
+
+El n<'u>mero m<'a>s alto, 7, tendr<'a> el menor
+n<'u>mero de m<'u>ltiplos entre 1 y 500, as<'i>
+que empieza a buscar m<'u>ltiplos de 7 en
+ese rango y comprueba cu<'a>les de ellos
+son divisibles entre los dem<'a>s.
+!******************************!
+[n143.dat]
+<0146>Los <'a>ngulos del cubo
+<00><46><3F><38><12><01><16><8F><F6><03><02><FF>
+En el diagrama que ves aqu<'i> aparecen
+representados los puntos A, B y C, que
+indican el punto central de tres aristas
+del cubo. Como puedes ver, estos puntos
+est<'a>n conectados entre s<'i> por unas l<'i>neas.
+
+<<5E>?>De cu<'a>ntos grados es el <'a>ngulo interno
+ABC en el punto en el que se encuentran
+las l<'i>neas AB y BC?
+!******************************!
+<<5E>!>Correcto!
+
+La respuesta es 120 grados.
+
+Si sigues conectando los puntos centrales
+de las aristas, acabar<'a>s trazando un
+hex<'a>gono regular. Como los <'a>ngulos internos
+de un hex<'a>gono regular siempre miden 120
+grados, la respuesta est<'a> muy clara.
+!******************************!
+<<5E>!>L<'a>stima!
+
+Para resolver este puzle no tendr<'a>s que
+recurrir a complejos c<'a>lculos, sino
+hacerte una imagen mental del problema.
+!******************************!
+No te molestes en hacer c<'a>lculos. Lo
+m<'a>s importante es que visualices la
+imagen en tu mente.
+
+Los tres puntos se encuentran en el
+centro de las aristas de un cubo
+regular.
+!******************************!
+Los tres puntos est<'a>n en el centro de
+las aristas de un cubo regular. Piensa
+en los puntos que podr<'i>a haber en el
+centro del resto de las aristas. <<5E>?>Qu<'e>
+pasar<'i>a si siguieras conectando los
+puntos de esta manera?
+!******************************!
+[n144.dat]
+<0147>Laberinto embrollado
+<00><50><48><40><12><01><19><90><FF><03><02><FF>
+El mapa muestra un laberinto subterr<'a>neo,
+pero est<'a> desordenado, as<'i> que tienes que
+ponerlo en orden de nuevo.
+
+Los segmentos de t<'u>nel de cada pieza
+tienen que coincidir con los de las
+piezas adyacentes. Los <'u>nicos que
+pueden estar orientados hacia fuera
+sin tocar otros segmentos son la salida
+y la meta. Adem<'a>s, ning<'u>n segmento
+puede llevar nunca a un punto sin salida.
+
+Desliza las piezas para resolver el puzle.
+!******************************!
+<<5E>!>Muy bien!
+
+Es f<'a>cil ver qu<'e> piezas hay que conectar
+entre s<'i>, pero lo complicado es colocarlas
+en el lugar adecuado.
+!******************************!
+<<5E>!>L<'a>stima!
+!******************************!
+Lo m<'a>s probable es que mover las piezas
+al azar no te ayude mucho. Piensa d<'o>nde
+colocar las piezas en la cuadr<'i>cula en
+funci<'o>n de los segmentos de los t<'u>neles.
+!******************************!
+La pieza que tienes que conectar al
+inicio del laberinto es el t<'u>nel
+horizontal recto.
+
+Deja libre el cuadro inferior derecho
+del mapa.
+!******************************!
+[n145.dat]
+<0148>Ocho cartas
+<00><46><3F><38><12><01><1A><91><00><04><04><FF>
+Aqu<'i> hay 8 cartas numeradas que se pueden
+usar para hacer dos multiplicaciones
+distintas, de las cuales te damos una.
+<<5E>?>Puedes sacar la otra?
+!******************************!
+<<5E>!>Bien hecho!
+
+La respuesta es 582 x 3 = 1746.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa las cuentas en busca de alg<'u>n
+error de c<'a>lculo.
+!******************************!
+El n<'u>mero de la derecha tiene cuatro
+d<'i>gitos, de los cuales el primero es
+un 1.
+!******************************!
+El <'u>ltimo d<'i>gito de la respuesta es 6.
+!******************************!
+[n146.dat]
+<0149>Ciclo num<'e>rico
+<00><46><3F><38><12><01><16><92><F6><03><04><FF>
+Este ciclo de n<'u>meros sigue un
+patr<'o>n concreto. <<5E>?>Qu<'e> n<'u>mero va en
+el lugar del signo de interrogaci<'o>n?
+!******************************!
+<<5E>!>Eso es!
+
+Es 89. Eleva todos los d<'i>gitos de cada
+n<'u>mero al cuadrado, suma estos valores
+y obtendr<'a>s el siguiente n<'u>mero de la serie.
+!******************************!
+<<5E>!>L<'a>stima!
+
+<<5E>?>No se te ocurre cu<'a>l puede ser
+el patr<'o>n que siguen estos n<'u>meros?
+!******************************!
+Intenta tratar los d<'i>gitos de cada
+n<'u>mero como n<'u>meros independientes.
+!******************************!
+Busca reglas que transformen los
+d<'i>gitos de un n<'u>mero en el siguiente
+de la serie.
+!******************************!
+[n147.dat]
+<0150>Saltos de caballo 4
+<00><63><51><48><02><01><11><93><F7><03><04><FF>
+A ver si puedes darle un paseo por el
+tablero al caballo.
+
+Como puede que sepas, en ajedrez el caballo
+se mueve en forma de L, pero siempre en
+horizontal o en vertical, nunca en diagonal.
+
+Tu tarea es mover el caballo por todo el
+tablero sin pasar dos veces por la misma
+casilla.
+!******************************!
+<<5E>!>Bien hecho!
+!******************************!
+<<5E>!>Qu<'e> pena!
+!******************************!
+Este es un tablero normal de 8 x 8.
+Por lo tanto, te encuentras ante el
+aut<'e>ntico problema del caballo.
+
+Lo sentimos, pero aqu<'i> no hay pistas.
+Intenta sacarlo sin ayuda.
+!******************************!
+En el problema original el caballo tiene
+que acabar en el mismo punto del que
+sali<'o>. Si est<'a>s intentando hacerlo de
+esta manera, es muy importante que
+elijas el primer movimiento con mucho
+cuidado. Usa la funci<'o>n de las notas
+como ayuda visual.
+!******************************!
+[n148.dat]
+<0151>La nota de John
+<00><63><58><4D><72><01><16><94><F6><03><01><FF>
+Cuatro estudiantes hacen un examen de tipo
+test en el que hay 10 preguntas que valen
+10 puntos cada una, as<'i> que el m<'a>ximo
+resultado ser<'i>an 100 puntos. Cada pregunta
+tiene dos posibles respuestas: A o B.
+
+El profesor ha colgado los resultados en
+el tabl<'o>n, tal y como ves m<'a>s abajo, pero
+ha olvidado calcular la nota de John, as<'i>
+que Mary se ofrece a calcularla ella misma
+en funci<'o>n de los resultados de los dem<'a>s.
+<<5E>?>Y t<'u>, sabr<'i>as hacer lo mismo?
+!******************************!
+<<5E>!>Sobresaliente!
+
+Sobresaliente para ti, claro, porque el
+pobre John no ha sacado m<'a>s que 60 puntos.
+
+Bas<'a>ndote en los resultados de los tres
+ex<'a>menes puntuados, deber<'i>as poder sacar
+hasta cuatro posibles plantillas de
+respuestas, pero en todas ellas el
+resultado es siempre el mismo: <<5E>!>John
+ha sacado 60 puntos!
+!******************************!
+<<5E>!>Vaya, qu<'e> pena!
+
+Tienes que eliminar posibilidades,
+porque este puzle es de los dif<'i>ciles.
+!******************************!
+Para resolver este puzle tendr<'a>s que
+averiguar las respuestas correctas de
+las diez preguntas. Para ello, crea
+una plantilla con la posible respuesta
+correcta de cada pregunta, comp<'a>rala
+con los resultados del examen y aj<'u>stala
+para que coincida con la puntuaci<'o>n de
+cada persona. Como Mary acert<'o> siete
+preguntas, deber<'i>as usar sus
+respuestas como base para tu plantilla.
+F<'i>jate bien en las respuestas que
+difieren de las del resto.
+!******************************!
+<<5E>?>Te resulta dif<'i>cil dar con las
+respuestas correctas? Usa el sentido
+com<'u>n. Si los cuatro estudiantes dieron
+la misma respuesta a una pregunta
+determinada, es muy posible que esa
+respuesta sea la correcta, <<5E>?>no?
+!******************************!
+[n149.dat]
+<0152>El torneo de cartas
+<00><50><48><40><12><01><16><95><F6><03><01><FF>
+Un grupo de personas se re<'u>ne para jugar
+un torneo de cartas de todos contra todos.
+Todos los jugadores tienen que enfrentarse
+a cada uno de los dem<'a>s una vez. Sin
+embargo, Monty tiene que irse tras varias
+manos, por lo que no llega a jugar el resto
+del torneo. Se juegan un total de 59 manos.
+<<5E>?>Cu<'a>ntas manos jug<'o> Monty antes de irse?
+
+Ten en cuenta que es un juego de dos
+personas y nadie jug<'o> contra el mismo
+oponente m<'a>s de una vez. Monty fue el
+<'u>nico que no lleg<'o> a jugar todo el torneo.
+!******************************!
+<<5E>!>Buen trabajo!
+
+Monty jug<'o> 4 manos. Primero tienes que
+hallar el n<'u>mero total de manos que se
+habr<'i>an jugado si nadie se hubiera ido.
+Para ello puedes utilizar esta ecuaci<'o>n.
+Si hubieran participado 11 jugadores, se
+habr<'i>an jugado 55 manos, y si hubieran
+participado 12, 66. Como se jugaron 59
+manos, al principio deb<'i>a de haber 12
+jugadores. Si restamos las 59 manos al
+total ideal de 66, est<'a> claro que Monty se
+perdi<'o> 7. Como estaba planeado que cada uno
+jugara 11 manos, Monty solo jug<'o> 4.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Este problema es de c<'a>lculo, pero
+necesitas usar un poco de ingenio.
+!******************************!
+Una buena manera de empezar ser<'i>a
+hacer una ecuaci<'o>n que tenga el n<'u>mero
+de personas y el n<'u>mero de manos como
+variables.
+!******************************!
+Para crear la ecuaci<'o>n del n<'u>mero de
+manos, tendr<'i>as que multiplicar el
+n<'u>mero de jugadores por el n<'u>mero de
+jugadores menos uno y despu<'e>s dividir
+el producto entre dos. Si hubiera habido
+tres jugadores, habr<'i>a habido tres
+manos. Si hubiera habido cuatro
+jugadores, habr<'i>a habido seis manos.
+Dadas las condiciones, puedes suponer
+que si no se hubiera ido nadie, se
+tendr<'i>an que haber jugado al menos
+60 manos.
+!******************************!
+[n150.dat]
+<0153>Fuga definitiva
+<00><63><58><4D><02><01><19><96><FF><03><01><FF>
+Este <'u>ltimo puzle es un juego de fuga:
+tienes que llevar la joya rosa hasta
+el c<'i>rculo de la parte inferior de la
+pantalla.
+
+Es un puzle complicado porque algunas
+de las figuras no son muy comunes, pero
+<<5E>!>pru<'e>balo!
+!******************************!
+<<5E>!>Magn<'i>fico!
+
+Ya dominas el arte de los puzles de fuga.
+Si todav<'i>a no lo has conseguido, <<5E>?>te
+atreves a intentar resolverlo en 78 pasos?
+!******************************!
+<<5E>!>L<'a>stima!
+!******************************!
+Este puzle no tiene una soluci<'o>n f<'a>cil
+de encontrar. Tienes que buscar la
+forma de encajar los distintos bloques
+entre s<'i> y liberar espacio al mismo
+tiempo.
+!******************************!
+Al principio no podr<'a>s sacar la joya
+del hueco superior. Conc<'e>ntrate en
+crear espacio libre para poder moverla
+despu<'e>s. Aqu<'i> tienes una peque<-n>a pista:
+intenta mover la barra amarilla vertical
+hacia la mitad superior del puzle.
+!******************************!
+[n151.dat]
+<0154>
+<00><00><00><00><12><01><16><97><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n152.dat]
+<0155>Limpia la calle
+<00><00><00><00><12><01><19><15><4D><04><02><FF>
+Coloca la basura en el lugar apropiado.
+Usa el l<'a>piz t<'a>ctil para arrastrar los
+bloques hasta que consigas meter la
+basura en el contenedor.
+!******************************!
+<<5E>!>Ahora s<'i> que est<'a> todo limpio!
+
+<<5E>?>A que te sientes mejor?
+!******************************!
+<<5E>!>Vaya, qu<'e> pena!
+!******************************!
+Cuando muevas los bloques, piensa en
+las barras rojas verticales como si
+fueran una sola pieza y mu<'e>velas juntas.
+!******************************!
+
+!******************************!
+[n153.dat]
+<0156>Suma de paneles
+<00><00><00><00><12><01><1A><99><00><04><02><FF>
+Aqu<'i> tienes una suma formada por paneles
+que van de 0 a 9. Sin embargo, hay un
+problemilla: no salen las cuentas.
+
+Mueve los paneles para que la suma sea
+v<'a>lida, pero ten en cuenta que solo se
+aceptar<'a> la respuesta que implique el
+menor n<'u>mero de movimientos.
+!******************************!
+<<5E>!>Muy bien!
+
+Solo tienes que intercambiar el 0 por el 2
+y el 5 por el 6.
+
+Por supuesto, si pudieras rotar los paneles,
+habr<'i>a una soluci<'o>n que requiere incluso
+menos movimientos. <<5E>?>Por qu<'e> no intentas
+encontrarla?
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+<<5E>?>Has cometido un error de c<'a>lculo?
+<<5E>?>O acaso hay una respuesta con
+menos movimientos?
+!******************************!
+Si pudieras hacer todos los movimientos
+que quisieras, habr<'i>a muchas respuestas.
+Lamentablemente, necesitas dar con la
+respuesta que implique menos
+movimientos. Por cierto, solo tienes
+que mover n<'u>meros en las dos columnas
+de la derecha.
+!******************************!
+
+!******************************!
+[n154.dat]
+<0157>
+<00><00><00><00><11><01><16><9A><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n155.dat]
+<0158>Relojes estropeados
+<00><00><00><00><11><01><16><9B><F6><03><02><FF>
+Los dos relojes de la ilustraci<'o>n apuntan
+exactamente a las 12:00. Una hora m<'a>s
+tarde, uno apunta a la 1:01 y el otro a
+las 12:59. En otras palabras, uno adelanta
+y otro atrasa. Si los dos relojes siguen
+funcionando constantemente a este ritmo,
+<<5E>?>cu<'a>ntas horas pasar<'a>n desde el mediod<'i>a
+hasta que vuelvan a marcar la misma hora?
+!******************************!
+<<5E>!>Bien hecho!
+
+Pasar<'a>n 360 horas. Cuando un reloj haya
+perdido seis horas y el otro haya ganado
+otras seis, ambos relojes indicar<'a>n la
+misma hora. La pregunta clave es: <<5E>?>cu<'a>nto
+tarda un reloj que se adelanta o se atrasa
+un minuto en acumular seis horas?
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Cuando ambos relojes indiquen la misma
+hora, <<5E>?>qu<'e> hora crees que ser<'a>?
+!******************************!
+Cuando los dos relojes vuelvan a
+indicar la misma hora, no ser<'a>n las 12
+en punto. En cuanto entiendes esto, solo
+te queda hacer c<'a>lculos.
+!******************************!
+
+!******************************!
+[n156.dat]
+<0159>
+<00><00><00><00><11><01><16><9C><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n157.dat]
+<0160>Corta y recorta
+<00><00><00><00><11><01><09><9D><EF><03><02><FF>
+Aqu<'i> tienes un tabl<'o>n de madera. Tu tarea
+es cortar por las l<'i>neas para crear dos
+piezas que, una vez combinadas, formen
+un nuevo tabl<'o>n de 8 x 8 cuadrados.
+
+Puedes rotar las piezas, pero no puedes
+darles la vuelta.
+!******************************!
+<<5E>!>Perfecto!
+
+Seguro que tu soluci<'o>n es muy similar a esta
+ilustraci<'o>n.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Vuelve a observar atentamente el tabl<'o>n.
+!******************************!
+Los dos cuadrados que sobresalen de
+la derecha forman parte de uno de los
+lados de la pieza final.
+!******************************!
+
+!******************************!
+[n158.dat]
+<0161>Dados apilados
+<00><00><00><00><11><01><16><9E><F6><03><02><FF>
+Observa los dados atentamente. Aunque
+no se puede ver, las caras que se tocan
+entre s<'i> tienen el mismo n<'u>mero. Si esto
+es as<'i>, <<5E>?>qu<'e> n<'u>mero corresponde al signo
+de interrogaci<'o>n?
+
+Por supuesto, todos los dados son
+id<'e>nticos.
+!******************************!
+<<5E>!>As<'i> se hace!
+
+La cara en cuesti<'o>n deber<'i>a ser un uno.
+Tienes que visualizar los n<'u>meros que no
+puedes ver y deducir la posici<'o>n del <'u>ltimo
+dado desde ah<'i>.
+!******************************!
+<<5E>!>Vaya, qu<'e> pena!
+
+Este puzle requiere visualizaci<'o>n
+y deducci<'o>n.
+!******************************!
+Te ayudar<'a> saber que las caras
+opuestas de un dado siempre suman
+siete.
+
+Usa esto como base para tus
+deducciones.
+!******************************!
+
+!******************************!
+[n159.dat]
+<0162>Papel y tijeras
+<00><00><00><00><11><01><16><9F><F6><03><02><FF>
+Imag<'i>nate que coges un cuadrado de papel
+y le cortas las esquinas para obtener el
+mayor c<'i>rculo posible. Lamentablemente,
+enseguida te das cuenta de que en realidad
+necesitabas un cuadrado, as<'i> que le
+cortas las curvas para hacer el mayor
+cuadrado posible. Evidentemente, el
+cuadrado original era un n<'u>mero de veces
+mayor al que tienes ahora. <<5E>?>Qu<'e> n<'u>mero es
+este?
+!******************************!
+<<5E>!>Correcto!
+
+El cuadrado original era el doble de
+grande. Si te fijas en el diagrama,
+es bastante f<'a>cil de ver.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Si no consigues visualizarlo, prueba a
+dibujar un diagrama.
+!******************************!
+La longitud de un lado del cuadrado
+original es igual al di<'a>metro del
+c<'i>rculo que has recortado.
+
+Si recortas el mayor cuadrado posible
+de ese c<'i>rculo, <<5E>?>qu<'e> relaci<'o>n habr<'a>
+entre el di<'a>metro del c<'i>rculo y el
+nuevo cuadrado?
+!******************************!
+
+!******************************!
+[n160.dat]
+<0163>AB + B = BA
+<00><00><00><00><11><01><1C><A0><F6><03><02><FF>
+Vamos a cambiar los n<'u>meros de la
+ecuaci<'o>n 12 + 12 = 24 por letras.
+1 es A, 2 es B y 4 es C. Ahora
+tenemos la ecuaci<'o>n AB + AB = BC.
+
+Pues ahora imag<'i>nate otra ecuaci<'o>n del
+mismo tipo: AB + B = BA, pero en esta
+ecuaci<'o>n las letras pueden tener valores
+diferentes a los del ejemplo.
+
+<<5E>?>Qu<'e> n<'u>meros se corresponden con A y B
+en esta segunda ecuaci<'o>n? Ten en cuenta
+que A y B son dos n<'u>meros diferentes.
+!******************************!
+<<5E>!>Bien hecho!
+
+Si sustituyes la A por un 8 y la B por
+un 9, la ecuaci<'o>n queda as<'i>: 89 + 9 = 98.
+!******************************!
+<<5E>!>L<'a>stima!
+
+P<'a>rate a reflexionar un poco.
+!******************************!
+Si sumas B y B, el <'u>ltimo d<'i>gito del
+resultado tiene que ser A.
+
+Como no existen dos d<'i>gitos que sumen
+m<'a>s de 18, ya sabes que el n<'u>mero que
+ir<'a> en el lugar de las decenas de B + B
+es 1. Solo hay otro valor que tambi<'e>n
+afecta a las decenas en la soluci<'o>n:
+la A en AB + B.
+
+Por lo tanto, A + 1 = B.
+!******************************!
+
+!******************************!
+[n161.dat]
+<0164>El n<'u>mero misterioso
+<00><00><00><00><11><01><16><A1><F6><03><02><FF>
+Los n<'u>meros de este diagrama siguen una
+pauta determinada. De cada par de n<'u>meros
+se extrae el que aparece entre ellos.
+<<5E>?>Qu<'e> n<'u>mero va en la casilla de la
+interrogaci<'o>n?
+
+Este problema sigue una regla absoluta,
+as<'i> que no te compliques la vida pensando
+que hay excepciones.
+!******************************!
+<<5E>!>Muy bien! La respuesta es 16.
+
+La clave es pensar que todos los n<'u>meros
+de las casillas son en realidad d<'i>gitos
+independientes. Una vez que lo enfocas de
+esta manera, solo tienes que sumarlos
+entre s<'i>. As<'i>, 160 y 144 es en realidad
+1 + 6 + 0 + 1 + 4 + 4, que es igual a 16,
+el n<'u>mero que aparece entre ambas casillas.
+
+Al principio puedes pensar que la soluci<'o>n
+es la diferencia que hay entre dos n<'u>meros
+adyacentes, pero hay una casilla en la que
+esa regla no funciona.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Considera todas las posibilidades con
+atenci<'o>n.
+!******************************!
+No, la clave no es restar.
+
+En realidad la soluci<'o>n es sumar.
+!******************************!
+
+!******************************!
+[n162.dat]
+<0165><^!>Rat<'o>n a la fuga!
+<00><00><00><00><01><01><19><A2><FF><03><02><FF>
+Este pobre ratoncito se ha quedado
+dormido y, al despertar, se ha visto
+atrapado por un mont<'o>n de bloques.
+<<5E>?>Sabr<'i>as liberarlo?
+!******************************!
+<<5E>!>Por fin, libre!
+
+Seguro que encontrar<'a> alguna forma de
+agradec<'e>rtelo... Seguro.
+!******************************!
+<<5E>!>L<'a>stima!
+!******************************!
+Baja el bloque verde con forma de
+L bocabajo de la esquina superior
+izquierda al mismo nivel que el bloque
+azul con forma de puerta. Cuando hayas
+despejado el camino, arrastra el bloque
+azul con forma de puerta hacia arriba.
+!******************************!
+
+!******************************!
+[n163.dat]
+<0166>
+<00><00><00><00><11><01><16><A3><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n164.dat]
+<0167>Aves en negativo
+<00><00><00><00><11><01><02><A4><E8><03><02><FF>
+<<5E>!>Ahora toca encontrar las diferencias!
+De los paneles A, B y C, <<5E>?>cu<'a>l es
+id<'e>ntico al de la izquierda?
+
+El panel de la izquierda es una imagen
+en negativo en blanco y negro a la que
+adem<'a>s le hemos dado la vuelta.
+!******************************!
+<<5E>!>Bien visto!
+
+La respuesta es B. A y C tienen algunas
+diferencias, que se destacan aqu<'i>.
+!******************************!
+<<5E>!>L<'a>stima!
+
+Vuelve a mirar las im<'a>genes atentamente.
+!******************************!
+Los ojos de las gallinas.
+
+La direcci<'o>n hacia la que
+miran los pollitos.
+
+F<'i>jate bien en estas cosas...
+!******************************!
+
+!******************************!
+[n165.dat]
+<0168>
+<00><00><00><00><11><01><16><A5><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n166.dat]
+<0169>Guerra territorial
+<00><00><00><00><11><01><05><A6><EB><03><02><FF>
+Tres reyes est<'a>n enfrentados por una
+disputa territorial sobre la superficie
+que ves abajo. Han decidido dividirla
+colore<'a>ndola con rojo, azul y amarillo
+porque son sus colores nacionales. La
+regla para dividir el terreno es que cada
+territorio no puede estar pegado a otro
+del mismo color. Si A es rojo y B es azul,
+<<5E>?>de qu<'e> color es C? Rodea al rey del color
+correspondiente y toca #rListo#x para
+introducir la soluci<'o>n.
+!******************************!
+<<5E>!>Eso es!
+
+Si divides el terreno correctamente,
+C tiene que ser azul.
+!******************************!
+<<5E>!>Vaya, qu<'e> pena!
+
+La <'u>nica forma de resolver un puzle
+de este tipo es poner en pr<'a>ctica
+las instrucciones del enunciado.
+!******************************!
+<<5E>?>Por qu<'e> no marcas los territorios
+con la funci<'o>n de las notas para
+asegurarte de que dos territorios
+lim<'i>trofes no son del mismo color?
+!******************************!
+
+!******************************!
+[n167.dat]
+<0170>Victoria asegurada
+<00><00><00><00><11><01><1A><A7><00><04><02><FF>
+En este juego, cada participante
+mueve una pieza por turno en cualquier
+direcci<'o>n, aunque solo una casilla
+cada vez. El objetivo es colocar en
+l<'i>nea tres piezas del mismo color,
+como en el 3 en raya. En este tablero,
+el jugador de blancas puede hacer un
+movimiento que le dar<'a> la victoria en
+el siguiente turno. Haz ese movimiento
+y toca #rListo#x.
+!******************************!
+<<5E>!>As<'i> se hace!
+
+<<5E>?>Te ha costado mucho ver la respuesta?
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+<<5E>!>Int<'e>ntalo otra vez!
+!******************************!
+Tal y como est<'a>n las piezas, el jugador
+de negras est<'a> a un turno de ganar.
+Si no consigues bloquear su movimiento,
+perder<'a>s de inmediato.
+
+<<5E>?>Ves ya d<'o>nde tiene que ir una de las
+piezas blancas?
+!******************************!
+
+!******************************!
+[n168.dat]
+<0171>El puzle de M<:o>bius
+<00><00><00><00><11><01><02><A8><E8><03><02><FF>
+Si giras una banda de papel y formas
+una anilla con ella, esta anilla tendr<'a>
+una superficie continua. Si empiezas a
+dibujar una l<'i>nea en un lado, al acabar
+habr<'a>s cubierto los dos lados y habr<'a>s
+vuelto al principio. Esta es la famosa
+banda de M<:o>bius.
+
+Ahora bien, si cortas esta l<'i>nea con unas
+tijeras, <<5E>?>qu<'e> forma tendr<'a> el papel: A, B
+o C?
+!******************************!
+<<5E>!>Muy bien!
+
+Tambi<'e>n puede resultar divertido comprobar
+este puzle con papel y tijeras. Al final
+obtienes una anilla muy larga.
+
+Pru<'e>balo y comprueba cu<'a>ntos experimentos
+puedes hacer con esta banda.
+!******************************!
+<<5E>!>Vaya, qu<'e> pena!
+
+Pues ya sabes, si tienes algo de papel,
+unas tijeras y cinta adhesiva por ah<'i>...
+!******************************!
+Al torcer el papel antes de formar
+la anilla, se obtiene un resultado
+completamente diferente que al cortar
+una anilla sin retorcer.
+!******************************!
+
+!******************************!
+[n169.dat]
+<0172>Demasiados puentes
+<00><00><00><00><11><01><02><A9><E8><03><02><FF>
+En este pueblo hay tantos r<'i>os que han
+tenido que construir 12 puentes. Es
+posible llegar a la salida cruzando cada
+puente una sola vez, pero para ello
+tienes que empezar en una posici<'o>n
+determinada. <<5E>?>Qu<'e> letra indica esta
+posici<'o>n?
+!******************************!
+<<5E>!>Correcto!
+
+Tienes que empezar en A. Aqu<'i> te mostramos
+una de las rutas posibles, pero hay otras
+que tambi<'e>n te permiten llegar al final
+cruzando cada puente una sola vez. La
+mejor manera de resolver este puzle es
+trazar una l<'i>nea continua sin levantar el
+l<'a>piz t<'a>ctil.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Intenta seguir otra ruta.
+!******************************!
+La clave est<'a> en fijarse en el n<'u>mero
+de puentes que conectan cada posici<'o>n.
+F<'i>jate bien en este detalle.
+!******************************!
+
+!******************************!
+[n170.dat]
+<0173>Cambio de direcci<'o>n
+<00><00><00><00><31><01><02><AA><E8><03><02><FF>
+Aqu<'i> tenemos un pent<'a>gono equil<'a>tero.
+Tal y como se ve en la figura 1, sobre
+uno de los lados del pent<'a>gono se apoya
+un cuadrado cuyos lados miden lo mismo
+que los del pent<'a>gono. Este cuadrado tiene
+pintada una flecha hacia arriba. Si lo
+giras como en la figura 2, la flecha
+cambia de direcci<'o>n.
+
+Ayud<'a>ndote del diagrama de abajo, averigua
+en qu<'e> direcci<'o>n quedar<'a> la flecha si sigues
+girando el cuadrado hacia la izquierda hasta
+su posici<'o>n original.
+!******************************!
+<<5E>!>Bien hecho!
+
+Este puzle no es muy complicado, pero
+requiere que pienses de forma creativa
+para dar con la soluci<'o>n.
+!******************************!
+<<5E>!>Oh, vaya!
+
+No te desanimes, sigue reflexionando
+y prueba de nuevo.
+!******************************!
+Quiz<'a>s este puzle te parezca dif<'i>cil de
+resolver, pero si sigues el ejemplo y
+visualizas todos los pasos, no es tan
+complicado.
+
+Intenta dibujar cada giro del cuadrado
+con la funci<'o>n de las notas.
+!******************************!
+
+!******************************!
+[n171.dat]
+<0174>Dados en fila
+<00><00><00><00><11><01><02><AB><E8><03><02><FF>
+Aqu<'i> tienes varios dados colocados en
+fila. De las opciones A a D, <<5E>?>cu<'a>l falta
+en el hueco marcado con una interrogaci<'o>n?
+
+Ten en cuenta que todos los dados son
+iguales y que las caras que se tocan
+siempre tienen el mismo n<'u>mero.
+!******************************!
+<<5E>!>Estupendo!
+
+La respuesta correcta es C.
+
+Debes tener en cuenta que los puntos de
+dos caras opuestas de un dado siempre
+suman siete y que todas las caras que se
+tocan tienen un uno o un seis. Una vez
+que sabes esto, solo tienes que usar la
+l<'o>gica para llegar a la conclusi<'o>n correcta.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Repasa la informaci<'o>n de la que dispones
+e int<'e>ntalo de nuevo.
+!******************************!
+<<5E>?>Ves alguna cara con un uno o un seis?
+!******************************!
+
+!******************************!
+[n172.dat]
+<0175>
+<00><00><00><00><11><01><15><AC><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n173.dat]
+<0176>
+<00><00><00><00><11><01><20><AD><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n174.dat]
+<0177>Un rat<'o>n atrapado
+<00><00><00><00><01><01><19><AE><FF><03><02><FF>
+<<5E>!>Oh, no, al parecer, el ratoncito se
+ha vuelto a quedar atrapado! Cuando
+se estaba echando una siestecita,
+los due<-n>os de la casa han colocado
+unos cuantos bloques a su alrededor.
+<<5E>?>Podr<'i>as despejarle el camino?
+!******************************!
+<<5E>!>Libre!
+
+Ya has salvado al ratoncito dos veces.
+Tendr<'i>a que ir buscando un buen queso
+para agradec<'e>rtelo.
+!******************************!
+<<5E>!>L<'a>stima!
+!******************************!
+En este puzle hay mucho espacio libre,
+as<'i> que puede parecerte que ser<'a> f<'a>cil
+mover los bloques, pero despejar el
+camino es sorprendentemente complejo.
+
+Para conseguirlo, tendr<'a>s que hacer
+buen uso de las hendiduras de algunos
+de los bloques. Ah, y procura colocar
+el bloque naranja encima del bloque
+azul de la parte superior de la pantalla.
+!******************************!
+
+!******************************!
+[n175.dat]
+<0178>A paso de hormiga
+<00><00><00><00><11><01><02><AF><E8><03><02><FF>
+La hormiguita de la ilustraci<'o>n se
+encuentra en el punto se<-n>alado por la
+flecha blanca del cubo de alambre. Lo
+que quiere hacer es recorrer todos los
+alambres del cubo sin pasar dos veces por
+el mismo. Para ayudarla, tienes que a<-n>adir
+un solo alambre.
+
+<<5E>?>En qu<'e> parte tendr<'i>as que a<-n>adir el
+alambre para que la hormiga pueda darse
+este paseo? Ten en cuenta que la hormiga
+puede pasar por los v<'e>rtices del cubo
+tantas veces como quiera. Selecciona A,
+B o C para contestar.
+!******************************!
+<<5E>!>Bien hecho!
+
+La respuesta es C.
+
+Este puzle usa una hormiga como ayuda
+visual, pero lo que tienes que hacer en
+realidad es dibujar una forma en tres
+dimensiones de un solo trazo.
+
+El alambre A te permite dibujar el cubo de
+un solo trazo, pero no desde ese punto. B
+tampoco es correcto, ya que la hormiga no
+podr<'i>a completar el cubo independientemente
+de la posici<'o>n de origen.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Observa atentamente los alambres que
+componen el cubo.
+!******************************!
+B<'a>sicamente, lo que tienes que hacer
+es a<-n>adir una l<'i>nea para crear una
+forma tridimensional que puedas
+dibujar de un solo trazo y sin volver
+sobre tus pasos.
+
+Hay dos respuestas que cumplen esta
+condici<'o>n, pero solo una de ellas te
+permite trazar la figura empezando
+desde la flecha blanca.
+!******************************!
+
+!******************************!
+[n176.dat]
+<0179>John y Bill
+<00><00><00><00><71><01><1C><B0><F6><03><02><FF>
+John y Bill est<'a>n hablando en el parque.
+
+-Eh, Bill, dentro de tres a<-n>os, tendr<'a>s
+el doble de a<-n>os de los que yo tengo
+ahora, <<5E>?>verdad? -dice John.
+
+Bill piensa un momento y contesta.
+
+-Pues piensa en esto: cuando tenga el doble
+de a<-n>os que ahora, tendr<'e> el triple de
+los que tienes t<'u> ahora. <<5E>?>No es genial?
+
+<<5E>?>Cu<'a>ntos a<-n>os tienen Bill y John? Ten en
+cuenta que ninguno de ellos tiene a<'u>n 10.
+!******************************!
+<<5E>!>Eso es!
+
+Si John tiene 6 a<-n>os y Bill 9, dentro de
+tres a<-n>os Bill tendr<'a> el doble de la edad
+actual de John y dentro de 9 a<-n>os Bill
+tendr<'a> el triple que John ahora.
+
+Para resolver este puzle podr<'i>as usar
+ecuaciones, pero tambi<'e>n es divertido
+probar simplemente con n<'u>meros.
+
+Para ser solo unos ni<-n>os, John y Bill
+tienen unas conversaciones de lo m<'a>s
+avanzadas.
+!******************************!
+<<5E>!>Vaya, qu<'e> pena!
+
+Los n<'u>meros que acabas de escribir
+no son sus edades.
+!******************************!
+Dado que los ni<-n>os son menores de
+10 a<-n>os, no tendr<'a>s que jugar con
+tantas combinaciones.
+
+No olvides que Bill es el mayor
+de los dos.
+!******************************!
+
+!******************************!
+[n177.dat]
+<0180>
+<00><00><00><00><11><01><03><B1><E9><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n178.dat]
+<0181>Anillas de papel
+<00><00><00><00><11><01><05><B2><EB><03><02><FF>
+Dos trozos de cinta de la misma longitud
+y anchura est<'a>n cortados y pegados en
+forma de anillas. Estas dos anillas est<'a>n
+a su vez pegadas por el punto P tal y como
+se muestra en el diagrama.
+
+Si quisieras cortar las dos anillas por
+las l<'i>neas de puntos, <<5E>?>cu<'a>l de las formas
+de abajo obtendr<'i>as? Rodea la respuesta.
+!******************************!
+<<5E>!>Sorprendente!
+
+La respuesta correcta es D.
+
+Parece imposible, <<5E>?>verdad? <<5E>?>Por qu<'e>
+no lo pruebas?
+!******************************!
+<<5E>!>L<'a>stima!
+
+Este puzle es dif<'i>cil de visualizar.
+!******************************!
+<<5E>?>Te has dado cuenta de que el punto P
+quedar<'i>a dividido en cuatro secciones?
+!******************************!
+
+!******************************!
+[n179.dat]
+<0182>Una f<'o>rmula extensa
+<00><00><00><00><11><01><16><B3><F6><03><02><FF>
+Seguro que ya has visto f<'o>rmulas parecidas
+a la primera en el colegio.
+
+Un d<'i>a, un matem<'a>tico se invent<'o> la
+segunda f<'o>rmula que aparece aqu<'i>. Esta
+f<'o>rmula resta de X todas las letras del
+abecedario y despu<'e>s las multiplica entre
+s<'i>. Como no le cab<'i>a en la pizarra, el
+matem<'a>tico omiti<'o> parte de la f<'o>rmula.
+Poco despu<'e>s, se dio cuenta de que la
+f<'o>rmula siempre daba la misma soluci<'o>n
+independientemente de los n<'u>meros que
+se sustituyeran por cualquiera de las
+letras. <<5E>?>Qu<'e> respuesta es esta?
+!******************************!
+<<5E>!>Muy bien pensado!
+
+Una de las partes ocultas de la f<'o>rmula es
+(X - X), que siempre da cero. <<5E>!>Y, como ya
+sabes, cualquier n<'u>mero multiplicado por
+cero da cero!
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Por supuesto, hay una respuesta muy
+clara que usa la l<'o>gica, as<'i> que no
+te desanimes.
+!******************************!
+Hay algo muy importante en la parte
+omitida de la f<'o>rmula.
+!******************************!
+
+!******************************!
+[n180.dat]
+<0183>La aut<'e>ntica joya
+<00><00><00><00><11><01><16><B4><F6><03><02><FF>
+Esta es una conversaci<'o>n entre dos
+ladrones:
+
+-<<5E>?>C<'o>mo? <<5E>?>Que de todas las joyas del
+escaparate solo una es real?
+
+-Eso es, es la cuarta desde arriba, la
+segunda desde abajo, la tercera desde
+la derecha y la tercera desde la izquierda.
+Esa es la que buscamos.
+
+Suponiendo que las joyas est<'e>n colocadas
+en filas y columnas uniformes, <<5E>?>cu<'a>ntas
+joyas hay en total?
+!******************************!
+<<5E>!>Brillante!
+
+-Eso es, es la cuarta desde arriba, la
+segunda desde abajo, la tercera desde
+la derecha y la tercera desde la izquierda.
+Esa es la que buscamos.
+
+Si trazas un dibujo con esta descripci<'o>n,
+te saldr<'a> algo parecido a esto. En total
+hay cinco filas y cinco columnas, as<'i>
+que hay 25 joyas.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Vuelve a leer la conversaci<'o>n
+de los ladrones una vez m<'a>s.
+!******************************!
+Solo est<'a>s viendo una parte de la
+conversaci<'o>n. Intenta trazar un
+dibujo de la distribuci<'o>n de las joyas.
+!******************************!
+
+!******************************!
+[n181.dat]
+<0184>Pareja con hijos
+<00><00><00><00><71><01><03><B5><E9><03><02><FF>
+Un d<'i>a, dando un paseo, oyes a los vecinos
+hablando de una familia formada por una
+pareja casada, un hijo y una hija.
+
+A: <''>Mary es claramente m<'a>s joven que Dan.<''>
+B: <''>Oye, Mary es mayor que Lisa, <<5E>?>no?<''>
+C: <''>Est<'a> claro que Sam es menor que Dan.<''>
+D: <''>No, Lisa y Sam no son pareja.<''>
+
+De estas cuatro afirmaciones, dos son
+verdaderas y dos son falsas. Intenta
+averiguar cu<'a>les son las verdaderas y
+marca las casillas de las personas casadas.
+!******************************!
+<<5E>!>Correcto!
+
+Sam y Mary son la pareja casada. A y C
+son falsas y B y D son verdaderas.
+
+Para resolver este puzle tienes que ir
+probando una a una las afirmaciones. Si
+B es falsa, A, C y D pueden ser o bien
+falsas o bien verdaderas. Si D es falsa,
+B y C tienen que ser tambi<'e>n falsas.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Intenta comparar todas las posibilidades.
+!******************************!
+Las afirmaciones A y C son falsas.
+!******************************!
+
+!******************************!
+[n182.dat]
+<0185>Error de c<'a>lculo
+<00><00><00><00><11><01><16><B6><F6><03><02><FF>
+A Mike siempre se le han dado fatal las
+matem<'a>ticas. Le han pedido que multiplique
+un n<'u>mero concreto por 9 y que despu<'e>s
+sume 7, pero ha hecho justo lo contrario:
+lo ha multiplicado por 7 y luego ha sumado 9.
+
+Pronto se da cuenta del error y empieza a
+preocuparse, pero cuando intenta volver a
+resolver el problema bien, acaba obteniendo
+el mismo resultado que la primera vez al
+equivocarse. <<5E>?>Cu<'a>l es el #rn<'u>mero#x con el
+que ha empezado?
+!******************************!
+<<5E>!>Bien hecho!
+
+El n<'u>mero que buscabas es 1.
+
+Si haces las cuentas, ver<'a>s que es as<'i>.
+!******************************!
+<<5E>!>Qu<'e> mal!
+
+Esta respuesta no encaja.
+!******************************!
+Intenta escribir una ecuaci<'o>n.
+
+Aunque tambi<'e>n podr<'i>as usar simplemente
+tu intuici<'o>n para adivinar la respuesta...
+!******************************!
+
+!******************************!
+[n183.dat]
+<0186>Tres se<-n>oritas
+<00><00><00><00><51><01><1A><B7><00><04><02><FF>
+<<5E>?>C<'o>mo se llaman estas tres se<-n>oritas?
+A: <''>La chica que tengo al lado es Judy.<''>
+B: <''>Soy Ellie. <<5E>!>Encantada de conocerte!<''>
+C: <''>Esta chica que est<'a> a mi lado se
+llama Anna<''>.
+
+Intenta deducir qui<'e>n es qui<'e>n con estas
+afirmaciones. Por cierto, hay un problema.
+Judy siempre dice la verdad, Ellie miente
+a veces y Anna miente constantemente.
+
+Coloca los paneles de la parte inferior
+de la pantalla frente a las chicas que
+les correspondan.
+!******************************!
+<<5E>!>Muy bien!
+
+A es Ellie, B es Anna y C es Judy. A dice
+que B es Judy, as<'i> que A no puede ser
+nuestra sincera amiga Judy. B dice que ella
+es Ellie, por lo que esta persona tampoco
+puede ser Judy.
+
+Por lo tanto, la <'u>nica que puede ser Judy es
+C, lo que implica que B tiene que ser Anna.
+Por eliminaci<'o>n, A es Ellie.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Reflexiona tranquilamente sobre la
+informaci<'o>n de la que dispones.
+!******************************!
+Las otras dos chicas solo hablan de B.
+<<5E>?>Qui<'e>n puede ser? Recuerda que Judy
+nunca miente.
+!******************************!
+
+!******************************!
+[n184.dat]
+<0187>
+<00><00><00><00><11><01><16><B8><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n185.dat]
+<0188>
+<00><00><00><00><11><01><16><B9><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n186.dat]
+<0189>Un le<'o>n anda suelto
+<00><00><00><00><11><01><05><BA><EB><03><02><FF>
+Un le<'o>n se ha escapado de su jaula en
+el zoo. Al parecer, t<'u>, que te encargabas
+del zoo, te hab<'i>as olvidado de cerrar bien
+la jaula.
+
+Este le<'o>n es un ejemplar muy feroz y t<'u>
+eres la <'u>ltima persona que queda en el
+zoo; rodea el lugar m<'a>s seguro en el que
+puedas refugiarte hasta que alguien venga
+a salvarte.
+!******************************!
+<<5E>!>Bien hecho!
+
+<<5E>!>Lo mejor ser<'a> refugiarse en la jaula del
+le<'o>n! Como t<'u> te encargas del zoo, puedes
+meterte dentro y cerrarla con llave.
+
+Ya que el le<'o>n anda suelto por el zoo, su
+jaula es ahora el lugar m<'a>s seguro para ti.
+!******************************!
+<<5E>!>L<'a>stima!
+
+Intenta reflexionar sobre esto un poco m<'a>s.
+!******************************!
+No busques un lugar en el que el le<'o>n
+no te vaya a encontrar, busca un lugar
+donde el le<'o>n no te pueda atrapar.
+!******************************!
+
+!******************************!
+[n187.dat]
+<0190>
+<00><00><00><00><11><01><05><BB><EB><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n188.dat]
+<0191>Dibujo en negativo
+<00><00><00><00><11><01><02><BC><E8><03><02><FF>
+<<5E>?>Qu<'e> dibujo coincide con el de la esquina
+superior izquierda, A, B o C?
+
+Al dibujo de la esquina superior izquierda
+le hemos dado la vuelta, despu<'e>s hemos
+invertido los colores y finalmente lo
+hemos puesto en blanco y negro.
+!******************************!
+<<5E>!>Bien visto!
+
+La respuesta correcta es B. Las zonas
+se<-n>aladas con un c<'i>rculo en A y C son
+diferentes a las del dibujo en blanco
+y negro.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Observa los dibujos con atenci<'o>n.
+!******************************!
+Observa el centro de cada dibujo.
+
+Lo m<'a>s dif<'i>cil es encontrar diferencias
+en los tri<'a>ngulos del borde. F<'i>jate bien
+en las diferentes tonalidades de gris.
+!******************************!
+
+!******************************!
+[n189.dat]
+<0192>Palos en l<'i>nea
+<00><00><00><00><11><01><0A><BD><50><04><02><FF>
+Aqu<'i> tienes 16 cartas. Hay cuatro de
+cada palo: diamantes, tr<'e>boles, picas y
+corazones. Las cartas est<'a>n dispuestas
+en un <'a>rea de cuatro por cuatro y tres
+de ellas ya se han destapado.
+
+Coloca las cartas restantes de manera que
+haya una carta de cada palo en cada l<'i>nea
+vertical, horizontal y #rdiagonal#x. Toca una
+carta para cambiar de palo.
+!******************************!
+<<5E>!>Correcto!
+
+Al principio tienes que ir un poco a tientas,
+pero a medida que vas colocando las cartas
+todo se va aclarando.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Puede que se te haya pasado algo.
+Observa las cartas con atenci<'o>n y
+ver<'a>s como lo encuentras.
+!******************************!
+Empieza con la carta que hay sobre
+el tr<'e>bol. Como hay un tr<'e>bol debajo,
+un coraz<'o>n en la diagonal y una pica
+a la derecha, tiene que ser un diamante.
+La carta que est<'a> a la izquierda del
+diamante tiene un diamante y una pica
+en la misma fila y un coraz<'o>n justo
+encima, as<'i> que tiene que ser un tr<'e>bol.
+
+Ya tienes tres cartas en la segunda
+fila, as<'i> que la <'u>ltima ha de ser un
+coraz<'o>n. Sigue aplicando este m<'e>todo.
+!******************************!
+
+!******************************!
+[n190.dat]
+<0193>Robot de limpieza
+<00><00><00><00><11><01><05><BE><EB><03><02><FF>
+Los investigadores de un laboratorio
+han dise<-n>ado un robot para que limpie
+la oficina. Como a<'u>n no est<'a> acabado,
+<'u>nicamente se puede programar para que
+gire solo a la izquierda o solo a la
+derecha, aunque tambi<'e>n se pueden
+programar las esquinas donde gira.
+Estos investigadores quieren dise<-n>ar una
+ruta para que el robot limpie todos los
+pasillos, pero no limpie ninguna zona dos
+veces. <<5E>?>Desde d<'o>nde tendr<'i>a que empezar?
+Rodea con un c<'i>rculo la letra correcta.
+Este robot puede pasar por las
+intersecciones un m<'a>ximo de dos veces.
+!******************************!
+<<5E>!>Afirmativo!
+
+El robot comienza desde el punto E y
+ser<'a> necesario programarlo para que
+solo gire hacia la derecha. Tambi<'e>n
+podr<'i>a programarse para que girase
+solo hacia la izquierda empezando
+desde el final de esta ruta. En
+cualquier caso, parece un robot
+muy dif<'i>cil de usar.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+No es posible desde ah<'i>.
+!******************************!
+Prueba todas las rutas que puedas.
+Si aun as<'i> no puedes encontrar la
+soluci<'o>n, busca un lugar diferente
+a los dem<'a>s.
+
+<<5E>!>Ah<'i> es!
+!******************************!
+
+!******************************!
+[n191.dat]
+<0194>Combinaci<'o>n exacta
+<00><00><00><00><11><01><0A><BF><53><04><02><FF>
+Averigua la combinaci<'o>n que abre la caja
+fuerte. Para introducir la soluci<'o>n, usa
+n<'u>meros del 0 a 5, pero no repitas ninguno.
+Las luces que hay al lado de cada fila son la
+clave para descifrar la combinaci<'o>n, ya que
+te indican los n<'u>meros que tiene en com<'u>n
+esa fila con la combinaci<'o>n. Una luz blanca
+indica que hay un n<'u>mero que pertenece a
+la combinaci<'o>n, pero que no est<'a> en la
+posici<'o>n correcta, y una luz naranja indica
+que hay un n<'u>mero correcto en la posici<'o>n
+adecuada. Toca los n<'u>meros de la parte
+inferior de la pantalla para introducir la
+combinaci<'o>n y, despu<'e>s, toca #rListo#x.
+!******************************!
+<<5E>!>Descifrada!
+
+Este puzle es bastante dif<'i>cil, pero
+empieza a ser divertido en cuanto
+te vas acercando a la soluci<'o>n.
+!******************************!
+<<5E>!>L<'a>stima!
+
+Este es bastante complicado...
+!******************************!
+Las luces que hay al lado de la tercera
+fila de n<'u>meros te indican que los
+cuatro d<'i>gitos que buscas son
+3, 1, 0 y 2. Para encontrar el orden
+correcto solo tienes que ir comprobando
+el resto de n<'u>meros, aunque tambi<'e>n
+puedes resolver el puzle probando
+varias respuestas posibles.
+!******************************!
+
+!******************************!
+[n192.dat]
+<0195>
+<00><00><00><00><11><01><02><C0><E8><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n193.dat]
+<0196>
+<00><00><00><00><11><01><16><C1><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n194.dat]
+<0197>Dados asombrosos
+<00><00><00><00><11><01><16><C2><F6><03><02><FF>
+Tenemos dos dados, A y B. En los dibujos
+se ve cada uno de los dados desde dos
+<'a>ngulos diferentes. Quiz<'a>s quien fabric<'o>
+estos dados no ten<'i>a mucha idea, pero el
+caso es que los puntos de cada cara est<'a>n
+distribuidos aleatoriamente. Aqu<'i> puedes
+ver todas las caras, as<'i> que si tiraras
+los dos dados, no podr<'i>as sacar m<'a>s de un
+nueve.
+
+<<5E>?>Cu<'a>l ser<'i>a el n<'u>mero m<'a>s peque<-n>o que
+podr<'i>as sacar? Recuerda que solo cuentan
+los n<'u>meros de los lados que queden hacia
+arriba.
+!******************************!
+<<5E>!>Eso es!
+
+Los dados no tienen por qu<'e> estar
+colocados como en el dibujo. Si los
+pones as<'i>, obtendr<'a>s el m<'i>nimo n<'u>mero
+posible: uno. Por supuesto, es muy
+poco probable que los dados caigan as<'i>...
+!******************************!
+<<5E>!>Vaya, qu<'e> pena!
+
+Piensa en m<'a>s posibilidades.
+!******************************!
+Este puzle tiene truco...
+!******************************!
+
+!******************************!
+[n195.dat]
+<0198>
+<00><00><00><00><11><01><16><C3><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n196.dat]
+<0199>
+<00><00><00><00><11><01><03><C4><E9><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n197.dat]
+<0200>
+<00><00><00><00><11><01><05><C5><EB><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n198.dat]
+<0201>Paneles numerados
+<00><00><00><00><11><01><12><C6><F8><03><02><FF>
+Coloca estos paneles de forma que
+muestren un n<'u>mero divisible entre 43.
+!******************************!
+<<5E>!>Bien pensado!
+
+Cuando te das cuenta de que se le puede
+dar la vuelta al seis para tener un nueve,
+puedes obtener 129.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Ese n<'u>mero no es divisible entre 43.
+!******************************!
+Prueba a colocar los paneles de
+distintas formas, a lo mejor te
+das cuenta de algo.
+!******************************!
+
+!******************************!
+[n199.dat]
+<0202>La ruta del autob<'u>s
+<00><00><00><00><11><01><09><C7><EF><03><02><FF>
+Un autob<'u>s muy grande entra en un pueblo.
+Como las calles del pueblo son tan
+estrechas, solo puede girar en las esquinas
+en las que no hay edificios y adem<'a>s solo
+en la direcci<'o>n que le permite la esquina.
+
+Sabiendo que el autob<'u>s entra por el sur,
+<<5E>?>puedes averiguar la ruta m<'a>s corta que
+debe seguir si quiere salir por el este?
+
+Traza una l<'i>nea desde el punto de partida
+hasta la salida.
+!******************************!
+<<5E>!>Excelente!
+
+Siguiendo las reglas de este puzle, la
+ruta del mapa A es la m<'a>s r<'a>pida.
+
+Sin embargo, en la vida real, los autobuses
+tambi<'e>n pueden ir marcha atr<'a>s, as<'i> que si
+siguiera la ruta del mapa B y diera la curva
+de la esquina marcha atr<'a>s, saldr<'i>a incluso
+antes.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Intenta trazar una ruta diferente.
+!******************************!
+El autob<'u>s tiene que conducir hasta
+encontrar una pared y entonces girar
+a la derecha. Despu<'e>s tiene que seguir
+hasta encontrar otra pared... y el resto
+lo tendr<'a>s que averiguar t<'u>.
+!******************************!
+
+!******************************!
+[n200.dat]
+<0203>
+<00><00><00><00><11><01><16><C8><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n201.dat]
+<0204>
+<00><00><00><00><11><01><16><C9><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n202.dat]
+<0205>
+<00><00><00><00><11><01><15><CA><F6><03><02><FF>
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+[n203.dat]
+<0138>La Caja El<'i>sea
+<00><3C><36><30><12><81><12><CB><55><04><04><FF>
+<''>El sol se alza cuando nos miramos, y cuando
+sople el viento descubrir<'a>s mi interior.<''>
+
+Estas son las palabras que aparecen
+inscritas en la Caja El<'i>sea.
+
+Ahora est<'a> en tus manos abrir la caja y
+resolver el puzle final de la historia.
+!******************************!
+<<5E>!>Maravilloso!
+
+<<5E>?>Qu<'e> dec<'i>a el mensaje que Anthony dej<'o> en
+la caja para su amada?
+
+Por fin ha llegado el momento de descubrirlo.
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Vuelve a leer las palabras de Anthony.
+Te dan toda la informaci<'o>n que necesitas.
+!******************************!
+<''>Cuando nos miramos...<''>
+
+Las dos figuras de la caja no se est<'a>n
+mirando. Puede que haya una manera de
+darles la vuelta.
+!******************************!
+<''>El sol se alza...<''>
+
+El sol de la caja no est<'a> muy alto.
+Una vez que las dos figuras se est<'e>n
+mirando, debes conseguir que se eleve
+en el cielo.
+!******************************!
+[n204.dat]
+<0133>Llave inaccesible
+<00><3C><36><30><01><54><19><CC><FF><03><04><47>
+La llave de la puerta se encuentra
+tras todos esos bloques. <<5E>!>Desl<'i>zala
+hasta la mano del profesor para que
+nuestros amigos puedan escapar!
+!******************************!
+<<5E>!>Bien hecho!
+
+Ahora Luke y el profesor ya pueden escapar
+de la habitaci<'o>n.
+!******************************!
+<<5E>!>L<'a>stima!
+!******************************!
+Antes de ponerte a mover los bloques,
+piensa en qu<'e> tienes que conseguir.
+
+Busca la forma de llevar el bloque
+amarillo al lugar donde est<'a> la llave.
+!******************************!
+Si te parece que te bloqueas, quiz<'a>s
+te parezca m<'a>s f<'a>cil volver a empezar
+desde el principio.
+
+Para empezar, lleva el bloque amarillo
+a la ranura que est<'a> cerca de la mano
+del profesor. Despu<'e>s, mueve el bloque
+cuadrado de la derecha hacia la
+izquierda. Ahora busca la manera de
+mover el bloque amarillo hacia la
+zona superior derecha del puzle.
+!******************************!
+[n205.dat]
+<0135>Cerradura m<'a>gica
+<00><32><2D><28><11><58><1A><CD><00><04><04><FF>
+Parece que esta cerradura es una especie
+de cuadrado m<'a>gico. Para resolverlo
+tienes que colocar los n<'u>meros restantes
+de manera que al sumar los n<'u>meros de cada
+l<'i>nea vertical, horizontal y diagonal
+obtengas la misma cantidad.
+
+<<5E>!>Resuelve el cuadrado m<'a>gico y abre la
+cerradura!
+!******************************!
+<<5E>!>Muy bien!
+
+Si colocas los n<'u>meros en las posiciones
+correctas, los n<'u>meros de cada l<'i>nea suman
+18.
+
+<<5E>!>Y, ahora, escapa!
+!******************************!
+<<5E>!>Qu<'e> pena!
+
+Hay por lo menos una l<'i>nea de n<'u>meros
+que no suma lo mismo que las dem<'a>s.
+!******************************!
+Tu objetivo es que cada l<'i>nea de cuatro
+n<'u>meros sume el mismo n<'u>mero, as<'i> que
+lo primero que tienes que hacer es dar
+con ese n<'u>mero.
+
+Tendr<'a>s que averiguar este n<'u>mero por
+tu cuenta, as<'i> que examina el cuadrado
+hasta que lo encuentres.
+!******************************!
+Por si no te has dado cuenta, hay una
+l<'i>nea diagonal que ya tiene todos los
+n<'u>meros colocados. Si los sumas, te
+dar<'a> un total de 18.
+!******************************!
+[n206.dat]
+<0000>Un extra<-n>o regalo
+<00><00><00><00><01><01><19><CE><FF><03><02><FF>
+Si est<'a>s jugando a este puzle, es porque
+ya debes de haber hecho un viajecito a
+la villa de Saint-Myst<`e>re con Luke y el
+profesor.
+
+Este puzle es un regalo de los habitantes
+de la villa. <<5E>!>Resu<'e>lvelo para descubrir
+una imagen del profesor Layton y Luke
+durante su primera aventura!
+!******************************!
+<<5E>!>Bien hecho!
+
+Esperamos que sigas disfrutando con
+el resto de <''>El profesor Layton y
+la caja de Pandora<''>.
+!******************************!
+<<5E>!>L<'a>stima!
+
+No te rindas, sigue intent<'a>ndolo y
+ver<'a>s como lo resuelves enseguida.
+!******************************!
+Este puzle es una variaci<'o>n del cl<'a>sico
+rompecabezas de 15 piezas que ya habr<'a>s
+visto en las jugueter<'i>as.
+
+No es una versi<'o>n especialmente dif<'i>cil,
+as<'i> que rel<'a>jate y disfruta con este
+puzle.
+!******************************!
+
+!******************************!
