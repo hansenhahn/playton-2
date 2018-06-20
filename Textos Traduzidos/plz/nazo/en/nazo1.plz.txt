@@ -1224,44 +1224,44 @@ na Dica 1 e conte o número de peixes
 dentro da rede. Aí está sua resposta.
 !******************************!
 [n33.dat]
-<0034>Trees on an Old Road
+<0034>Árvores num Velho Caminho
 <00><14><10><0C><12><18><0F><21><F5><03><03><2B>
-The country road you see here is decorated
-with a single straight row of trees, each a
-set distance from its neighbour.
+A estrada rural mostrada aqui é decorada
+com uma fila reta de árvores, cada uma
+plantada a uma distância das árvores
+vizinhas.
 
-Of the five trees labelled A to E, which
-two trees have the greatest distance
-between them?
+Das cinco árvores, nomeadas de A a E, quais
+são as duas que têm a maior distância entre
+elas?
 
-Study the image carefully and draw a line
-between the letters of the two trees
-you've chosen.
+Estude a imagem com cuidado e desenhe
+uma linha conectando as letras das árvores
+escolhidas.
 !******************************!
-That's right!
+Muito bem!
 
-No matter how you look at it, trees A and
-E clearly have the greatest distance
-between them.
+Não importa a maneira com que você olhe,
+as árvores A e E claramente têm a maior
+distância entre elas.
 !******************************!
-Too bad!
+Que pena!
 
-Take another long, careful look at the
-puzzle.
+Dê mais uma boa e cuidadosa olhada neste
+enigma.
 !******************************!
-It's a simple question, so try not to
-overthink it.
+É uma pergunta simples, então não perca
+tempo pensando demais.
 !******************************!
-This puzzle has set a trap for you in
-its wording. There are no outright
-lies, but you will need to read carefully.
+O texto do enigma tem um <''>pega-ratão<''>. 
+Não há mentiras nele, mas é necessário
+lê-lo com cuidado.
 !******************************!
-Just draw a line between the two trees
-with the greatest amount of space
-between them.
+Desenhe uma linha conectando as árvores
+com a maior distância entre elas.
 
-No one ever said you had to choose two
-trees directly adjacent to one another.
+Ninguém falou que você tinha que escolher
+entre duas árvores adjacentes.
 !******************************!
 [n34.dat]
 <0035>Which House Where?
@@ -1344,62 +1344,59 @@ take you deeper into the ground or
 into the snake's den.
 !******************************!
 [n36.dat]
-<0037>World's Best Golfer
+<0037>Maior Golfista do Mundo
 <00><19><16><13><11><19><16><24><F6><03><03><FF>
-A  pro golfer has the amazing ability to
-consistently putt distances of 3, 5, 7 and
-11 metres. Strangely enough, though, those
-are the only distances he can putt.
+Um golfista profissional tem a incrível
+habilidade de tacar a bola à distâncias de
+3, 5, 7 e 11 metros. Contudo, essas são as
+únicas distâncias que ele consegue tacar
+a bola.
 
-Currently, our golfer stands on the green
-with his ball 20 metres from the hole.
-What's the fewest number of strokes he can
-use to get the ball into the hole?
+Neste momente, nosso golfista está a
+20 metros do buraco. Qual o número mínimo
+de tacadas que ele precisa dar para colocar
+a bola no buraco?
 
-Assume that if the ball is hit farther than
-the distance remaining to the hole, it will
-roll over to the other side without going
-into the cup. 
+Não esqueça que se a tacada for muito
+forte, a bola passará por cima do buraco.
 !******************************!
-Good job!
+Bom trabalho!
 
-If our friend the pro golfer putts two
-diagonal shots as shown above, he can
-sink the ball in two shots. No one ever
-said the golfer had to putt directly
-towards the hole, did they?
+Se o nosso amigo golfista der duas tacadas
+diagonais, como mostrado acima, ele pode
+colocar a bola no buraco em duas tacadas.
+Ninguém disse que o golfista deveria sempre
+mirar em direção ao buraco, não é?
 
-Sure, in order to sink the putt using
-the method shown above, he'd need to
-calculate the angle of each shot
-perfectly, but that's probably why they
-call him a pro!
+Claro que, para ele acertar o buraco
+usando o método mostrado acima, ele teria
+que calcular perfeitamente o ângulo de
+cada tacada. Por isso ele é um profissional!
 !******************************!
-Too bad!
+Que pena!
 
-Remember, this is a pro golfer we're talking
-about. He can do some pretty amazing things.
+Lembre-se de que estamos falando de um
+golfista profissional. Ele é certamente
+capaz de fazer tacadas incríveis.
 !******************************!
-The correct solution doesn't involve the
-golfer overshooting the hole.
+A solução correta não envolve muitas
+tacadas.
 !******************************!
-There's no reason our golfing friend
-should have to hit each putt straight
-towards the hole.
+Não há razão para o nosso amigo golfista
+tacar a bola diretamente para o buraco.
 
-Perhaps he could put his ball in a better
-position with a shot that travels
-diagonally.
+Talvez ele possa colocar a bola em uma
+posição melhor com uma tacada
+diagonal.
 !******************************!
-Picture the golfer taking a diagonal
-shot relative to the hole. If he hits the
-ball exactly 11 metres and angles the
-shot so that this first putt puts him
-exactly halfway between his starting
-position and the hole...
+Imagine o golfista dando uma tacada
+diagonal em relação ao buraco. Se ele
+colocar a bola a exatos 11 metros e
+der um efeito na bola para que ela
+caia exatamente na metade do caminho
+entre sua posição inicial e o buraco...
 
-Do you see where this is going?
-
+Você viu aonde queremos chegar?
 !******************************!
 [n37.dat]
 <0038>Four Horses

@@ -94,7 +94,7 @@ retrato do velho
 Duke Herzen.
 !******************************!
 [tobj116.txt]
-Esse pôster é o mais
+Esse é o cartaz mais
 colorido de toda a cidade.
 !******************************!
 [tobj117.txt]
@@ -271,8 +271,8 @@ Esse parterre é um
 primor de beleza.
 !******************************!
 [tobj152.txt]
-Há muitos pôsteres de
-vacas.
+Há muitos cartazes
+de vacas.
 !******************************!
 [tobj153.txt]
 Como um cavalheiro, sinto
@@ -729,7 +729,7 @@ Esse corredor está muito
 bem iluminado e ventilado.
 !******************************!
 [tobj72.txt]
-Uau, não se vê montanhas
+Uau! Não se vê montanhas
 como essas em Londres!
 !******************************!
 [tobj73.txt]
@@ -743,8 +743,8 @@ esses são raros de se ver
 esses dias em Londres.
 !******************************!
 [tobj75.txt]
-A cidade toda está linda
-para o festival!
+A cidade está toda
+arrumada pro festival!
 !******************************!
 [tobj76.txt]
 Oba! Tem ainda mais
@@ -814,7 +814,7 @@ viver em uma casa à
 beira de um lago.
 !******************************!
 [tobj89.txt]
-Uau, a conta de luz desse
+Uau! A conta de luz desse
 lugar deve ser cara pra
 burro!
 !******************************!

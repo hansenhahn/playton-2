@@ -488,7 +488,7 @@ quebrada se espalhar, meu tio vai
 tirar meu couro.<W>
 !------------------------------!
 Opa! Tive uma ideia sagaz!<W> Saca só.
-Vou dar este pedaço de lixo para você.<W>
+Vou dar este pedaço de lixo pra você.<W>
 !------------------------------!
 Pode fazer o que quiser com
 isto, apenas suma com ela, beleza?<W>

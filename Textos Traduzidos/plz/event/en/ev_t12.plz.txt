@@ -1,6 +1,6 @@
 [t12_010_100.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:178>Bom, o trem pediu arrego, então
-paramos aqui pra alguns consertos.<W>
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:178>Bom, o trem pifou, então vamos
+parar aqui pra alguns consertos.<W>
 !------------------------------!
 Temos pelo menos umas três horas
 até a gente poder se mandar, então
@@ -12,13 +12,13 @@ quem sabe que informações podemos
 coletar nesta vila?
 !******************************!
 [t12_025_100.gds]
-<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:69>Ora, Sr. Layton! Está curtindo
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:69>Ora, Sr. Layton! Está aproveitando
 sua estadia aqui em Dropstone?
 !******************************!
 [t12_025_1000.gds]
-<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:96>Decerto. Agora, se me der
-licença, preciso me retirar.
-Tenha um bom dia, Sr. Layton.
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:96>Decerto. Agora, se me der licença,
+preciso me retirar. Tenha um bom dia,
+Sr. Layton.
 !******************************!
 [t12_025_1100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:28>Você também, Sr. Beluga.
@@ -38,14 +38,12 @@ falando, Professor?
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:36>Luke, não tenho a mínima ideia.
 !******************************!
 [t12_025_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:97>É encantador. De vez em quando
-é bom sair da cidade e aproveitar
-o campo.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:97>É encantador! De vez em quando é bom
+sair da cidade e aproveitar o campo.
 !******************************!
 [t12_025_300.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:92>O ar é tão limpo e a brisa é tão
-fresca! Deve ser ótimo morar aqui.
-Ah que inveja!
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:92>O ar é tão limpo e a brisa é tão fresca!
+Deve ser ótimo morar aqui. Que inveja!
 !******************************!
 [t12_025_400.gds]
 <01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:106>É assim que se fala, meu jovem!
@@ -55,7 +53,7 @@ se sentir outro homem.
 [t12_025_500.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:200>E com a vila celebrando cinquenta
 anos hoje, nossa chegada não poderia
-ter sido em melhor hora.<W>
+ser em melhor hora.<W>
 !------------------------------!
 Se bem me lembro, o Molentary
 Express também comemora essa idade
@@ -71,8 +69,8 @@ no festival deste ano.
 !******************************!
 [t12_025_800.gds]
 <01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:102>Bom, já planejamos comemorar
-o aniversário de nossa linha
-num estádio exclusivo em Londres.
+o aniversário da nossa linha em
+um exclusivo estádio em Londres.
 !******************************!
 [t12_025_900.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:99>Verdade?<W> Então não há
@@ -81,16 +79,16 @@ dúvidas de que tal festa estará
 !******************************!
 [t12_030_100.gds]
 <01:0000000F><03:6>shout<03:5>NONE<01:00000003><03:313>Quem diria encontrá-los aqui, felizes
-da vida.<@v>3<W> Quanto a mim? Me expulsaram
-do trem até o conserto terminar.<@v>3<W>
+da vida.<@v>3<W> Quanto a mim? Fui expulsa
+do trem até que o conserto termine.<@v>3<W>
 !------------------------------!
 Se quiserem alguns enigmas para passar
 a hora, deem uma espiadinha na minha
-cabana maravilhosa.<@v>3<W>
+maravilhosa cabana.<@v>3<W>
 !------------------------------!
-Estarei aqui até consertarem o
-trem, então venham aqui sempre que
-tiverem vontade de ler um enigma.
+Estarei aqui até consertarem o trem,
+então venham sempre que tiverem vontade
+de resolver um enigma.
 !******************************!
 [t12_031_100.gds]
 <01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:199>Digo uma coisa, no entanto:
@@ -111,12 +109,11 @@ Molentary Express, mas paramos
 aqui por causa dos reparos.
 !******************************!
 [t12_040_300.gds]
-<01:00000038><03:5>NONE<03:5>NONE<01:00000002><03:86>Se está aqui por causa dos reparos,
-só há um lugar que você pode
-ir, não é?
+<01:00000038><03:5>NONE<03:5>NONE<01:00000002><03:86>Se está aqui por causa dos reparos, só
+há um lugar aonde você pode ir, não é?
 !******************************!
 [t12_040_400.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:38>Só um lugar pra ir?<@s>
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:38>Só um lugar aonde ir?<@s>
 !******************************!
 [t12_040_450.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:23>O que quer dizer, senhor?
@@ -126,17 +123,16 @@ ir, não é?
 alto. Sim, apenas falando sozinho.
 Esqueça isso.<W>
 !------------------------------!
-Aqui, você percebeu o festival
-que está acontecendo hoje, aqui
-em Dropstone?<W>
+Enfim, você percebeu o festival que está
+acontecendo hoje, aqui em Dropstone?<W>
 !------------------------------!
 Hoje marca o quinquagésimo ano
 desde que nossa vila foi fundada.
 Divirta-se pra valer!
 !******************************!
 [t12_050_100.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:360>Tô falando cara, este cantinho
-rural é, tipo, o lugar mais calmo
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:360>Tô falando cara, este pedacinho de
+mato aqui é, tipo, o lugar mais calmo
 da terra.<W>
 !------------------------------!
 Meu ti--digo, meu patrão tá

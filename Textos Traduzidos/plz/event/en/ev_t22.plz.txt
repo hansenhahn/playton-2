@@ -455,7 +455,7 @@ o primeiro lugar?!
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:26>Hmm... Não, estou perplexo.
 !******************************!
 [t22_050_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:32>Olhe pra esse pôster, Professor.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:32>Olhe pra esse cartaz, Professor.
 !******************************!
 [t22_050_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>Sim, sim, bastante adorável, Luke.
