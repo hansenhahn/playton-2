@@ -1057,7 +1057,7 @@ pode-se pensar que não há como entrar ou
 sair desta sala. Contudo, um detalhe suspeito
 dá pistas do que pode ter acontecido aqui.
 
-Olhe às quatro direções e examine a sala
+Olhe as quatro direções e examine a sala
 com atenção. Quando você tiver encontrado
 o detalhe revelador, circule-o com a stylus
 e toque #rEnviar#x. Certifique-se de circular
@@ -1224,7 +1224,7 @@ na Dica 1 e conte o número de peixes
 dentro da rede. Aí está sua resposta.
 !******************************!
 [n33.dat]
-<0034>Árvores num Velho Caminho
+<0034>Árvores em uma Estrada
 <00><14><10><0C><12><18><0F><21><F5><03><03><2B>
 A estrada rural mostrada aqui é decorada
 com uma fila reta de árvores, cada uma
@@ -1264,87 +1264,87 @@ Ninguém falou que você tinha que escolher
 entre duas árvores adjacentes.
 !******************************!
 [n34.dat]
-<0035>Which House Where?
+<0035>Onde Fica Cada Casa?
 <00><1E><1B><18><11><19><0A><22><F0><03><03><FF>
-Below are houses A, B, C and D, each of which
-is a different colour. Decipher each house's
-colour from the following clues.
+Abaixo estão as casas A, B, C e D, cada uma
+com uma cor diferente. Decifre a cor de cada
+casa com as seguintes dicas.
 
-1. The red house is closer to the pine tree
-than the blue house.
-2. The yellow house is closer to the lake
-than the green house.
-3. The green house is closer to the power
-lines than the blue house.
-4. D is either yellow, blue or green.
+1. A casa vermelha é mais próxima do pinheiro
+que a casa azul.
+2. A casa amarela é mais próxima do lago
+que a casa verde.
+3. A casa verde é mais próxima do poste
+de energia que a casa azul.
+4. A casa D ou é amarela, azul ou verde.
 
-Change the colour of each house by
-touching it with the stylus.
+Mude a cor de cada casa tocando-a
+com a stylus.
 !******************************!
-That's right!
+Está certo!
 
-This is one of those puzzles where you
-need to use the given conditions to
-deduce the answer.
+Este é um dos enigmas onde você precisa
+usar as condições dadas para deduzir
+a resposta.
 !******************************!
-Too bad!
+Que pena!
 
-Why not revisit each of those four clues
-and give them another read?
+Por que você não revisita cada uma
+das quatro dicas e dá uma outra lida?
 !******************************!
-If you've read all the clues and are still
-stuck, try starting from the last clue
-and working your way backwards.
+Se você leu todas as dicas e ainda
+estiver preso, tente começar pela
+última pista e descubra de cima pra baixo.
 !******************************!
-The red house is closer to the pine
-tree than the green house.
+A casa vermelha é mais próxima do
+pinheiro que a casa verde.
 !******************************!
-House C is red.
+A casa C é vermelha.
 !******************************!
 [n35.dat]
-<0036>The Trapped Bird
+<0036>O Pássaro Aprisionado
 <00><23><1F><1B><11><18><02><23><E8><03><03><FF>
-Oh, no! Laurel's poor little bird has fallen
-down a long winding hole in the ground!
+Oh, não! O pobre passarinho da Laurel caiu
+em um longo complexo de buracos no chão!
 
-In front of the bird are three paths labelled
-A, B and C. Which tunnel should the bird take
-in order to make it back above ground?
+Na frente do pássaro há três caminhos rotulados
+A, B e C. Qual túnel o pássaro deveria pegar
+para conseguir voltar para cima do solo?
 
 !******************************!
-Very nice!
+Muito legal!
 
-The bird can safely escape her underground
-confines by following tunnel B. Any other
-tunnel will lead her deeper underground
-or into the mouth of a very hungry snake.
+O pássaro pode escapar com segurança de
+seu confim subterrâneo via túnel B. Qualquer
+outro túnel iria levá-la para mais fundo
+do solo ou para a boca de uma cobra faminta.
 !******************************!
-Too bad.
+Que pena.
 
-Carefully trace each path to see where
-they lead.
+Trace cuidadosamente cada caminho para
+ver aonde eles levam.
 !******************************!
-Each tunnel branches off in a number of
-directions, so you may have trouble
-processing everything if you're relying
-on your eyes alone.
+Cada túnel se ramifica para várias
+direções, então você pode ter problemas
+em processar tudo se estiver confiando
+apenas em seus olhos.
 
-Use the stylus and trace each route to
-get a better understanding of each
-tunnel.
+Use a stylus e trace cada rota para
+ter um melhor entendimento de cada
+túnel.
 !******************************!
-The wrong tunnels all split off in a
-number of directions, but the tunnel
-you're looking for will reconverge
-into a single path before it reaches
-the exit.
+Os túneis errados irão se dividir em
+diversas direções, mas o túnel que está
+procurando irá se reconvergir a um
+único caminho antes de alcançar a
+saída.
 !******************************!
-All the paths stemming from tunnel A
-take you deeper into the ground or
-into the snake's den.
+Todos os caminhos originados do túnel
+A irá te levar para mais fundo do
+solo ou para o covil da cobra.
 !******************************!
 [n36.dat]
-<0037>Maior Golfista do Mundo
+<0037>O Maior Golfista do Mundo
 <00><19><16><13><11><19><16><24><F6><03><03><FF>
 Um golfista profissional tem a incrível
 habilidade de tacar a bola à distâncias de
@@ -1352,7 +1352,7 @@ habilidade de tacar a bola à distâncias de
 únicas distâncias que ele consegue tacar
 a bola.
 
-Neste momente, nosso golfista está a
+Neste momento, nosso golfista está a
 20 metros do buraco. Qual o número mínimo
 de tacadas que ele precisa dar para colocar
 a bola no buraco?
@@ -1399,163 +1399,162 @@ entre sua posição inicial e o buraco...
 Você viu aonde queremos chegar?
 !******************************!
 [n37.dat]
-<0038>Four Horses
+<0038>Quatro Cavalos
 <00><23><1F><1B><32><20><16><25><F6><03><03><08>
-You have four horses, all of which travel at
-different speeds. In travelling from point A
-to point B, these horses take one, two, four
-and six hours respectively.
+Você tem quatro cavalos, que galopam em
+velocidades diferentes. Para ir do ponto A
+ao B, os cavalos levam uma, duas, quatro e
+seis horas respectivamente.
 
-One day, you decide to move all your horses
-from point A to point B. However, you can
-only move a maximum of two horses at a time,
-and you need to ride a horse back to
-point A each time you return to move your
-other horses. Knowing you can only move as
-fast as the slowest horse you're travelling
-with, what's the fewest number of hours it
-will take to move all the horses?
+Um dia, você decide mover todos do ponto A
+ao B. Todavia, só é possível levar dois ao
+mesmo tempo, além de precisar voltar com um
+cavalo sempre que for retornar para mover
+os restantes. Sabendo que só pode se mover
+na mesma velocidade do cavalo mais lento
+o qual estiver levando, qual o mínimo de
+tempo possível para se levar todos?
 !******************************!
-That's right!
+Isso mesmo!
 
-To start, take your one- and two-hour
-horses. Then ride your one-hour horse
-back. Next, ride out on your four- and
-six-hour horses, and return on your
-two-hour horse. At this point you've been
-moving horses for 11 hours - three in the
-first excursion, and eight in the next.
+Primeiramente, leve os cavalos de uma e duas
+horas. Depois volte com o cavalo de uma
+hora. Então leve os cavalos de quatro e
+seis horas e volte com o de duas horas.
+Nesse momento você terá movido cavalos
+por onze horas - três na primeira vez e
+oito na segunda.
 
-Now you should be back at point A with your
-one- and two-hour horses. Ride them both
-across to point B to finish the task in 
-13 hours.
+Agora você estará no ponto A com os seus
+cavalos de uma e duas horas. Leve-os até
+o ponto B para terminar tudo em 13 horas.
 !******************************!
-Too bad!
+Que pena!
 
-Think hard about what the puzzle is asking
-you to do.
+Tente pensar direito sobre o que o
+enigma está pedindo para você fazer.
 !******************************!
-When crossing back over from B to A, you
-want to move as quickly as possible, so
-make sure you put yourself in a position
-to cross over to A on the one-hour
-horse when possible.
+Quando você retorna do ponto B ao A,
+é melhor que faça da forma mais rápida
+possível, então certifique-se de
+conseguir voltar ao ponto A no cavalo
+de uma hora sempre que possível.
 
-However, if you always make travelling
-back on your one-hour horse your top
-priority, you may end up wasting time on
-other legs of the journey. Don't assume
-you always need to return from B to A
-on the one-hour horse.
+Todavia, se sempre fizer da viagem de
+volta no cavalo de uma hora como sua
+prioridade máxima, você acabará perdendo
+tempo nas outras pernas. Não pense que
+sempre terá de voltar no cavalo de uma
+hora.
 !******************************!
-In order to move all your horses from
-A to B in the shortest amount of time,
-you'll need to cross over from A to B
-three times and return from B to A
-twice.
+Para conseguir mover todos os cavalos
+do ponto A ao B no menor tempo possível,
+você precisará ir até o ponto B três
+vezes e volta ao ponto A duas vezes.
 
-How do you make the most effective use
-of this limited number of crossings?
+Como você conseguirá usar de maneira
+eficiente esse número limitado de
+travessias?
 !******************************!
-First, bring your one-hour and two-hour
-horses over to B, then return to A on
-your one-hour horse.
+Primeiro, leve os cavalos de uma e duas
+horas ao ponto B e, então, volte ao
+ponto A no seu cavalo de uma hora.
 
-Next, bring your four- and six-hour
-horses over to B and return to A on
-your two-hour horse.
+Em seguida, leve seus cavalos de quatro
+e seis horas até o ponto B e volte ao
+ponto A com o cavalo de duas horas.
 
-This method minimises the overall amount
-of time necessary to move all your
-horses to point B.
+Esse método minimiza o tempo total
+necessário para mover todos os
+seus cavalos ao ponto B.
 !******************************!
 [n38.dat]
-<0039>A Change of Clothes
+<0039>A Troca de Roupas
 <00><1E><1B><18><11><1D><0A><26><4E><04><03><FF>
-A, B and C each started off with shirts and
-trousers of the same colour. A wore red,
-B wore blue, and C wore white. They were
-then blindfolded and swapped items of
-clothing. After they took their blindfolds
-off, here's what they said: 
+A, B e C começaram com suas camisas e calças
+com a mesma cor. A vestia vermelho, B vestia
+azul e C vestia branco. Eles foram então
+vendados e trocaram peças de roupa em si.
+Após eles tirarem suas vendas, foi isso
+o que eles disseram:
 
-A: No one's shirts and trousers match!
-B: It looks like C's the only one of us who
-didn't keep any of his original clothes.
-C: I don't know if like these red trousers.
+A: Ninguém tem a camisa e a calça combinando!
+B: Parece que o C é o único de nós que não
+manteve nenhuma de suas roupas originais.
+C: Não sei se tô gostando dessa calça vermelha.
 
-Touch the people to change their clothing
-and assemble their current outfits.
+Toque nas pessoas para mudar suas roupas
+e deixá-los em seus trajes atuais.
 !******************************!
-Nicely done!
+Com maestria!
 
-You know that C is the only one not wearing
-something from his original outfit, meaning
-he's not wearing anything white. You also
-know he has red trousers, so his shirt must
-be blue.
+Você já sabe que o C é o único que não está
+vestindo algo de suas roupas originais, o
+que significa que ele não está vestindo nada
+branco. Você também deve ter notado que ele
+está usando uma calça vermelha, então sua
+camisa deve ser azul.
 
-Since A and B are each wearing one item of
-their own, you can deduce that A is dressed
-in a red shirt and B in blue trousers. With
-all that settled, all you have to do is place
-your remaining white items in the right
-places and the puzzle is solved.
+Já que A e B estão vestindo um item deles
+mesmos, dá pra deduzir que A está com sua
+camisa vermelha e B de calça azul. Com isso
+decidido, tudo o que se precisa fazer é
+organizar as roupas brancas em seus devidos
+lugares e o enigma assim estará resolvido.
 !******************************!
-Too bad!
+Que pena!
 
-Give it another try and see what develops.
+Tente outra vez pra ver o que acontece.
 !******************************!
-You know that C's wearing red trousers
-and isn't wearing any of the white
-clothes he previously wore, so his shirt
-has to be blue.
+Você sabe que o C está vestindo uma calça
+vermelha e não está vestindo nenhuma das
+roupas brancas que ele vestiu antes, então
+a camisa dele tem que ser azul.
 !******************************!
-Bear in mind that C's the only one of the
-three men not wearing any of the items
-he originally wore.
+Tenha em mente que o C é o único dos três
+homens que não está vestindo nenhuma das
+peças de roupa que ele originalmente vestiu.
 !******************************!
-A and B must both be wearing a single
-piece of clothing, shirt or trousers,
-that they wore previously.
+A e B devem ambos estar vestindo uma
+única peça de roupa, seja camisa ou
+calça, que vestiram anteriormente.
 !******************************!
 [n39.dat]
-<0040>The Patterned Box
+<0040>O Modelo da Caixa
 <00><1E><1B><18><11><17><12><27><F8><03><03><FF>
-The two boxes shown below are actually the
-same box shown from two different angles.
-Using the visible faces as a guide,
-reassemble the pattern of the box by
-placing the tiles into the unfolded view of
-the box.
+As duas caixas mostradas abaixo são na
+verdade a mesma caixa mostrada de dois
+ângulos diferentes. Usando as faces visíveis
+como um guia, remonte o padrão da caixa
+colocando os quadrados na visão desdobrada
+da caixa.
 
-Don't forget, each tile needs to go on in
-the correct place and facing the correct
-direction, so you may need to rotate the
-tiles with your stylus.
+Não se esqueça, cada quadrado precisa ir
+no local correto e encarando a direção
+correta, então você precisará rotacionar
+os quadrados com a sua stylus.
 !******************************!
-Good job!
+Bom trabalho!
 
-Was it hard converting the 3D shape of the
-box into a flat 2D image in your head?
+Foi difícil converter o formato 3D da
+caixa em uma imagem lisa 2D na sua cabeça?
 !******************************!
-Too bad!
+Que pena!
 
-Try to visualise the box when it has been
-unfolded.
+Tente visualizar a caixa quando ela
+estivesse desdobrada.
 !******************************!
-When you start, you only know the
-position and orientation of the spade,
-so work out where the other tiles should
-go by examining the lower box image on
-the left.
+Quando começar, você saberá apenas
+a posição e orientação da espada,
+então trabalhe para descobrir onde os
+outros símbolos deveriam ir examinando
+a imagem da caixa de baixo, na esquerda.
 !******************************!
-The yellow circle goes directly above
-the spade.
+O círculo amarelo vai diretamente
+acima da espada.
 !******************************!
-The green club should be placed above
-the yellow circle.
+O símbolo de paus verde deve ser
+posto acima do círculo amarelo.
 !******************************!
 [n4.dat]
 <0005>A Mala do Luke
@@ -1594,442 +1593,447 @@ O livro vai no canto superior esquerdo.
 O resto é com você.
 !******************************!
 [n40.dat]
-<0041>Cube Halves
+<0041>Metades de um Cubo
 <00><19><14><0F><11><17><05><28><EB><03><03><FF>
-Below are four shapes. Three of the shapes
-form a whole cube when fitted together with
-an identical shape. However, one shape below
-is different in this regard, and doesn't
-form a cube when joined with another
-identical shape.
+Abaixo estão quatro formas. Três delas formam
+um cubo inteiro quando encaixadas juntas
+com outra forma idêntica. Entretanto, uma
+dessas abaixo é diferente nesse aspecto
+e não forma um cubo quando unida com outra
+metade idêntica.
 
-Circle the odd shape out from choices A to
-D below.
+Circule a forma estranha abaixo,
+entre A e D.
 !******************************!
-That's right!
+Correto!
 
-C will not form a cube when joined with
-another identical shape. Some areas of the
-shape are just a little too complex to fit
-together neatly.
+O C não irá formar um cubo quando unido
+com outra forma idêntica. Algumas áreas
+dessa forma são um tanto complexas demais
+para encaixar adequadamente.
 
-Still, with just a few alterations, you could
-probably change that shape into something
-that works, don't you think?
+Mesmo assim, com algumas alterações, você
+poderia provavelmente mudar essa forma em
+algo que funcione, não acha?
 !******************************!
-Too bad!
+Que pena!
 
-Study the shapes carefully and try again.
+Estude as formas cautelosamente e tente
+de novo.
 !******************************!
-B looks like it should fit together with
-its other half quite nicely.
+O B parece que se encaixa com sua outra
+metade bem perfeitamente.
 !******************************!
-D and another identical shape would make
-a fine cube as well.
+O D com sua forma idêntica também faria
+um cubo legal.
 !******************************!
-You're down to two possible answers
-at this point.
+Você está com menos duas alternativas
+possíveis nesse ponto.
 
-Choose the one that seems the least
-likely to fit with its twin.
+Escolha aquela que parece menos provável
+de se encaixar com sua outra metade.
 !******************************!
 [n41.dat]
-<0042>Board Cutter 1
+<0042>Cortando a Tábua 1
 <00><19><16><13><11><1F><09><29><EF><03><03><05>
-Here we have an oddly shaped board.
+Aqui temos uma tábua de formato estranho.
 
-Since this board is rather unwieldy as
-it is, you've decided to cut it into two
-pieces and rejoin these pieces to form a
-square.
+Já que esta tábua tão desconfortável quanto
+parece, você decidiu cortá-la em dois
+pedaços e colar esses pedaços para
+formar um quadrado.
 
-Assuming you aren't allowed to flip either
-of the pieces over once the board is cut,
-where should you make the cut in order to
-make a square out of the pieces?
+Assumindo que não está permitido virar
+nenhum dos pedaços assim que cortar a tábua,
+onde você deveria fazer o corte para criar
+um quadrado com esses pedaços?
 !******************************!
-Excellent!
+Excelente!
 
-Easier than it looks, isn't it?
+É mais fácil do que parece, não?
 !******************************!
-Too bad!
+Que pena!
 
-Are you sure that the way you've split the
-board will allow you to recombine the pieces
-into a square?
+Tem certeza que desse jeito que você
+cortou a tábua o permitirá recombinar
+os pedaços em um quadrado?
 !******************************!
-The final square will be four units tall by
-four units wide.
+O quadrado final será quatro unidades
+de altura e quatro de largura.
 !******************************!
-You have to cut the board in two
-separate places to solve this puzzle.
+Você terá que cortar a tábua em dois
+locais separados para resolver este enigma.
 !******************************!
-Doesn't that area around the hole in the
-board look like a good place to cut?
+Não acha que essa área ao redor do buraco
+da tábua parece ser um bom lugar pra cortar?
 !******************************!
 [n42.dat]
-<0043>Board Cutter 2
+<0043>Cortando a Tábua 2
 <00><1E><16><13><11><1F><0F><2A><F5><03><03><06>
-Well, here we have yet another
-inconveniently-shaped board. This one's
-even more unwieldy than the last, so you
-need to cut it into two pieces that you can
-reassemble to form a rectangle.
+Bem, aqui temos outra tábua de formato bem
+inconveniente. Essa daí é ainda mais
+desconfortável de usar que a última, então
+você precisará cortar em dois pedaços para
+se possa remontar como um retângulo.
 
-Assuming you aren't allowed to flip either of
-the pieces over once the board is cut,
-where should you make the cut in order to
-make a rectangle out of the pieces?
+Assumindo que não está permitido virar
+nenhum dos pedaços assim que cortar a tábua,
+onde você deveria fazer o corte para criar
+um retângulo com esses pedaços?
 !******************************!
-Very nice!
+Muito legal!
 
-Aren't these board-cutting puzzles fun?
+Esses enigmas de cortar tábua não
+são legais?
 !******************************!
-Too bad!
+Que pena!
 
-Give it one more try and see what develops.
+Dê mais uma chance pra ver o que se
+desenvolve.
 !******************************!
-Just like in the first board-cutting
-puzzle, you need to cut the board in two
-places to make a second piece. Don't
-forget, since you'll be combining these
-two pieces into a single rectangle, you
-need to make sure all the little gaps and
-protrusions in your two boards fit
-together snugly.
+Igual o primeiro enigma de cortar tábuas,
+você precisa cortar a tábua em dois
+pedaços para criar uma nova forma.
+Não se esqueça, já que estará combinando
+esses dois pedaços em um retângulo,
+você precisa ter certeza que todas
+lacunas e protusões nas duas tábuas
+irão se encaixar suavemente.
 !******************************!
-After you make your cuts, you won't
-need to rotate either piece to make
-them fit together as a rectangle.
+Após fazer seus cortes, não precisará
+rotacionar nenhum pedaço para fazerem
+se encaixar como um retângulo.
 !******************************!
-One side of the rectangle is four units.
-To make a piece with that length, try
-cutting the board four units above
-or four units below a corner.
+Um lado do retângulo é de quatro unidades.
+Para criar um pedaço dessa largura,
+tente cortar a tábua quatro unidades
+acima ou abaixo de um dos cantos.
 !******************************!
 [n43.dat]
-<0044>Tangled Ropes
+<0044>Cordas Emaranhadas
 <00><19><13><0D><11><20><16><2B><F6><03><03><FF>
-Three loops of rope are tangled together
-with a single red rope that has been tied
-in a very loose knot. Can you work out
-how many of the smaller loops of rope
-would get caught in this knot when the
-red rope is pulled tight from both ends?
+Três laços de corda estão emaranhados juntos
+com uma única corda vermelha que foi
+amarrada em um nó muito solto. Você consegue
+descobrir quantos laços pequenos de corda
+serão pegos nesse nó quando a corda vermelha
+for puxada fortemente em suas extremidades?
 
-Remember, even if a loop passes through
-the knotted part of the red rope now,
-it might fall away when the red rope
-is tightened.
+Lembre-se, mesmo se um laço passar pela
+parte atada da corda vermelha agora,
+poderá cair quando a corda vermelha
+for puxada.
 !******************************!
-Good thinking!
+Bem pensado!
 
-Not a single loop will become truly entangled
-in the knot that forms. When you pull the
-red rope and form a knot, one loop will fall
-away and the other two will hang from the
-red rope, free of the knot.
+Nenhum laço realmente ficará emaranhado no
+nó que será formado. Quando você puxar a
+corda vermelha e fazer um nó, um laço irá
+cair e os outros dois ficarão pendurados
+na corda vermelha, mas livres do nó.
 !******************************!
-Too bad!
+Que pena!
 
-Make sure you examine every detail of the
-picture carefully!
+Tenha certeza de examinar cada
+detalhe da imagem cuidadosamente!
 !******************************!
-Look carefully at the places where
-different loops overlap the red rope.
-Even if they appear to be wrapped
-around each other, they may only be
-piled on top of each other.
+Olhe cuidadosamente nos locais onde
+os laços diferentes sobrepõem-se da
+corda vermelha. Mesmo se parecerem
+enrolados entre si, eles podem apenas
+estar um em cima do outro.
 
-You've probably experienced this
-phenomenon before when untangling
-a mess of cables at home.
+Você já provavelmente experienciou
+este fenômeno antes, quando tentava
+lidar com uma bagunça de cabos em casa.
 
 !******************************!
-Pay special attention to the big loop
-in the red rope, since this is the part
-that will form a knot and and is the key
-to solving this puzzle.
+Preste uma atenção especial no laço maior
+na corda vermelha, já que essa é a parte
+que irá formar um nó e é a chave para
+resolver este enigma.
 
-Try using the Memo Function to trace
-which small loops of rope could become
-caught in the knot in the red rope when
-it is tightened.
+Tente usar a Função Memo para traçar
+quais pequenos laços de corda poderiam
+ser pegos no nó da corda vermelha
+quando ela for puxada.
 !******************************!
-Do you see the yellow loop of rope?
-It may look tangled in with the others,
-but it turns out that when the red rope
-is pulled to make a tight knot, this loop
-will slip free.
+Está vendo aquele laço amarelo? Pode
+parece emaranhado com os outros, mas
+na verdade quando a corda vermelha for
+puxada para fazer um nó apertado, este
+laço irá sair.
 
-Now, is there anything different about
-the other two smaller loops?
+Agora, tem algo de diferente sobre os
+outros dois laços menores?
 !******************************!
 [n44.dat]
-<0045>Baggage Claim
+<0045>Buscando a Bagagem
 <00><1E><1B><18><11><20><19><2C><FF><03><03><FF>
-What rotten luck. While trying to pick up
-your luggage, you find that your bag is at
-the very back of the pile. The porter
-unloading the luggage claims the other
-boxes in the hold have prevented him from
-unloading yours.
+Que terrível sorte. Enquanto estava tentando
+pegar sua bagagem, você descobriu que sua
+bolsa está na parte mais atrás do monte.
+O bagageiro responsável pela descarga
+alegou que as outras caixas o preveniu
+de descarregar a sua.
 
-Use your wits to move all the blocks out
-of the way and reclaim your luggage.
+Use a sua sabedoria para mover os blocos
+para fora do caminho e buscar sua bagagem.
 !******************************!
-Very nice!
+Muito legal!
 
-Be sure to show the porter how you did it
-so that he can get your luggage for you
-next time.
+Tenha certeza de mostrar ao bagageiro como
+você fez para que na próxima vez ele possa
+pegar sua bagagem.
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-There are probably a few boxes you're
-dying to move right off the bat, but if
-they're stuck in place, start by moving
-the blocks you can to free up some
-space.
+Há provavelmente algumas caixas que você
+deve estar cheio de vontade pra tirar
+do caminho, mas se elas estiverem presas
+no lugar, comece movendo os blocos
+possíveis para liberar um pouco de espaço.
 !******************************!
-Start with the two square blocks on
-the left. Moving them up as far as they
-will go should help you clear enough
-space to move one of the rectangular
-red blocks below.
+Comece com os dois blocos quadrados da
+esquerda. Mova-os o mais longe possível
+para ter espaço o suficiente de mover
+um dos blocos vermelhos retangulares
+abaixo.
 !******************************!
-Move one of those green square blocks
-down into the space where your luggage
-will eventually go to help you free up
-some space.
+Abaixe um desses blocos verdes quadrados
+para que haja espaço livre eventualmente
+e para que sua bagagem possa finalmente
+ser movida.
 !******************************!
 [n45.dat]
-<0046>Odd Shape Out
+<0046>Formato Estranho
 <00><14><0F><0A><11><1A><05><2D><EB><03><03><FF>
-You have a box as shown below. Using the
-white cubes as standard units, the box is
-two cubes wide by three cubes long by two
-cubes tall. Two white cubes are permanently
-attached to the floor of the box.
+Você tem uma caixa igual mostrada abaixo.
+Usando os cubos brancos como medida, a
+caixa é dois cubos de altura, três de
+largura e dois de comprimento. Os dois
+cubos brancos estão permanentemente
+anexados no chão da caixa.
 
-Three of the four shapes A to D shown
-below can be placed together in the box
-to fill the box to the top with no gaps.
+Três das quatro formas de A até D mostradas
+abaixo podem ser postas juntas na caixa
+para encher a caixa até o topo sem lacunas.
 
-Find the shape that doesn't fit into the
-box using the conditions described above,
-and circle the letter next to it.
+Descubra a forma que não cabe na caixa
+usando as condições descritas acima e
+circule a letra próxima dela.
 !******************************!
-Sharp thinking!
+Mente bem afiada!
 
-D is the only shape of the four that
-doesn't fit.
+O D é a única forma dos quatro que
+não se encaixa.
 
-Was it hard to visualise the shapes fitting
-into the box?
+Foi difícil de visualizar as formas
+se encaixando na caixa?
 
 !******************************!
-Too bad!
+Que pena!
 
-Give the puzzle another try.
+Tente o enigma outra vez.
 !******************************!
-Think of the box as having a top layer
-and a bottom layer, and consider them
-separately.
+Pense na caixa como se tivesse uma
+camada superiora e outra inferiora e
+considere-as separadamente.
 !******************************!
-Did you notice that shape C fits
-perfectly into the space available on
-the bottom layer of the box?
+Você notou que a forma C se encaixa
+perfeitamente no espaço disponível na
+camada inferiora da caixa?
 !******************************!
-Following the information in Hint 2, all
-you have left to do is find the shapes
-that fill the remaining 2 x 3 cube space
-on the top layer. 
+Seguindo a informação da Dica 2, tudo o
+que você tem que fazer é descobrir as
+formas que completam o espaço de 2 x 3
+cubos na camada superiora.
 !******************************!
 [n46.dat]
-<0047>The Mayoral Election
+<0047>A Eleição para Prefeito
 <00><19><16><13><12><1C><16><2E><F6><03><03><FF>
-Three people at odds with one another are
-running for mayor in the upcoming town
-election. They are all locals of the town,
-which has a voter population of 40.
-In order to win, a candidate must get
-more votes than any other candidate.
+Três pessoas em conflito umas com as outras
+estão concorrendo a prefeito na próxima
+eleição da cidade. Todos são habitantes
+da mesma, que possuem um número de 40
+eleitores. Para vencer, um candidato deve
+conseguir mais votos que todos os demais.
 
-If each of the 40 voters casts a single
-vote and every vote is recognised, what
-is the fewest number of votes a candidate
-needs to secure victory?
+Se cada um dos 40 eleitores votarem e todos
+os votos forem computados, qual o número
+mínimo de votos necessário para um
+candidato ter sua vitória garantida?
 !******************************!
-That's right!
+Isso mesmo!
 
-The winner needs at least 20 votes.
+O vencedor precisa de, pelo menos, 20 votos.
 
-Since each of the candidates dislikes the
-other two, they will probably all vote for
-themselves. 40 votes minus those three
-votes leaves 37 votes. The winner will need
-over half the votes, or 19. Add the winning
-candidate's personal vote to that and you
-get 20 votes. Even if another candidate
-gathered all the remaining 18 votes, that
-wouldn't be enough to overcome the
-candidate with 20 votes. 
+Visto que cada candidato despreza os demais,
+é muito provável que eles votem em si mesmos.
+40 votos menos esse três dá 37 votos.
+O vencedor precisará de metade desses
+votos, ou 19. Somando o voto do próprio
+candidato vencedor a esse valor, tem-se
+20 votos. Mesmo se um outro candidato
+conseguir os demais 18 votos, isso não seria
+o bastante para superar o candidato com
+20 votos.
 !******************************!
-Too bad!
+Que pena!
 
-Think hard about the clues you've been
-given and try again.
+Pense direito sobre as pistas
+dadas e tente novamente.
 !******************************!
-Think about how many votes will be cast
-in the town excluding the three cast by
-the candidates themselves.
+Pense em quantos votos serão efetuados
+na cidade, excluindo aqueles feitos pelos
+próprios candidatos.
 !******************************!
-The three candidates themselves also
-have the right to vote.
+Os três candidatos também podem votar.
 
-Of course, since each of them wants to
-win, you can take it for granted that
-each candidate will vote for themselves.
+Obviamente, já que todos desejam vencer,
+é possível tomar como certo que eles
+irão votar em si mesmos.
 !******************************!
-40 votes minus the three votes cast
-by the candidates leaves you with 37
-votes.
+40 votos menos os três votos feitos
+pelos  candidatos dá 37 votos.
 
-Find the number of votes it takes to
-gain a majority in a pool of 37 voters
-and add one additional vote to that sum
-to get your answer.
+Encontre o número de votos que dá a
+maioria em um conjunto de 37 eleitores
+e some a isso mais um voto para se
+obter a sua resposta.
 !******************************!
 [n47.dat]
-<0048>Who's Mr Anderson?
+<0048>Quem é o Sr. Anderson?
 <00><19><16><13><11><1D><05><2F><EB><03><03><FF>
-<''>I just saw Mr Anderson around here a
-minute ago. He shouldn't be too hard to
-spot, what with that beard and hat. Yup,
-he's a real gentleman, and he always looks
-smart with his cane and that dapper little
-bow tie. Oh, and he doesn't wear glasses,
-in case you're wondering. Look, there he is
-now!<''>
+<''>Acabei de ver o Sr. Anderson por aqui tem
+nem um minuto. Não deve ser difícil achá-lo,
+com aquela barba e aquele chapéu dele.
+Aham, ele é um verdadeiro cavalheiro,
+e sempre parece culto com aquela bengala
+dele e a sua singela e elegante gravata-
+borboleta. Ah, cabe ressaltar que ele não
+usa óculos, se queria saber. Olha lá ele lá!<''>
 
-Using the clues in the above statement, can
-you find and circle Mr Anderson in the
-crowd?
+Usando as pistas dadas na citação acima,
+consegue encontrar e circular o Sr.
+Anderson na multidão?
 !******************************!
-Good eye!
+Olhos de águia!
 
-It looks like the wind tried to carry off
-Mr Anderson's hat!
+Parece que o vento tentou levar o
+chapéu do Sr. Anderson para longe!
 !******************************!
-Too bad!
+Que pena!
 
-Think hard about the clues you've been
-given and try again.
+Pense melhor sobre as pistas que
+lhe foram dadas e tente novamente.
 !******************************!
-Keep in mind that all this information is
-describing Mr Anderson as he was
-<''>a minute ago<''>.
+Tenha em mente que toda essa informação
+descreve o Sr. Anderson como ele estava
+<''>um minuto atrás<''>.
 
-Things can change, so don't rely too
-heavily on the description. 
+As coisas podem mudar, então não
+dependa tanto assim da descrição.
 !******************************!
-The wind in Dropstone seems
-exceptionally strong today.
+O vento na cidade de Dropstone parece
+excepcionalmente forte hoje, não acha?
 !******************************!
-<''>Over there! See the guy chasing after
-his hat? That's him!<''>
+<''>Ali! Está vendo aquele sujeito correndo
+atrás do próprio chapéu? É ele!<''>
 !******************************!
 [n48.dat]
-<0049>A Royal Show-off
+<0049>Ostentação Real
 <00><14><10><0C><11><17><05><30><EB><03><03><FF>
-In a far-off country, there's a king whose
-favourite pastime is showing off the latest
-possessions he's collected. The subjects of
-the kingdom are forbidden from purchasing
-new items until the king has owned them for
-a month or so. Only once he's tired of his
-new purchase can the common folk finally
-buy that item for themselves.
+Em um país muito, muito distante, havia um rei
+cujo passatempo predileto era ostentar as
+suas últimas posses adquiridas. Os súditos
+do reinos eram proibidos de comprar coisas
+novas até que o rei as possui por mais de um
+mês. Somente quando ele estivesse cansado
+de sua nova aquisição que o povo poderia
+finalmente comprar a mesma para si.
 
-However, the other day, the king bought a
-new item that had him all but commanding his
-subjects to buy one as soon as possible.
-Circle that item.
+Todavia, num dado dia, o rei trouxe um novo
+objeto que o obrigou a ordenar aos seus
+súditos a comparem um o quanto antes.
+Circule o objeto.
 !******************************!
-That's correct!
+Resposta exata!
 
-The telephone is the answer. After all, a
-phone isn't much use if there's no one on
-the other end.
+O telefone é a resposta. 
+Afinal, um telefone não é de muita valia se
+não houver alguém do outro lado da linha.
 !******************************!
-Too bad!
+Que pena!
 
-If you wanted to show off your brand new
-purchase, which of these items do you think
-would be the hardest to show off properly?
+Se você quisesse ostentar sua mais nova
+aquisição, qual destes objetos acha que
+seria o mais complicado de se fazer
+devidamente?
 !******************************!
-Who wouldn't want to show off their new
-car or television for a while?
+Quem não iria querer ostentar seu
+novo carro ou televisão um pouco?
 !******************************!
-There's one item in this list that is
-useless unless two or more of the same
-item exist.
+Há um objeto nesta lista que não
+tem utilidade a nõa ser que dois
+ou mais do mesmo existam.
 !******************************!
-The item in question could be in perfect
-working order, but the only way to show
-it off is if you use it as a pair.
+O objeto em questão poderia até estar
+funcionando perfeitamente, mas o único
+jeito de ostentá-lo é se você usá-lo
+com outro do mesmo.
 !******************************!
 [n49.dat]
-<0050>Misinformootion
+<0050>Vacaos
 <00><1E><1B><18><12><1D><03><31><E9><03><03><FF>
-Five cows are grazing at the festival. Two
-of them are Troomoo cows, a breed that only
-tells the truth. The other three are Nowhey
-cows, a different variety that always lies.
-Use the following statements from each cow
-to work out which cows are liars.
-Touch a letter to mark it with an X.
+Cinco vacas estão pastando no festival.
+Duas elas são vacas Vidadi, uma raça que só
+diz a verdade. As outras três são vacas
+Midira, uma variedade diferente que sempre
+mente. Use as seguintes afirmações sobre
+cada vaca para descobrir quais vacas são
+mentirosas. Toque  em uma letra para
+marcá-la com um X.
 
-A: D is a Nowhey. I promise.
-B: Oh no, C isn't a Troomoo cow.
-C: A ain't a Nowhey cow. No way.
-D: E's a Nowhey if I've ever seen one.
-E: B's definitely not a Troomoo.
+A: D é uma Midira. Eu juro.
+B: Ah, não, C não é uma vaca Vidadi.
+C: Ah, mas A não é Midira mesmo. Não, não.
+D: E é uma Midira se eu já tiver visto uma.
+E: B definitivamente não é uma Vidadi.
 !******************************!
-That's right!
+Isso mesmo!
 
-Cows A, C and E are Nowheys. If you assume
-each cow to be a Nowhey or a Troomoo and
-run through each of the cows' statements,
-you'll eventually realise that the only time
-there can be three Nowheys is if they are
-A, C and E.
+As vacas A, C e E são Midira.
+Supondo que cada vaca possa ser 
+uma Midira ou uma Vidadi e passando 
+pelas afirmações de cada vaca, 
+você eventualmente perceberá
+que a única vez que há três
+Midira é quando elas são A, C e E.
 !******************************!
-Too bad!
+Que pena!
 
-Think hard about what the cows said and try
-again.
+Pense melhor sobre o que as vacas
+disseram e tente novamente.
 !******************************!
-Don't overthink this one. Imagine a
-variety of possibilities and try each
-one out.
+Não pense muito nesta.
+Visualize todas as várias possibilidades
+e vá testando cada uma.
 !******************************!
-Assign a breed to a cow and then run
-through all the cows' statements to
-see if they are consistent. You
-should come across the solution soon.
-
+Atribua uma raça a uma vaca e então
+passa por todas as afirmações das
+vacas para verificar se estão
+consistentes. Você uma hora irá se
+deparar com a solução do problema.
 !******************************!
-Let's assume for a moment that cow A
-is a Troomoo. If you assume this to be
-true and go through the statements
-for each cow, you should come to the
-conclusion that you must have three
-Troomoo cows and two Nowheys. Since
-you know that there are two Troomoos
-and three Nowheys, you know that this
-assumption must be incorrect.
+Vamos supor por um momento que a vaca A
+é uma Vidadi. Se fizer isso e passar por
+todas as afirmações de cada vaca, você
+deverá chegar à conclusão de que se faz
+necessário ter três vacas Vidadi e duas
+vacas Midira. Já que você sabe que há
+duas Vidadi e três Midira, sabe também
+que essa suposição está incorreta.
 !******************************!
 [n5.dat]
 <0006>Pilhas de Panquecas 1
@@ -2204,56 +2208,56 @@ O primeiro retrato que você deve remover é
 o de uma garota posicionada às cinco horas.
 !******************************!
 [n53.dat]
-<0054>Painting the Flag
+<0054>Pintando a Bandeira
 <00><19><16><13><12><19><16><35><F6><03><03><FF>
-You have a pristine white flag that you want
-to dye into three sections as shown below.
-You have three dyes.
+Você tem uma bandeira nova que gostaria de
+pintar nas três partes mostradas abaixo.
+Você tem três tintas.
 
-No two adjacent sections of the flag can be
-the same colour, each section can only be
-one colour and you can't change the number
-or size of these sections.
+Duas partes adjacentes da bandeira não
+podem ser da mesma cor, cada parte só pode
+ter uma cor e não pode mudar o número ou
+o tamanho de cada parte.
 
-If you aren't allowed to mix the dyes, how
-many distinct flag designs are possible? 
+Se também não for permitido misturar as tintas,
+quantos modelos de bandeira são possíveis?
 
 !******************************!
-Sharp thinking!
+Bem afiado!
 
-Once you incorporate the white colour of
-the unpainted flag into your designs, you
-actually have four colours you can work
-with. If you assign a colour to the left
-section of the flag and list all designs
-possible, you get a total of nine variations.
+Assim que você incorporar a cor branca da
+bandeira não pintada nas suas possibilidades,
+na verdade terá quatro cores pra trabalhar.
+Se você escolher uma cor na parte da
+esquerda e listar todos os padrões possíveis,
+terá um total de nove variações.
 
-Multiply this number by four, which
-represents the number of colours at your
-disposal, to get the answer: 36 variations.
+Multiplique esse número por quarto, que
+representa o número de cores a sua
+disposição pra ter a resposta: 36 variações.
 !******************************!
-Too bad!
+Que pena!
 
-Give the puzzle another try.
+Tente resolver esse enigma mais uma vez.
 !******************************!
-You have three dyes you can use on the
-flag, but that doesn't mean those are
-the only colours at your disposal.
+Você tem três tintas pra usar na bandeira,
+mas isso não significa que essas são
+as únicas cores à sua disposição.
 !******************************!
-Maybe you've noticed that the white
-colour of the flag's fabric is another
-colour you can use in making your
-designs.
+Talvez você já tenha percebido que a
+cor branca do tecido da bandeira é
+outra cor que você pode usar para
+criar padrões.
 !******************************!
-Adding white to the three dyes you have,
-there are four colours you can use to
-make flag designs.
+Adicionando o branco nas três tintas que
+você tem, haverão quatro cores que serão
+possíveis de usar pra criar a bandeira.
 
-If the left section of your flag is red,
-for example, then combining the other
-two dyes and the flag's own white colour
-in the remaining two sections gives you a
-total of nine distinct designs.
+Se a parte esquerda da sua bandeira for
+vermelha, por exemplo, então combinando
+outras duas cores e a própria cor branca
+da bandeira nas duas partes restantes lhe
+dará um total de nove padrões distintos.
 !******************************!
 [n54.dat]
 <0055>O Colar do Sammy
@@ -2297,257 +2301,259 @@ ligar com as outras pequenas correntes.
 A resposta está mais clara agora?
 !******************************!
 [n55.dat]
-<0056>The Door's Code
+<0056>O Código da Porta
 <00><28><24><20><11><09><1A><37><00><04><02><29>
-In order to pass through this door, Luke
-and Layton must arrange the symbols
-according to the following rules:
+Para conseguir passar por essa porta, Luke
+e Layton devem organizar os símbolos de
+acordo com as seguintes regras:
 
-<60> The star must be next to the moon.
-<60> The X must be second from the top.
-<60> The circle must be somewhere above the
-diamond.
-<60> The moon must be located two places below
-the diamond.
+<->A estrela deve estar próxima da lua.
+<->O X deve ser o segundo de cima.
+<->O círculo deve estar em algum lugar
+acima do diamante.
+<->A lua deve estar localizada duas casas
+abaixo do diamante.
 
-Give it a shot!
+Dê um palpite!
 !******************************!
-You're in!
+Pode entrar!
 
-Good job cracking that code!
+Bom trabalho descobrindo o código!
 !******************************!
-Too bad!
+Que pena!
 
-Look over the puzzle one more time.
+Veja o enigma mais uma vez.
 
 !******************************!
-<''>The X must be second from the top.<''>
+<''>O X deve ser o segundo de cima.<''>
 
-As you know exactly where the X should
-go, start by placing this symbol. Once
-this is done, move on to the other
-conditions.
+Como você sabe exatamente onde o X deve
+ir, comece colocando esse símbolo. Assim
+que isso for feito, siga para as próximas
+condições.
 !******************************!
-<''>The moon must be located two places
-below the diamond.<''>
+<''>A lua deve estar localizada duas casas
+abaixo do diamante.<''>
 
-If the moon is two places below the
-diamond, then the diamond must be in
-one of the top three spots. X already
-occupies the second spot, so the
-diamond is in either the first or
-third space from the top.
+Se a lua estiver duas casas abaixo do
+diamante, então o diamante deve estar
+em um dos três espaços de cima. O X já
+ocupa o segundo espaço, então o diamante
+ou está no primeiro ou no terceiro
+espaço de cima.
 !******************************!
-<''>The circle must be somewhere above
-the diamond.<''>
+<''>O círculo deve estar em algum lugar
+acima do diamante.<''>
 
-If you combine the above statement
-with the information from Hint 2,
-it's clear that the only place you
-can put the diamond is the third
-spot from the top. Once you've placed
-the diamond, you should have enough
-symbols in place to solve the rest
-of the puzzle easily. 
+Se você combinar a declaração de cima
+com a informação da Dica 2, estará
+claro que o único lugar que você
+pode colocar o diamante é no terceiro
+espaço de cima. Assim que colocar o
+diamante, você terá símbolos o
+suficiente para resolver o resto desse
+enigma facilmente.
 !******************************!
 [n56.dat]
-<0057>Smell the Roses
+<0057>Cheire as Rosas
 <00><1E><1B><18><11><0D><18><38><FE><03><02><FF>
-Ah, there's nothing like freshly-cut roses
-to boost your spirits. Can you help Sammy
-freshen up the whole carriage with their
-fragrance?
+Ah, não há nada como uma rosa
+recém-cortada para te revigorar.
+Consegue ajudar Sammy a refrescar
+toda a carruagem com a fragrância?
 
-Touch a square with your stylus to place a
-rose. The fragrance of each rose reaches
-two squares in all directions, but can't
-penetrate walls. If the fragrance of two or
-more roses overlap, the resulting smell will
-be overpowering, so make sure to keep your
-roses spaced out. Touch an existing rose
-to remove it.
+Toque em quadrado com sua canetinha para
+colocar uma rosa. A fragrância de cada rosa
+chega a até dois quadrados em cada direção,
+mas não atravessa paredes. Se a fragrância
+de duas ou mais rosas se sobreporem, o
+cheiro resultante será insuportável, então
+certifique-se de deixar as rosas espaçadas.
+Toque em uma rosa existente para removê-la.
 !******************************!
-Well done!
+Muito bem!
 
-Five roses were just enough to freshen up
-the carriage.
+Cinco rosas foram o suficiente 
+para refrescar a carruagem.
 !******************************!
-Too bad!
+Que pena!
 
-Did you make sure to space those roses far
-enough apart to keep their scents from
-overlapping?
+Certificou-se de deixar espaço entre
+as rosas de modo que os aromas de cada
+rosa não se sobrepusessem?
 !******************************!
-Here's a handy hint.
+Aqui vai uma dica útil.
 
-Start from the corners of the carriage.
+Comece pelos cantos da carruagem.
 !******************************!
-Place a rose in the bottom-right corner
-of the carriage, then think about where
-everything else needs to go.
+Coloque a rosa no canto inferior direito
+da carruagem, e então pense em onde
+o restante deve ficar.
 !******************************!
-To solve this puzzle, you need to put
-roses in five different spots.
+Para resolver este enigma,
+você deve pôr as rosas em
+cinco lugares diferentes.
 !******************************!
 [n57.dat]
-<0058>In the Tunnel
+<0058>No Túnel
 <00><23><1F><1B><12><0D><19><39><FF><03><02><2D>
-Two trains pass in the darkness of the long
-tunnel. Move them around so that each
-locomotive ends up on the opposing track
-while keeping its carriages in the same
-order. The only carriages that don't need
-to end up on the opposing track are the
-number 2 carriages of both trains.
+Dois trens passam na escuridão do longo
+túnel. Mova-os de modo que cada locomotiva
+acabe no trilho oposto, enquanto mantém
+seus vagões na mesma ordem. Os únicos
+vagões que não precisam ficar no trilho
+oposto são os de número 2 de ambos os
+trens.
 !******************************!
-That's right!
+Isso mesmo!
 
-The two trains speed off into the darkness,
-each carrying the number 2 carriage of the
-other...
+Os dois trens aceleraram no escuro,
+cada um transportando o vagão
+número 2 do outro...
 !******************************!
-Too bad!
+Que pena!
 
-Give the puzzle another try.
+Tente resolver o enigma de novo.
 !******************************!
-To start, try to get all the carriages
-going to the top track into their
-designated positions before worrying
-about the ones headed to the bottom
-track.
+Para começar, tente fazer com que todos
+os vagões vão para o trilho superior em
+sua posições designadas antes de se
+preocupar sobre os que foram para o
+trilho inferior.
 !******************************!
-Move the first red carriage to the side
-track that sits between the top and
-bottom tracks, then bring down all of
-the carriages from the top track.
+Mova o primeiro vagão vermelho para o
+trilho secundário, que fica entre o
+superior e o inferior e, em seguida,
+traga todos os do trilho superior.
 
-Now move that red carriage up into
-its designated spot on the top track.
+Agora mova o vagão vermelho para o
+seu local designado no trilho superior.
 !******************************!
-You can use the procedure detailed in
-Hint 2 to move any carriage from the
-bottom track to the top track. Just
-move the carriage of your choice into
-the side track and move all the
-carriages that are blocking your path
-to the top track out of the way. Then
-it's just a simple matter of bringing
-each carriage out of the side track and
-up into its designated position.
+Você pode usar o procedimento detalhado
+na Dica 2 para mover qualquer vagão do
+trilho inferior para o trilho superior.
+Mova o vagão de sua escolha para o trilho
+secundário e depois retire todos os
+vagões que estão bloqueando seu caminho
+ao trilho superior. Após isso, é mera
+questão de trazer todos os vagões do
+trilho secundário para o local designado.
 !******************************!
 [n58.dat]
-<0059>A Ticket to Where?
+<0059>Um Bilhete para Onde?
 <00><28><24><20><11><0D><16><3A><F6><03><02><FF>
-In front of you is the ticket that Layton
-and Luke found in Dr Schrader's flat.
-At first glance, the ticket appears to have
-no destination written on it. But when you
-look at it in just the right way, the ticket
-discloses its destination: the town of
-Folsense. The key to spotting the
-destination is the #rnumber#x that has been
-cut out of the ticket. Can you work out
-which number must have been there?
+À sua frente está o bilhete que Layton
+e Luke acharam no apartamento do Dr.
+Schrader. À primeira vista, o bilhete parece
+não tem um destino escrito nele. Mas quando
+se olha da forma certa, o bilhete informa o
+seu destino: a cidade de Folsense. A chave
+para identificar o destino é o #rnumber#x 
+que foi cortado do bilhete. Consegue
+descobrir o número que estava nele?
 
-Use the ticket in the instruction booklet to
-puzzle this one out!
+Use o bilhete no livreto de instruções
+para resolver este enigma!
 !******************************!
-Excellent!
+Excelente!
 
-The missing number is 2.
+O número cortado era o 2.
 
-If you fold the ticket as shown and line up
-the two sets of numbers, they form letters
-that spell out the word <''>FOLSENSE<''>.
-It looks like the ticket's destination was
-there all along!
+Se você dobrar o bilhete conforme
+demonstrado e alinhar os dois
+conjuntos de números, eles formam
+letras que compõem a palavra <''>FOLSENSE<''>.
+Parece que o destino do bilhete estava
+lá o tempo todo, só você não viu!
 !******************************!
-Too bad!
+Que pena!
 
-To solve this puzzle you'll need to do
-something to the ticket that allows you to
-connect the two rows of numbers in some
-fashion.
+Para resolver este enigma,
+você precisará fazer algo
+com o bilhete que permita
+ligar os dois conjuntos de
+números de alguma maneira.
 !******************************!
-To find the answer, you have to fold the
-ticket in a particular way.
+Para encontrar a resposta, você tem
+que dobrar o bilhete de uma maneira
+específica.
 !******************************!
-Hold the ticket lengthwise and fold it
-inwards along the middle. Next, fold each
-side outwards, halfway along each row of
-numbers.
+Segure o bilhete de pé e dobre-o
+até o meio. Em seguida, dobre cada
+lado para fora, no meio de cada
+conjunto de números.
 
-The top half of the top row of numbers
-and the bottom half of the bottom row 
-of numbers will connect to each other,
-revealing a string of letters.
+A metade superior do conjunto de números
+de cima e a metade inferior do conjunto
+de números de baixo ligarão-se um ao
+outro, revelando uma série de letras.
 !******************************!
-The word <''>FOLSENSE<''> is written on this
-ticket.
+A palavra <''>FOLSENSE<''> está
+escrita no bilhete.
 
-Which number must belong in the cut-out
-portion in order to form an E when the
-ticket is folded?
+Qual número deveria estar na parte
+cortada para se formar um E quando
+o bilhete é dobrado?
 !******************************!
 [n59.dat]
-<0060>Plaza Puzzle
+<0060>O Enigma da Praça
 <00><19><16><13><11><23><06><3B><EC><03><04><FF>
-<''>So there's a big old statue in the middle
-of this plaza. When you take away the area
-occupied by the statue, the plaza looks
-sort of doughnut-like in shape. What you
-have to do is divide this doughnut-like
-plaza into two identically shaped parts
-using only one line.
-
-Oh, and before you get any big ideas, the
-dotted lines shown below won't cut it 'cause
-they're actually two lines.<''>
-
-Draw your answer on the Touch Screen.
+<''>Então há uma grande e antiga estátua no
+meio desta praça. Quando você remove a
+área ocupada pela estátua, a praça parece
+ter um formato de uma rosquinha. O que
+você precisa fazer é dividir essa praça
+em formato de rosquinha em duas partes 
+exatamente idênticas usando tão somente
+uma linha.
+Ah, e antes de inventar coisa, as linhas
+pontilhadas mostradas abaixo não podem
+ser cortadas, porque são, na verdade,
+duas linhas.<''>
+Desenhe sua resposta na Tela de Toque.
 !******************************!
-Nice!
+Isso!
 
-If you draw a circle around the plaza about
-one third of the way out from the middle,
-your line will divide the doughnut shape
-into two identically-shaped figures that are
-directly proportional. In geometrical
-terms, shapes like these are known as
-similar figures.
+Se você desenhar um círculo em volta da
+praça afastado um terço do meio dela,
+sua linha dividir-la-á em duas partes com
+formatos iguais e diretamente proporcionais.
+Em termos geométricos, formatos assim são
+conhecidos como figuras similares.
 !******************************!
-Too bad!
+Que pena!
 
-Focus on the term <''>one line<''>.
-There's a hint somewhere in there.
+Concentre-se no termo <''>uma linha<''>.
+Há uma dica em algum lugar nele.
 !******************************!
-In the example illustration, the plaza has
-been divided by two lines, which makes
-the answer invalid.
+Na ilustração de exemplo, a praça foi
+dividida por duas linhas, o que faz
+da resposta inválida.
 
-The fact that you need to use a single
-line to solve the puzzle is key. Since you
-can only use one line, you know you won't
-be solving this one by drawing lines
-through the middle of the plaza.
+O fato de você precisar usar somente
+uma única linha para resolver o enigma
+é a chave. Já que só se pode usar uma,
+você sabe que não resolverá somente
+desenhando linhas pelo meio da praça.
 !******************************!
-Even if you avoid drawing your line
-through the middle of the plaza, no
-single straight line will divide the plaza
-into two pieces that are the same shape.
+Mesmo se tiver evitado desenhar sua linha
+pelo meio da praça, nenhuma linha reta irá
+dividir a praça em duas partes exatamente
+iguais.
 
-By the way, did you notice that the goal
-here isn't to make two pieces that are
-the same size?
+A propósito, reparou que o objetivo
+aqui não é criar duas partes que
+sejam do mesmo tamanho?
 !******************************!
-If you're still having trouble, you
-should know that the single line you
-need to draw is a circle.
+Se ainda estiver tendo problemas,
+você deve saber que a única linha
+se deve desenhar terá de ser
+desenhada na forma de um círculo.
 
-The only remaining question is where to
-draw it so that the two pieces of the
-plaza have the same shape and are
-directly proportional to one another.
+A pergunta que sobra é sobre onde
+que é para desenhar para que duas
+partes da praça tenham o mesmo formato
+e sejam da mesma proporção da outra.
 !******************************!
 [n6.dat]
 <0007>Quatro Casais
