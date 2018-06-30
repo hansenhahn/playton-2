@@ -1454,7 +1454,7 @@ um favor e dê para o vampiro.
 !******************************!
 [t30_143_100.gds]
 <01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:97>
-A segurança da vila está em, hmm,
+A segurança do vilarejo está em, hmm,
 risco, e você ainda ousa pedir pra
 te dar uma colher de chá? Covardes!
 !******************************!

@@ -299,7 +299,7 @@ Mesmo se eu ligasse pra isso, hoje
 é meu dia de folga.<W>
 !------------------------------!
 Mas cá estou eu. Primeiro me mandam
-ir atrás da Caixa Elisiana* e
+ir atrás da Caixa Elísia* e
 depois me acusam de assassinato!<W>
 !------------------------------!
 Que saco, meu! Sammy Thunder
@@ -535,7 +535,7 @@ por aqui ele está de mau humor.
 !******************************!
 [t24_103_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:92>Ele chegou a falar sobre o que estava
-atrás? Sobre uma "Caixa Elisiana"*?
+atrás? Sobre uma "Caixa Elísia"*?
 Ou talvez... uma "Caixa de Pandora"?
 !******************************!
 [t24_103_300.gds]
@@ -1195,7 +1195,7 @@ estamos aqui por turismo.<W>
 !------------------------------!
 Estamos em busca de uma
 antiguidade conhecida como a Caixa
-Elisiana*. O senhor já ouviu falar?
+Elísia*. O senhor já ouviu falar?
 !******************************!
 [t24_250_300.gds]
 <01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:258>Hmm... não, é a primeira vez
@@ -1224,7 +1224,7 @@ me lembrar quando exatamente ele aconteceu* (começou?)
 <01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:307>Bom trabalho, rapazes.<W>
 !------------------------------!
 Lamento dizer, mas se a investigação
-de vocês da Caixa Elisiana os trouxe
+de vocês da Caixa Elísia os trouxe
 até aqui, é porque está errada.<W>
 !------------------------------!
 É que vários dos Folsensianos

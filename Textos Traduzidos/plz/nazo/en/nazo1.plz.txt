@@ -1147,8 +1147,8 @@ duas maçãs de volta, Thomas terá...
 <0032>Flores para Presente
 <00><14><10><0C><11><18><02><1F><E8><03><03><2C>
 Laurel deseja embrulhar estas flores de
-uma forma muito específica, visto que é
-um presente para uma importante amiga sua.
+uma forma bem específica, visto que é
+um presente para uma querida amiga sua.
 Ela gostaria que as flores fossem
 embrulhadas como mostrado abaixo, mas ela
 não tem ideia de por onde começar.
@@ -1268,18 +1268,18 @@ entre duas árvores adjacentes.
 <00><1E><1B><18><11><19><0A><22><F0><03><03><FF>
 Abaixo estão as casas A, B, C e D, cada uma
 com uma cor diferente. Decifre a cor de cada
-casa com as seguintes dicas.
+casa usando as seguintes pistas.
 
-1. A casa vermelha é mais próxima do pinheiro
-que a casa azul.
-2. A casa amarela é mais próxima do lago
-que a casa verde.
-3. A casa verde é mais próxima do poste
-de energia que a casa azul.
-4. A casa D ou é amarela, azul ou verde.
+1. A casa vermelha está mais próxima do
+pinheiro do que a casa azul.
+2. A casa amarela está mais próxima do lago
+do que a casa verde.
+3. A casa verde está mais próxima do poste
+de energia do que a casa azul.
+4. A casa D é ou amarela, ou azul, ou verde.
 
-Mude a cor de cada casa tocando-a
-com a stylus.
+Mude a cor de cada casa tocando-a com
+a stylus.
 !******************************!
 Está certo!
 
@@ -1289,15 +1289,16 @@ a resposta.
 !******************************!
 Que pena!
 
-Por que você não revisita cada uma
-das quatro dicas e dá uma outra lida?
+Por que você não dá uma lida em cada
+uma das quatro pistas mais uma vez?
 !******************************!
-Se você leu todas as dicas e ainda
-estiver preso, tente começar pela
-última pista e descubra de cima pra baixo.
+Se você leu todas as pistas e ainda assim
+está preso, então experimente ler as
+pistas de baixo para cima, começando pela
+última pista.
 !******************************!
-A casa vermelha é mais próxima do
-pinheiro que a casa verde.
+A casa vermelha está mais próxima do
+pinheiro do que a casa verde.
 !******************************!
 A casa C é vermelha.
 !******************************!
@@ -1305,26 +1306,27 @@ A casa C é vermelha.
 <0036>O Pássaro Aprisionado
 <00><23><1F><1B><11><18><02><23><E8><03><03><FF>
 Oh, não! O pobre passarinho da Laurel caiu
-em um longo complexo de buracos no chão!
+em um longo e complexo buraco no chão!
 
-Na frente do pássaro há três caminhos rotulados
-A, B e C. Qual túnel o pássaro deveria pegar
-para conseguir voltar para cima do solo?
-
+Na frente do passarinho há três caminhos
+rotulados A, B e C. Qual túnel o passarinho
+deve pegar para conseguir voltar para
+superfície?
 !******************************!
 Muito legal!
 
-O pássaro pode escapar com segurança de
-seu confim subterrâneo via túnel B. Qualquer
-outro túnel iria levá-la para mais fundo
-do solo ou para a boca de uma cobra faminta.
+O passarinho pode escapar com segurança
+do seu confim subterrâneo usando o túnel B.
+Qualquer outro túnel irá levá-lo para mais
+fundo do solo ou para a boca de uma cobra
+faminta.
 !******************************!
 Que pena.
 
 Trace cuidadosamente cada caminho para
 ver aonde eles levam.
 !******************************!
-Cada túnel se ramifica para várias
+Cada túnel se ramifica em várias
 direções, então você pode ter problemas
 em processar tudo se estiver confiando
 apenas em seus olhos.
@@ -1335,13 +1337,12 @@ túnel.
 !******************************!
 Os túneis errados irão se dividir em
 diversas direções, mas o túnel que está
-procurando irá se reconvergir a um
-único caminho antes de alcançar a
-saída.
+procurando irá convergir em um único
+caminho antes de alcançar a saída.
 !******************************!
 Todos os caminhos originados do túnel
-A irá te levar para mais fundo do
-solo ou para o covil da cobra.
+A irão levar para mais fundo do solo
+ou para o covil da cobra.
 !******************************!
 [n36.dat]
 <0037>O Maior Golfista do Mundo
@@ -1481,21 +1482,20 @@ o que eles disseram:
 A: Ninguém tem a camisa e a calça combinando!
 B: Parece que o C é o único de nós que não
 manteve nenhuma de suas roupas originais.
-C: Não sei se tô gostando dessa calça vermelha.
+C: Não sei se gosto dessa calça vermelha.
 
 Toque nas pessoas para mudar suas roupas
 e deixá-los em seus trajes atuais.
 !******************************!
-Com maestria!
+Perfeito!
 
-Você já sabe que o C é o único que não está
-vestindo algo de suas roupas originais, o
-que significa que ele não está vestindo nada
-branco. Você também deve ter notado que ele
-está usando uma calça vermelha, então sua
-camisa deve ser azul.
+Sabe-se que C é o único que não está usando
+suas roupas originais, o que significa que ele
+não está vestindo nada branco. Você também
+deve ter notado que ele usa uma calça
+vermelha, então sua camisa deve ser azul.
 
-Já que A e B estão vestindo um item deles
+Já que A e B estão vestindo uma peça deles
 mesmos, dá pra deduzir que A está com sua
 camisa vermelha e B de calça azul. Com isso
 decidido, tudo o que se precisa fazer é
@@ -1574,13 +1574,14 @@ para fechar sua mala.
 !******************************!
 Que pena!
 
-Você tem certeza que nenhum item está por
-cima do outro?
+Você tem certeza que nenhum objeto está
+por cima do outro?
 !******************************!
 Você pode usar os objetos menores como
 o telescópio, ou a gaita, para preencher
-pequenos espaços mais tarde, portanto
-coloque primeiro na mala os itens maiores.
+pequenos espaços mais tarde, portanto,
+coloque na mala primeiro os objetos
+maiores.
 !******************************!
 Aquele enorme conjunto de frigideira e
 espátula vai no canto inferior esquerdo
@@ -2618,20 +2619,20 @@ todos os quatro casais.
 [n7.dat]
 <0008>A Janta do Luke
 <00><19><16><13><11><0B><03><07><E9><03><02><FF>
-<''>Luke, tem certeza que consegue comer 
-isso tudo? Você pediu coisas demais.<''>
+<''>Luke, tem certeza de que consegue comer 
+tudo isso? Você pediu coisas demais.<''>
 
-<''>Sem problemas, Professor! Vou limpar meu
+<''>Sem problemas, Professor! Vou limpar o
 prato e ainda vai sobrar espaço pra mais.<''>
 
 Não é à toa que o professor esteja
-preocupado, já que o pedido do Luke 
-custa duas vezes o seu próprio pedido!
+preocupado, já que o pedido do Luke
+custou o dobro do dele!
 
-Abaixo você pode ver todos os itens que os
-dois pediram, junto de seus preços.
+Abaixo você pode ver tudo o que foi pedido
+pelos dois, junto de seus preços.
 
-Toque os preços dos itens que o Luke pediu.
+Toque o preço das comidas pedidas pelo Luke.
 !******************************!
 Bom trabalho!
 
@@ -2641,38 +2642,39 @@ o Luke deve ter pedido o equivalente a <po>70
 em comida e o professor <po>35. Depois que
 você chega a esses números, o resto é fácil.
 
-<''>Tem certeza que não pediu demais?<''>
+<''>Tem certeza de que não pediu demais?<''>
 
-<''>Não! Esse (slurp) ensopado é ótimo, e esse
-bife (nhac) é delicioso também!<''>
+<''>Não! O (slurp) ensopado está ótimo, e este
+bife (nhac) também é uma delícia!<''>
 
 <''>...<''>
 !******************************!
 Que pena!
 
-Talvez você não esteja vendo o problema da
-maneira certa. Por que você não tenta uma
+Talvez você não esteja vendo o problema do
+jeito certo. Por que você não tenta uma
 abordagem diferente?
 !******************************!
-Comece somando o custo de todos os
-itens na mesa.
+Comece somando o custo de todas as
+comidas na mesa.
 !******************************!
 A refeição do Luke custou o dobro da
-refeição do professor. Isso significa que
-a razão dos gastos do Luke, em relação
-aos do professor, deve ser de 2:1.
+refeição do professor. Isso significa
+que a razão dos gastos do Luke, em
+comparação aos do professor, deve ser
+de 2:1.
 !******************************!
-O custo da refeição inteira é de <po>105. 
-Esse total precisa ser dividido de forma
+A refeição inteira custou <po>105. Este
+total precisa ser dividido de forma
 a obedecer a razão de 2:1. A soma das
-partes dessa razão é 3, então divida o
+partes desta razão é 3, então divida o
 total por 3 para dar <po>35 e os custos
-ficarão em (2 x <po>35):(1 x <po>35). Ou seja,
-o jantar do Luke custou $<po>70 e o do
+ficarão em (2 x <po>35):(1 x <po>35). Ou seja:
+o jantar do Luke custou <po>70 e o do
 professor <po>35.
 
 Que combinação de comidas e bebidas
-somam <po>70?
+soma <po>70?
 !******************************!
 [n8.dat]
 <0009>Copos Empilhados

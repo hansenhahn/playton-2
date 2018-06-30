@@ -14,7 +14,7 @@ bróder!
 [t16_010_1100.gds]
 <01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:241>Eu sei que o Sr. Beluga lhe
 mandou vasculhar cada canto da
-cidade em busca da Caixa Elisiana.<W>
+cidade em busca da Caixa Elísia.<W>
 !------------------------------!
 Ele o fez trabalhar dobrado... não,
 triplicado, e você ficou
@@ -80,7 +80,7 @@ que ele esteja bem ao seu lado.
 !******************************!
 [t16_010_2000.gds]
 <01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:92>
-Ah, então essa é a Caixa Elisiana?<W>
+Ah, então essa é a Caixa Elísia?<W>
 Que chique. E eu adoro a cabra*
 fofinha desenhada em cima!
 !******************************!
@@ -106,7 +106,7 @@ matar um homem que nem conhecia?
 [t16_010_400.gds]
 <01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:200>Meio desatento o senhor, não?<W>
 Sr. Beluga, todos nesta sala
-estão à procura da Caixa Elisiana.<W>
+estão à procura da Caixa Elísia.<W>
 !------------------------------!
 A caixa conecta todos aqui à
 vitima, e portanto não há dúvida
@@ -139,7 +139,7 @@ encontradas na casa do Doutor.<W>
 !------------------------------!
 De acordo com suas anotações, o
 Schrader passou bastante tempo nesta
-cidade em busca da Caixa Elisiana.<W>
+cidade em busca da Caixa Elísia.<W>
 !------------------------------!
 E assim que aprendi que ele
 morreu no instante em que voltou
@@ -226,7 +226,7 @@ chegar, Professor?
 [t16_020_600.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:156>Ninguém nesta sala chegou a
 ver a tão almejada Caixa
-Elisiana.<W>
+Elísia.<W>
 !------------------------------!
 A única prova visual que
 temos dela é esta fotografia
@@ -239,7 +239,7 @@ rasgada.
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:202>O "ponto" é este, Inspetor.<W>
 !------------------------------!
 A única pessoa que poderia saber
-como era a Caixa Elisiana seria o
+como era a Caixa Elísia seria o
 suspeito que o senhor procura.<W>
 !------------------------------!
 E deve ter sido essa mesma
@@ -261,7 +261,7 @@ escorregadio!
 !------------------------------!
 Se você diz ver uma cabra* nela,
 é porque já viu a verdadeira
-Caixa Elisiana.
+Caixa Elísia.
 !******************************!
 [t16_040_1200.gds]
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:12>Ora, seu...
@@ -293,7 +293,7 @@ cair!
 sabem, esta é uma prova que
 o inspetor encontrou.<W>
 !------------------------------!
-Uma foto da Caixa Elisiana,
+Uma foto da Caixa Elísia,
 e eu tenho absoluta certeza de
 que é genuína.
 !******************************!
@@ -393,7 +393,7 @@ já são águas passadas.
 !******************************!
 [t16_050_400.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:54>Então era você quem tava com a
-Caixa Elisiana esse tempo todo!
+Caixa Elísia esse tempo todo!
 !******************************!
 [t16_050_500.gds]
 <01:0000000A><03:9>b1 laugh<03:5>NONE<01:00000002><03:308>Outra dedução brilhante do aprendiz
@@ -433,7 +433,7 @@ Posso ter sido desmascarado,
 mas o baile está longe de acabar.<W>
 !------------------------------!
 Estou tão perto de descobrir o
-segredo da Caixa Elisiana. Agora
+segredo da Caixa Elísia. Agora
 só me resta levar a caixa par--
 !******************************!
 [t16_050_800.gds]
@@ -449,7 +449,7 @@ isso deles.
 !******************************!
 [t16_055_1000.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Então esta...
-é a Caixa Elisiana...
+é a Caixa Elísia...
 !******************************!
 [t16_055_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>
@@ -482,7 +482,7 @@ Luke. Alguma outra coisa foi
 responsável pela morte do doutor.<W>
 !------------------------------!
 E no momento, diria que a Caixa
-Elisiana é a chave para descobrirmos
+Elísia é a chave para descobrirmos
 o que essa "outra coisa" é.
 !******************************!
 [t16_055_700.gds]
@@ -622,7 +622,7 @@ não foi o responsável pela morte
 do doutor no fim das contas.<W>
 !------------------------------!
 Vai ver foi mesmo a Caixa
-Elisiana que matou ele.
+Elísia que matou ele.
 !******************************!
 [t16_070_1000.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Quem é esta pessoa?
@@ -1168,7 +1168,7 @@ riqueza ao encontrar ouro.<W>
 !------------------------------!
 Se viermos a entender a história por
 trás disso, nossas perguntas sobre a
-Caixa Elisiana também serão respondidas.
+Caixa Elísia também serão respondidas.
 !******************************!
 [t16_190_2400.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:122>Mas como faremos para entrar
@@ -1473,7 +1473,7 @@ Vamos investigar mais um pouco.
 !******************************!
 [t16_300_100.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:88>É verdade que vocês desejam entender
-os segredos da Caixa Elisiana?
+os segredos da Caixa Elísia?
 !******************************!
 [t16_300_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:66>É, sim. O senhor por acaso sabe
@@ -1481,7 +1481,7 @@ alguma coisa sobre ela?
 
 !******************************!
 [t16_300_300.gds]
-<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:285>Como já devem saber, a Caixa Elisiana
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:285>Como já devem saber, a Caixa Elísia
 é uma relíquia da família Herzen.<W>
 !------------------------------!
 A pedidos do Sr. Beluga, eu venho

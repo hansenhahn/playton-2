@@ -14,7 +14,7 @@ Vá Verificar o Bloqueio!
 Limpe os Trilhos!
 !******************************!
 [goal_140.txt]
-Explore a Vila!
+Explore o Vilarejo!
 !******************************!
 [goal_150.txt]
 Olhe os Arredores da Praça!
@@ -68,19 +68,19 @@ Faça Perguntas no Antiquário!
 Visite o Museu Herzen!
 !******************************!
 [goal_260.txt]
-Gather Clues around Town!
+Encontre Pistas pela Cidade!
 !******************************!
 [goal_270.txt]
-Visit the Herzen Museum Again!
+Visite o Museu Herzen de Novo!
 !******************************!
 [goal_280.txt]
-Return to the Hotel!
+Volte para o Hotel!
 !******************************!
 [goal_285.txt]
 Head for the North-east Area!
 !******************************!
 [goal_290.txt]
-Visit the Grocer!
+Visite a Mercearia!
 !******************************!
 [goal_30.txt]
 Entre no Apartamento do Dr. Schrader!
@@ -92,7 +92,7 @@ Take the Beef Shank to the Dog!
 Colete os Pedaços da Fotografia!
 !******************************!
 [goal_320.txt]
-Get the Remaining Photo Scraps!
+Encontre os Demais Pedaços!
 !******************************!
 [goal_330.txt]
 Converse com as Pessoas pela Cidade!
@@ -104,7 +104,7 @@ Retorne para o Hotel!
 Examine a Cabine!
 !******************************!
 [goal_350.txt]
-Go to Your Hotel Room!
+Volte para o Seu Quarto de Hotel!
 !******************************!
 [goal_360.txt]
 Gather More Clues in Town!
@@ -113,7 +113,7 @@ Gather More Clues in Town!
 Visite o Museu Herzen!
 !******************************!
 [goal_380.txt]
-Study the Museum's Exhibits!
+Estude as Exposições do Museu!
 !******************************!
 [goal_385.txt]
 Explore a Mina!
@@ -200,67 +200,58 @@ os trilhos para que o trem possa
 seguir seu caminho outra vez.
 !******************************!
 [next_140.txt]
-The professor, Luke and Flora
-decide to take in the sights
-around Dropstone.
+O professor, Luke e Flora decidem
+dar uma volta por Dropstone.
 !******************************!
 [next_150.txt]
-The professor, Luke and Flora
-decide on a spot of sightseeing
-in front of the village hall.
+O professor, Luke e Flora decidem
+explorar a praça em frente à
+prefeitura.
 !******************************!
 [next_160.txt]
-The professor, Luke and Flora
-decide to walk around until the
-livestock competition starts.
+O professor, Luke e Flora decidem
+explorar os arredores enquanto o 
+desfile dos animais não começa.
 !******************************!
 [next_165.txt]
-The professor, Luke and Flora
-decide to return to the site of
-the livestock competition.
+O professor, Luke e Flora decidem
+voltar à área do desfile dos animais.
 !******************************!
 [next_170.txt]
-The professor, Luke and Flora
-decide to head back to the
-train station.
+O professor, Luke e Flora decidem 
+voltar à estação de trem.
 !******************************!
 [next_180.txt]
-The professor, Luke and Flora
-decide to look for a man named
-Romie.
+O professor, Luke e Flora decidem
+procurar um homem chamado Romie.
 !******************************!
 [next_190.txt]
-The professor, Luke and Flora
-decide to return to the train
-station.
+O professor, Luke e Flora decidem 
+voltar à estação de trem.
 !******************************!
 [next_20.txt]
 O professor e Luke decidem entrar
 no prédio do Dr. Schrader.
 !******************************!
 [next_200.txt]
-The professor, Luke and Flora
-decide to make some enquiries
-with the crew of the train.
+O professor, Luke e Flora decidem fazer
+algumas perguntas à tripulação do trem.
 !******************************!
 [next_210.txt]
-The professor, Luke and Flora
-decide to visit the deluxe carriage.
+O professor, Luke e Flora decidem
+visitar o vagão de luxo.
 !******************************!
 [next_215.txt]
-The professor, Luke and Flora
-decide to search the deluxe
-carriage.
+O professor, Luke e Flora decidem
+explorar o vagão de luxo.
 !******************************!
 [next_220.txt]
-The professor, Luke and Flora
-decide to return to their quarters
-once more.
+O professor, Luke e Flora decidem
+voltar às suas cabines mais uma vez.
 !******************************!
 [next_230.txt]
-The professor and Luke decide to
-get off the train and have a look
-around.
+O professor e Luke decidem desembarcar
+do trem e dar uma olhada nos arredores.
 !******************************!
 [next_235.txt]
 The professor, Luke and Flora
@@ -405,9 +396,8 @@ go to the gate at the forest's edge
 to get the last photo scrap.
 !******************************!
 [next_520.txt]
-The professor, Luke and Flora
-decide to locate the elusive
-Mr Anderson.
+O professor, Luke e Flora decidem
+procurar pelo elusivo Sr. Anderson.
 !******************************!
 [next_54.txt]
 O professor e Luke decidem visitar
@@ -577,14 +567,14 @@ rasgada, mas o Inspetor Chelmey
 ficou com ela!
 !******************************!
 [tx_217.txt]
-Flora is now travelling with
-you! Check who's travelling
-with you on the top screen.
+Flora está viajando com você!
+Olhe a tela superior para ver
+quem está viajando com você!
 !******************************!
 [tx_218.txt]
-Flora has left the group for
-now. Check who's travelling
-with you on the top screen. 
+Flora deixou o grupo por agora!
+Olhe a tela superior para ver
+quem está viajando com você!
 !******************************!
 [tx_219.txt]
 The Old Diary option has

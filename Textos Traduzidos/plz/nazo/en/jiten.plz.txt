@@ -50,16 +50,16 @@ Prédio do Schrader
 Trem Quebrado
 !******************************!
 [p_21.txt]
-Plataforma da Estação
+Plataforma Lateral
 !******************************!
 [p_22.txt]
-Station Plaza
+Praça da Estação
 !******************************!
 [p_23.txt]
 Festa na Rua
 !******************************!
 [p_24.txt]
-Tree-lined Path
+Caminho de Árvores
 !******************************!
 [p_25.txt]
 Campo de Trigo
@@ -80,7 +80,7 @@ Praça da Prefeitura
 Prédio do Schrader
 !******************************!
 [p_30.txt]
-Mercearia da Vila
+Loja do Vilarejo
 !******************************!
 [p_31.txt]
 Caminho para a Fazenda

@@ -9,7 +9,7 @@ por que não vai dar um rolé?
 [t12_010_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>Que ideia brilhante! Além do mais,
 quem sabe que informações podemos
-coletar nesta vila?
+coletar neste vilarejo?
 !******************************!
 [t12_025_100.gds]
 <01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:69>Ora, Sr. Layton! Está aproveitando
@@ -51,7 +51,7 @@ Tem algo aqui que faz você
 se sentir outro homem.
 !******************************!
 [t12_025_500.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:200>E com a vila celebrando cinquenta
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:200>E com o vilarejo celebrando cinquenta
 anos hoje, nossa chegada não poderia
 ser em melhor hora.<W>
 !------------------------------!
@@ -126,8 +126,8 @@ Esqueça isso.<W>
 Enfim, você percebeu o festival que está
 acontecendo hoje, aqui em Dropstone?<W>
 !------------------------------!
-Hoje marca o quinquagésimo ano
-desde que nossa vila foi fundada.
+Hoje marca o quinquagésimo ano desde
+que nosso vilarejo foi fundada.
 Divirta-se pra valer!
 !******************************!
 [t12_050_100.gds]
@@ -136,18 +136,18 @@ mato aqui é, tipo, o lugar mais calmo
 da terra.<W>
 !------------------------------!
 Meu ti--digo, meu patrão tá
-zanzando pela vila, que nem
+zanzando pelo vilarejo, que nem
 aquele tal inspetor.<W>
 !------------------------------!
 É o quinquagésimo aniversário
-da vila, então deve ter um
+do vilarejo, então deve ter um
 monte de coisas pra fazer.<W>
 !------------------------------!
 Se não tivesse que trabalhar,
 eu com certeza ia dar uma olhada.
 !******************************!
 [t12_050_200.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:100>Então esta vila foi fundada há
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:100>Então este vilarejo foi fundado há
 apenas cinquenta anos? Isso é bem
 pouco para um povoado nesta região.
 !******************************!
@@ -174,7 +174,7 @@ pista que eu achar no caminho!
 entrar a bordo ainda. O trem
 ainda tá quebrado, sacam?<W>
 !------------------------------!
-A vila tá dando uma festa.
+O vilarejo tá dando uma festa.
 Por que não vão pra lá curtir,
 enquanto consertamos o trem?
 !******************************!
@@ -244,7 +244,7 @@ estar apta para começar.
 !******************************!
 [t12_080_600.gds]
 <01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:61>Enquanto esperamos, podemos
-ver outros lugares da vila?
+ver outros lugares do vilarejo?
 !******************************!
 [t12_080_700.gds]
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:64>Certamente. Podemos voltar
@@ -450,7 +450,7 @@ não é tão pacata quanto aparenta.
 [t12_110_2100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>Você não é o único, Luke.<W>
 Mas basta de especulação. Vamos
-explorar mais a vila.
+explorar mais o vilarejo.
 !******************************!
 [t12_110_2200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:15>Certo, Professor!
@@ -483,8 +483,8 @@ de curiosidades como essa.
 <01:00000016><03:10>b1 normal<03:5>NONE<01:00000003><03:172>Ah sim, perdão a falta de atenção.
 Me esqueço que são novos aqui.<W>
 !------------------------------!
-Sabe, arrisco um palpite de que não
-há um único residente em nossa vila
+Sabe, arrisco um palpite de que não há
+um único residente em nosso vilarejo
 que não conheça o Sr. Anderson.
 !******************************!
 [t12_110_800.gds]
@@ -658,7 +658,7 @@ e dar uma olhada?
 [t12_140_500.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:196>Não. Por ora acho que o melhor que
 podemos fazer é reunir o máximo de
-informações da vila que pudermos.<W>
+informações que pudermos.<W>
 !------------------------------!
 Além disso, imagino que os Anderson
 já estejam bastante atarefados
@@ -695,7 +695,7 @@ alguma coisa.
 !******************************!
 [t12_160_100.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:99>Ouvi que você esteve perguntando
-na vila sobre uma antiguidade
+no vilarejo sobre uma antiguidade
 conhecida como Caixa Elísia.
 !******************************!
 [t12_160_200.gds]

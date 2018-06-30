@@ -3032,7 +3032,7 @@ na solução mais cedo ou mais tarde.
 <00><00><00><00><01><01><19><CE><FF><03><02><FF>
 Se está jogando esse enigma agora, então
 você provavelmente já viajou pelo menos
-uma vez para a vila de St Mystere com o
+uma vez para a vila de St. Mystère com o
 Luke e o Professor.
 
 Este enigma é um presente dos residentes

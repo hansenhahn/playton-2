@@ -105,7 +105,7 @@ querido menino.<W>
 !------------------------------!
 Isso me fez lembrar de que talvez já
 esteja na hora da janta do meu bebê.
-Hora de visitar o vagão-restaurante.
+Hora de visitar o vagão-restaurante!
 !******************************!
 [t11_085_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:90>Professor, por que não pegamos
@@ -245,9 +245,9 @@ nem um pouco sujas!
 não muda o fato de que sou eu quem
 manda nesta cozinha.<W>
 !------------------------------!
-Você parou para pensar no que
-poderia acontecer se germes nojentos
-entrassem aqui por sua causa?
+Já parou para pensar no que aconteceria
+se germes nojentos entrassem aqui por
+sua causa?
 !******************************!
 [t11_100_600.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:103>Entendo seu ponto de vista.<W> Peço

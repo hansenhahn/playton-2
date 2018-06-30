@@ -348,8 +348,8 @@ que podemos nos dar o luxo de descansar
 um pouco. Vamos para nossa cabine.
 !******************************!
 [t21_033_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:460>Olá! Desculpe interromper seu jogo,
-mas há algo importante que precisa saber.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:460>Olá! Desculpe interromper seu jogo, mas
+há algo importante que precisa saber.<W>
 !------------------------------!
 Conforme você avança na história,
 alguns enigmas irão desaparecer de
@@ -380,8 +380,8 @@ pouco depois daquela adorável refeição.
 Vamos voltar para nossa cabine.
 !******************************!
 [t21_034_400.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:460>Olá! Desculpe interromper seu jogo,
-mas há algo importante que precisa saber.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:460>Olá! Desculpe interromper seu jogo, mas
+há algo importante que precisa saber.<W>
 !------------------------------!
 Conforme você avança na história,
 alguns enigmas irão desaparecer de
@@ -830,7 +830,7 @@ meu melhor sorriso pra nada.
 [t21_120_400.gds]
 <01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:176>A maioria dos passageiros lancha no
 vagão-restaurante. Lá é tão chique
-que não posso culpá-los.<W>
+que nem posso culpá-los.<W>
 !------------------------------!
 Com uma concorrência dessas,
 é difícil vender até mesmo uma
@@ -842,28 +842,28 @@ assim, não querem me ajudar a resolver
 este enigma pra passar o tempo?
 !******************************!
 [t21_121_100.gds]
-<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:51>Ah, oi. Querem ver de novo
-meu enigma?
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:51>Ah, oi. Querem ver meu enigma
+de novo?
 !******************************!
 [t21_122_100.gds]
 <01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:108>Caramba! Quase cai de tanto tédio.<W>
-Esse emprego paga bem, mas é
-tão chato que chega a doer.
+Este emprego paga bem, mas é chato
+de doer.
 !******************************!
 [t21_123_100.gds]
 <01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:42>Uau! Quanta inteligência, meninos.
 !******************************!
 [t21_123_200.gds]
-<01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:290>Então, nossa próxima parada é nessa
-pequena vila chamada Dropstone, certo?<W>
+<01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:290>Então, nossa próxima parada é nesse
+pequeno vilarejo chamada Dropstone,
+certo?<W>
 !------------------------------!
 Tipo, não tem nada lá. Eu gostaria
 que parássemos em uma cidade grande
 de vez em quando.<W>
 !------------------------------!
-Mas não vai acontecer. Às vezes
-temos que aprender a conviver com
-essa chatice.
+Mas não vai rolar. Às vezes temos que
+aprender a conviver com essa chatice.
 !******************************!
 [t21_124_100.gds]
 <01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:62>Ah, não sejam estraga-prazeres.

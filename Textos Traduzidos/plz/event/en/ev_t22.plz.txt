@@ -121,7 +121,7 @@ pois aí achá-lo vai ser moleza.
 !******************************!
 [t22_032_100.gds]
 <01:00000033><03:5>NONE<03:5>NONE<01:00000002><03:98>O Sr. Anderson é um pilar desta
-comunidade. Ele fez desta vila
+comunidade. Ele fez deste vilarejo
 o lugar que chamo de lar.
 !******************************!
 [t22_033_100.gds]
@@ -170,8 +170,8 @@ Esse povo alegre. Dropstone foi
 abençoada com tantas coisas.<W>
 !------------------------------!
 A Sophia construiu este lugar do
-nada, e o transformou numa vila
-aconchegante e hospitaleira.<W>
+nada, e o transformou num vilarejo
+aconchegante e hospitaleiro.<W>
 !------------------------------!
 Dropstone não pode murchar e morrer,
 como tantos outros vilarejos.<W>
@@ -258,7 +258,7 @@ quando eu era bastante jovem.<W>
 A mãe a qual me refiro é, na verdade,
 minha sogra, Sophia.<W>
 !------------------------------!
-Ela fundou esta vila há uns anos.
+Ela fundou este vilarejo há uns anos.
 A pessoa mais amada que já conheci.
 E inteligente, também.
 !******************************!

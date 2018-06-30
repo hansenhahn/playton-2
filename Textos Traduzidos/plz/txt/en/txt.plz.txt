@@ -401,7 +401,7 @@ a peça com botão
 a peça arredondada
 !******************************!
 [cam_4.txt]
-a peça reversível
+a peça ajustável
 !******************************!
 [cam_5.txt]
 a peça com parafusos

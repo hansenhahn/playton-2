@@ -146,7 +146,7 @@ com um trem estragado bloqueando
 os trilhos.
 !******************************!
 [t18_180_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Ansioso para seguir com sua jornada,
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Ansioso para seguir com a sua jornada,
 Layton tenta pensar em uma maneira de
 mover o trem e desobstruir os trilhos.
 !******************************!
@@ -168,141 +168,132 @@ E assim eles seguem rumo à sua próxima
 parada, o pequeno vilarejo de Dropstone.
 !******************************!
 [t18_190_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>O Molentary Express trouxe nossos
-heróis à pacata vila pastoril
-de Dropstone.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>O Molentary Express leva nossos heróis
+ao pacato vilarejo rural de Dropstone.
 !******************************!
 [t18_190_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Uma vez nela, eles encontraram
-Dropstone em meio à sua
-celebração de 50 anos. 
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Chegando lá, eles encontram Dropstone
+em meio à celebração de seus 50 anos. 
 !******************************!
 [t18_190_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Para matar o tempo, Layton, Luke e
-Flora decidiram sair pelas ruas
-perguntando sobre a Caixa Elisiana.
+Flora decidem sair pelas ruas perguntando
+sobre a Caixa Elísia.
 !******************************!
 [t18_200_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:99>Enquanto procuravam por pistas, Layton
-e os demais aprenderam sobre um
-concurso de gado* prestes a começar.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:99>Enquanto procuram por pistas, Layton
+e os demais ficam sabendo sobre um
+desfile de animais prestes a começar.
 !******************************!
 [t18_200_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Antes dele começar, entretanto, eles
-encontraram várias informações
-fragmentadas, talvez da Caixa Elisiana.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Enquanto o desfile não inicia,
+eles recolhem várias informações 
+desconexas, talvez da Caixa Elísia.
 !******************************!
 [t18_200_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Pouco depois, os três deram uma
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Pouco depois, os três dão uma
 pausa em sua investigação e
-voltaram para verem o concurso.
+voltam para verem o desfile.
 !******************************!
 [t18_210_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Graças ao Luke, o concurso de
-gado* terminou sem incidentes.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Graças a Luke, o desfile dos animais
+termina sem incidentes.
 !******************************!
 [t18_210_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:95>Ao interrogarem toda a cidade,
-o trio reuniu toda a informação
-possível sobre a Caixa Elisiana.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:95>Ao interrogarem todo o vilarejo,
+o trio reune toda a informação
+possível sobre a Caixa Elísia.
 !******************************!
 [t18_210_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>Layton, Luke e Flora decidiram
-procurar pelo Sr. Anderson
-antes de voltarem para a estação.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>Layton, Luke e Flora decidem
+procurar pelo Sr. Anderson antes
+de voltarem para a estação.
 !******************************!
 [t18_220_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:172>Graças ao Luke, o concurso de
-gado* terminou sem incidentes.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:172>Graças a Luke, o desfile dos animais
+termina sem incidentes.<W>
 !------------------------------!
 Com pouco tempo restando até a
 partida do trem, Layton, Luke e
-Flora partiram rumo à estação.
+Flora partem rumo à estação.
 !******************************!
 [t18_220_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Na volta, Layton e Luke perderam a
-Flora em meio à multidão que
-enchia a área.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Na volta, Layton e Luke perdem Flora
+em meio à multidão que enche a área.
 !******************************!
 [t18_220_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:106>Felizmente, Flora logo se reuniu
-com Layton e Luke. Aliviados, os
-três seguiram para a estação.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:106>Felizmente, Flora logo se reune com
+Layton e Luke. Aliviados, os três
+seguem para a estação.
 !******************************!
 [t18_230_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>Boatos ouvidos em Dropstone
-sugeriram que o Molentary Express*
-tinha outro destino. Um destino secreto.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>Boatos ouvidos em Dropstone indicam
+que o Molentary Express tem outro
+destino. Um destino secreto.
 !******************************!
 [t18_230_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:118>O trio sabia que, para chegarem lá,
-precisavam fazer alguma coisa
-no trem.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:118>O trio sabe que, para chegarem lá,
+precisam fazer alguma coisa no trem.<W>
 !------------------------------!
-O que essa "coisa" era, entretanto,
-permanecia um mistério.
+O que é essa "coisa", entretanto,
+permanece um mistério.
 !******************************!
 [t18_230_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Sem nenhuma pista para seguir, o
-trio saiu à procura de uma que
-lhes mostrasse como proceder.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:92>Sem outras coisas para fazer, o trio
+decide sair em busca de uma pista que
+lhes dê um norte para seguir.
 !******************************!
 [t18_233_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:206>Ao conversar com Conrad, um
-estudante à bordo do trem, o
-professor aprendeu um curioso boato.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:206>Ao conversar com Conrad, um estudante
+à bordo do trem, o professor acaba
+descobrindo um curioso boato.<W>
 !------------------------------!
-Ao que parecia, todo o acesso ao vagão
-de luxo*(os vagões de luxo?) havia sido cortado após o trem
-entrar em um longo e escuro túnel.
+Ao que parece, todo o acesso ao vagão
+de luxo é cortado após o trem entrar
+em um longo e escuro túnel.
 !******************************!
 [t18_233_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:184>Layton começou a suspeitar de que
-havia algum propósito oculto
-no ocorrido.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:184>Layton começa a suspeitar de que há
+algum propósito oculto nisso.<W>
 !------------------------------!
-Suspeitava que aquilo tinha alguma
+Ele suspeita que isso tem alguma
 ligação com a cidade fantasma de
-que tinham ouvido falar em Dropstone.
+que tinha ouvido falar em Dropstone.
 !******************************!
 [t18_233_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:83>O trio seguiu para o vagão de luxo
-logo após o trem entrar no
-túnel.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:83>O trio segue para o vagão de luxo logo
+após o trem entrar no túnel.
 !******************************!
 [t18_237_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:94>O vagão se separou do Molentary
-Express, levando o trio rumo a
-um novo destino.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:94>O vagão se separa do Molentary Express,
+levando o trio rumo a um novo destino.
 !******************************!
 [t18_237_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:183>Após resolverem o mistério da
-passagem* do médico*, o trio
-aprendeu o nome de seu novo destino.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:183>Após resolverem o mistério do bilhete
+do doutor, o trio descobre o nome do
+seu novo destino.<W>
 !------------------------------!
-Mas que tipo de lugar seria essa
-tal de "Folsense", e o que eles
-encontrariam lá?
+Mas que tipo de lugar é essa tal de
+"Folsense", e o que eles encontrarão lá?
 !******************************!
 [t18_237_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>As perguntas se proliferavam em
-suas mentes à medida que o Molentary
-Express adentrava a escuridão.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>As perguntas se proliferam em suas
+mentes à medida que o Molentary
+Express adentra a escuridão.
 !******************************!
 [t18_240_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Layton, Luke e Flora aprenderam que
-o nome da cidade para a qual
-seguiam era Folsense.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Layton, Luke e Flora descobrem que
+o nome da cidade para a qual seguiam
+era Folsense.
 !******************************!
 [t18_240_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>À medida que o trem se aproximava da
-estação, apenas uma profunda
-escuridão se manifestava pela janela.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>À medida que o trem se aproxima da
+estação, apenas uma profunda escuridão
+é vista pela janela.
 !******************************!
 [t18_240_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Inquietos, Layton e os demais
-se preparavam à medida que
-adentravam Folsense.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Inquietos, Layton e os demais se
+preparam para entrar em Folsense.
 !******************************!
 [t18_250_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Viajando no vagão de luxo do Molentary
@@ -327,7 +318,7 @@ Museu Herzen.
 [t18_253_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Ficou claro pela conversa que o museu
 era o mais provável ponto para acharem
-informações sobre a Caixa Elisiana.
+informações sobre a Caixa Elísia.
 !******************************!
 [t18_253_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Com seu próximo destino agora claro,
@@ -337,7 +328,7 @@ norte da cidade para visitar o museu.
 [t18_256_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Luke e Layton foram ao Museu Herzen
 na parte norte da cidade para
-aprender sobre a Caixa Elisiana.
+aprender sobre a Caixa Elísia.
 !******************************!
 [t18_256_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:52>Mas ao chegarem lá, encontraram
@@ -346,12 +337,12 @@ o portão trancado.
 [t18_256_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Sem terem como entrar, a dupla adiou
 a visita ao museu para perguntarem
-sobre a Caixa Elisiana cidade afora.
+sobre a Caixa Elísia cidade afora.
 !******************************!
 [t18_259_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Layton e Luke vasculharam a cidade
 atrás de quaisquer informações que
-pudessem achar sobre a Caixa Elisiana.
+pudessem achar sobre a Caixa Elísia.
 !******************************!
 [t18_259_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:185>Durante sua exploração, os dois
@@ -360,7 +351,7 @@ sobre acontecimentos incomuns na cidade.<W>
 !------------------------------!
 Entretanto, não obtiveram sucesso
 em encontrar pistas substanciais
-acerca da Caixa Elisiana.
+acerca da Caixa Elísia.
 !******************************!
 [t18_259_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>Ainda em busca de tais informações,
@@ -405,7 +396,7 @@ remontar a foto inteira.
 [t18_280_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:195>Com a foto completa em mãos, a dupla
 pôde confirmar a aparência
-da Caixa Elisiana.<W>
+da Caixa Elísia.<W>
 !------------------------------!
 Infelizmente, na mesma hora uma
 rajada repentina de vento carregou
@@ -419,7 +410,7 @@ na cidade para fazerem perguntas.
 [t18_290_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Após remontarem a foto inteira, Layton
 e Luke conseguiram confirmar a
-aparência da Caixa Elisiana.
+aparência da Caixa Elísia.
 !******************************!
 [t18_290_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Logo depois os dois conversaram
@@ -441,7 +432,7 @@ em seu encalço.
 !******************************!
 [t18_300_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:146>Em meio à sua fuga, Don Paolo
-deixou cair a Caixa Elisiana.<W>
+deixou cair a Caixa Elísia.<W>
 !------------------------------!
 Luke e o Professor Layton logo a
 encontraram largada em um canto
@@ -458,7 +449,7 @@ os segredos que ela guardava.
 [t18_310_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>O Professor Layton e o Luke,
 arriscando suas vidas, abriram
-a Caixa Elisiana.
+a Caixa Elísia.
 !******************************!
 [t18_310_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>Contudo, ambos sobreviveram ao ato.
@@ -475,7 +466,7 @@ a dupla voltou às ruas de Folsense.
 [t18_320_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>O Professor Layton e o Luke,
 arriscando suas vidas, abriram
-a Caixa Elisiana.
+a Caixa Elísia.
 !******************************!
 [t18_320_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>Felizmente, a caixa foi aberta
@@ -489,7 +480,7 @@ o que mais podiam aprender.
 !******************************!
 [t18_330_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:73>O Professor Layton e o Luke abriram
-a Caixa Elisiana sem sofrer nenhum
+a Caixa Elísia sem sofrer nenhum
 mal.
 !******************************!
 [t18_330_200.gds]
@@ -504,11 +495,11 @@ Herzen.<W>
 !------------------------------!
 A dupla esperava continuar com
 sua busca por fatos relacionados
-à Caixa Elisiana.
+à Caixa Elísia.
 !******************************!
 [t18_335_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:73>O Professor Layton e o Luke abriram
-a Caixa Elisiana sem sofrer nenhum
+a Caixa Elísia sem sofrer nenhum
 mal.
 !******************************!
 [t18_335_200.gds]
@@ -557,7 +548,7 @@ ao Castelo Herzen.
 [t18_360_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:176>Uma rápida conversa com Anton
 trouxe só poucas informações úteis
-quanto à Caixa Elisiana.<W>
+quanto à Caixa Elísia.<W>
 !------------------------------!
 Com a lua a brilhar no céu, Anton
 convidou o professor e o Luke
@@ -600,7 +591,7 @@ o lugar antes de irem embora.
 [t18_380_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:177>Ele estava convencido de que o
 castelo era a chave para os mistérios
-por trás de Folsense e da Caixa Elisiana.<W>
+por trás de Folsense e da Caixa Elísia.<W>
 !------------------------------!
 E com isso, Layton e Luke
 começaram uma investigação
