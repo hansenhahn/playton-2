@@ -11,6 +11,12 @@ copy "ROM Original\PLAYTON2_ES\data\data_lt2\ani\subgame\camera\sp\modoru_btn.ar
 copy "ROM Original\PLAYTON2_ES\data\data_lt2\ani\subgame\photo\sp\album_modoru.arc" "ROM Modificada\PLAYTON2\data\data_lt2\ani\subgame\photo\en\album_modoru.arc" /B/Y
 copy "Arquivos Gerais\continue.arc" "ROM Modificada\PLAYTON2\data\data_lt2\ani\title\en\continue.arc" /B/Y
 
+rem Executa o gerador de splash
+cd Splash
+call make_splash.bat
+cd ..
+copy "Splash\arm9_splash.bin" "Asm\Originais" /B/Y
+
 rem Cria os overlays
 cd Asm
 call gen_overlay.bat
@@ -36,9 +42,6 @@ copy "Arquivos Gerais\utility.bin" "ROM Modificada\PLAYTON2\data\dwc" /B/Y
 copy "Arquivos Gerais\overlay_0002.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y
 copy "Arquivos Gerais\overlay_0019.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y
 copy "Arquivos Gerais\overlay_0023.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y
-
-rem Executa o gerador de splash
-rem copy "Splash\arm9.bin" "ROM Modificada\PLAYTON" /B/Y
 
 rem Monta a ROM nova e gera um patch
 cd ROM Modificada

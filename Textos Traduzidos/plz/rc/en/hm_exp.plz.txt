@@ -76,7 +76,7 @@ Seu hamster será atraído por esta
 casinha adorável se ela estiver
 num raio de três espaços do objeto,
 mas sempre vai ignorá-la caso haja
-aguma maçã por perto.
+alguma maçã por perto.
 !******************************!
 [obj_e04.txt]
 Este tronquinho atrai a atenção do

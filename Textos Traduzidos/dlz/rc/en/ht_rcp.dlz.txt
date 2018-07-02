@@ -1,60 +1,60 @@
-<0000><0012>C√≠trico Cl√°ssico
+<0000><0012>CÌtrico Cl·ssico
 !------------------------------!
-Um ch√° cl√°ssico com o toque especial
-das Sementes C√≠tricas. Este
-ingrediente lhe d√° um sabor √∫nico.
+Um ch· cl·ssico com o toque especial
+das Sementes CÌtricas. Este
+ingrediente lhe d· um sabor ˙nico.
 !******************************!
-<0001><0011>Fruta do O√°sis
+<0001><0011>Fruta do O·sis
 !------------------------------!
-Um ch√° que encanta mulheres e
-crian√ßas. Sua do√ßura refrescante
-√© o segredo de sua popularidade.
+Um ch· que encanta mulheres e
+crianÁas. Sua doÁura refrescante
+È o segredo de sua popularidade.
 !******************************!
-<0002><0027>N√©voa Doce
+<0002><0027>NÈvoa Doce
 !------------------------------!
-Um mistura √∫nica de sabores frutosos
+Um mistura ˙nica de sabores frutosos
 com um toque defumado. As folhas
 mostram sua vida amorosa futura.
 !******************************!
-<0003><0045>Ra√≠z Vigorosa
+<0003><0045>RaÌz Vigorosa
 !------------------------------!
-Rico em sabor, este ch√° aquece o
-corpo, melhora a circula√ß√£o e √©
-ideal para in√≠cio de resfriado.
+Rico em sabor, este ch· aquece o
+corpo, melhora a circulaÁ„o e È
+ideal para inÌcio de resfriado.
 !******************************!
-<0004><0066>Refor√ßo Apimentado
+<0004><0066>ReforÁo Apimentado
 !------------------------------!
 A pitada forte da Pimenta Cereja
-faz deste ch√° ideal para p√¥r para
-cima os √¢nimos de quem t√° pra baixo.
+faz deste ch· ideal para pÙr para
+cima os ‚nimos de quem t· pra baixo.
 !******************************!
 <0005><0125>Fruta Amarga
 !------------------------------!
 De sabor agridoce, com um toque
-amargo. Este ch√° complexo √©
+amargo. Este ch· complexo È
 ideal para adultos perspicazes.
 !******************************!
 <0006><0136>Sonho Apimentado
 !------------------------------!
-Este ch√° misterioso possui uma
+Este ch· misterioso possui uma
 doce, suave e com um toque
 apimentado.
 !******************************!
 <0007><0147>Trevo Fresco
 !------------------------------!
-Um ch√° peculiar onde tons defumados
+Um ch· peculiar onde tons defumados
 e doces coexistem. Para quem tem
-sede, √© perfeito para refrescar.
+sede, È perfeito para refrescar.
 !******************************!
 <0008><0234>Mescla Radiante
 !------------------------------!
-Um ch√° de aroma relaxante e sabor
-frutoso. √â rico em vitaminas e
-acalma inquietudes est√©ticas.
+Um ch· de aroma relaxante e sabor
+frutoso. … rico em vitaminas e
+acalma inquietudes estÈticas.
 !******************************!
 <0009><0346>Caiena Crepuscular
 !------------------------------!
-Ainda que a princ√≠pio tenha um
+Ainda que a princÌpio tenha um
 sabor suave, rapidamente se torna
 apimentado. Ideal para relaxar.
 !******************************!
@@ -64,9 +64,9 @@ Esta mistura faz maravilhas a
 todo tipo de enfermidade, apesar
 de ter um sabor extremamente forte.
 !******************************!
-<000B><0467>Elixir Layt√¥nico
+<000B><0467>Elixir LaytÙnico
 !------------------------------!
-Ser√° amor ao primeiro gole.
-A harmonia de sabores improv√°veis
+Ser· amor ao primeiro gole.
+A harmonia de sabores improv·veis
 resulta numa bebida milagrosa.
 !******************************!

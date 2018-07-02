@@ -296,7 +296,7 @@ variedade de pinturas.
 !******************************!
 [tobj158.txt]
 Há tantas coisas
-para comprar!
+pra comprar!
 !******************************!
 [tobj159.txt]
 Que tipo de edifício

@@ -91,13 +91,13 @@ então venham sempre que tiverem vontade
 de resolver um enigma.
 !******************************!
 [t12_031_100.gds]
-<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:199>Digo uma coisa, no entanto:
-Aqueles caras são ousados por me
-expulsarem do trem daquele jeito.<W>
+<01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:199>Quer saber? Aqueles caras são
+ousados por me expulsarem do trem
+daquele jeito!<W>
 !------------------------------!
-Mas enquanto estou esperando, pode
-dar uma olhada naquela cabaninha
-por enigmas perdidos.
+Mas enquanto espero, pode dar uma
+olhada naquela cabaninha e ver se
+tem algum enigma perdido lá!
 !******************************!
 [t12_040_100.gds]
 <01:00000038><03:5>NONE<03:5>NONE<01:00000002><03:58>Olha, e o que temos aqui?
@@ -126,8 +126,8 @@ Esqueça isso.<W>
 Enfim, você percebeu o festival que está
 acontecendo hoje, aqui em Dropstone?<W>
 !------------------------------!
-Hoje marca o quinquagésimo ano desde
-que nosso vilarejo foi fundada.
+Hoje marca o quinquagésimo ano
+desde que nosso vilarejo foi fundado.
 Divirta-se pra valer!
 !******************************!
 [t12_050_100.gds]
@@ -171,23 +171,23 @@ pista que eu achar no caminho!
 !******************************!
 [t12_051_100.gds]
 <01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:187>Nem mais um passo, caras. Não podem
-entrar a bordo ainda. O trem
-ainda tá quebrado, sacam?<W>
+subir a bordo ainda. O trem ainda tá
+quebrado, sacam?<W>
 !------------------------------!
 O vilarejo tá dando uma festa.
 Por que não vão pra lá curtir,
 enquanto consertamos o trem?
 !******************************!
 [t12_060_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:44>Uau, olha pro tanto de coisa
-que tem pra aqui fazer!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:44>Uau! Olha pro tanto de coisa
+que tem pra fazer aqui!
 !******************************!
 [t12_060_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:65>Deve ser o festival de que todos
 estavam falando.
 !******************************!
 [t12_060_300.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:55>Nunca fui para um festival
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:55>Nunca estive num festival
 antes. É maravilhoso!
 !******************************!
 [t12_060_400.gds]

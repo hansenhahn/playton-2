@@ -1,5 +1,5 @@
 
-Professor Layton e a Caixa de Pandora PT-BR - Beta 2
+Professor Layton e a Caixa de Pandora PT-BR - Beta 4
 
 - Um lançamento Monkeys Traduções e Jacutem Sabão -
 
@@ -24,9 +24,8 @@ Equipe:
 	Responsável: DiegoHH
 	ROMHacking e Programação: DiegoHH
 	Textos da História: DiegoHH, Solid One, Sahgo, Steve Doido, 
-	Textos dos Enigmas: DiegoHH, Gamerulez, Magalicia, Shagohod
+	Textos dos Enigmas: DiegoHH, Gamerulez, Magalicia, Shagohod, Steve Doido
 	Imagens: DiegoHH, Solid One
-	Revisão: DiegoHH
 
 Notas da Equipe:
 	- Pelo fato do jogo se passar numa Inglaterra fictícia, os nomes das personagens
@@ -41,13 +40,15 @@ Notas da Equipe:
 	  estão devidamente traduzidos para o português brasileiro.
 
 Notas das Versões:
-	- XX/XX/XXXX Beta 4
-		* Revisão dos enigmas 27 a ...
-		* Revisão ingame do Prólogo, Capítulo 1 e Capítulo 2.
-		* Tradução dos textos dos jogos do Hamster, Câmera e Chá.
-		* Correção dos marcadores presentes em alguns enigmas.
-		* Tradução e correção de várias imagens.
-		* Correção da largura da maioria dos caracteres.
+	- 30/06/2018 Beta 4
+		* Revisão ingame do Prólogo, Capítulo 1 e 2
+		* Tradução de mais alguns textos espalhados pelo jogo.
+		* Tradução do texto dos jogos do Hamster e da Câmera.
+		* Padronização de alguns termos.		
+		* Revisão dos enigmas 1 a 37.
+		* Tradução dos enigmas 27 a 59.
+		* Correção de algumas imagens.
+		* Correção da largura de alguns caracteres.
 	- 04/06/2018 Beta 3
 		* Revisão ingame do Prólogo e Capítulo 1.
 		* Tradução do texto dos perfis, memórias do Layton, diários, localização, etc.

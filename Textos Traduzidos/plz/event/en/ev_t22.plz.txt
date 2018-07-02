@@ -45,7 +45,7 @@ residência para um novo vilarejo...
 [t22_010_100.gds]
 <01:00000039><03:10>b2 normal<03:5>NONE<01:00000002><03:77>E aí, caras! Eu tô num belo dum
 aperto aqui. Podem dar uma mãozinha
-a essa senhora aqui, faz favor?
+pra essa senhora aqui, faz favor?
 !******************************!
 [t22_010_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:38>Qual seria o problema, madame?
@@ -846,9 +846,9 @@ Nunca, entendeu?
 <01:00000040><03:11>b1 normal2<03:5>NONE<01:00000002><03:246>Hmph, ora, não sei mais se eu
 quero falar com você.<W>
 !------------------------------!
-Pra ser franca, eu estava bastante
-animada até você aparecer. Agora tô
-mais rabugenta que gato na chuva.<W>
+Pra ser franco, eu estava bastante
+animado até você aparecer. Agora tô
+mais rabugento que gato na chuva.<W>
 !------------------------------!
 Se quiser se desculpar por ter
 arruinado meu dia, resolva este
@@ -867,8 +867,8 @@ saia por aí tagarelando sobre
 essa caixa de você-sabe-o-quê.<W>
 !------------------------------!
 Tocar nesse assunto nos lugares errados
-pode fazer um monte de gente lhe olhar
-feio. É isso que você quer?
+pode fazer um monte de gente olhar feio
+para você. É isso que você quer?
 !******************************!
 [t22_133_100.gds]
 <01:00000040><03:5>NONE<03:5>NONE<01:00000002><03:130>É isso mesmo! Muito bom.<W>
@@ -1065,7 +1065,7 @@ Já que estamos falando nisso, já
 ouviu falar de uma senhora misteriosa
 que vive colecionando enigmas?<W>
 !------------------------------!
-Ouvi dizer que ela coleta e guarda
+Ouvi dizer que ela recolhe e guarda
 todos os enigmas perdidos do mundo.<W>
 !------------------------------!
 Não me pergunte como ela faz isso.

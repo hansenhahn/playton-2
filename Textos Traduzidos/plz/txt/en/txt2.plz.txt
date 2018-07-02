@@ -622,20 +622,20 @@ VAZIO
 É Hora do Chá!
 !******************************!
 [tx_601.txt]
-Select a tea, then touch #rServe!#x to
-serve it.
+Escolha um chá, então toque em
+#rServir!#x para servi-lo.
 !******************************!
 [tx_602.txt]
-You found a hint coin at the
-bottom of the tea cup!
+Você encontrou uma moeda de dica
+embaixo do conjunto de chá!
 !******************************!
 [tx_603.txt]
-Let's take a breather and
-enjoy a nice cup of tea!
+Vamos pegar um ar e apreciar
+uma deliciosa xícara de chá!
 !******************************!
 [tx_604.txt]
-OK, you've made your choice.
-Touch #rServe!#x to pour a cup!
+Certo, você fez sua escolha. Toque
+#rServir!#x para encher uma xícara!
 !******************************!
 [tx_700.txt]
 Você resolveu o enigma

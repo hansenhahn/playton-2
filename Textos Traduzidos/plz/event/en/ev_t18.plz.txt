@@ -245,7 +245,7 @@ lhes dê um norte para seguir.
 !******************************!
 [t18_233_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:206>Ao conversar com Conrad, um estudante
-à bordo do trem, o professor acaba
+a bordo do trem, o professor acaba
 descobrindo um curioso boato.<W>
 !------------------------------!
 Ao que parece, todo o acesso ao vagão
@@ -598,35 +598,35 @@ começaram uma investigação
 cuidadosa da área.
 !******************************!
 [t18_400_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:262>Combine os ingredientes que coletar
-para preparar uma variedade de
-chás deliciosos.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:262>Combine os ingredientes que você
+coletar para preparar uma variedade
+de deliciosos chás.<W>
 !------------------------------!
-Os ingredientes de chá que você
+Os ingredientes para o chá que você
 possui no momento podem ser vistos
-nas caixas abaixo, na Tela de Toque*.<W>
+nas caixas abaixo, na Tela de Toque.<W>
 !------------------------------!
 Toque em um ingrediente para
 ver o seu nome e as propriedades
-que oferecerá ao seu chá.
+que ele oferecerá ao seu chá.
 !******************************!
 [t18_400_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:289>Quando estiver pronto para preparar
-o chá, toque nos ingredientes que
-quer usar e arraste-os para dentro do bule.<W>
+o chá, toque nos ingredientes que deseja
+usar e arraste-os para dentro do bule.<W>
 !------------------------------!
-É preciso colocar três doses
-dentro do bule antes de começar
-a ferver o chá.<W>
+É preciso colocar três ingredientes
+dentro do bule antes de começar a
+ferver o chá.<W>
 !------------------------------!
 Não se esqueça de que você pode
-usar múltiplas doses da mesma
-erva* em suas misturas.
+usar a mesma erva várias vezes em
+suas misturas.
 !******************************!
 [t18_400_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:323>Após colocar o seu terceiro
-ingrediente no bule, a tampa
-ao lado dele* começará a balançar.<W>
+ingrediente no bule, a tampa ao
+lado dele começará a balançar.<W>
 !------------------------------!
 Coloque a tampa sobre o bule
 para começar a ferver o seu chá.<W>
@@ -637,20 +637,20 @@ receitas de chá.<W>
 !------------------------------!
 Você pode conferir sua lista
 de receitas a qualquer hora.
-Basta tocar em #rTea Time#x.
+Basta tocar em #rHora do Chá#x.
 !******************************!
 [t18_400_400.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:300>Enquanto vê* sua lista de chás, toque em
-uma das xícaras* para ver o nome
-e as características do chá em questão.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:300>Enquanto você vê a lista de chás, toque
+em uma das xícaras para ver o nome
+e as propriedades do chá em questão.<W>
 !------------------------------!
 Quando encontrar o chá que escolheu
-servir, toque em #rServe!#x para oferecer
-uma xícara a quem estiver com sede.*<W>
+servir, toque em #rServir!#x para oferecer
+uma xícara a quem estiver com sede.<W>
 !------------------------------!
 Existem 12 receitas no total. Tente
 reunir o maior número possível delas,
-pois com certeza lhes serão úteis!
+pois com certeza elas lhes serão úteis!
 !******************************!
 [t18_410_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:165>Toque nas peças da câmera disponíveis
