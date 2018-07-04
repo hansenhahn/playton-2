@@ -1148,7 +1148,7 @@ duas maçãs de volta, Thomas terá...
 <00><14><10><0C><11><18><02><1F><E8><03><03><2C>
 Laurel deseja embrulhar estas flores de
 uma forma bem específica, visto que é
-um presente para uma querida amiga sua.
+um presente para um querido amigo seu.
 Ela gostaria que as flores fossem
 embrulhadas como mostrado abaixo, mas ela
 não tem ideia de por onde começar.
@@ -1224,7 +1224,7 @@ na Dica 1 e conte o número de peixes
 dentro da rede. Aí está sua resposta.
 !******************************!
 [n33.dat]
-<0034>Árvores em uma Estrada
+<0034>Árvores numa Estrada
 <00><14><10><0C><12><18><0F><21><F5><03><03><2B>
 A estrada rural mostrada aqui é decorada
 com uma fila reta de árvores, cada uma
@@ -1345,7 +1345,7 @@ A irão levar para mais fundo do solo
 ou para o covil da cobra.
 !******************************!
 [n36.dat]
-<0037>O Maior Golfista do Mundo
+<0037>O Ás do Golfe
 <00><19><16><13><11><19><16><24><F6><03><03><FF>
 Um golfista profissional tem a incrível
 habilidade de tacar a bola à distâncias de
@@ -1851,7 +1851,7 @@ formas que completam o espaço de 2 x 3
 cubos na camada superiora.
 !******************************!
 [n46.dat]
-<0047>A Eleição para Prefeito
+<0047>Eleição para Prefeito
 <00><19><16><13><12><1C><16><2E><F6><03><03><FF>
 Três pessoas em conflito umas com as outras
 estão concorrendo a prefeito na próxima

@@ -224,7 +224,7 @@ então não podem entrar ainda, tá?
 Vamos ver o que tem nelas!
 !******************************!
 [t12_080_100.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:43>Uau, olha pra esses balões
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:43>Uau! Olhe pra esses balões
 gigantes em forma de vacas!
 !******************************!
 [t12_080_200.gds]
@@ -239,8 +239,8 @@ preparando o desfile dos animais.
 !******************************!
 [t12_080_500.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:105>Sim, eu certamente gostaria de ver
-o desfile, mas ainda não parece
-estar apta para começar.
+o desfile, mas parece que ainda
+não está pronto para começar.
 !******************************!
 [t12_080_600.gds]
 <01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:61>Enquanto esperamos, podemos
@@ -248,8 +248,7 @@ ver outros lugares do vilarejo?
 !******************************!
 [t12_080_700.gds]
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:64>Certamente. Podemos voltar
-depois, quando o desfile
-iniciar.
+depois, quando o desfile iniciar.
 !******************************!
 [t12_080_800.gds]
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:5>Eba!
@@ -273,19 +272,19 @@ sejam tímidos!<W>
 !------------------------------!
 Ouçam, se forem conhecer apenas
 um nome em Dropstone, façam questão
-que seja o do Sr. Anderson.<W>
+de que seja o do Sr. Anderson.<W>
 !------------------------------!
-Este homem não só está nadando
-na grana, como basicamente é
-quem administra Dropstone.<W>
+Este homem não só nada na grana,
+como basicamente é quem administra
+Dropstone.<W>
 !------------------------------!
 Mas ele é um grande sujeito que
 trata todos com respeito, até o
 carteiro, que por acaso sou eu.<W>
 !------------------------------!
 Dá pra dizer muita coisa de um
-homem pela forma que trata seu
-carteiro.<W>
+homem pela forma com que trata
+seu carteiro.<W>
 !------------------------------!
 Mas até bons homens como ele tem
 problemas. Ouvi que ele se preocupa
@@ -320,7 +319,7 @@ Sr. Anderson e a Caixa Elísia,
 Professor?
 !******************************!
 [t12_100_700.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:155>Bem, parece que Sr. Anderson
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:155>Bem, parece que o Sr. Anderson
 age como o líder desta comunidade.<W>
 !------------------------------!
 É natural que ele saiba de tudo
@@ -333,7 +332,7 @@ apostar nisso.<W>
 !------------------------------!
 Quero dizer, até mesmo o dono
 do Molentary Express para aqui
-e presta uma visita a ele na cidade.<W>
+e presta uma visita a ele.<W>
 !------------------------------!
 Sim, aposto que, neste exato momento,
 aqueles dois policiais estão sendo
@@ -397,21 +396,20 @@ realizar os desejos da finada avó
 da jovem mestra.
 !******************************!
 [t12_110_1600.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:63>Entendo. Que mal eu pergunte,
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:63>Entendo. Que mal lhe pergunte,
 quais seriam esses desejos?
 !******************************!
 [t12_110_1700.gds]
-<01:00000016><03:10>b1 normal<03:5>NONE<01:00000003><03:347>Bem...<W> Eu mesma só ouvi dos
-outros parte da história, então
+<01:00000016><03:10>b1 normal<03:5>NONE<01:00000003><03:347>Bem...<W> Eu mesma só ouvi de outras
+pessoas partes da história, então
 não tenho muito a dizer.<W>
 !------------------------------!
 Mas independente do pedido, o que
 a jovem mestra sente é extremamente
 importante.<W>
 !------------------------------!
-Ah, olhem só. Aqui estou eu
-fofocando enquanto há uma
-ceia a preparar.<W>
+Ah, olhem só. Aqui estou eu fofocando
+enquanto há uma ceia pra preparar.<W>
 !------------------------------!
 Com licença, Professor Layton.
 Preciso voltar ao trabalho.
@@ -420,8 +418,8 @@ Preciso voltar ao trabalho.
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:239>Ah, um instante!<W>
 ...Droga, ela se foi.<W>
 !------------------------------!
-Sou só eu, Professor, ou parece que
-a filha do Sr. Anderson planeja
+Sou só eu, Professor, ou parece
+que a filha do Sr. Anderson planeja
 deixar seu lar?<W>
 !------------------------------!
 Se estiver, não parece estranho
@@ -480,8 +478,8 @@ de curiosidades como essa.
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:19>O mestre, madame?
 !******************************!
 [t12_110_700.gds]
-<01:00000016><03:10>b1 normal<03:5>NONE<01:00000003><03:172>Ah sim, perdão a falta de atenção.
-Me esqueço que são novos aqui.<W>
+<01:00000016><03:10>b1 normal<03:5>NONE<01:00000003><03:172>Ah, sim! Perdão pela falta de atenção.
+Esqueci que são novos aqui.<W>
 !------------------------------!
 Sabe, arrisco um palpite de que não há
 um único residente em nosso vilarejo
@@ -490,7 +488,7 @@ que não conheça o Sr. Anderson.
 [t12_110_800.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:89>Entendo. Bem, se possível, ficaríamos
 gratos se nos conseguisse uma
-audiência com Sr. Anderson.
+audiência com o Sr. Anderson.
 !******************************!
 [t12_110_900.gds]
 <01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:100>Normalmente eu diria que ele ficaria
@@ -547,9 +545,8 @@ ingredientes que te dei.
 "baronialidade" chafurde na lama
 com suas vacas. Vou a outro lugar!<W>
 !------------------------------!
-Até onde sei, essa coisa toda
-não passa de uma frívola
-distração para os ricos!<W>
+Até onde sei, essa coisa toda não passa
+de uma frívola distração pros ricos!<W>
 !------------------------------!
 Só me resta assumir que sua obsessão
 pela caixa origina-se do excesso de
@@ -561,19 +558,19 @@ a mim de imediato, entendido?
 !******************************!
 [t12_130_1100.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:69>Estamos sempre dispostos a
-cooperar, Inspetor. Agora,
-por favor, nos dê licença.
+cooperar, Inspetor. Agora, por
+favor, nos dê licença.
 !******************************!
 [t12_130_1200.gds]
 <01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:63>Certo, podem ir.<W> Venha comigo,
 Barton. Temos trabalho a fazer.
 !******************************!
 [t12_130_1300.gds]
-<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:21>Hmm? Ah, s-sim senhor...
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:21>Hmm? Ah! S-sim, senhor...
 !******************************!
 [t12_130_1400.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:63>Certo, melhor voltarmos rápido
-para o local do desfile!
+pro local do desfile!
 !******************************!
 [t12_130_200.gds]
 <01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:22>Ora, olha quem está aqui.
@@ -600,12 +597,11 @@ conexão entre o Sr. Anderson e o
 caso que está investigando?
 !******************************!
 [t12_130_600.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:475>Não que seja de sua conta, mas
-talvez você possa ser de grande
-ajuda.<W>
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:475>Não que seja da sua conta, mas talvez
+você possa ser de grande ajuda.<W>
 !------------------------------!
 Ouvi rumores que ele tentou
-encontrar esta Caixa Elísia no
+encontrar essa Caixa Elísia no
 passado, então fui falar com ele.<W>
 !------------------------------!
 Mas quando cheguei na sua casa,
@@ -617,7 +613,7 @@ me surpreenderia se ele estivesse
 fingindo não estar em casa.<W>
 !------------------------------!
 Como não pude ver o homem, saí de
-lá. Deviam no mínimo ter me oferecido
+lá. Deviam ter, no mínimo, me oferecido
 um chazinho!
 !******************************!
 [t12_130_700.gds]
@@ -627,27 +623,26 @@ em primeiro lugar?
 !******************************!
 [t12_130_800.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:80>É apenas especulação, Luke.
-Não podemos afirmar, até
+Não podemos afirmar até
 perguntarmos a ele próprio.
 !******************************!
 [t12_130_900.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:99>Nesse caso, suponho que devemos
-ir até o desfile de animais que
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:99>Nesse caso, suponho que devamos
+ir ao desfile de animais que
 o Sr. Anderson está julgando.
 !******************************!
 [t12_140_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:76>Uau, olha pro tamanho dessa
-mansão. Aposto que você se
-perde fácil lá dentro!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:76>Uau! Olhe pro tamanho dessa mansão!
+Aposto que você se perde fácil lá dentro!
 !******************************!
 [t12_140_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:90>É impressionante, pra dizer o
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:90>É impressionante, para dizer o
 mínimo. Certamente essa enorme
 mansão pertence ao Sr. Anderson.
 !******************************!
 [t12_140_300.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Então foi pra cá que o Inspetor
-Chelmey e seu assistente vieram,
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Então foi pra lá que o Inspetor
+Chelmey e seu assistente foram,
 certo?
 !******************************!
 [t12_140_400.gds]
@@ -788,7 +783,7 @@ diferente do que você estava
 acostumada.
 !******************************!
 [t12_190_500.gds]
-<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:140>Uau, Flora, você certamente
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:140>Uau! Flora, você certamente
 parece estar animada!<W>
 !------------------------------!
 Mas não fique tão empolgada assim
@@ -796,7 +791,7 @@ com as coisas, senão podemos te
 deixar pra trás sem querer.
 !******************************!
 [t12_190_600.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:126>Uau, o que é aquilo? Aah, e olha,
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:126>Uau! O que é aquilo? Aah, e olha,
 tem outro bem ali...<W>
 !------------------------------!
 ...Ahn?<W>
@@ -1058,8 +1053,7 @@ assim, pensando alto!
 !******************************!
 [t12_320_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:63>Olha pra todas essas barracas!
-Isso é o que eu posso chamar de
-festival.
+Isso é o que eu chamo de festival!
 !******************************!
 [t12_320_200.gds]
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:64>Aah, eu adoro todo esse clima.

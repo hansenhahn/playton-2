@@ -404,7 +404,7 @@ a peça arredondada
 a peça ajustável
 !******************************!
 [cam_5.txt]
-a peça com parafusos
+a peça com parafuso
 !******************************!
 [cam_6.txt]
 a bateria

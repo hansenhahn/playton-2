@@ -261,7 +261,7 @@ Já faz eras desde a última vez
 fiz alguma coisa.
 !******************************!
 [t13_180_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Céus! Olha este lugar! É incrível!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Céus! Olhe este lugar! É incrível!
 !******************************!
 [t13_180_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>Sim, ele é bem mais luxuoso que

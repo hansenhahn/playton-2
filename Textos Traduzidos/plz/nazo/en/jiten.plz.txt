@@ -83,7 +83,7 @@ Prédio do Schrader
 Loja do Vilarejo
 !******************************!
 [p_31.txt]
-Caminho para a Fazenda
+Caminho pra Fazenda
 !******************************!
 [p_32.txt]
 Entrada da Fazenda

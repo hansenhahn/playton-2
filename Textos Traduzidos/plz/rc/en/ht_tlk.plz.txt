@@ -184,7 +184,7 @@ Devo confessar que é bem agradável.
 minhas preocupações de mim.
 !******************************!
 [ht_009_3.txt]
-Uau, tudo isso só por causa de um
+Uau! Tudo isso só por causa de um
 ou dois goles? O que uma xícara de
 chá é capaz de fazer é fascinante!
 !******************************!
@@ -558,8 +558,8 @@ mais doce?
 !******************************!
 [ht_400_0.txt]
 %s pega a xícara quente
-de %s saboreando cada
-gole do chá!
+de %s e saboreia
+cada gole do chá!
 !******************************!
 [ht_400_1.txt]
 Isso sim é chá bom! %s

@@ -1,10 +1,10 @@
 [t22_000_100.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Olha este pequeno monumento
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Olhe este pequeno monumento
 aqui, professor.
 !******************************!
 [t22_000_200.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:79>Parece estar comemorando algo.
-Vamos ver o que está escrito
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:79>Parece ser em comemoração a alguma
+coisa. Vamos ver o que está escrito
 nisso... 
 !******************************!
 [t22_001_100.gds]
@@ -19,11 +19,10 @@ verdade é um vilarejo muito jovem.
 [t22_003_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:93>De acordo com o que está escrito aqui,
 este vilarejo foi fundado pelo seu
-primeiro colonizador 50 anos atrás.
+primeiro morador a 50 anos atrás.
 !******************************!
 [t22_003_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:97>
-Cinquenta anos parece um tempão
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:97>Cinquenta anos parece um tempão
 pra uma pessoa, mas acho que pra
 um vilarejo, não é muito tempo.
 !******************************!
@@ -32,7 +31,7 @@ um vilarejo, não é muito tempo.
 !******************************!
 [t22_003_400.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:200>Mas este fato nos remete a mais
-perguntas. Por que este colonizador
+perguntas. Por que este morador
 veio para cá, em primeiro lugar?<W>
 !------------------------------!
 É difícil crer que ele, ou ela, tenha
@@ -303,7 +302,7 @@ com ele criando caso, mas não
 sei como resolver a situação.
 !******************************!
 [t22_040_1200.gds]
-<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:88>Deixa que eu resolve isso! Se tem 
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:88>Deixa que eu resolvo isso! Se tem 
 alguém que sabe o que se passou
 aqui, são as vacas!
 !******************************!
@@ -339,8 +338,8 @@ dois ali estão pra sair na mão
 um com o outro.
 !******************************!
 [t22_040_300.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:51>Me pergunto o que será que deixou esses
-dois cavalheiros tão aborrecidos.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:51>O que será que deixou aqueles dois
+cavalheiros tão aborrecidos?
 !******************************!
 [t22_040_400.gds]
 <01:00000011><03:5>NONE<03:5>NONE<01:00000001><03:179>Veja só esse couro sarnento!
@@ -357,7 +356,7 @@ resolva isso? Pode pelo menos
 dizer qual é a sua vaca?
 !******************************!
 [t22_040_600.gds]
-<01:00000011><03:5>NONE<03:5>NONE<01:00000001><03:39>E como cê espera que eu saiba
+<01:00000011><03:5>NONE<03:5>NONE<01:00000001><03:39>E como você espera que eu saiba
 qual é, no meio de todas essas
 outras? 
 !******************************!
@@ -374,7 +373,7 @@ alguém trocou sua vaca premiada
 por outra vaca.
 !******************************!
 [t22_041_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:26>OK, vamos tentar isso de novo!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:26>Certo, vamos tentar isso de novo!
 !******************************!
 [t22_043_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:140>Parece que essas duas moças
@@ -400,14 +399,14 @@ toda pra pegar sua vaca de volta,
 e acabou perdendo por causa disso.
 !******************************!
 [t22_043_1300.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:81>Sim. Suponho que isso serve de
-exemplo que nem sempre as coisas
-ocorrem como planejado na vida.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:81>Sim. Acho que isso serve de exemplo
+de que nem sempre as coisas ocorrem
+como planejado na vida.
 !******************************!
 [t22_043_1400.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:77>Tem razão, Professor.<W> Aliás,
 será que o Sr. Anderson já não
-deveria estar por aqui?
+está por aqui?
 !******************************!
 [t22_043_1500.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:93>Vai dar um pouco de trabalho
@@ -420,7 +419,7 @@ Essa pelagem lustrosa! Esse olhar
 comovente! É minha vaca, sem dúvida!
 !******************************!
 [t22_043_300.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:26>Então tá tudo bem agora?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:26>Então está tudo bem agora?
 !******************************!
 [t22_043_400.gds]
 <01:00000011><03:5>NONE<03:5>NONE<01:00000001><03:89>Comigo tá tudo ótimo, menino! Com
@@ -428,7 +427,7 @@ minha querida de volta, agora sim
 eu ganho o primeiro prêmio. Valeu!
 !******************************!
 [t22_043_500.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:52>Bom, Luke, você certamente tem
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:52>Bem, Luke, você certamente tem
 jeito com animais.
 !******************************!
 [t22_043_600.gds]
@@ -440,7 +439,7 @@ prestes a anunciar o vencedor.
 !******************************!
 [t22_043_800.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:65>E o vencedor da Coroa Leiteira
-de Dropstone este ano é...<@W>6<@W>6
+de Dropstone deste ano é...<@W>6<@W>6
 !******************************!
 [t22_043_850.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:48>A beleza estonteante da vaca
@@ -664,8 +663,8 @@ ervas que lhe dei, pra preparar uma xícara
 do delicioso chá Cítrico Clássico.
 !******************************!
 [t22_093_300.gds]
-<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:403>No entanto, há espaço
-pra fazer experimentos.<W>
+<01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:403>No entanto, há espaço pra fazer
+experimentos.<W>
 !------------------------------!
 Por exemplo, tente misturar
 duas medidas de Fruta Vigorosa
@@ -1082,33 +1081,33 @@ pra você meu melhor enigma!
 Queria cortar esta tábua de
 madeira, mas estraguei ela toda.<W>
 !------------------------------!
-Como está agora, é inútil. Consegue
-pensar num jeito de transformar os
-pedaços em um quadrado perfeito?
+Do jeito que tá agora, é inútil. Você
+consegue pensar num jeito de transformar
+os pedaços num quadrado perfeito?
 !******************************!
 [t22_181_100.gds]
 <01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:95>Estive esperando você voltar.
-Vai me ajudar a consertar essa
+Vai me ajudar a consertar esta
 tábua, não vai?
 !******************************!
 [t22_182_100.gds]
 <01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:102>Meu marido faz a comida e eu tomo
-de conta do trabalho duro.<W> Como
-sou corpulenta, não tem problema!
+conta do trabalho duro.<W> Como sou
+corpulenta, não tem problema!
 !******************************!
 [t22_183_100.gds]
 <01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:92>Uoo hoo, isso resolve o problema!
-Valeu! Agora enfim posso voltar
-a construir esse celeiro.
+Valeu! Finalmente posso voltar a
+construir esse celeiro.
 !******************************!
 [t22_184_100.gds]
-<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:57>Está dizendo que não vai ajudar
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:57>Tá dizendo que não vai ajudar
 uma carpinteira em apuros?
 !******************************!
 [t22_190_100.gds]
-<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:102>Ah, olá. Tenho outro problema
-com tábuas de madeira em mãos.
-Saca o formato que preciso agora.
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:102>Ah, olá! Tenho outro problema com
+tábuas de madeira em mãos. Olha só
+o formato que preciso agora.
 !******************************!
 [t22_191_100.gds]
 <01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:99>Graças a deus você voltou. Acho
@@ -1117,8 +1116,8 @@ problema sem a sua ajuda.
 !******************************!
 [t22_192_100.gds]
 <01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:135>Celeiros são ótimos porque dá
-pra jogar um monte de tralha dentro
-e esquecer que está lá!<W>
+pra jogar um monte de tralha
+dentro e esquecer que tá lá!<W>
 !------------------------------!
 Valeu mesmo pela sua ajuda!
 !******************************!
@@ -1131,7 +1130,7 @@ essa tábua, mas agora posso usá-la
 pra construir meu celeiro.
 !******************************!
 [t22_194_100.gds]
-<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:78>Então, o que está dizendo é que
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:78>Então, o que tá dizendo é que
 vai ficar apenas olhando enquanto
 eu fico me debatendo aqui?
 !******************************!
@@ -1227,8 +1226,8 @@ Pode ser só um rumor qualquer,
 no entanto. Quem sabe?
 !******************************!
 [t22_213_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Uma cidade inexplorada?! Uau,
-imagino se é verdade!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Uma cidade inexplorada?! Uau!
+Imagino se é verdade!
 !******************************!
 [t22_214_100.gds]
 <01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:57>O que acham?<W> É um enigma
@@ -1291,13 +1290,13 @@ do vilarejo.
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:49>Isso, mas parece que hoje está fechado.
 !******************************!
 [t22_230_300.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:192>Bom, talvez quiseram dar a todos
-a chance de aproveitar as
-festividades de hoje.<W>
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:192>Bom, talvez quiseram dar a
+todos a chance de aproveitar
+as festividades de hoje.<W>
 !------------------------------!
-Luke, isso me lembra um enigma
-que ocorre em frente a uma prefeitura
-igual a esta. Quer tentar?
+Luke, isso me lembra um enigma que
+ocorre em frente a uma prefeitura
+igual a essa. Quer tentar?
 !******************************!
 [t22_230_400.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:26>Você sabe que eu quero, Professor!
@@ -1311,8 +1310,8 @@ na prefeitura, mas já que está
 fechada, teremos que desistir.
 !******************************!
 [t22_233_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Muito bem. Agora, devíamos
-voltar a investigar o vilarejo.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Muito bem. Agora, vamos voltar
+a investigar o vilarejo.
 !******************************!
 [t22_234_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>Desistindo cedo assim, garoto?
@@ -1430,8 +1429,8 @@ Beleza, lá vai!
 !******************************!
 [t22_272_100.gds]
 <01:0000003D><03:5>NONE<03:5>NONE<01:00000003><03:191>Por alguma razão, todos os idosos
-daqui são evasivos quanto às
-origens de Dropstone.<W>
+daqui são evasivos quanto às origens
+de Dropstone.<W>
 !------------------------------!
 Tenho um palpite de que algo
 estranho deve ter acontecido aqui
@@ -1450,8 +1449,9 @@ sua história, é comigo mesmo.
 você sabe algo sobre uma relíquia
 conhecida como Caixa Elísia?<W>
 !------------------------------!
-Você pode ter ouvido pessoas se
-referindo a ela como <''>Caixa de Pandora<''>.
+Você pode ter ouvido pessoas
+se referindo a ela como <''>Caixa
+de Pandora<''>.
 !******************************!
 [t22_273_300.gds]
 <01:0000003D><03:5>NONE<03:5>NONE<01:00000003><03:418>Hmm, é difícil de acreditar, mas temo

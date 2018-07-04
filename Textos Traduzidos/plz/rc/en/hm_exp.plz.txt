@@ -12,12 +12,12 @@ moedas de dica para você!
 Não vá perder essa moeda!
 !******************************!
 [msg_nrm_fail.txt]
-%s andou %d passos
+%s andou %d passos,
 mas não conseguiu alcançar
 seu objetivo.
 !******************************!
 [msg_nrm_fail1.txt]
-%s andou %d passo
+%s andou %d passo,
 mas não conseguiu alcançar
 seu objetivo.
 !******************************!
@@ -31,7 +31,7 @@ anterior andando %d passos!
 Caraca, como ele tá orgulhoso!
 !******************************!
 [msg_slm_even.txt]
-%s andou %d passos
+%s andou %d passos,
 mas faltava só mais um passo
 para quebrar seu recorde. Bolas!
 !******************************!
@@ -88,9 +88,9 @@ raio, o hamster preferirá a fruta.
 [obj_e05.txt]
 Esta florzinha preciosa atrai a
 atenção do hamster se ele estiver
-num raio de três espaços da flor,
-muito embora ele goste muito mais
-de maçãs.
+num raio de três espaços dela,
+embora ele goste muito mais de
+maçãs.
 !******************************!
 [obj_e06.txt]
 Quando o hamster se encosta nessa

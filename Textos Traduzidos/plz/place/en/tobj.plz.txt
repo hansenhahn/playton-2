@@ -267,7 +267,7 @@ Será que eles vendem
 guloseimas locais aqui?
 !******************************!
 [tobj151.txt]
-Esse parterre é um
+Este canteiro é um
 primor de beleza.
 !******************************!
 [tobj152.txt]
@@ -281,7 +281,7 @@ um desses balões.
 !******************************!
 [tobj154.txt]
 Esses balões enormes
-estão na forma de vacas.
+têm a forma de vacas.
 !******************************!
 [tobj155.txt]
 Ahh! Que bonitinhos!
@@ -292,7 +292,7 @@ bicho de pelúcia?
 !******************************!
 [tobj157.txt]
 Aqui há uma grande
-variedade de pinturas.
+variedade de tintas.
 !******************************!
 [tobj158.txt]
 Há tantas coisas
@@ -776,7 +776,7 @@ aniversário de 50 anos
 do vilarejo.
 !******************************!
 [tobj81.txt]
-Com certeza levaram um
+Com certeza levaram
 um tempão pra levantar
 esses cartazes!
 !******************************!

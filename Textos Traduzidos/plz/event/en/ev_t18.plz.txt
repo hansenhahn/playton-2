@@ -186,14 +186,14 @@ e os demais ficam sabendo sobre um
 desfile de animais prestes a começar.
 !******************************!
 [t18_200_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Enquanto o desfile não inicia,
-eles recolhem várias informações 
-desconexas, talvez da Caixa Elísia.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Enquanto o desfile não inicia, eles
+recolhem várias informações desconexas,
+possivelmente sobre a Caixa Elísia.
 !******************************!
 [t18_200_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Pouco depois, os três dão uma
-pausa em sua investigação e
-voltam para verem o desfile.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Pouco depois, os três dão uma pausa
+em sua investigação e retornam para
+verem o desfile.
 !******************************!
 [t18_210_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Graças a Luke, o desfile dos animais
