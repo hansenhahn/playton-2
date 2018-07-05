@@ -753,7 +753,7 @@ pista da Caixa Elísia.
 mas parece que nossa jornada no
 Molentary Express ainda não acabou.<W>
 !------------------------------!
-Cerrto, vocês dois.
+Certo, vocês dois.
 Vamos voltar à estação.
 !******************************!
 [t12_160_900.gds]
@@ -768,26 +768,25 @@ ao palco.
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:57>O lugar está cheio de gente, não é?
 !******************************!
 [t12_190_200.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:99>Cuidado, Flora. Se não tomar cuidado
-por onde anda, pode acabar se
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:99>Preste atenção, Flora. Se não tomar
+cuidado por onde anda, pode acabar
 esbarrando em alguém.
 !******************************!
 [t12_190_300.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:91>Ops, desculpe. Isso tudo é tão
-novo pra mim que esqueço de
-prestar atenção pra onde vou.
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:91>Ops, desculpe. Isso tudo é tão novo
+pra mim que esqueço de prestar atenção
+aonde vou.
 !******************************!
 [t12_190_400.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:74>Compreensível. Afinal, é muito
-diferente do que você estava
-acostumada.
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:74>Compreensível. Afinal, é muito diferente
+do que você estava acostumada.
 !******************************!
 [t12_190_500.gds]
-<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:140>Uau! Flora, você certamente
-parece estar animada!<W>
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:140>Uau! Flora, você parece estar
+muito animada!<W>
 !------------------------------!
 Mas não fique tão empolgada assim
-com as coisas, senão podemos te
+com as coisas, senão podemos lhe
 deixar pra trás sem querer.
 !******************************!
 [t12_190_600.gds]
@@ -809,21 +808,20 @@ Aonde vocês foram?
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:23>Ah? O que você ouviu?
 !******************************!
 [t12_200_1100.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:221>Que um homem chamado Romie estava
-fazendo perguntas por aí, sobre
-a Caixa Elísia.<W>
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:221>Que um homem chamado Romie
+estava fazendo perguntas por aí,
+sobre a Caixa Elísia.<W>
 !------------------------------!
-Se pudermos rastreá-lo, talvez
-ele possa nos dizer algo que
-não sabemos.<W>
+Se pudermos rastreá-lo, talvez ele
+possa nos dizer algo que não sabemos.<W>
 !------------------------------!
 Ouvi de uma pessoa que ele esteve
 perambulando pela estação.
 !******************************!
 [t12_200_1200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:89>Estas são novidades bem interessantes.
-Vamos até a estação e ver se podemos
-achar este tal Romie.
+Vamos até a estação e ver se achamos
+esse tal Romie.
 !******************************!
 [t12_200_1300.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:81>Muito bem, Flora! As informações
@@ -843,8 +841,8 @@ com todas essas pessoas em
 volta.
 !******************************!
 [t12_200_400.gds]
-<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:46>Aonde será que aquela
-garota pode ter ido?
+<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:46>Aonde será que aquela garota
+pode ter ido?
 !******************************!
 [t12_200_500.gds]
 <01:00000005><03:9>b1 weep2<03:5>NONE<01:00000003><03:6>Ufa!
@@ -856,7 +854,7 @@ garota pode ter ido?
 <01:00000005><03:8>b1 weep<03:5>NONE<01:00000003><03:138>Desculpa, tinha tanta gente que
 acabei perdendo vocês.<W>
 !------------------------------!
-Virei para olhar uma coisa e,
+Virei pra olhar uma coisa e,
 antes de perceber, vocês dois
 tinham sumido.
 !******************************!
@@ -867,7 +865,7 @@ até nós.<W>
 !------------------------------!
 Com tantas pessoas em volta, sabe-se
 lá quanto tempo nós teríamos levado
-para achá-la.
+pra achá-la.
 !******************************!
 [t12_200_900.gds]
 <01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:145>Terei mais cuidado de agora em
@@ -884,13 +882,11 @@ estava vagando por aí.
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:22>Calma aí, Professor!
 !******************************!
 [t12_220_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:40>Certamente. Como posso lhe ser
-útil?
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:40>Certamente. Como posso lhe ser útil?
 !******************************!
 [t12_220_300.gds]
-<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:163>Parece que você teve
-bastante progresso em sua
-investigação hoje.<W>
+<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:163>Parece que você teve bastante
+progresso em sua investigação hoje.<W>
 !------------------------------!
 Me diga, durante o curso de suas
 investigações, você não chegou a
@@ -900,17 +896,15 @@ ouvir nada da minha filha, por acaso?
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:22>Sua... filha, senhor?
 !******************************!
 [t12_220_500.gds]
-<01:00000055><03:8>b1 weep<03:10>b1 normal<01:00000002><03:363>Sim, Katia. Sabe, ela mal tem
-ido em casa desde que sua avó
-Sophia faleceu.<W>
+<01:00000055><03:8>b1 weep<03:10>b1 normal<01:00000002><03:363>Sim, Katia. Sabe, ela mal tem ido em
+casa desde que sua avó Sophia faleceu.<W>
 !------------------------------!
 Sophia e minha filha eram muito
 próximas, então sua morte foi
 um choque e tanto pra Katia.<W>
 !------------------------------!
-Se vê-la, poderia por favor dizer
-a ela que seu pai deseja que
-volte para casa?<W>
+Se vê-la, poderia por favor dizer a ela
+que seu pai deseja que volte para casa?<W>
 !------------------------------!
 Se um cavalheiro elegante como
 você entregar esta mensagem,
@@ -926,12 +920,11 @@ eu não seja de muita ajuda.
 filha única.<W>
 !------------------------------!
 Ela é tudo para mim e estarei
-pra sempre em débito com você,
+para sempre em débito com você,
 se puder me ajudar.
 !******************************!
 [t12_220_800.gds]
-<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:45>Imagino que pessoa é
-esta Katia.
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:45>Imagino que pessoa é essa Katia.
 !******************************!
 [t12_220_900.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:126>Seu palpite é tão bom quanto o meu.<W>
@@ -978,8 +971,8 @@ pelo menos 30 enigmas, os reparos
 no trem nunca vão acabar.
 !******************************!
 [t12_282_100.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:80>Olha aí, você detonou pelo menos uns
-30 enimas! Quem é a estrela de
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:80>Olha aí, você detonou pelo menos
+uns 30 enimas! Quem é a estrela do
 rock agora?
 !******************************!
 [t12_290_100.gds]
@@ -1020,17 +1013,17 @@ Não é do feitio de um cavalheiro.
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:25>Tem razão, Professor.
 !******************************!
 [t12_300_100.gds]
-<01:00000015><03:5>NONE<03:5>NONE<01:00000002><03:299>Meu Deus. Meu Deus. O trem vai
+<01:00000015><03:5>NONE<03:5>NONE<01:00000002><03:299>Meu deus. Meu deus. O trem vai
 partir a qualquer minuto, e ela
 ainda não chegou.<W>
 !------------------------------!
 Os esforços de todos terão sido em
 vão se ela perder esse trem saindo
-da cidade... Meu Deus. Meu Deus.<W>
+da cidade... Meu deus. Meu deus.<W>
 !------------------------------!
 Talvez as mulheres precisem de mais tempo
-pra se aprontar pra essas coisas. Por que
-ela tinha que me deixar preocupado?
+pra se aprontar pra essas coisas. Por
+que ela tinha que me deixar preocupado?
 !******************************!
 [t12_300_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:45>Com licença, mas você está
@@ -1038,8 +1031,8 @@ esperando por alguém?
 !******************************!
 [t12_300_300.gds]
 <01:00000015><03:11>b1 normal2<03:5>NONE<01:00000002><03:86>Não é da sua conta! Não contamos
-nem mesmo ao mestre sobre o
-que estamos fazendo!
+nem mesmo ao mestre sobre o que
+estamos fazendo!
 !******************************!
 [t12_300_400.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:104>Luke, talvez seja melhor deixá-lo

@@ -119,7 +119,7 @@ no que lhes digo sobre o Sr. Anderson,
 pois aí achá-lo vai ser moleza.
 !******************************!
 [t22_032_100.gds]
-<01:00000033><03:5>NONE<03:5>NONE<01:00000002><03:98>O Sr. Anderson é um pilar desta
+<01:00000033><03:5>NONE<03:5>NONE<01:00000002><03:98>O Sr. Anderson é o pilar desta
 comunidade. Ele fez deste vilarejo
 o lugar que chamo de lar.
 !******************************!
@@ -137,21 +137,21 @@ qual o paradeiro atual da Sophia?
 Em seus últimos dias, passou um bom
 tempo só em seu quarto, escrevendo.<W>
 !------------------------------!
-Lamentavelmente, nunca soube a
-razão dela querer pôr as mãos
+Lamentavelmente, nunca soube
+a razão dela querer pôr as mãos
 naquela caixa.
 !******************************!
 [t22_033_1200.gds]
 <01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:32>Entendo. Sinto muito por sua perda.
 !******************************!
 [t22_033_1300.gds]
-<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:180>Obrigado. Bom, minha mãe talvez
+<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:180>Obrigado. Bem, minha mãe talvez
 soubesse algo do assunto, mas
 agora ela se foi.<W>
 !------------------------------!
 Agora vocês sabem tanto quanto eu.
-Sinto não poder lhe ser de mais
-ajuda, senhor. 
+Sinto não poder ser de mais ajuda,
+senhor. 
 !******************************!
 [t22_033_1400.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:96>Não se preocupe, Sr. Anderson. Nossa
@@ -195,11 +195,11 @@ que não vai nos levar a lugar algum.
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:311>Ah, eu não diria isso, Luke.<W>
 !------------------------------!
 Parece que este vilarejo está
-intrinsecamente ligado à
-Caixa Elísia.<W>
+intrinsecamente ligado à Caixa
+Elísia.<W>
 !------------------------------!
 Também achei interessante a escolha
-de palavras de Sr. Anderson. O que
+de palavras do Sr. Anderson. O que
 ele quis dizer com <''>sacrifícios<''>?<W>
 !------------------------------!
 Bom, é algo para ponderarmos depois.
@@ -275,8 +275,8 @@ falecido, a Sophia continuou a me
 tratar como se fosse seu filho.
 !******************************!
 [t22_033_950.gds]
-<01:00000055><03:8>b1 weep<03:10>b1 normal<01:00000002><03:94>Sophia procurou de cima a baixo por
-essa caixa, mas nunca encontrou
+<01:00000055><03:8>b1 weep<03:10>b1 normal<01:00000002><03:94>A Sophia procurou de cima a baixo
+por essa caixa, mas nunca encontrou
 o que procurava.
 !******************************!
 [t22_034_100.gds]
@@ -574,7 +574,7 @@ lhe custar um centavo sequer.
 !******************************!
 [t22_080_100.gds]
 <01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:137>Meu deus, esqueci de colher maçãs
-para a refeição de hoje à noite.<W>
+pra refeição de hoje à noite.<W>
 !------------------------------!
 Aliás, isso me lembra um enigma
 que ouvi uma vez. Gostaria
@@ -922,8 +922,7 @@ eu e você, se não mais.
 tentar tentar o enigma mais tarde.
 !******************************!
 [t22_150_100.gds]
-<01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:176>
-Já ouviu falar no velho ditado
+<01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:176>Já ouviu falar no velho ditado
 <''>a roupa faz o homem<''>?<W>
 !------------------------------!
 Bom, pela aparência de vocês, diria
@@ -943,15 +942,15 @@ Vê este chapéu? Ninguém desbanca
 uma aparência tão artística.
 !******************************!
 [t22_153_100.gds]
-<01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:260>Calça e camisa que não combina
-é o cúmulo da breguice. Essa é
-a regra de moda número um.<W>
+<01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:260>Calça e camisa que não combinam é
+o cúmulo da breguice. Essa é a regra
+de moda número um.<W>
 !------------------------------!
 Regra número dois?<W> Lantejoulas
 são para profissionais.<W>
 !------------------------------!
-Mas com esse seu terno, você está
-super chique. Nem os clubes mais
+Mas com esse seu sobretudo, você
+está super chique. Nem os clubes mais
 seletos o expulsariam. Eu garanto!
 !******************************!
 [t22_154_100.gds]
@@ -1242,7 +1241,7 @@ de algo, ou alguma coisa?
 !******************************!
 [t22_220_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:97>Estamos atualmente na busca de um
-item conhecido por Caixa Elísia.
+artefato conhecido por Caixa Elísia.
 Esse nome lhe é familiar?
 !******************************!
 [t22_220_300.gds]
