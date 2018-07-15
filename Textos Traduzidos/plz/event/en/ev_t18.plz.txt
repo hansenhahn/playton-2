@@ -39,7 +39,7 @@ Também chamada de Caixa de Pandora,
 se atreva a abri-la.<W>
 !------------------------------!
 Apesar disso, a curiosidade do doutor
-foi maior que o seu bom senso, e ele
+é maior que o seu bom senso, e ele
 anuncia a intenção de abri-la.
 !******************************!
 [t18_110_300.gds]
@@ -183,7 +183,7 @@ sobre a Caixa Elísia.
 [t18_200_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:99>Enquanto procuram por pistas, Layton
 e os demais ficam sabendo sobre um
-desfile de animais prestes a começar.
+desfile de vacas prestes a começar.
 !******************************!
 [t18_200_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Enquanto o desfile não inicia, eles
@@ -193,10 +193,10 @@ possivelmente sobre a Caixa Elísia.
 [t18_200_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Pouco depois, os três dão uma pausa
 em sua investigação e retornam para
-verem o desfile.
+ver o desfile.
 !******************************!
 [t18_210_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Graças a Luke, o desfile dos animais
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Graças a Luke, o desfile das vacas
 termina sem incidentes.
 !******************************!
 [t18_210_200.gds]
@@ -210,7 +210,7 @@ procurar pelo Sr. Anderson antes
 de voltarem para a estação.
 !******************************!
 [t18_220_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:172>Graças a Luke, o desfile dos animais
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:172>Graças a Luke, o desfile das vacas
 termina sem incidentes.<W>
 !------------------------------!
 Com pouco tempo restando até a
@@ -640,8 +640,8 @@ de receitas a qualquer hora.
 Basta tocar em #rHora do Chá#x.
 !******************************!
 [t18_400_400.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:300>Enquanto você vê a lista de chás, toque
-em uma das xícaras para ver o nome
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:300>Após acessar à lista de receitas,
+toque uma das xícaras para ver o nome
 e as propriedades do chá em questão.<W>
 !------------------------------!
 Quando encontrar o chá que escolheu
@@ -650,7 +650,7 @@ uma xícara a quem estiver com sede.<W>
 !------------------------------!
 Existem 12 receitas no total. Tente
 reunir o maior número possível delas,
-pois com certeza elas lhes serão úteis!
+pois com certeza elas lhe serão úteis!
 !******************************!
 [t18_410_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:165>Toque nas peças da câmera disponíveis

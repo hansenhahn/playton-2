@@ -275,7 +275,7 @@ um que se atreva a abri-la. Conforme
 os boatos, a caixa já reivindicou
 muitas vidas e é conhecida como
 "Caixa de Pandora" em diversas partes
-do mundo. Será que esses nefastos
+do mundo. Será que esses sinistros
 rumores são verdadeiros?
 !******************************!
 [id_10.txt]
@@ -303,10 +303,11 @@ fotografia.
 O que será que ela retrata?
 !******************************!
 [id_4.txt]
-Alguém conseguiu roubar a Caixa Elísia
-do apartamento do Dr. Schrader sem
-deixar pistas para trás. Quem será
-que roubou a caixa?
+Alguém invadiu o apartamento do
+Dr. Schrader e roubou a Caixa
+Elísia sem deixar quaisquer pistas
+para trás. Quem será o culpado por
+esse crime?
 !******************************!
 [id_5.txt]
 Enquanto andava pelo Molentary
@@ -497,8 +498,8 @@ artefato também conhecido pelo nome
 "Caixa de Pandora". Contudo, o jeito
 com que a carta foi escrita me deixou
 com um mau pressentimento. Decidi
-visitá-lo e me certificar que está tudo
-bem.
+visitá-lo e me certificar de que está
+tudo bem com ele.
 !******************************!
 [d_10.txt]
 O evento mais importante do festival
@@ -1163,8 +1164,8 @@ abandonado nos trilhos.
 !******************************!
 [d_9.txt]
 Nosso trem está atualmente parado
-em uma pequena cidade pitoresca
-chamada Dropstone. A cidada está
+em um pequeno e pitoresco vilarejo
+chamado Dropstone. O vilarejo está
 atualmente comemorando seu 50o
 aniversário e está transbordando
 de agitação. Dado que temos algumas
@@ -1873,7 +1874,7 @@ Nós vamos. Tenho certeza disso.
 Olhe só essa cabine!
 !******************************!
 [m1_3.txt]
-Sim, vejo claramente porque alguns
+Sim, vejo claramente por que alguns
 chamam o Molentary Express
 !******************************!
 [m1_4.txt]
@@ -3692,7 +3693,7 @@ tente novamente.
 Ou a Nintendo WFC está tendo
 problemas com altos volumes de
 tráfego, ou o serviço está fora
-do ar. Por favor tente novamente
+do ar. Por favor, tente novamente
 mais tarde. Para ajuda, visite
 support.nintendo.com.
 !******************************!
@@ -3714,13 +3715,13 @@ Nintendo WFC.
 [err5.txt]
 O ponto de acesso está ocupado.
 Não foi possível se conectar.
-Por favor tente novamente mais
+Por favor, tente novamente mais
 tarde. Para ajuda, visite
 support.nintendo.com.
 !******************************!
 [err6.txt]
 Sem pontos de acesso na área.
-Por favor tente novamente quando
+Por favor, tente novamente quando
 estiver perto de um. Para ajuda,
 visite support.nintendo.com.
 !******************************!

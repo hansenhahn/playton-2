@@ -891,10 +891,10 @@ janela como mostrado acima, a moldura
 teria atravessado o teto do trem!
 
 Nos dias atuais, a maioria dos trens têm
-janelas que só abrem parcialmente. É claro
-que, graças aos ar-condicionados, um bom
-número de trens possuem janelas que nem
-mesmo podem ser abertas!
+janelas que só abrem parcialmente.
+É claro que, graças aos ar-condicionados,
+um número considerável de trens possui
+janelas que nem mesmo podem ser abertas!
 !******************************!
 Que pena!
 
@@ -919,14 +919,14 @@ assim!<''>.
 <0028>A Roda Retorcida
 <00><14><12><10><12><1A><02><1B><E8><03><03><FF>
 Nos fundos da estação de trem, há uma
-velha e retorcida roda sobre o chão, como
+roda velha e retorcida sobre o chão, como
 mostrada abaixo. Apesar de não ter mais
 utilidade há muito tempo, a roda ainda é
-interessanteporque, ao ser rolada sobre
+interessante porque, ao ser rolada sobre
 uma superfície plana, o seu eixo traça
 um caminho engraçado quando visto de lado.
 
-Dos cinco diagrama abaixo, qual deles
+Dos cinco diagramas abaixo, qual deles
 representa o traçado real do eixo?
 !******************************!
 Isso mesmo!
@@ -1041,7 +1041,7 @@ Aquela grande cuba e a abertura no topo
 indicam que esta escultura pode virar
 uma fonte.
 !******************************!
-Apeser de seca no momento, a grande
+Apesar de seca no momento, a grande
 cuba da fonte está normalmente cheia
 de água.
 
@@ -1146,14 +1146,14 @@ duas maçãs de volta, Thomas terá...
 [n31.dat]
 <0032>Flores para Presente
 <00><14><10><0C><11><18><02><1F><E8><03><03><2C>
-Laurel deseja embrulhar estas flores de
+Laurel deseja embrulhar esta flor de
 uma forma bem específica, visto que é
 um presente para um querido amigo seu.
-Ela gostaria que as flores fossem
-embrulhadas como mostrado abaixo, mas ela
+Ela gostaria que a flor fosse
+embrulhada como mostrado abaixo, mas ela
 não tem ideia de por onde começar.
 
-Para que as flores fiquem embrulhadas
+Para que a flor fique embrulhada
 conforme o desenho à esquerda, de que
 forma você deve começar o embrulho?
 
@@ -1191,7 +1191,7 @@ são mais visíveis da superfície.
 
 Assumindo que não há furos na rede e que
 a borda da rede foi feita de um pedaço
-único de corda cuja as extremidades
+único de corda cujas extremidades
 estão na margem, quantos peixes serão
 capturados quando a rede for puxada?
 !******************************!
@@ -1451,7 +1451,7 @@ hora.
 Para conseguir mover todos os cavalos
 do ponto A ao B no menor tempo possível,
 você precisará ir até o ponto B três
-vezes e volta ao ponto A duas vezes.
+vezes e voltar ao ponto A duas vezes.
 
 Como você conseguirá usar de maneira
 eficiente esse número limitado de
@@ -1896,7 +1896,7 @@ Obviamente, já que todos desejam vencer,
 irão votar em si mesmos.
 !******************************!
 40 votos menos os três votos feitos
-pelos  candidatos dá 37 votos.
+pelos candidatos dá 37 votos.
 
 Encontre o número de votos que dá a
 maioria em um conjunto de 37 eleitores
@@ -2564,7 +2564,7 @@ vagão-restaurante lotado. Todos os clientes
 estão sentados em frente ou ao lado de
 seus parceiros:
 
-<60> Os Jones estão sentados no corredor.
+<60> Os Joneses estão sentados no corredor.
 <60> O senhor de bigode, Sr. O'Connor, está
 sentado ao lado da sua esposa.
 <60> O Sr. Lambert está sentado em frente
@@ -2584,7 +2584,7 @@ O Sr. Lambert está sentado em frente à sua
 esposa, então ele deve estar sentado na
 mesa à direita.
 
-Os Jones estão sentados no corredor,
+Os Joneses estão sentados no corredor,
 logo eles devem ser C e G. Assim, os Hadley
 só podem ser E e F.
 !******************************!
@@ -2597,7 +2597,7 @@ O senhor de bigode, Sr. O'Connor, é B.
 Já que C e F são homens, sua esposa
 só pode ser A.
 !******************************!
-Os Jones estão sentados no corredor,
+Os Joneses estão sentados no corredor,
 o que significa que eles devem estar
 sentados em frente um do outro.
 
@@ -2607,10 +2607,10 @@ Sr. e Sra. Jones.
 !******************************!
 E onde está o Sr. Lambert?
 
-Nós sabemos que A e B são os O'Connor,
+Nós sabemos que A e B são os O'Connors,
 então as pessoas sentadas em frente
 a eles também são um casal. Mas não
-podem ser os Lambert, já que eles estão
+podem ser os Lamberts, já que eles estão
 sentados um na frente do outro.
 
 Agora você deve sercapaz de identificar

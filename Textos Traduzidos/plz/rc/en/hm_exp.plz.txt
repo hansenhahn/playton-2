@@ -1,6 +1,6 @@
 [msg_nrm_clear.txt]
 %s andou %d passos!
-Seu nível subiu de %d para %d!
+Seu nível mudou de %d para %d!
 !******************************!
 [msg_nrm_clear1.txt]
 %s alcançou seu objetivo

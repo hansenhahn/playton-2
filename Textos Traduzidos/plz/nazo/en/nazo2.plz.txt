@@ -844,11 +844,11 @@ fato de conseguir ver o nascer do sol,
 parece correto afirmar que o apartamento
 dele fica nos últimos andares do prédio.
 !******************************!
-O doutor comenta sobre ver uma bandeira
+O doutor comentou sobre ver uma bandeira
 do lado de fora de seu apartamento
-balançando com o vento. Ao que tudo
+balançando ao vento. Ao que tudo
 indica, só há um apartamento que atende
-a todas condições.
+a todas as condições.
 !******************************!
 [n117.dat]
 <0117>Three Couples

@@ -3,9 +3,9 @@ Ah, o sabor é um pouquinho
 agridoce. Nham.
 !******************************!
 [ht_000_1.txt]
-Certamente trata-se de um chá
-esquisito. Imagino que também
-seja delicioso se servido frio.
+Tenho que tirar a cartola para a
+qualidade desse chá. Imagino que
+seja delicioso se servido gelado.
 !******************************!
 [ht_000_2.txt]
 Aí sim, já que o sabor é suave e

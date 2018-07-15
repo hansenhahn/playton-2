@@ -192,7 +192,7 @@ Vai estar em forma logo logo!
 !******************************!
 [t13_150_300.gds]
 <01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:244>É muito bom ouvir isso.
-Não me desaponte, certo?<W>
+Não me decepcione, certo?<W>
 !------------------------------!
 No mais, estava para fechar a cozinha
 e descansar até chegarmos a Luxenbelle.<W>

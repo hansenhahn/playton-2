@@ -12,9 +12,10 @@ de uma maneira bastante incomum.<W>
 Olhe aqui, Luke.
 !******************************!
 [t20_000_200.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:134>Ah, genial! O mapa em si é um enigma!<W>
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:134>Ah, genial! O mapa é um enigma
+por si só!<W>
 !------------------------------!
-Professor, se importaria de deixar
+Professor, se importa de deixar
 este comigo?<W> Tenho certeza de que
 posso resolvê-lo!
 !******************************!
@@ -32,7 +33,7 @@ uma visita ao doutor. Vamos!
 que parece...
 !******************************!
 [t20_010_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>Este é o apartamento do 
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>Esse é o apartamento do 
 Dr. Schrader.
 !******************************!
 [t20_010_1000.gds]
@@ -56,7 +57,7 @@ Professor. E se ele...
 Luke. Temos que abrir esta porta
 primeiro.<W>
 !------------------------------!
-Humm, ela parece trancada...
+Humm, parece estar trancada...
 !******************************!
 [t20_010_600.gds]
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:45>Então não há como 
@@ -96,7 +97,7 @@ e preste atenção em todos os detalhes.
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:5>Hmm.
 !******************************!
 [t20_020_1100.gds]
-<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:112>Bem, isto não é da minha conta.<W>
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:112>Bem, isso não é da minha conta.<W>
 !------------------------------!
 Há uma cena de crime aqui que
 necessita da minha atenção.
@@ -166,14 +167,14 @@ incomum nesta cena de crime que
 não foi dada a devida importância.
 !******************************!
 [t20_020_2300.gds]
-<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:4>Ah é?
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:4>Ah, é?
 !******************************!
 [t20_020_2400.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:52>Está tão na cara quanto esse
 nariz em seu rosto, Inspetor.
 !******************************!
 [t20_020_2500.gds]
-<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:293>Meh! Aposto que vocês acadêmicos acham
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:293>Meh! Aposto que vocês, acadêmicos, acham
 que seus títulos bestas os preparam
 pra brincar de detetive, correto?<W>
 !------------------------------!
@@ -241,14 +242,14 @@ estranho?
 <01:00000002><03:9>b1 shout<03:5>NONE<01:00000003><03:29>O que quer dizer, Professor?
 !******************************!
 [t20_020_3600.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:62>Preste atenção a sua volta,
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:62>Preste atenção à sua volta,
 Luke. Tenho certeza de que também
 consegue ver.
 !******************************!
 [t20_020_400.gds]
-<01:00000006><03:6>shout<03:10>b1 normal<01:00000001><03:98>Sobre o que esta criança está
-falando? Esses fedelhos de hoje em 
-dia não têm mais modos!
+<01:00000006><03:6>shout<03:10>b1 normal<01:00000001><03:98>Sobre o que essa criança está
+falando? Esses fedelhos de hoje 
+não têm mais modos!
 !******************************!
 [t20_020_500.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:155>Aceite minhas desculpas pela confusão.
@@ -277,9 +278,9 @@ como eu tinha dito!
 nesta janela!
 !******************************!
 [t20_023_1000.gds]
-<01:00000006><03:6>shout<03:10>b1 normal<01:00000001><03:221>Qual é a sua? Você não pode sair
+<01:00000006><03:6>shout<03:10>b1 normal<01:00000001><03:221>Qual é a de vocês? Vocês não podem sair
 pegandos as provas numa cena de crime.
-Tire suas mãos desse... dessa...<W>
+Tirem suas mãos desse... dessa...<W>
 !------------------------------!
 O que é isso, afinal?<W>
 !------------------------------!
@@ -334,7 +335,7 @@ vejo nada.
 !******************************!
 [t20_024_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:43>Olhe de novo, Luke. Tenho certeza
-que vai encontrar.
+de que vai encontrar.
 !******************************!
 [t20_030_100.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:49>Acredito termos chegado
@@ -344,15 +345,15 @@ ao prédio do doutor.
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:23>Mas qual é o apartamento dele?
 !******************************!
 [t20_030_300.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:126>Temo não saber isso.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:126>Receio não saber isso.<W>
 !------------------------------!
 Mas parando para pensar, a carta que
 recebi menciona algumas coisas sobre
-esse lugar...
+a localização do apartamento...
 !******************************!
 [t20_033_100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:92>A não ser que eu esteja enganado, acho
-que encontramos seu apartamento.<W>
+que encontramos o apartamento dele.<W>
 !------------------------------!
 Siga-me, Luke. Vamos subir!
 !******************************!

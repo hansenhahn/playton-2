@@ -42,7 +42,7 @@ residência para um novo vilarejo...
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>Eu realmente não consigo entender isso.
 !******************************!
 [t22_010_100.gds]
-<01:00000039><03:10>b2 normal<03:5>NONE<01:00000002><03:77>E aí, caras! Eu tô num belo dum
+<01:00000039><03:10>b2 normal<03:5>NONE<01:00000002><03:77>Olá, meninos! Eu tô num belo dum
 aperto aqui. Podem dar uma mãozinha
 pra essa senhora aqui, faz favor?
 !******************************!
@@ -75,9 +75,9 @@ embaixo pra sempre.<W>
 Queria que tivesse um jeito mais
 apropriado de agradecê-los...<W>
 !------------------------------!
-Ah, já sei! Aqui, pode ficar com
+Ah, já sei! Aqui, podem ficar com
 esse conjunto de chá e essas ervas
-saborosas. Pode ficar, eu insisto!
+saborosas. Podem ficar, eu insisto!
 !******************************!
 [t22_013_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:225>Para acessar o conjunto de chá,
@@ -203,7 +203,7 @@ de palavras do Sr. Anderson. O que
 ele quis dizer com <''>sacrifícios<''>?<W>
 !------------------------------!
 Bom, é algo para ponderarmos depois.
-Por agora, vamos voltar à estação.
+Agora, vamos voltar à estação.
 !******************************!
 [t22_033_200.gds]
 <01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:81>O único, e em pessoa, meu amigo!
@@ -231,7 +231,7 @@ do assunto.
 !******************************!
 [t22_033_400.gds]
 <01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:88>A Caixa Elísia?<W> Por que deseja ir atrás
-de uma coisa dessas?
+dessa coisa?
 !******************************!
 [t22_033_500.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:36>Presumo que você esteja
@@ -427,7 +427,7 @@ minha querida de volta, agora sim
 eu ganho o primeiro prêmio. Valeu!
 !******************************!
 [t22_043_500.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:52>Bem, Luke, você certamente tem
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:52>Ora, Luke, você certamente tem
 jeito com animais.
 !******************************!
 [t22_043_600.gds]
@@ -443,11 +443,11 @@ de Dropstone deste ano é...<@W>6<@W>6
 !******************************!
 [t22_043_850.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:48>A beleza estonteante da vaca
-do Oscar, Mootilda!
+do Oscar, Muutilda!
 !******************************!
 [t22_043_900.gds]
 <01:00000011><03:9>b3 angry<03:5>NONE<01:00000001><03:80>Ei, peraí! Tá me dizendo que a
-minha doce Behemooth não ganhou
+minha doce Muugilda não ganhou
 o primeiro lugar?!
 !******************************!
 [t22_044_100.gds]
@@ -959,14 +959,14 @@ está sempre fora de moda, cara.
 !******************************!
 [t22_160_100.gds]
 <01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:728>Esse festival inteiro está sendo
-organizado pelos Anderson, a
+organizado pelos Andersons, a
 família mais rica do vilarejo.<W>
 !------------------------------!
 Já que é novo aqui, permita-me
 que o ponha em dia quanto a essa
 família.<W>
 !------------------------------!
-Os Anderson vivem na mansão ao
+Os Andersons vivem na mansão ao
 norte da cidade. Aposto que está
 verde de tanta inveja, né?<W>
 !------------------------------!
@@ -1329,10 +1329,10 @@ embora quando quiser.
 [t22_242_100.gds]
 <01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:95>Eu lhe dei um enigma porque me
 deu vontade, e só. Não vá procurar
-pêlo em ovo.
+pelo em ovo.
 !******************************!
 [t22_243_100.gds]
-<01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:175>Não vá se achando que é o maioral
+<01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:175>Não vá achando que é o maioral
 só porque resolveu um enigmazinho
 insignificante.<W>
 !------------------------------!
@@ -1346,7 +1346,7 @@ mas você sequer tentou!
 !******************************!
 [t22_250_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>Essa escultura de um felino é,
-certamente,... expressiva.
+certamente... expressiva.
 !******************************!
 [t22_250_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:91>Sim, é bem bonita. Ah, se gosta
@@ -1419,7 +1419,7 @@ fazendo perguntas, mas vocês não
 falaram comigo ainda!<W>
 !------------------------------!
 Se resolverem este enigma, então eu,
-o rei das trivialidades de Dropstone,
+o rei das curiosidades de Dropstone,
 responderei suas perguntas.
 !******************************!
 [t22_271_100.gds]

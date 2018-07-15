@@ -211,11 +211,11 @@ prefeitura.
 [next_160.txt]
 O professor, Luke e Flora decidem
 explorar os arredores enquanto o 
-desfile dos animais não começa.
+desfile das vacas não começa.
 !******************************!
 [next_165.txt]
 O professor, Luke e Flora decidem
-voltar à área do desfile dos animais.
+voltar à área do desfile das vacas.
 !******************************!
 [next_170.txt]
 O professor, Luke e Flora decidem 

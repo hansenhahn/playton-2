@@ -263,8 +263,8 @@ abrir. E também não há
 chaves escondidas nela.
 !******************************!
 [tobj150.txt]
-Será que eles vendem
-guloseimas locais aqui?
+Será que vendem doces
+artesanais aqui?
 !******************************!
 [tobj151.txt]
 Este canteiro é um
@@ -281,7 +281,7 @@ um desses balões.
 !******************************!
 [tobj154.txt]
 Esses balões enormes
-têm a forma de vacas.
+têm forma de vacas.
 !******************************!
 [tobj155.txt]
 Ahh! Que bonitinhos!
@@ -733,8 +733,8 @@ Uau! Não se vê montanhas
 como essas em Londres!
 !******************************!
 [tobj73.txt]
-Sim, é um banco. Tá tão
-mole que vai quebrar.
+É um banco tão mole que
+parece que vai quebrar.
 Mas que... bancada.
 !******************************!
 [tobj74.txt]
@@ -777,8 +777,8 @@ do vilarejo.
 !******************************!
 [tobj81.txt]
 Com certeza levaram
-um tempão pra levantar
-esses cartazes!
+um tempão pra erguer
+essas bandeirinhas!
 !******************************!
 [tobj82.txt]
 Como eu gostaria de morar

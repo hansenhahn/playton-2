@@ -67,7 +67,7 @@ famoso mito.
 foi postada dois dias atrás. Acho que
 devemos fazer uma visita ao doutor.<W>
 !------------------------------!
-Eu não consigo afastar a impressão
+Eu não consigo deixar de ter a impressão
 de que algo terrível aconteceu...
 !******************************!
 [t10_030_700.gds]
@@ -334,7 +334,7 @@ esse artefato.
 !******************************!
 [t10_140_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:57>Talvez a pessoa que tenha feito
-isto estivesse atrás da caixa?
+isso estivesse atrás da caixa?
 !******************************!
 [t10_140_300.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:155>Uma teoria interessante, Luke, mas

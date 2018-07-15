@@ -70,7 +70,7 @@ no festival deste ano.
 [t12_025_800.gds]
 <01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:102>Bom, já planejamos comemorar
 o aniversário da nossa linha em
-um exclusivo estádio em Londres.
+um estádio exclusivo em Londres.
 !******************************!
 [t12_025_900.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:99>Verdade?<W> Então não há
@@ -229,10 +229,10 @@ gigantes em forma de vacas!
 !******************************!
 [t12_080_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:76>Parece que os cidadãos estão
-preparando o desfile dos animais.
+preparando o desfile das vacas.
 !******************************!
 [t12_080_300.gds]
-<01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:23>Desfile dos animais?
+<01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:23>Desfile das vacas?
 !******************************!
 [t12_080_400.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:22>Parece divertido!
@@ -286,7 +286,7 @@ Dá pra dizer muita coisa de um
 homem pela forma com que trata
 seu carteiro.<W>
 !------------------------------!
-Mas até bons homens como ele tem
+Mas até bons homens como ele têm
 problemas. Ouvi que ele se preocupa
 com sua filha o tempo todo.
 !******************************!
@@ -431,9 +431,9 @@ apoiando ela nisso?
 consequências quando o Sr. Anderson
 descobrir o que está acontecendo.<W>
 !------------------------------!
-Os empregados devem ter uma razão
-bem sólida para terem decidido
-manter um segredo desses.
+Os empregados devem ter um bom
+motivo para escolherem manter em
+segredo toda essa situação.
 !******************************!
 [t12_110_200.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:92>É claro. Meu nome é Hershel
@@ -546,7 +546,7 @@ ingredientes que te dei.
 com suas vacas. Vou a outro lugar!<W>
 !------------------------------!
 Até onde sei, essa coisa toda não passa
-de uma frívola distração pros ricos!<W>
+de uma distração frívola pros ricos!<W>
 !------------------------------!
 Só me resta assumir que sua obsessão
 pela caixa origina-se do excesso de
@@ -582,13 +582,13 @@ da residência do Sr. Anderson?
 [t12_130_400.gds]
 <01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:278>Hmph, não sei quais são suas fontes
 de informação, Layton, mas você
-é furtivo como uma raposa.<W>
+é esperto como uma raposa.<W>
 !------------------------------!
 Sim, acabei de vir de lá, mas
 o Sr. Anderson não estava em casa.<W>
 !------------------------------!
 Parece que ele está fora, presidindo
-um desfile de animais ou algo do
+um desfile de vacas ou algo do
 gênero.
 !******************************!
 [t12_130_500.gds]
@@ -628,7 +628,7 @@ perguntarmos a ele próprio.
 !******************************!
 [t12_130_900.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:99>Nesse caso, suponho que devamos
-ir ao desfile de animais que
+ir ao desfile das vacas que
 o Sr. Anderson está julgando.
 !******************************!
 [t12_140_100.gds]
@@ -655,9 +655,9 @@ e dar uma olhada?
 podemos fazer é reunir o máximo de
 informações que pudermos.<W>
 !------------------------------!
-Além disso, imagino que os Anderson
-já estejam bastante atarefados
-com suas visitas atuais.
+Além disso, imagino que os Andersons
+já estejam bastante atarefados com
+suas visitas atuais.
 !******************************!
 [t12_150_100.gds]
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:33>Puxa vida, olha pra esse lugar!
@@ -694,7 +694,7 @@ no vilarejo sobre uma antiguidade
 conhecida como Caixa Elísia.
 !******************************!
 [t12_160_200.gds]
-<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:217>Ah é, aquela coisa. Dizem que ela mata
+<01:00000013><03:5>NONE<03:5>NONE<01:00000001><03:217>Ah, aquela coisa. Dizem que ela mata
 todos que tentam levantar sua tampa.
 Caixa de Pandora, como é conhecida.<W>
 !------------------------------!
@@ -760,7 +760,7 @@ Vamos voltar à estação.
 <01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:15>Certo, Professor!
 !******************************!
 [t12_180_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>Acho que o desfile dos animais deve
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>Acho que o desfile das vacas deve
 começar em breve. Devíamos voltar
 ao palco.
 !******************************!
