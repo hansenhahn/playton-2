@@ -42,6 +42,7 @@ copy "Arquivos Gerais\utility.bin" "ROM Modificada\PLAYTON2\data\dwc" /B/Y
 copy "Arquivos Gerais\overlay_0002.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y
 copy "Arquivos Gerais\overlay_0019.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y
 copy "Arquivos Gerais\overlay_0023.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y
+copy "Arquivos Gerais\overlay_0027.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y
 
 rem Monta a ROM nova e gera um patch
 cd ROM Modificada

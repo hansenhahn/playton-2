@@ -13,10 +13,14 @@ blz.exe -en overlay_0019.bin
 armips.exe overlay_0023_novo.asm
 blz.exe -en overlay_0023.bin
 
+armips.exe overlay_0027_novo.asm
+blz.exe -en overlay_0027.bin
+
 copy "overlay_0002_nocompression.bin" "overlay_0002.bin" /B/Y
 blz.exe -en overlay_0002.bin
 
 copy "arm9.bin" "..\Arquivos Gerais" /B/Y
 copy "overlay_0019.bin" "..\Arquivos Gerais" /B/Y
 copy "overlay_0023.bin" "..\Arquivos Gerais" /B/Y
+copy "overlay_0027.bin" "..\Arquivos Gerais" /B/Y
 copy "overlay_0002.bin" "..\Arquivos Gerais" /B/Y

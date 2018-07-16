@@ -5,20 +5,26 @@
 021fc0e0 deve guardar a mem para renderizar o botão Resolver enigmas
 [021fc0e0]! 
 Em 20f0464 é lido do savegame se deve ou não habilitar o botão de Resolver Engimas
-[21e6bcc]?
+[21e6bac]?
     Se 0, não há enigmas
     Se > 0, há enigmas, sendo o valor a quantidade
+[21e6bb0]?
+    Se 0, não mostra as dicas
+    Se > 0, mostra as dicas, sendo o valor a quantidade
 
-[21e6bd4] - Num Enigma
-[21e6bd5] - Ano
-[21e6bd6] - Mês
-[21e6bd7] - Dia
+[21e6bb4] - Num Enigma
+[21e6bb5] - Ano
+[21e6bb6] - Mês
+[21e6bb7] - Dia
 ...
 
 Onde é lido a quantidade de enigmas:
 20f0460         ldr r0,[r0,3ech]            .. mov r0,21h
 20f05a4         ldr r7,[r0,3ech]            .. mov r7,21h
 20f23b4         ldr r12,[r1,3ech]           .. mov r12,21h
+
+Onde são lidas as dicas
+020f26e4	ldr r1,[r1,3f0h]
 
 Onde são lidos os enigmas:
 20f05bc         ldrb r1,[r0,3f4h]
@@ -34,3 +40,6 @@ overlay_019.bin
 
 overlay_023.bin
 - 0x81c     -> 20f05bc
+
+overlay_027.bin
+- 0xd5b     -> 20f26e4
