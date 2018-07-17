@@ -33,7 +33,7 @@ começamos explorando o trem?
 !******************************!
 [t11_050_100.gds]
 <01:00000024><03:5>NONE<03:5>NONE<01:00000003><03:160>Ouvi dizer que as cabines da dianteira
-do trem são tão luxuosas a ponto das
+do trem são tão luxuosas a ponto de as
 maçanetas serem feitas de ouro!<W>
 !------------------------------!
 Mas ninguém pode entrar lá,
@@ -48,11 +48,11 @@ as cabines super luxuosas.
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>Cabines super luxuosas...
 !******************************!
 [t11_050_400.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:157>...que ninguém, exceto as pessoas
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:157>... que ninguém, exceto as pessoas
 extremamente ricas, podem acessar.<W>
 !------------------------------!
 Se nossa jovem amiga estiver bem
-informada, devem haver algumas
+informada, deve haver algumas
 cabines de luxo no próximo vagão.
 !******************************!
 [t11_050_500.gds]
@@ -118,8 +118,8 @@ mas temo que o vagão-restaurante
 esteja lotado no momento.<W>
 !------------------------------!
 Se não se importarem de esperar
-um pouquinho, avisarei-lhes quando
-uma mesa vagar.
+um pouquinho, avisarei quando uma
+mesa vagar.
 !******************************!
 [t11_096_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:91>Este é um belo vagão-restaurante!
@@ -181,9 +181,9 @@ alimentando-o. Só que o foie gras e
 as tortas vão engordá-lo ainda mais.
 !******************************!
 [t11_100_1700.gds]
-<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:195>Você está pedindo pra cuidarmos
-e colocarmos ele em forma? Parece
-uma grande ideia pra mim!<W>
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:195>Você está pedindo pra cuidarmos dele
+e colocarmos ele em forma? Parece uma
+grande ideia pra mim!<W>
 !------------------------------!
 Err, quero dizer, o que você acha,
 Professor? Podemos ficar com ele
@@ -195,7 +195,7 @@ roedores em apuros faz parte dos
 deveres de um legítimo cavalheiro.<W>
 !------------------------------!
 Ficaremos felizes em termos
-a custódia deste hamster até
+a custódia desse hamster até
 ele se livrar desse peso extra.
 !******************************!
 [t11_100_1900.gds]
@@ -306,7 +306,7 @@ cabana não lhe parece familiar?
 !******************************!
 [t11_130_200.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:75>É verdade. A não ser que eu esteja
-enganado, esta deve ser a residência
+enganado, aquela deve ser a residência
 de você-sabe-quem.
 !******************************!
 [t11_130_300.gds]
@@ -314,7 +314,7 @@ de você-sabe-quem.
 será novamente de grande ajuda.
 !******************************!
 [t11_140_100.gds]
-<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:71>Ah, nada como viajar sob trilhos
+<01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:71>Ah! Nada como viajar sobre trilhos
 para colocar energia neste corpo!
 !******************************!
 [t11_140_200.gds]
@@ -357,12 +357,12 @@ de conhecê-lo pessoalmente.
 <01:00000009><03:9>b1 smile<03:5>NONE<01:00000002><03:187>Bem, já é um começo. É um prazer
 conhecê-lo, Sr... Layton, certo?<W>
 !------------------------------!
-Oh, céus! Olhe que horas já são.
+Oh, céus! Olhe que horas já são!
 Realmente tenho que ir. Aproveite
 sua estadia a bordo.
 !******************************!
 [t11_140_900.gds]
-<01:00000009><03:9>b1 laugh<03:5>NONE<01:00000002><03:86>Oh, céus! Olhe que horas já são.
+<01:00000009><03:9>b1 laugh<03:5>NONE<01:00000002><03:86>Oh, céus! Olhe que horas já são!
 Realmente tenho que ir. Aproveite
 sua estadia a bordo.
 !******************************!

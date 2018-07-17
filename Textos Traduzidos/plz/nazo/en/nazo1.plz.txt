@@ -63,7 +63,7 @@ Que pena!
 Não entre em pânico se você ficar travado.
 Comece procurando por áreas onde os
 quatro tipos de árvores estão conectados
-na sequência.
+em sequência.
 !******************************!
 Se você achar duas árvores do mesmo
 tipo conectadas umas as outras, então
@@ -416,7 +416,7 @@ Essa foi uma caminhada para o sucesso!
 !******************************!
 Que pena!
 
-Você tem certeza que alternou entre
+Você tem certeza de que alternou entre
 os sapatos de pé esquerdo e pé direito
 a cada passo?
 !******************************!
@@ -619,7 +619,7 @@ rápida.
 !******************************!
 Que pena!
 
-Tem certeza que não está fazendo
+Tem certeza de que não está fazendo
 conclusões erradas por causa da forma
 com que o enigma foi escrito?
 !******************************!
@@ -667,7 +667,7 @@ não na rua!
 Tente começar seguindo as instruções
 abaixo.
 
-Empilhe os quatro blocos azuis, com o
+Empilhe os quatro blocos azuis com o
 primeiro bloco no fundo da lixeira. Em
 seguida, encontre um jeito de colocar
 um dos quatro blocos no vão do canto
@@ -676,11 +676,11 @@ superior direito.
 Assim que colocar ele lá, não será mais
 necessário mover esse bloco outra vez!
 !******************************!
-Se você estiver travado, coloque um
-bloco azul nos espaços superior, inferior
-e a direita do enigma, então tente mover
-os demais blocos nos espaços que
-sobraram.
+Se você estiver travado, tente colocar
+um bloco azul no espaço superior, outro
+no inferior e mais um na direita do enigma,
+então tente mover os demais blocos para
+os espaços que sobraram.
 !******************************!
 Tirar o bloco azul do fundo da lixeira
 será o seu penúltimo movimento.
@@ -705,11 +705,10 @@ colocaria a jarra no ponto A, ou no ponto B?
 !******************************!
 Muito bem!
 
-O líquido troca de jarras 55 vezes, que é um
+O líquido troca de jarra 55 vezes, que é um
 número ímpar. Onde quer que você coloque a
-sua jarra, a jarra que ficar no meio sempre
-terá vinagre depois de um número ímpar de
-trocas.
+sua jarra, a que ficar no meio sempre terá
+vinagre depois de um número ímpar de trocas.
 
 Ou seja, para que o 1 possa ganhar, a jarra
 de vinagre deve ser colocada no ponto B,
@@ -736,7 +735,7 @@ Se você parasse depois de cinco trocas
 ao invés de 55, mudaria alguma coisa?
 !******************************!
 Não é engraçado como em toda troca que
-termina em números ímpares, o vinagre 
+termina em números ímpares, o vinagre
 sempre acaba na jarra do meio?
 !******************************!
 [n23.dat]
@@ -773,7 +772,7 @@ Que pena!
 Comece considerando onde o primeiro vinco
 na tira de papel deve ser posicionado.
 !******************************!
-Pense no quanto maior uma das <''>metades<''>
+Pense no quão maior uma das <''>metades<''>
 da tira era comparada à outra após a
 primeira dobra.
 !******************************!
@@ -1207,7 +1206,7 @@ de sete peixes.
 !******************************!
 Que pena!
 
-Você tem certeza que está contando
+Você tem certeza de que está contando
 os peixes corretamente?
 !******************************!
 Por que você não tenta desenhar as
@@ -1574,11 +1573,11 @@ para fechar sua mala.
 !******************************!
 Que pena!
 
-Você tem certeza que nenhum objeto está
+Você tem certeza de que nenhum objeto está
 por cima do outro?
 !******************************!
-Você pode usar os objetos menores como
-o telescópio, ou a gaita, para preencher
+Você pode usar os objetos menores, como
+o telescópio e a gaita, para preencher
 pequenos espaços mais tarde, portanto,
 coloque na mala primeiro os objetos
 maiores.
@@ -1655,7 +1654,7 @@ Excelente!
 !******************************!
 Que pena!
 
-Tem certeza que desse jeito que você
+Tem certeza de que desse jeito que você
 cortou a tábua o permitirá recombinar
 os pedaços em um quadrado?
 !******************************!
@@ -2591,7 +2590,7 @@ só podem ser E e F.
 Que pena!
 
 Pense bastante nas pistas que lhe foram
-dadas e tente novamente
+dadas e tente novamente.
 !******************************!
 O senhor de bigode, Sr. O'Connor, é B.
 Já que C e F são homens, sua esposa
@@ -2611,9 +2610,9 @@ Nós sabemos que A e B são os O'Connors,
 então as pessoas sentadas em frente
 a eles também são um casal. Mas não
 podem ser os Lamberts, já que eles estão
-sentados um na frente do outro.
+sentados um em frente ao outro.
 
-Agora você deve sercapaz de identificar
+Agora você deve ser capaz de identificar
 todos os quatro casais.
 !******************************!
 [n7.dat]
@@ -2743,12 +2742,11 @@ cor, qual o menor número de cores que você
 vai precisar usar?
 Você pode usar uma cor quantas vezes
 quiser, desde que a seção não escoste em
-nenhuma outra seção com mesma cor.
+nenhuma outra seção de mesma cor.
 
 Quando tiver sua resposta, toque em
-#rEnviar Solução#x e escreva o número de
-cores.
-
+#rEscrever Resposta#x e escreva o número
+de cores.
 !******************************!
 Isso aí!
 

@@ -93,8 +93,8 @@ ocupar nossos lugares.
 !******************************!
 [t21_013_400.gds]
 <01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:92>Madame, por favor, espere
-um momento. Estes passageiros
-estavam esperando a bastante-
+um momento. Esses passageiros
+estavam esperando há bastante-
 !******************************!
 [t21_013_500.gds]
 <01:0000000B><03:6>shout<03:5>NONE<01:00000002><03:101>Nem pensar! Nem mais uma palavra sobre
@@ -149,12 +149,12 @@ ocupar nossos lugares.
 !******************************!
 [t21_014_400.gds]
 <01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:92>Madame, por favor, espere
-um momento. Estes passageiros
-estavam esperando a bastante-
+um momento. Esses passageiros
+estavam esperando há bastante-
 !******************************!
 [t21_014_500.gds]
 <01:0000000B><03:6>shout<03:5>NONE<01:00000002><03:101>Nem pensar! Nem mais uma palavra sobre
-isso! Você ia servir estas pessoas antes
+isso! Você ia servir essas pessoas antes
 de nós? Isso é um insulto!
 !******************************!
 [t21_014_600.gds]
@@ -206,7 +206,7 @@ procurando pela Caixa Elísia.
 !******************************!
 [t21_023_300.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:123>Não culpo você, Luke. Mas aquela caixa
-levou o pobre Andrew a morte.<W>
+levou o pobre Andrew à morte.<W>
 !------------------------------!
 Não importa como, irei resolver
 este mistério.
@@ -243,7 +243,7 @@ procurando pela Caixa Elísia.
 !******************************!
 [t21_024_400.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:123>Não culpo você, Luke. Mas aquela caixa
-levou o pobre Andrew a morte.<W>
+levou o pobre Andrew à morte.<W>
 !------------------------------!
 Não importa como, irei resolver
 este mistério.
@@ -299,9 +299,9 @@ mais cedo? Acho que nunca tinha visto
 alguém tão mandão.<W> E barulhento.
 !******************************!
 [t21_030_1700.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:105>Ele mesmo, o Sr. Beluga.<W> É uma pena
-que o quadro não fosse do seu agrado.
-Eu achei ele maravilhoso.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:105>Ele mesmo, o Sr. Beluga.<W> É uma pena o
+quadro não ser do seu agrado. Eu achei
+ele maravilhoso.
 !******************************!
 [t21_030_1800.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:71>Falando em quadros, Luke, eu tenho
@@ -713,9 +713,9 @@ Aonde vocês estão indo?
 querida. Infelizmente, não sabemos
 onde está.<W>
 !------------------------------!
-Até encontrarmos uma pista que nos
-aponte na direção certa, podemos apenas
-continuar procurando.
+Até encontrarmos uma pista que
+aponte à direção certa, só nos
+resta continuar procurando.
 !******************************!
 [t21_090_300.gds]
 <01:00000024><03:9>b1 smile<03:5>NONE<01:00000003><03:103>Ooh, parece que vai dar trabalho.<W>
@@ -834,7 +834,7 @@ que nem posso culpá-los.<W>
 !------------------------------!
 Com uma concorrência dessas,
 é difícil vender até mesmo uma
-xícara de chá.<W> Ôôô tédio.
+xícara de chá.<W> Ôôô, tédio...
 !******************************!
 [t21_120_500.gds]
 <01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:103>Daqui a pouco acaba meu turno. Sendo
@@ -855,7 +855,7 @@ de doer.
 !******************************!
 [t21_123_200.gds]
 <01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:290>Então, nossa próxima parada é nesse
-pequeno vilarejo chamada Dropstone,
+pequeno vilarejo chamado Dropstone,
 certo?<W>
 !------------------------------!
 Tipo, não tem nada lá. Eu gostaria
