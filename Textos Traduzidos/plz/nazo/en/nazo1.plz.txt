@@ -160,25 +160,25 @@ pequeno?
 Isso aí!
 
 Se você imaginar o triângulo pequeno de
-cabeça para baixo, como mostrado, levará
-apenas um momento para você perceber que 
-caberiam quatro triângulos pequenos dentro
-do triângulo grande.
+cabeça para baixo, como mostrado acima, irá
+perceber, em poucos segundos, que cabem 
+quatro triângulos pequenos dentro do
+triângulo grande.
 !******************************!
 Que pena!
 
 Foque a atenção no triângulo pequeno.
 !******************************!
 Você não precisa realizar nenhum cálculo
-em especial aqui. De fato, tudo que você
-precisa é um pouco de intuição.
+em especial aqui. De fato, tudo o que
+você precisa é um pouco de intuição.
 !******************************!
 Como as coisas ficariam se você
-rotacionar o triângulo pequeno?
+girasse o triângulo pequeno?
 !******************************!
 Já tentou visualizar como as coisas
-ficariam se você rotacionasse o
-triângulo pequeno?
+ficariam se você girasse o triângulo
+pequeno?
 
 Se você já fez isso, deveria ser fácil
 ver quantos triângulos pequenos cabem
@@ -193,13 +193,13 @@ nenhuma das crianças estava olhando, ela
 colocou bonés em suas cabeças e disse:
 
 <''>Certo, pessoal, abram seus olhos e olhem
-para o boné dos seus colegas. Quem ver
+para o boné dos seus colegas. Quem vir
 quatro ou mais colegas usando bonés
 vermelhos ganha um balão vermelho, e
-quem não ver, ganha um balão azul.<''>
+quem não vir ganha um balão azul.<''>
 
 Em uma turma com 10 crianças, só algumas
-ganham um balão vermelho. Mas quantas?
+ganharam um balão vermelho. Mas quantas?
 !******************************!
 Isso aí!
 
@@ -269,7 +269,7 @@ Dá bastante trabalho mover essas peças
 em forma de L, não?
 
 E se desse para mudar a forma das peças
-para algo mais fácil de mover?
+para algo mais fácil de se mover?
 
 Algo parecido com um quadrado, talvez?
 !******************************!
@@ -318,13 +318,13 @@ As cores invertidas da imagem no canto
 esquerdo tornam este enigma bastante
 desafiador, não é?
 
-Porém, esta mudança pode lhe ajudar mais
+Porém esta mudança pode lhe ajudar mais
 do que você imagina. Lembre-se de que na
-imagem no canto esquerdo, pontos escuros
+imagem no canto esquerdo pontos escuros
 ficam claros e vice-versa.
 !******************************!
 Procurar por diferenças entre a imagem
-preto e branco e cada uma  das três
+em preto e branco e cada uma das três
 imagens fará com que você eventualmente
 chegue à resposta. Contudo, há um jeito
 mais fácil.
@@ -399,16 +399,16 @@ Aqui temos um labirinto feito de sapatos.
 
 Sua tarefa é percorrer do ponto de partida
 até o ponto de chegada. Você só pode seguir
-na horizontal, ou na vertical, um espaço por
+na horizontal ou na vertical um espaço por
 vez, devendo alternar entre sapatos de pé
-esquerdo e pé direito a cada passo. Você
+esquerdo e de pé direito a cada passo. Você
 também não pode ultrapassar nenhuma parede
 do labirinto.
 
 Toque um espaço de cada vez para selecionar
 o caminho que você deseja seguir. Se errar
 o passo, toque novamente o espaço para
-desselecioná-lo.
+remover a seleção.
 !******************************!
 Bom trabalho!
 
@@ -417,7 +417,7 @@ Essa foi uma caminhada para o sucesso!
 Que pena!
 
 Você tem certeza de que alternou entre
-os sapatos de pé esquerdo e pé direito
+os sapatos de pé esquerdo e de pé direito
 a cada passo?
 !******************************!
 Fazer o caminho inverso, do final para
@@ -454,16 +454,16 @@ Se você assumir que o trem iniciou com seis
 passageiros, então apenas uma pessoa
 precisaria descer a cada estação. 
 
-Esse enigma pode ser bem difícil se você
+Esse enigma pode ser bem difícil se você se
 esquecer de reduzir o número de pessoas
 ainda no trem em cada estação pelo caminho.
 !******************************!
 Que pena!
 
-Preste atenção nas pistas que lhe foi dadas
-e tente novamente. Este enigma fica bem
-fácil no momento em que você percebe um 
-premissa bem simples.
+Preste atenção nas pistas que lhe foram
+dadas e tente novamente. Este enigma fica
+bem fácil no momento em que você percebe 
+um simples padrão.
 !******************************!
 Já que o enigma diz que ninguém
 entrou no trem durante a viagem,
@@ -476,13 +476,13 @@ número deve ser divisível por seis.
 Comece escolhendo um número que é
 divisível por seis e veja o que acontece.
 
-A premissa usada para resolver este
+O padrão usado para resolver este
 enigma logo ficará evidente.
 !******************************!
 Imagine que 30 passageiros estão no trem
 quando ele parte. Na primeira estação,
 o trem perde 1/6 de seus passageiros, o
-que significa que cinco pessoas, desce.
+que significa que cinco pessoas descem.
 Na próxima estação, 1/5 dos 25
 passageiros remanescentes, ou cinco
 pessoas, desce. E na próxima estação, 1/4
@@ -503,8 +503,8 @@ Um pouco mais tarde, a vendedora da loja
 vizinha entra enfurecida na loja de sapatos.
 Parece que a nota que ele deu para ela era
 falsa! O horrorizado atendente entrega à
-vendedora <po>50 como desculpas. Nem a cliente,
-nem os sapatos que ela escolheu, estão a
+vendedora <po>50 como desculpas. Nem a cliente
+nem os sapatos que ela escolheu estão à
 vista.
 
 No total, quanto a loja de sapatos perdeu?
@@ -531,8 +531,8 @@ Se o atendente não tivesse ido trocar
 o dinheiro, talvez ele nunca descobrisse
 sobre a nota falsa.
 
-Quanto ele perderia caso ele fornecesse
-o troco?
+Se ele tivesse guardado o dinheiro na
+caixa, de quanto seria o prejuízo?
 !******************************!
 Já que ele usou uma nota falsa, o troco
 que conseguiu na loja vizinha não serviu
@@ -645,7 +645,7 @@ a mensagem no final do segundo minuto,
 um total de quatro pessoas ficarão
 conhecendo a mensagem.
 
-Viu aonde queremos chegar?
+Você viu onde queremos chegar?
 !******************************!
 [n21.dat]
 <0022>Tirando o Lixo 1
@@ -722,7 +722,7 @@ desistir e tentar novamente, mas como só
 há duas respostas possíveis, você já tem
 a solução...
 
-Mas não deixe de pensar no porquê dessa
+Mas não deixe de pensar no porquê de essa
 ser a resposta certa!
 !******************************!
 Pegue alguns copos, troque o vinagre
@@ -734,7 +734,7 @@ onde o vinagre vai estar em um instante.
 Se você parasse depois de cinco trocas
 ao invés de 55, mudaria alguma coisa?
 !******************************!
-Não é engraçado como em toda troca que
+Não é engraçado como, em toda troca que
 termina em números ímpares, o vinagre
 sempre acaba na jarra do meio?
 !******************************!
@@ -800,7 +800,7 @@ entre os caminhos confusos do zoológico.
 Toque a imagem de cada animal que você acha
 que conseguirá escapar com segurança do
 zoológico, depois toque em #rEnviar#x.
-Lembre-se, é em situações como essa que os
+Lembre-se, são situações como esta que os
 animais mostram sua verdadeira natureza.
 !******************************!
 Bem pensado!
@@ -845,9 +845,9 @@ com segurança.
 <0026>Troca de Trens
 <00><19><16><13><11><14><19><19><FF><03><02><03>
 Troque os trens de trilhos. Mova um vagão
-por vez e certifique-se que os números em
-cada vagão correspondam aos números ao
-lado do trilhos.
+por vez e certifique-se de que os números
+em cada vagão correspondam aos números
+ao lado do trilhos.
 !******************************!
 Isso aí!
 
@@ -859,11 +859,11 @@ suficientemente atrasado!
 Comece colocando os vagões do trem
 menor nos trilhos de cima.
 !******************************!
-Mova o vagão vermelho #1 para o espaço
+Mova o vagão vermelho 1 para o espaço
 à direita nos trilhos de cima. Depois
 mova todos os vagões verdes para os
 trilhos debaixo, permitindo mover o vagão
-vermelho #1 ao seu lugar final.
+vermelho 1 ao seu lugar final.
 !******************************!
 Use o método da Dica 2 com os outros
 vagões e você terá trocado os trens
@@ -1396,7 +1396,7 @@ der um efeito na bola para que ela
 caia exatamente na metade do caminho
 entre sua posição inicial e o buraco...
 
-Você viu aonde queremos chegar?
+Você viu onde queremos chegar?
 !******************************!
 [n37.dat]
 <0038>Quatro Cavalos
@@ -2602,7 +2602,7 @@ sentados em frente um do outro.
 
 Uma vez que você já sabe que B é
 o Sr. O'Connor, C e G devem ser o
-Sr. e Sra. Jones.
+Sr. e a Sra. Jones.
 !******************************!
 E onde está o Sr. Lambert?
 
@@ -2673,7 +2673,7 @@ o jantar do Luke custou <po>70 e o do
 professor <po>35.
 
 Que combinação de comidas e bebidas
-soma <po>70?
+resulta em <po>70?
 !******************************!
 [n8.dat]
 <0009>Copos Empilhados
@@ -2687,7 +2687,7 @@ o dono. O dono dá uma olhada rápida nos
 modelos e, com um olhar de irritação, vira
 para o garçom e grita:
 <''>Este modelo é um absurdo! Onde você
-estava com a cabeça?<''>.
+estava com a cabeça?<''>
 
 O dono do restaurante está se referindo
 a qual do cinco modelos?
@@ -2708,16 +2708,16 @@ Que pena!
 Por que será que um simples desenho deixou
 o dono do restaurante tão zangado?
 !******************************!
-<''>Este modelo é absurdo!<''>
+<''>Este modelo é um absurdo!<''>
 
 O dono não estava com raiva porque o
 modelo era difícil de ser montado.
-Ele estava brabo porque o modelo é
+Ele estava bravo porque o modelo é
 fisicamente impossível de reproduzir
 na vida real.
 !******************************!
 A e C até que poderiam ser montados com
-mãos firmes e bastante paciência
+mãos firmes e bastante paciência.
 
 Nos resta B, D e E.
 !******************************!
@@ -2764,7 +2764,7 @@ Pense bem e dê outra chance.
 Não tem truques aqui.
 
 Você pode achar mais fácil se usar a
-função Memória para marcar seções do 
+função Notas para marcar seções do 
 desenho.
 !******************************!
 Por que não dá uma olhada nos cantos

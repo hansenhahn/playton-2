@@ -227,8 +227,8 @@ juntou a Layton e Luke.
 !******************************!
 [ide_5.txt]
 Parece que Tom não era uma criança,
-como originalmente se pensava, mas
-ao invés disso era o cãozinho de
+como originalmente se pensava, mas,
+em vez disso, era o cãozinho de
 Babette. Parece que o afeto dela
 por Tom é tão profundo que ela
 o considera muito mais que um

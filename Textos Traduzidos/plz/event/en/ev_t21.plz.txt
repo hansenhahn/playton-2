@@ -376,7 +376,7 @@ Ainda estou fazendo a digestão!
 !******************************!
 [t21_034_300.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>Pensando bem, podemos descansar um
-pouco depois daquela adorável refeição.
+pouco depois dessa adorável refeição.
 Vamos voltar para nossa cabine.
 !******************************!
 [t21_034_400.gds]
@@ -411,7 +411,7 @@ ele daqui.
 !******************************!
 [t21_040_400.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:51>Certamente não devemos descartar
-esta possibilidade.
+essa possibilidade.
 !******************************!
 [t21_040_500.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:88>Ah! Já que estamos falando de
@@ -488,7 +488,7 @@ de ter visto um garoto menor que
 eu no trem.
 !******************************!
 [t21_050_1500.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:364>Esta foi minha impressão também, o que
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:364>Essa foi minha impressão também, o que
 me levou a começar a considerar uma
 outra linha de pensamento.<W>
 !------------------------------!
@@ -503,7 +503,7 @@ Mas e se essa suposição for falsa?
 E se estivermos errados desde o começo?
 !******************************!
 [t21_050_1600.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:52>Acho que sei aonde quer chegar,
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:52>Acho que sei onde quer chegar,
 Professor...
 !******************************!
 [t21_050_1700.gds]
@@ -517,7 +517,7 @@ então nosso amigo Tom é...
 !******************************!
 [t21_050_200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:60>Isto se parece com o sapato
-do Tom, não é Professor?
+do Tom, não é, Professor?
 !******************************!
 [t21_050_300.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:19>Certamente.
@@ -554,7 +554,7 @@ até agora.
 <01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:14>O Tom é um cachorro!
 !******************************!
 [t21_053_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>Lembra da garota que vimos segurando
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>Lembra a garota que vimos segurando
 um cãozinho?<W> Suspeito que aquele
 cãozinho era o nosso amigo Tom.
 !******************************!
@@ -569,7 +569,7 @@ atenção, por isso pense bem.
 [t21_060_100.gds]
 <01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:166>Hrm. Hrrrrm? E que tal...?<W> Não.
 Hmph. Este enigma vai me manter
-acordado a noite toda...<W>
+acordado à noite toda...<W>
 !------------------------------!
 Eita! Desculpe aí por isso. E vocês?
 O que posso fazer por vocês?
@@ -927,7 +927,7 @@ parada, então por favor, relaxem e
 apreciem o passeio.
 !******************************!
 [t21_143_100.gds]
-<01:0000000D><03:9>b1 smile<03:5>NONE<01:00000002><03:206>Impressionante! Vocês lidaram com aquela
+<01:0000000D><03:9>b1 smile<03:5>NONE<01:00000002><03:206>Impressionante! Vocês lidaram com essa
 conta com uma facilidade invejável.
 Agradeço pela ajuda.<W>
 !------------------------------!
@@ -941,8 +941,8 @@ Podem voltar quando tiverem lembrado
 o que pediram.
 !******************************!
 [t21_150_100.gds]
-<01:0000000E><03:8>b1 weep<03:5>NONE<01:00000002><03:43>Ufa... Isso foi mau, até mesmo
-para o Sr. Beluga.
+<01:0000000E><03:8>b1 weep<03:5>NONE<01:00000002><03:43>Poxa vida... O Sr. Beluga exagerou
+dessa vez.
 !******************************!
 [t21_150_200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Quer dizer que ele sempre grita
@@ -967,7 +967,7 @@ classe precisar ter uma atmosfera
 de primeira classe.<W>
 !------------------------------!
 Quero dizer, até mesmo os pratos do
-vagão-restaurante são feitos a mão.
+vagão-restaurante são feitos à mão.
 A qualidade é incrível.<W>
 !------------------------------!
 Dê uma olhada nos finos detalhes
@@ -1010,7 +1010,7 @@ Suas páginas detalhavam os últimos dias
 do doutor, o que me levou até este trem.<W>
 !------------------------------!
 Mas já que a investigação não lhe
-diz respeito, isso é tudo que posso
+diz respeito, isso é tudo o que posso
 lhe dizer, Sr. Layton.<W>
 !------------------------------!
 Além disso, minha prioridade agora é
@@ -1045,7 +1045,7 @@ lembre-se de avisar à Babette.
 Ela está no vagão seis.
 !******************************!
 [t21_163_100.gds]
-<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:195>Humph... Pelo jeito sua fama
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:195>Humph... Pelo jeito, sua fama
 não é um completo exagero.<W>
 !------------------------------!
 Mesmo assim, este caso é meu.
@@ -1078,7 +1078,7 @@ este pequeno problema...
 !******************************!
 [t21_171_100.gds]
 <01:0000002C><03:5>NONE<03:5>NONE<01:00000003><03:79>Querem ver aquele enigma outra
-vez? Sintam-se a vontade, meninos.
+vez? Sintam-se à vontade, meninos.
 !******************************!
 [t21_172_100.gds]
 <01:0000002C><03:5>NONE<03:5>NONE<01:00000003><03:116>Se querem saber, trens são o jeito
@@ -1120,11 +1120,11 @@ Beleza, tô ligado nisso. Mas como disse
 antes, não rola. Não posso fazer nada.
 !******************************!
 [t21_183_100.gds]
-<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:191>E é assim que se resolve esse.<W>
-Bem, agora que o show acabou,
-bora circular.<W>
+<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:191>E é assim que se resolve este enigma.<W>
+Bem, agora que o show acabou, bora
+circular.<W>
 !------------------------------!
-Vou levar um puxão de orelhas se a galera
+Vou levar um puxão de orelha se a galera
 aí de dentro souber de outros passageiros
 passeando pela primeira classe.
 !******************************!
@@ -1145,7 +1145,7 @@ Diga-me, Luke, o que acha de flores
 como estas?
 !******************************!
 [t21_191_100.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:48>Aqui está aquele enigma de antes.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:48>Aqui está o enigma de antes.
 !******************************!
 [t21_192_100.gds]
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:77>Parando pra pensar, por que não temos

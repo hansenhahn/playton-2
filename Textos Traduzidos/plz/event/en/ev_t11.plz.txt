@@ -301,12 +301,12 @@ no momento.
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:25>Vamos verificar de novo mais tarde.
 !******************************!
 [t11_130_100.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:74>Diga, Professor, aquela pequena
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:74>Diga, Professor, essa pequena
 cabana não lhe parece familiar?
 !******************************!
 [t11_130_200.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:75>É verdade. A não ser que eu esteja
-enganado, aquela deve ser a residência
+enganado, essa deve ser a residência
 de você-sabe-quem.
 !******************************!
 [t11_130_300.gds]
@@ -404,11 +404,12 @@ Parece bem pequeno, né?
 !******************************!
 [t11_170_1300.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:66>Sim, acho muito curioso, Luke.
-Bastante intrigante, na verdade.
+Deveras intrigante, na verdade.
 !******************************!
 [t11_170_1400.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:62>Acho que crianças com este tamanho
-de pé ainda não conseguem caminhar!
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:62>Acho que crianças com essa numeração
+de sapato ainda não conseguem nem
+mesmo ficar em pé!
 !******************************!
 [t11_170_1500.gds]
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:10>É verdade...
@@ -476,7 +477,7 @@ peguei a câmera dele emprestada, saca?
 O problema é que eu deixei ela cair.<W>
 !------------------------------!
 Estou aqui tentando encontrar
-todas as peças a mais de uma hora,
+todas as peças há mais de uma hora,
 mas achei apenas uma...
 !******************************!
 [t11_175_400.gds]
@@ -501,7 +502,7 @@ Por essa você não esperava.
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:166>A opção Câmera foi adicionada
 à mala. Remonte a câmera lá.<W>
 !------------------------------!
-Para acessá-la, toque o ícone Mala,
+Para acessá-la, toque o ícone Mala e
 então toque o ícone Câmera.
 !******************************!
 [t11_180_100.gds]
@@ -517,7 +518,7 @@ do filho deixou ela cansada.<W>
 !------------------------------!
 Vamos, Luke. Quanto mais cedo
 encontrarmos a criança, mais cedo
-esta pobre mulher descansará em paz.
+essa pobre mulher descansará em paz.
 !******************************!
 [t11_190_100.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:45>Oh! Olhe isto, Professor. É...
@@ -566,7 +567,7 @@ Por acaso você viu um menino
 andando por aí sozinho neste vagão?
 !******************************!
 [t11_210_300.gds]
-<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:136>Um garotinho, é?<W> Não, desculpe-me
+<01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:136>Um garotinho, é?<W> Não, desculpe-me,
 senhor, mas não vi nada do tipo.<W>
 !------------------------------!
 Ooh, ooh, o que aconteceu? Por
@@ -579,8 +580,8 @@ perdida.
 !******************************!
 [t11_210_500.gds]
 <01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:174>Sabe, eu não deveria ficar por aí
-espalhando boatos, mas... Ah bem, não
-tenho nada melhor pra fazer.<W>
+espalhando boatos, mas... Ah, que se
+dane, não tenho nada melhor pra fazer.<W>
 !------------------------------!
 Você sabia que tem uma velha
 estranha neste vagão?
@@ -606,7 +607,7 @@ será que ela está falando?
 !******************************!
 [t11_211_100.gds]
 <01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:97>Estou morrendo de tédio neste trem.<W>
-Não vejo a hora de largar esse trampo
+Não vejo a hora de largar este trampo
 e encontrar um emprego de verdade.
 !******************************!
 [t11_220_100.gds]
@@ -637,7 +638,7 @@ antes, não se lembra?
 !******************************!
 [t11_220_500.gds]
 <01:0000000F><03:5>NONE<03:5>NONE<01:00000003><03:164>Hum. Negativo. Suspeito que esteja
-se confundindo nas vovós, garoto. Nunca
+confundindo as vovós, garoto. Nunca
 vi vocês antes em toda minha vida.<W>
 !------------------------------!
 Mas se estão aqui agora, é porque
@@ -691,7 +692,7 @@ dos sapatos andando por aí?
 <01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:111>Que eu lembre não.<W>
 !------------------------------!
 Mas parando para pensar, um casal que
-estava aqui agora a pouco estava
+estava aqui agora há pouco estava
 conversando sobre uma criança.
 !******************************!
 [t11_240_300.gds]
@@ -772,10 +773,10 @@ uma menina que passou por nós.
 !******************************!
 [t11_250_800.gds]
 <01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:196>Hmm, sim, agora que você mencionou,
-tive a impressão de que o arteiro
+tive a impressão de que a arteira
 era uma garota.<W>
 !------------------------------!
-Mas até que você vire-os de costa
+Mas até que você vire-as de costa
 e dê uma boa olhada, não tem como
 ter certeza, não é?
 !******************************!
@@ -938,9 +939,9 @@ de você ter visto passar por aqui uma
 jovem com um cachorro pequeno?
 !******************************!
 [t11_290_300.gds]
-<01:0000000D><03:10>b1 normal<03:5>NONE<01:00000002><03:94>Ah, tenho a impressão que sim. Acredito
-que ela estava seguindo em direção ao
-final do trem.
+<01:0000000D><03:10>b1 normal<03:5>NONE<01:00000002><03:94>Ah, tenho a impressão de que sim.
+Acredito que ela estava seguindo em
+direção ao final do trem.
 !******************************!
 [t11_290_400.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:55>É tudo? Muito obrigado, senhor,
@@ -1057,7 +1058,7 @@ descansamos até chegarmos lá? Isso
 deve fazer o tempo passar mais rápido.
 !******************************!
 [t11_330_300.gds]
-<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:115>ESTE é o Tom?!<W>
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:115>ESSE é o Tom?!<W>
 !------------------------------!
 Tínhamos a impressão de que estávamos
 procurando por um menino, não um
@@ -1065,7 +1066,7 @@ vira-lata com penteado engraçado!
 !******************************!
 [t11_330_400.gds]
 <01:0000000B><03:9>b1 angry<03:5>NONE<01:00000002><03:76>Como se atreve a comparar
-meu Tom-tom a um sarnento
+meu Tom-Tom a um sarnento
 de rua qualquer?!
 !******************************!
 [t11_330_500.gds]
@@ -1202,15 +1203,15 @@ nossa passagem.<W>
 !------------------------------!
 Limpar os trilhos irá levar algum
 tempo, então, hum, peço pra que
-sente-se e espere.
+se sente e espere.
 !******************************!
 [t11_400_400.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>Entendo.<W> Posso ajudar em
 alguma coisa?
 !******************************!
 [t11_400_500.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:144>No duro? Claro, seria
-de grande ajuda!<W>
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:144>Pra valer? É claro! Vai ser de
+grande ajuda!<W>
 !------------------------------!
 Acha que pode mover o trem que está
 bloqueando os trilhos pra que
@@ -1263,7 +1264,7 @@ mais de iniciativa. Volte quando tiver
 resolvido 12 ou mais enigmas!
 !******************************!
 [t11_412_100.gds]
-<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:197>Olha isso! Você conseguir resolver
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:197>Olha isso! Você conseguiu resolver
 pelo menos 12 enigmas. Eu lhe saúdo!<W>
 De coração!<W>
 !------------------------------!
