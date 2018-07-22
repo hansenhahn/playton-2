@@ -1178,7 +1178,7 @@ Elísia na cidade.
 Visitando o Dr. Schrader
 !******************************!
 [t_10.txt]
-A Competição de Gado
+O Desfile das Vacas
 !******************************!
 [t_11.txt]
 Planos de Fuga do Lar
