@@ -75,7 +75,7 @@ estimados clientes. Em que posso
 ajudá-los?
 !******************************!
 [t15_140_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:52>Com sua licença. Por acaso o
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:52>Com licença. Por acaso o
 senhor vende comida de cachorro
 no estabelecimento?
 !******************************!
@@ -83,9 +83,9 @@ no estabelecimento?
 <01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:159>Hmm! Esse é o pedido mais interessante
 que recebi o dia inteiro.<W>
 !------------------------------!
-Enlatados eu não tenho nenhum,
-mas estes restos de carne
-vão deixar o totó nas nuvens!
+Eu não tenho nenhuma ração enlatada,
+mas estes restos de pernil vão deixar
+o totó nas nuvens!
 !******************************!
 [t15_140_400.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:58>Parece perfeito. Poderíamos
@@ -97,23 +97,22 @@ o cãozinho goste de alho.
 !******************************!
 [t15_140_600.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Estou certo de que ele não
-vai se incomodar.
+vai se incomodar com isso.
 !******************************!
 [t15_140_700.gds]
-<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:168>Bom saber. Bom, não pretendo
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:168>Bom saber. Bem, não pretendo
 cobrar nada de vocês, mas poderiam
-resolver esse meu enigma aqui?<W>
+resolver este meu enigma aqui?<W>
 !------------------------------!
-Estou travado nele há dias.
-Já está começando a me tirar
-o sono!
+Estou travado nele há dias. Já
+está começando a me tirar o sono!
 !******************************!
 [t15_160_100.gds]
 <01:00000050><03:6>shout<03:5>NONE<01:00000001><03:27>Aruuuf! Au au au!
 !******************************!
 [t15_160_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:52>Esta é a nossa chance, Luke!
-Dê a carne para ele!
+Dê o pernil para ele!
 !******************************!
 [t15_160_300.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:30>Pode deixar! Lá vai!
