@@ -1303,7 +1303,7 @@ que eu tinha encontrado antes.
 !******************************!
 [t24_290_100.gds]
 <01:0000004A><03:5>NONE<03:5>NONE<01:00000002><03:160>Cruzes! Como vocês dois andam!
-Fico cansado só de olhar. A hur hur hur!<W>
+Tô cansado só de olhar. A hur hur hur!<W>
 !------------------------------!
 Por que não descansam um pouco
 com este meu enigma aqui?
@@ -1323,7 +1323,7 @@ tão rápido que minha cabeça tá até
 girando.<W>
 !------------------------------!
 Vocês são aquele tipo de gente que
-não para quieta, hein?<W> Fico cansado
+não para quieta, hein?<W> Tô cansado
 só de pensar.
 !******************************!
 [t24_294_100.gds]
