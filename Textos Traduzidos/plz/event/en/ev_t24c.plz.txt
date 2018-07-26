@@ -3,43 +3,44 @@
 Encontrei um enigma escondido!
 !******************************!
 [t24_601_100.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:44>Aqui um enigma escondido que achei antes.
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:44>Aqui está o enigma escondido
+que achei mais cedo.
 !******************************!
 [t24_602_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
 !******************************!
 [t24_603_100.gds]
-<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:50>Uau, esse enigma me fez suar, sem brincadeira!
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:50>Uau! Este enigma me fez suar,
+sem brincadeira!
 !******************************!
 [t24_604_100.gds]
 <01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:43>Por que não voltamos a este
 mais tarde?
 !******************************!
 [t24_610_100.gds]
-<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:186>Por que todo o mundo faz um
-bafafá sobre avisar os outros
-sobre ficar longe do castelo?<W>
+<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:186>Por que todo mundo faz questão
+de avisar pros outros ficarem
+longe do castelo?<W>
 !------------------------------!
-Mesmo que você quisesse ir, é
-impossível chegar até ele!<W> O portão
-da floresta sempre está trancado!
+Mesmo que você quisesse ir visitá-lo,
+é impossível chegar até ele!<W> O portão
+da floresta está sempre trancado!
 !******************************!
 [t24_610_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:53>Suponho que ele seja a única
 entrada para o castelo, então?
 !******************************!
 [t24_610_300.gds]
-<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:263>
-Ih ri ri! Vocês dois querem mesmo
-ir para lá, hem? Lugarzinho esquisito
-e macabro, mas sei como é.<W>
+<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:263>Hi hi hi! Vocês dois querem mesmo ir
+pra lá, né? É um lugarzinho esquisito
+e macabro, mas entendo vocês.<W>
 !------------------------------!
-O portão só abre para deixar
+O portão só abre pra deixar
 aquela carruagem velha passar.<W>
 !------------------------------!
-Se esconderem nos arbustos e esperarem
-pelo cocheiro, é capaz de que consigam
-infiltrar-se por trás.
+Se vocês se esconderem nos arbustos e
+esperarem pelo cocheiro, é capaz de que
+consigam pular pra carruagem.
 !******************************!
 [t24_610_400.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:68>Então o portão abre! Sabe alguma
@@ -47,18 +48,18 @@ coisa sobre essa carruagem?
 !******************************!
 [t24_610_500.gds]
 <01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:273>Você me pegou. Ela vai ao castelo
-todo dia quase a mesma hora.<W>
+todo dia quase sempre na mesma hora.<W>
 !------------------------------!
-Talvez para entregar carne crua ou
+Talvez pra entregar carne crua ou
 sangue para o jantar dos vampiros!<W>
-Mas falando sério, não faço a minúscula ideia.<W>
+Pra ser sincera, não faço ideia.<W>
 !------------------------------!
-Mas, ei, olhando pelo lado positivo:
-toda essa conversa sobre carruagens
+Mas, ei, olha pelo lado positivo!
+Toda essa conversa sobre carruagens
 me lembrou de um enigma sobre cavalos.
 !******************************!
 [t24_611_100.gds]
-<01:00000045><03:10>b2 normal<03:5>NONE<01:00000003><03:40>Voltou para tentar outra vez?
+<01:00000045><03:10>b2 normal<03:5>NONE<01:00000003><03:40>Voltou pra tentar outra vez?
 !******************************!
 [t24_612_100.gds]
 <01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:163>Você sempre ouve sobre como vampiros
@@ -66,23 +67,22 @@ são pálidos e extremamente atraentes.<W>
 !------------------------------!
 Ele pode até ter sangue frio, mas
 aposto que o vampiro naquele castelo
-é o maior bonitão! Ih ri ri!
+é o maior bonitão! Hi hi hi!
 !******************************!
 [t24_613_100.gds]
-<01:00000045><03:10>b4 normal<03:5>NONE<01:00000003><03:267>Ah, agora eu entendi. Ih ri ri ri!
-Muitíssimos obrigados.<W>
+<01:00000045><03:10>b4 normal<03:5>NONE<01:00000003><03:267>Ah, agora eu entendi. Hi hi hi hi!
+Muitíssimo obrigada.<W>
 !------------------------------!
 Como eu ia dizendo, se quiserem passar
-por aquele portão vão ter que ir
-à socapa com a carruagem.<W>
+por aquele portão, vão ter que dar um
+jeito de se esconderem na carruagem.<W>
 !------------------------------!
 Mas nunca se sabe que coisas perigosas
-podem estar na floresta, então eu fico
-aqui!
+podem estar na floresta, por isso acho
+que não deveriam ir lá!
 !******************************!
 [t24_614_100.gds]
-<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:102>
-Ei, eu me incomodei em te contar
+<01:00000045><03:5>NONE<03:5>NONE<01:00000003><03:102>Ei! Eu me dei ao trabalho de lhes contar
 um enigma. O mínimo que podem fazer
 é resolvê-lo.
 !******************************!
@@ -91,40 +91,42 @@ um enigma. O mínimo que podem fazer
 Professor.
 !******************************!
 [t24_620_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:170>Sim, sem nenhum tipo de luz, não creio
-que sêjamos capaz de prosseguir.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:170>Sim, sem nenhuma iluminação, não creio
+que sejamos capaz de prosseguir.<W>
 !------------------------------!
-Mas o que temos aqui?<W> Meu garoto,
-estamos com sorte! Acho que alguém
-deixou uma lanterna!
+Mas o que temos aqui?<W>
+Luke, estamos com sorte! Acho
+que alguém esqueceu uma lanterna!
 !******************************!
 [t24_621_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:55>Vamos ver se um pouco de luz
-não nos ajuda a achar nosso caminho.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:55>Vamos ver se um pouco de luz não
+nos ajuda a achar nosso caminho.
 !******************************!
 [t24_622_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Com ou sem lanterna, esta floresta
-me congela a espinha.
+me dá um arrepio na espinha!
 !******************************!
 [t24_623_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:110>Arrá, agora nós temos luz.<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:110>Aha! Agora nós temos luz.<W>
 !------------------------------!
-Mas é gozado, não? Quem abandonaria
-uma lanterna tão perfeita?
+Mas é curioso, não é? Quem abandonaria
+uma lanterna que ainda funciona?
 !******************************!
 [t24_623_200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:101>Não consigo acreditar que alguém simplesmente
-esqueceu ela aqui. É quase como se alguém
-estivesse deixando algum rasto para nós.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:101>Não consigo acreditar que alguém
+simplesmente esqueceu ela aqui.<W>
+!------------------------------!
+É quase como se alguém estivesse
+marcando o caminho para nós.
 !******************************!
 [t24_624_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:98>Se não pudermos usar a laterna
-para iluminar o caminho, como iremos
-garantir que não sáiamos dele?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:98>Se não der pra iluminar nosso trajeto com
+essa lanterna, como vamos ter certeza de
+que ainda estamos no caminho certo?
 !******************************!
 [t24_630_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Esta floresta não acaba nunca, e
-está ficando mais e mais escuro.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Esta floresta não acaba nunca, e está
+ficando cade vez mais e mais escuro.
 !******************************!
 [t24_630_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:88>Sim, mas felizmente alguém deixou
@@ -132,21 +134,21 @@ uma segunda lanterna para trás.
 Vamos ver onde estamos...
 !******************************!
 [t24_631_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:55>Vamos dar uma iluminada em nossa situação, que tal?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:55>Que tal iluminarmos a nossa situação?
 !******************************!
 [t24_632_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Mesmo com luz, esta floresta
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Mesmo iluminada, esta floresta
 ainda é macabra!
 !******************************!
 [t24_633_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:21>Luz, alelúia!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:21>Finalmente um pouco de luz!
 !******************************!
 [t24_633_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:59>Agora que o caminho está mais claro,
 vamos andando.
 !******************************!
 [t24_634_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:23>Não posso ver nada...
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:23>Não enxergo nada...
 !******************************!
 [t24_640_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:87>Professor, odeio ter que repetir
@@ -154,36 +156,38 @@ isto, mas acho que precisamos de
 mais um pouco de luz aqui.
 !******************************!
 [t24_640_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:76>Certo então, vamos ver
-se possamos usar esta lanterna para
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:76>Certo então, vamos ver se
+podemos usar esta lanterna para
 encontrar os nossos pertences.
 !******************************!
 [t24_641_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:50>Precisamos iluminar o caminho
-antes de dar sequência à nossa trilha.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:50>Precisamos iluminar o caminho antes
+de darmos sequência à nossa trilha.
 !******************************!
 [t24_642_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:69>Não importa se temos mais ou menos luz.
 Este lugar é de esbranquiçar os cabelos.
 !******************************!
 [t24_643_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Oba, posso ver de novo! É tão melhor assim.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Eba, posso ver de novo!
+Assim é tão melhor!
 !******************************!
 [t24_644_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:21>Estou cego!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:21>Estou cego! Não vejo nada!
 !******************************!
 [t24_650_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Olha, quem diria! Um enigma escondido!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Olha, quem diria!
+Um enigma escondido!
 !******************************!
 [t24_651_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:49>Ei, este enigma escondido
-não foi resolvido ainda.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:49>Ei! Este enigma escondido ainda
+não foi resolvido.
 !******************************!
 [t24_652_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
 !******************************!
 [t24_653_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:24>Esse foi bem durinho.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:24>Este daqui foi difícil.
 !******************************!
 [t24_654_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Este enigma não foi moleza,
@@ -195,27 +199,27 @@ Professor.
 !******************************!
 [t24_660_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:94>Curioso, nunca vi este tipo antes.
-Permitá-me estudá-lo só por um
-instante antes de prosseguirmos.
+Me deixe estudá-lo só por um instante
+antes de prosseguirmos.
 !******************************!
 [t24_661_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>Nunca vi este tipo de cogumelo antes.
-Permita-me estudá-lo um pouco antes
+Me deixe estudá-lo um pouco antes
 de partimos.
 !******************************!
 [t24_662_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:98>Tenho aquela estranha sensação de que
-algo assustador pode avançar dos arbustos
-à qualquer instante. Vamos seguindo!
+algo assustador pode pular dos arbustos
+à qualquer instante. Vamos depressa!
 !******************************!
 [t24_663_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:74>Agora que sua curiosidade
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:74>Agora que a sua curiosidade
 foi satisfeita, podemos por favor
 ir em frente, Professor?
 !******************************!
 [t24_664_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:91>Eu adoro enigmas, mas eu sinceramente
-preferiria se concentrássemos em
+preferiria que nos concentrássemos em
 sair desta floresta macabra logo.
 !******************************!
 [t24_670_100.gds]
@@ -223,8 +227,8 @@ sair desta floresta macabra logo.
 !******************************!
 [t24_670_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:102>Realmente. Está tão frio que o
-lago inteiro congelou...<W> Ah!
-Tive uma idea para um atalho.
+lago inteiro congelou...<W>
+Ah! Tive uma idea para um atalho.
 !******************************!
 [t24_671_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>Tenho certeza de que vamos
@@ -232,86 +236,87 @@ passar desta vez.
 !******************************!
 [t24_672_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:92>Brrr! Quando foi que a temperatura
-caiu para abaixo de zero?
-Esta floresta é estranhíssima.
+caiu abaixo de zero? Esta floresta
+é bizarra!
 !******************************!
 [t24_673_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:86>Nossa passagem foi a melhor que
-podia se esperar, mas não devemos
-parar agora. Cá vamos nós.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:86>Nossa travessia foi um sucesso,
+mas não podemos parar agora.
+Aqui vamos nós.
 !******************************!
 [t24_674_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:58>Deve haver alguma maneira de
 deslizar pelo lago congelado.
 !******************************!
 [t24_680_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>Uo-uooou! Cuidado com o que pisa,
-Professor! É gelo puro.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>Opa opa! Cuidado onde pisa,
+Professor! É puro gelo.
 !******************************!
 [t24_680_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:89>Não tem neve para pisar, então é
-melhor palmilhar cautelosamente.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:89>Não tem neve para caminharmos,
+então é melhor andarmos com cautela.
 Vamos lá...
 !******************************!
 [t24_681_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Desta vez nós com certeza
-vamos conseguir.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Desta vez, vamos conseguir!
 !******************************!
 [t24_682_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Cuidado aí, Luke.
-Um passo em falso e você bate a nuca.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Cuidado aí, Luke. Um passo
+em falso e você pode escorregar
+e bater a cabeça no chão.
 !******************************!
 [t24_683_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:134>Ufa! É um milagre nós termos
-passado sem resvalar.<W>
+atravessado sem cair.<W>
 !------------------------------!
-Sinto que estamos quase chegando, Luke.
-Vamos em frente.
+Sinto que estamos quase chegando,
+Luke. Vamos em frente.
 !******************************!
 [t24_684_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:76>Com um mínimo de cautela,
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:76>Se tivermos um mínimo de cautela,
 devemos ser capazes de chegar
 ao nosso destino.
 !******************************!
 [t24_690_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:99>E aqui estamos, encarando outro
-lago gelado. Parece ser o único caminho,
-então vamos logo.
+lago congelado. Parece ser o único
+caminho, então vamos em frente.
 !******************************!
 [t24_691_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>Desta vez nós com certeza
-vamos passar.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>Nós vamos conseguir
+atravessar desta vez.
 !******************************!
 [t24_692_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:57>Vá de fininho e olhe onde pisa,
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:57>Vá com calma e cuidando onde pisa,
 Luke.
 !******************************!
 [t24_693_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Atravessamos! Agora só mais um pouco
-e chegaremos lá.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Atravessamos! Agora só mais um
+pouco e chegaremos lá.
 !******************************!
 [t24_694_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:48>Não deve dar muito trabalho
-patinar daqui.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:48>Não deve ser muito difícil
+deslizar até lá.
 !******************************!
 [t24_700_100.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:23>Bati o olho num enigma escondido!
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:23>Olha só! Um enigma escondido!
 !******************************!
 [t24_701_100.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:44>Aqui aquele enigma escondido
-que eu tinha avistado antes.
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:44>Aqui está aquele enigma escondido
+que eu tinha visto antes.
 !******************************!
 [t24_702_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
 !******************************!
 [t24_703_100.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:30>Ufa, deu bastante trabalho!
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:30>Ufa! Deu bastante trabalho!
 !******************************!
 [t24_704_100.gds]
 <01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:28>Este foi bem traiçoeiro.
 !******************************!
 [t24_710_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Essa não! Estamos trancados! Não tem para onde ir!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Essa não! Estamos trancados!
+Não tem pra onde ir!
 !******************************!
 [t24_710_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>Acalme-se, Luke. Com certeza deve
@@ -320,19 +325,19 @@ Olhe à sua volta.
 !******************************!
 [t24_710_300.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:48>Posso ver a chave!
-Se tivesse como eu alcançá-la...
+Se tivesse como alcançá-la...
 !******************************!
 [t24_710_400.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:35>Certo, vamos ver se eu alcanço.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:35>Certo, vamos ver se consigo
+alcançá-la agora.
 !******************************!
 [t24_711_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:63>Uma vez aquela chave em mãos,
-e nós estamos livres. Tenho certeza.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:63>Uma vez com a chave em mãos,
+e estaremos livres. Tenho certeza.
 !******************************!
 [t24_713_100.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:64>E lá vamos nós.
-A porta agora está destrancada.
-Chegou a nossa liberdade, Luke!
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:64>E aí está. A porta está destrancada.
+Enfim temos nossa liberdade, Luke!
 !******************************!
 [t24_713_200.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:24>Ótimo trabalho, Professor!
@@ -341,23 +346,23 @@ Chegou a nossa liberdade, Luke!
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:12>Será que...
 !******************************!
 [t24_713_400.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Qual é o problema? Vamos nos retirar
-logo daqui!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:43>Qual é o problema? Vamos logo
+embora daqui!
 !******************************!
 [t24_713_500.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:90>Você não concorda que nossa fuga
 está sendo... fácil demais?<W> É como
-se o Anton quisesse que fugíssimos.
+se o Anton quisesse que fugíssemos.
 !******************************!
 [t24_713_600.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:87>Não seja tonto, Professor.
-Se a gente fugir, já era o seu
-lanchinho da meia-noite!
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:87>Não seja ridículo, Professor.
+Se a gente fugir, já era pro seu
+lanchinho da madrugada!
 !******************************!
 [t24_713_700.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:98>Sim, sim, mas eu esperava
-pelo menos alguém patrulhando
-se a ideia era manter-nos aqui.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:98>Sim, sim, mas eu esperava pelo
+menos alguém de guarda se a ideia
+era nos manter presos aqui.
 !******************************!
 [t24_713_800.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:7>Mas...
@@ -371,41 +376,43 @@ nós parece a atitude mais pertinente.
 !******************************!
 [t24_714_100.gds]
 <01:00000002><03:9>b1 sweep<03:5>NONE<01:00000003><03:84>Se não sairmos daqui, seremos o
-jantar de um vampiro sedento de
+jantar de um vampiro sedento por
 sangue!
 !******************************!
 [t24_720_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:31>Este alçapão também está tracadinho.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:31>Este alçapão também
+está trancado.
 !******************************!
 [t24_720_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:86>Este alçapão serve como a única saída
-daqui. É abri-lo para fugir-mos.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:86>Este alçapão é a única saída
+daqui. Temos que abri-lo para 
+escaparmos.
 !******************************!
 [t24_721_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:64>Precisamos abrir este alçapão
 se quisermos sair daqui.
 !******************************!
 [t24_723_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:41>Luke, o alçapão agora está aberto.
-Follow me.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:41>Luke, o alçapão está aberto.
+Siga-me!
 !******************************!
 [t24_724_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>Este alçapão é a única saída daqui.
 Devemos abri-lo imediatamente!
 !******************************!
 [t24_730_100.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:130>Não deu para ignorar como os
-senhores veem as fotos penduradas
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:130>Não pude ignorar o interesse dos
+senhores por aquelas fotos penduradas
 naquela parede.<W>
 !------------------------------!
 Digam-me, o que acharam delas?
 !******************************!
 [t24_730_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:141>Todas as quatro fazem um explêndido trabalho
-em capturar a alma de Folsense.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:141>Todas as quatro fazem um esplêndido
+trabalho em capturar a alma de Folsense.<W>
 !------------------------------!
-Porém, não consegui ignorar o
-fato de que estão fora de ordem.
+Porém, não pude deixar de notar
+o fato de que estão fora de ordem.
 !******************************!
 [t24_730_300.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:158>Ah, sim, então você percebeu.
@@ -417,53 +424,56 @@ Gostaria de tentar restaurá-las
 !******************************!
 [t24_731_600.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:150>É sempre tocante ver clientes
-expremirem interesse em minhas fotografias.<W>
+mostrarem interesse em minhas
+fotografias.<W>
 !------------------------------!
-Diga, acha que pode me ajudar
-reordenando essas imagens?
+Acha que pode me ajudar
+com a ordem dessas fotos?
 !******************************!
 [t24_732_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:78>Deus, estas fotos parecem
-incrivelmente recentes considerando sua idade.
-Como você fez isto?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:78>Essas fotos parecem incrivelmente
+recentes considerando sua idade.
+Como você fez isso?
 !******************************!
 [t24_732_200.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:71>Eu fico lisongeado, mas é sério, não faço nada
-para preservar minhas fotos.
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:71>Eu estou lisonjeado, mas a verdade é
+que não faço nada para preservar
+minhas fotos.
 !******************************!
 [t24_733_100.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:182>Muito bem colocado. Parecem bem
-melhor assim, então agradeço-lhes
+melhor assim, então muito obrigado
 por cuidarem disto por mim.<W>
 !------------------------------!
-Sendo sincero, era para eu ter
-reordenado as fotos faz um tempinho
-já, mas eu nunca de fato o fiz.
+Sendo sincero, era para ter reordenado
+estas fotos faz um tempinho já, mas
+estou sempre postergando isso.
 !******************************!
 [t24_733_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:197>Não foi problema algum.<W>
 !------------------------------!
-Eu notei algo, porém.
+Eu notei uma coisa, porém.
 Levando em conta suas idades,
-estão impecáveis.<W>
+elas estão impecáveis.<W>
 !------------------------------!
 Conte-me, qual é o segredo para
 manter suas fotografias tão vivas?
 !******************************!
 [t24_733_300.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:132>Rá rá, ou está me bajulando
-ou teus olhos lhe enganam.<W>
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:132>Ha ha! Ou você está me bajulando
+ou está enxergando coisas.<W>
 !------------------------------!
 Não faço nada de especial para
 conservar minha fotografias.
 !******************************!
 [t24_733_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:163>Que bizzaro. Geralmente fotografias
-velhas assim mostrar sinais de desgaste
-de fonte externas.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:163>Que estranho. Geralmente fotografias
+velhas assim mostraram sinais de
+desgaste com o tempo.<W>
 !------------------------------!
-Bom, quem sabe os métodos de
-preservação são um segredo comercial?
+Bem, quem sabe os métodos de
+preservação não são um segredo
+comercial?
 !******************************!
 [t24_734_500.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:59>Suponho que não vai organizar essas
