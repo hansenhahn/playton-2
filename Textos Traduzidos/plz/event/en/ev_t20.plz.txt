@@ -25,8 +25,8 @@ a localização do prédio do Dr. Schrader.
 !******************************!
 [t20_003_100.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:95>Excelente. Com o nosso destino
-confirmado, estamos prontos para fazer
-uma visita ao doutor. Vamos!
+confirmado, estamos prontos para
+fazer uma visita ao doutor. Vamos!
 !******************************!
 [t20_004_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:39>Hummm, é mais difícil do
@@ -75,7 +75,7 @@ tentar abrir a porta.
 !******************************!
 [t20_010_900.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:82>Huh?<W> Estranho. Parece que
-nenhuma dessas chaves abre esta
+nenhuma destas chaves abre essa
 fechadura.
 !******************************!
 [t20_011_100.gds]
@@ -155,8 +155,8 @@ no oitavo andar e aquela porta estava
 trancada, Inspetor.<W>
 !------------------------------!
 Ainda assim, eu não diria que este
-quarto está completamente inacessível
-ao mundo lá fora.
+apartamento está completamente
+inacessível ao mundo lá fora.
 !******************************!
 [t20_020_2100.gds]
 <01:00000006><03:11>b2 suprise<03:5>NONE<01:00000001><03:30>É mesmo? Por favor, elabore.

@@ -7,10 +7,10 @@ pedaços. Mova os pedaços com a sua caneta
 stylus e coloque-os nos lugares certos
 para completar o mapa!
 
-Pode parecer simples, mas não esqueça
-que, além de mover, você pode remover
-os pedaços, incluindo aquele que já está
-no centro do mapa.
+Pode parecer simples, mas não esqueça de
+que, além de poder mover, você pode
+remover os pedaços, incluindo aquele que
+já está no centro do mapa.
 !******************************!
 Ótimo trabalho!
 
@@ -562,7 +562,7 @@ Quanto tempo demorou para você perceber
 que as cabeças das chaves também poderiam
 ser inseridas na fechadura?
 
-Que essa pequena lição fique de aviso para
+Que essa pequena lição seja um aviso para
 você não fazer suposições à primeira vista
 durante suas aventuras solucionando
 enigmas.
@@ -659,7 +659,7 @@ inferior da tela.
 !******************************!
 Ah, muito melhor!
 
-Não se esqueça, lugar de lixo é na lixeira,
+Não se esqueça, lugar de lixo é no lixo,
 não na rua!
 !******************************!
 
@@ -799,7 +799,7 @@ entre os caminhos confusos do zoológico.
 
 Toque a imagem de cada animal que você acha
 que conseguirá escapar com segurança do
-zoológico, depois toque em #rEnviar#x.
+zoológico, depois toque #rEnviar#x.
 Lembre-se, são situações como esta que os
 animais mostram sua verdadeira natureza.
 !******************************!
@@ -1357,7 +1357,7 @@ Neste momento, nosso golfista está a
 de tacadas que ele precisa dar para colocar
 a bola no buraco?
 
-Não esqueça que se a tacada for muito
+Não esqueça de que se a tacada for muito
 forte, a bola passará por cima do buraco.
 !******************************!
 Bom trabalho!
@@ -1483,7 +1483,7 @@ B: Parece que C é o único de nós que não
 manteve nenhuma de suas roupas originais.
 C: Não sei se gosto dessa calça vermelha.
 
-Toque nas pessoas para mudar suas roupas
+Toque as pessoas para mudar suas roupas
 e deixá-las em seus trajes atuais.
 !******************************!
 Perfeito!
@@ -1568,7 +1568,7 @@ precisam ser guardados em sua mala.
 Use a caneta stylus para colocar os objetos
 na mala, prestando atenção para que nenhum
 fique em cima do outro. Quando tudo estiver
-guardado direitinho na mala, toque em #rEnviar#x.
+guardado direitinho na mala, toque #rEnviar#x.
 !******************************!
 Bom trabalho!
 
@@ -2044,9 +2044,8 @@ Aqui vai um enigma saboroso para você.
 
 Você consegue mover a pilha de panquecas do
 prato azul à esquerda para o prato vermelho
-à direita? Espera aí, não é tão fácil quanto
+à direita? Espere aí, não é tão fácil quanto
 parece. Você deve seguir estas regras:
-
 <60> Você só pode mover uma panqueca de cada
 vez.
 <60> Você não pode colocar uma panqueca grande
@@ -2364,14 +2363,14 @@ recém-cortada para te revigorar.
 Consegue ajudar Sammy a refrescar
 toda a carruagem com a fragrância?
 
-Toque em quadrado com sua canetinha para
+Toque um quadrado com sua canetinha para
 colocar uma rosa. A fragrância de cada rosa
 chega a até dois quadrados em cada direção,
 mas não atravessa paredes. Se a fragrância
 de duas ou mais rosas se sobreporem, o
 cheiro resultante será insuportável, então
 certifique-se de deixar as rosas espaçadas.
-Toque em uma rosa existente para removê-la.
+Toque uma rosa existente para removê-la.
 !******************************!
 Muito bem!
 
@@ -2564,7 +2563,6 @@ Quatro casais estão sentados em um
 vagão-restaurante lotado. Todos os clientes
 estão sentados em frente ou ao lado de
 seus parceiros:
-
 <60> Os Joneses estão sentados no corredor.
 <60> O senhor de bigode, Sr. O'Connor, está
 sentado ao lado da sua esposa.
@@ -2573,7 +2571,7 @@ sentado ao lado da sua esposa.
 
 Usando as informações acima, você consegue
 determinar onde a Sra. Hadley está sentada?
-Circule-a e depois toque em #rEnviar#x.
+Circule-a e depois toque #rEnviar#x.
 !******************************!
 Isso aí!
 
@@ -2586,7 +2584,7 @@ esposa, então ele deve estar sentado na
 mesa à direita.
 
 Os Joneses estão sentados no corredor,
-logo eles devem ser C e G. Assim, os Hadley
+logo eles devem ser C e G. Assim, os Hadleys
 só podem ser E e F.
 !******************************!
 Que pena!
@@ -2746,7 +2744,7 @@ Você pode usar uma cor quantas vezes
 quiser, desde que a seção não escoste em
 nenhuma outra seção de mesma cor.
 
-Quando tiver sua resposta, toque em
+Quando tiver sua resposta, toque
 #rEscrever Resposta#x e escreva o número
 de cores.
 !******************************!

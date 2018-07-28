@@ -35,7 +35,7 @@ Encontre o Romie!
 Volta para o Trem!
 !******************************!
 [goal_20.txt]
-Vá para a Porta do Dr. Schrader!
+Vá para o Andar do Dr. Schrader!
 !******************************!
 [goal_200.txt]
 Fale com a Tripulação!
@@ -622,8 +622,8 @@ VAZIO
 É Hora do Chá!
 !******************************!
 [tx_601.txt]
-Escolha um chá, então toque em
-#rServir!#x para servi-lo.
+Escolha um chá, então toque o
+botão #rServir!#x para servi-lo.
 !******************************!
 [tx_602.txt]
 Você encontrou uma moeda de dica

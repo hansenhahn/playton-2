@@ -127,7 +127,7 @@ há como investigar sem caminhar.
 ir agora?
 !******************************!
 [t10_045_100.gds]
-<01:00000000><03:9>b3 smile<03:5>NONE<01:00000002><03:83>Ah, já ia me esquecendo.<W> Antes de
+<01:00000000><03:9>b3 smile<03:5>NONE<01:00000002><03:83>Ah! Já ia me esquecendo.<W> Antes de
 irmos, deixe-me lembrá-lo como usar
 esta mala.
 !******************************!
@@ -136,8 +136,8 @@ esta mala.
 no canto superior direito da tela.
 !******************************!
 [t10_045_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:129>Dentro dela há todos os tipos de
-funções e informações úteis
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:129>Dentro dela há todos os tipos
+de funções e informações úteis
 organizadas em diferentes ícones.<W>
 !------------------------------!
 Toque um ícone para acessar
@@ -200,7 +200,7 @@ pra mim?
 [t10_070_100.gds]
 <01:0000002E><03:5>NONE<03:5>NONE<01:00000002><03:97>Ei, estou tentando lhe dar umas
 informações úteis. Escute o que
-tenho a lhe dizer, companheiro.
+tenho a lhe dizer, chapa.
 !******************************!
 [t10_080_100.gds]
 <01:0000002E><03:5>NONE<03:5>NONE<01:00000002><03:471>Brilhante! Isso que você achou é

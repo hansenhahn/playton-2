@@ -1824,8 +1824,8 @@ da torre.
 !******************************!
 Que pena!
 
-Não esqueça que está procurando por um
-edifício onde a vista do topo da torre
+Não esqueça de que está procurando por
+um edifício onde a vista do topo da torre
 é bloqueada.
 !******************************!
 Está procurando por algum edifício que

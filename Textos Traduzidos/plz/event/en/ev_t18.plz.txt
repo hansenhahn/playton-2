@@ -612,7 +612,7 @@ que ele oferecerá ao seu chá.
 !******************************!
 [t18_400_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:289>Quando estiver pronto para preparar
-o chá, toque nos ingredientes que deseja
+o chá, toque os ingredientes que deseja
 usar e arraste-os para dentro do bule.<W>
 !------------------------------!
 É preciso colocar três ingredientes
@@ -653,7 +653,7 @@ reunir o maior número possível delas,
 pois com certeza elas lhe serão úteis!
 !******************************!
 [t18_410_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:165>Toque nas peças da câmera disponíveis
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:165>Toque as peças da câmera disponíveis
 na parte superior da Tela de Toque para
 aumentá-las.<W>
 !------------------------------!
@@ -724,7 +724,7 @@ encontrar o próximo objeto.<W>
 !------------------------------!
 O hamster fica cada vez mais saudável
 sempre que atinge o número de passos
-dados especificados pelo exercício.<W>
+dados especificado pelo exercício.<W>
 !------------------------------!
 Se conseguir fazer o hamster alcançar
 sua melhor condição física, uma coisa

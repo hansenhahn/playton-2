@@ -1,15 +1,12 @@
 [t30_000_100.gds]
-<01:00000022><03:9>b2 smile<03:5>NONE<01:00000001><03:61>
-Kehehehe! Olha só o grupo de
+<01:00000022><03:9>b2 smile<03:5>NONE<01:00000001><03:61>Kehehehe! Olha só o grupo de
 espertões que já vi antes!
 !******************************!
 [t30_000_200.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:17>
-Ei, eu conheço você!
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:17>Ei, eu conheço você!
 !******************************!
 [t30_000_300.gds]
-<01:00000022><03:5>NONE<03:5>NONE<01:00000001><03:203>
-E eu conheço o destino, pois foi
+<01:00000022><03:5>NONE<03:5>NONE<01:00000001><03:203>E eu conheço o destino, pois foi
 o que juntou eu, vocês e esse seu
 conjunto de chá festoso aí.<W>
 !------------------------------!
@@ -18,13 +15,11 @@ comemorarmos com uma xícara de chá.
 Prepara algo com pra mim, faz favor?
 !******************************!
 [t30_000_400.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:33>
-Quer que nós façamos um chá
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:33>Quer que nós façamos um chá
 para você?
 !******************************!
 [t30_000_500.gds]
-<01:00000022><03:5>NONE<03:5>NONE<01:00000001><03:286>
-Isso aí, espertão. Mas nada muito
+<01:00000022><03:5>NONE<03:5>NONE<01:00000001><03:286>Isso aí, espertão. Mas nada muito
 exagerado. Uma xícara de Citrus
 Classic vai servir.<W>
 !------------------------------!
@@ -37,14 +32,12 @@ de Oásis, um pouco de Fruta Vigorosa,
 e uns grãos de Semente Cítrica.
 !******************************!
 [t30_001_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>
-Fantabuloso! Um sorriso de orelha
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Fantabuloso! Um sorriso de orelha
 a orelha surge em Stachenscarfen.
 Ele parece recuperado e animado.
 !******************************!
 [t30_001_100.gds]
-<01:00000022><03:9>b2 smile<03:5>NONE<01:00000001><03:396>
-Kehehehe. Nada mal essa xícara
+<01:00000022><03:9>b2 smile<03:5>NONE<01:00000001><03:396>Kehehehe. Nada mal essa xícara
 de chá que você faz, menino.<W>
 !------------------------------!
 Mas claro, não teria conseguido
@@ -63,38 +56,32 @@ um cházinho, boas coisas vão
 acontecer.<W> Isso eu prometo.
 !******************************!
 [t30_001_200.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:93>
-Caramba, Professor, o que você
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:93>Caramba, Professor, o que você
 acha? Quanta coisa boa pode ser
 feita só com uma xícara de chá?
 !******************************!
 [t30_001_300.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:88>
-Ah, de fato um bocado, Luke. Um
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:88>Ah, de fato um bocado, Luke. Um
 cavalheiro nunca subestima a força
 de uma xícara de chá quente.
 !******************************!
 [t30_001_400.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:92>
-Hmm, bom, quando você fala dessa
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:92>Hmm, bom, quando você fala dessa
 maneira, creio que espalhar um
 pouco de felicidade não dói.
 !******************************!
 [t30_002_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>
-Infelizmente, Stachenscarfen
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Infelizmente, Stachenscarfen
 não gostou do chá que você
 preparou.
 !******************************!
 [t30_002_100.gds]
-<01:00000022><03:9>b1 angry<03:5>NONE<01:00000001><03:108>
-Que foi? Falei grego? Falei que eu
+<01:00000022><03:9>b1 angry<03:5>NONE<01:00000001><03:108>Que foi? Falei grego? Falei que eu
 quero uma xícara quente de Citrus
 Classic!<W> Citrus! Classic!<W> É fácil!
 !******************************!
 [t30_003_100.gds]
-<01:00000022><03:9>b1 angry<03:5>NONE<01:00000001><03:148>
-Que reação triste é essa? Você
+<01:00000022><03:9>b1 angry<03:5>NONE<01:00000001><03:148>Que reação triste é essa? Você
 está apenas começando! Não pode
 desistir agora!<W>
 !------------------------------!
@@ -102,37 +89,31 @@ Olha, o Citrus Classic é um chá
 básico. Você consegue.
 !******************************!
 [t30_004_100.gds]
-<01:00000022><03:9>b2 smile<03:5>NONE<01:00000001><03:136>
-Quer tentar de novo? né? Kehehehe!<W>
+<01:00000022><03:9>b2 smile<03:5>NONE<01:00000001><03:136>Quer tentar de novo? né? Kehehehe!<W>
 !------------------------------!
 Esse é o espírito, amigo. Continue
 praticando, e em pouco tempo você
 terá preparado o melhor chá que tem.
 !******************************!
 [t30_010_100.gds]
-<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:58>
-A-dãã... Ei, garotos, vocês são
+<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:58>A-dãã... Ei, garotos, vocês são
 forasteiros, estou correto?
 !******************************!
 [t30_010_200.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:47>
-De fato está. Como chegou a essa
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:47>De fato está. Como chegou a essa
 dedução?
 !******************************!
 [t30_010_300.gds]
-<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:94>
-Dã-ãhn!<W> Porque também sou. E mais,
+<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:94>Dã-ãhn!<W> Porque também sou. E mais,
 sei um truque pra descobrir quem
 é morador local, e quem não é.
 !******************************!
 [t30_010_400.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:60>
-Opa, parece útil! Pode me ensinar
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:60>Opa, parece útil! Pode me ensinar
 como é que se faz também?
 !******************************!
 [t30_010_500.gds]
-<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:180>
-Dãã... tá, por que não.<W> Mas não de
+<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:180>Dãã... tá, por que não.<W> Mas não de
 graça!<W> Te contar, tô me sentindo
 meio pra baixo ultimamente.<W>
 !------------------------------!
@@ -141,40 +122,34 @@ ficar <''>rú rú rú<''> de novo,
 te mostro como se faz.
 !******************************!
 [t30_010_600.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>
-Bom, imagino que talvez consigamos
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>Bom, imagino que talvez consigamos
 fazer uma xícara de chá clássica
 que alegre seu paladar.
 !******************************!
 [t30_010_700.gds]
-<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:91>
-Aah, parece dããlicioso. Não tomo
+<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:91>Aah, parece dããlicioso. Não tomo
 um chá faz um... hã... um...
 um bom tempo... Eras atrás!
 !******************************!
 [t30_011_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>
-Esse chá é dos bons! Derby dá um
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:103>Esse chá é dos bons! Derby dá um
 sorriso de orelha a orelha enquanto
 solta um <''>rú rú<''> de alegria.
 !******************************!
 [t30_011_100.gds]
-<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:105>
-Um rú rú, é assim que se faz.
+<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:105>Um rú rú, é assim que se faz.
 Te contar, os clássicos são os
 melhores. Idem pro chá, também.
 !******************************!
 [t30_011_200.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:109>
-Cumprimos nossa parte do acordo,
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:109>Cumprimos nossa parte do acordo,
 agora desembucha.<W>
 !------------------------------!
 Como diferencio forasteiros de
 moradores locais nessa cidade?
 !******************************!
 [t30_011_300.gds]
-<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:156>
-Ah, fácil que nem, ãhnn, sentar num
+<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:156>Ah, fácil que nem, ãhnn, sentar num
 pudim.<W> Só chegar perto da pessoa...<W>
 e dar uma cheirada nela.<W>
 !------------------------------!
@@ -182,18 +157,15 @@ Parece que a maioria dos
 forasteiros tem cheiro de rosas.
 !******************************!
 [t30_011_400.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:9>
-Entendo...
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:9>Entendo...
 !******************************!
 [t30_012_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:70>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:70>Infelizmente, o chá que você
 preparou não é bem o que Derby
 está atrás.
 !******************************!
 [t30_012_100.gds]
-<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:145>
-Dãã, tem certeza que esse é o
+<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:145>Dãã, tem certeza que esse é o
 chá certo?<W>
 !------------------------------!
 Porque tava achando que fosse algo
@@ -201,24 +173,20 @@ mais, dããã, requintado.<W> Sabe,
 um chá clássico.
 !******************************!
 [t30_013_100.gds]
-<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:48>
-Então, vocês não iam fazer um
+<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:48>Então, vocês não iam fazer um
 chá gostoso pra mim?
 !******************************!
 [t30_014_100.gds]
-<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:68>
-Dã-ãh! Ainda estou esperando a
+<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:68>Dã-ãh! Ainda estou esperando a
 xícara de chá clássica que vocês
 me prometeram.
 !******************************!
 [t30_020_100.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:58>
-Está tudo bem com você, madame?
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:58>Está tudo bem com você, madame?
 Parece estar fatigada.
 !******************************!
 [t30_020_200.gds]
-<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:173>
-Aah, estava presa em meu próprio
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:173>Aah, estava presa em meu próprio
 mundinho, amor.<W>
 !------------------------------!
 Perdão, querido, mas estou um
@@ -229,14 +197,12 @@ Acho que uma boa relaxada é o
 que eu preciso.
 !******************************!
 [t30_020_300.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:96>
-Seu trabalho deve ser muito
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:96>Seu trabalho deve ser muito
 oneroso. Certifique-se de dar um
 tempo a si mesma para recuperação.
 !******************************!
 [t30_020_400.gds]
-<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:123>
-Aaah! Não vá ficando preocupado
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:123>Aaah! Não vá ficando preocupado
 comigo, amor. Vai acabar ficando
 com rugas.<W>
 !------------------------------!
@@ -245,14 +211,12 @@ A Verinha aqui precisa ter um
 tempo só pra ela.
 !******************************!
 [t30_020_500.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:86>
-Se for do seu agrado, acho que
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:86>Se for do seu agrado, acho que
 posso preparar para você uma boa
 xícara de chá. O que me diz?
 !******************************!
 [t30_020_600.gds]
-<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:217>
-Aaah, você é um homem preocupado
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:217>Aaah, você é um homem preocupado
 com meu coração. Estou desejando
 uma chávena!<W>
 !------------------------------!
@@ -265,20 +229,17 @@ adoçado o chá direito, meu
 docinho.
 !******************************!
 [t30_020_700.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:80>
-Acho que talvez consigamos fazer
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:80>Acho que talvez consigamos fazer
 algo que seja de seu agrado.<W>
 Vejamos...
 !******************************!
 [t30_021_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>
-Delicioso! Um sorriso de orelha
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Delicioso! Um sorriso de orelha
 a orelha surge em Vera. Ela parece
 recuperada e de bom humor.
 !******************************!
 [t30_021_100.gds]
-<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:492>
-Aaah, isso sim é divino. Gosto de
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:492>Aaah, isso sim é divino. Gosto de
 um homem que sabe manejar um
 bule de chá.<W>
 !------------------------------!
@@ -299,51 +260,42 @@ de tanto andar por aí, podem vir
 me dar um oi, ouviu? Hi hi hi.
 !******************************!
 [t30_022_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:58>
-Infelizmente, o chá que você fez
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:58>Infelizmente, o chá que você fez
 não foi do gosto de Vera.
 !******************************!
 [t30_022_100.gds]
-<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:99>
-Puxa vida, dá pra pintar parede
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:99>Puxa vida, dá pra pintar parede
 com isso aí! Estou atrás de algo
 doce e suave, amor. Como eu!
 !******************************!
 [t30_023_100.gds]
-<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:92>
-Que foi?! Estou com sede e você
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:92>Que foi?! Estou com sede e você
 vai me deixar assim? É igual a
 todos os outros homens!
 !******************************!
 [t30_024_100.gds]
-<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:96>
-Aaah, veio aqui para me entregar
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:96>Aaah, veio aqui para me entregar
 aquela xícara de chá doce e
 refrescante que pedi? Que homem!
 !******************************!
 [t30_030_100.gds]
-<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:99>
-Adoro coisa doce, mas não tem
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:99>Adoro coisa doce, mas não tem
 muito disso aqui em Folsense.
 Acha que poderia me ajudar?
 !******************************!
 [t30_030_200.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:40>
-Hmm... Como satisfazer essa
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:40>Hmm... Como satisfazer essa
 menina doce...
 !******************************!
 [t30_030_300.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:45>
-Já sei! Por que não a gente não
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:45>Já sei! Por que não a gente não
 faz uma xícara de chá pra você?
 !******************************!
 [t30_030_400.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:20>
-Excelente ideia, Luke.
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:20>Excelente ideia, Luke.
 !******************************!
 [t30_030_500.gds]
-<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:144>
-Chá? Caramba, eu esperava um cupcake
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:144>Chá? Caramba, eu esperava um cupcake
 de chocolate, cheio de açúcar...
 Mas acho que um chá deve ser bom.<W>
 !------------------------------!
@@ -351,14 +303,12 @@ Mas é pra deixar SUPER doce,
 tá bom?
 !******************************!
 [t30_031_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>
-Isso sim é um chá gostoso!<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Isso sim é um chá gostoso!<W>
 Joanie dá um sorrisão. Ela parece
 Ele parece recuperada e animada.
 !******************************!
 [t30_031_100.gds]
-<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:199>
-Mmm! Sabe, não estava de todo
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:199>Mmm! Sabe, não estava de todo
 ruim. Na verdade, estava muito
 gostoso! Brigadão!<W>
 !------------------------------!
@@ -367,32 +317,27 @@ desde que a mamãe me proibiu de beber
 cola. Ela diz que estraga os dentes.
 !******************************!
 [t30_032_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:63>
-Infelizmente, Joanie não é muito
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:63>Infelizmente, Joanie não é muito
 fã do tipo de chá que você
 preparou.
 !******************************!
 [t30_032_100.gds]
-<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:99>
-Não, não, não. Eu quero um chá DOCE!
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:99>Não, não, não. Eu quero um chá DOCE!
 Doce que nem mel! Doce a ponto
 de fazer meu dente doer!
 !******************************!
 [t30_033_100.gds]
-<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:101>
-Pfff, se não consegue fazer um
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:101>Pfff, se não consegue fazer um
 chá doce, diga logo. Não precisa
 fingir que sabe.
 !******************************!
 [t30_034_100.gds]
-<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:64>
-Entãão, dessa vez você preparou
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:64>Entãão, dessa vez você preparou
 pra mim um chá doce que nem eu
 te pedi antes?
 !******************************!
 [t30_040_100.gds]
-<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:125>
-Olá, chapelão. Você parece ser
+<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:125>Olá, chapelão. Você parece ser
 mais devora-livros do que uma
 traça.<W>
 !------------------------------!
@@ -400,8 +345,7 @@ Acho que vocês não devem saber
 de adivinhas, né?
 !******************************!
 [t30_040_200.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:46>
-Que tipo de adivinhação você
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:46>Que tipo de adivinhação você
 tem em mente?
 !******************************!
 [t30_040_300.gds]
@@ -411,22 +355,19 @@ que serve pra prever a vida
 amorosa das pessoas.
 !******************************!
 [t30_040_400.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:92>
-Opa, nunca ouvi falar de um chá
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:92>Opa, nunca ouvi falar de um chá
 desses. Professor, vamos tentar
 fazer? Por favorzinho?
 !******************************!
 [t30_040_500.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:115>
-Adoro fazer experimentos, Luke.<W>
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:115>Adoro fazer experimentos, Luke.<W>
 !------------------------------!
 Vamos tentar. Mas diga-me, senhor,
 de quem nós vamos prever a
 vida amorosa?
 !******************************!
 [t30_040_600.gds]
-<01:00000044><03:11>b1 normal2<03:5>NONE<01:00000002><03:153>
-Bom, sou um rapaz bonito, então
+<01:00000044><03:11>b1 normal2<03:5>NONE<01:00000002><03:153>Bom, sou um rapaz bonito, então
 não preciso de adivinhações
 quanto a meus romances...<W>
 !------------------------------!
@@ -435,42 +376,35 @@ mesmo assim, lerei suas folhas
 quando estiver pronto.
 !******************************!
 [t30_040_700.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:58>
-Parece... um bom plano. Agora,
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:58>Parece... um bom plano. Agora,
 vamos aos preparativos, então?
 !******************************!
 [t30_041_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>
-Essa foi na mosca! Um sorriso de
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:89>Essa foi na mosca! Um sorriso de
 orelha a orelha surge em Rory.
 Ele parece recuperado e contente.
 !******************************!
 [t30_041_100.gds]
-<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:123>
-Ah é, isso aqui vai muito bem.<W>
+<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:123>Ah é, isso aqui vai muito bem.<W>
 !------------------------------!
 Vê como as folhas do chá estão
 posicionadas?<W> Estão tentando
 nos dizer algo.
 !******************************!
 [t30_041_200.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:28>
-Legal! Então, o que você consegue
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:28>Legal! Então, o que você consegue
 enxergar?
 !******************************!
 [t30_041_300.gds]
-<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:45>
-Hmm, não parece ser coisa boa
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:45>Hmm, não parece ser coisa boa
 praquele pobre rapaz.
 !******************************!
 [t30_041_400.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:51>
-Que rapaz? De quem estamos
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:51>Que rapaz? De quem estamos
 espiar a vida amorosa?
 !******************************!
 [t30_041_500.gds]
-<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:148>
-Do vampiro que mora no final da
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:148>Do vampiro que mora no final da
 cidade. Ouvi dizer que ele está
 apaixonado por uma garota humana.<W>
 !------------------------------!
@@ -478,8 +412,7 @@ Decidi ver como esse relacionamento
 vai terminar.
 !******************************!
 [t30_041_600.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:130>
-Ah... parece que isso vai terminar
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:130>Ah... parece que isso vai terminar
 mal, não vai?<W>
 !------------------------------!
 Digo, é só uma questão de tempo
@@ -487,41 +420,34 @@ até ele sucumbir à tentação e
 beber o sangue dela.
 !******************************!
 [t30_041_700.gds]
-<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:72>
-Certamente. Ah é, bem como eu
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:72>Certamente. Ah é, bem como eu
 pensei, isso vai terminar em
 lágrimas.
 !******************************!
 [t30_041_800.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:57>
-Acho que nem precisa ler folhas
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:57>Acho que nem precisa ler folhas
 de chá pra prever isso.
 !******************************!
 [t30_042_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:58>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:58>Infelizmente, o chá que você
 preparou não é do gosto de Rory.
 !******************************!
 [t30_042_100.gds]
-<01:00000044><03:9>b1 angry<03:5>NONE<01:00000002><03:75>
-Nah, você fez tudo errado.
+<01:00000044><03:9>b1 angry<03:5>NONE<01:00000002><03:75>Nah, você fez tudo errado.
 O chá que estou atrás é
 defumado e meio amargo.
 !******************************!
 [t30_043_100.gds]
-<01:00000044><03:9>b1 angry<03:5>NONE<01:00000002><03:68>
-Faça-nos um favor e volte quando
+<01:00000044><03:9>b1 angry<03:5>NONE<01:00000002><03:68>Faça-nos um favor e volte quando
 puder fazer meu chá direito.
 !******************************!
 [t30_044_100.gds]
-<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:70>
-Então, o chá que procuro é um que
+<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:70>Então, o chá que procuro é um que
 me deixa prever a vida amorosa
 das pessoas.
 !******************************!
 [t30_050_100.gds]
-<01:00000041><03:10>b1 normal<03:5>NONE<01:00000002><03:255>
-Que conjunto de chá espetacular
+<01:00000041><03:10>b1 normal<03:5>NONE<01:00000002><03:255>Que conjunto de chá espetacular
 este que tem aí. Dá pra preparar
 Névoa Doce dos bons com isso.<W>
 !------------------------------!
@@ -533,32 +459,27 @@ a Cidreira Clássica e fazer uma
 trocazinha de ingrediente.
 !******************************!
 [t30_050_200.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:108>
-É isso? Estamos abertos a experimentar.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:108>É isso? Estamos abertos a experimentar.
 Vejamos o quão difícil esse chá
 de Névoa Doce é de se fazer.
 !******************************!
 [t30_051_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:90>
-É isso mesmo! Um sorriso de
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:90>É isso mesmo! Um sorriso de
 orelha a orelha surge em Garland.
 Ele parece recuperado e animado.
 !******************************!
 [t30_051_100.gds]
-<01:00000041><03:9>b1 smile<03:5>NONE<01:00000002><03:104>
-Mmm. Que chá bom, e bebê-lo em
+<01:00000041><03:9>b1 smile<03:5>NONE<01:00000002><03:104>Mmm. Que chá bom, e bebê-lo em
 uma boa xícara de porcelana dessas
 faz ele ficar ainda mais saboroso.
 !******************************!
 [t30_051_200.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:102>
-Tenho que dizer que é um milagre
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:102>Tenho que dizer que é um milagre
 você conseguiu degustar o chá num
 lugar fedorento que nem esse.
 !******************************!
 [t30_051_300.gds]
-<01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:244>
-Eu amo alho, no entanto. É um
+<01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:244>Eu amo alho, no entanto. É um
 alimento maravilhoso! Ah, e nem
 me fale no bem que ele faz!<W>
 !------------------------------!
@@ -569,8 +490,7 @@ Uma cheirada é suficiente pra
 mandar vampiros bem pra longe.
 !******************************!
 [t30_051_400.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:148>
-Fala desse alho de 10 anos?
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:148>Fala desse alho de 10 anos?
 Blergh!<W>
 !------------------------------!
 Se ficar carregando um desses aí,
@@ -578,43 +498,36 @@ os vampiros não serão os únicos
 a irem pra longe de você.
 !******************************!
 [t30_052_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:70>
-Infelizmente, Garland está um
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:70>Infelizmente, Garland está um
 pouco desanimado com o chá que
 você preparou.
 !******************************!
 [t30_052_100.gds]
-<01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:96>
-Eh, esse não é o chá que eu estava
+<01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:96>Eh, esse não é o chá que eu estava
 falando. Tem um certo sabor
 defumado que lhe falta.
 !******************************!
 [t30_053_100.gds]
-<01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:131>
-Já deu pra trás pra fazer o chá?<W>
+<01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:131>Já deu pra trás pra fazer o chá?<W>
 !------------------------------!
 Que vergunha. Mas sei que nessas
 suas xícaras fantásticas aí, o
 chá certo ficaria ótimo.
 !******************************!
 [t30_054_100.gds]
-<01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:94>
-Ei, ainda estou morrendo de vontade
+<01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:94>Ei, ainda estou morrendo de vontade
 de tomar algo frutoso com um leve
 aroma defumado.
 !******************************!
 [t30_060_100.gds]
-<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:40>
-Hmm, como era mesmo aquela
+<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:40>Hmm, como era mesmo aquela
 receita mesmo?
 !******************************!
 [t30_060_200.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:25>
-Algum problema, querida?
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:25>Algum problema, querida?
 !******************************!
 [t30_060_300.gds]
-<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:199>
-Um pouco. Estou tentando me lembrar
+<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:199>Um pouco. Estou tentando me lembrar
 do que a mamãe disse que ajuda a
 curar resfriado, mas me esqueci.<W>
 !------------------------------!
@@ -623,8 +536,7 @@ e um tipo de folha, eee... Hmm...
 Nng... Tem mais uma coisa...
 !******************************!
 [t30_060_400.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:186>
-Parece que sua mãe estava falando
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:186>Parece que sua mãe estava falando
 de ingredientes pra misturar e
 fazer um chá.<W>
 !------------------------------!
@@ -633,24 +545,20 @@ podemos fazer uma xícara de chá
 para você experimentar, se preferir.
 !******************************!
 [t30_060_500.gds]
-<01:0000004C><03:9>b1 smile<03:5>NONE<01:00000003><03:25>
-Sério? Isso seria ótimo!
+<01:0000004C><03:9>b1 smile<03:5>NONE<01:00000003><03:25>Sério? Isso seria ótimo!
 !******************************!
 [t30_060_600.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:97>
-Bom. Vejamos... Vamos precisar de
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:97>Bom. Vejamos... Vamos precisar de
 duas coisas que você mencionou,
 mais algo que sirva pra resfriados.
 !******************************!
 [t30_061_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:63>
-Nham! Marina sorri de orelha a
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:63>Nham! Marina sorri de orelha a
 orelha. Ela parece recuperada e
 animada.
 !******************************!
 [t30_061_100.gds]
-<01:0000004C><03:9>b1 smile<03:5>NONE<01:00000003><03:251>
-Valeu! Esse chá está ótimo. Deixa
+<01:0000004C><03:9>b1 smile<03:5>NONE<01:00000003><03:251>Valeu! Esse chá está ótimo. Deixa
 minha barriguinha bem quentinha!<W>
 !------------------------------!
 Vou tentar fazer isso pro meu pai!
@@ -662,41 +570,34 @@ loja dele esteja pregando peças
 nos meus olhos.
 !******************************!
 [t30_062_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:61>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:61>Infelizmente, o chá que você
 preparou não é o que a Marina
 queria.
 !******************************!
 [t30_062_100.gds]
-<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:98>
-Hmm, tem certeza que esse chá é
+<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:98>Hmm, tem certeza que esse chá é
 bom pra resfriado? Acho que remédio
 tem gosto mais amargo que isso.
 !******************************!
 [t30_063_100.gds]
-<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:43>
-Ahh, estava tão animada com
+<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:43>Ahh, estava tão animada com
 esse chá!
 !******************************!
 [t30_064_100.gds]
-<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:106>
-Se quer fazer um chá que seja bom
+<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:106>Se quer fazer um chá que seja bom
 pra combater resfriado, vai precisar
 de umas folhas e uns trevos.
 !******************************!
 [t30_070_100.gds]
-<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:45>
-T-tem alguém aí? A-alguém pode
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:45>T-tem alguém aí? A-alguém pode
 me ajudar?
 !******************************!
 [t30_070_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:56>
-Tudo bem com você, madame?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:56>Tudo bem com você, madame?
 Suas pernas estão tremendo.
 !******************************!
 [t30_070_300.gds]
-<01:00000045><03:9>b1 smile<03:5>NONE<01:00000003><03:178>
-M-minha circulação não está m-muito
+<01:00000045><03:9>b1 smile<03:5>NONE<01:00000003><03:178>M-minha circulação não está m-muito
 boa, então eu fico com f-frio
 facilmente.<W>
 !------------------------------!
@@ -705,57 +606,47 @@ minhas pernas b-bambam tanto que
 parece que estou em c-cima de gelo.
 !******************************!
 [t30_070_400.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:22>
-Que sensação terrível!
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:22>Que sensação terrível!
 !******************************!
 [t30_070_500.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:83>
-De fato é. Podemos lhe oferecer um
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:83>De fato é. Podemos lhe oferecer um
 chazinho para ajudar a superar
 esse calafrio?
 !******************************!
 [t30_071_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:86>
-Saboroso! Lila está radiante, suas
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:86>Saboroso! Lila está radiante, suas
 bochechas voltam a ficar rosadas,
 e seu calafrio desaparece.
 !******************************!
 [t30_071_100.gds]
-<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:81>
-Hi hi hi! Muito obrigada mesmo,
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:81>Hi hi hi! Muito obrigada mesmo,
 vocês dois. Agora sinto-me
 aconchegada dos pés à cabeça!
 !******************************!
 [t30_071_200.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:53>
-Que bom ver que ajudou. Sente-se
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:53>Que bom ver que ajudou. Sente-se
 totalmente recuperada agora?
 !******************************!
 [t30_071_300.gds]
-<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:17>
-Não, não exatamente.
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:17>Não, não exatamente.
 !******************************!
 [t30_071_400.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:74>
-Hmm. Suponho que o chá não foi
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:74>Hmm. Suponho que o chá não foi
 tão efetivo como eu tinha pensado
 originalmente.
 !******************************!
 [t30_071_500.gds]
-<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:158>
-Ah não, os calafrios se foram,
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:158>Ah não, os calafrios se foram,
 mas agora tô com cólica de tanto
 tremelique.<W> Ai! AI AI!<W>
 !------------------------------!
 Ei, tem algo se mexendo aí atrás!
 !******************************!
 [t30_071_600.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:33>
-Eu não vejo nada lá.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:33>Eu não vejo nada lá.
 !******************************!
 [t30_071_700.gds]
-<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:210>
-Opa! Deve ter sido apenas um
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:210>Opa! Deve ter sido apenas um
 efeito da luz. Hi hi hi!<W>
 !------------------------------!
 Isso parece acontecer com
@@ -766,26 +657,22 @@ e obrigadiiinha por ter me
 ajudado. De coração.
 !******************************!
 [t30_072_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Infelizmente, o chá que você
 preparou para Lila não serviu
 pra ela.
 !******************************!
 [t30_072_100.gds]
-<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:85>
-Hm, minhas pernas a-ainda não
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:85>Hm, minhas pernas a-ainda não
 param de tremer. Tem certeza que
 esse c-chá que me deu funciona?
 !******************************!
 [t30_073_100.gds]
-<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:99>
-Que foi, v-vai me deixar aqui
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:99>Que foi, v-vai me deixar aqui
 desse jeito?<W> V-vou virar um
 p-picolé.
 !******************************!
 [t30_074_100.gds]
-<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:144>
-Você t-tem que me ajudar. Não quero
+<01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:144>Você t-tem que me ajudar. Não quero
 f-ficar aqui tremendo desse jeito
 a n-noite toda.<W>
 !------------------------------!
@@ -793,19 +680,16 @@ Preciso de um c-chá que me aqueça
 pra o-o-ontem!
 !******************************!
 [t30_080_100.gds]
-<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:104>
-Tudo bem aí, rapazes. Que tipo de
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:104>Tudo bem aí, rapazes. Que tipo de
 lugar Folsense parece ser pra vocês
 forasteiros? Estou curioso.
 !******************************!
 [t30_080_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:57>
-Bom, parece ser um lugar bem
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:57>Bom, parece ser um lugar bem
 deslumbrante para mim.
 !******************************!
 [t30_080_300.gds]
-<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:244>
-Deslum-o-quê?<W> Se está querendo
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:244>Deslum-o-quê?<W> Se está querendo
 dizer que é bonito, tipo, então
 tô de acordo com você.<W>
 !------------------------------!
@@ -817,8 +701,7 @@ Essa cidade tá morrendo. Só não
 sabe disso ainda.
 !******************************!
 [t30_080_400.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:129>
-É algo bem desanimador de
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:129>É algo bem desanimador de
 se dizer.<W>
 !------------------------------!
 Honestamente, parece que você
@@ -826,8 +709,7 @@ precisa levantar o ânimo. O acha
 de eu lhe preparar um chá?
 !******************************!
 [t30_080_500.gds]
-<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:180>
-Bom, não posso dizer não a uma
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:180>Bom, não posso dizer não a uma
 oferta dessas. Mas te digo que
 sou exigente com o que eu bebo.<W>
 !------------------------------!
@@ -836,25 +718,21 @@ dê força pra trabalhar. Tem algo
 um pouco apimentado?
 !******************************!
 [t30_081_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:99>
-Isso sim é chá bom! Um sorriso de
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:99>Isso sim é chá bom! Um sorriso de
 orelha a orelha surge em Dylan.
 Ele parece recuperado e animado.
 !******************************!
 [t30_081_100.gds]
-<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:101>
-Um chá feito pra mineiro, rapazes!
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:101>Um chá feito pra mineiro, rapazes!
 Tem gosto bom e forte, igual ao
 que preparamos lá embaixo na mina.
 !******************************!
 [t30_081_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:52>
-Estou alegre em ouvir que o chá
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:52>Estou alegre em ouvir que o chá
 tem sua aprovação.
 !******************************!
 [t30_081_300.gds]
-<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:276>
-Agradecido, rapazes.<W> Mas ouçam,
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:276>Agradecido, rapazes.<W> Mas ouçam,
 sigam esse meu conselho, de um
 velho rapaz que sabe das coisas.<W>
 !------------------------------!
@@ -867,14 +745,12 @@ Sem o dinheiro que o ouro traz,
 virar uma cidade fantasma.
 !******************************!
 [t30_082_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:74>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:74>Infelizmente, o chá que você
 preparou não é bem o que Dylan
 procura.
 !******************************!
 [t30_082_100.gds]
-<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:182>
-O que cê fez nesse chá, xarás?
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:182>O que cê fez nesse chá, xarás?
 Tá muito aguado! Fraco demais
 pra um mineiro como eu.<W>
 !------------------------------!
@@ -883,24 +759,20 @@ algo muito mais forte pra me
 acertar.
 !******************************!
 [t30_083_100.gds]
-<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:76>
-Cê promete e agora não cumpre, é?
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:76>Cê promete e agora não cumpre, é?
 Vocês forasteiros são todos iguais!
 !******************************!
 [t30_084_100.gds]
-<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:81>
-Forte e apimentado, rapazes.
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:81>Forte e apimentado, rapazes.
 Preciso de algo potente pra
 me animar esses dias.
 !******************************!
 [t30_090_100.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:67>
-Algum problema?<W> Você parece
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:67>Algum problema?<W> Você parece
 um tanto conculcado, bom homem.
 !******************************!
 [t30_090_200.gds]
-<01:00000018><03:10>b2 normal<03:5>NONE<01:00000002><03:179>
-Ah, não se preocupe, senhor. É que
+<01:00000018><03:10>b2 normal<03:5>NONE<01:00000002><03:179>Ah, não se preocupe, senhor. É que
 fico meio lúgubre quando penso em como
 os negócios vão devagar ultimamente.<W>
 !------------------------------!
@@ -909,8 +781,7 @@ faz aparecer uma nuvem carregada
 de chuva na minha cabeça.
 !******************************!
 [t30_090_300.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:132>
-Bom, quer que lhe preparemos
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:132>Bom, quer que lhe preparemos
 uma xícara de chá?<W>
 !------------------------------!
 Eu ficaria feliz em fazer uma
@@ -918,20 +789,17 @@ para você, e você ficaria surpreso
 com o que isso faz com seu humor.
 !******************************!
 [t30_090_400.gds]
-<01:00000018><03:9>b2 smile<03:5>NONE<01:00000002><03:83>
-Eu adoraria. Talvez algo apimentado
+<01:00000018><03:9>b2 smile<03:5>NONE<01:00000002><03:83>Eu adoraria. Talvez algo apimentado
 me cure desse meu estado de
 melancolia.
 !******************************!
 [t30_091_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:79>
-Ahhhhh! Um sorriso de orelha
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:79>Ahhhhh! Um sorriso de orelha
 a orelha surge em Krantz.
 Ele parece relaxado e animado.
 !******************************!
 [t30_091_100.gds]
-<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:360>
-Meu deus, que delicioso. Hmm, cada
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:360>Meu deus, que delicioso. Hmm, cada
 gole revela mais sabores. É que nem
 o chá que eu bebia quando criança.<W>
 !------------------------------!
@@ -947,14 +815,12 @@ Bom, digamos que eu prefira optar
 pelos dias passados.
 !******************************!
 [t30_092_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:68>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:68>Infelizmente, o chá que você
 preparou para Krantz não serviu
 para ele.
 !******************************!
 [t30_092_100.gds]
-<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:181>
-Ah, não se preocupe comigo, senhor.
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:181>Ah, não se preocupe comigo, senhor.
 O tempo é uma via de mão única, e
 segue em frente por conta própria.<W>
 !------------------------------!
@@ -963,14 +829,12 @@ não vão voltar a ser como eram
 antigamente, anos atrás...
 !******************************!
 [t30_093_100.gds]
-<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:91>
-Ah, descolpe, senhor. Não queria
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:91>Ah, descolpe, senhor. Não queria
 incomodá-lo com meus problemas.
 Por favor não me dê atenção. 
 !******************************!
 [t30_094_100.gds]
-<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:179>
-Sei que eu deveria levantar um
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:179>Sei que eu deveria levantar um
 sorriso pelos nossos clientes, mas
 não estou com humor para tal.<W>
 !------------------------------!
@@ -979,29 +843,24 @@ de chá trará de volta o meu eu
 animado de antes?<W> Tomara que sim.
 !******************************!
 [t30_100_100.gds]
-<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:8>
-Ânnnnggghh...
+<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:8>Ânnnnggghh...
 !******************************!
 [t30_100_200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:41>
-Qual seria o seu problema,
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:41>Qual seria o seu problema,
 jovem?
 !******************************!
 [t30_100_300.gds]
-<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:87>
-Ah, estava me estressando com
+<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:87>Ah, estava me estressando com
 algo que aconteceu um tempo
 atrás. Não é nada, na verdade.
 !******************************!
 [t30_100_400.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:96>
-Ainda assim, que tal uma xícara de
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:96>Ainda assim, que tal uma xícara de
 chá?<W> Pode ser que você se sinta
 um pouco menos abatido depois disso.
 !******************************!
 [t30_100_500.gds]
-<01:00000047><03:10>b1 normal<03:5>NONE<01:00000003><03:181>
-Bom... Não vai doer.<W> Mas é bom
+<01:00000047><03:10>b1 normal<03:5>NONE<01:00000003><03:181>Bom... Não vai doer.<W> Mas é bom
 que saiba que eu não bebo qualquer
 lavagem!<W>
 !------------------------------!
@@ -1010,20 +869,17 @@ um paladar extremamente refinado
 quando se fala de chá.
 !******************************!
 [t30_100_600.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:101>
-Levarei isso em conta. Estou certo
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:101>Levarei isso em conta. Estou certo
 de que podemos aprontar algo que
 agrade esse seu paladar sofisticado.
 !******************************!
 [t30_101_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>
-Esse sim é um chá bom! Um sorriso
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>Esse sim é um chá bom! Um sorriso
 de orelha a orelha surge em Duke.
 Ele parece recuperado e animado.
 !******************************!
 [t30_101_100.gds]
-<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:269>
-Hmmm, tenho de dar o braço a torcer,
+<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:269>Hmmm, tenho de dar o braço a torcer,
 senhor. Você sabe mesmo como
 preparar chá.<W>
 !------------------------------!
@@ -1038,19 +894,16 @@ que Folsense foi amaldiçoada, todos
 ficam apavorados com essas coisas.
 !******************************!
 [t30_102_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:72>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:72>Infelizmente, o chá que você
 preparou não é bem o que Duke
 está atrás.
 !******************************!
 [t30_102_100.gds]
-<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:63>
-Urgh, esse chá é pra bebê.
+<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:63>Urgh, esse chá é pra bebê.
 Estou farto disso, obrigado.
 !******************************!
 [t30_103_100.gds]
-<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:123>
-Isso aí, desista enquanto seu
+<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:123>Isso aí, desista enquanto seu
 time ainda está ganhando.<W>
 !------------------------------!
 Você não conseguiria criar um chá
@@ -1058,16 +911,14 @@ adequado para meus gostos adultos
 mesmos.
 !******************************!
 [t30_104_100.gds]
-<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:100>
-Então, fez um chá que eu vá
+<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:100>Então, fez um chá que eu vá
 gostar?<W>
 !------------------------------!
 Lembre-se, meu chá tem que ser
 que nem eu: sofisticado e refinado.
 !******************************!
 [t30_110_100.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:164>
-Eu estraguei três rolos de filme hoje
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:164>Eu estraguei três rolos de filme hoje
 enquanto tentava revelá-los e,
 francamente, já estou farto.<W>
 !------------------------------!
@@ -1075,14 +926,12 @@ Ou talvez só seja porque estou
 sem café hoje.
 !******************************!
 [t30_110_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:93>
-Parece que você precisa de uma
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:93>Parece que você precisa de uma
 xícara de chá. Assim, você verá
 as coisas com outras cores.
 !******************************!
 [t30_110_300.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:178>
-Parece esplêndido. Ficaria bastante
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:178>Parece esplêndido. Ficaria bastante
 grato se você me fizesse um chá.<W>
 !------------------------------!
 Não sou exigente. Faça-me um chá
@@ -1090,31 +939,26 @@ que seja um pouquinho amargo e um
 pouquinho doce, e serei feliz.
 !******************************!
 [t30_110_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:62>
-Deixe comigo, senhor. Acho que
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:62>Deixe comigo, senhor. Acho que
 você terá uma surpresa bastante
 agradável.
 !******************************!
 [t30_111_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>
-Ah, essa foi na mosca! Um sorriso
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Ah, essa foi na mosca! Um sorriso
 de orelha a orelha surge em Joseph.
 Ele parece refrescado e animado.
 !******************************!
 [t30_111_100.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:94>
-Meu deus! Um chá tão bom assim quase
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:94>Meu deus! Um chá tão bom assim quase
 me fez pensar em trocar minha caneca
 de café por uma xícara de chá.
 !******************************!
 [t30_111_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:56>
-Que consideração, senhor. Estou
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:56>Que consideração, senhor. Estou
 feliz de ouvir que você gostou.
 !******************************!
 [t30_111_300.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:198>
-Na verdade, o motivo pelo qual estou
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:198>Na verdade, o motivo pelo qual estou
 triste é porque todas as fotos que eu
 tirei esses dias tem saído estranhas.<W>
 !------------------------------!
@@ -1123,48 +967,39 @@ aparecem do nada. Nunca tive
 problemas desse tipo até hoje.
 !******************************!
 [t30_112_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:68>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:68>Infelizmente, o chá que você
 preparou para Joseph não serviu.
 !******************************!
 [t30_112_100.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:84>
-Hmm. Certamente você se esforçou,
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:84>Hmm. Certamente você se esforçou,
 mas creio que vou continuar
 com o meu café.
 !******************************!
 [t30_113_100.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:52>
-Que pena. Todos bebedor de chá
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:52>Que pena. Todos bebedor de chá
 é tão inseguro assim?
 !******************************!
 [t30_114_100.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:85>
-Eu tendo a gostar do meu chá
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:85>Eu tendo a gostar do meu chá
 mais amargo. Tem algo parecido
 que possa preparar para mim?
 !******************************!
 [t30_120_100.gds]
-<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:27>
-Aah! Aah! Você viu aquilo?
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:27>Aah! Aah! Você viu aquilo?
 !******************************!
 [t30_120_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:15>
-Hã? Vi o quê?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:15>Hã? Vi o quê?
 !******************************!
 [t30_120_300.gds]
-<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:76>
-O fantasma, é claro! Um deles
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:76>O fantasma, é claro! Um deles
 acabou de passar por aqui
 flutuando e falando <''>bú<''>! Eu juro!
 !******************************!
 [t30_120_400.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:29>
-Droga. Acho que perdi ele.
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:29>Droga. Acho que perdi ele.
 !******************************!
 [t30_120_500.gds]
-<01:0000003B><03:9>b1 smile<03:5>NONE<01:00000002><03:179>
-É a décima segunda vez hoje que ele
+<01:0000003B><03:9>b1 smile<03:5>NONE<01:00000002><03:179>É a décima segunda vez hoje que ele
 apareceu. Esse deve ser o melhor
 ponto pra observar fantasmas.<W>
 !------------------------------!
@@ -1173,14 +1008,12 @@ fascinante! Estou totalmente
 cativada!
 !******************************!
 [t30_120_600.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:94>
-Sei que é tudo muito empolgante,
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:94>Sei que é tudo muito empolgante,
 mas não gostaria de dar uma pausa
 e tomar uma xícara de chá?
 !******************************!
 [t30_120_700.gds]
-<01:0000003B><03:10>b1 normal<03:5>NONE<01:00000002><03:262>
-Parece ótimo! Eu grito que nem uma
+<01:0000003B><03:10>b1 normal<03:5>NONE<01:00000002><03:262>Parece ótimo! Eu grito que nem uma
 banshee assim que bato o olho num
 fantasma. Minha garganta tá seca!<W>
 !------------------------------!
@@ -1192,24 +1025,20 @@ Aham... Quer dizer que eu gosto
 de algo doce e meio incomum.
 !******************************!
 [t30_121_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:87>
-Delicioso! Um sorriso de orelha
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:87>Delicioso! Um sorriso de orelha
 a orelha surge em Clarice. Ela
 parece recuperada e animada.
 !******************************!
 [t30_121_100.gds]
-<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:94>
-Ei, realmente tem algo um pouco
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:94>Ei, realmente tem algo um pouco
 misterioso quanto ao sabor que
 esse chá tem. Bom trabalho!
 !******************************!
 [t30_121_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:23>
-Que bom que você gostou.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:23>Que bom que você gostou.
 !******************************!
 [t30_121_300.gds]
-<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:168>
-Ah é. Estava ótimo.<W>
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:168>Ah é. Estava ótimo.<W>
 !------------------------------!
 Me deixem agradecer vocês dizendo
 por onde andam todos os fantasmas
@@ -1219,45 +1048,37 @@ Fonsense é bem farta de pontos
 para observar fantasmas!
 !******************************!
 [t30_121_400.gds]
-<01:00000002><03:8>b4 weep<03:5>NONE<01:00000003><03:55>
-Obrigado pela oferta, mas já
+<01:00000002><03:8>b4 weep<03:5>NONE<01:00000003><03:55>Obrigado pela oferta, mas já
 estou assustado até a gota!
 !******************************!
 [t30_122_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:71>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:71>Infelizmente, o chá que você
 preparou para Clarice não atende
 bem o gosto dela.
 !******************************!
 [t30_122_100.gds]
-<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:69>
-Não consigo detectar nenhum
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:69>Não consigo detectar nenhum
 rastro de mistério nesse chá.
 Isso é apenas... chá comum?
 !******************************!
 [t30_123_100.gds]
-<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:68>
-Que vergonha. Eu estava realmente
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:68>Que vergonha. Eu estava realmente
 ansiosa por essa xícara de chá
 misteriosa.
 !******************************!
 [t30_124_100.gds]
-<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:76>
-Preciso de um chá que tenha um
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:76>Preciso de um chá que tenha um
 aroma tanto incomum como doce.
 Não vá estragar o chá!
 !******************************!
 [t30_130_100.gds]
-<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:9>
-Ugghh...
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:9>Ugghh...
 !******************************!
 [t30_130_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:29>
-O que parece estar lhe afligindo?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:29>O que parece estar lhe afligindo?
 !******************************!
 [t30_130_300.gds]
-<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:171>
-Todo dia eu fico de pé aqui por horas
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:171>Todo dia eu fico de pé aqui por horas
 e horas. Todo esse tempo em pé faz
 meus joelhos rangerem adoidado.<W>
 !------------------------------!
@@ -1266,8 +1087,7 @@ a fazer intervalos no meio do
 turno ou algo similar. 
 !******************************!
 [t30_130_400.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:142>
-Ser um porteiro de fato parece
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:142>Ser um porteiro de fato parece
 ser um trabalho exaustivo.<W>
 !------------------------------!
 Será que uma xícara de chá não vai
@@ -1275,8 +1095,7 @@ lhe ajudar a recuperar o ânimo?
 Ficaria feliz em lhe preparar um.
 !******************************!
 [t30_130_500.gds]
-<01:0000001B><03:10>b1 normal<03:5>NONE<01:00000001><03:193>
-OK, mas devo avisá-lo que trabalhar
+<01:0000001B><03:10>b1 normal<03:5>NONE<01:00000001><03:193>OK, mas devo avisá-lo que trabalhar
 em um restaurante cinco estrelas
 fez de mim um bebedor exigente.<W>
 !------------------------------!
@@ -1285,14 +1104,12 @@ sabor suave com uma pitada de
 pimenta, serei um homem feliz.
 !******************************!
 [t30_131_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:79>
-Esse sim é um chá bom! Felix parece
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:79>Esse sim é um chá bom! Felix parece
 recuperado e pronto para dar
 uns chutes de karatê.
 !******************************!
 [t30_131_100.gds]
-<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:379>
-Eu conheço um bom chá quando o
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:379>Eu conheço um bom chá quando o
 saboreio. Este chá, meu amigo,
 é simplesmente de outro mundo!<W>
 !------------------------------!
@@ -1309,12 +1126,10 @@ naipe, o serviço tem que estar
 perfeito assim que eles aparecem.
 !******************************!
 [t30_131_200.gds]
-<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:30>
-Uau, a elite de Folsense, hein?
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:30>Uau, a elite de Folsense, hein?
 !******************************!
 [t30_131_300.gds]
-<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:139>
-Isso aí, homenzinho.<W>
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:139>Isso aí, homenzinho.<W>
 !------------------------------!
 Parando pra pensar nisso, eu não
 tenho mais visto aqueles dois há
@@ -1324,41 +1139,34 @@ Espero que eles nos visitem
 novamente algum dia.
 !******************************!
 [t30_132_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:68>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:68>Infelizmente, o chá que você
 preparou foi bastante ruim para
 Felix.
 !******************************!
 [t30_132_100.gds]
-<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:74>
-Odeio parecer ingrato, mas este
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:74>Odeio parecer ingrato, mas este
 chá simplesmente não está fazendo
 o devido efeito.
 !******************************!
 [t30_133_100.gds]
-<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:99>
-Não os culpo por desistir. Afinal,
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:99>Não os culpo por desistir. Afinal,
 o chá que estou atrás de fato
 requer um preparo complexo.
 !******************************!
 [t30_134_100.gds]
-<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:102>
-Um chá suave e levemente apimentado
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:102>Um chá suave e levemente apimentado
 é o que estou atrás. Acha que pode
 fazer algo que dê conta do recado?
 !******************************!
 [t30_140_100.gds]
-<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:62>
-Vocês dois, temos uma emergência!
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:62>Vocês dois, temos uma emergência!
 Estamos todos encrencados agora!
 !******************************!
 [t30_140_200.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:29>
-Ah, não! O-o que está havendo? 
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:29>Ah, não! O-o que está havendo? 
 !******************************!
 [t30_140_300.gds]
-<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:212>
-É o meu chá! Não está doce mesmo!
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:212>É o meu chá! Não está doce mesmo!
 Como um homem consegue enfrentar
 vampiros sem um chá doce?!<W> COMO?<W>
 !------------------------------!
@@ -1367,25 +1175,21 @@ mas não posso deixar meu posto.
 Estamos presos aqui como ratos!
 !******************************!
 [t30_140_400.gds]
-<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:17>
-Ah, é só isso?
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:17>Ah, é só isso?
 !******************************!
 [t30_140_500.gds]
-<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:133>
-O que quer dizer com <''>é só isso<''>?<W>
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:133>O que quer dizer com <''>é só isso<''>?<W>
 !------------------------------!
 O que vamos fazer se o vampiro der
 as caras? Como vou saciar minha
 sede no meio do combate?<W> Hmmm?
 !******************************!
 [t30_140_600.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:66>
-Que tipo de chá exatamente lhe
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:66>Que tipo de chá exatamente lhe
 permitiria continuar sua luta?
 !******************************!
 [t30_140_700.gds]
-<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:184>
-É uma receita secreta de combate
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:184>É uma receita secreta de combate
 a monstros passada a gerações por
 meu trisavô.<W>
 !------------------------------!
@@ -1394,26 +1198,22 @@ coisinha a mais pra dar o gostinho
 defumado que mata a sede de vez!
 !******************************!
 [t30_140_800.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:93>
-Entendo.<W> Creio que nós podemos
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:93>Entendo.<W> Creio que nós podemos
 lhe fazer algo que se aproxime
 do sabor deste chá.
 !******************************!
 [t30_140_900.gds]
-<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:82>
-Oho, quem fala assim não é gago!
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:82>Oho, quem fala assim não é gago!
 Certo então, se puder preparar
 isso aí, manda ver!
 !******************************!
 [t30_141_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>
-Esse sim é um chá bom! Geoff parece
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Esse sim é um chá bom! Geoff parece
 recuperado e animado... e pronto
 pra fazer vampiros darem no pé.
 !******************************!
 [t30_141_100.gds]
-<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:209>
-Hmm, ah é, isso sim tá no ponto!
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:209>Hmm, ah é, isso sim tá no ponto!
 Tenho que te dar o braço a torcer,
 pois você de fato salvou meu dia.<W>
 !------------------------------!
@@ -1422,14 +1222,12 @@ desta cidade. Estarão a salvo
 agora, graças à minha proteção!
 !******************************!
 [t30_141_200.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:91>
-Sei que está dando o melhor de si,
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:91>Sei que está dando o melhor de si,
 mas acho que você pode se dar ao
 luxo de relaxar só um pouquinho!
 !******************************!
 [t30_141_300.gds]
-<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:264>
-Relaxar? Me ouça, garoto. Você
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:264>Relaxar? Me ouça, garoto. Você
 não pode subestimar vampiros!<W>
 !------------------------------!
 São criaturas astutas. Quando você
@@ -1441,26 +1239,22 @@ quando se trata de vampiros, por
 isso fique longe do Castelo Herzen!
 !******************************!
 [t30_142_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:65>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:65>Infelizmente, o chá que você
 fez para Geoff não serviu pra
 ele.
 !******************************!
 [t30_142_100.gds]
-<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:107>
-Blargh, que lavagem é essa?<W> Da próxima
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:107>Blargh, que lavagem é essa?<W> Da próxima
 vez que fizer essa joça, faça-me
 um favor e dê para o vampiro.
 !******************************!
 [t30_143_100.gds]
-<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:97>
-A segurança do vilarejo está em, hmm,
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:97>A segurança do vilarejo está em, hmm,
 risco, e você ainda ousa pedir pra
 te dar uma colher de chá? Covardes!
 !******************************!
 [t30_144_100.gds]
-<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:163>
-Ei, aquele chá já tá pronto?
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:163>Ei, aquele chá já tá pronto?
 Aquele vampiro pode chegar
 a qualquer minuto!<W>
 !------------------------------!
@@ -1469,16 +1263,13 @@ sede, PRA ONTEM! E lembrem-se,
 tem que ser doce!
 !******************************!
 [t30_150_100.gds]
-<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:33>
-Meu, deus... Mas...que...sede...
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:33>Meu, deus... Mas...que...sede...
 !******************************!
 [t30_150_200.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:24>
-Você está bem, senhor?
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:24>Você está bem, senhor?
 !******************************!
 [t30_150_300.gds]
-<01:0000004E><03:10>b1 normal<03:5>NONE<01:00000002><03:201>
-Para ser franco, já estive melhor,
+<01:0000004E><03:10>b1 normal<03:5>NONE<01:00000002><03:201>Para ser franco, já estive melhor,
 filho.<W> Sou Gregorio, e gosto de
 xadrez que nem porco gosta de lama.<W>
 !------------------------------!
@@ -1487,42 +1278,35 @@ na minha próxima jogada e, bem,
 foi bem cansativo.
 !******************************!
 [t30_150_400.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:47>
-Uma xícara de chá poderia saciar
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:47>Uma xícara de chá poderia saciar
 essa sua sede?
 !******************************!
 [t30_150_500.gds]
-<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:42>
-Seria muito gentil de sua
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:42>Seria muito gentil de sua
 parte, filhão.
 !******************************!
 [t30_150_600.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:101>
-Verei o que posso fazer. Depois de
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:101>Verei o que posso fazer. Depois de
 refrescado, pensar na sua próxima
 jogada será bem mais fácil.
 !******************************!
 [t30_151_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:71>
-Xequemate! Gregorio parece
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:71>Xequemate! Gregorio parece
 refrescado e pronto para fazer
 sua próxima jogada!
 !******************************!
 [t30_151_100.gds]
-<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:87>
-Ahhh, essa sim foi uma xícara de
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:87>Ahhh, essa sim foi uma xícara de
 chá refrescante!<Q> Ah, é claro,
 Rainha para Bispo 6. Xeque!
 !******************************!
 [t30_151_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:75>
-Viu? Um cházinho pode fazer
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:75>Viu? Um cházinho pode fazer
 maravilhas! Até achou sua
 próxima jogada já!
 !******************************!
 [t30_151_300.gds]
-<01:0000004E><03:10>b1 normal<03:5>NONE<01:00000002><03:304>
-Como forma de agradecer, segue um
+<01:0000004E><03:10>b1 normal<03:5>NONE<01:00000002><03:304>Como forma de agradecer, segue um
 pequeno fato para você, filho.<W>
 !------------------------------!
 No Museu Herzen, vocês podem achar
@@ -1537,30 +1321,25 @@ nova nos últimos 50 anos.<W>
 parado.
 !******************************!
 [t30_152_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:70>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:70>Infelizmente, o chá que você
 preparou para Gregoriu não serviu.
 !******************************!
 [t30_152_100.gds]
-<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:101>
-Desculpe, filhão, mas este chá não
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:101>Desculpe, filhão, mas este chá não
 está à altura. Acho que estou em
 um impasse com minha sede.
 !******************************!
 [t30_153_100.gds]
-<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:72>
-Eu espero que você volte com o
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:72>Eu espero que você volte com o
 chá. Xadrez dá muita sede, filho.
 !******************************!
 [t30_154_100.gds]
-<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:95>
-Graças a deus você voltou para me
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:95>Graças a deus você voltou para me
 fazer chá. Não consigo continuar
 minha partida de xadrez até lá.
 !******************************!
 [t30_160_100.gds]
-<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:181>
-Adoro Sementes Cítricas, e eu boto
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:181>Adoro Sementes Cítricas, e eu boto
 elas em tudo: batidas, panquecas,
 bolos, até em espaguetes.<W>
 !------------------------------!
@@ -1569,46 +1348,38 @@ possibilidades de comidas com
 isso, e estou desanimado.
 !******************************!
 [t30_160_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:50>
-Já tentou suas sementes em um
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:50>Já tentou suas sementes em um
 chá antes?
 !******************************!
 [t30_160_300.gds]
-<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:80>
-Ah, é uma boa ideia. Mas ouvi que
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:80>Ah, é uma boa ideia. Mas ouvi que
 chá demais faz com que seja
 difícil de dormir.
 !******************************!
 [t30_160_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:100>
-Ha ha, não se preocupe! Colocarei
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:100>Ha ha, não se preocupe! Colocarei
 algo a mais nele, para que você
 não tenha problemas de sono.
 !******************************!
 [t30_160_500.gds]
-<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:97>
-Obrigado, tio. Já que não tenho
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:97>Obrigado, tio. Já que não tenho
 que me preocupar com dormir, vou
 me esbaldar nesse chá!
 !******************************!
 [t30_161_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:61>
-Mm mmmm! Niles achou um novo jeito
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:61>Mm mmmm! Niles achou um novo jeito
 de saborear Sementes Cítricas!
 !******************************!
 [t30_161_100.gds]
-<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:95>
-Uau, esse chá estava ótimo! Não
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:95>Uau, esse chá estava ótimo! Não
 que eu estivesse estressado antes,
 mas agora estou super relaxado!
 !******************************!
 [t30_161_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>
-Bom, estou feliz por ter gostado.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Bom, estou feliz por ter gostado.
 !******************************!
 [t30_161_300.gds]
-<01:00000046><03:10>b1 normal<03:5>NONE<01:00000003><03:369>
-Foi muito legal de sua parte me
+<01:00000046><03:10>b1 normal<03:5>NONE<01:00000003><03:369>Foi muito legal de sua parte me
 dar seu chá, então deixa eu te
 contar um segredo em troca.<W>
 !------------------------------!
@@ -1625,88 +1396,73 @@ na floresta porque estão com medo.
 É estranho, mas é verdade.
 !******************************!
 [t30_162_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:63>
-Infelizmente, Niles não gostou do
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:63>Infelizmente, Niles não gostou do
 chá que você preparou para ele.
 !******************************!
 [t30_162_100.gds]
-<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:59>
-Esse chá tá forte demais. Não
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:59>Esse chá tá forte demais. Não
 teria algo mais leve?
 !******************************!
 [t30_163_100.gds]
-<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:60>
-Então, você realmente não consegue
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:60>Então, você realmente não consegue
 fazer esse chá que estava falando?
 !******************************!
 [t30_164_100.gds]
-<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:122>
-Eu quero um chá leve que não vá
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:122>Eu quero um chá leve que não vá
 me deixar de pé à noite, OK?<W>
 !------------------------------!
 Ah, e por favor não vá esquecer
 das Sementes Cítricas nele.
 !******************************!
 [t30_170_100.gds]
-<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:27>
-Deus... Meu deus...
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:27>Deus... Meu deus...
 !******************************!
 [t30_170_200.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:39>
-Você está bem? Qual é o problema?
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:39>Você está bem? Qual é o problema?
 !******************************!
 [t30_170_300.gds]
-<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:99>
-Tsc... Embora panquecas sejam boas
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:99>Tsc... Embora panquecas sejam boas
 para a alma, toda essa calda está
 acabando com minha pele!
 !******************************!
 [t30_170_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>
-Bobagem, madame. Você está
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Bobagem, madame. Você está
 estupenda.
 !******************************!
 [t30_170_500.gds]
-<01:0000003F><03:9>b1 smile<03:5>NONE<01:00000002><03:50>
-Mas olha só pra essa pele!
+<01:0000003F><03:9>b1 smile<03:5>NONE<01:00000002><03:50>Mas olha só pra essa pele!
 Tá horrível horrível!
 !******************************!
 [t30_170_600.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:87>
-Bom, se isso está lhe incomodando
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:87>Bom, se isso está lhe incomodando
 tanto, posso sugerir uma xícara
 de chá radiante?
 !******************************!
 [t30_170_700.gds]
-<01:0000003F><03:10>b1 normal<03:5>NONE<01:00000002><03:135>
-Sério? Você será meu herói se
+<01:0000003F><03:10>b1 normal<03:5>NONE<01:00000002><03:135>Sério? Você será meu herói se
 puder fazer algo desse tipo!<W>
 !------------------------------!
 Afinal, ficar me preocupando com
 minha pele só vai piorar as coisas!
 !******************************!
 [t30_171_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:85>
-Ah, amável! Um brilho rosado volta
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:85>Ah, amável! Um brilho rosado volta
 à face de Gertie. Ela parece
 recuperada e animada.
 !******************************!
 [t30_171_100.gds]
-<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:104>
-Ah, esse chá estava maravilhoso.<W>
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:104>Ah, esse chá estava maravilhoso.<W>
 !------------------------------!
 Minha pele está melhor? Melhor
 quanto? Duas vezes melhor? Cinco?
 !******************************!
 [t30_171_200.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>
-Pessoalmente, acho que o melhor
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>Pessoalmente, acho que o melhor
 a fazer pela sua pele é parar de
 se inquietar tanto por causa dela.
 !******************************!
 [t30_171_300.gds]
-<01:0000003F><03:10>b1 normal<03:5>NONE<01:00000002><03:180>
-Desculpe. É que nos últimos anos
+<01:0000003F><03:10>b1 normal<03:5>NONE<01:00000002><03:180>Desculpe. É que nos últimos anos
 sinto como se subitamente eu
 tivesse envelhecido bastante.<W>
 !------------------------------!
@@ -1715,39 +1471,33 @@ diva, mas de alguma forma eu ainda
 me sinto mais velha, sabe?
 !******************************!
 [t30_172_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:67>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:67>Infelizmente, o chá que você
 preparou para Gertie não serviu.
 !******************************!
 [t30_172_100.gds]
-<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:75>
-Sabe, este chá tem um gosto meio
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:75>Sabe, este chá tem um gosto meio
 engraçado. Não tem como isso fazer
 bem pra minha pele!
 !******************************!
 [t30_173_100.gds]
-<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:69>
-Quer dizer então que você acha
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:69>Quer dizer então que você acha
 que minha pele não tem mais
 salvação?!<W>
 !------------------------------!
 Ah, nããããooo!
 !******************************!
 [t30_174_100.gds]
-<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:92>
-Pele saudável requer vitaminas.
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:92>Pele saudável requer vitaminas.
 Me prepare algo que tenha uns
 nutrientes rejuvenescedores, OK?
 !******************************!
 [t30_180_100.gds]
-<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:110>
-Tá vendo esses óculos de sol?<W>
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:110>Tá vendo esses óculos de sol?<W>
 É meu par favorito, mas por mais que
 eu tente limpar, continua embaçado.
 !******************************!
 [t30_180_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:149>
-Da forma como vejo, as lentes
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:149>Da forma como vejo, as lentes
 parecem estar bem.<W>
 !------------------------------!
 Talvez a raíz do problema não
@@ -1755,34 +1505,29 @@ esteja nos seus óculos afinal.
 Diga-me, sua vista está cansada?
 !******************************!
 [t30_180_300.gds]
-<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:94>
-Hmm, agora que mencionou, creio
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:94>Hmm, agora que mencionou, creio
 que sim. Estou sem palavras!
 E não é que você pensa rápido!
 !******************************!
 [t30_180_400.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:99>
-Se você aprender a relaxar, sua
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:99>Se você aprender a relaxar, sua
 visão pode melhorar. Que tal uma
 boa xícara de chá para tal?
 !******************************!
 [t30_180_500.gds]
-<01:0000004D><03:11>b1 normal2<03:5>NONE<01:00000002><03:153>
-Chá, hein? Bom, se não tiver
+<01:0000004D><03:11>b1 normal2<03:5>NONE<01:00000002><03:153>Chá, hein? Bom, se não tiver
 problema, vou aceitar sua oferta.<W>
 !------------------------------!
 Algo relaxante e, quiçá, meio
 apimentado e terroso, seria ótimo.
 !******************************!
 [t30_181_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>
-Esse sim é um chá bom! Um sorriso
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Esse sim é um chá bom! Um sorriso
 de orelha a orelha surge em Ray.
 Ele parece recuperado e animado.
 !******************************!
 [t30_181_100.gds]
-<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:187>
-Ah, esse gostinho picante no
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:187>Ah, esse gostinho picante no
 final. Estou adorando! E, sabe,
 acho que minha visão melhorou.<W>
 !------------------------------!
@@ -1791,29 +1536,24 @@ uma mão na roda.<W>&setani 1 b1_normal&Hã.
 Argh, de novo não!
 !******************************!
 [t30_181_200.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:28>
-Qual é o problema agora, senhor?
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:28>Qual é o problema agora, senhor?
 !******************************!
 [t30_181_300.gds]
-<01:0000004D><03:10>b1 normal<03:5>NONE<01:00000002><03:86>
-Ainda vejo a droga dessa névoa.
+<01:0000004D><03:10>b1 normal<03:5>NONE<01:00000002><03:86>Ainda vejo a droga dessa névoa.
 Talvez o ar em Folsense esteja
 realmente poluído.
 !******************************!
 [t30_182_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:63>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:63>Infelizmente, o chá que você
 fez para Ray não serviu.
 !******************************!
 [t30_182_100.gds]
-<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:102>
-Psh, estava muito a fim, mas esse
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:102>Psh, estava muito a fim, mas esse
 chá é pra neném. Não tem o gostinho
 apimentado que estou atrás.
 !******************************!
 [t30_183_100.gds]
-<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:152>
-Ei, ei, ei, calmaí! Pra onde
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:152>Ei, ei, ei, calmaí! Pra onde
 vocês estão indo?<W>
 !------------------------------!
 Posso ter me enganado, mas tive a
@@ -1821,29 +1561,24 @@ impressão de que alguém ia me
 preparar um chá.
 !******************************!
 [t30_184_100.gds]
-<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:96>
-Minha vista está cansada e eu preciso
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:96>Minha vista está cansada e eu preciso
 relaxar. Me dá um chá, e não esquece
 do gostinho apimentado.
 !******************************!
 [t30_190_100.gds]
-<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:29>
-Isso sim é que chamo de
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:29>Isso sim é que chamo de
 perna ruim.
 !******************************!
 [t30_190_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:31>
-Posso ajudá-lo em algo?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:31>Posso ajudá-lo em algo?
 !******************************!
 [t30_190_300.gds]
-<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:101>
-Tenho todos esses itens para
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:101>Tenho todos esses itens para
 avaliar, mas estou com tanta fadiga
 que não consigo avançar em nada.
 !******************************!
 [t30_190_400.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:160>
-Você parece estar com uma
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:160>Você parece estar com uma
 tarefa bastante trabalhosa
 em mãos.<W>
 !------------------------------!
@@ -1852,14 +1587,12 @@ se fizesse uma breve pausa. Está
 interessado em uma xícara de chá?
 !******************************!
 [t30_190_500.gds]
-<01:00000019><03:10>b1 normal<03:5>NONE<01:00000001><03:99>
-Isso seria divino! Eu apreciaria
+<01:00000019><03:10>b1 normal<03:5>NONE<01:00000001><03:99>Isso seria divino! Eu apreciaria
 se você pudesse me fazer algo
 relaxante, mas apimentado.
 !******************************!
 [t30_191_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>
-Esse sim é um chá bom! Um sorriso
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Esse sim é um chá bom! Um sorriso
 de orelha a orelha surge em Dawson.
 Ele parece recuperado e animado.
 !******************************!
@@ -1867,54 +1600,45 @@ Ele parece recuperado e animado.
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
 !******************************!
 [t30_192_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:62>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:62>Infelizmente, o chá que você
 preparou não foi do gosto de
 Dawson.
 !******************************!
 [t30_192_100.gds]
-<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:92>
-Hmm, não creio que este chá seja
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:92>Hmm, não creio que este chá seja
 bem do meu gosto. Como posso
 relaxar com um chá ruim?
 !******************************!
 [t30_193_100.gds]
-<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:97>
-Saiba que sou um homem ocupado.
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:97>Saiba que sou um homem ocupado.
 Se está aqui para pregar peças,
 terei de pedir para ir embora.
 !******************************!
 [t30_194_100.gds]
-<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:106>
-Eu acho que os melhores chás para
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:106>Eu acho que os melhores chás para
 relaxar possuem um gostinho de
 pimenta. Poderia me preparar um?
 !******************************!
 [t30_200_100.gds]
-<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:32>
-Tsc... O que eu faço?
+<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:32>Tsc... O que eu faço?
 O que eu faço?
 !******************************!
 [t30_200_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:62>
-Parece incomodada, madame.
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:62>Parece incomodada, madame.
 Posso lhe ser útil?
 !******************************!
 [t30_200_300.gds]
-<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:95>
-Sim, estou bem incomodada. E o pior
+<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:95>Sim, estou bem incomodada. E o pior
 é que não tenho ninguém com quem
 eu possa discutir sobre o assunto.
 !******************************!
 [t30_200_400.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:106>
-Bom, você gostaria de uma xícara
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:106>Bom, você gostaria de uma xícara
 de chá quente? Na pior das hipóteses,
 trará um pouco de alegria ao seu dia.
 !******************************!
 [t30_200_500.gds]
-<01:00000029><03:10>b1 normal<03:5>NONE<01:00000002><03:279>
-Bom, estou cansada de me remoer
+<01:00000029><03:10>b1 normal<03:5>NONE<01:00000002><03:279>Bom, estou cansada de me remoer
 por causa desse problema, então
 suponho que deveria dar uma pausa.<W>
 !------------------------------!
@@ -1927,8 +1651,7 @@ bom chá forte com uma pitada de
 Flor de Sonho seja o ideal.
 !******************************!
 [t30_201_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:102>
-Que bebabilidade esplêndida!
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:102>Que bebabilidade esplêndida!
 Graças ao seu chá, Opal está pronta
 para enfrentar seus problemas!
 !******************************!
@@ -1936,19 +1659,16 @@ para enfrentar seus problemas!
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
 !******************************!
 [t30_202_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:65>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:65>Infelizmente, o chá que você
 preparou para Opal não serviu.
 !******************************!
 [t30_202_100.gds]
-<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:88>
-Esse chá é muito... pedestre.
+<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:88>Esse chá é muito... pedestre.
 Não me sinto nem um pouco
 diferente de antes.
 !******************************!
 [t30_203_100.gds]
-<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:143>
-Oh, por favor não se incomode
+<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:143>Oh, por favor não se incomode
 com minha situação.<W>
 !------------------------------!
 No fim, suponho que isso seja
@@ -1956,14 +1676,12 @@ simplesmente um problema que
 preciso resolver sozinha.
 !******************************!
 [t30_204_100.gds]
-<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:95>
-Ficaria muito grata se você me
+<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:95>Ficaria muito grata se você me
 preparasse uma xícara de um chá
 bom, forte e com Flor de Sonho.
 !******************************!
 [t30_210_100.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:196>
-Urgh, não fui feito pra toda essa
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:196>Urgh, não fui feito pra toda essa
 correria, cara. Saca só como meus
 ombros tão deformados.<W>
 !------------------------------!
@@ -1972,13 +1690,11 @@ Como é que vou segurar minha
 guitarra estando tenso assim?
 !******************************!
 [t30_210_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:47>
-Não sabia que você tocava
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:47>Não sabia que você tocava
 guitarra, Sam!
 !******************************!
 [t30_210_300.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:187>
-Ah é, rock 'n roll, cara!<W>
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:187>Ah é, rock 'n roll, cara!<W>
 Mas ei, ouvi dizer que tem um
 chá que, tipo, conserta tudo.<W>
 !------------------------------!
@@ -1987,13 +1703,11 @@ pontas abertas, que seja. Traz o
 problema, e esse chá resolve.
 !******************************!
 [t30_210_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:66>
-Hmm... Certamente é a primeira
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:66>Hmm... Certamente é a primeira
 vez que ouço de um chá desses.
 !******************************!
 [t30_210_500.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:303>
-É, cara. Eu tô, ahn, meio por fora
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:303>É, cara. Eu tô, ahn, meio por fora
 dos detalhes, mas ouvi um monte de
 coisa boa sobre essa bebida.<W>
 !------------------------------!
@@ -2006,25 +1720,21 @@ um rumor que ouvi, mas se tiver um
 chá desses, tenho que provar!
 !******************************!
 [t30_210_600.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:106>
-Bom, você me deixou intrigado, Sammy.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:106>Bom, você me deixou intrigado, Sammy.
 Vejamos se não podemos descobrir a
 composição dessa bebida misteriosa.
 !******************************!
 [t30_210_700.gds]
-<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:100>
-Quêê-? No duro? Vai me fazer uma
+<01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:100>Quêê-? No duro? Vai me fazer uma
 xícara desse suco mágico aí?<W>
 Caraca, vai ser mara!
 !******************************!
 [t30_211_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:42>
-ÍÍÍHÁÁÁ! Sammy voltou e tá
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:42>ÍÍÍHÁÁÁ! Sammy voltou e tá
 pronto pra detonar!
 !******************************!
 [t30_211_100.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:301>
-ÍÍÍÍHÁÁÁÁ! Esse chá é tão bom que
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:301>ÍÍÍÍHÁÁÁÁ! Esse chá é tão bom que
 me fez acertar um solo épico, cara.
 Pense num sabor original.<W>
 !------------------------------!
@@ -2037,25 +1747,21 @@ lembrar de você como o homem que
 salvou a carreira de Sammy Thunder!
 !******************************!
 [t30_212_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Infelizmente, o chá que você
 preparou para Sammy não serviu.
 !******************************!
 [t30_212_100.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:78>
-Foi ISSO que cê preparou?<W>
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:78>Foi ISSO que cê preparou?<W>
 Sei não, cara. Meus ombros
 ainda tão meio zoados.
 !******************************!
 [t30_213_100.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:86>
-Ah, qualé, não me ilude desse jeito
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:86>Ah, qualé, não me ilude desse jeito
 não! Eu tava achando que cê tava
 vindo até mim pra me ajudar.
 !******************************!
 [t30_214_100.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:190>
-Escuta, cê tem que me chegar pra
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:190>Escuta, cê tem que me chegar pra
 mim com um chá que faça relaxar
 esses meus ombros zoados.<W>
 !------------------------------!
@@ -2064,8 +1770,7 @@ um pouco daquela crocância lá.
 Sabe do que tô falando, né, cara?
 !******************************!
 [t30_220_100.gds]
-<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:198>
-O Museu Herzen abriga a mais
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:198>O Museu Herzen abriga a mais
 impressionante coleção de documentos
 recuperados da família.<W>
 !------------------------------!
@@ -2074,14 +1779,12 @@ revia um inventário antigo do
 castelo, descobri algo.
 !******************************!
 [t30_220_200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:80>
-Interessante. Por favor continue.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:80>Interessante. Por favor continue.
 Tenho uma queda por assuntos
 desse tipo.
 !******************************!
 [t30_220_300.gds]
-<01:0000002D><03:5>NONE<03:11>b1 normal2<01:00000001><03:386>
-Li um documento sobre um tipo
+<01:0000002D><03:5>NONE<03:11>b1 normal2<01:00000001><03:386>Li um documento sobre um tipo
 de chá muito especial.<W>
 !------------------------------!
 Neste, se dizia que comemorava
@@ -2100,27 +1803,23 @@ Suponho que isso seja impossível
 agora. Tsc...
 !******************************!
 [t30_220_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:105>
-Não necessariamente, bom homem.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:105>Não necessariamente, bom homem.<W>
 !------------------------------!
 Talvez possamos usar ingredientes
 modernos para recriar este chá
 lendário.
 !******************************!
 [t30_220_500.gds]
-<01:0000002D><03:10>b1 normal<03:5>NONE<01:00000001><03:92>
-Seu conhecimento de chá claramente
+<01:0000002D><03:10>b1 normal<03:5>NONE<01:00000001><03:92>Seu conhecimento de chá claramente
 é vasto, Sr. Layton, mas... Será
 mesmo que é possível?
 !******************************!
 [t30_220_600.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:77>
-Não posso garantir que vou acertar,
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:77>Não posso garantir que vou acertar,
 mas verei o que posso fazer.
 !******************************!
 [t30_221_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:69>
-Ah, maravilhoso! Você conseguiu
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:69>Ah, maravilhoso! Você conseguiu
 tornar realidade o sonho do Grinko
 de beber um chá lendário!
 !******************************!
@@ -2128,13 +1827,11 @@ de beber um chá lendário!
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
 !******************************!
 [t30_222_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:67>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:67>Infelizmente, o chá que você
 preparou para Grinko não serviu.
 !******************************!
 [t30_222_100.gds]
-<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:197>
-Oras, suponho que seja mesmo
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:197>Oras, suponho que seja mesmo
 impossível recriar este chá
 sem os ingredientes antigos.<W>
 !------------------------------!
@@ -2143,29 +1840,24 @@ nada milagroso nessa xícara de chá
 mediana que acabei de tomar.
 !******************************!
 [t30_223_100.gds]
-<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:98>
-Suponho que esse seja o problema
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:98>Suponho que esse seja o problema
 dessas lendas. Você nunca consegue
 ver, ou saborear, por conta própria.
 !******************************!
 [t30_224_100.gds]
-<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:92>
-Para preparar esse chá lendário,
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:92>Para preparar esse chá lendário,
 talvez precise de algo que simbolize
 fogo ou cinzas, não acha?
 !******************************!
 [t30_230_100.gds]
-<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:38>
-Ah, lembranças... Bons tempos
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:38>Ah, lembranças... Bons tempos
 eram aqueles.
 !******************************!
 [t30_230_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:21>
-Tendo nostalgia, pelo visto?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:21>Tendo nostalgia, pelo visto?
 !******************************!
 [t30_230_300.gds]
-<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:188>
-Sim... Antigamente tínhamos uma
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:188>Sim... Antigamente tínhamos uma
 cafeteria na cidade que preparava
 o mais incrível chá que há.<W>
 !------------------------------!
@@ -2174,13 +1866,11 @@ aos montes para provar este chá
 maravilhoso, como era chamado.
 !******************************!
 [t30_230_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>
-Parece que essa cafeteria era um
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:47>Parece que essa cafeteria era um
 lugar e tanto.
 !******************************!
 [t30_230_500.gds]
-<01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:156>
-Com certeza era!<W>
+<01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:156>Com certeza era!<W>
 !------------------------------!
 Sabe, parece que você conhece uma
 ou duas coisas de chá.<W>
@@ -2190,14 +1880,12 @@ preparar esse chá maravilhoso
 para eu beber?
 !******************************!
 [t30_230_600.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:77>
-Certamente é um desafio que
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:77>Certamente é um desafio que
 pretendo aceitar. Verei o que
 eu posso fazer.
 !******************************!
 [t30_230_700.gds]
-<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:134>
-Bom, boa sorte pra você. Eu meio
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:134>Bom, boa sorte pra você. Eu meio
 que me lembro que o chá levava
 algo apimentado dentro.<W>
 !------------------------------!
@@ -2205,14 +1893,12 @@ Mas não sei dizer o que mais
 tem nele.
 !******************************!
 [t30_231_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:71>
-Esse sim é um chá bom! Hopper
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:71>Esse sim é um chá bom! Hopper
 dá à sua mistura um grande
 joinha.
 !******************************!
 [t30_231_100.gds]
-<01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:207>
-Ah é, é isso mesmo!<W>
+<01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:207>Ah é, é isso mesmo!<W>
 !------------------------------!
 Eu e meus amigos jogávamos baralho
 até tarde da noite, bebendo esse
@@ -2223,13 +1909,11 @@ fazer, mas você realmente provou
 seu valor pra mim. Valeu, amigo!
 !******************************!
 [t30_231_200.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:40>
-Estou feliz por ter lhe sido
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:40>Estou feliz por ter lhe sido
 útil, bom homem.
 !******************************!
 [t30_231_300.gds]
-<01:00000048><03:11>b1 normal2<03:5>NONE<01:00000002><03:368>
-Você tem mente afiada, mas não é
+<01:00000048><03:11>b1 normal2<03:5>NONE<01:00000002><03:368>Você tem mente afiada, mas não é
 o primeiro sabichão a visitar esta
 cidade. Tinha um monte deles antes.<W>
 !------------------------------!
@@ -2245,13 +1929,11 @@ Me pergunto se ele chegou a
 encontrar o que procurava.
 !******************************!
 [t30_232_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:67>
-Infelizmente, o chá que você
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:67>Infelizmente, o chá que você
 preparou para Hopper não serviu.
 !******************************!
 [t30_232_100.gds]
-<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:157>
-Parece que você vai precisar de
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:157>Parece que você vai precisar de
 um milagre para preparar esse
 chá maravilhoso.<W>
 !------------------------------!
@@ -2260,14 +1942,12 @@ Devia ter percebido que fazer
 esse chá seria impossível.
 !******************************!
 [t30_233_100.gds]
-<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:98>
-Não se sinta mal por desistir.
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:98>Não se sinta mal por desistir.
 É um chá maravilhoso, mas não é
 tão fácil de se fazer.
 !******************************!
 [t30_234_100.gds]
-<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:273>
-Esse chá era coisa de outro mundo,
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:273>Esse chá era coisa de outro mundo,
 pode ter certeza. Mesmo agora eu
 me lembro do sabor. Mmm mmm.<W>
 !------------------------------!

@@ -2029,10 +2029,12 @@ Com licença!
 Hã? Ei, é você!
 !******************************!
 [m4_2.txt]
-Bem, meu nome é Inspetor Chelmey.
+Bem, meu nome é
+Inspetor Chelmey.
 !******************************!
 [m4_4.txt]
-Vocês dois encontraram o corpo, correto?
+Vocês dois encontraram
+o corpo, correto?
 !******************************!
 [m4_5.txt]
 M-mas que raios?

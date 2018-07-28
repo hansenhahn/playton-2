@@ -22,8 +22,8 @@ juntar suas coisas e trancar
 sua mala antes de saírmos por aí?
 !******************************!
 [t11_045_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:84>Luke, não esqueça que estamos atrás
-da Caixa Elísia, então não vá se
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:84>Luke, não esqueça de que estamos
+atrás da Caixa Elísia, então não vá se
 perder por aí.
 !******************************!
 [t11_045_200.gds]
@@ -205,8 +205,8 @@ E da cintura dele, espero!
 !******************************!
 [t11_100_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:98>Sim, parece que até mesmo
-a cozinha do Molentary Express é
-de primeira classe.
+a cozinha do Molentary Express
+é de primeira classe.
 !******************************!
 [t11_100_2000.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:90>Você pode interagir com o hamster
@@ -214,14 +214,14 @@ tocando o ícone Hamster dentro
 da mala do professor.
 !******************************!
 [t11_100_2100.gds]
-<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:136>Ah, e mais uma coisa.<W>
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:136>Ah! E mais uma coisa.<W>
 !------------------------------!
 Já que não vou ver meu pequeno
 camarada por um tempo, poderiam
 dar a ele esta maçã?<W> Ele vai amar.
 !******************************!
 [t11_100_2200.gds]
-<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:63>Ah, vou sentir falta do meu amigo
+<01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:63>Vou sentir falta do meu amigo
 peludo! Por favor, cuidem bem dele!
 !******************************!
 [t11_100_2300.gds]
@@ -285,9 +285,8 @@ um novo amigo, Luke!
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>Também acho, Professor!
 !******************************!
 [t11_110_100.gds]
-<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:63>Ah, eu vou sentir falta do
-meu amigo peludo! Por favor,
-cuidem dele!
+<01:0000000E><03:10>b2 normal<03:5>NONE<01:00000002><03:63>Vou sentir falta do meu amigo
+peludo! Por favor, cuidem bem dele!
 !******************************!
 [t11_110_200.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:33>Não se preocupe, ele estará

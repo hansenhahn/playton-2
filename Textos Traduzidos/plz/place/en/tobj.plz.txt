@@ -602,8 +602,8 @@ Com certeza essa casa
 me é muito familiar...
 !******************************!
 [tobj48.txt]
-Será que essa vassoura é
-daquelas que voam?
+Será que essa vassoura
+é daquelas que voam?
 E lá vamos nós...
 !******************************!
 [tobj49.txt]
@@ -655,7 +655,7 @@ que eu nem tinha notado!
 !******************************!
 [tobj58.txt]
 De cabo a rabo, pra fazer
-esse trem, nenhum tostão
+este trem, nenhum tostão
 foi poupado!
 !******************************!
 [tobj59.txt]
@@ -669,14 +669,14 @@ estas coisas estranhas
 e maravilhosas...
 !******************************!
 [tobj60.txt]
-Agora não temos tempo de
-examinar os utensílios
-de limpeza!
+Agora não temos
+tempo de examinar os
+utensílios de limpeza!
 !******************************!
 [tobj61.txt]
-Antes de desfrutarmos a
-vista, deveríamos visitar
-o doutor.
+Devemos visitar o doutor
+antes de desfrutarmos
+a vista.
 !******************************!
 [tobj62.txt]
 As flores são muito

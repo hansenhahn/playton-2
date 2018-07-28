@@ -52,8 +52,8 @@ mais de %d passos!
 !******************************!
 [obj_e00.txt]
 Posicione os objetos nos espaços
-abaixo, de modo que faça o hamster
-andar o mais longe possível.
+abaixo de modo a fazer com que o
+hamster caminhe o máximo possível.
 Toque um objeto para ver suas
 características especiais.
 !******************************!
