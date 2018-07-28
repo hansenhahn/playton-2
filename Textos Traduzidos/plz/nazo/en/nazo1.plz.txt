@@ -191,7 +191,6 @@ Uma professora pediu para que todos em
 sua turma fechassem os olhos. Enquanto
 nenhuma das crianças estava olhando, ela
 colocou bonés em suas cabeças e disse:
-
 <''>Certo, pessoal, abram seus olhos e olhem
 para o boné dos seus colegas. Quem vir
 quatro ou mais colegas usando bonés
@@ -298,7 +297,8 @@ e suas cores invertidas e trocadas por
 preto e branco.
 
 Das imagens A, B, e C, qual delas é igual
-à imagem preto e branco no canto esquerdo?
+à imagem em preto e branco no canto
+esquerdo?
 !******************************!
 Isso aí!
 
@@ -454,7 +454,7 @@ Se você assumir que o trem iniciou com seis
 passageiros, então apenas uma pessoa
 precisaria descer a cada estação. 
 
-Esse enigma pode ser bem difícil se você se
+Este enigma pode ser bem difícil se você se
 esquecer de reduzir o número de pessoas
 ainda no trem em cada estação pelo caminho.
 !******************************!
@@ -495,7 +495,7 @@ Percebeu um padrão aqui?
 <0020>A Ladra de Sapatos
 <01><19><16><13><11><0A><16><13><F6><03><02><FF>
 Uma mulher em uma loja de sapatos paga <po>50
-por um par de sapatos com valor de <po>30.
+por um par de sapatos que custa <po>30.
 O atendente não tem troco suficiente, então
 ele vai até a loja vizinha para trocar a nota
 de <po>50, volta à loja e dá à mulher seu troco.
@@ -608,7 +608,7 @@ Se o mensageiro original passar a mensagem
 como mostrado acima, o jogo pode ser
 completado em três minutos. Durante esse
 tempo, o mensageiro original pode passar
-a mensagem para outras três pessoas, e
+a mensagem para outras três pessoas e
 essas, que ouviram a mensagem nos primeiros
 dois minutos, também tornam-se mensageiros.
 
@@ -776,8 +776,8 @@ Pense no quão maior uma das <''>metades<''>
 da tira era comparada à outra após a
 primeira dobra.
 !******************************!
-Lembre-se, a resposta deve ser em
-milímetros.
+Lembre-se de que a resposta deve ser
+em milímetros.
 !******************************!
 Considere a localização do primeiro
 vinco. O segundo vinco deve ter sido 
@@ -799,8 +799,8 @@ entre os caminhos confusos do zoológico.
 
 Toque a imagem de cada animal que você acha
 que conseguirá escapar com segurança do
-zoológico, depois toque #rEnviar#x.
-Lembre-se, são situações como esta que os
+zoológico, depois toque #rEnviar#x. Lembre-se
+de que são situações como esta que os
 animais mostram sua verdadeira natureza.
 !******************************!
 Bem pensado!
@@ -809,11 +809,10 @@ O único animal que conseguirá escapar com
 segurança é o leão. Tanto o leão quanto
 o coelho conseguem pegar o caminho que
 leva à saída, contudo, assim que o leão
-bater os olhos no coelho, é certeza que
-irá comê-lo.
+bater os olhos no coelho, é certo que irá
+comê-lo.
 
 A natureza às vezes é cruel...
-
 !******************************!
 Que pena!
 

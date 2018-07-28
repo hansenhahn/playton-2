@@ -312,7 +312,7 @@ esse crime?
 [id_5.txt]
 Enquanto andava pelo Molentary
 Express, o garotinho de Babette,
-Tom, parece ter desaparecido.
+Tom, deu um jeito de desaparecer.
 Se o sapato que ele deixou para
 trás servir de referência, Tom
 deve ser uma criança muito pequena.
@@ -1007,17 +1007,16 @@ nos concentrarmos em fugir desse
 lugar.
 !******************************!
 [d_5.txt]
-Quando estávamos explorando o trem,
+Enquanto estávamos explorando o trem,
 Luke e eu conhecemos a Sra. Babette.
 Essa mulher, que tem tanto uma
-personalidade forte como uma
-estatura forte, estava muito
-preocupada com seu filho perdido,
-Tom. Parece que a criança sumiu da
-vista dela num momento de distração,
-e só deixou para trás um sapatinho.
-Para onde uma criança tão pequena
-poderia ter ido?
+personalidade quanto uma estatura
+forte, estava muito preocupada
+com seu filho perdido, Tom. Parece
+que a criança sumiu da vista dela em
+um momento de distração, e só deixou
+para trás um sapatinho. Para onde uma
+criança tão pequena poderia ter ido?
 !******************************!
 [d_50.txt]
 Ao passar por aquele buraco enorme
@@ -1146,9 +1145,9 @@ confirmar minhas suspeitas.
 Descobrimos que a jovem garota que
 carregava o pequeno Tom não era outra
 senão Flora! Embora tenha consentido
-com Flora acompanhando Luke e eu em
-nossa investigação, ainda me preocupo
-que isso possa expô-la a algum perigo
+com Flora nos acompanhando em nossa
+investigação, ainda me preocupo que
+isso possa expô-la a algum perigo
 desconhecido.
 
 Mas não há tempo para me debruçar
@@ -1158,9 +1157,9 @@ que seu "menino" está vivo e bem.
 [d_8.txt]
 Apenas alguns momentos atrás, o trem
 parou de repente, e até mesmo de
-forma alarmante, para evitar a
-colisão com outro trem que foi
-abandonado nos trilhos.
+maneira brusca, para evitar a colisão
+com outro trem que foi abandonado
+nos trilhos.
 !******************************!
 [d_9.txt]
 Nosso trem está atualmente parado
@@ -1168,7 +1167,7 @@ em um pequeno e pitoresco vilarejo
 chamado Dropstone. O vilarejo está
 atualmente comemorando seu 50o
 aniversário e está transbordando
-de agitação. Dado que temos algumas
+de agitação. Já que temos algumas
 horas antes de sair novamente,
 decidi usar nosso tempo livre para
 procurar mais pistas sobre a Caixa
@@ -1307,7 +1306,7 @@ Uma Situação Desastrosa
 Saindo das Cordas
 !******************************!
 [t_5.txt]
-Procurando por Tom
+Procurando pelo Tom
 !******************************!
 [t_50.txt]
 Nas Entranhas do Castelo

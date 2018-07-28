@@ -296,7 +296,7 @@ Northern Folsense
 Palitos de Fósforo
 !******************************!
 [type_1.txt]
-Deslizar
+Deslizar Blocos
 !******************************!
 [type_10.txt]
 Ordenar
@@ -317,7 +317,7 @@ Tocar
 Desenhar Linha
 !******************************!
 [type_16.txt]
-Escrever
+Escrever Resposta
 !******************************!
 [type_17.txt]
 Mover Cavaleiros
@@ -338,7 +338,7 @@ Múltipla Escolha
 <95><B6><8E><9A><93>ü<97>Í<96>â<91>è
 !******************************!
 [type_22.txt]
-Escrever
+Escrever Resposta
 !******************************!
 [type_23.txt]
 Área
@@ -347,7 +347,7 @@ Escrever
 Posicionar Rosas
 !******************************!
 [type_25.txt]
-Deslizar
+Deslizar Blocos
 !******************************!
 [type_26.txt]
 Organizar
@@ -356,7 +356,7 @@ Organizar
 Ir para a Saída
 !******************************!
 [type_28.txt]
-Escrever
+Escrever Resposta
 !******************************!
 [type_29.txt]
 Remover Bolas

@@ -353,7 +353,7 @@ fosse tão esperto.
 !******************************!
 [t14_130_600.gds]
 <01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:146>Bom, porque não tenho tempo
-para papo-furado.<W>
+para papo furado.<W>
 !------------------------------!
 Tenho que capturar um assassino
 e voltar pra Londres. Barton,

@@ -109,7 +109,7 @@ Hora de visitar o vagão-restaurante!
 !******************************!
 [t11_085_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:90>Professor, por que não pegamos
-algo para comer? Meu estômago
+algo pra comer? Meu estômago
 não para de roncar.
 !******************************!
 [t11_090_100.gds]
@@ -368,7 +368,7 @@ sua estadia a bordo.
 [t11_150_100.gds]
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:88>Por que não voltamos para
 o vagão-restaurante, Luke?
-O passeio abriu-me o apetite.
+O passeio abriu meu apetite.
 !******************************!
 [t11_160_100.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:58>Luke, vamos passar na nossa
@@ -430,7 +430,7 @@ que você estava a bordo.
 <01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:249>Veja só! Se não é o Sr. Layton!
 Quais são as chances, né?<W>
 !------------------------------!
-Bem, chega de papo-furado. Tenho
+Bem, chega de conversa fiada. Tenho
 coisas pra resolver. Em outras
 palavras, achar uma criança perdida.<W>
 !------------------------------!
@@ -528,7 +528,7 @@ estou enganado.
 !******************************!
 [t11_190_300.gds]
 <01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:73>Acha que o Tom invadiu a cozinha
-pra pegar algo para comer?
+pra pegar algo pra comer?
 !******************************!
 [t11_190_400.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:109>Bem, é possível, mas se for esse
@@ -580,7 +580,7 @@ perdida.
 [t11_210_500.gds]
 <01:00000028><03:9>b1 smile<03:5>NONE<01:00000003><03:174>Sabe, eu não deveria ficar por aí
 espalhando boatos, mas... Ah, que se
-dane, não tenho nada melhor pra fazer.<W>
+dane! Não tenho nada melhor pra fazer.<W>
 !------------------------------!
 Você sabia que tem uma velha
 estranha neste vagão?
@@ -691,7 +691,7 @@ dos sapatos andando por aí?
 <01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:111>Que eu lembre não.<W>
 !------------------------------!
 Mas parando para pensar, um casal que
-estava aqui agora há pouco estava
+esteve aqui agora há pouco estava
 conversando sobre uma criança.
 !******************************!
 [t11_240_300.gds]
@@ -749,7 +749,7 @@ algo relacionado a isso?
 [t11_250_300.gds]
 <01:00000025><03:5>NONE<03:5>NONE<01:00000003><03:110>Oh! Querido, acredito que eles
 estejam falando daquela gracinha
-que passou por nós. Lembra-se?
+que passou por nós. Lembra?
 !******************************!
 [t11_250_400.gds]
 <01:00000026><03:5>NONE<03:5>NONE<01:00000002><03:89>Uh... Oh! Sim, sim! Ele era uma
@@ -1081,9 +1081,9 @@ de verdade pra resolver.
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:27>Hm... Sim, senhor, Inspetor!
 !******************************!
 [t11_330_700.gds]
-<01:0000000B><03:6>shout<03:5>NONE<01:00000002><03:92>Não se afaste de mim! Quero ter
-uma palavrinha com você sobre
-esses seus modos abomináveis!
+<01:0000000B><03:6>shout<03:5>NONE<01:00000002><03:92>Não vá embora! Quero ter uma
+palavrinha com você sobre esses
+seus modos abomináveis!
 !******************************!
 [t11_330_800.gds]
 <01:0000000B><03:10>b1 normal<03:5>NONE<01:00000002><03:95>Bem, chega disso. Seja bem-vindo,

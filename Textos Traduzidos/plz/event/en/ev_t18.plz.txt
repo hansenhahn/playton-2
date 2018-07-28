@@ -678,8 +678,8 @@ reunir e posicionar corretamente as
 10 peças que faltam.<W>
 !------------------------------!
 O que acontecerá quando a câmera
-estiver funcional outra vez?<W> Isso você
-terá de descobrir por conta própria!
+estiver funcionando outra vez?<W> Você vai
+ter que descobrir por conta própria!
 !******************************!
 [t18_420_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:232>Use os objetos que forem sendo

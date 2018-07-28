@@ -914,7 +914,7 @@ mesmos.
 <01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:100>Então, fez um chá que eu vá
 gostar?<W>
 !------------------------------!
-Lembre-se, meu chá tem que ser
+Lembre-se de que meu chá tem que ser
 que nem eu: sofisticado e refinado.
 !******************************!
 [t30_110_100.gds]

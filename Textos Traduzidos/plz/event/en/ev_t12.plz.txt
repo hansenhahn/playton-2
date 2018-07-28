@@ -160,8 +160,8 @@ sobre a Caixa Elísia.
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:156>Ah, eu não teria tanta certeza
 disso, Luke.<W>
 !------------------------------!
-Lembre-se, uma das primeiras regras
-de resolução de enigmas é procurar
+Lembre-se de que uma das primeiras
+regras na resolução de enigmas é procurar
 respostas nos locais mais improváveis!
 !******************************!
 [t12_050_500.gds]
@@ -338,7 +338,7 @@ Sim, aposto que, neste exato momento,
 aqueles dois policiais estão sendo
 tratados como reis pelo Sr. Anderson.<W>
 !------------------------------!
-Mas basta de papo-furado. Temos
+Mas basta de papo furado. Temos
 um festival acontecendo, então
 vão lá e aproveitem!
 !******************************!

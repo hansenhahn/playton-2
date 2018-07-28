@@ -807,7 +807,7 @@ quebrá-lo.
 !******************************!
 [t21_113_100.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:92>Muito bem, Luke. Agora vamos sair
-de perto dessas taças. Elas parecem
+de perto destas taças. Elas parecem
 bem frágeis.
 !******************************!
 [t21_114_100.gds]
@@ -963,7 +963,7 @@ Afinal, foi ele quem tornou esta ferrovia
 no que ela é hoje.<W>
 !------------------------------!
 Ele sempre diz que um trem de primeira
-classe precisar ter uma atmosfera
+classe precisa ter uma atmosfera
 de primeira classe.<W>
 !------------------------------!
 Quero dizer, até mesmo os pratos do
@@ -1060,7 +1060,7 @@ você, Layton, só me resta questionar os
 seus famosos poderes de dedução.
 !******************************!
 [t21_170_100.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:97>Com licença, Madame. Por acaso viu
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:97>Com licença, madame. Por acaso viu
 um garotinho andando por aí sem um
 dos sapatos?
 !******************************!
@@ -1094,9 +1094,9 @@ você tem debaixo dessa cartola!
 Eu mesma tenho tido dificuldade com este.
 !******************************!
 [t21_180_100.gds]
-<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:99>Tô ligado que querem muito ver o que tem
-atrás da porta, mas, sem um bilhete,
-não vai rolar!
+<01:00000008><03:11>b1 normal2<03:5>NONE<01:00000002><03:99>Tô ligado que querem muito ver o
+que tem atrás da porta, mas, sem um
+bilhete, não vai rolar!
 !******************************!
 [t21_180_200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:46>E se você deixasse a gente
@@ -1104,7 +1104,7 @@ dar uma olhada beeeem rapidinho?
 !******************************!
 [t21_180_300.gds]
 <01:00000008><03:10>b1 normal<03:5>NONE<01:00000002><03:163>Sem chance, garoto. Você precisa
-de uma passagem pra isso.<W>
+de um bilhete pra isso.<W>
 !------------------------------!
 Quer saber? O seu amigo Sammy Thunder
 tem um enigma que vai fazer vocês dois

@@ -417,7 +417,7 @@ pelo casal que pode ter visto o Tom.
 !******************************!
 [next_70.txt]
 O professor e Luke decidem retornar
-para o local do desaparecimento de Tom.
+ao local do desaparecimento de Tom.
 !******************************!
 [next_80.txt]
 O professor e Luke decidem continuar
