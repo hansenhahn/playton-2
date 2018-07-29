@@ -287,8 +287,8 @@ têm forma de vacas.
 Ahh! Que bonitinhos!
 !******************************!
 [tobj156.txt]
-Esse peixe também é
-bicho de pelúcia?
+Esse peixe também é um
+bichinho de pelúcia?
 !******************************!
 [tobj157.txt]
 Aqui há uma grande
@@ -782,7 +782,7 @@ essas bandeirinhas!
 !******************************!
 [tobj82.txt]
 Como eu gostaria de morar
-em uma mansão cercada de
+numa mansão cercada de
 árvores!
 !******************************!
 [tobj83.txt]

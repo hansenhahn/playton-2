@@ -100,7 +100,7 @@ olhada naquela cabaninha e ver se
 tem algum enigma perdido lá!
 !******************************!
 [t12_040_100.gds]
-<01:00000038><03:5>NONE<03:5>NONE<01:00000002><03:58>Olha, e o que temos aqui?
+<01:00000038><03:5>NONE<03:5>NONE<01:00000002><03:58>Olha! E o que temos aqui?
 Turistas?
 !******************************!
 [t12_040_200.gds]
@@ -274,7 +274,7 @@ Ouçam, se forem conhecer apenas
 um nome em Dropstone, façam questão
 de que seja o do Sr. Anderson.<W>
 !------------------------------!
-Este homem não só nada na grana,
+Esse homem não só nada na grana,
 como basicamente é quem administra
 Dropstone.<W>
 !------------------------------!
@@ -314,7 +314,7 @@ aqui a trabalho e precisava ver
 o Sr. Anderson.
 !******************************!
 [t12_100_600.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:93>Acha que há uma conexão entre este
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:93>Acha que há uma conexão entre esse
 Sr. Anderson e a Caixa Elísia,
 Professor?
 !******************************!
@@ -378,7 +378,7 @@ planejando fugir...
 !******************************!
 [t12_110_1300.gds]
 <01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:182>Pra piorar, o mestre já começou
-a suspeitar que algo está
+a suspeitar de que algo está
 acontecendo pelas suas costas.<W>
 !------------------------------!
 Mas após muita discussão, nós,
@@ -416,7 +416,7 @@ Preciso voltar ao trabalho.
 !******************************!
 [t12_110_1800.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:239>Ah, um instante!<W>
-...Droga, ela se foi.<W>
+... Droga, ela se foi.<W>
 !------------------------------!
 Sou só eu, Professor, ou parece
 que a filha do Sr. Anderson planeja
@@ -646,7 +646,7 @@ Chelmey e seu assistente foram,
 certo?
 !******************************!
 [t12_140_400.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:67>Gostaria de ver este lugar por
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:67>Gostaria de ver esse lugar por
 conta própria. Podemos entrar
 e dar uma olhada?
 !******************************!
@@ -660,7 +660,7 @@ já estejam bastante atarefados com
 suas visitas atuais.
 !******************************!
 [t12_150_100.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:33>Puxa vida, olha pra esse lugar!
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:33>Puxa vida, olhe pra esse lugar!
 !******************************!
 [t12_150_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:57>Ufa, chegamos a tempo pra
@@ -1045,7 +1045,7 @@ fale com ele, então não devia estar
 assim, pensando alto!
 !******************************!
 [t12_320_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:63>Olha pra todas essas barracas!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:63>Olhe pra todas essas barracas!
 Isso é o que eu chamo de festival!
 !******************************!
 [t12_320_200.gds]

@@ -734,7 +734,7 @@ pegar a rainha, não vai dar certo...
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:21>Oho, pedindo uma colher de chá?
 !******************************!
 [t24_490_100.gds]
-<01:00000045><03:9>b1 smlie<03:5>NONE<01:00000003><03:192>Olha pra vocês dois, andando pela
+<01:00000045><03:9>b1 smlie<03:5>NONE<01:00000003><03:192>Olhe pra vocês dois, andando pela
 cidade que nem cachorro atrás da
 própria cauda. Hi hi hi hi!<W>
 !------------------------------!

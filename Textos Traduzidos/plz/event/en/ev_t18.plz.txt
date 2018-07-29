@@ -632,7 +632,7 @@ Coloque a tampa sobre o bule
 para começar a ferver o seu chá.<W>
 !------------------------------!
 Se sua mistura for bem-sucedida,
-será adicionada à sua lista de
+ela será adicionada à sua lista de
 receitas de chá.<W>
 !------------------------------!
 Você pode conferir sua lista
@@ -640,11 +640,11 @@ de receitas a qualquer hora.
 Basta tocar em #rHora do Chá#x.
 !******************************!
 [t18_400_400.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:300>Após acessar à lista de receitas,
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:300>Após acessar a lista de receitas,
 toque uma das xícaras para ver o nome
 e as propriedades do chá em questão.<W>
 !------------------------------!
-Quando encontrar o chá que escolheu
+Quando encontrar o chá que deseja
 servir, toque em #rServir!#x para oferecer
 uma xícara a quem estiver com sede.<W>
 !------------------------------!
@@ -781,7 +781,7 @@ irá encontrar?
 !******************************!
 [t18_450_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:133>Esperamos que tenha gostado de
-Professor Layton and Pandora's Box*.<W>
+Professor Layton e a Caixa de Pandora.<W>
 !------------------------------!
 Você pode ter terminado a história,
 mas a diversão está só começando!
@@ -804,7 +804,7 @@ até ganhar novos enigmas
 desafiadores para resolver!<W>
 !------------------------------!
 Divirta-se jogando o resto de
-Professor Layton and Pandora's Box*!
+Professor Layton e a Caixa de Pandora!
 !******************************!
 [t18_450_400.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:284>Como você chegou ao final da
@@ -820,7 +820,7 @@ itens e enigmas que tenha deixado passar.
 !******************************!
 [t18_460_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:152>Esperamos que tenha gostado de
-Professor Layton and Pandora's Box*.<W>
+Professor Layton e a Caixa de Pandora.<W>
 !------------------------------!
 Parece que você resolveu todos
 os enigmas do modo história do

@@ -73,7 +73,7 @@ para maximizar sua efetividade.
 !******************************!
 [obj_e03.txt]
 Seu hamster será atraído por esta
-casinha adorável se ela estiver
+casinha adorável se ele estiver
 num raio de três espaços do objeto,
 mas sempre vai ignorá-la caso haja
 alguma maçã por perto.

@@ -218,7 +218,7 @@ xícara de chá. O que me diz?
 [t30_020_600.gds]
 <01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:217>Aaah, você é um homem preocupado
 com meu coração. Estou desejando
-uma chávena!<W>
+uma xícara de chá!<W>
 !------------------------------!
 Preciso de algo que me anime, depois
 do dia que tive. Poderia fazer algo

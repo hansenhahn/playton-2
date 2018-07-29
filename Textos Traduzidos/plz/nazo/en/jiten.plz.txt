@@ -302,13 +302,13 @@ Deslizar Blocos
 Ordenar
 !******************************!
 [type_11.txt]
-Organizar
+Organizar Objetos
 !******************************!
 [type_12.txt]
 Girar e Organizar
 !******************************!
 [type_13.txt]
-Mover
+Mover Objetos
 !******************************!
 [type_14.txt]
 Tocar

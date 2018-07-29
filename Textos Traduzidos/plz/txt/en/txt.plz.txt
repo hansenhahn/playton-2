@@ -390,7 +390,7 @@ A Busca de Beluga
 O Vampiro no Castelo
 !******************************!
 [cam_0.txt]
-a peça quadrada
+a peça em L
 !******************************!
 [cam_1.txt]
 a peça de vidro
@@ -411,7 +411,7 @@ a peça com parafuso
 a bateria
 !******************************!
 [cam_7.txt]
-a mola
+a bobina
 !******************************!
 [cam_8.txt]
 a pecinha
@@ -503,21 +503,21 @@ tudo bem com ele.
 !******************************!
 [d_10.txt]
 O evento mais importante do festival
-de Dropstone é a competição de gado,
+de Dropstone é o desfile das vacas,
 na qual as fazendas mais requintadas
 do lugar certamente competirão. Acho
-que pode ser um evento divertido, e
-tanto Luke como Flora parecem ter
+que pode ser um evento divertido e
+tanto Luke quanto Flora parecem ter
 mostrado interesse em vê-lo, então
 acho que voltaremos ao local do
 evento assim que começar.
 !******************************!
 [d_11.txt]
 Ouvi um fato curioso de Dorothea,
-uma das criadas de Sr. Anderson,
+uma das criadas do Sr. Anderson,
 um homem que parece ser muito
 importante em Dropstone. Parece
-que a filha de Sr. Anderson está
+que a filha do Sr. Anderson está
 planejando viajar sozinha, sem
 o consentimento de seu pai. Todos
 os funcionários empregados pelo
@@ -528,7 +528,7 @@ por que todo esse sigilo?
 [d_12.txt]
 Finalmente consegui falar com o
 Sr. Anderson no local de realização
-da competição de gado. Aparentemente,
+do desfile das vacas. Aparentemente,
 sua sogra estava procurando pela
 Caixa Elísia antes de falecer, apesar
 do Sr. Anderson não saber por que ela
@@ -539,8 +539,8 @@ tipo de relacionamento, apesar de eu
 não entender totalmente qual é.
 !******************************!
 [d_13.txt]
-Graças a Luke, a competição de gado
-foi concluída como planejado. Mudando
+Graças a Luke, o desfile das vacas
+foi concluído como planejado. Mudando
 de assunto, rumores chegaram aos meus
 ouvidos sobre uma misteriosa cidade
 fantasma acessível apenas pelo
@@ -555,7 +555,7 @@ eu percebi um grupo de pessoas se
 despedindo de uma jovem moça que
 estava sozinha em nosso trem. Estou
 convencido de que era ninguém menos
-que a filha de Sr. Anderson, Katia.
+que a filha do Sr. Anderson, Katia.
 Embora fosse viajar sozinha, ela não
 parecia ter nenhuma reserva sobre
 isso. Não, ela parecia bastante
@@ -1183,13 +1183,13 @@ O Desfile das Vacas
 Planos de Fuga do Lar
 !******************************!
 [t_12.txt]
-Memórias de Sr. Anderson
+Memórias do Sr. Anderson
 !******************************!
 [t_13.txt]
 Rumores de uma Cidade Fantasma
 !******************************!
 [t_14.txt]
-A Filha de Sr. Anderson
+A Filha do Sr. Anderson
 !******************************!
 [t_15.txt]
 O Som da Meia-Noite
@@ -2140,8 +2140,8 @@ deviam estar distraídos, porque
 esse disfarce não engana ninguém.
 !******************************!
 [art_4.txt]
-Aqui temos a vaca ganhadora da
-competição de gado do Aniversário
+Aqui temos a vaca ganhadora do
+desfile das vacas do Aniversário
 de 50 anos de Dropstone, e ao lado
 dela o seu orgulhoso dono.
 !******************************!
@@ -2576,8 +2576,8 @@ os prêmios.
 !******************************!
 [chr_35.txt]
 Layton e Luke conheceram
-Nick na competição de
-gado, onde ele lhes
+Nick no desfile das
+vacas, onde ele lhes
 contou sobre uma figura
 influente em Dropstone.
 Ele adora conversar com
@@ -2715,7 +2715,7 @@ vilarejo.
 !******************************!
 [chr_45.txt]
 Remy trabalha como
-guarda da mansão de Sr.
+guarda da mansão do Sr.
 Anderson, embora seja
 raro alguém ir até lá.
 Portanto, ele geralmente

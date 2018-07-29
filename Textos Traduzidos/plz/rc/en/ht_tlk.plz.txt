@@ -1,5 +1,5 @@
 [ht_000_0.txt]
-Ah, o sabor é um pouquinho
+Ah! O sabor é um pouquinho
 agridoce. Nham.
 !******************************!
 [ht_000_1.txt]
@@ -9,7 +9,7 @@ seja delicioso se servido gelado.
 !******************************!
 [ht_000_2.txt]
 Aí sim, já que o sabor é suave e
-muito rico, com certeza todo mundo
+muito rico. Com certeza todo mundo
 vai tomar uma xícara com prazer.
 !******************************!
 [ht_000_3.txt]
@@ -520,7 +520,7 @@ me darei por satisfeito.
 !******************************!
 [ht_221_3.txt]
 Espero que esta mistura resulte
-numa saborosa chávena.
+numa saborosa xícara de chá.
 !******************************!
 [ht_221_4.txt]
 Agora só falta botar a tampa no
@@ -699,7 +699,7 @@ Hmm, uma boa xícara de
 %s, pelo visto.
 !******************************!
 [ht_rcp2.txt]
-Ah, parece ser uma bela chávena
+Ah, parece ser uma bela xícara
 de %s.
 !******************************!
 [ht_step_m0.txt]

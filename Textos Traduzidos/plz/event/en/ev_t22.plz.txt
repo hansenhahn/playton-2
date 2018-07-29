@@ -1,6 +1,6 @@
 [t22_000_100.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Olhe este pequeno monumento
-aqui, professor.
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Olhe esse pequeno monumento
+aqui, Professor.
 !******************************!
 [t22_000_200.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:79>Parece ser em comemoração a alguma
@@ -19,7 +19,7 @@ verdade é um vilarejo muito jovem.
 [t22_003_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:93>De acordo com o que está escrito aqui,
 este vilarejo foi fundado pelo seu
-primeiro morador a 50 anos atrás.
+primeiro morador há 50 anos.
 !******************************!
 [t22_003_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:97>Cinquenta anos parece um tempão
@@ -69,7 +69,7 @@ Obrigada pela ajuda.
 !******************************!
 [t22_013_100.gds]
 <01:00000039><03:9>b1 smile<03:5>NONE<01:00000002><03:224>Meu passarinho lindo! Estava
-com medo dele ficar preso lá
+com medo de ele ficar preso lá
 embaixo pra sempre.<W>
 !------------------------------!
 Queria que tivesse um jeito mais
@@ -414,7 +414,7 @@ achá-lo no meio dessa multidão.
 Vamos dar uma olhada por aí.
 !******************************!
 [t22_043_200.gds]
-<01:00000011><03:5>NONE<03:5>NONE<01:00000001><03:103>Ah, pode apostar! Olha pra essa cria!
+<01:00000011><03:5>NONE<03:5>NONE<01:00000001><03:103>Ah, pode apostar! Olhe pra essa cria!
 Essa pelagem lustrosa! Esse olhar
 comovente! É minha vaca, sem dúvida!
 !******************************!
@@ -459,7 +459,7 @@ o primeiro lugar?!
 [t22_050_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>Sim, sim, bastante adorável, Luke.
 Ah, mas há algo um pouco estranho
-nessa foto.
+nessa pintura.
 !******************************!
 [t22_050_300.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:35>Huh? O que quer dizer, Professor?
@@ -467,7 +467,7 @@ nessa foto.
 [t22_051_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:63>Deixa eu ver se consigo descobrir
 o que há de tão estranho nesse
-pôster.
+cartaz.
 !******************************!
 [t22_052_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>Imagino se o artista que pintou
@@ -487,18 +487,18 @@ comum.
 legumes naquele carrinho.
 !******************************!
 [t22_060_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:62>Provavelmente pertence à pessoa
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:62>Provavelmente pertencem à pessoa
 que toma conta daquela banquinha.
 !******************************!
 [t22_060_300.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:90>Ah, mas parece que uma das rodas
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:90>Ah! Mas parece que uma das rodas
 está amassada. Deve ser difícil mover.
 !******************************!
 [t22_060_400.gds]
 <01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:30>É, aposto que deve ser complicado.
 !******************************!
 [t22_060_500.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:71>Ah, mas sabe, isso me lembra um
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:71>Mas sabe, isso me lembra um
 enigma sobre uma roda amassada...
 !******************************!
 [t22_061_100.gds]
@@ -510,7 +510,7 @@ que deve ser difícil de empurrar
 por aí!
 !******************************!
 [t22_063_100.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:59>É verdade, Luke! Você realmente
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:59>Tem razão, Luke! Você realmente
 resolveu esse bem rápido.
 !******************************!
 [t22_063_200.gds]
@@ -523,7 +523,7 @@ Nunca tinha ouvido esse antes.
 !******************************!
 [t22_063_300.gds]
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:53>Bom, eu me esforço bastante pra
-impressionar o professor. Hehe.
+impressionar o Professor. Hehe.
 !******************************!
 [t22_064_100.gds]
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:52>Não se preocupe. Você pode
@@ -576,7 +576,7 @@ lhe custar um centavo sequer.
 <01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:137>Meu deus, esqueci de colher maçãs
 pra refeição de hoje à noite.<W>
 !------------------------------!
-Aliás, isso me lembra um enigma
+Aliás, isso me lembra de um enigma
 que ouvi uma vez. Gostaria
 de ouvi-lo, senhor?
 !******************************!
@@ -623,7 +623,7 @@ Mas que decepção.
 Chegaram na hora certa.<W>
 !------------------------------!
 Como podem ver, estou tentando
-embrulhar esta flor que plantei,
+embrulhar esta flor que plantei
 pra dá-la a um amigo.<W>
 !------------------------------!
 Entendo de várias coisas quando se
@@ -639,8 +639,8 @@ essas flores irritantes?
 !******************************!
 [t22_092_100.gds]
 <01:00000039><03:5>NONE<03:5>NONE<01:00000002><03:197>Agora que minha flor está linda,
-vou levar ela ao Sr. Anderson,
-pra animá-lo.<W>
+vou levá-la ao Sr. Anderson pra
+animá-lo.<W>
 !------------------------------!
 Soube que a filha esteve guardando
 grandes segredos dele, e isso tem
@@ -676,7 +676,7 @@ de aroma maravilhoso. <W>
 !------------------------------!
 Se por acaso você obter outras
 ervas de chá, tente misturá-las
-com outras que você já possui.<W>
+com as que você já possui.<W>
 !------------------------------!
 Há um montão de sabores novos
 pra descobrir.
@@ -729,7 +729,7 @@ nem um rei!
 <01:00000036><03:5>NONE<03:5>NONE<01:00000002><03:31>Qual o problema? Não gosta de peixe?
 !******************************!
 [t22_110_100.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:62>Olha essa árvore estranha,
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:62>Olhe essa árvore estranha,
 Professor. Está toda dobrada.
 !******************************!
 [t22_110_200.gds]
@@ -762,7 +762,7 @@ nossa caminhada pelo vilarejo.
 !******************************!
 [t22_114_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>Pense cuidadosamente nas
-informações, e em pouco tempo
+informações dadas e em pouco tempo
 você chegará à resposta.
 !******************************!
 [t22_120_100.gds]
@@ -867,7 +867,7 @@ essa caixa de você-sabe-o-quê.<W>
 !------------------------------!
 Tocar nesse assunto nos lugares errados
 pode fazer um monte de gente olhar feio
-para você. É isso que você quer?
+pra você. É isso que você quer?
 !******************************!
 [t22_133_100.gds]
 <01:00000040><03:5>NONE<03:5>NONE<01:00000002><03:130>É isso mesmo! Muito bom.<W>
@@ -1043,8 +1043,8 @@ Realmente é o dia perfeito pra
 um festival.<W>
 !------------------------------!
 O brilho do sol me deixa tão de bom
-humor, que vou lhe contar outro
-enigma que tinha guardado.
+humor, que vou lhe contar um enigma
+que tinha guardado.
 !******************************!
 [t22_171_100.gds]
 <01:00000038><03:5>NONE<03:5>NONE<01:00000002><03:47>E aí, voltou pra tentar de novo
@@ -1293,7 +1293,7 @@ do vilarejo.
 todos a chance de aproveitar
 as festividades de hoje.<W>
 !------------------------------!
-Luke, isso me lembra um enigma que
+Luke, isso me lembra de um enigma que
 ocorre em frente a uma prefeitura
 igual a essa. Quer tentar?
 !******************************!
@@ -1411,7 +1411,7 @@ resolve meu enigma. Que decepção!
 !******************************!
 [t22_270_100.gds]
 <01:0000003D><03:5>NONE<03:5>NONE<01:00000003><03:301>Olá, visitantes. Prazer em conhecê-los.
-Me chamo Albert, e sou o fã número 1
+Me chamo Albert e sou o fã número 1
 da belíssima Dropstone.<W>
 !------------------------------!
 Soube que estão rondando Dropstone

@@ -998,7 +998,7 @@ conhecida como Ilusão de Poggendorff.
 [n29.dat]
 <0030>A Data Errada
 <00><1E><1B><18><11><1C><23><1D><F6><03><03><FF>
-Dropstone foi fundada a 50 anos atrás e
+Dropstone foi fundada há 50 anos e
 seus fundadores encomendaram uma
 escultura de pedra para comemorar esse dia.
 Infelizmente, o escultor conseguiu gravar
@@ -1160,8 +1160,8 @@ Toque A, B, C ou D para responder.
 Excelente!
 
 Você conseguiu acompanhar a transição
-do papel em um objeto plano para um
-objeto em 3D?
+do papel de um objeto plano para um
+objeto 3D?
 !******************************!
 Que pena!
 
@@ -1311,7 +1311,7 @@ rotulados A, B e C. Qual túnel o passarinho
 deve pegar para conseguir voltar para
 superfície?
 !******************************!
-Muito legal!
+Muito bem!
 
 O passarinho pode escapar com segurança
 do seu confim subterrâneo usando o túnel B.
@@ -1362,7 +1362,7 @@ forte, a bola passará por cima do buraco.
 Bom trabalho!
 
 Se o nosso amigo golfista der duas tacadas
-diagonais, como mostrado acima, ele pode
+diagonais, como mostrado acima, ele poderá
 colocar a bola no buraco em duas tacadas.
 Ninguém disse que o golfista deveria sempre
 mirar em direção ao buraco, não é?
@@ -1601,7 +1601,7 @@ O resto é com você.
 Abaixo estão quatro peças. Três delas
 formam um cubo quando encaixadas com
 outra metade idêntica. Entretanto, uma
-dessas paças abaixo não obedece esta
+dessas peças abaixo não obedece esta
 regra e não forma um cubo quando unida
 com sua outra metade.
 
@@ -1616,7 +1616,7 @@ para encaixar adequadamente.
 
 De qualquer forma, você poderia, com algumas
 pequenas mudanças, alterar a peça para que
-encaixe adequadamente na sua outra medate,
+encaixe adequadamente na sua outra metade,
 não acha?
 !******************************!
 Que pena!
@@ -1685,7 +1685,7 @@ dos pedaços após cortar a tábua, onde você
 deve fazer o corte para criar um retângulo
 com esses pedaços?
 !******************************!
-Muito legal!
+Muito bem!
 
 Estes enigmas de cortar tábua não são
 tão divertido?
@@ -1856,11 +1856,11 @@ cubos na camada superior.
 Três pessoas em conflito umas com as outras
 estão concorrendo a prefeito na próxima
 eleição da cidade. Todos são habitantes
-da mesma, que possuem um número de 40
+da mesma, que possue um total de 40
 eleitores. Para vencer, um candidato deve
 conseguir mais votos que todos os demais.
 
-Se cada um dos 40 eleitores votarem e todos
+Se cada um dos 40 eleitores votar e todos
 os votos forem computados, qual o número
 mínimo de votos necessário para um
 candidato ter sua vitória garantida?
@@ -2086,17 +2086,16 @@ o prato vermelho para a panqueca maior.
 [n50.dat]
 <0051>Gatos Malucos
 <00><14><0F><0A><11><1E><02><32><E8><03><03><FF>
-Uma das tres imagens coloridas A, B ou C,
+Uma das três imagens coloridas A, B ou C,
 é a mesma em preto e branco mostrada no
-canto esquerdo. Consegue descobri qual é?
+canto esquerdo. Consegue descobrir qual é?
 
-A única diferença é quie a imagem no canto
-esquerdo teve seu conteúdo virado da
-esquerda para a direita e as suas cores
-invertidas e trocadas para preto e branco.
-
+A única diferença é que a imagem no canto
+esquerdo teve seu conteúdo espelhado e
+as suas cores invertidas e trocadas para
+preto e branco.
 !******************************!
-Olhos de águia!
+Que olhos de águia!
 
 B era a imagem que você estava procurando.
 As sobrancelhas do gato na A e o padrão
