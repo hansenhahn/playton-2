@@ -1476,7 +1476,6 @@ azul e C vestia branco. Eles foram então
 vendados e trocaram peças de roupa entre
 si. Após tirarem suas vendas, foi isso o que
 eles disseram:
-
 A: Ninguém tem a camisa e a calça combinando!
 B: Parece que C é o único de nós que não
 manteve nenhuma de suas roupas originais.
@@ -1720,7 +1719,7 @@ Três elásticos estão emaranhados juntos
 a uma corda vermelha onde foi dado um nó
 folgado. Você consegue descobrir quanto
 elásticos serão pegos pelo nó quando as
-extremidades da corda vermelhe forem
+extremidades da corda vermelha forem
 puxadas?
 
 Lembre-se de que mesmo que um elástico
@@ -1830,7 +1829,7 @@ Bem pensado!
 
 D é a única peça das quatro que não encaixa.
 
-Foi difícil de visualizar as peças prenchendo
+Foi difícil visualizar as peças prenchendo
 a caixa?
 !******************************!
 Que pena!
@@ -1854,87 +1853,87 @@ cubos na camada superior.
 <0047>Eleição para Prefeito
 <00><19><16><13><12><1C><16><2E><F6><03><03><FF>
 Três pessoas em conflito umas com as outras
-estão concorrendo a prefeito na próxima
-eleição da cidade. Todos são habitantes
-da mesma, que possue um total de 40
-eleitores. Para vencer, um candidato deve
-conseguir mais votos que todos os demais.
+concorrerão a prefeito na próxima eleição
+da cidade. Todos são habitantes dessa
+cidade, que possui um total de 40 eleitores.
+Para vencer, um candidato deve conseguir
+mais votos que todos os demais.
 
 Se cada um dos 40 eleitores votar e todos
-os votos forem computados, qual o número
+os votos forem validados, qual o número
 mínimo de votos necessário para um
-candidato ter sua vitória garantida?
+candidato ter a sua vitória garantida?
 !******************************!
 Isso mesmo!
 
 O vencedor precisa de, pelo menos, 20 votos.
 
-Visto que cada candidato despreza os demais,
-é muito provável que eles votem em si mesmos.
-40 votos menos esse três dá 37 votos.
-O vencedor precisará de metade desses
-votos, ou 19. Somando o voto do próprio
-candidato vencedor a esse valor, tem-se
-20 votos. Mesmo se um outro candidato
-conseguir os demais 18 votos, isso não seria
+Visto que cada candidato despreza os
+demais, é muito provável que eles votem em
+si mesmos. 40 votos menos esse três resulta
+em 37 votos. O vencedor precisará de metade
+desses votos, ou 19. Somando o voto do
+próprio candidato vencedor a esse valor,
+tem-se 20 votos. Mesmo que outro candidato
+consiga os outros 18 votos, isso não seria
 o bastante para superar o candidato com
 20 votos.
 !******************************!
 Que pena!
 
-Pense direito sobre as pistas
-dadas e tente novamente.
+Pense melhor sobre as pistas dadas e
+tente novamente.
 !******************************!
-Pense em quantos votos serão efetuados
+Pense em quantos votos serão feitos
 na cidade, excluindo aqueles feitos pelos
 próprios candidatos.
 !******************************!
 Os três candidatos também podem votar.
 
 Obviamente, já que todos desejam vencer,
-é possível tomar como certo que eles
-irão votar em si mesmos.
+podemos dar como certo que eles irão
+votar em si mesmos.
 !******************************!
 40 votos menos os três votos feitos
-pelos candidatos dá 37 votos.
+pelos candidatos resulta em 37 votos.
 
-Encontre o número de votos que dá a
-maioria em um conjunto de 37 eleitores
-e some a isso mais um voto para se
-obter a sua resposta.
+Qual é o número de votos necessários
+para ser a maioria em um conjunto de
+37 eleitores? Some a esse valor mais
+um voto e você terá a sua resposta.
 !******************************!
 [n47.dat]
-<0048>Quem é o Sr. Anderson?
+<0048>Cadê o Sr. Anderson?
 <00><19><16><13><11><1D><05><2F><EB><03><03><FF>
-<''>Acabei de ver o Sr. Anderson por aqui tem
-nem um minuto. Não deve ser difícil achá-lo,
-com aquela barba e aquele chapéu dele.
-Aham, ele é um verdadeiro cavalheiro,
-e sempre parece culto com aquela bengala
-dele e a sua singela e elegante gravata-
+<''>Acabei de ver o Sr. Anderson por aqui não
+faz nem um minuto. Mas não vai ser difícil
+achá-lo, com aquela barba e aquele seu
+chapéu. Aham, ele é um verdadeiro cavalheiro,
+e sempre parece culto com aquela sua
+bengala e a sua singela e elegante gravata-
 borboleta. Ah, cabe ressaltar que ele não
-usa óculos, se queria saber. Olha lá ele lá!<''>
+usa óculos, se quer saber. Olha lá ele lá!<''>
 
 Usando as pistas dadas na citação acima,
-consegue encontrar e circular o Sr.
-Anderson na multidão?
+você consegue encontrar e circular
+o Sr. Anderson na multidão?
 !******************************!
-Olhos de águia!
+Que olhos de águia!
 
-Parece que o vento tentou levar o
-chapéu do Sr. Anderson para longe!
+Parece que o vento tentou levar o chapéu
+do Sr. Anderson para longe!
 !******************************!
 Que pena!
 
-Pense melhor sobre as pistas que
-lhe foram dadas e tente novamente.
+Pense melhor sobre as pistas dadas e
+tente novamente.
 !******************************!
 Tenha em mente que toda essa informação
-descreve o Sr. Anderson como ele estava
+descreve como o Sr. Anderson estava
 <''>um minuto atrás<''>.
 
 As coisas podem mudar, então não
-dependa tanto assim da descrição.
+se apegue tanto assim da descrição.
 !******************************!
 O vento na cidade de Dropstone parece
 excepcionalmente forte hoje, não acha?
@@ -1947,54 +1946,53 @@ atrás do próprio chapéu? É ele!<''>
 <00><14><10><0C><11><17><05><30><EB><03><03><FF>
 Em um país muito, muito distante, havia um rei
 cujo passatempo predileto era ostentar as
-suas últimas posses adquiridas. Os súditos
-do reinos eram proibidos de comprar coisas
-novas até que o rei as possui por mais de um
-mês. Somente quando ele estivesse cansado
+suas últimas aquisições. Os súditos do reino
+eram proibidos de comprar coisas novas até
+que o rei as possuisse por mais de um mês.
+Somente quando ele estivesse cansado
 de sua nova aquisição que o povo poderia
 finalmente comprar a mesma para si.
 
-Todavia, num dado dia, o rei trouxe um novo
+Todavia, num dado dia, o rei comprou um novo
 objeto que o obrigou a ordenar aos seus
-súditos a comparem um o quanto antes.
-Circule o objeto.
+súditos a comprarem um o quanto antes.
+Circule esse objeto.
 !******************************!
-Resposta exata!
+Exatamente!
 
-O telefone é a resposta. 
-Afinal, um telefone não é de muita valia se
-não houver alguém do outro lado da linha.
+O telefone é a resposta certa. Afinal,
+um telefone não é de muita valia se não
+houver alguém do outro lado da linha.
 !******************************!
 Que pena!
 
 Se você quisesse ostentar sua mais nova
-aquisição, qual destes objetos acha que
-seria o mais complicado de se fazer
-devidamente?
+aquisição, qual destes objetos seria
+o mais complicado de ser fazer isso?
 !******************************!
-Quem não iria querer ostentar seu
-novo carro ou televisão um pouco?
+Quem não iria querer ostentar seu carro
+ou televisão novos um pouco?
 !******************************!
-Há um objeto nesta lista que não
-tem utilidade a nõa ser que dois
-ou mais do mesmo existam.
+Há um objeto nesta lista que não tem
+utilidade a não ser que existam dois ou
+mais do mesmo.
 !******************************!
 O objeto em questão poderia até estar
 funcionando perfeitamente, mas o único
 jeito de ostentá-lo é se você usá-lo
-com outro do mesmo.
+com outro igual.
 !******************************!
 [n49.dat]
 <0050>Vacaos
 <00><1E><1B><18><12><1D><03><31><E9><03><03><FF>
 Cinco vacas estão pastando no festival.
-Duas elas são vacas Vidadi, uma raça que só
+Duas delas são vacas Vidadi, uma raça que só
 diz a verdade. As outras três são vacas
 Midira, uma variedade diferente que sempre
 mente. Use as seguintes afirmações sobre
 cada vaca para descobrir quais vacas são
-mentirosas. Toque  em uma letra para
-marcá-la com um X.
+mentirosas. Toque as letras para
+marcá-las com um X.
 
 A: D é uma Midira. Eu juro.
 B: Ah, não, C não é uma vaca Vidadi.
@@ -2004,28 +2002,27 @@ E: B definitivamente não é uma Vidadi.
 !******************************!
 Isso mesmo!
 
-As vacas A, C e E são Midira.
-Supondo que cada vaca possa ser 
-uma Midira ou uma Vidadi e passando 
-pelas afirmações de cada vaca, 
-você eventualmente perceberá
-que a única vez que há três
-Midira é quando elas são A, C e E.
+As vacas A, C e E são Midira. Supondo
+que cada vaca possa ser uma Midira ou uma
+Vidadi e passando pelas afirmações de cada
+vaca,  você eventualmente perceberá que
+todas as afirmações são verdades apenas
+quando A, C e E são Midiras.
 !******************************!
 Que pena!
 
-Pense melhor sobre o que as vacas
-disseram e tente novamente.
+Pense melhor sobre o que as vacas disseram
+e tente novamente.
 !******************************!
-Não pense muito nesta.
-Visualize todas as várias possibilidades
-e vá testando cada uma.
+Não pense muito neste enigma. Visualize
+todas as várias possibilidades e vá
+testando cada uma.
 !******************************!
 Atribua uma raça a uma vaca e então
-passa por todas as afirmações das
-vacas para verificar se estão
-consistentes. Você uma hora irá se
-deparar com a solução do problema.
+passe por todas as afirmações das vacas
+para verificar se estão consistentes.
+Você uma hora irá se deparar com a
+solução do problema.
 !******************************!
 Vamos supor por um momento que a vaca A
 é uma Vidadi. Se fizer isso e passar por
@@ -2055,7 +2052,7 @@ as panquecas quantas vezes você quiser.
 !******************************!
 Delicioso!
 
-Esse enigma é, na verdade, uma variação
+Este enigma é, na verdade, uma variação
 do famoso <''>Torre de Hanói<''>, um enigma
 inventando por um matemático francês
 em 1883.
@@ -2088,7 +2085,8 @@ o prato vermelho para a panqueca maior.
 <00><14><0F><0A><11><1E><02><32><E8><03><03><FF>
 Uma das três imagens coloridas A, B ou C,
 é a mesma em preto e branco mostrada no
-canto esquerdo. Consegue descobrir qual é?
+canto esquerdo. Você consegue descobrir
+qual é?
 
 A única diferença é que a imagem no canto
 esquerdo teve seu conteúdo espelhado e
@@ -2104,198 +2102,211 @@ da imagem no canto esquerdo.
 !******************************!
 Que pena!
 
-Estude os detalhes de cada imagem
-mais uma vez.
+Estude os detalhes de cada imagem mais
+uma vez.
 !******************************!
 Comparar A, B ou C com a imagem no
-canto esquerda é trabalhoso e pode
+canto esquerdo é trabalhoso e pode
 ser complicado achar as diferenças.
 
-Que tal esquecer sobre essa imagem por
-um momento e só focar em encontrar as
-diferenças entre A, B e C?
+Que tal esquecer essa imagem por um
+momento e focar apenas em encontrar
+as diferenças entre A, B e C?
 !******************************!
-Não se esqueça de olhar essas
-linhas no fundo.
+Não se esqueça de olhar as linhas
+no plano de fundo.
 !******************************!
-As sobrancelhas dos gatos valem a
-pena olhar também!
+Vale também a pena olhar as
+sombrancelhas dos gatos!
 !******************************!
 [n51.dat]
 <0052>Chapéu do Tempo
 <00><1E><1B><18><71><18><0B><33><F1><03><03><FF>
-Há um rapaz com certas regra específicas
-sobre quando usar o seu chapéu.
-<60> Quando está sol, ele usa o chapéu.
-<60> Quando está chovendo, ele não o usa.
-<60> Quando está nublado, ele não usa o chapéu
+Há um rapaz com certas regras específicas
+sobre quando usar ou não o seu chapéu.
+<60> Quando está sol, ele usa chapéu.
+<60> Quando está chovendo, ele não usa chapéu.
+<60> Quando está nublado, ele não usa chapéu
 a não ser que esteja nublado por dois dias
-seguidos, quando, então, ele usa seu chapéu
-no segundo dia desse caso.
+seguidos. Nesse caso, ele usa seu chapéu
+no segundo dia.
 
-Abaixo segue uma tabela de quando esse
-rapaz decidiu usar seu chapéu no decorrer
-de uma semana. Use os painéis para preencher
-com o tempo de cada dia da semana.
+Segue abaixo uma tabela dos dias em
+que o rapaz decidiu usar o seu chapéu no
+decorrer de uma semana. Use as placas
+para preencher com o tempo de cada dia
+dessa semana.
 !******************************!
 Excelente!
 
 Se você considerar que a Segunda-Feira
-mostrada era o segundo dia  seguido de
+mostrada era o segundo dia seguido de
 tempo nublado, então nosso amigo deve ter
 usado seu chapéu nesse dia. O resto da
-solução, então, acaba fazendo sentido.
+solução, então, acaba sendo muito fácil.
 !******************************!
 Que pena!
 
-Pense direito sobre as regras do homem
-acerca de seu chapéu e tente novamente.
+Pense bem sobre as regras do rapaz em
+relação ao seu chapéu e tente novamente.
 !******************************!
-Comece colocando uma placa indicando chuva em
-cada dia que nosso amigo não usou o chapéu.
+Comece colocando uma placa indicando
+chuva em cada um dos dia em que nosso
+amigo não usou o chapéu.
 !******************************!
-Quando você colocar as placas indicando chuva
-como sugerido na Dica 1, você deve notar que
-não há mais espaço sobrando para suas placas
-que indicam nuvens.
+Após colocar as placas indicando chuva
+como sugerido na Dica 1, você vai notar
+que não há mais espaço sobrando para
+suas placas que indicam nuvens.
 
 Você poderia colocá-la em um dos dias com
 chapéu se esse dia fosse o segundo dia
 seguido de tempo nublado, mas não parece
 haver um caso assim nessa semana.
 !******************************!
-Se o tempo estava nublado no Domingo da
-semana passada, ele poderia usar seu
-chapéu na Segunda-Feira.
+Se o tempo estivesse nublado no Domingo
+da semana passada, então ele teria usado
+seu chapéu na Segunda-Feira.
 !******************************!
 [n52.dat]
 <0053>Clube do Bolinha
 <00><1E><1B><18><11><1C><05><34><EB><03><03><FF>
-Abaixo está uma roda de retratos de homens e
-mulheres. Selecione um retrato e, contando
-esse retrato como um, mova seis retratos ou
-no sentido horário ou no sentido anti-horário
-e risque o último desses seis retratos.
-Repita o procedimento, começando do próximo
-retrato disponível e sempre movendo-se na
-mesma direção. Lembre-se de pular os que você
-já riscou. Se você começar pelo retrato certo,
-poder-se-á remover todas as mulheres na roda,
-deixando somente os seis retratos de homens.
-Qual retrato é esse? Circule sua resposta.
-Lembre-se de que você se mover tanto no sentido
-horárioo como no sentido anti-horário.
+Abaixo está uma roda com retratos de homens
+e mulheres. Escolha um retrato e, sendo
+esse o primeiro, conte seis retratos no
+sentido horário ou anti-horário e risque o
+último. Repita esse procedimento, começando
+do próximo retrato disponível e sempre
+contando na mesma direção. Lembre-se de
+pular os que você já riscou. Se você começar
+pelo retrato certo, poderá remover todas
+as mulheres da roda, deixando somente os
+seis retratos de homens. Qual é esse
+retrato? Circule sua resposta. Lembre-se
+de que você pode contar tanto no sentido
+horário quanto no sentido anti-horário.
 !******************************!
 Muito bem!
 
-Se você começar contando por esse homem,
-e prosseguir no sentido anti-horário pela roda,
-você irá eventualmente remover todos os retratos
-de mulheres.
+Se você começar por esse homem e contar no
+sentido anti-horário, você irá eventualmente
+remover todos os retratos de mulheres.
 !******************************!
 Que pena!
 
-Tente resolve o enigma novamente.
+Tente resolver o enigma novamente.
 !******************************!
-O primeiro retrato que você escolher
-deverá ser o de um homem.
+O primeiro retrato que você deve
+escolher é o de um homem.
 !******************************!
-Mova-se no sentido anti-horário
-para achar a sua resposta.
+Conte no sentido anti-horário para
+achar a sua resposta.
 !******************************!
-O primeiro retrato que você deve remover é
-o de uma garota posicionada às cinco horas.
+O primeiro retrato que você deve
+remover é o de uma garota posicionada
+às cinco horas.
 !******************************!
 [n53.dat]
 <0054>Pintando a Bandeira
 <00><19><16><13><12><19><16><35><F6><03><03><FF>
-Você tem uma bandeira nova que gostaria de
-pintar nas três partes mostradas abaixo.
-Você tem três tintas.
+Você tem uma bandeira nova que gostaria
+de pintar em três partes, como mostrado
+abaixo. Você tem apenas três tintas.
 
 Duas partes adjacentes da bandeira não
 podem ser da mesma cor, cada parte só pode
-ter uma cor e não pode mudar o número ou
-o tamanho de cada parte.
+ter uma cor e você não pode mudar o número
+ou o tamanho das partes.
 
-Se também não for permitido misturar as tintas,
-quantos modelos de bandeira são possíveis?
-
+Se também não for permitido misturar as
+tintas, quantas formas diferentes de pintar
+a bandeira são possíveis?
 !******************************!
-Bem afiado!
+Muito bem pensado!
 
-Assim que você incorporar a cor branca da
-bandeira não pintada nas suas possibilidades,
-na verdade terá quatro cores pra trabalhar.
-Se você escolher uma cor na parte da
-esquerda e listar todos os padrões possíveis,
-terá um total de nove variações.
+Uma vez que você passa a considerar a cor
+branca da bandeira não pintada nas suas
+possibilidades, você terá portanto quatro
+cores para trabalhar. Se você escolher uma
+cor para parte da esquerda e listar todos
+os padrões possíveis, você terá um total de
+nove variações.
 
 Multiplique esse número por quarto, que
-representa o número de cores a sua
-disposição pra ter a resposta: 36 variações.
+representa o total de cores a sua
+disposição para chegar a resposta de
+36 variações.
 !******************************!
 Que pena!
 
 Tente resolver esse enigma mais uma vez.
 !******************************!
-Você tem três tintas pra usar na bandeira,
-mas isso não significa que essas são
-as únicas cores à sua disposição.
+Você tem três tintas para usar na
+bandeira, mas isso não significa que
+essas são as únicas cores à sua
+disposição.
 !******************************!
 Talvez você já tenha percebido que a
 cor branca do tecido da bandeira é
 outra cor que você pode usar para
-criar padrões.
+criar os padrões.
 !******************************!
-Adicionando o branco nas três tintas que
-você tem, haverão quatro cores que serão
-possíveis de usar pra criar a bandeira.
+Adicionando o branco nas três tintas
+que você tem, haverão quatro cores que
+serão possíveis de serem usar para
+criar a bandeira.
 
-Se a parte esquerda da sua bandeira for
-vermelha, por exemplo, então combinando
-outras duas cores e a própria cor branca
-da bandeira nas duas partes restantes lhe
-dará um total de nove padrões distintos.
+Imagine, por exemplo, que a parte
+esquerda da sua bandeira será vermelha.
+Portanto, usar as outras duas cores
+e a própria cor branca da bandeira nas
+duas partes restantes resultará em um
+total de nove padrões distintos.
 !******************************!
 [n54.dat]
 <0055>O Colar do Sammy
 <00><1E><1B><18><11><15><16><36><F6><03><03><FF>
-Sammy tem oito correntes com sete elos cada.
-Ele quer ligar todas essas correntes para formar
-um colar. O joaleiro diz que custará <po>2 sempre
-que abrir e fechar um único elo.
+Sammy tem oito correntes com sete elos
+cada. Ele deseja ligar essas correntes para
+formar um colar. O joalheiro diz que custará
+<po>2 sempre que for necessário abrir e fechar
+um elo.
 
-Como mostrado abaixo, Sammy poderia abrir uma
-extremidade de cada uma das oitos correntes para
-formar um grande colar. Todavia, isso custará <po>16,
-e a verdade é que há meios mais  baratos de se obter
-o mesmo resultado. Usando o método mais barato possível,
-quanto custará para se formar o colar?
+Como mostrado abaixo, Sammy poderia abrir
+a extremidade de cada uma das oito
+correntes para formar um grande colar.
+Todavia, isso custará <po>16, e a verdade é
+que há meios mais baratos de se obter o
+mesmo resultado. Usando o método mais
+barato possível, quanto custará para
+fazer o colar?
 !******************************!
-Ponto!
+É rede!
 
-Pegue um dos sete elos de correntes do Sammy,
-separe cada um e use-os para ligar as pequenas
-correntes restantes, como mostrado na ilustração.
+Pegue uma das correntes do Sammy e separe
+cada um dos sete elos e use-os para unir
+as pequenas correntes restantes, como
+mostrado na ilustração.
 
 Se o Sammy usar esse método, ele poderá
-conseguir o colar de seus sonhos por apenas <po>14.
+conseguir o colar dos seus sonhos por
+apenas <po>14.
 !******************************!
 Que pena!
 
-Tente resolve o enigma de novo.
+Tente resolver o enigma de novo.
 !******************************!
-O número de elos em cada pequena corrente
-é uma pista crucial que ajudar-lo-á a
-a solucionar o enigma.
+O número de elos em cada corrente 
+é uma informação crucial para solucionar
+este enigma.
 !******************************!
-Voce não esteve só abrindo os elos nas
-extremidades de cada pequena corrente, né?
+Voce não esteve apenas abrindo os elos
+nas extremidades de cada corrente, né?
 !******************************!
-Tente pegar uma pequena corrente, abrir cada
-um de seus sete elos e usar aqueles elos abertos
-ligar com as outras pequenas correntes.
+Tente pegar uma das correntes, abrir
+cada um dos seus sete elos e usar
+esses elos abertos para unir as demais
+correntes.
 
 A resposta está mais clara agora?
 !******************************!
@@ -2305,12 +2316,11 @@ A resposta está mais clara agora?
 Para conseguir passar por essa porta, Luke
 e Layton devem organizar os símbolos de
 acordo com as seguintes regras:
-
-<->A estrela deve estar próxima da lua.
-<->O X deve ser o segundo de cima.
-<->O círculo deve estar em algum lugar
+<60> A estrela deve estar próxima da lua.
+<60> O X deve ser o segundo de cima.
+<60> O círculo deve estar em algum lugar
 acima do diamante.
-<->A lua deve estar localizada duas casas
+<60> A lua deve estar localizada duas casas
 abaixo do diamante.
 
 Dê um palpite!

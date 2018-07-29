@@ -9,7 +9,7 @@ Será que os rumores são verdadeiros?
 cidade de Luxenbelle.
 !******************************!
 [t13_020_300.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Então como fazemos para chegar
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Então como fazemos pra chegar
 até a cidade fantasma?
 !******************************!
 [t13_020_400.gds]

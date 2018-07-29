@@ -600,7 +600,7 @@ caso que está investigando?
 <01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:475>Não que seja da sua conta, mas talvez
 você possa ser de grande ajuda.<W>
 !------------------------------!
-Ouvi rumores que ele tentou
+Ouvi rumores de que ele tentou
 encontrar essa Caixa Elísia no
 passado, então fui falar com ele.<W>
 !------------------------------!
@@ -612,9 +612,9 @@ Dá pra acreditar?<W> Veja bem, não
 me surpreenderia se ele estivesse
 fingindo não estar em casa.<W>
 !------------------------------!
-Como não pude ver o homem, saí de
-lá. Deviam ter, no mínimo, me oferecido
-um chazinho!
+Como não pude ver o homem, fui
+embora. Deviam ter, no mínimo, me
+oferecido um chazinho!
 !******************************!
 [t12_130_700.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:81>Mas por que o Sr. Anderson
@@ -721,7 +721,7 @@ há anos.<W>
 !------------------------------!
 Até onde sei dizer, esse artefato
 que está atrás, a Caixa Elísia,
-também está ligada a esta cidade.
+também está ligada a essa cidade.
 !******************************!
 [t12_160_500.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:58>Uau! Então quando podemos ir
@@ -736,17 +736,17 @@ dentro do trem e SUOOISH, o trem
 segue rumo a uma nova direção.<W>
 !------------------------------!
 De todo modo, talvez seja algo do
-tipo. Terei de continuar procurando
-até achar um jeito de entrar.
+tipo. Só vou descobrir depois que
+achar um jeito de entrar.
 !******************************!
 [t12_160_700.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:39>Interessante. Obrigado pelo
 seu tempo.
 !******************************!
 [t12_160_750.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:92>Professor, você ouviu isso?!<W> Acho
-que finalmente achamos uma nova
-pista da Caixa Elísia.
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:92>Professor, você ouviu isso?!<W>
+Acho que finalmente achamos uma
+nova pista da Caixa Elísia.
 !******************************!
 [t12_160_800.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:182>Ainda é meio cedo para comemorar,
@@ -888,7 +888,7 @@ estava vagando por aí.
 <01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:163>Parece que você teve bastante
 progresso em sua investigação hoje.<W>
 !------------------------------!
-Me diga, durante o curso de suas
+Diga-me, durante o curso de suas
 investigações, você não chegou a
 ouvir nada da minha filha, por acaso?
 !******************************!
@@ -919,8 +919,8 @@ eu não seja de muita ajuda.
 <01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:122>Katia é minha - não, nossa - 
 filha única.<W>
 !------------------------------!
-Ela é tudo para mim e estarei
-para sempre em débito com você,
+Ela é tudo pra mim e estarei
+pra sempre em débito com você,
 se puder me ajudar.
 !******************************!
 [t12_220_800.gds]
@@ -1014,7 +1014,7 @@ Não é do feitio de um cavalheiro.
 !******************************!
 [t12_300_100.gds]
 <01:00000015><03:5>NONE<03:5>NONE<01:00000002><03:299>Meu deus. Meu deus. O trem vai
-partir a qualquer minuto, e ela
+partir a qualquer minuto e ela
 ainda não chegou.<W>
 !------------------------------!
 Os esforços de todos terão sido em

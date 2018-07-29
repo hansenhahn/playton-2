@@ -320,14 +320,14 @@ Para onde uma criancinha poderia
 ter ido, sem a ajuda de ninguém?
 !******************************!
 [id_6.txt]
-Katia é filha única do homem mais
+Katia, a filha única do homem mais
 influente de Dropstone, Sr. Anderson,
-e entrou a bordo do Molentary
-Express. Embora várias pessoas da
-cidade tenham vindo se despedir,
-ainda sim ela viajou sozinha. Para
-onde Katia está indo, e por que
-ninguém a está acompanhando?
+embarcou no Molentary Express.
+Embora várias pessoas do vilarejo
+tenham vindo se despedir, ainda
+sim ela viajou sozinha. Para onde
+Katia está indo, e por que ninguém
+a está acompanhando?
 !******************************!
 [id_7.txt]
 Minutos após a chegada do
@@ -539,15 +539,16 @@ tipo de relacionamento, apesar de eu
 não entender totalmente qual é.
 !******************************!
 [d_13.txt]
-Graças a Luke, o desfile das vacas
+Graças ao Luke, o desfile das vacas
 foi concluído como planejado. Mudando
 de assunto, rumores chegaram aos meus
 ouvidos sobre uma misteriosa cidade
 fantasma acessível apenas pelo
-Molentary Express. Assim que voltarmos
-ao trem, eu gostaria de examiná-lo
-exaustivamente para ver se há algum
-resquício de verdade nesses rumores.
+Molentary Express. Assim que
+voltarmos ao trem, eu gostaria de
+examiná-lo exaustivamente para ver
+se há algum resquício de verdade
+nesses rumores.
 !******************************!
 [d_14.txt]
 No caminho de volta para a estação,
@@ -1183,7 +1184,7 @@ O Desfile das Vacas
 Planos de Fuga do Lar
 !******************************!
 [t_12.txt]
-Memórias do Sr. Anderson
+As Memórias do Sr. Anderson
 !******************************!
 [t_13.txt]
 Rumores de uma Cidade Fantasma
@@ -3095,7 +3096,7 @@ onde os enigmas perdidos
 são guardados.
 !******************************!
 [chr_72.txt]
-Graças a Luke, nosso
+Graças ao Luke, nosso
 pequeno amigo conseguiu
 entrar em forma. Porém,
 a quantidade gigante de

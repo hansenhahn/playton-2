@@ -196,7 +196,7 @@ em sua investigação e retornam para
 ver o desfile.
 !******************************!
 [t18_210_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Graças a Luke, o desfile das vacas
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>Graças ao Luke, o desfile das vacas
 termina sem incidentes.
 !******************************!
 [t18_210_200.gds]
@@ -210,7 +210,7 @@ procurar pelo Sr. Anderson antes
 de voltarem para a estação.
 !******************************!
 [t18_220_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:172>Graças a Luke, o desfile das vacas
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:172>Graças ao Luke, o desfile das vacas
 termina sem incidentes.<W>
 !------------------------------!
 Com pouco tempo restando até a

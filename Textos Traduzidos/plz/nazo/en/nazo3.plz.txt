@@ -2988,7 +2988,7 @@ com quatro números dê a mesma soma total.
 
 Resolva o quadrado mágico e abra a escotilha!
 !******************************!
-Muito legal!
+Muito bem!
 
 Cada linha vertical, horizontal e diagonal
 de quatro números somam 18 quando postos

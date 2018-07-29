@@ -32,7 +32,7 @@ Volte para a Estação de Trem!
 Encontre o Romie!
 !******************************!
 [goal_190.txt]
-Volta para o Trem!
+Volte para o Trem!
 !******************************!
 [goal_20.txt]
 Vá para o Andar do Dr. Schrader!

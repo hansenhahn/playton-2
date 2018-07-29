@@ -129,7 +129,7 @@ chamado Sr. Anderson. Esse seria você?
 !******************************!
 [t22_033_1000.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:102>Então ela também esteve à sua
-procura?<W> Fascinante. Me diga,
+procura?<W> Fascinante. Diga-me,
 qual o paradeiro atual da Sophia?
 !******************************!
 [t22_033_1100.gds]
@@ -226,8 +226,8 @@ amigos viemos a este belo lugar em
 busca da Caixa Elísia.<W>
 !------------------------------!
 Imaginei que um homem influente
-como você poderia saber algo
-do assunto.
+como você poderia saber de algo
+sobre o assunto.
 !******************************!
 [t22_033_400.gds]
 <01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:88>A Caixa Elísia?<W> Por que deseja ir atrás
@@ -235,7 +235,7 @@ dessa coisa?
 !******************************!
 [t22_033_500.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:36>Presumo que você esteja
-familiarizado com isto?
+familiarizado com isso?
 !******************************!
 [t22_033_600.gds]
 <01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:183>Familiarizado? Não. Eu ouvi os
@@ -302,7 +302,7 @@ com ele criando caso, mas não
 sei como resolver a situação.
 !******************************!
 [t22_040_1200.gds]
-<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:88>Deixa que eu resolvo isso! Se tem 
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:88>Deixe que eu resolvo isso! Se tem 
 alguém que sabe o que se passou
 aqui, são as vacas!
 !******************************!
@@ -344,7 +344,7 @@ cavalheiros tão aborrecidos?
 [t22_040_400.gds]
 <01:00000011><03:5>NONE<03:5>NONE<01:00000001><03:179>Veja só esse couro sarnento!
 Qualquer um com dois olhos consegue
-ver que esse bovino não é dos meus!<W>
+ver que essa vaca não é das minhas!<W>
 !------------------------------!
 Eu sei o que está havendo aqui.
 Alguém trocou minha vaca premiada
@@ -368,8 +368,8 @@ a ficar feio.
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:22>O que houve, senhor?
 !******************************!
 [t22_040_900.gds]
-<01:00000030><03:11>b1 normal2<03:5>NONE<01:00000002><03:83>Esse cara aqui tá convencido que
-alguém trocou sua vaca premiada
+<01:00000030><03:11>b1 normal2<03:5>NONE<01:00000002><03:83>Esse cara aqui tá convencido de
+que alguém trocou sua vaca premiada
 por outra vaca.
 !******************************!
 [t22_041_100.gds]
@@ -602,7 +602,7 @@ Professor Layton?
 funcionar, iremos à próxima cidade.
 !******************************!
 [t22_083_300.gds]
-<01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:225>Ah, então espero que se encontrem
+<01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:225>Ah! Então espero que se encontrem
 com a jovem mestra. Ela deixará a
 cidade hoje, no Molentary Express.<W>
 !------------------------------!
@@ -927,7 +927,7 @@ tentar tentar o enigma mais tarde.
 !------------------------------!
 Bom, pela aparência de vocês, diria
 que já são homens feitos. Vejamos se
-esse enigma cai bem em vocês.
+este enigma cai bem em vocês.
 !******************************!
 [t22_151_100.gds]
 <01:0000003A><03:5>NONE<03:5>NONE<01:00000002><03:83>Será que resolver esse enigma
@@ -972,7 +972,7 @@ verde de tanta inveja, né?<W>
 !------------------------------!
 De todo modo, o Sr. Anderson tem
 uma filhinha que cresceu e
-tornou-se uma bela jovem.<W>
+se tornou uma bela jovem.<W>
 !------------------------------!
 Seu nome é Katia e ela é a mais
 incomum combinação de beleza
@@ -1018,7 +1018,7 @@ nada a dizer, por favor, vá embora.
 !******************************!
 [t22_163_100.gds]
 <01:00000032><03:5>NONE<03:5>NONE<01:00000003><03:206>Ora, fala sério! Jamais pensei
-que fosse resolver esse enigma.<W>
+que fosse resolver este enigma.<W>
 !------------------------------!
 Você parece ser um bom homem, então
 serei direta com você. Não pergunte
@@ -1076,7 +1076,7 @@ enigma sem solução? Eu passei
 pra você meu melhor enigma!
 !******************************!
 [t22_180_100.gds]
-<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:209>Ah caramba, tô numa enrascada.
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:209>Ah, caramba, tô numa enrascada.
 Queria cortar esta tábua de
 madeira, mas estraguei ela toda.<W>
 !------------------------------!
@@ -1260,7 +1260,7 @@ falar dessa caixa idiota, tá?
 !******************************!
 [t22_223_100.gds]
 <01:0000003C><03:5>NONE<03:5>NONE<01:00000003><03:97>Cruz credo, você deve ser meio
-que um gênio de enigmas!<W> Ah, tá,
+que um gênio dos enigmas!<W> Ah, tá,
 o que queria saber mesmo?
 !******************************!
 [t22_223_200.gds]
@@ -1268,7 +1268,7 @@ o que queria saber mesmo?
 algo sobre a Caixa Elísia.
 !******************************!
 [t22_223_300.gds]
-<01:0000003C><03:9>b1 smile<03:5>NONE<01:00000003><03:102>Deixa eu ver... Deixa eu ver...<W> Não,
+<01:0000003C><03:9>b1 smile<03:5>NONE<01:00000003><03:102>Deixe eu ver... Deixe eu ver...<W> Não,
 não faço nem ideia. Se eu fosse você,
 ia perguntar pra outro.
 !******************************!
@@ -1358,7 +1358,7 @@ enigma certo pra você!
 do gato de novo, Professor?
 !******************************!
 [t22_252_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Essa escultura realmente é bela.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Essa escultura é realmente bela.
 Eu adoro gatos.
 !******************************!
 [t22_253_100.gds]
@@ -1516,10 +1516,10 @@ vocês, chapas?<W> Bem legal, né!<W>
 !------------------------------!
 O trem ainda não está pronto pra
 partir, então enquanto esperam, vou
-deixar esse enigma aqui pra vocês.
+deixar este enigma aqui pra vocês.
 !******************************!
 [t22_291_100.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:88>Qualé? Não querem voltar à sua cabine
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:88>Qualé? Não querem voltar às suas cabines
 até terem resolvido meu enigma?
 Beleza então.
 !******************************!
