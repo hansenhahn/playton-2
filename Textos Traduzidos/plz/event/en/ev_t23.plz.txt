@@ -3,12 +3,12 @@
 !******************************!
 [t23_000_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:188>Tem algo escrito na placa da porta.
-Na verdade, parece ser algum
-tipo de enigma.<W>
+Na verdade, parece ser algum tipo
+de enigma.<W>
 !------------------------------!
 Tenho a suspeita de que se pudermos
-resolver este enigma, ganharemos
-acesso ao vagão.
+resolver esse enigma, ganharemos
+acesso ao vagão de luxo.
 !******************************!
 [t23_001_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:103>Se eu for capaz de decifrar o
@@ -24,7 +24,7 @@ estilo de um cavalheiro. Vamos tentar
 resolver este enigma outra vez.
 !******************************!
 [t23_010_100.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:48>Ah, Professor, esta cabine
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:48>Ah, Professor! Esta cabine
 é de tirar o fôlego!
 !******************************!
 [t23_010_200.gds]
@@ -70,7 +70,7 @@ Você, cara!
 [t23_010_800.gds]
 <01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:176>O titio Beluga... ahm, quero dizer,
 o chefe mandou eu animar o lugar com
-umas florezinhas.<W>
+umas florzinhas.<W>
 !------------------------------!
 Alguma ideia de onde botá-las
 pra fazer este canto inteiro
@@ -78,7 +78,7 @@ cheirar legal?
 !******************************!
 [t23_010_900.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:93>Mas é claro. Não deverá ser difícil
-encrontrar um bom lugar para flores
+encontrar um bom lugar para flores
 tão delicadas como essas.
 !******************************!
 [t23_011_100.gds]
@@ -90,24 +90,24 @@ pro seu amigo Sammy Thunder.
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:19>Pronto. Que tal?
 !******************************!
 [t23_013_200.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:111>Ah, espetacular. Nada de outro mundo,
-mas marca presença. Tenho certeza que
-o chefinho vai amar.
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:111>Ah, espetacular! Nada de outro mundo,
+mas marca presença. Tenho certeza de
+que o chefinho vai amar.
 !******************************!
 [t23_013_300.gds]
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:4>...
 !******************************!
 [t23_013_400.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:92>Bom, em todo caso, descansa, fica
-numa boa, e curte aí o resto de sua
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:92>Bem, em todo caso, descanse, fique
+numa boa e curte aí o resto da sua
 viagem no Molentary Express.
 !******************************!
 [t23_013_500.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:30>Que cheiro bom ficou aqui!
 !******************************!
 [t23_013_600.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:31>Humm, sim, muitíssimo
-agradável, eu diria.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:31>Humm, sim, muitíssimo agradável,
+eu diria.
 !******************************!
 [t23_013_700.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:193>Mas de volta a missão.
@@ -138,7 +138,7 @@ Estou... sonhando?
 <01:00000001><03:11>b1 notalk2<03:5>NONE<01:00000005><03:7>Hum...
 !******************************!
 [t23_023_300.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:132>...Hum?<W>
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:132>... Hum?<W>
 !------------------------------!
 Credo, devo ter dormido no sofá.<W>
 Que irresponsabilidade da minha parte.<W>
@@ -147,32 +147,32 @@ Você sabe o que aconteceu dentro
 do túnel, Luke?
 !******************************!
 [t23_023_400.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:188>Desculpa, Professor, mas eu dormi
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:188>Desculpe, Professor, mas eu dormi
 o tempo todo.<W> Também tive um sonho
 estranhíssimo.<W>
 !------------------------------!
 Nele, uma parte do Molentary Express
-trocou de trilhos enquanto estávamos
+trocava de trilhos enquanto estávamos
 dentro do túnel.
 !******************************!
 [t23_023_500.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:238>Trocou os trilhos?<W> Está sugerindo
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:238>Trocava de trilhos?<W> Está sugerindo
 que um dos vagões do trem agora está
 seguindo um caminho diferente?<W>
 !------------------------------!
 Talvez não tenha sido um sonho,
-à final de contas.<W>
+afinal de contas.<W>
 !------------------------------!
 Se um vagão se soltou do trem,
-ele não estaria mais seguindo
-rumo a Luxenbelle.
+ele não estaria mais seguindo rumo
+a Luxenbelle.
 !******************************!
 [t23_023_600.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:58>Talvez este vagão seja o jeito
 de chegar àquela cidade fantasma!
 !******************************!
 [t23_023_700.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:64>Estou começando a suspeitar
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:64>Estou começando a suspeitar de
 que você acertou em cheio, Luke.
 !******************************!
 [t23_023_800.gds]

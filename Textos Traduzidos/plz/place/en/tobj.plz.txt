@@ -536,8 +536,8 @@ Esta toalha de mesa
 é mais branca que cal.
 !******************************!
 [tobj35.txt]
-As taças de vidro tem
-gravuras intrincadas.
+As taças de vidro têm
+intrincadas gravuras.
 !******************************!
 [tobj36.txt]
 Posso apostar que

@@ -94,10 +94,10 @@ maçãs.
 !******************************!
 [obj_e06.txt]
 Quando o hamster se encosta nessa
-lampadazinha, ela acende, fazendo
-seu amigo criceto correr pra
-frente sem parar até encostar
-em outro objeto.
+lâmpada, ela acende, fazendo o
+seu amigo correr em disparada,
+só parando quando encostar nas
+paredes ou em outro objeto.
 !******************************!
 [obj_e07.txt]
 Quando o hamster se encosta nessa

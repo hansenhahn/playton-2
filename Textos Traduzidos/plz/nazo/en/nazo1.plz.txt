@@ -2316,11 +2316,11 @@ A resposta está mais clara agora?
 Para conseguir passar por essa porta, Luke
 e Layton devem organizar os símbolos de
 acordo com as seguintes regras:
-<60> A estrela deve estar próxima da lua.
-<60> O X deve ser o segundo de cima.
-<60> O círculo deve estar em algum lugar
+<60>A estrela deve estar próxima da lua.
+<60>O X deve ser o segundo de cima.
+<60>O círculo deve estar em algum lugar
 acima do diamante.
-<60> A lua deve estar localizada duas casas
+<60>A lua deve estar localizada duas casas
 abaixo do diamante.
 
 Dê um palpite!

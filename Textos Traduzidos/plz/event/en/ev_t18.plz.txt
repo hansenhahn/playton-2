@@ -289,7 +289,7 @@ era Folsense.
 [t18_240_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>À medida que o trem se aproxima da
 estação, apenas uma profunda escuridão
-é vista pela janela.
+pode ser vista pela janela.
 !******************************!
 [t18_240_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Inquietos, Layton e os demais se

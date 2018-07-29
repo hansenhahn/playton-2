@@ -333,13 +333,13 @@ a está acompanhando?
 Minutos após a chegada do
 Professor Layton, Luke e Flora em
 Folsense, a estação decrépita se
-transformou em um belo edifício
-diante de seus olhos. O que causou
+transforma em um belo edifício
+diante do seus olhos. O que causou
 essa mudança repentina da aparência
 da estação de trem?
 !******************************!
 [id_8.txt]
-Parece que Beluga está fazendo
+Parece que o Sr. Beluga está fazendo
 Sammy trabalhar feito um condenado,
 fazendo-o vasculhar toda a cidade
 em busca de um item desconhecido.
@@ -535,8 +535,8 @@ do Sr. Anderson não saber por que ela
 estava atrás da caixa. Está se
 tornando cada vez mais evidente que
 a Caixa Elísia e Dropstone têm algum
-tipo de relacionamento, apesar de eu
-não entender totalmente qual é.
+tipo de conexão, apesar de eu não
+entender totalmente qual é.
 !******************************!
 [d_13.txt]
 Graças ao Luke, o desfile das vacas
@@ -554,15 +554,15 @@ nesses rumores.
 No caminho de volta para a estação,
 eu percebi um grupo de pessoas se
 despedindo de uma jovem moça que
-estava sozinha em nosso trem. Estou
+embarcou sozinha em nosso trem. Estou
 convencido de que era ninguém menos
 que a filha do Sr. Anderson, Katia.
 Embora fosse viajar sozinha, ela não
-parecia ter nenhuma reserva sobre
+parecia ter nenhuma receio sobre
 isso. Não, ela parecia bastante
-determinada. No entanto, me pergunto...
-Por que ela viaja sozinha, e para
-onde ela está indo?
+determinada. No entanto, fico
+pensando... Por que ela viajaria
+sozinha, e para onde ela iria?
 !******************************!
 [d_15.txt]
 Enquanto estávamos no vagão de
@@ -571,22 +571,20 @@ Flora e eu caímos num sono profundo.
 Luke diz que sonhou com um dos
 vagões do trem sendo trocados.
 Será que o estrondo que eu ouvi
-enquanto dormia foi do som
-produzido pelos vagões sendo
-trocados?
+enquanto dormia foi do som produzido
+pela troca dos vagões?
 !******************************!
 [d_16.txt]
-Pouco depois de acordar de meu
-sono repentino, o condutor anunciou
+Pouco depois de acordar do meu
+sono repentino, o fiscal anunciou
 que nossa próxima parada era uma
 cidade chamada Folsense. Isso é
 certamente curioso, já que eu
-estava estava convencido de que a
-próxima parada era Luxenbelle.
-Parece que o vagão no qual dormimos
-realmente mudou de trilhos e é o
-único do trem a chegar neste novo
-destino.
+tinha certeza de que a próxima
+parada era Luxenbelle. Parece que
+o vagão no qual dormimos realmente
+mudou de trilhos e foi o único do
+trem a chegar neste novo destino.
 !******************************!
 [d_17.txt]
 Assim que saímos do trem que parou
@@ -1356,8 +1354,8 @@ A próxima parada é...
 FOOOOLSENSE!
 !******************************!
 [m10_2.txt]
-Vamo lá, passageiros!
-Quero ouvir cês gritando!
+Vamos lá, passageiros!
+Quero ouvir vocês gritando!
 !******************************!
 [m10_3.txt]
 Folsense, né?
@@ -1367,11 +1365,11 @@ Folsense, né?
 me ocorreu antes?
 !******************************!
 [m10_5.txt]
-Você se lembra que no bilhete
-não tinha destino nenhum?
+Você se lembra de que no bilhete
+não havia destino algum?
 !******************************!
 [m10_6.txt]
-Bom, parece que o destino já
+Bem, parece que o destino já
 estava diante de nossos olhos.
 !******************************!
 [m10_8.txt]
@@ -1394,11 +1392,10 @@ Sim.
 Opa! Que estranho. 
 !******************************!
 [m11_4.txt]
-Quando foi que escureceu
-tão de repente?
+Quando foi que escureceu?
 !******************************!
 [m11_5.txt]
-O que quer dizer?
+Como assim?
 !******************************!
 [m12_0.txt]
 Hm?
@@ -1422,10 +1419,10 @@ Professor, o que foi isso?
 Vamos!
 !******************************!
 [m12_5.txt]
-Meu Deus...
+Oh, céus...
 !******************************!
 [m12_6.txt]
-Que foi isso?
+O que foi isso?
 !******************************!
 [m12_7.txt]
 
@@ -1498,8 +1495,8 @@ Não posso olhar!
 Hã?
 !******************************!
 [m15_0.txt]
-Uau, esse lugar realmente
-é do balacobaco!
+Uau! Esse lugar é realmente
+do balacobaco!
 !******************************!
 [m15_1.txt]
 De fato, Luke. Esse castelo

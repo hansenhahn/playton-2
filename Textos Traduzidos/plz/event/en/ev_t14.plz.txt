@@ -8,7 +8,7 @@
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:31>Estou logo atrás de vocês.
 !******************************!
 [t14_010_400.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:41>Ah, estas devem ser fotos da
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:41>Ah! Essas devem ser fotos da
 cidade.
 !******************************!
 [t14_010_500.gds]
@@ -17,8 +17,9 @@ aparência, devem ter, no mínimo,
 uns 30 anos de idade.
 !******************************!
 [t14_010_600.gds]
-<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:91>Uau, como sabe disso?<W> Ah, é claro,
-você é um arqueólogo!
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:91>Uau! E como sabe disso?<W> Ah, é claro,
+você é um arqueólogo! É claro que você
+sabe disso!
 !******************************!
 [t14_010_700.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Luke, não me diga que tinha esquecido!<W>

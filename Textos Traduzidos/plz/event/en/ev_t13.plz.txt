@@ -4,9 +4,9 @@ fantasma da qual acabamos de ouvir.
 Será que os rumores são verdadeiros?
 !******************************!
 [t13_020_200.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:79>Bem, nossa próxima parada
-é a perfeitamente normal
-cidade de Luxenbelle.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:79>Bem, nossa próxima parada é
+a perfeitamente normal cidade
+de Luxenbelle.
 !******************************!
 [t13_020_300.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:47>Então como fazemos pra chegar
@@ -39,8 +39,8 @@ mais feliz porque vai dar um trabalhão
 recolher todos esses enigmas perdidos.<W>
 !------------------------------!
 Não vamos passar por este caminho outra
-vez, então é melhor voltar à cidade
-caso tenha esquecido algum enigma lá.
+vez, então caso tenha esquecido algum
+enigma em Dropstone, visite a cabana.
 !******************************!
 [t13_050_100.gds]
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:83>Que estranho...<W>&setani 5 b1_weep2& De repente, comecei
@@ -76,7 +76,7 @@ finalmente acordaram.
 !******************************!
 [t13_120_500.gds]
 <01:00000005><03:8>b1 weep<03:5>NONE<01:00000003><03:98>Eu estava me sentindo sufocada dentro
-desta cabine, então saí para pegar um
+desta cabine, então saí pra pegar um
 pouco de ar fresco quando paramos.
 !******************************!
 [t13_120_600.gds]
@@ -99,11 +99,10 @@ novamente, por que não descemos do
 trem e descobrimos onde estamos?
 !******************************!
 [t13_130_100.gds]
-<01:0000002B><03:5>NONE<03:5>NONE<01:00000003><03:117>Bom dia, senhor. Estou voltando
-para Luxenbelle, onde dou aula
-de ciências.<W>
+<01:0000002B><03:5>NONE<03:5>NONE<01:00000003><03:117>Bom dia, senhor. Estou retornando
+a Luxenbelle, onde dou aula de ciências.<W>
 !------------------------------!
-Para onde vocês estão indo?
+E vocês? Para onde estão indo?
 !******************************!
 [t13_130_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:316>Nosso destino ainda é uma incógnita.
@@ -231,7 +230,7 @@ Assim, chegamos à suspensão
 temporária dos nossos serviços.
 !******************************!
 [t13_160_400.gds]
-<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:94>Uau, isso que eu chamo de uma
+<01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:94>Uau! É isso que eu chamo de uma
 operação de classe. O Sr. Beluga
 realmente pensou em tudo, né?!
 !******************************!
@@ -241,8 +240,8 @@ mas não estamos abertos no momento.
 Visite-nos mais tarde.
 !******************************!
 [t13_170_100.gds]
-<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:90>Até que enfim, algo pra fazer.
-Já faz eras desde a última vez
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:90>Até que enfim, de volta ao trabalho.
+Já faz eras desde a última vez que
 fiz alguma coisa.
 !******************************!
 [t13_170_200.gds]
@@ -251,14 +250,14 @@ Você não acabou de consertar
 o trem?
 !******************************!
 [t13_170_300.gds]
-<01:00000023><03:11>b2 normal2<03:5>NONE<01:00000001><03:100>Acho que sim, mas antes de voltar
-a descansar ... Oops!<W> Hm, quero dizer,
-nada não! Está tudo bem!
+<01:00000023><03:11>b2 normal2<03:5>NONE<01:00000001><03:100>Acho que sim, mas tenho mais uma coisa
+pra fazer antes de descansar... Oops!<W>
+Hm, quero dizer, nada não! Tá tudo bem!
 !******************************!
 [t13_171_100.gds]
-<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:92>Até que enfim, algo pra fazer.
-Já faz eras desde a última vez
-fiz alguma coisa.
+<01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:92>Até que enfim, de volta ao trabalho.
+Já faz eras desde a última vez que
+fiz alguma coisa
 !******************************!
 [t13_180_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Céus! Olhe este lugar! É incrível!
