@@ -2267,13 +2267,13 @@ total de nove padrões distintos.
 <0055>O Colar do Sammy
 <00><1E><1B><18><11><15><16><36><F6><03><03><FF>
 Sammy tem oito correntes com sete elos
-cada. Ele deseja ligar essas correntes para
+cada. Ele deseja unir essas correntes para
 formar um colar. O joalheiro diz que custará
 <po>2 sempre que for necessário abrir e fechar
 um elo.
 
-Como mostrado abaixo, Sammy poderia abrir
-a extremidade de cada uma das oito
+Como mostrado abaixo, Sammy pode abrir
+uma das extremidades de cada uma das oito
 correntes para formar um grande colar.
 Todavia, isso custará <po>16, e a verdade é
 que há meios mais baratos de se obter o
@@ -2313,33 +2313,33 @@ A resposta está mais clara agora?
 [n55.dat]
 <0056>O Código da Porta
 <00><28><24><20><11><09><1A><37><00><04><02><29>
-Para conseguir passar por essa porta, Luke
-e Layton devem organizar os símbolos de
-acordo com as seguintes regras:
+Para conseguir passar por essa porta,
+Luke e Layton devem organizar os símbolos
+de acordo com as seguintes regras:
 <60>A estrela deve estar próxima da lua.
-<60>O X deve ser o segundo de cima.
+<60>O X deve ser o segundo de cima para baixo.
 <60>O círculo deve estar em algum lugar
 acima do diamante.
 <60>A lua deve estar localizada duas casas
 abaixo do diamante.
 
-Dê um palpite!
+Vamos, tente você mesmo!
 !******************************!
 Pode entrar!
 
-Bom trabalho descobrindo o código!
+Bom trabalho decifrando o código!
 !******************************!
 Que pena!
 
-Veja o enigma mais uma vez.
-
+Leia o enigma mais uma vez.
 !******************************!
-<''>O X deve ser o segundo de cima.<''>
+<''>O X deve ser o segundo de cima para
+baixo.<''>
 
 Como você sabe exatamente onde o X deve
-ir, comece colocando esse símbolo. Assim
-que isso for feito, siga para as próximas
-condições.
+ficar, comece colocando esse símbolo.
+Assim que isso for feito, siga para as
+próximas condições.
 !******************************!
 <''>A lua deve estar localizada duas casas
 abaixo do diamante.<''>
@@ -2349,91 +2349,89 @@ diamante, então o diamante deve estar
 em um dos três espaços de cima. O X já
 ocupa o segundo espaço, então o diamante
 ou está no primeiro ou no terceiro
-espaço de cima.
+espaço de cima para baixo.
 !******************************!
 <''>O círculo deve estar em algum lugar
 acima do diamante.<''>
 
-Se você combinar a declaração de cima
-com a informação da Dica 2, estará
-claro que o único lugar que você
-pode colocar o diamante é no terceiro
-espaço de cima. Assim que colocar o
-diamante, você terá símbolos o
-suficiente para resolver o resto desse
-enigma facilmente.
+Se você combinar a condição acima com
+a informação da Dica 2, estará claro
+que o único lugar que você pode colocar
+o diamante é no terceiro espaço de cima
+para baixo. Assim que colocar o diamante,
+você terá símbolos o suficiente para
+resolver o resto desse enigma facilmente.
 !******************************!
 [n56.dat]
 <0057>Cheire as Rosas
 <00><1E><1B><18><11><0D><18><38><FE><03><02><FF>
-Ah, não há nada como uma rosa
-recém-cortada para te revigorar.
-Consegue ajudar Sammy a refrescar
-toda a carruagem com a fragrância?
+Ah, não há nada como uma rosa recém
+cortada para revigorar a alma. Você
+Consegue ajudar o Sammy a espalhar a
+fragância das rosas por toda a cabine?
 
-Toque um quadrado com sua canetinha para
-colocar uma rosa. A fragrância de cada rosa
-chega a até dois quadrados em cada direção,
-mas não atravessa paredes. Se a fragrância
-de duas ou mais rosas se sobreporem, o
-cheiro resultante será insuportável, então
-certifique-se de deixar as rosas espaçadas.
-Toque uma rosa existente para removê-la.
+Toque um quadrado com sua stylus para
+colocar uma rosa. A fragrância de cada
+rosa chega a até dois quadrados em cada
+direção, mas não atravessa paredes. Se a
+fragrância de duas ou mais rosas se
+sobreporem, o cheiro resultante será
+insuportável, então certifique-se de deixar
+as rosas espaçadas. Toque uma rosa
+existente para removê-la.
 !******************************!
 Muito bem!
 
-Cinco rosas foram o suficiente 
-para refrescar a carruagem.
+Cinco rosas foram o suficiente para
+espalhar a fragância pela cabine.
 !******************************!
 Que pena!
 
 Certificou-se de deixar espaço entre
-as rosas de modo que os aromas de cada
-rosa não se sobrepusessem?
+as rosas de modo que os aromas não se
+sobrepusessem?
 !******************************!
 Aqui vai uma dica útil.
 
-Comece pelos cantos da carruagem.
+Comece pelos cantos da cabine.
 !******************************!
-Coloque a rosa no canto inferior direito
-da carruagem, e então pense em onde
+Coloque uma rosa no canto inferior
+direito da cabine, e então pense onde
 o restante deve ficar.
 !******************************!
-Para resolver este enigma,
-você deve pôr as rosas em
-cinco lugares diferentes.
+Para resolver este enigma, você deve
+pôr as rosas em cinco lugares diferentes.
 !******************************!
 [n57.dat]
 <0058>No Túnel
 <00><23><1F><1B><12><0D><19><39><FF><03><02><2D>
-Dois trens passam na escuridão do longo
+Dois trens avançam na escuridão do longo
 túnel. Mova-os de modo que cada locomotiva
 acabe no trilho oposto, enquanto mantém
 seus vagões na mesma ordem. Os únicos
-vagões que não precisam ficar no trilho
-oposto são os de número 2 de ambos os
-trens.
+vagões que não devem trocar de trilhos
+são os de número 2 de ambos os trens.
 !******************************!
 Isso mesmo!
 
-Os dois trens aceleraram no escuro,
-cada um transportando o vagão
-número 2 do outro...
+Os dois trens aceleraram no escuro, cada
+um puxando o vagão número 2 do outro...
 !******************************!
 Que pena!
 
 Tente resolver o enigma de novo.
 !******************************!
-Para começar, tente fazer com que todos
-os vagões vão para o trilho superior em
-sua posições designadas antes de se
-preocupar sobre os que foram para o
-trilho inferior.
+Para começar, tente colocar todos os
+vagões que irão para o trilho superior
+nas posições designadas antes de se
+preocupar com os vagões que irão para
+o trilho inferior.
 !******************************!
 Mova o primeiro vagão vermelho para o
 trilho secundário, que fica entre o
 superior e o inferior e, em seguida,
-traga todos os do trilho superior.
+mova todos os vagões do trilho superior
+para o inferior.
 
 Agora mova o vagão vermelho para o
 seu local designado no trilho superior.
@@ -2445,8 +2443,8 @@ Mova o vagão de sua escolha para o trilho
 secundário e depois retire todos os
 vagões que estão bloqueando seu caminho
 ao trilho superior. Após isso, é mera
-questão de trazer todos os vagões do
-trilho secundário para o local designado.
+questão de levar os vagões do trilho
+secundário para o local designado.
 !******************************!
 [n58.dat]
 <0059>Um Bilhete para Onde?
@@ -2454,12 +2452,12 @@ trilho secundário para o local designado.
 À sua frente está o bilhete que Layton
 e Luke acharam no apartamento do Dr.
 Schrader. À primeira vista, o bilhete parece
-não tem um destino escrito nele. Mas quando
+não ter um destino escrito nele. Mas quando
 se olha da forma certa, o bilhete informa o
 seu destino: a cidade de Folsense. A chave
-para identificar o destino é o #rnumber#x 
-que foi cortado do bilhete. Consegue
-descobrir o número que estava nele?
+para identificar o destino é o #rnúmero#x 
+que foi cortado do bilhete. Você consegue
+descobrir que número era esse?
 
 Use o bilhete no livreto de instruções
 para resolver este enigma!
@@ -2469,40 +2467,39 @@ Excelente!
 O número cortado era o 2.
 
 Se você dobrar o bilhete conforme
-demonstrado e alinhar os dois
-conjuntos de números, eles formam
-letras que compõem a palavra <''>FOLSENSE<''>.
-Parece que o destino do bilhete estava
-lá o tempo todo, só você não viu!
+demonstrado e alinhar os dois conjuntos
+de números, eles formarão as letras que
+compõem a palavra <''>FOLSENSE<''>. Parece que
+o destino do bilhete estava lá o tempo todo
+e só você não viu!
 !******************************!
 Que pena!
 
-Para resolver este enigma,
-você precisará fazer algo
-com o bilhete que permita
-ligar os dois conjuntos de
-números de alguma maneira.
+Para resolver este enigma, você precisará
+fazer algo com o bilhete que permita ligar
+os dois conjuntos de números de alguma
+maneira.
 !******************************!
-Para encontrar a resposta, você tem
-que dobrar o bilhete de uma maneira
+Para encontrar a resposta, você
+deve dobrar o bilhete de uma maneira
 específica.
 !******************************!
-Segure o bilhete de pé e dobre-o
-até o meio. Em seguida, dobre cada
-lado para fora, no meio de cada
-conjunto de números.
+Segure o bilhete no seu comprimento e
+dobre-o até o meio. Em seguida, dobre
+cada lado para fora, exatamente no meio
+de cada conjunto de números.
 
-A metade superior do conjunto de números
-de cima e a metade inferior do conjunto
-de números de baixo ligarão-se um ao
-outro, revelando uma série de letras.
+A metade superior do conjunto de
+números de cima e a metade inferior do
+conjunto de números de baixo irão se
+conectar,  revelando uma série de letras.
 !******************************!
-A palavra <''>FOLSENSE<''> está
-escrita no bilhete.
+A palavra <''>FOLSENSE<''> está escrita
+no bilhete.
 
-Qual número deveria estar na parte
-cortada para se formar um E quando
-o bilhete é dobrado?
+Qual número deve estar na parte cortada
+para que seja formado um E quando o
+bilhete é dobrado?
 !******************************!
 [n59.dat]
 <0060>O Enigma da Praça

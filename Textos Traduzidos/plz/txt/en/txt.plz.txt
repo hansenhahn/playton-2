@@ -577,13 +577,13 @@ pela troca dos vagões?
 [d_16.txt]
 Pouco depois de acordar do meu
 sono repentino, o fiscal anunciou
-que nossa próxima parada era uma
+que nossa próxima parada era em uma
 cidade chamada Folsense. Isso é
 certamente curioso, já que eu
 tinha certeza de que a próxima
-parada era Luxenbelle. Parece que
+parada era em Luxenbelle. Parece que
 o vagão no qual dormimos realmente
-mudou de trilhos e foi o único do
+trocou de trilhos e foi o único do
 trem a chegar neste novo destino.
 !******************************!
 [d_17.txt]

@@ -469,7 +469,7 @@ O pai alcança sua filha em exatamente
 10 segundos.
 !******************************!
 [n109.dat]
-<0110>Rota do Chelmey
+<0110>A Rota do Chelmey
 <00><23><1F><1B><71><25><09><6D><EF><03><04><FF>
 Tente descobrir a rota de Chelmey levando
 em conta aquilo que ele ainda lembra,

@@ -86,7 +86,7 @@ Visite a Mercearia!
 Entre no Apartamento do Dr. Schrader!
 !******************************!
 [goal_300.txt]
-Take the Beef Shank to the Dog!
+Leve o Pernil para o Cachorro!
 !******************************!
 [goal_310.txt]
 Colete os Pedaços da Fotografia!
@@ -107,7 +107,7 @@ Examine a Cabine!
 Volte para o Seu Quarto de Hotel!
 !******************************!
 [goal_360.txt]
-Gather More Clues in Town!
+Recolha Mais Pistas pela Cidade!
 !******************************!
 [goal_370.txt]
 Visite o Museu Herzen!
@@ -254,107 +254,99 @@ O professor e Luke decidem desembarcar
 do trem e dar uma olhada nos arredores.
 !******************************!
 [next_235.txt]
-The professor, Luke and Flora
-decide to walk around the town.
+O professor, Luke e Flora decidem
+caminhar pela cidade.
 !******************************!
 [next_237.txt]
-The professor, Luke and Flora
-decide to seek out a hotel.
+O professor, Luke e Flora decidem
+procurar por um hotel.
 !******************************!
 [next_240.txt]
-The professor and Luke decide to
-explore the strange new town.
+O professor e Luke decidem explorar
+a estranha cidade.
 !******************************!
 [next_250.txt]
-The professor and Luke decide to
-visit the local antique shop.
+O professor e Luke decidem visitar
+o antiquário local.
 !******************************!
 [next_255.txt]
-The professor and Luke decide to
-visit the Herzen Museum.
+O professor e Luke decidem visitar
+o Museu Herzen.
 !******************************!
 [next_260.txt]
-The professor and Luke decide to
-search the town for more
-information.
+O professor e Luke decidem vasculhar
+a cidade atrás de informações.
 !******************************!
 [next_270.txt]
-The professor and Luke decide to
-pay another visit to the Herzen
-Museum.
+O professor e Luke decidem visitar
+novamente o Museu Herzen.
 !******************************!
 [next_280.txt]
-The professor and Luke decide to
-return to the hotel.
+O professor e Luke decidem retornar
+ao hotel.
 !******************************!
 [next_285.txt]
-The professor and Luke decide to
-investigate the north-east corner
-of town.
+O professor e Luke decidem investigar
+a zona nordeste da cidade.
 !******************************!
 [next_290.txt]
-The professor and Luke decide to
-visit the local grocer's.
+O professor e Luke decidem visitar
+a mercearia local.
 !******************************!
 [next_30.txt]
 O professor e Luke decidem entrar
 no apartamento do Dr. Schrader.
 !******************************!
 [next_300.txt]
-The professor and Luke decide to
-take the beef shank to the dog
-in the alley.
+O professor e Luke decidem levar
+o pernil para o cachorro no beco.
 !******************************!
 [next_310.txt]
-The professor and Luke decide to
-begin their search for photo
-scraps in the alley.
+O professor e Luke decidem iniciar
+a procura pelos pedaços da fotografia
+pelo beco.
 !******************************!
 [next_320.txt]
-The professor and Luke decide to
-search the rest of the town for
-the remaining scraps of the photo.
+O professor e Luke decidem procurar
+os demais pedaços da fotografia pelo
+resto da cidade.
 !******************************!
 [next_330.txt]
-The professor and Luke decide to
-continue their investigation in
-town.
+O professor e Luke decidem continuar
+sua investigação na cidade.
 !******************************!
 [next_340.txt]
-The professor and Luke decide to
-return to the hotel.
+O professor e Luke decidem retornoar
+ao hotel.
 !******************************!
 [next_35.txt]
-The professor and Luke decide
-to check the inside of the
-doctor's flat.
+O professor e Luke decidem verificar
+o interior do apartamento do doutor.
 !******************************!
 [next_350.txt]
-The professor and Luke decide to
-head up to their hotel room.
+O professor e Luke decidem subir
+para seus quartos de hotel.
 !******************************!
 [next_360.txt]
-The professor and Luke decide to
-look around Folsense for more
-information.
+O professor e Luke decidem procurar
+por mais informações em Folsense.
 !******************************!
 [next_370.txt]
-The professor and Luke decide to
-revisit the Herzen Museum, knowing
-that this time it will be open.
+O professor e Luke decidem revisitar
+o Museu Herzen, esperando que, desta
+vez, ele esteja aberto.
 !******************************!
 [next_380.txt]
-The professor and Luke decide to
-explore the Herzen Museum.
+O professor e Luke decidem explorar
+o Museu Herzen.
 !******************************!
 [next_385.txt]
-The professor and Luke decide to
-set out for the mine on the edge
-of town.
+O professor e Luke decidem visitar
+a mina nos limites da cidade.
 !******************************!
 [next_390.txt]
-The professor and Luke decide to
-venture out to Herzen Castle.
+O professor e Luke decidem se
+aventurar no Castelo Herzen.
 !******************************!
 [next_40.txt]
 O professor e Luke decidem explorar
@@ -391,9 +383,9 @@ O professor e Luke decidem iniciar
 as investigações no trem.
 !******************************!
 [next_510.txt]
-The professor and Luke decide to
-go to the gate at the forest's edge
-to get the last photo scrap.
+O professor e Luke decidem ir ao portão
+nos limites da floresta para pegarem
+o último pedaço da fotografia.
 !******************************!
 [next_520.txt]
 O professor, Luke e Flora decidem
@@ -452,13 +444,13 @@ We see that you managed to solve
 %s
 !******************************!
 [tx_1101.txt]
-Pretty good!
+Muito bem!
 !******************************!
 [tx_1102.txt]
 Very impressive solving!
 !******************************!
 [tx_1103.txt]
-An almost perfect performance!
+Uma performance quase perfeita!
 !******************************!
 [tx_1200.txt]
 The Sweethearts' House has
@@ -485,10 +477,10 @@ Enigma ??? %s
 Enigma W%2d %s
 !******************************!
 [tx_1600.txt]
-You got a photo scrap!
-There is %d photo scrap
-left to be collected!
-!******************************!
+Você achou um pedaço da
+fotografia! Ainda há %d
+pedaço para encontrar!
+****************************!
 [tx_1601.txt]
 Você viu %d dicas enquanto
 resolvia este enigma.
@@ -548,14 +540,14 @@ fotografia! Ainda há %d
 pedaços para encontrar!
 !******************************!
 [tx_213.txt]
-You've taken a photo of
-this location. Something
-about it seems strange...
+Você tirou uma fotografia
+deste local. Algo sobre
+ela parece estranho...
 !******************************!
 [tx_214.txt]
-Use the Camera minigame in
-the trunk to examine the
-photos you've taken.
+Use o jogo da Câmera na
+mala para examinar as
+fotografias tiradas.
 !******************************!
 [tx_215.txt]
 Luke deu o nome "%s"
@@ -577,32 +569,33 @@ Olhe a tela superior para ver
 quem está viajando com você!
 !******************************!
 [tx_219.txt]
-The Old Diary option has
-been added to the trunk!
+A opção Velho Diário foi 
+adicionada à mala!
 !******************************!
 [tx_220.txt]
-You got a diary key!
-Use it to open a new
-chapter of the Old Diary.
+Você conseguiu uma chave do
+diário! Use-a para abrir um
+novo capítulo do Velho Diário!
 !******************************!
 [tx_221.txt]
 
 !******************************!
 [tx_222.txt]
-You got a photo scrap!
-You've now got all the 
-photo scraps!
+Você achou um pedaço da
+fotografia! Agora você
+tem todos os pedaços!
 !******************************!
 [tx_250.txt]
-Luke and %s are now
-best friends!
+Luke e %s são agora
+melhores amigos!
 !******************************!
 [tx_251.txt]
-You've solved all the Camera
-minigame's mysteries!
+Você resolveu todos os
+mistérios do jogo da Câmera!
 !******************************!
 [tx_252.txt]
-You are now a tea master!
+Você agora é um
+mestre do chá!
 !******************************!
 [tx_300.txt]
 Resolver o enigma %.3d,
@@ -650,7 +643,7 @@ Você viu %d dicas enquanto
 resolvia o enigma.
 !******************************!
 [tx_800.txt]
-Error Code: %d
+Código de Erro: %d
 !******************************!
 [tx_801.txt]
 

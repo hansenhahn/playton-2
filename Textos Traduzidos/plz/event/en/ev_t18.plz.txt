@@ -274,7 +274,7 @@ do doutor, o trio descobre o nome do
 seu novo destino.<W>
 !------------------------------!
 Mas que tipo de lugar é essa tal de
-"Folsense", e o que eles encontrarão lá?
+"Folsense" e o que eles encontrarão lá?
 !******************************!
 [t18_237_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:91>As perguntas se proliferam em suas
@@ -296,130 +296,129 @@ pode ser vista pela janela.
 preparam para entrar em Folsense.
 !******************************!
 [t18_250_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Viajando no vagão de luxo do Molentary
-Express, Layton, Luke e Flora
-chegaram em Folsense.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Viajando no vagão de luxo do
+Molentary Express, Layton, Luke
+e Flora chegam em Folsense.
 !******************************!
 [t18_250_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:79>Mas após chegarem, os três começaram
-a presenciar série de
-acontecimentos inexplicávels.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:79>Mas após chegarem, os três começam
+a presenciar uma série de acontecimentos
+inexplicávels.
 !******************************!
 [t18_250_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:94>Perturbados pelo que viram,
-o trio começou sua investigação
-da cidade.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:94>Perturbados pelos estranhos
+acontecimentos, o trio começa
+sua investigação pela cidade.
 !******************************!
 [t18_253_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>Após falarem com um lojista local,
-Layton e Luke ouviram falar do
-Museu Herzen.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>Após uma conversa com um lojista
+local, Layton e Luke ficam sabendo
+do Museu Herzen.
 !******************************!
 [t18_253_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Ficou claro pela conversa que o museu
-era o mais provável ponto para acharem
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Fica claro pela conversa que o museu
+é o lugar mais provável de achar
 informações sobre a Caixa Elísia.
 !******************************!
 [t18_253_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Com seu próximo destino agora claro,
-Luke e Layton seguiram rumo à parte
+Luke e Layton seguem rumo à parte
 norte da cidade para visitar o museu.
 !******************************!
 [t18_256_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Luke e Layton foram ao Museu Herzen
-na parte norte da cidade para
-aprender sobre a Caixa Elísia.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Luke e Layton vão ao Museu Herzen
+na parte norte da cidade para aprender
+sobre a Caixa Elísia.
 !******************************!
 [t18_256_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:52>Mas ao chegarem lá, encontraram
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:52>Mas ao chegarem lá, encontram
 o portão trancado.
 !******************************!
 [t18_256_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Sem terem como entrar, a dupla adiou
-a visita ao museu para perguntarem
-sobre a Caixa Elísia cidade afora.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Sem terem como entrar, a dupla adia a
+visita ao museu e decidem sair pela cidade
+perguntando sobre a Caixa Elísia.
 !******************************!
 [t18_259_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Layton e Luke vasculharam a cidade
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Layton e Luke vasculham a cidade
 atrás de quaisquer informações que
 pudessem achar sobre a Caixa Elísia.
 !******************************!
 [t18_259_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:185>Durante sua exploração, os dois
-ouviram vários boatos estranhos
-sobre acontecimentos incomuns na cidade.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:185>Durante sua exploração, os dois ouvem
+diversos boatos estranhos sobre
+acontecimentos incomuns na cidade.<W>
 !------------------------------!
-Entretanto, não obtiveram sucesso
+Entretanto, eles não têm sucesso
 em encontrar pistas substanciais
 acerca da Caixa Elísia.
 !******************************!
 [t18_259_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:80>Ainda em busca de tais informações,
-a dupla decidiu revisitar
-o Museu Herzen.
+a dupla decide revisitar o Museu Herzen.
 !******************************!
 [t18_260_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:107>Luke e Layton encontraram um grande
-emblema em forma de cabra* cravado
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:107>Luke e Layton encontram um grande
+emblema em forma de cabra cravado
 no piso em frente ao hotel.
 !******************************!
 [t18_260_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:88>Ao ver isso, o professor subitamente
-anunciou que precisava falar
-com o Inspetor Chelmey.
+anuncia que precisava falar com o
+Inspetor Chelmey.
 !******************************!
 [t18_260_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>O professor mostrou um novo
-interesse pela foto recuperada
-na casa do Dr. Schrader.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Ele acaba demonstrando um repentino
+interesse pela foto recuperada na casa 
+do Dr. Schrader.
 !******************************!
 [t18_270_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Layton e  Luke voltaram ao hotel para
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Layton e  Luke voltam ao hotel para
 questionar Chelmey acerca da
 foto achada na casa do doutor.
 !******************************!
 [t18_270_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Infelizmente, o inspetor parecia ter
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Infelizmente, o inspetor parece ter
 acidentalmente deixado pedaços da
 foto espalhados pela cidade.
 !******************************!
 [t18_270_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Seguindo os passos do inspetor,
-a dupla seguiu para recuperar
-os pedaços desaparecidos da foto.
+a dupla segue para recuperar os
+pedaços desaparecidos da foto.
 !******************************!
 [t18_280_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:88>Após uma longa procura, Luke e
-o professor enfim conseguiram
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:88>Após uma longa procura, Luke
+e o professor conseguem enfim
 remontar a foto inteira.
 !******************************!
 [t18_280_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:195>Com a foto completa em mãos, a dupla
-pôde confirmar a aparência
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:195>Com a foto completa em mãos,
+a dupla pôde confirmar a aparência
 da Caixa Elísia.<W>
 !------------------------------!
-Infelizmente, na mesma hora uma
-rajada repentina de vento carregou
+Infelizmente, na mesma hora, uma
+rajada repentina de vento carrega
 um pedaço da foto.
 !******************************!
 [t18_280_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:99>Com o resto da foto em mãos, os
-dois decidiram dar mais uma volta
-na cidade para fazerem perguntas.
+dois decidem dar mais uma volta pela
+cidade para fazerem perguntas.
 !******************************!
 [t18_290_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Após remontarem a foto inteira, Layton
-e Luke conseguiram confirmar a
-aparência da Caixa Elísia.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:97>Após remontarem a foto inteira,
+Layton e Luke conseguem confirmar
+a aparência da Caixa Elísia.
 !******************************!
 [t18_290_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Logo depois os dois conversaram
-com Barton, que lhes contou que Chelmey
-havia identificado o assassino do doutor.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Logo depois, os dois conversam com
+Barton, que lhes conta que Chelmey havia
+identificado o assassino do doutor.
 !******************************!
 [t18_290_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>A pedido do inspetor, Luke e
-Layton voltaram ao hotel.
+Layton voltam ao hotel.
 !******************************!
 [t18_300_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:184>No hotel, o professor revelou que
@@ -787,7 +786,7 @@ Você pode ter terminado a história,
 mas a diversão está só começando!
 !******************************!
 [t18_450_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:145>O modo história* deste jogo contém
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:145>O modo história deste jogo contém
 um total de 138 enigmas.<W>
 !------------------------------!
 Se ainda não tiver resolvido

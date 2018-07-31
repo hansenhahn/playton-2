@@ -107,7 +107,7 @@ Recepção do Hotel
 Quarto do Hotel
 !******************************!
 [p_39.txt]
-Promenade
+Passarela
 !******************************!
 [p_4.txt]
 Corredor do Prédio
@@ -131,7 +131,7 @@ Restaurante
 Caminho à Nordeste
 !******************************!
 [p_46.txt]
-Alley Entrance
+Entrada do Beco
 !******************************!
 [p_47.txt]
 Beco Inundado
