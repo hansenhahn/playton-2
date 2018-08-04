@@ -1,276 +1,272 @@
 [n100.dat]
-<0101>Disappearing Act 1
+<0101>Desaparecimento 1
 <00><1E><1B><18><01><29><1D><8A><02><04><04><FF>
-Here's a classic puzzle. The rules are
-simple. You can move any ball on the
-board below as long as it satisfies the
-following conditions:
-<->To move, jump your selected ball over an
-adjacent space occupied by another ball
-into an empty space on the other side.
-You can't jump diagonally.
-<->Once you've made the jump, the ball you
-jumped over disappears from the board.
-<->To complete the puzzle, you must remove all
-balls from the board except for one.
+Este enigma é um dos clássicos. Siga as
+regras abaixo para completá-lo. Mova
+qualquer uma das bolinhas do tabuleiro,
+cumprindo as condições abaixo:
+<->Para mover uma bolinha, você precisa saltar
+sobre outra, sempre na horizontal ou na
+vertical, terminando em um espaço vazio.
+Não pode saltar nas diagonais.
+<->Quando você saltar sobre outra bolinha,
+esta desaparecerá do tabuleiro.
+<->O enigma acaba quando todas as bolinhas
+desaparecem, exceto uma.
 
-OK, enough rules. Try it for yourself!
+OK, tá bom de tanta regra. Tente resolver.
 !******************************!
-Well done!
+Muito bem!
 
-This is one configuration of a puzzle known
-as peg solitaire. As the name suggests, the
-traditional version of this game is played
-with pegs that you insert into holes in the
-game board.
+Essa é uma variação de um enigma conhecido
+como "Resta Um". Como o nome sugere, a
+versão tradicional desse jogo é jogada com
+peças que você insere em buracos no
+tabuleiro.
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-To make the first of the balls disappear,
-jump the ball in the centre of the
-cross over the ball to its immediate left
-or right.
+Comece pegando a bolinha que está bem
+no meio da "cruz" no tabuleiro, e saltando
+por cima da bolinha que está imediatamente
+à sua esquerda, ou direita.
 !******************************!
-Move the ball at the very bottom into
-the space formerly occupied by the
-centre ball.
+Pegue a bolinha que está lá embaixo, e
+mova-a para o espaço anteriormente
+ocupado pela bolinha central.
 
-With just a few balls to go now, you
-should be able to sail through the rest
-of this puzzle.
+Agora que está bom poucas bolinhas para
+eliminar, não deve ser difícil para você
+resolver o restante do enigma.
 !******************************!
-With puzzles of this type, your first
-move will often determine whether or
-not you'll be able to solve the puzzle.
+Com enigmas desse tipo, sua primeira
+jogada geralmente é a que vai determinar
+se você conseguirá resolver o enigma
+ou não.
 !******************************!
 [n101.dat]
-<0102>Disappearing Act 2
+<0102>Desaparecimento 2
 <00><23><1F><1B><01><2D><1D><8A><02><04><04><2D>
-Here's a different configuration for you
-to try. As with last time, you can move
-any ball on the board below as long as it
-satisfies the following conditions:
-<->To move, jump your selected ball over an
-adjacent space occupied by another ball
-into an empty space on the other side.
-You can't jump diagonally.
-<->Once you've made the jump, the ball you
-jumped over disappears from the board.
-<->To complete the puzzle, you must remove all
-balls from the board except for one.
+Aqui temos uma variação diferente de Resta
+Um, mas as regras são as mesmas. Mova
+qualquer uma das bolinhas do tabuleiro,
+cumprindo as condições abaixo:
+<->Para mover uma bolinha, você precisa saltar
+sobre outra, sempre na horizontal ou na
+vertical, terminando em um espaço vazio.
+Não pode saltar nas diagonais.
+<->Quando você saltar sobre outra bolinha,
+esta desaparecerá do tabuleiro.
+<->O enigma acaba quando todas as bolinhas
+desaparecem, exceto uma.
 
-OK, enough rules. Try it for yourself!
+OK, tá bom de tanta regra. Tente resolvê-lo.
 !******************************!
-You got it!
+Cê sacou a solução!
 
-Peg solitaire is a puzzle with a long history.
-It's thought to have first come into
-popularity around the 17th century.
+Resta Um é um enigma com uma longa história.
+Dizem que se tornou popular por volta do
+século XVII.
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-Your options for a first jump are fairly
-limited. It has to be one of the four
-balls surrounding the centre ball. The
-tough part is deciding what to do next.
+Suas opções para um primeiro salto são
+bastante limitadas. Tem que ser uma das
+quatro bolinhas ao redor da central.
+O difícil é decidir o que fazer depois.
 
-For your second move, pop a ball into
-the space that opened up when you
-moved the first one.
+Para sua segunda jogada, tente colocar
+uma bolinha no espaço que se abriu
+quando você moveu a primeira bolinha.
 !******************************!
-Next, move a ball into the open centre
-space.
+A seguir, mova uma bolinha para o
+espaço central aberto.
 !******************************!
-Read carefully, because this next move
-is key.
+Leia com atenção, pois a próxima
+jogada é crucial.
 
-You need to take the ball now sitting 
-in the centre space and move it in the
-direction that you moved your ball in
-the first move.
+Você precisa pegar a bolinha que agora
+está no espaço central e movê-la na
+direção que você moveu sua bolinha
+na primeira jogada.
 
-The rest of the puzzle is up to you.
+O resto do enigma é com você.
 !******************************!
 [n102.dat]
-<0103>Disappearing Act 3
+<0103>Desaparecimento 3
 <00><28><24><20><01><23><1D><8A><02><04><04><2E>
-Hmm, these are getting pretty tough.
-You can move any ball on the board below
-as long as it satisfies the following
-conditions:
-<->To move, jump your selected ball over an
-adjacent space occupied by another ball
-into an empty space on the other side.
-You can't jump diagonally.
-<->Once you've made the jump, the ball you
-jumped over disappears from the board.
-<->To complete the puzzle, you must remove all
-balls from the board except for one.
+Hmm, agora tá ficando mais difícil.
+Você pode mover qualquer bolinha no
+tabuleiro abaixo, desde que satisfaça
+as seguintes condições:
+<->Para mover uma bolinha, você precisa saltar
+sobre outra, sempre na horizontal ou na
+vertical, terminando em um espaço vazio.
+Não pode saltar nas diagonais.
+<->Quando você saltar sobre outra bolinha,
+esta desaparecerá do tabuleiro.
+<->O enigma acaba quando todas as bolinhas
+desaparecem, exceto uma.
 
-OK, enough rules. Try it for yourself!
+OK, tá bom de tanta regra. Tente resolvê-lo.
 !******************************!
-Good job!
+Bom trabalho!
 
-This game is often played on two different
-types of boards: English and French. The
-puzzle you just played used an
-English-style board.
+Este jogo é comumente jogado em dois tipos
+diferentes de tabuleiros: Inglês e Francês.
+O enigma que acabou de jogar usava um
+tabuleiro de estilo inglês.
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-Wow, these puzzles are really getting
-tough. Here's a hint to take the edge
-off this puzzle.
+Eita, esses enigmas estão mesmo ficando
+difíceis. Segue uma dica pra te dar uma
+mãozinha aqui.
 
-Start by clearing the ball that's third
-from the edge, sitting in the bottom row.
+Comece eliminando a terceira bolinha,
+da esquerda pra direita, na última linha.
 !******************************!
-Next, move the ball on the edge of
-the bottom row to fill the space that
-opened up when you removed the ball
-in your first move. Then, repeat the
-process detailed in Hints 1 and 2
-on the other side of the triangle and
-move the balls around until you're left
-with a number of balls arranged in a
-shape that resembles a pine tree.
-The rest of this puzzle is up to you.
-!******************************!
-Hey, didn't Hint 2 clearly say, <''>the rest
-is up to you<''>? Well, just know that you
-won't be able to rely on too many hints
-in the <''>Disappearing Act<''> puzzles to
-come! You can have a hint this time,
-though.
+Em seguida, mova a última bolinha à
+esquerda da última linha para o espaço
+que você acabou de deixar livre, segundo
+a dica anterior. Repita o processo
+descrito nestas duas dicas, só que do outro
+lado do triângulo, e mova as bolinhas pelo
+tabuleiro até que as peças no tabuleiro
+fiquem na forma de um pinheiro.
 
-Select a ball one in from the outer
-edge of the pine tree and jump it
-upwards. Then, from this new location,
-jump over the tip of the tree. OK, this
-time, the rest really is up to you.
+O resto do enigma agora é com você.
+!******************************!
+Ei, a Dica 2 não dizia claramente que
+<''>o resto é agora com você<''>? Bom, saiba
+que não dá pra confiar muito em dicas nos
+enigmas de <''>Desaparecimento<''> que virão!
+Mesmo assim, vou te dar uma dica dessa vez.
+
+Escolha uma das bolas da parte externa
+do pinheiro e salte para cima. Então,
+desse ponto, salte por cima da parte
+superior da árvore. OK, dessa vez,
+o resto é realmente com você.
 !******************************!
 [n103.dat]
-<0104>Disappearing Act 4
+<0104>Desaparecimento 4
 <00><2D><28><23><01><38><1D><8A><02><04><04><FF>
-You know the drill by now. You can move
-any ball on the board below as long as it
-satisfies the following conditions:
-<->To move, jump your selected ball over an
-adjacent space occupied by another ball
-into an empty space on the other side.
-You can't jump diagonally.
-<->Once you've made the jump, the ball you
-jumped over disappears from the board.
-<->To complete the puzzle, you must remove all
-balls from the board except for one.
+Você já manja desse enigma. Pode mover
+qualquer bolinha no tabuleiro abaixo, desde
+que satisfaça as seguintes condições:
+<->Para mover uma bolinha, você precisa saltar
+sobre outra, sempre na horizontal ou na
+vertical, terminando em um espaço vazio.
+Não pode saltar nas diagonais.
+<->Quando você saltar sobre outra bolinha,
+esta desaparecerá do tabuleiro.
+<->O enigma acaba quando todas as bolinhas
+desaparecem, exceto uma.
 
-OK, enough rules. Try it for yourself!
+OK, tá bom de tanta regra. Tente resolvê-lo.
 !******************************!
-Nice!
+Beleza!
 
-The only condition for solving these puzzles
-was eliminating all but one ball from the
-board, but the true solution to these
-puzzles requires you to finish with the ball
-positioned in the centre space.
+A única condição para resolver esses enigmas
+era eliminando todas as bolinhas do tabuleiro
+exceto por uma, mas a verdadeira solução
+desse enigma requer que você elimine a
+bolinha posicionada no espaço central.
 
-Perhaps that will provide some incentive
-for you to revisit a few of these peg
-solitaire puzzles.
-
-
+Talvez isso lhe sirva de incentivo para
+revisitar alguns desses enigmas de
+Resta Um.
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-These puzzles are a lot more fun if you
-experiment and try to come to the
-answer on your own. Don't depend on
-Hints 2 and 3 to give away too much
-of the puzzle.
+Esses enigmas são bem mais divertidos
+quando você tenta achar a solução deles
+sozinho. Não vá depender das Dicas 2 e 3
+pra resolver o enigma pra você.
 
-Start this puzzle by moving the ball
-in the centre of the second row from
-the top.
+Comece o enigma pegando a bolinha no
+centro da segunda linha, e movendo-a
+para cima.
 !******************************!
-No more hints to be had here! Instead,
-here's a little fun fact. Did you know
-that peg solitaire is actually known as
-brainvita in India?
+Não tem mais dicas pra dar! Em vez disso,
+segue um fato curioso. Você sabia que
+"Resta Um" na verdade é conhecido como
+brainvita, na Índia?
 
-Oh, and just so you know, Hint 3 is
-also trivia.
+Ah, só pra você ficar sabendo, a
+Dica 3 também é só de curiosidades.
 !******************************!
-There are many games known as solitaire,
-some using boards divided into spaces
-and some using playing cards.
-On a related note, a very large number
-of computer games you could call
-solitaire games have been made since
-the early days of video games.
+Existem vários jogos cohecidos como
+"solitaire", alguns usando tabuleiros
+divididos em espaços e outros usando
+cartas de baralho.
+A título de informação, desde os
+primórdios dos video games, foram
+criados inúmeros jogos de computador
+nesse mesmo estilo.
 !******************************!
 [n104.dat]
-<0105>Disappearing Act 5
+<0105>Desaparecimento 5
 <00><3C><36><30><01><44><1D><8A><02><04><04><FF>
-Get ready, because this one's going to be
-rough. Just like before, you can move
-any ball on the board below as long as it
-satisfies the following conditions:
-<->To move, jump your selected ball over an
-adjacent space occupied by another ball
-into an empty space on the other side.
-You can't jump diagonally.
-<->Once you've made the jump, the ball you
-jumped over disappears from the board.
-<->To complete the puzzle, you must remove all
-balls from the board except for one.
+Pode ir se preparando, porque esse aqui vai
+ser difícil. Tal como antes, você pode mover
+qualquer bolinha no tabuleiro abaixo, desde
+que satisfaça as condições a seguir:
+<->Para mover uma bolinha, você precisa saltar
+sobre outra, sempre na horizontal ou na
+vertical, terminando em um espaço vazio.
+Não pode saltar nas diagonais.
+<->Quando você saltar sobre outra bolinha,
+esta desaparecerá do tabuleiro.
+<->O enigma acaba quando todas as bolinhas
+desaparecem, exceto uma.
 
-OK, enough rules. Try it for yourself!
+OK, tá bom de tanta regra. Tente resolvê-lo.
 !******************************!
-Nicely done!
+Muito bem feito!
 
-One variation of this puzzle challenges the
-player to complete the puzzle in the fewest
-number of moves possible.
+Uma variação deste enigma seria desafiar o
+jogador a completá-lo no menor número de
+jogadas possível.
 
-For the purposes of this puzzle, multiple
-consecutive jumps using a single ball count
-as only one move. If you've got some time on
-your hands, why not try this puzzle again
-and see how few moves you need to
-complete it?
+Neste caso, pode-se considerar que vários
+saltos consecutivos feitos com uma única
+bolinha contam como uma única jogada. Se
+tiver com tempinho livre em mãos, por que
+não tenta esse enigma novamente e vê com
+quantos passos você consegue resolvê-lo?
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-Surely it's more fun to think this one
-through on your own...
+Com certeza é mais legal tentar
+resolver esse aqui sozinho...
 
-...OK, fine, you can have a hint, but
-just one. Do not start off this puzzle
-by moving a ball into the centre space.
-Instead, your first goal should be to
-move things so you get rid of one of
-those four balls at the very edge of
-the shape. But where to start?
+...Tá, tá bom, vou te dar uma dica, mas
+só uma. Não comece esse enigma movendo
+uma bolinha em direção ao espaço central.
+Em vez disso, seu primeiro objetivo é
+mover as peças de modo que você consiga
+se livrar de uma dessas quatro bolinhas
+situadas nas extremidades do losango.
+Mas de onde começar?
 !******************************!
-OK, OK, you can have another hint.
+Tá, tá, vou te dar outra dica.
 
-Start by moving one of the balls three
-spaces in on the third row up. Move this
-ball down to clear one ball and then
-across to remove the ball at the bottom
-of the shape. Then move a ball in the
-third row up in the same direction as
-your last move. Next, move the ball you
-used from move one into the spot that
-just opened up.
+Comece fazendo jogadas com as quatro
+bolinhas situadas diagonalmente ao
+centro vazio, e vá eliminando aos
+poucos as bolinhas situadas nas bordas
+do losango. Aos poucos, você perceberá
+o losango diminuindo de tamanho.
 !******************************!
-If you follow Hint 2 and continue
-playing a little yourself, you should
-be able to arrange the remaining balls
-into a shape that's almost the same as
-the pine tree you saw in <''>Disappearing
-Act 3<''>. Use what you've learned to finish
-the rest of this puzzle.
+Se seguir a Dica 2 e continuar fazendo
+jogadas sozinho, você conseguirá fazer
+com que as bolinhas restantes fiquem em
+uma forma que é quase igual ao pinheiro
+que viu em <''>Desaparecimento 3<''>. Use o que
+aprendeu nesse enigma para terminar o
+restante.
 !******************************!
 [n105.dat]
 <0106>O Problema do Cavalo 1
@@ -1523,62 +1519,66 @@ vale mais de <po>1000 conecta-se com
 outra pedra.
 !******************************!
 [n70.dat]
-<0071>How Old Is She?
+<0071>Quantos Anos Ela Tem?
 <00><1E><1B><18><12><39><16><46><F6><03><04><3E>
-A boy and girl are chatting at a local cafe.
-Looking up from his drink, the boy says:
+Um garoto e uma garota estão conversando em
+uma lanchonete do bairro. À espera da bebida,
+o garoto diz:
 
-<''>You know, I'm 20, which is twice the
-age you were when I was the age you are
-now... Isn't that interesting?<''>
+Sabe, eu tenho 20 anos, o que é dobro da
+idade que você tinha quando eu tinha a
+idade que você tem agora... Não é
+interessante?
 
-As you can see, this boy isn't the most
-concise of speakers, but using what he's
-said, how old is the girl he's chatting to?
+Como pode ver, este garoto não sabe muito
+ser sucinto, mas, usando o que ele falou,
+você consegue descobrir a idade da garota?
 !******************************!
-Nice!
+Boa!
 
-A careful read of the puzzle reveals that
-when the boy was the girl's current age,
-her age was half of the boy's current age.
-The boy's current age is 20, and half of
-that is 10, so the girl must have been 10
-back then.
+Uma leitura atenta do enigma mostra que
+quando o garoto tinha a idade atual da
+garota, a idade dela era a metade da idade
+atual do garoto. A idade atual do garoto
+é 20, e a metade disso é 10, então a
+garota só poderia ter 10 na época.
 
-Once you realise this, it's obvious that
-the girl must be 15 at present.
+Assim que perceber isso, fica óbvio que a
+garota só pode ter 15 atualmente.
 !******************************!
-Too bad!
+Que pena!
 
-Decide upon a number from which to begin
-your reasoning, and take it from there.
+Decida um numero por onde começar seu
+raciocínio e continue a partir daí.
 !******************************!
-Start by working out how old the girl was
-back when the boy was her current age.
+Comece descobrindo a idade que a garota
+tinha quando o garoto tinha a idade atual
+dela. 
 
-What relationship does the girl's past
-age have with the boy's current age?
+Que relação tem a idade da garota na época
+e a idade atual do garoto?
 
-
-!******************************!
-Maybe you already picked up on this, but
-if you double the girl's age when the
-boy was her current age, you get the
-boy's current age of 20.
 
 !******************************!
-Using the facts in Hint 2, you can
-ascertain that the girl was 10 back when
-the boy was the girl's current age. 
-Since then, X years have passed,
-the boy has become 20, and the girl has
-become her current age. If you can
-find a number of years that, when added
-to 10 and subtracted from 20, yield the
-same age, you're very close to finding
-the girl's current age.
+Talvez você já tenha visualizado, mas se
+multiplicar por dois a idade da garota
+quando o garoto tinha a idade atual dela,
+você descobrirá que a idade atual do
+garoto é 20.
 
-Now what could X be?
+!******************************!
+Usando os fatos da Dica 2, você pode se
+assegurar de que a garota tinha 10 anos
+quando o garoto tinha a idade atual dela.
+De lá  pra cá, X anos se passaram, e o
+garoto chegou aos 20, enquanto a garota
+chegou na sua idade atual. Se conseguir
+encontrar o número de anos que, somado a
+10 e subtraído se 20, dê a mesma idade,
+você estará muito perto de achar a idade
+atual da garota.
+
+Então, qual seria o valor de X?
 !******************************!
 [n71.dat]
 <0072>Fotos Embaralhadas
@@ -1640,161 +1640,157 @@ então esta deve ter sido tirada depois
 de B.
 !******************************!
 [n72.dat]
-<0073>Can Conundrum
+<0073>O Mistério das Latas
 <00><1E><1B><18><11><29><02><48><E8><03><04><FF>
-A number of identical cans are hanging from
-a tree. While all the cans here may look
-empty, one is actually filled with water.
-See if you can find it.
+Um número de latas idênticas estão penduradas
+em uma árvore. Por mais que todas as latas
+aqui possam parecer vazias, uma está cheia
+de água. Tente descobrir.
 
-When deducing your answer, ignore the
-weight of each string and stick. 
+Enquanto deduz sua resposta, ignore o peso
+de cada graveto e fio.
 !******************************!
-Nicely done!
+Muito bem feito!
 
-The answer is A. The biggest stick connects
-to the branch at a point left of the centre
-of the stick. Four cans hang from each side
-of this big stick, but because the string
-holding it to the tree is left of centre,
-the set of four cans on the left must be
-heavier than the ones on the right.
-A, B, C and D all hang from the left side
-of the big stick. However, judging by the
-number of cans and the positions of the
-strings, it's easy to see that A is the
-heaviest.
+A resposta é A. O maior graveto conecta-se no
+galho no canto da esquerda da parte central
+do graveto. Quatro latas estão penduradas
+em cada canto desse grande graveto, mas por
+causa do fio segurando a árvore está na
+esquerda central, o conjunto de quatro latas
+da esquerda deve ser mais pesada que da direita.
+A, B, C e D estão todas suspensas no lado
+esquerdo do graveto. Entretanto, julgando pelo
+número de latas e as posições dos fios, é
+fácil saber que a lata A é a mais pesada.
 !******************************!
-Too bad!
+Que pena!
 
-Think hard about this puzzle and try again.
+Pense mais sobre esse enigma e tente novamente.
 !******************************!
-Study each can one at a time and
-observe how they're balanced, relative
-to each other.
+Estude cada lata por vez e observe como
+elas estão suspensas, em relação de uma
+a outra.
 !******************************!
-Notice how the biggest stick is level
-even though it's connected to the tree
-at a point left of the stick's centre.
+Perceba como o maior graveto está equilibrado
+mesmo que ele esteja conectado na árvore
+pelo ponto esquerdo do centro do graveto.
 
-This shows that the water must be in
-one of the four cans hanging from the
-left side of the big stick.
+Isso mostra que a água deve estar em uma
+das quatro latas suspensas do lado
+esquerdo do grande graveto.
 !******************************!
-We know that the water is in one of
-the four cans on the left, so finding
-the can in question should be a breeze.
+Já sabemos que a água está em uma das
+quatro latas da esquerda, então encontrar
+a lata deve ser mamão com açúcar.
 
-Just look at the position of the four
-cans on the left relative to the
-string attaching all four cans to the
-big stick above. Which can looks
-heavier than the others?
+Apenas veja a posição das quatro latas
+da esquerda e a relação do fio anexando
+as quatro latas com o grande graveto
+acima. Qual lata se parece mais pesada
+que as outras?
 !******************************!
 [n73.dat]
-<0074>Sealing Off the Smell
+<0074>Bloqueando o Cheiro
 <00><1E><1B><18><12><3A><03><49><E9><03><04><18>
-Garlic is a wonderful seasoning when used
-in moderation, but the smell can be pretty
-potent. Someone put garlic cloves in this
-intricate container and they're really
-stinking up the room. Use the two corks
-below to help our friend deal with the
-smell.
+O alho é um ingrediente maravilhoso quando
+usado com moderação, mas o cheiro pode ser
+bem poderoso. Alguém pôs uns dentes de alho
+nesse contêiner e eles realmente estão
+fedendo a sala. Use as duas rolhas abaixo
+para ajudar o nosso amigo a lidar com
+o odor.
 
-Touch the screen in the place you want to
-put the corks. Your answer must use no
-more than two corks.
+Toque na tela para deixar a rolha no lugar
+que quiser. Sua resposta deve utilizar
+nada mais que duas rolhas.
 !******************************!
-Ah, sweet relief!
+Ah, que alívio!
 
-Each of the three holes in the container is
-connected to the garlic, so there's no real
-way to seal off the container using two
-corks. With no way to contain the smell, our
-friend had no choice but to plug up his
-nostrils.
+Cada um dos três buracos no contêiner está
+conectado com os alhos, então não há nenhuma
+maneira de bloqueá-los usando apenas duas
+rolhas. Já que não há forma alguma de conter
+o odor, nosso amigo não teve escolha senão
+entupir suas narinas.
 
-Hopefully he had the good sense to stay
-inside where no one could see him like that!
+Ainda bem que ele teve bom senso em ficar
+dentro de onde ninguém conseguiria vê-lo assim!
 !******************************!
-Too bad!
+Que pena!
 
-Those corks aren't doing the trick in their
-current locations.
+Essas rolhas não estão fazendo o truque
+nesses locais escolhidos.
 !******************************!
-The most logical thing to do at first is
-to use the Memo Function to trace which
-openings in the container lead to the
-garlic cloves.
+A coisa mais lógica a se fazer primeiro é
+usar a Função Memo para traçar quais
+aberturas no contêiner levam para os
+dentes de alho.
 !******************************!
-Hmm? Something seems strange, you say?
+Hã? Algo parece estranho, você diz?
 
-Why yes, the fact that all three
-openings in the container connect to
-the garlic is a bit strange...
+Bem, sim, o fato de que todas as três
+aberturas do contêiner conectam-se ao
+alho é bem estranho...
 
-How to contain the smell then?
+Então como conter o odor?
 !******************************!
-Since you're only allowed to use
-two corks, you can't block all three
-openings in the container.
+Já que você está permitido a usar apenas
+duas rolhas, você não pode bloquear todas
+as três aberturas no contêiner.
 
-You'll just have to look for another
-set of openings that can be sealed
-off using only two corks.
+Você terá que descobrir outro par de
+aberturas que podem ser bloqueadas
+usando apenas duas rolhas.
 !******************************!
 [n74.dat]
-<0075>Sweets for Five
+<0075>Doces para Cinco
 <00><19><16><13><12><38><09><4A><EF><03><04><28>
-You have a box of four different kinds of
-sweets arranged in no particular order.
-Your job is to divide these treats into
-five equal portions. To do so, you need
-to make sure each portion contains the
-exact same number and variety of sweets.
+Você tem uma caixa com quatro diferentes
+tipos de doces dispostos em nenhum ordem
+em particular. Seu trabalho é dividir essas
+gostosuras em cinco porções iguais. Para
+tanto, é preciso se certificar de que cada
+porção contenha exatamente o mesmo número
+e variedade de doces.
 
-Got it? Good, then get started!
+Entendeu? Perfeito, vamos começar!
 !******************************!
-Sweet!
+Delícia!
 
-The puzzle's solution is shown above.
+A solução do enigma está mostrada acima.
 
-Now remember, those sweets are for
-everyone, so don't forget to share!
+Agora lembre-se: os doces são para todos,
+então não se esqueça de dividir!
 !******************************!
-Too bad!
+Que pena!
 
-Give the puzzle another try.
+Tente resolver o enigma novamente.
 !******************************!
-First, count out how many sweets you
-have. There are four types of sweet.
-You only have five of the first three
-types, but 10 of the fourth type.
-You therefore have to put two of this
-fourth type of sweet into each of the
-five portions.
+Primeiro, conte quantos doces você tem.
+Há quatro tipos de doce. Você só tem cinco
+dos três primeiros tipos, mas 10 do quarto
+tipo. Portanto, é preciso colocar dois do
+quarto tipo em cada uma das cinco porções.
 !******************************!
-Look for sweets that are one per
-portion, in other words, sweets of
-which there are only five in total.
-If you find two of these sweets next to
-each other, you can draw a line between
-them, since they can't be in the same
-portion.
+Veja os doces que são de um por porção,
+ou seja, doces cujo total seja cinco.
+Se achar dois desses doces próximos um
+do outro, você pode desenhar uma linha
+entre eles, visto que não podem ficar na
+mesma porção. 
 
-Start by drawing in these lines.
+Comece desenhando essas linhas.
 !******************************!
-Do you see the three of the same kind
-of sweet in the third row? The leftmost
-two sweets there are part of a single
-portion. The third of those three
-sweets and the identical sweet directly
-below it are part of a different portion.
+Viu três do mesmo tipo de doces na
+terceira fileira? Os dois doces mais a
+esquerda são parte de uma única porção.
+O terceiro doce dos três e o doce idêntico
+diretamente abaixo dele são parte de uma
+porção diferente.
 
-Now that you know that much, you
-shouldn't have too much trouble
-finishing the puzzle.
+Agora que você sabe tudo isso, não deve
+ser mais complicado terminar o enigma.
 !******************************!
 [n75.dat]
 <0076>Topo da Torre
@@ -1848,317 +1844,317 @@ de fora da torre. E achá-lo será
 mais óbvio do que você imagina.
 !******************************!
 [n76.dat]
-<0077>Balancing Ornaments
+<0077>Enfeites Balançantes
 <00><1E><14><0A><11><46><1A><4C><00><04><04><46>
-Small ornaments dangle from a metal bar, and
-they've thrown the bar off balance.
+Esses pequenos enfeites estão pendurados
+em uma barra de metal, e fizeram com que
+a barra ficasse desequilibrada.
 
-The five ornament strings are spaced
-equally apart and each type of ornament
-weighs a different amount. Three light
-ornaments weigh the same as one heavy
-ornament, while two light ornaments weigh
-the same as a medium ornament.
+O espaço que há entre as cinco cordas
+dos enfeites é igual, e cada tipo de
+enfeite tem um peso diferente. Três
+enfeites leves pesam o mesmo que um
+enfeite pesado, e dois enfeites leves
+pesam o mesmo que um enfeite médio.
 
-Place one of the three ornaments in the
-rectangle into the space marked <''>?<''> to
-restore the bar's balance.
+Pegue um dos três enfeites no retângulo
+abaixo, e coloque-o no espaço com uma <''>?<''>
+para recuperar o equilíbrio da barra.
 !******************************!
-Good job!
+Bom trabalho!
 
-The crescent moon ornament is just heavy
-enough to balance things out. A single
-star ornament weighs the same as one sun
-and one moon together. The strand of
-ornaments that is supposed to
-counterbalance the one with a <''>?<''> doesn't
-have any star-shaped ornaments, but if you
-compare the ornaments as shown above you
-can work out what should go in the <''>?<''>
-space regardless.
+O enfeite de lua crescente tem o peso
+certo para equilibrar as coisas. Um único
+enfeite de estrela pesa o mesmo que um
+sol e uma lua juntos. A corda de enfeites
+que deveria compensar a da <''>?<''> não tem
+nenhum enfeite de estrela, mas se você
+comparar os enfeites como mostrado acima,
+verá qual é o que tem que colocar na <''>?<''>
+para equilibrar o conjunto.
 !******************************!
-Too bad!
+Que pena!
 
-Concentrate on working out which of the
-three ornaments must be the heaviest.
+Concentre-se em descobrir qual dos
+três enfeites é o mais pesado.
 !******************************!
-The middle strand of ornaments doesn't
-affect the balance of the bar, so ignore
-it.
+A corda do meio não afeta o equilíbrio
+da barra, então ignore-a.
 
-Also, the two strands hanging at the
-ends of the bar are the same weight, so
-try comparing the ornaments on the far
-left to the ornaments on the far right.
-You might find out something new.
+Além disso, as duas cordas situadas nas
+pontas da barra têm o mesmo peso, então
+tente comparar os enfeites da ponta
+esquerda com os da ponta direita.
+Você talvez descubra algo novo.
 !******************************!
-Look at the strands on the far left and
-the far right. While they both contain
-sun and moon ornaments, only the far
-right strand has a star.
-By comparing the ornaments on these
-two strands, you can probably work
-out how many suns and moons it takes
-to equal the weight of a star.
+Olhe para as cordas das pontas esquerda
+e direita. Embora ambas possuam enfeites
+de sol e lua, apenas o da ponta direita
+tem uma estrela.
+Ao comparar os enfeites nessas duas
+cordas, você provavelmente descobrirá
+quantos sóis e luas são necessárias
+para igualar o peso de uma estrela.
 !******************************!
-A single star weighs the same as one
-sun and one moon.
+Uma única estrela pesa o mesmo que
+um sol e uma lua.
 
-Now that you know the weight of one
-star, you should now be able to compare
-the two strands next to the middle
-strand.
+Agora que você sabe o peso de uma
+estrela, você deve conseguir comparar
+as duas cordas próximas à do meio.
 !******************************!
 [n77.dat]
-<0078>A Maze of Doors
+<0078>Um Labirinto de Portas
 <00><19><14><0F><12><47><05><4D><EB><03><04><45>
-All the doors in the maze below only open
-when pushed from one direction, as shown.
+Todas as portas no labirinto abrem apenas
+quando empurradas de uma direção, como mostrado.
 
-It is therefore impossible to pass through
-every room while going through the maze
-from the entrance to the exit. However,
-this feat would be possible if one of the
-doors could open in the opposite direction.
-Can you find and circle this door?
+No entanto, é impossível passar por cada
+sala enquanto anda pelo labirinto pela
+entrada até a saída. Entretanto, esse feito
+só é possível se uma das portas pudesse ser
+aberta na direção oposta. Por acaso você
+consegue descobrir e circular essa porta?
 !******************************!
-You did it!
+Você conseguiu!
 
-You have to pass through every room on the
-way to the exit to solve the puzzle, but no
-one ever said you can't pass through the
-same room twice.
+Você tem que passar por cada sala no caminho
+até a saída para resolver o enigma, mas
+ninguém disse que você não poderia passar
+pela mesma sala duas vezes.
 !******************************!
-Too bad!
+Que pena!
 
-Use the Memo Function to draw your
-proposed route while you think about the
-problem.
+Use a Função Memo para desenhar sua rota
+proposta enquanto você pensa mais sobre
+o problema.
 !******************************!
-Let's review this puzzle's conditions.
-You need to make one door open in the
-opposite direction and you must pass
-through every room on your way to the
-exit.
+Vamos revisar as condições desse enigma.
+Você precisa fazer uma porta abrir na
+direção oposta e se deve passar por
+todas as salas no seu trajeto para a
+saída.
 
-But no one ever said you could only pass
-through each room once.
+Mas ninguém disse que você só poderia
+passar por cada sala uma única vez.
 
 !******************************!
-Starting from the entrance, you'll soon
-bump into a door that should open the
-opposite way. So, to proceed, one of the
-first doors you meet will have to open
-in the opposite direction.
+Começando pela entrada, você logo irá
+se esbarrar na porta que se deve abrir
+pelo lado oposto. Então, para proceder,
+uma das primeiras portas que você irá
+se encontrar terá que ser aberta na
+direção oposta.
 
-The upper door in the first room and
-the two doors in the room to the
-immediate right of the first room open in
-a direction that keeps you from passing
-through. One of these three doors is
-the door you'll need to change.
+Entre a porta de cima da primeira sala e
+as duas portas da sala da direita dessa
+primeira sala está a porta que lhe
+impede de prosseguir. Uma dessas três
+portas é a porta que você precisa mudar.
 !******************************!
-The upper door in the first room is
-fine the way it is.
+A porta de cima da primeira sala
+está ótima do jeito que está.
 !******************************!
 [n78.dat]
-<0079>The Gear Switch
+<0079>O Interruptor de Engrenagens
 <00><14><0A><05><11><46><02><4E><E8><03><04><FF>
-The button that opens the door in front of
-you is buried deep within this machine, so
-you can't push it directly. However, by
-pulling the lever at the top to the left or
-right, you can move the various gears and
-plates in the machine, allowing you to press
-the button at the bottom.
+O botão que abre a porta à sua frente está
+dentro dessa máquina, então não dá para
+apertá-lo diretamente. Porém, se puxar uma
+das alavancas esquerda ou direita, você
+moverá várias engrenagens e mecanismos na
+máquina, permitindo assim que o botão ao
+fundo seja pressionado.
 
-In order to push the green button, should
-you pull the lever towards A or B?
+Para apertar o botão verde, você deve
+puxar a alavanca A ou a B?
 !******************************!
-Nicely done!
+Muito bem pensado!
 
-Moving the lever towards B will spin the
-gears in a way that causes the bottom lever
-to hit the green button.
+Mover a alavanca para a direção B girará
+as engrenagens de tal maneira que fará a
+alavanca ao fundo acertar o botão verde.
 
-Since there are only two possible answers
-for this puzzle, you could have just
-guessed, but hopefully you were able to
-work it out properly!
+Já que só há duas respostas possíveis para
+este enigma, você talvez tenha simplesmente
+acertado na base da adivinhação, mas
+se pensar bem, com certeza você encontraria
+a solução sozinho!
 !******************************!
-Too bad!
+Que pena!
 
-There are only two ways to answer this
-question, so the answer must be the option
-you didn't pick.
+Só há duas alternativas para este enigma,
+então a resposta só pode ser a opção que
+você não escolheu.
 
-Before you answer, though, think the puzzle
-through so you can understand the solution.
+Porém, antes de responder, pense um pouco
+neste enigma para que você consiga entender
+a solução.
 !******************************!
-When one gear rotates with another, the
-two gears must rotate in opposite
-directions.
+Quando uma engrenagem roda junto com
+outra, as duas devem girar em direções
+opostas.
 
-Use the Memo Function to keep track of
-the direction of each gear's rotation.
+Use a Função de Notas para memorizar
+a direção do giro de cada engrenagem.
 !******************************!
-The gear at the very bottom has to
-rotate clockwise to hit the switch,
-so the board of teeth directly above it
-will need to move to the right.
-Make sense? Now continue that line of
-thought as you move up towards the
-lever.
+A engrenagem na parte inferior tem
+que girar em sentido horário para
+acertar o interruptor, então a placa
+logo acima dela terá que se mover para
+a direita. Entendeu? Agora continue por
+esta linha de raciocínio seguindo de
+baixo, rumo à alavanca em cima.
 !******************************!
-The board of teeth underneath the
-three gears at the top needs to move to
-the left. Therefore, the gear directly
-above it needs to rotate clockwise.
+A placa debaixo das três engrenagens
+na parte de cima precisa se mover para
+a esquerda. Logo, a engrenagem que está
+diretamente acima dela precisa girar em
+sentido horário.
 
-Keep going until you reach the lever at
-the top!
+Continue por essa linha até chegar à
+alavanca no topo!
 !******************************!
 [n79.dat]
-<0080>The Puzzling Lift
+<0080>O Circuito do Elevador
 <00><28><24><20><02><48><19><4F><FF><03><04><FF>
-The circuit board for the lift contains a
-puzzle. According to the instructions, you
-need to make the blue and red balls switch
-places in order to restore power to the
-lift. Are you up to the task?
+O circuito do elevador contém um enigma.
+De acordo com as instruções, você precisa
+fazer a bola azul e a vermelha trocarem
+de lugares para restaurar a energia do
+elevador. Você aceita a tarefa?
 !******************************!
-Good job!
+Bom trabalho!
 
-So, how many moves did it take you to
-complete the task? If you did it in 12
-moves, give yourself a pat on the back!
+Então, com quantos movimentos você
+completou essa tarefa? Se você conseguiu
+com 12, pode se dar um tapa nas costas!
 
-Oh... Listen! Do you hear that? It sounds
-like the lift is up and running again.
+Ah... Escute! Ouviu aquilo? Parece que
+o elevador está funcionando novamente.
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-There are several ways you could go
-about solving this puzzle. One sure-fire
-technique is to work with those
-L-shaped blocks. You can free up some
-extra room by moving these blocks so
-that they fit together neatly with
-neighbouring blocks.
+Há várias formas de resolver esse enigma.
+Uma técnica muito boa é lidar com esses
+blocos com formato de L. Você pode liberar
+um espaço extra movendo esses blocos para
+que eles se encaixem bem com os blocos
+vizinhos.
 
 !******************************!
-In order to get both of those balls to
-swap places, you first need to move one
-ball out of its hole and park it
-somewhere while you move the other one.
-To do so, clear out some space by
-gathering all those L-shaped blocks
-on either the left or right side of
-the box.
+Para fazer as duas bolas trocarem de
+lugares, você precisa primeiro mover
+uma bola para fora de seu buraco e deixá-la
+em algum lugar enquanto você move a outra.
+Para fazer isso, libere mais espaço
+levando todos os blocos em formato de L
+para o lado esquerdo ou direito da caixa.
 !******************************!
-If the method from Hint 2 isn't working
-for you, here's another technique you
-can try. Create space by slotting
-L-shaped blocks together to create
-rectangles. In order to do this your goal
-should be to move the L-shaped blocks
-to the opposite edges of the box before
-combining them.
+Se o método da Dica 2 não está funcionando
+pra você, aqui está outra técnica que
+você pode tentar. Crie um espaço unindo
+os blocos com formato de L juntos, criando
+retângulos. Para fazer isso o seu objetivo
+deve ser mover os blocos com formato de
+L para os cantos opostos da caixa antes
+de combiná-los.
 !******************************!
 [n80.dat]
-<0081>The Old Safe
+<0081>O Cofre Antigo
 <00><32><2D><28><11><49><0A><50><53><04><04><FF>
-Find the four-digit code that opens the
-safe. You can use the digits 0 to 5 in your
-answer, but each digit can only be used
-once. The small lights next to each row of
-digits are the key to finding the code, as
-they tell you how much in common that row
-has with the code. A white light indicates a
-digit that is in the code but in a different
-place in the sequence. An orange light
-indicates a digit that is in the code and in
-the correct spot. Touch the digits at the
-bottom of the screen to change them, then
-touch #rSubmit#x when you have your answer.
+Descubra a senha de quatro dígitos que abre
+o cofre. Você pode usar os dígitos de 0 a 5
+em sua resposta, mas cada dígito só pode ser
+usado uma vez. As luzinhas próximas de cada
+fileira são a chave para descobrir o código,
+dizendo o quanto em comum aquela fileira tem
+com o código. Uma luz branca indica que o
+dígito está no código, mas em um lugar diferente
+na sequência. Uma luz laranja indica um
+dígito que está no código e está na posição
+correta. Toque nos dígitos na tela de baixo
+para mudá-los e então toque em #rEnviar#x
+quando decidir a sua resposta.
 !******************************!
-That's right!
+Está certo!
 
-The code is 0154. You could solve this by
-entering numbers haphazardly until you
-stumble upon the solution, but it's much
-more fun to think your way to the answer.
+O código é 0154. Você poderia resolver isso
+digitando números aleatoriamente até
+encontrar a solução, mas é muito mais
+divertido descobrir a resposta pensando.
 !******************************!
-Too bad!
+Que pena!
 
-Give the puzzle another try.
+Tente esse enigma outra vez.
 !******************************!
-Start by working out which digits belong
-in the code, regardless of order.
+Comece a descobrir quais números
+pertencem ao código, independente da ordem.
 !******************************!
-You may have already noticed, but every
-digit in the code is in the very top row
-of digits. Two of the digits in 4150 are
-even in the right place.
+Você já deve ter percebido, mas cada
+dígito no código está na primeira fileira
+de dígitos. Dois dos dígitos no 4150 estão
+até no lugar correto.
 !******************************!
-Take a look at the third row of digits.
+Olhe na terceira fileira de dígitos.
 
-You can see that two digits match ones
-in the code and are in the correct
-position. Since you know the code uses
-4, 1, 5 and 0, you can assume the 0
-and 1 from this row are part of the
-code and in the right place.
+Você consegue ver que dois dígitos
+estão certos no código e na posição
+correta. Já que você sabe que o código
+usa 4, 1, 5 e 0, você já pode assumir
+que o 0 e 1 dessa fileira fazem parte
+do código e na posição certa.
 
-Now work out where 4 and 5 go.
+Agora descubra onde o 4 e 5 vão ficar.
 !******************************!
 [n81.dat]
-<0082>Restarting the Lift
+<0082>Reiniciando o Elevador
 <00><1E><1B><18><11><49><0F><51><F5><03><04><FF>
-The wires connecting the lift to the button
-controlling it have somehow been severed.
-However, if you can connect the
-negative (-) and positive (+) wires on the
-top to the wires carrying the same charge
-below, you can fix the lift. To do this,
-draw lines between sets of terminals.
-Draw two lines to connect each positive and
-negative terminal to its counterpart and
-get the lift running again.
+Os fios que conectam o elevador ao botão
+que o controla de alguma forma foram
+danificados. Todavia, se conseguir ligar
+os fios negativos (-) e positivos (+) em
+cima aos fios com a mesma carga abaixo,
+você poderá consertar o elevador. Para
+isso, desenhe linhas entre os conjuntos
+de terminais. Desenhe duas linhas para
+ligar cada terminal positivo e negativo
+à sua contraparte e faça o elevador
+funcionar de novo.
 !******************************!
-We're back in business!
+Estamos de volta à ativa!
 
-The lift is working again!
+O elevador está funcionando de novo!
 !******************************!
-Too bad!
+Que pena!
 
-Did you make sure to connect the positive
-wire (+) and negative wire (-) to wires
-with the same charge?
+Certificou-se de ligar o fio positivos
+(+) e o negativo (-) aos fios de mesma
+carga?
 !******************************!
-You need to connect wires with the same
-symbol together. So + goes with + and
-- with another -.
+Você precisa ligar fios com o mesmo
+símbolo. Logo, + vai com + e - vai
+com -.
 
-If you examine the tangle of wires,
-finding the solution should be simple
-enough.
+Se examinar o emaranhado de fios,
+achar a solução deve ser simples. 
 !******************************!
-To make things simpler, identify the
-wires that are connected to some other
-area off the screen and eliminate them
-as possible answers.
+Para simplificar, identifique os fios
+que estão conectados a alguma outra
+área fora da tela e elimine-os como
+resposta viáveis.
 
-In the top row of wires, the rightmost
-wire and the one third from the right
-run off the screen.
+No grupo de cima de fios, o mais à
+direita e o terceiro da direita vão
+para fora da tela.
 !******************************!
-The leftmost terminal in the top set
-of four is connected to the wire
-carrying a negative (-) current.
+O terminal mais à esquerda no conjunto
+de quatro na parte de cima está
+conectado ao fio com carga de corrente
+negativa (-).
 
-Now it's up to you to work out the other
-three terminals you need to use.
+Agora só depende de você descobrir os
+outros três terminais necessários.
 !******************************!
 [n82.dat]
 <0083>Pilhas de Panquecas 2
@@ -2316,140 +2312,140 @@ ver os números escondidos dentro de
 cada uma delas.
 !******************************!
 [n85.dat]
-<0086>Perplexing Figures
+<0086>Imagens Perplexas
 <00><23><1F><1B><12><5D><09><55><EF><03><04><19>
-A series of figures are arranged and
-numbered as shown below. As you can see,
-the figure that should go in space 1 is
-missing. Can you draw the figure that
-belongs in this space?
+Uma série de imagens estão organizadas
+e numeradas como mostrado abaixo. Como
+você pode ver, a imagem que deveria estar
+no espaço 1 sumiu. Você consegue desenhar
+a imagem que pertence a esse lugar?
 
-Slide the stylus over the guide lines to draw
-the figure.
+Passe a stylus nos traços-guia para
+desenhar a imagem.
 
 
 !******************************!
-Good job!
+Bom trabalho!
 
-The peculiar sequence of figures is actually
-the first six letters of the alphabet
-displayed in a seven-segment LED style and
-mirrored as shown above.
+A sequência peculiar de imagens é na verdade
+as seis primeiras letras do alfabeto mostradas
+numa fonte de relógio digital e espelhadas
+como mostrado acima.
 
-Since you have letters B to F, logic dictates
-that the missing figure should be a mirrored
-version of the letter A.
+Já que você tinha as letras de B a F, a lógica
+pede que a imagem desaparecida deveria ser
+uma versão espelhada da letra A.
 !******************************!
-Too bad!
+Que pena!
 
-Study the details of each figure one more
-time.
+Estude os detalhes de cada imagem mais
+uma vez.
 !******************************!
-Focus on the right half of figures two
-to six.
+Foque na metade da direita das imagens
+de dois a seis.
 !******************************!
-Look closely. There's a letter hidden
-within each figure.
+Olhe bem. Tem uma letra escondida em
+cada imagem.
 !******************************!
-Considering the pattern going on in
-the shapes, the first figure should
-correspond to the letter A.
+Considerando o padrão ocorrendo nas
+formas, a primeira imagem corresponde
+a letra A.
 !******************************!
 [n86.dat]
-<0087>Different Suits
+<0087>Naipes Diferentes
 <00><28><24><20><11><44><0A><56><50><04><04><FF>
-Below are 16 cards. There are four cards
-from each suit: diamonds, clubs, spades
-and hearts. The cards are arranged in a 4x4
-grid as shown below, and four cards have
-already been placed down.
+Abaixo estão 16 cartas. Há 4 quatro cartas
+de cada naipe: ouros, paus, espadas e copas.
+As cartas estão arrumadas em uma área 4x4
+como mostrado abaixo, e quatro cartas já
+foram colocadas.
 
-Arrange the remaining cards so that each
-vertical column, horizontal row and 
-#rdiagonal line#x of four cards contains
-one card from each suit. Touch a card to
-change its suit.
+Reorganize as cartas remanescentes para
+que cada coluna vertical, fileira horizontal
+e linha diagonal de quatro cartas contendo
+uma quarta de cada naipe. Toque uma carta
+para trocar seu naipe.
 !******************************!
-Nicely done!
+Bom trabalho!
 
-Did that one give your brain a workout?
-It's a great puzzle to set up with real
-cards and share with a friend.
+Esse de agora fez seu cérebro sair fumaça?
+É um ótimo enigma para se montar com
+cartas reais e compartilhar com os amigos.
 !******************************!
-Too bad!
+Que pena!
 
-Check over your solution to make sure
-you didn't make any mistakes.
+Confira sua resposta para se certificar
+de que não cometeu nenhum erro.
 !******************************!
-There's a card on the table that belongs
-to the row the heart is in, the column
-the club is in and the diagonal line the
-diamond is in. Therefore, you can safely
-conclude that this card must be a spade.
-This is the kind of logic you'll need to
-use to solve this puzzle.
-
+Há uma carta em cima da mesa que pertence
+à fileira na que a de copas está, à
+coluna em que a de paus está, e na
+linha diagonal em que a de ouros está.
+Portanto, você pode concluir seguramente
+que essa carta tem de ser de espadas.
+Essa é a logica a qual se precisa seguir
+para resolver o enigma.
 !******************************!
-What card do you suppose belongs in the
-bottom-left corner? This column already
-has a diamond and heart in it and
-there's a spade to the immediate right
-of this space, so the card in question
-must be a club.
+Qual carta você acha que deve ficar no
+canto inferior esquerdo? Essa coluna já
+tem uma de ouros e outra de copas nela e
+há uma de espadas imediatamente à direita
+do espaço, então a carta em questão tem de
+ser uma de paus.
 
-Knowing this, you can also fill in the
-last card in the leftmost column, which
-has to be a spade.
+Sabendo disso, você também pode preencher
+o último espaço na coluna mais da esquerda,
+que tem de ser uma de espadas.
 !******************************!
-The card in the top-right corner is a
-spade and the one at the bottom of that
-same column is a heart.
+A carta no canto superior direita é uma
+de espadas e a na base dessa mesma coluna
+é uma de copas.
 
-The rest of the solution is up to you,
-but it shouldn't be too hard to work
-out.
+O resto da resposta depende de você,
+mas não deve ser mais difícil descobrir
+deste ponto agora.
 !******************************!
 [n87.dat]
-<0088>The Frog's Path
+<0088>O Trajeto do Sapo
 <00><1E><1B><18><11><57><16><57><F6><03><04><FF>
-A frog sits perched on the white space in
-the diagram below. This little guy has an
-unusual jump. His first jump travels one
-space, his second jump travels two spaces,
-and his third jump travels three spaces.
-After his third jump, he repeats this
-pattern. The frog can't change his
-direction mid-jump, but he can turn around
-between jumps.
+Um sapo está sentado no espaço branco do
+diagrama abaixo. Esse carinha tem um pulo
+incomum. Seu primeiro salto avança um espaço,
+seu segundo salto avança dois espaços e seu
+terceiro salto avança três espaços. Após
+seu terceiro salvo, ele repete esse padrão.
+O sapo não pode mudar a direção em pleno ar,
+mas ele pode retroceder no caminho entre
+os saltos.
 
-This frog's goal is to land exactly on the
-green space. What is the fewest number of
-jumps he needs to make to complete this
-task?
+O objetivo desse sapo é aterrissar exatamente
+no espaço verde. Qual é o menor número de
+saltos que ele precisa fazer pra completar
+essa tarefa?
 !******************************!
-That's the way to do it!
+É assim que se faz!
 
-As shown in this diagram, if you make
-the frog jump back the way he came
-twice, he can make it to the green square
-in 12 hops.
+Como mostrado nesse diagrama, se você
+fizer o sapo pular de volta no caminho
+que ele veio duas vezes duas vezes, ele
+pode ir para o espaço verde com 12 saltos.
 !******************************!
-Too bad!
+Que pena!
 
-Give the puzzle another try.
+Tente o enigma outra vez.
 !******************************!
-The solution for this puzzle requires
-the frog to jump back the way he came
-a number of times.
+A solução para esse enigma requer que
+o sapo volte o caminho que ele veio
+um certo número de vezes.
 !******************************!
-Have you ever heard the saying
-<''>one step forward, two steps back<''>?
+Já ouviu falar do ditado <''>um passo pra
+frente, dois passos pra trás<''>?
 
-This line is useful to remember, but don't
-follow its advice too literally. 
+Essa frase é bem útil de se lembrar, mas
+não siga esse conselho tão literalmente.
 
 !******************************!
-The frog will need to backtrack twice.
+O sapo terá que retroceder duas vezes.
 !******************************!
 [n88.dat]
 <0089>Festa nos Canteiros de Flores
@@ -2502,146 +2498,146 @@ de forma. Que forma seria essa, e como
 ela impacta na resolução desse enigma?
 !******************************!
 [n89.dat]
-<0090>The Unusual Fountain
+<0090>A Fonte Incomum
 <00><14><12><10><11><34><05><59><EB><03><04><FF>
-The fountain shown below has the unusual
-ability to indicate the age of those who
-approach it.
+Uma fonte mostrada abaixo tem uma
+habilidade incomum de dizer a idade
+daqueles que se aproximam dela.
 
-For example, if a five-year-old child were
-to approach, the fountain would fire off
-water from spouts A, B, C, D and E in that
-order. For age 15, the middle spout would
-fire, followed by spouts A to E. For
-someone aged 30, the middle spout would
-fire off three times. Given the fountain's
-method of indicating age, there's one
-utterly useless spout on the fountain.
-Find and circle this spout.
+Por exemplo, se uma criança de cinco
+anos se aproximasse, a fonte soltaria água
+dos esguichos A, B, C, D e E nessa ordem.
+Para alguém com 15, o esguicho do meio 
+soltaria água, seguida pelas A a E.
+Para alguém com 30, o esguicho do meio
+soltaria água três vezes. Tendo em vista
+o método da fonte de dizer a idade, há
+um esguicho deveras inútil na fonte.
+Ache e circule esse esguicho.
 !******************************!
-Good catch!
+Bom faro!
 
-The spout marked J is basically useless.
-A to I represent a unit of one year each,
-displaying numbers from 1-9, and the middle
-spout represents a unit of 10 years, spout
-J will never be used. 
+O esguicho J é basicamente inútil.
+A a I representam uma unidade de um ano cada,
+mostrando números de 1 a 9, e o esguicho do
+meio representa uma unidade de 10 anos.
+Assim, o esguicho J nunca será usado. 
 !******************************!
-Too bad!
+Que pena!
 
-Think about the fountain's method of
-indicating age.
+Pense melhor sobre o método
+da fonte de dizer a idade.
 !******************************!
-The puzzle asks for you to find a spout
-that's utterly useless, meaning the 
-spout never gets used. Which one could
-that be?
+O enigma está pedindo para você encontrar
+um esguicho que é deveras inútil, o que
+significa que ele nunca é usado. Qual seria?
 !******************************!
-Read over the conditions that cause
-each spout to spray water, then try
-applying that knowledge. For example,
-think about how the fountain would
-indicate the ages from 10 to 20.
+Leia atentamente as condições que 
+fazem com que cada esguicho solte 
+água e, então, tente aplicar o que aprendeu. 
+Por exemplo, pense direito sobre como
+a fonte diria as idades de 10 a 20.
 !******************************!
-Spout A fires off to indicate one year,
-A and B fire for two, A, B and C for
-three, A, B, C and D for four and so on.
+O Esguicho A informa 1 ano de idade.
+A e B, dois. A, B e C, três.  A, B, C e D,
+quatro, e por aí vai.
 
-So, if spouts A-I all firing off one
-after another are meant to indicate
-nine, then...
+Logo, se os esguichos A a I soltarem
+água uma vez um após o outro significa
+que estão informando 9 anos de idade,
+então...
 !******************************!
 [n90.dat]
-<0091>Sharing the Wealth
+<0091>Repartindo a Riqueza
 <00><1E><1B><18><11><24><09><5A><EF><03><04><FF>
-A wealthy land baron passed away, leaving
-his land to be divided amongst his sons.
-A section of his will is written below.
+Um rico barão faleceu, deixando suas terras
+para serem repartidas por seus filhos. Uma
+parte de seu testamento está mostrada abaixo:
 
-<''>I want my four boys to each receive a
-piece of property containing an orchard,
-a house, a pond and an open field.
-Everyone should receive the same amount
-of land.<''>
+<''>Quero que meus quatro garotos recebam
+cada um uma parte de meu terreno contendo
+uma orquídea, uma casa, uma lagoa e um campo
+aberto. Todos devem receber um pedaço de
+terra de mesmo tamanho.<''>
 
-Draw lines using the stylus to separate
-each son's plot of land.
+Desenhe linhas usando a stylus para dividir
+o quinhão de cada filho.
+!******************************!
+Bom trabalho!
 
+Agora que todo mundo tem seu pedacinho
+de terra, esperemos que se deem bem.
 !******************************!
-Good job!
+Que pena!
 
-Now that everyone has their own land,
-hopefully they can all get along.
+Tente mais uma vez o enigma.
 !******************************!
-Too bad!
-
-Give the puzzle another try.
+Há 16 quadrados a serem divididos por quatro
+pessoas, então cada pessoa deve receber um
+pedaço de terra consistente em quatro quadrados.
 !******************************!
-There are 16 squares to be divided
-between four people, so every person
-should receive a parcel of land
-consisting of four squares.  
+Desenhe uma linha no meio do mapa
+do topo até embaixo.
 !******************************!
-Draw a line right down the middle of
-the map from top to bottom.
-!******************************!
-Next, lay down some boundaries so that
-no two houses are positioned on the
-same parcel of land.
+Em seguida, coloque alguns limites para
+que duas casas não fiquem no mesmo pedaço
+de terra.
 !******************************!
 [n91.dat]
-<0092>Precious Metals
+<0092>Metais Preciosos
 <00><28><24><20><11><25><17><5B><FD><03><04><FF>
-Lucky you! You've inherited a five-square
-plot of land that's rich in precious metals.
-Each chunk of copper ore has a value of
-one, each silver chunk has a value of three
-and each gold chunk has a whopping value of
-five. You're allowed to pick five squares
-of land for yourself, but the five squares
-must be connected to each other. Squares
-diagonal to one another don't count as
-connected.
+Que sorte! Você herdou um campo de cinco
+quadrados situado no meio de uma área rica
+em metais preciosos. Os pedaços de cobre
+valem 1, os de prata valem 3 e os de ouro
+valem 5. Você só pode clamar para si cinco
+quadrados de terra, e eles tem que estar
+conectados na horizontal ou na vertical.
+Quadrados na diagonal não contam.
 
-Your task is to claim the most valuable
-five-square plot possible. Can you do it?
+Sua tarefa é clamar para si os cinco
+quadrados do campo de modo a receber o
+maior valor possível, em metais.
+Consegue essa façanha?
 !******************************!
-You're rich!
+Você está rico!
 
-The plot of land displayed is the only one
-that acheives a value of 10, the highest
-value possible given the conditions of the
-puzzle.
+O mapa de terra exibido abaixo é o único
+que chega a um valor de 10, o maior
+possível, dadas as condições do enigma.
 !******************************!
-Too bad!
+Que pena!
 
-Nope, that's not it.
+Neca, não é isso não.
 !******************************!
-Gold ore is worth a whopping five times
-more than copper, so focus on claiming
-some of that.
+O minério de ouro vale 5 vezes mais
+que o de cobre, então concentre em
+clamar quadrados com esse tipo de
+metal.
 
-Wouldn't it be great if you could find
-a five-square plot of land with two
-pieces of gold ore on it? Sadly, that
-doesn't seem likely.
+Não seria ótimo se pudesse achar um
+mapa de terra de cinco quadrados que
+possua dois minérios de ouro nele?
+Infelizmente, isso parece improvável.
 !******************************!
-Unfortunately, no single five-square
-plot of land contains two pieces of
-gold ore.
+Infelizmente, não dá pra achar um
+mapa de terra com cinco quadrados
+de terra que contenha dois minérios
+de ouro.
 
-Now, it should be easy to find a plot
-that has two pieces of silver ore on
-it, but remember, your first priority
-is choosing the plot with the highest
-total value.
+Porém, deve ser fácil achar um mapa
+de terra que possua dois minérios de
+prata. Mas lembre-se que sua maior
+prioridade é alcançar o maior valor
+total.
 !******************************!
-Copper is worth one, silver is worth
-three and gold is worth five. Given
-these values, you should be able to find
-a single plot of land worth 10. Find
-this plot and you've found your answer.
+Cobre vale 1, prata vale 3 e ouro
+vale 5. Dados esses valores, você
+deve achar um único mapa de terra
+que valha 10. Ache este mapa e terá
+encontrado a resposta.
 !******************************!
+
 [n92.dat]
 <0093>Quantos Anos Eu Tenho?
 <00><1E><1B><18><11><27><16><5C><F6><03><04><FF>
@@ -2695,343 +2691,349 @@ e sua irmã agora tem duas vezes a
 idade dela.
 !******************************!
 [n93.dat]
-<0094>Puzzling Cubes
+<0094>Cubinhos Enigmáticos
 <00><28><1E><14><11><36><10><5D><F6><03><04><FF>
-Eight cubes have been created based on the
-flat plan shown below. These have been
-combined to build a larger cube. One of the
-eight small cubes has had the letters on
-each of its faces erased. The big cube has
-been constructed in such a way that all of
-the smaller cubes' faces that aren't visible
-are pressed against the same-lettered face
-of another cube.
+Oito cubinhos foram criados com base no
+diagrama sendo imaginado pelo carinha
+abaixo. Esses cubinhos foram combinados
+para construir um cubo maior. Um dos
+oito cubinhos teve as letras de todas as
+suas faces apagadas. O cubo maior foi
+construído de tal forma que as faces de
+todos os cubinhos, que não estão visíveis,
+estão encostadas numa face da mesma letra
+que a de outro cubo.
 
-Knowing this, can you work out what letter
-belongs on the face the arrow is pointing
-to? Your answer will be one letter, from
-A to F.
+Sabendo disso, consegue descobrir qual
+letra pertence à face apontada pela seta?
+Sua resposta será uma letra, de A a F.
 !******************************!
-That's right!
+Acertou!
 
-The correct letter is B.
+A letra correta é a B.
 
-Whew. That was a tough puzzle, wasn't it?
+Ufa. Esse enigma foi difícil, não foi?
 !******************************!
-Too bad!
+Que pena!
 
-Don't just take a guess and run with it!
-You need to logically work your way towards
-the answer. It's that kind of puzzle.
-
+Não vá tentar resolver o enigma na base
+da adivinhação! Você precisa chegar à sua
+resposta usando a lógica. É assim que esse
+tipo de enigma funciona.
 !******************************!
-The answer to this puzzle won't simply
-pop into your head when you make some
-key realisation. You need to work your
-way to it.
+A resposta desse enigma não vai
+simplesmente surgir na sua cabeça
+depois que você se deparar com um
+fato importante. Você vai ter que
+chegar até ela usando a lógica.
 
-Three different cubes are touching
-three different faces of the cube in
-question. Find the letters that must
-be on those faces of the unmarked cube.
+Observe que as três faces ocultas do
+cubinho estão em contato com três
+cubinhos diferentes. Comece descobrindo
+as letras nas suas faces que não estão
+visíveis.
+!******************************!
+Se ninguém tivesse apagado as letras do
+cubo, todas as faces à direita do cubo
+maior teriam letras C. Note que todas
+as quatro letras C não estão orientadas
+na mesma direção.
+!******************************!
+Você descobriu quais letras estão
+nas faces não-visíveis do cubinho
+desletrado?
 
-!******************************!
-If the unmarked cube had its faces
-restored, all four letters on the right
-side of the big cube would be Cs. Note
-how all four Cs don't point the same way.
-!******************************!
-Did you work out which letters are
-on the hidden faces of the unmarked
-cube?
-They are A, D and E.
+As letras são A, D e E.
 !******************************!
 [n94.dat]
-<0095>Box of Books
+<0095>Caixa de Livros
 <00><1E><1B><18><11><37><16><5E><F6><03><04><FF>
-The box shown below has a height, width and
-depth of 30cm. You'd like to place as many
-books as possible in the box. Each book is
-20cm wide by 20cm long by 10cm thick. How
-many books can you pack into this box?
+A caixa mostrada abaixo tem 30 cm de largura,
+altura e profundidade. Você quer colocar a
+maior quantidade possível de livros dentro
+da caixa. Cada livro tem 20 cm de largura,
+20 cm de comprimento e 10 cm de espessura.
+Quantos livros cabem na caixa?
 
-Books can only be placed in the box when
-they are closed, but you can position each
-book however you like inside the box.
+Você só pode colocar livros fechados na
+caixa, mas pode posicioná-los como quiser
+dentro dela.
 !******************************!
-Very nice!
+Muito legal!
 
-If you arrange the books in the box in the
-method shown, you can cram a whopping six
-books into it!
+Se colocar os livros tal como mostrado
+abaixo, caberão nada mais e nada menos
+que seis livros nela!
 !******************************!
-Too bad!
+Que pena!
 
-Think in three dimensions to find the
-solution. 
+Pense em três dimensões para achar a
+solução. 
 !******************************!
-If all you had to do to solve this puzzle
-was count how many books you can stack
-in the box before it fills up, it wouldn't
-be much fun.
+Se tudo o que você tivesse que fazer para
+encontrar a solução fosse contar quantos
+livros consegue empilhar na caixa até
+enchê-la, isso não seria muito divertido.
 
-You'll need to think creatively and in
-three dimensions to solve this one.
+Use sua imaginação e pense em três
+dimensões para resolver o enigma.
 !******************************!
-The bottom of the box measures 30cm
-by 30 cm. Each book is 20 cm by 20 cm,
-so there is only space for one book
-at the bottom of the box.
-But if you do that, you'll be left with
-10 cm spare on both sides. Say, isn't
-that the exact same size as the
-thickness of one book? 
+A parte inferior da caixa mede 30 cm
+por 30 cm, e cada livro mede 20 cm por
+20 cm, então só tem espaço pra um livro
+no fundo da caixa.
+Mas se você fizer isso, ficará com 10 cm
+sobrando nos dois lados. Aliás, isso não
+é exatamente a espessura de um livro?
 !******************************!
-Even if you place three books upright
-in the box and use two more to fill what
-gaps you can, you'll still have a good
-chunk of wasted space on your hands.
-Fitting the books together in a
-space-efficient way is of utmost
-importance in solving this puzzle.
-
+Mesmo se você posicionar três livros na
+vertical dentro da caixa e usar mais dois
+pra ocupar todo o espaço restante que
+puder, ainda terá um bom espaço
+desperdiçado em mãos. Organizar os
+livros usando o espaço da caixa da forma
+mais eficiente possível é de suma
+importância para resolver este enigma.
 !******************************!
 [n95.dat]
-<0096>A Ghostly Puzzle
+<0096>Um Enigma Fantasmagórico
 <00><1E><1B><18><11><2B><02><5F><E8><03><04><2F>
-Yikes! There's a ghost in the forest!
+Que susto! Tem um fantasma na floresta!
 
-...Or so you thought, until you realised that
-the spectre hovering in front of you was
-just a figure cut out of wood hanging from
-a branch. Looking around the area, you
-notice four pieces of wood scattered in the
-grass. From which one of these wooden
-planks was the ghost cut out?
+...Ou pelo menos era o que você pensava, até
+perceber que o espectro flutuando em sua
+frente era apenas uma figura de madeira
+pendurada numa árvore. Quando você olha em
+volta, percebe que há quatro tábuas de madeira
+jogadas na grama. De qual destas tábuas saiu
+o fantasma?
 
-You have four choices: A, B, C or D.
-Beware! The correct board may have flipped
-over in the grass.
-
+Você tem quatro escolhas: A, B, C ou D.
+A tábua correta pode ter virado quando
+caiu no chão.
 !******************************!
-Good eye!
+Bem notado!
 
-The ghost was cut from board B. The board
-must have flipped over as it fell to the
-ground. All the other boards have slight
-differences that set them apart from the
-correct one.
+O fantasma foi cortado da tábua B. A tábua
+deve ter virado quando caiu no chão. Todas
+as outras tábuas tem diferenças sutis que
+as distinguem da correta.
 !******************************!
-Too bad!
+Que pena!
 
-All the boards might look the same at first,
-but if you look carefully, you'll start to
-see the differences.
+Todas as tábuas podem parecer iguais a
+princípio, mas se olhar com atenção, vai
+começar a ver as diferenças.
 
-Don't forget to consider the outline each
-board makes when flipped over, too.
+Não esqueça de levar em conta que a tábua
+correta pode ter sido virada.
 !******************************!
-Think you've found the answer? You're
-sure? Well, just to be safe, compare its
-outline to the ghost one more time. Don't
-forget to look at little details, like the
-shape of its hands.
+Acha que encontrou a resposta? Tem certeza?
+Bom, só por desencargo de consciência,
+compare seu contorno com o fantasma mais
+uma vez. Não esqueça de dar atenção para
+pequenos detalhes, como o formato de suas
+mãos.
 !******************************!
-You should pay extra attention to the
-length of the ghost's tail.
+Você deve prestar bastante atenção
+ao tamanho da cauda do fantasma.
 !******************************!
-Take note of which way the ghost's
-arms should be facing!
+Tome nota da direção que os braços
+do fantasma devem estar!
 
-Oh, and just so you know, the board
-you're looking for needs to be flipped
-over to match the outline of the ghost.
+Ah, e caso não saiba, a tábua que está
+procurando precisa ser virada para
+bater com o contorno do fantasma.
 !******************************!
 [n96.dat]
-<0097>A Starry Sky
+<0097>Um Céu Estrelado
 <00><28><24><20><11><4C><1A><60><00><04><04><FF>
-It's said that ancient peoples came up with
-constellations by staring up at the stars
-in the night sky. Here's a star-laden puzzle
-to celebrate their achievements.
+Dizem que as constelações foram descobertas
+pelas civilizações antigas, que observavam
+atentamente o céu estrelado. E para comemorar
+seus feitos, segue abaixo um enigma cheio de
+estrelas.
 
-Below is a 6 x 6 grid of sky and stars
-arranged into nine larger blocks. Arrange
-these nine blocks so that each row and
-column contains three stars. Blocks without
-surrounding outlines can't be moved.
+Temos abaixo uma grade de 6 x 6 quadrados
+de céu e estrelas, dividida em 9 blocos
+maiores. Mova os blocos maiores para que
+todas as seis linhas e colunas tenham 3
+estrelas cada. Apenas os blocos que possuem
+bordas podem ser movidos.
 !******************************!
-Brilliant!
+Brilhante!
 
-The constellation is a bit...abstract, but
-oh well.
+Esta constelação é um tanto... abstrata,
+mas como é bonita, não acha?
 !******************************!
-Too bad!
+Que pena!
 
-There's at least one row or column in your
-solution that doesn't have three stars.
+Há pelo menos uma linha ou coluna em sua
+solução que não precisa ter três estrelas.
 !******************************!
-You need to find a foothold to get
-started, and the stars that are locked
-in place should do nicely. Remember, if
-two stars are locked into a row, you can
-only place one more there.
+Você tem que encontrar um ponto de apoio
+para começar, e as estrelas que estão
+bloqueadas em seus blocos sem borda devem
+servir. Lembre-se que se uma linha já
+tiver duas estrelas, você só poderá
+colocar mais uma.
 !******************************!
-The topmost row of blocks has two
-blocks that are locked into place. Within
-this row of blocks are two rows of
-stars. The top row has two stars locked
-in place and the bottom row has one.
-Therefore, the one block you can place
-in this row must have one star in its top
-row and two in its bottom row.
+A linha superior tem dois blocos sem borda
+que não podem ser movidos. Dentro desses
+blocos existem duas linhas com estrelas.
+A linha de cima tem duas estrelas
+bloqueadas e a de baixo tem apenas uma.
+Portanto, o único bloco que você pode
+colocar nesta linha deve ter uma estrela
+na sua linha de cima, e duas na sua linha
+de baixo.
 !******************************!
-Let's take a look at the leftmost
-column of blocks, which also has two
-blocks locked in place.
-The left column of stars contained
-here has only one star locked in place,
-as does the right column. So, the block
-that goes here must have two stars in
-both its left and right rows.
+Vamos dar uma olhada na coluna de
+blocos grandes mais à esquerda, que
+também tem dois blocos que não podem
+ser movidos.
+A coluna esquerda menor nessa seção
+tem apenas uma estrela bloqueada, e
+o mesmo vale para a coluna direita
+menor. Então, o bloco grande que deve
+ser movido para cá tem que ter duas
+estrelas tanto na sua linha esquerda
+como na sua direita.
 !******************************!
 [n97.dat]
-<0098>Jars and Cans 1
+<0098>Frascos e Latas 1
 <00><19><16><13><11><3A><1E><61><03><04><04><FF>
-A long line of jars and cans sits on the
-counter. Your job is to rearrange these
-items so that both jars and cans are
-grouped with items of the same type.
-However, in doing so, you must always
-move two containers at once.
+Uma série de frascos e latas estão neste
+balcão. Sua tarefa é colocá-los de modo
+que todos os frascos estejam juntos em
+um lado e as latas no outro. Porém, ao
+fazê-lo, lembre-se que sempre tem que
+mover dois objetos ao mesmo tempo.
 
-Move items around by touching the red icon
-between two containers and dragging the
-selected pair of items around with the
-stylus.
+Para mover os objetos, toque no ícone
+vermelho entre eles e arraste o par de
+itens selecionado com a stylus.
 !******************************!
-Well done!
+Muito bem!
 
-Now the jars and cans are sorted neatly.
-If only people would organise things
-properly in the first place...
+Agora os frascos e latas estão organizados
+bem direitinho. Quem dera se ao menos
+as pessoas fossem mais organizadas...
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-This puzzle is all about finding the right
-order in which to make your moves.
-The more organised players out there
-should be able to solve this one on
-instinct alone.
+A chave para este enigma é encontrar a
+ordem certa das jogadas. Se você é uma
+pessoa organizada, com certeza achará
+a solução quase que por instinto.
 
-Since it's a relatively simple puzzle,
-don't expect to find any more hints.
-Instead, you'll get some trivia about
-this type of puzzle. If you're short
-on hint coins, stay away from the
-last two hints!
+Já que esse enigma é relativamente
+simples, não espere mais dicas. Se você
+gastar mais moedas, receberá apenas
+curiosidades sobre esse tipo de enigma.
+Por isso, se tiver com poucas moedas,
+evite essas duas últimas dicas!
 !******************************!
-This is another one of those puzzles
-that's been around practically forever.
-Variations of it exist across the globe
-and have even been said to be played in
-places like Edo-era Japan.
+Esse é um dos enigmas típicos que
+existem praticamente desde sempre.
+Há diversas variações desse enigma
+pelo globo, sendo inclusive relatado
+em épocas remotas, como o período
+Edo japonês.
 !******************************!
-In Japan, this puzzle is often presented
-using pieces from Go, a strategic
-board game originally from China. In
-England, the puzzle was often set up
-using silver and gold coins.
+No Japão, este enigma é comumente
+apresentado com peças do Go, um jogo
+estratégico para tabuleiro originado
+na China. Na Inglaterra, o enigma já
+foi comumente montado usando moedas
+de prata e de ouro.
 !******************************!
 [n98.dat]
-<0099>Jars and Cans 2
+<0099>Frascos e Latas 2
 <00><1E><1B><18><12><3A><1E><62><03><04><04><31>
-Look at that, another row of jars and
-cans all mixed up, and this time there are
-even more of them. As before, your job is
-to rearrange these items so that both jars
-and cans are grouped with items of the
-same type. However, in doing so, you
-must always move two containers at once.
+Mas o que temos aqui? Outro enigma de
+frascos e latas! E desta vez, há ainda
+mais. Tal como antes, o que você precisa
+fazer é colocar esses objetos de forma que
+todos os frascos sejam agrupados de um
+lado, e as latas do outro. Porém, ao
+fazê-lo, lembre-se que sempre tem que
+mover dois objetos ao mesmo tempo.
 
-Move items around by touching the red icon
-between two containers and dragging the
-selected pair of items around with the
-stylus.
+Para mover os objetos, toque no ícone
+vermelho entre eles e arraste o par de
+itens selecionado com a stylus.
 !******************************!
-Well done!
+Muito bem!
 
-This puzzle is based on one widely known in
-Japan since the Edo era.
+Este enigma é baseado em um quebra-cabeça
+muito conhecido no Japão desde o período Edo.
 !******************************!
-Too bad!
+Que pena!
 !******************************!
-This is another puzzle where the order
-of your moves is key. You won't get any
-hints on this one, but as a general tip
-for this type of puzzle, you should take
-care not to return items to their
-original position while moving them
-around. Also, you should know that
-although there are a lot more jars and
-cans this time, it shouldn't take any
-more moves to solve than the last
-puzzle.
+Este é outro enigma onde a ordem das
+jogadas é a chave. Você não receberá
+nenhuma dica aqui, mas receberá uma
+recomendação geral para esse tipo de
+enigma: ao mover os objetos, tente não
+retorná-los à sua posição original.
+Além disso, tenha em mente que, embora
+desta vez você tenha mais frascos e
+latas, não deve ser necessário fazer
+mais jogadas do que no enigma anterior.
 !******************************!
-In Japan the type of puzzle you are
-playing now is known as a Mandarin duck
-puzzle. Mandarin ducks are famous for
-the affectionate way male and female
-pairs of ducks get along. Some theorise
-that the game is known by this name
-because of the way Mandarin duck
-couples tend to move about together.
+No Japão, o tipo de enigma que está
+jogando é conhecido como o quebra-cabeça
+dos patos-mandarins. Casais de patos-
+mandarins professam muito amor entre si.
+Diz-se que este quebra-cabeça tem este
+nome devido à forma como os casais de
+patos andam sempre juntos.
 !******************************!
-Here's another piece of fun trivia
-for you. As stated in Hint 2, these
-puzzles are referred to as Mandarin
-duck puzzles because of the
-affectionate behaviour Mandarin duck
-couples exhibit towards each other, but
-it turns out that these birds change
-mates every year!
+Aqui mais uma curiosidade divertida
+pra você. Como citado na Dica 2, esses
+enigmas são chamados de "quebra-cabeça
+dos patos-mandarins" por causa do grande
+amor professado entre si, mas parece
+que essas aves trocam de casal
+todo ano!
 
-This may not help you with the puzzle,
-but isn't it interesting?
+Isso pode não ajudar com o enigma,
+mas não é interessante?
 !******************************!
 [n99.dat]
-<0100>A Rickety Bridge
+<0100>A Ponte Frágil
 <00><1E><1B><18><11><4F><21><63><E9><03><04><FF>
-Luke and Professor Layton stand at one
-end of a rickety old bridge. Afraid of falling
-into the chasm below, Luke's legs have
-become stiff with fear, and he can only walk
-across the bridge in increments of one or
-three planks at a time. The narrowness of
-the bridge prevents Luke from doubling
-back the way he came or switching the foot
-he's standing on before stepping forward.
-Use your stylus to create a path that
-guides Luke safely across the bridge, while
-avoiding any gaps in the planks. Luke is safe
-when he steps on the red footprint.
+O Luke e o Professor Layton estão parados na
+frente de uma ponte velha e frágil. Com medo
+de cair no abismo abaixo, as pernas do Luke
+ficaram rígidas de medo e ele só pode caminhar
+através da ponte com incrementos de uma ou
+três tábuas por vez. A estreiteza da ponte
+previne o Luke de voltar o caminho que ele
+veio ou mudar o pé que usou antes do último
+passo. Use sua stylus para criar um caminho
+que guie o Luke com segurança através da ponte,
+enquanto evita qualquer buraco nas tábuas. O
+Luke estará seguro quando ele pisar na pegada
+vermelha.
 !******************************!
-That was some fancy footwork!
+Essa foi uma caminhada bem chique!
 
-The ninth step you choose gets Luke safely
-across the bridge.
+O nono passo que escolher deixará o Luke
+em segurança após atravessar da ponte.
 !******************************!
-Too bad!
+Que pena!
 
-Watch your step!
+Olha onde pisa!
 !******************************!
-The first step Luke takes is with his
-left foot.
+O primeiro passo que o Luke deve dar
+é com o seu pé esquerdo.
 !******************************!
-The last step Luke takes is with his
-left foot. It carries him a distance of
-one plank.
+O último passo que o Luke deve dar é
+com o seu pé esquerdo. O penúltimo
+passo o deixará a uma tábua de distância.
 !******************************!
-Luke's ninth step carries him to
-the goal.
+O nono passo do Luke o levará para
+o objetivo.
 !******************************!
