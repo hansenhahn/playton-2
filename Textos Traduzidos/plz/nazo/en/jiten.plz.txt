@@ -137,10 +137,10 @@ Entrada do Beco
 Beco Inundado
 !******************************!
 [p_48.txt]
-Litter-filled Alley
+Aterro Sanitário
 !******************************!
 [p_49.txt]
-Seedy Alley
+Beco Escuro
 !******************************!
 [p_5.txt]
 Sala do Doutor
@@ -191,7 +191,7 @@ Vovó Riddleton
 Cabana dos Enigmas
 !******************************!
 [p_64.txt]
-West Y-Junction
+Cruzamento à Oeste
 !******************************!
 [p_65.txt]
 
@@ -200,97 +200,97 @@ West Y-Junction
 
 !******************************!
 [p_67.txt]
-Broken Gate
+Portão Quebrado
 !******************************!
 [p_68.txt]
-Fork in the Road
+Bifurcação na Estrada
 !******************************!
 [p_69.txt]
-Mine Entrance
+Entrada da Mina
 !******************************!
 [p_7.txt]
 Vagão 2 - Corredor
 !******************************!
 [p_70.txt]
-Mine Machine Room
+Sala de Máquinas da Mina
 !******************************!
 [p_71.txt]
-Mine Room
+Sala da Mina
 !******************************!
 [p_72.txt]
-Mine Lift
+Elevador da Mina
 !******************************!
 [p_73.txt]
-Mine Vault
+Câmara da Mina
 !******************************!
 [p_74.txt]
-Forest Gate
+Portão do Bosque
 !******************************!
 [p_75.txt]
-Dark Forest 1
+Bosque Escuro 1
 !******************************!
 [p_76.txt]
-Dark Forest 2
+Bosque Escuro 2
 !******************************!
 [p_77.txt]
-Dark Forest 3
+Bosque Escuro 3
 !******************************!
 [p_78.txt]
-Dark Forest Exit
+Saída do Bosque Escuro
 !******************************!
 [p_79.txt]
-Rickety Bridge
+Ponte Velha
 !******************************!
 [p_8.txt]
 Cabine do Layton
 !******************************!
 [p_80.txt]
-Castle Gate
+Portão do Castelo
 !******************************!
 [p_81.txt]
-Great Hall
+Salão Principal
 !******************************!
 [p_82.txt]
-First Floor Hall
+Salão do Primeiro Andar
 !******************************!
 [p_83.txt]
-Dining Room
+Sala de Jantar
 !******************************!
 [p_84.txt]
-Storage Room
+Armazém
 !******************************!
 [p_85.txt]
-Under the Castle
+Debaixo do Castelo
 !******************************!
 [p_86.txt]
-Guest Room
+Quarto de Hóspedes
 !******************************!
 [p_87.txt]
-Machine Room
+Sala das Máquinas
 !******************************!
 [p_88.txt]
-Secret Room
+Sala Secreta
 !******************************!
 [p_89.txt]
-Dark Forest Exit
+Saída do Bosque Escuro
 !******************************!
 [p_9.txt]
 Vagão 3 - Corredor
 !******************************!
 [p_90.txt]
-Folsense Station
+Estação de Folsense
 !******************************!
 [p_91.txt]
 Entrada do Escritório
 !******************************!
 [p_92.txt]
-Hotel Room 2
+Quarto de Hóspedes 2
 !******************************!
 [p_93.txt]
-House in the Alley
+Casa no Beco
 !******************************!
 [p_94.txt]
-Northern Folsense
+Norte de Folsense
 !******************************!
 [type_0.txt]
 Palitos de Fósforo
@@ -320,7 +320,7 @@ Desenhar Linha
 Escrever Resposta
 !******************************!
 [type_17.txt]
-Mover Cavaleiros
+Mover Cavalos
 !******************************!
 [type_18.txt]
 Girar e Organizar

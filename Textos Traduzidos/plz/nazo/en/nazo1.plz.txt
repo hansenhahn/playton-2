@@ -619,7 +619,7 @@ rápida.
 !******************************!
 Que pena!
 
-Tem certeza de que não está fazendo
+Tem certeza de que não está tirando
 conclusões erradas por causa da forma
 com que o enigma foi escrito?
 !******************************!
@@ -822,7 +822,7 @@ tente novamente.
 Para começar, tente traçar seu caminho
 pelo labirinto com a caneta stylus.
 
-Talvez voce já conheça este truque, mas
+Talvez você já conheça este truque, mas
 caso tenha esquecido, é mais fácil traçar
 seu caminho começando pela saída.
 !******************************!
@@ -890,9 +890,10 @@ teria atravessado o teto do trem!
 
 Nos dias atuais, a maioria dos trens têm
 janelas que só abrem parcialmente.
-É claro que, graças aos ar-condicionados,
-um número considerável de trens possui
-janelas que nem mesmo podem ser abertas!
+É claro que, graças à invenção do
+ar-condicionado, um número considerável
+de trens possui janelas que nem mesmo
+podem ser abertas!
 !******************************!
 Que pena!
 
@@ -1010,7 +1011,7 @@ a data certa. Pense no que a escultura
 deve ser convertida para que a data
 apareça correta.
 Em que data Dropstone foi fundada?
-Responda na forma DD/MM.
+Responda no formato DD/MM.
 !******************************!
 Brilhante!
 
@@ -1019,7 +1020,7 @@ inunda a cuba, permitindo que a verdadeira
 data de fundação de Dropstone, 13/8, seja
 mostrada.
 
-O distraído escultor deve estar aliviado
+O escultor distrído deve estar aliviado
 agora que seu erro foi consertado.
 !******************************!
 Que pena!
@@ -1057,10 +1058,10 @@ dá pistas do que pode ter acontecido aqui.
 
 Olhe as quatro direções e examine a sala
 com atenção. Quando você tiver encontrado
-o detalhe revelador, circule-o com a stylus
-e toque #rEnviar#x. Certifique-se de circular
-apenas um objeto, caso contrário a sua
-resposta será inválida!
+o detalhe revelador, circule-o com a caneta
+stylus e toque #rEnviar#x. Certifique-se de
+circular apenas um objeto, caso contrário
+a sua resposta será inválida!
 !******************************!
 Bem observado!
 
@@ -1277,7 +1278,7 @@ de energia do que a casa azul.
 4. A casa D é ou amarela, ou azul, ou verde.
 
 Mude a cor de cada casa tocando-a com
-a stylus.
+a caneta stylus.
 !******************************!
 Está certo!
 
@@ -1303,7 +1304,7 @@ A casa C é vermelha.
 [n35.dat]
 <0036>O Pássaro Aprisionado
 <00><23><1F><1B><11><18><02><23><E8><03><03><FF>
-Oh, não! O pobre passarinho da Laurel caiu
+Ah, não! O pobre passarinho da Laurel caiu
 em um longo e complexo buraco no chão!
 
 Na frente do passarinho há três caminhos
@@ -1329,8 +1330,8 @@ direções, então você pode ter problemas
 em processar tudo se estiver confiando
 apenas em seus olhos.
 
-Use a stylus e trace cada rota para
-ter um melhor entendimento de cada
+Use a caneta stylus e trace cada rota
+para ter um melhor entendimento de cada
 túnel.
 !******************************!
 Os túneis errados irão se dividir em
@@ -1531,7 +1532,7 @@ da caixa.
 Não esqueça de que cada quadrado precisa
 ir no local correto e apontar para a direção
 correta, então talvez você tenha que girar
-os quadrados com a sua stylus.
+os quadrados com a sua caneta stylus.
 !******************************!
 Bom trabalho!
 
@@ -1686,8 +1687,8 @@ com esses pedaços?
 !******************************!
 Muito bem!
 
-Estes enigmas de cortar tábua não são
-tão divertido?
+Estes enigmas de cortar tábua são
+bastante divertidos, não acha?
 !******************************!
 Que pena!
 
@@ -1829,7 +1830,7 @@ Bem pensado!
 
 D é a única peça das quatro que não encaixa.
 
-Foi difícil visualizar as peças prenchendo
+Foi difícil visualizar as peças preenchendo
 a caixa?
 !******************************!
 Que pena!
@@ -1948,7 +1949,7 @@ Em um país muito, muito distante, havia um rei
 cujo passatempo predileto era ostentar as
 suas últimas aquisições. Os súditos do reino
 eram proibidos de comprar coisas novas até
-que o rei as possuisse por mais de um mês.
+que o rei as possuísse por mais de um mês.
 Somente quando ele estivesse cansado
 de sua nova aquisição que o povo poderia
 finalmente comprar a mesma para si.
@@ -2006,7 +2007,7 @@ As vacas A, C e E são Midira. Supondo
 que cada vaca possa ser uma Midira ou uma
 Vidadi e passando pelas afirmações de cada
 vaca,  você eventualmente perceberá que
-todas as afirmações são verdades apenas
+todas as afirmações são verdadeiras apenas
 quando A, C e E são Midiras.
 !******************************!
 Que pena!
@@ -2117,7 +2118,7 @@ Não se esqueça de olhar as linhas
 no plano de fundo.
 !******************************!
 Vale também a pena olhar as
-sombrancelhas dos gatos!
+sobrancelhas dos gatos!
 !******************************!
 [n51.dat]
 <0052>Chapéu do Tempo
@@ -2232,8 +2233,8 @@ cor para parte da esquerda e listar todos
 os padrões possíveis, você terá um total de
 nove variações.
 
-Multiplique esse número por quarto, que
-representa o total de cores a sua
+Multiplique esse número por quatro, que
+representa o total de cores à sua
 disposição para chegar a resposta de
 36 variações.
 !******************************!
@@ -2281,7 +2282,7 @@ mesmo resultado. Usando o método mais
 barato possível, quanto custará para
 fazer o colar?
 !******************************!
-É rede!
+É bola na rede!
 
 Pegue uma das correntes do Sammy e separe
 cada um dos sete elos e use-os para unir
@@ -2300,7 +2301,7 @@ O número de elos em cada corrente
 é uma informação crucial para solucionar
 este enigma.
 !******************************!
-Voce não esteve apenas abrindo os elos
+Você não esteve apenas abrindo os elos
 nas extremidades de cada corrente, né?
 !******************************!
 Tente pegar uma das correntes, abrir
@@ -2368,10 +2369,10 @@ resolver o resto desse enigma facilmente.
 Ah, não há nada como uma rosa recém
 cortada para revigorar a alma. Você
 Consegue ajudar o Sammy a espalhar a
-fragância das rosas por toda a cabine?
+fragrância das rosas por toda a cabine?
 
-Toque um quadrado com sua stylus para
-colocar uma rosa. A fragrância de cada
+Toque um quadrado com sua caneta stylus
+para colocar uma rosa. A fragrância de cada
 rosa chega a até dois quadrados em cada
 direção, mas não atravessa paredes. Se a
 fragrância de duas ou mais rosas se
@@ -2383,7 +2384,7 @@ existente para removê-la.
 Muito bem!
 
 Cinco rosas foram o suficiente para
-espalhar a fragância pela cabine.
+espalhar a fragrância pela cabine.
 !******************************!
 Que pena!
 
@@ -2522,7 +2523,7 @@ Isso!
 
 Se você desenhar um círculo em volta da
 praça afastado um terço do meio dela,
-sua linha dividir-la-á em duas partes com
+sua linha se dividirá em duas partes com
 formatos iguais e diretamente proporcionais.
 Em termos geométricos, formatos assim são
 conhecidos como figuras similares.
@@ -2746,7 +2747,7 @@ seção encoste em outra seção com a mesma
 cor, qual o menor número de cores que você
 vai precisar usar?
 Você pode usar uma cor quantas vezes
-quiser, desde que a seção não escoste em
+quiser, desde que a seção não encoste em
 nenhuma outra seção de mesma cor.
 
 Quando tiver sua resposta, toque

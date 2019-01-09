@@ -27,7 +27,7 @@ Que pena!
 Use os resultados das partidas anteriores
 para encontrar o time correto.
 !******************************!
-Não há necessidade para quaisquer cálculos
+Não há necessidade de fazer cálculos
 complicados. Os mesmos cavalos competem
 várias vezes, e já que um empate significa
 que os times estão iguais, pense o que
@@ -61,10 +61,12 @@ Use isso para criar um novo time.
 [n121.dat]
 <0121>Iluminando o Caminho 1
 <00><14><12><10><01><4B><1F><79><04><04><04><FF>
-Use lâmpadas para iluminar os caminhos da floresta
-escura! Para cada lâmpada, sua luz alcança até
-o fim da reta de qualquer estrada. Use o mínimo
-de lâmpadas possíveis para iluminar todos os caminhos.
+Use lâmpadas para iluminar os caminhos da
+floresta escura! Para cada lâmpada, sua luz
+alcança até o fim da reta de qualquer
+estrada. Use a menor quantidade de lâmpadas
+que for possível para iluminar todos os
+caminhos.
 
 Então, onde as lâmpadas devem ficar?
 !******************************!
@@ -80,7 +82,7 @@ precisa é quatro.
 !******************************!
 Os caminhos diretos são mais fáceis de
 lidar porque uma lâmpada irá iluminar
-uma reta totalmente de ponta-a-ponta.
+uma reta totalmente de ponta a ponta.
 
 O problema é as diagonais. Pense
 em como iluminar todos os caminhos
@@ -94,10 +96,12 @@ cantos possíveis.
 [n122.dat]
 <0122>Iluminando o Caminho 2
 <00><1E><1B><18><02><4B><1F><7A><04><04><04><FF>
-Use lâmpadas para iluminar os caminhos da floresta
-escura! Para cada lâmpada, sua luz alcança até
-o fim da reta de qualquer estrada. Use o mínimo
-de lâmpadas possíveis para iluminar todos os caminhos.
+Use lâmpadas para iluminar os caminhos da
+floresta escura! Para cada lâmpada, sua luz
+alcança até o fim da reta de qualquer
+estrada. Use a menor quantidade de lâmpadas
+que for possível para iluminar todos os
+caminhos.
 
 Então, onde as lâmpadas devem ficar?
 !******************************!
@@ -112,10 +116,11 @@ O número mínimo de lâmpadas que você
 precisa é cinco.
 !******************************!
 As estradas em diagonal precisam de três
-lâmpadas, então pense nelas primeiro. Tenha
-certeza de não bagunçar o posicionamento
-das lâmpadas que iluminam os caminhos
-horizontais e verticais.
+lâmpadas, então pense nelas primeiro.
+Tenha certeza de não bagunçar o
+posicionamento das lâmpadas que
+iluminam os caminhos horizontais
+e verticais.
 !******************************!
 As duas lâmpadas não usadas para
 iluminar as diagonais irão em uma
@@ -124,10 +129,12 @@ das bifurcações em T e cantos.
 [n123.dat]
 <0123>Iluminando o Caminho 3
 <00><28><24><20><02><4C><1F><7B><04><04><04><FF>
-Use lâmpadas para iluminar os caminhos da floresta
-escura! Para cada lâmpada, sua luz alcança até
-o fim da reta de qualquer estrada. Use o mínimo
-de lâmpadas possíveis para iluminar todos os caminhos.
+Use lâmpadas para iluminar os caminhos da
+floresta escura! Para cada lâmpada, sua luz
+alcança até o fim da reta de qualquer
+estrada. Use a menor quantidade de lâmpadas
+que for possível para iluminar todos os
+caminhos.
 
 Então, onde as lâmpadas devem ficar?
 !******************************!
@@ -154,11 +161,12 @@ precisa de uma lâmpada.
 <00><1E><14><0A><12><31><02><7C><E8><03><04><FF>
 Quatro OVNIs foram avistados no céu à noite!
 
-Parece como se fossem quatro formas distintas
-flutuando no céu, mas cada uma delas é
-na verdade feita de quatro partes idênticas.
+Parece como se fossem quatro formas
+distintas flutuando no céu, mas cada uma
+delas é na verdade feita de quatro partes
+idênticas.
 
-Quais das formas seguntes foi a base
+Quais das formas seguintes foi a base
 feita para criar todas essas formas?
 !******************************!
 Está certo!
@@ -167,21 +175,22 @@ Está certo!
 quatro OVNIs no céu à noite afinal...
 Haviam 16!
 
-Que pertubador.
+Que perturbador.
 !******************************!
 Que pena!
 
-Usar a Função Memo poderá te ajudar
+Usar a Função de Notas poderá te ajudar
 em fazer esse enigma funcionar.
 !******************************!
-Use a Função Memo para tentar criar
+Use a Função de Notas para tentar criar
 os OVNIs usando cada parte possível.
 !******************************!
 Tente fazer o OVNI da direita com
 cada uma das partes. É um bom
 lugar pra começar.
 !******************************!
-Cada OVNI possui um certo tipo de simetria.
+Cada OVNI possui um certo tipo de
+simetria.
 !******************************!
 [n125.dat]
 <0125>Cogumelos na Floresta
@@ -214,7 +223,8 @@ Não desista!
 As dicas 1 e 2 devem ter encurtado
 o curso pra você significantemente. 
 
-Além disso, não se precisa usar cada caminho.
+Além disso, não se precisa usar cada
+caminho.
 !******************************!
 [n126.dat]
 <0126>Caminhada Escorregadia 1
@@ -224,13 +234,13 @@ congelado. O gelo é grosso o bastante para
 fica em cima, mas tão escorregadio que
 andar em qualquer direção fará ele
 deslizar incontrolavelmente naquela direção
-até acertar uma parede. Enquanto ele estiver
-parado, você pode mudar a direção do
-professor tocando nas setas ao redor dele.
+até acertar uma parede. Enquanto ele
+estiver parado, você pode mudar a direção
+do professor tocando nas setas ao redor
+dele.
 
 Você conseguirá guiar o professor por esse
 lago escorregadio até o objetivo?
-
 !******************************!
 Nossa!
 
@@ -240,14 +250,16 @@ Mas você não pode parar agora!
 !******************************!
 Que pena!
 !******************************!
-Quando bater na primeira parede, vá pra direita!
+Quando bater na primeira parede,
+vá pra direita!
 !******************************!
 Após ir pra direita como descrito na
 Dica 1, irá bater em outra parede. Não
 tente ir para o objetivo por lá.
 !******************************!
 Para alcançar o objetivo, deve primeiro
-parar numa posição diretamente abaixo dele.
+parar numa posição diretamente abaixo
+dele.
 
 Há duas paredes pequenas alinhando o
 caminho que leva direto ao objetivo.
@@ -263,24 +275,26 @@ congelado. O gelo é grosso o bastante para
 fica em cima, mas tão escorregadio que
 andar em qualquer direção fará ele
 deslizar incontrolavelmente naquela direção
-até acertar uma parede. Enquanto ele estiver
-parado, você pode mudar a direção do
-professor tocando nas setas ao redor dele.
+até acertar uma parede. Enquanto ele
+estiver parado, você pode mudar a direção
+do professor tocando nas setas ao redor
+dele.
 
 Você conseguirá guiar o professor por esse
 lago escorregadio até o objetivo?
-
 !******************************!
 Você conseguiu!
 
 Acha que você está pegando o jeito desses
 enigmas? Apenas lembre-se, se você tiver
-que atravessar um lago congelado na vida real,
-tenha certeza de passar longe disso. É perigoso!
+que atravessar um lago congelado na vida
+real, tenha certeza de passar longe disso.
+É perigoso!
 !******************************!
 Que pena!
 !******************************!
-Na primeira parede que acertar, vá pra esquerda.
+Na primeira parede que acertar,
+vá pra esquerda.
 !******************************!
 Seu próximo movimento deve ser em
 direção ao topo da tela.
@@ -298,18 +312,18 @@ congelado. O gelo é grosso o bastante para
 fica em cima, mas tão escorregadio que
 andar em qualquer direção fará ele
 deslizar incontrolavelmente naquela direção
-até acertar uma parede. Enquanto ele estiver
-parado, você pode mudar a direção do
-professor tocando nas setas ao redor dele.
+até acertar uma parede. Enquanto ele
+estiver parado, você pode mudar a direção
+do professor tocando nas setas ao redor
+dele.
 
 Você conseguirá guiar o professor por esse
 lago escorregadio até o objetivo?
-
 !******************************!
 Excelente!
 
-Esteja contente que o professor não seja um
-patinador de gelo profissional. Tudo bem,
+Esteja contente que o professor não seja
+um patinador de gelo profissional. Tudo bem,
 seria mais fácil ele ter dado a volta no lago,
 mas você ficaria sem enigma por causa disso.
 !******************************!
@@ -329,7 +343,8 @@ atual no gelo para diminuir o número
 de possibilidades.
 !******************************!
 Para conseguir alcançar o objetivo, você
-deve parar numa posição diretamente abaixo.
+deve parar numa posição diretamente
+abaixo.
 
 Mas considerando a natureza complicada
 do curso, você terá mais sorte começando
@@ -373,14 +388,15 @@ túnel duas ou mais vezes.
 
 E ela não sente vontade de fazer isso.
 !******************************!
-Use a Função Memo para traçar caminhos
-potenciais que a toupeira pode seguir.
+Use a Função de Notas para traçar
+caminhos potenciais que a toupeira pode
+seguir.
 !******************************!
 Você viu a junção de três caminhos bem
-acima do buraco F? Lá é onde a toupeira irá
-parar quando ela pegar o último pedaço
-de lixo. Encontre um curso que a fará
-concluir sua limpeza nesta última
+acima do buraco F? Lá é onde a toupeira
+irá parar quando ela pegar o último
+pedaço de lixo. Encontre um curso que
+a fará concluir sua limpeza nesta última
 localização.
 !******************************!
 Procure por um buraco que leva para
@@ -391,16 +407,16 @@ um número estranho de rotas separadas.
 <00><1E><1B><18><12><56><05><82><EB><03><04><FF>
 O casal nessa obra parece estar dançando
 em pleno ar, voando impossivelmente próximo
-do candelabro. Mas, quando visto corretamente,
-não há nada realmente de estranho sobre a
-pintura. Se você olhar mais de perto, uma
-área peculiar da pintura entrega a razão
-da imagem ser tão estranha.
+do candelabro. Mas, quando visto
+corretamente, não há nada realmente de
+estranho sobre a pintura. Se você olhar
+mais de perto, uma área peculiar da pintura
+entrega a razão da imagem ser tão estranha.
 
 Encontre essa área peculiar e circule-a
-para aprender a verdade.
+para descobrir a verdade.
 !******************************!
-Boa visão!
+Sua vista é boa, hein?
 
 O casal parece ser as únicas duas pessoas
 com o reflexo visível no chão.
@@ -439,18 +455,18 @@ Conseguiu ver?
 [n131.dat]
 <0131>Como Fugir?
 <00><28><24><20><11><54><03><83><E9><03><04><FF>
-Um homem está sentado e amarrado por uma corda
-comprida entre várias estacas. Embora ele
-não tem esperança de desatar o nó, ainda pode
-mexer as pernas. Caso ele se levantar e fugir,
-a longa tilha de corda talvez poderá se
-prender em pelo menos uma das estacas.
+Um homem está sentado e amarrado por uma
+corda comprida entre várias estacas.
+Embora ele não consiga desatar os nós das
+cordas, ainda pode mexer as pernas. Caso ele
+se levante e fuja, a longa trilha de cordas
+talvez se prenda em pelo menos uma das
+estacas.
 
 Ele precisará usar suas pernas para puxar
 qualquer estaca em que a corda poderá se
-prender antes que ele possa fugir. Toque nas
-estacas para marcá-las com um X.
-
+prender antes que ele possa fugir. Toque
+nas estacas para marcá-las com um X.
 !******************************!
 Você conseguiu!
 
@@ -468,7 +484,7 @@ está enrolada entre as estacas.
 !******************************!
 Sua melhor aposta aqui é ver como
 a corda está enrolada ao redor das
-estacas. Tente usar a Função Memo
+estacas. Tente usar a Função de Notas
 para traçar um caminho em que a
 corda passa.
 !******************************!
@@ -484,25 +500,24 @@ do laço.
 Todas as estacas da metade da esquerda
 da imagem parecem que provavelmente
 podem ficar do jeito que está.
-
 !******************************!
 [n132.dat]
 <0132>Dividindo Pinturas
 <00><28><24><20><71><51><02><84><E8><03><04><FF>
 Dois irmãos herdaram cinco obras de arte da
 coleção de seus pais. De acordo com o
-testamento, o mais velho irá receber uma
-quantidade de pinturas que valem o dobro
-do irmão mais novo. Para terem certeza sobre
-o valor das pinturas, os irmãos chamaram
-um avaliador, que avaliou cada pintura como
-demonstrado abaixo. Para seus serviços, foi
-prometido ao avaliador uma pintura que restar
-após os irmãos dividirem as obras de acordo
-com o desejo dos pais deles.
+testamento, o mais velho receberá uma
+quantidade de pinturas que vale o dobro da
+do irmão mais novo. Para terem certeza do
+valor das pinturas, os irmãos chamaram um
+avaliador, que avaliou cada pintura como
+demonstrado abaixo. Para seus serviços,
+foi prometido ao avaliador uma pintura que
+restar após os irmãos dividirem as obras de
+acordo com o desejo de seus pais.
 
 Assumindo que as pinturas em si não podem
-ser divididas, qual o avaliador terá?
+ser divididas, qual delas o avaliador terá?
 !******************************!
 Está certo!
 
@@ -517,14 +532,13 @@ conseguirá.
 No final, o avaliador levará pra casa
 a pintura mais cara de todas. Nossa, isso
 foi bem conveniente!
-
 !******************************!
 Que pena!
 
 Talvez você deveria pensar nos
 cálculos mais uma vez.
 !******************************!
-O avaliador será bem renumerado pelo
+O avaliador será bem remunerado pelo
 seu trabalho.
 !******************************!
 Nenhuma das pinturas que o irmão mais
@@ -534,7 +548,6 @@ qualquer pintura que o caçula receber.
 O irmão mais velho herdará três
 pinturas e o mais novo herdará
 uma só pintura.
-
 !******************************!
 [n133.dat]
 <0136>A Porta Escondida
@@ -560,8 +573,8 @@ seta que aponta para a porta escondida!
 !******************************!
 Que pena!
 
-Pense sobre exatamente o que o
-ditado disse que você fazer.
+Pense no que exatamente o ditado está
+lhe dizendo para fazer.
 !******************************!
 <''>Dizendo sobre as portas,
 marcadas e nada tortas,<''>
@@ -644,60 +657,63 @@ Muito bem!
 sua espada em mãos.<''>
 
 As palavras do Anton eram uma dica sutil
-que todas as espadas na parede são enfeites.
-A única espada de verdade é aquela na
-mão do traje de armadura! 
+que todas as espadas na parede são
+enfeites. A única espada de verdade é
+aquela na mão do traje de armadura! 
 !******************************!
 Que pena!
 
 As palavras do Anton eram uma dica
 pra você. Pense o que elas significam!
 !******************************!
-Consegue imaginar o professor usando uma
-espada curvada? Não parece realmente ser
-do estilo dele, não é?
+Consegue imaginar o professor usando
+uma espada curvada? Não parece
+realmente ser do estilo dele, não é?
 !******************************!
-Espadas de decoração são exageradamente
-muito enfeitadas para serem de uso prático.
+Espadas de decoração são
+exageradamente muito enfeitadas
+para serem de uso prático.
 !******************************!
-Nenhuma espada na parede poderia pertencer
-a um guerreiro de verdade. Afinal, uma
-lâmina na parede não pode ser considerada
-<''>em mãos<''>. Estude a imagem. Alguém na
-imagem tem uma espada <''>em mãos<''>?
+Nenhuma espada na parede poderia
+pertencer a um guerreiro de verdade.
+Afinal, uma lâmina na parede não pode ser
+considerada <''>em mãos<''>. Estude a imagem.
+Alguém na imagem tem uma espada
+<''>em mãos<''>?
 
 Talvez algum dos trajes de armadura
-sabe a resposta...
+saiba a resposta...
 !******************************!
 [n136.dat]
 <0139>Costa a Costa
 <00><46><3F><38><72><01><16><88><F6><03><02><FF>
-Uma mulher embarca num voo sem parar partindo
-de Los Angeles às 12:00 e chega em Nova Iorque
-às 20:00. No dia seguinte, a mesma mulher sai
-de Nova Iorque às 12:00 e voa de volta para Los
-Angeles. O voo foi desafetado por correntes de
-jato e levou a mesma quantidade de tempo
-para alcançar o seu destino como houve no
-dia anterior. A diferença no fuso horário
-é sempre três horas atrasado em Nova Iorque
-que em Los Angeles. Consegue descobrir
-que horas o avião chega de volta em Los Angeles?
+Uma mulher embarca num voo sem parar
+partindo de Los Angeles às 12:00 e chega em
+Nova York às 20:00. No dia seguinte, a mesma
+mulher sai de Nova York às 12:00 e voa de
+volta para Los Angeles. O voo não foi
+afetado por turbulências aéreas e levou a
+mesma quantidade de tempo para alcançar o
+seu destino como houve no dia anterior.
+A diferença no fuso horário diz que Nova
+York está sempre três horas adiantado, em
+relação à Los Angeles. Consegue descobrir
+que horas o avião chega de volta em
+Los Angeles?
 #rDê sua resposta em notação de 24 horas.#x
 !******************************!
 Bom trabalho!
 
-O aviação chega em Los Angeles às
-14:00.
+O avião chega em Los Angeles às 14:00.
 
 Devido à diferença de três horas, quando
-é 12:00 em Los Angeles, é 15:00 em Nova
-Iorque. O avião chega em Nova Iorque às
-20:00, então a duração do voo deve ser de
-cinco horas. O voo de volta a Los Angeles
-também leva cinco horas, significando que
-chegou às 17:00 no horário de Nova Iorque.
-Faça a diferença de tempo pra saber o horário
+é 12:00 em Los Angeles, é 15:00 em Nova York.
+O avião chega em Nova York às 20:00, então a
+duração do voo deve ser de cinco horas.
+O voo de volta a Los Angeles também leva
+cinco horas, significando que chegou às
+17:00 no horário de Nova York. Calcule a
+diferença de tempo pra saber o horário
 de chegada do avião em Los Angeles: 14:00.
 !******************************!
 Que pena!
@@ -714,12 +730,12 @@ leste são adiantadas que as para
 o oeste.
 
 Assim, dado uma diferença de três
-horas, quando for 12:00 em Los
-Angeles, deverá ser 15:00 em Nova Iorque.
+horas, quando for 12:00 em Los Angeles,
+deverá ser 15:00 em Nova York.
 !******************************!
 Levando em consideração as diferenças
 de horário, o avião saiu de Los Angeles
-às 15:00 em horário de Nova Iorque e
+às 15:00 em horário de Nova York e
 aterrissou às 20:00. Então, o voo em
 si deve ter levado cinco horas.
 !******************************!
@@ -728,17 +744,17 @@ reverso no voo retornando em
 Los Angeles.
 
 Se o avião para Los Angeles saiu de Nova
-Iorque ao meio-dia no horário de Nova
-Iorque, você também poderia dizer que
+York ao meio-dia no horário de Nova
+York, você também poderia dizer que
 saiu às 09:00 no horário de Los Angeles.
 !******************************!
 [n137.dat]
 <0140>Um Bloco Extra
 <00><46><3F><38><11><01><02><89><E8><03><02><FF>
-O diagrama abaixo mostra uma estrutura feita
-de 28 blocos. Desses blocos, 27 formam um
-cubo perfeito, com um bloco restante sentado
-em cima pra fora de todo o resto.
+O diagrama abaixo mostra uma estrutura
+feita de 28 blocos. Desses blocos, 27 formam
+um cubo perfeito, com um bloco restante
+sentado em cima pra fora de todo o resto.
 
 Abaixo desse diagrama estão os mesmos 28
 blocos, mas dessa vez o cubo foi separado
@@ -755,7 +771,8 @@ pode ser rotacionado de sua direção atual.
 O B contém bloco 28.
 
 Você foi capaz de visualizar todas as
-cinco peças reformando a estrutura original?
+cinco peças reformando a estrutura
+original?
 !******************************!
 Que pena!
 
@@ -779,64 +796,66 @@ peças forem postas juntas.
 
 O pedaço C não pode ser a resposta.
 !******************************!
-O pedaço D forma a parte do lado esquerdo
-frontal do cubo largo. Use essa informação
-para começar a reconstrução da estrutura
-na sua cabeça.
+O pedaço D forma a parte do lado
+esquerdo frontal do cubo largo. Use essa
+informação para começar a reconstrução
+da estrutura na sua cabeça.
 
 Assim que as peças ficarem juntas, a
 resposta se tornará clara.
 !******************************!
 [n138.dat]
-<0141>Ato de Desaparecimento 6
+<0141>Desaparecimento 6
 <00><63><58><4D><01><01><1D><8A><02><04><02><FF>
 Igual nas vezes anteriores, você pode mover
-qualquer bola do tabuleiro contanto que
+qualquer bolinha no tabuleiro, contanto que
 satisfaça as seguintes instruções:
-<60> Para mover, pule com a bola que selecionou
-por cima de um espaço adjacente ocupado por
-outra bola até um espaço vazio no outro lado.
-Não pode pular diagonalmente.
-<60> Assim que fizer o pulo, a bola que você
-pulou por cima irá desaparecer do tabuleiro.
-<60> Para completar esse enigma, você deve
-remover todas as bolas do tabuleiro exceto uma.
 
-Tá bom, chega de regras. Comece a tirar todas
-essa bolas!
+<60> Para mover uma bolinha, você precisa saltar
+sobre outra, sempre na horizontal ou na
+vertical, terminando em um espaço vazio.
+Não pode saltar nas diagonais.
+<60> Quando você saltar sobre outra bolinha,
+esta desaparecerá do tabuleiro.
+<60> O enigma acaba quando todas as bolinhas
+desaparecem, exceto uma.
+
+OK, tá bom de tanta regra. Tente resolvê-lo.
 !******************************!
-Feito com maestria!
+Resolvido com maestria!
 !******************************!
 Que pena!
 !******************************!
-Tem bastante bola para remover, então
-você terá que fazer muitos pulos.
-Apenas tenha certeza de que você não esteja
-fazendo seus movimentos aleatoriamente, ou então
-irá acabar preso antes que possa terminar.
+Você tem um monte de bolinhas em mãos
+pra eliminar, então vai ter que fazer
+vários saltos. É bom ter certeza de não
+estar fazendo movimentos aleatórios,
+senão vai acabar preso antes de
+terminar.
 
-Planeje seus pulos para que você nunca
-deixe nenhuma bola afastada do grupo
-senão não será capaz de alcançá-las
-mais tarde.
+Planeje seus saltos de modo a nunca
+deixar nenhuma bolinha afastada do
+grupo, senão não conseguirá mais
+alcançá-las depois.
 !******************************!
-Assim que reduzir o número de bolas
-do tabuleiro, essas restantes ficarão
-numa posição que você já resolveu
-anteriormente.
+À medida que o número de bolinhas
+do tabuleiro vai diminuindo, as que
+restarem ficarão num formato de
+tabuleiro que você já resolveu antes.
 
-Se você já chegou tão longe assim, esse
-enigma será mamão com açúcar pra você.
+Se já chegou até aqui, esse enigma já
+tá no papo pra você.
 !******************************!
-Sinto muito, mas não há mais dicas para
-dar sobre esse enigma.
+Desculpe, mas não tem mais dicas para
+serem dadas pra resolver esse enigma.
 
-Você já deve ter ouvido que os autênticos
-jogadores de resta um não consideram esses
-enigmas completos até que a bola restante
-acabe no espaço central. Mas um passo de
-cada vez. Vamos terminar esse enigma
-primeiro.
+Você talvez tenha ouvido falar que os
+maiores jogadores de <''>Resta Um<''> não dão
+esses enigmas por completo até que a
+última bolinha acabe no espaço central.
+
+Mas um passo de cada vez. Vamos terminar
+esse enigma primeiro.
 !******************************!
 [n139.dat]
 <0142>A Vida de um Erudito
@@ -847,11 +866,11 @@ lápide de um matemático famoso.
 <''>Seguindo o 1/6 da minha vida que passei
 como criança, passei 1/12 da minha vida como
 um jovem. Então, 1/7 da minha vida depois, me
-casei. Cinco anos depois o casamento, fui
-abençoado por uma criança, mas infelizmente,
-ele viveu apenas metade do tempo que eu
+casei. Cinco anos depois me casei, e fui
+abençoado com uma criança, mas infelizmente,
+ela viveu apenas metade do tempo que eu
 estava vivo antes de falecer. Hoje, quatro
-anos após sua morte, irei departir deste mundo.<''>
+anos após sua morte, partirei deste mundo.<''>
 
 Consegue descobrir por quantos anos esse
 matemático viveu?
@@ -876,17 +895,18 @@ Tente elaborar uma equação linear
 onde a vida do matemático em anos se
 iguala a x.
 !******************************!
-Você prefere não usar matemática avançada
-para resolver esse enigma? Não tema, você
-também pode resolver esse enigma sem
-usar uma equação linear.
+Você prefere não usar matemática
+avançada para resolver esse enigma?
+Não tema, você também pode resolver esse
+enigma sem usar uma equação linear.
 
 Somando juntos 1/6, 1/12, 1/7 e 1/2
 da vida desse homem, você pode expressar
 o tamanho da vida desse matemático com
 frações, menos as partes de cinco e
-quatro anos de duração. Você pode encontrar
-a resposta usando apenas essa informação.
+quatro anos de duração. Você pode
+encontrar a resposta usando apenas
+essa informação.
 !******************************!
 O menor denominador comum de 1/2,
 1/6, 1/7 e 1/12 parece ser a mesma
@@ -932,10 +952,11 @@ bem limitadas.
 !******************************!
 Se você começar a substituir o A por 1 e
 fazer seu caminho por todos os outros
-possíveis dígitos para A, irá encontrar sua
-resposta bem cedo. E ainda mais, se você
-usar uma calculadora, tentar cada possibilidade
-irá demorar um minuto ou dois no máximo.
+possíveis dígitos para A, irá encontrar
+sua resposta bem cedo. E ainda mais, se
+você usar uma calculadora, tentar cada
+possibilidade irá demorar um minuto ou
+dois no máximo.
 
 Mas, se puder, tente resolver usando
 apenas sua cabeça.
@@ -948,23 +969,25 @@ na última metade de sua busca.
 [n141.dat]
 <0144>Super Panquecas
 <00><63><58><4D><02><01><0D><05><F3><03><03><FF>
-Aqui está um enigma gostoso pra você.
+Toma aí um enigma gostoso pra você.
 
-Você consegue mover a pilha de panquecas
-do prato azul da esquerda para o prato
-vermelho da direita? Espere, não é tão fácil
-quanto parece. Você deve seguir essas regras:
+Você consegue mover a pilha de panquecas do
+prato azul à esquerda para o prato vermelho
+à direita? Espera aí, não é tão fácil quanto
+parece. Você deve seguir estas regras:
 
-<60> Você só pode mover uma panqueca por vez.
-<60> Você não pode pôr uma panqueca em cima de
-outra que seja maior que a mesma.
+<60> Você só pode mover uma panqueca de cada
+vez.
+<60> Você não pode colocar uma panqueca grande
+em cima de uma pequena.
 
-Você pode usar o prato do meio e mover as
-panquecas quantas vezes você quiser.
+Você pode usar o prato do centro e mover
+as panquecas quantas vezes você quiser.
 !******************************!
-Delicioso!
+Ah, que delícia, cara!
 
-Você se exercitou bem com sua caneta!
+Pegou pesado com a caneta stylus do seu
+portátil, hein? Agora pode relaxar!
 !******************************!
 Que pena!
 !******************************!
@@ -980,7 +1003,7 @@ daquela da direita. Agora pegue uma
 nova panqueca da pilha da esquerda e
 mova para o prato do meio. Leia mais
 sobre o que fazer na Dica 2.
-!*****************************!
+!******************************!
 De onde a Dia 1 parou, ponha a menor
 panqueca em cima da panqueca que está
 no prato do meio. Então, mova a panqueca
@@ -994,41 +1017,41 @@ o processo demonstrado nas Dicas 1 e 2
 enquanto põe panquecas cada vez maiores,
 mas não é muito eficiente.
 !******************************!
-Tente limitar o número de movimentos para
-si mesmo para se impedir de ficar confuso
+Tente limitar o número de jogadas que
+você faz, para evitar ficar confuso
 no meio do caminho.
 !******************************!
 [n142.dat]
 <0145>500 Pérolas
 <00><46><3F><38><12><01><16><8E><F6><03><02><FF>
-Um mago pede a um viajante uma estranha tarefa.
+Um mago pede a um viajante uma estranha
+tarefa.
 
-<''>Há 500 pérolas naquela caverna. Eu quero
-que você vá e traga um certo número de pérolas
+<''>Há 500 pérolas naquela caverna. Eu quero que
+você vá e traga um certo número de pérolas
 para mim. Esse número te permite dividir as
 pérolas em grupos de 2, 3, 4, 5, 6 ou 7 e
 sempre terá uma pérola restante. Traga-me
 este número de pérolas e você poderá ficar
-com todas para si mesmo!<''>
+com todas para si!<''>
 
-O viajante tenta o seu melhor, mas o número
-de pérolas que ele traz não resta uma quando
-dividido em grupos de 4. Quantas pérolas ele
-trouxe pro mago?
+O viajante se esforça, mas o número de
+de pérolas que ele traz não é divisível por
+grupos de 4. Quantas pérolas ele trouxe?
 !******************************!
 Brilhante!
 A resposta é 211 pérolas. O número do
 viajante deveria ser entre 1 e 500 e um a
 mais que o número que é divisível por 2,
 3, 5, 6 e 7. O jeito mais rápido de encontrar
-esse número seria fazer uma lista de múltiplos
+o número seria fazer uma lista de múltiplos
 de 7 até o limite de 500 e então ver se esses
 números são também divisíveis pelo os outros
-números. Isso levaria um bom tempo a não ser
+números. Isso levaria um bom tempo, a menos
 se você percebesse que qualquer número
 divisível por 6 também é divisível por 2 e
-3, então você tem apenas que comparar com 6 e
-5. Imagine só se o viajante tivesse trazido
+3, então você tem apenas que comparar com 6
+e 5. Imagine só se o viajante tivesse trazido
 421 pérolas...
 !******************************!
 Que pena!
@@ -1040,11 +1063,12 @@ há jeitos de reduzir a quantidade de
 cálculos que você precisa fazer.
 !******************************!
 Vamos reduzir o diálogo do mago um pouco.
-Se sempre restará uma pérola quando dividido
-pelo os números de 2 a 7, então foi pedido
-ao viajante para encontrar um número que
-possa ser dividido perfeitamente por esses
-números, com um adicionado no final.
+Se sempre restará uma pérola quando
+dividido pelo os números de 2 a 7, então
+foi pedido ao viajante para encontrar um
+número que possa ser dividido
+perfeitamente por esses números,
+com um adicionado no final.
 
 Não se esqueça que a resposta dele falha
 levando em conta com o número 4.
@@ -1052,13 +1076,14 @@ levando em conta com o número 4.
 O número do viajante deve ter um a mais
 e deve ser divisível por 2, 3, 5, 6 e 7.
 Isso significa precisa adicionar mais um no
-múltiplo de todos esses números. Descobrir
-parece difícil, mas há jeitos de deixar mais
-fácil. O maior número, 7, irá ter a menor
-quantidade de múltiplos entre 1 e 500, então
-você deveria começar a trabalhar com esses
-múltiplos e então ver quais são divisíveis
-pelo os outros números.
+múltiplo de todos esses números.
+Descobrir parece difícil, mas há jeitos de
+deixar mais fácil. O maior número, 7, terá
+a menor quantidade de múltiplos entre
+1 e 500, então você deveria começar a
+trabalhar com esses múltiplos e então ver
+quais são divisíveis pelo os outros
+números.
 !******************************!
 Se você está achando muito cansativo
 descobrir os múltiplos comuns desses
@@ -1086,7 +1111,6 @@ centrais das arestas desse jeito, você iria
 desenhar um hexágono normal. E os ângulos
 internos dos hexágono regulares são sempre
 120 graus!
-
 !******************************!
 Que pena!
 
@@ -1094,7 +1118,7 @@ Este enigma é mais sobre visualização
 que cálculo.
 !******************************!
 Não precisa fazer nenhum cálculo
-complicado. Visualização e a parte mais
+complicado. Visualização é a parte
 importante.
 
 Os três pontos estão um em cada ponto
@@ -1111,8 +1135,8 @@ Pense nas figuras geométricas que você
 poderia criar que inclui os pontos
 A, B e C.
 
-Você poderia criar um hexágono regular,
-não?
+Você poderia criar um hexágono comum,
+não acha?
 !******************************!
 [n144.dat]
 <0147>Labirinto Deslizante
@@ -1123,29 +1147,31 @@ colocar em ordem novamente.
 
 Cada pedaço dos segmentos de túnel deve
 se encontrar com as partes que são
-adjacentes. As únicas vezes que os segmentos
-podem estar ficar com um lado sem tocar nos
-outros segmentos são os pontos de entrada e
-saída. Os túneis não podem encarar as paredes.
+adjacentes. As únicas vezes que os
+segmentos podem estar ficar com um lado sem
+tocar nos outros segmentos são os pontos
+de entrada e saída. Os túneis não podem
+encarar as paredes.
 
 Deslize as peças por aí e veja se
 conseguirá resolver o enigma!
 !******************************!
 Muito bem!
 
-Ver quais peças se conectam com as outras é
-fácil, mas colocar todas elas em uma só pode
-ser difícil.
+Ver quais peças se conectam com as outras
+é fácil, mas colocar todas elas em uma
+só pode ser difícil.
 !******************************!
 Que pena!
 !******************************!
-Mover as peças aleatoriamente provavelmente
-não irá ajudar muito. Pense sobre a
-posição das peças na tela descobrindo
-como os segmentos do túnel estarão postos.
+Mover as peças aleatoriamente
+provavelmente não irá ajudar muito.
+Pense sobre a posição das peças na tela
+descobrindo como os segmentos do túnel
+estarão postos.
 !******************************!
-O pedaço conectado com o ponto de entrada
-é o túnel reto horizontal.
+O pedaço conectado com o ponto de
+entrada é o túnel reto horizontal.
 
 Deixe o quadrado no canto inferior
 direito do mapa aberto.
@@ -1157,10 +1183,10 @@ O cruzamento fica no centro do mapa.
 [n145.dat]
 <0148>Oito Cartas
 <00><46><3F><38><12><01><1A><91><00><04><04><FF>
-Essas cartas, numeradas de 1 a 8, podem ser
-usadas para fazer duas equações de multiplicação.
-Uma já foi mostrada aqui, mas você consegue
-descobrir a segunda?
+Essas cartas, numeradas de 1 a 8, podem
+ser usadas para fazer duas equações de
+multiplicação. Uma já foi mostrada aqui,
+mas você consegue descobrir a segunda?
 !******************************!
 Muito bem!
 
@@ -1205,18 +1231,19 @@ Tente elevar ao quadrado os dígitos
 individuais de cada número primeiro.
 !******************************!
 [n147.dat]
-<0150>O Passeio do Cavalo 4
+<0150>O Problema do Cavalo 4
 <00><63><51><48><02><01><11><93><F7><03><04><FF>
-Leve o cavalo para uma viagem ao redor do tabuleiro.
+Leve o cavalo em um passeio ao redor do
+tabuleiro.
 
-Os cavalos no xadrez se movem dois espaços para
-frente e um perpendicular a cada turno.
-A direção inicial pode ser cima, baixo,
-esquerda ou direita.
+No xadrez, os cavalos se movem dois espaços
+para frente, e um espaço perpendicular a
+cada jogada. A direção inicial pode ser
+para cima, baixo, esquerda ou direita.
 
-Move este cavalo ao redor do tabuleiro
-inteiramente, pisando em cada espaço só uma vez. 
-
+Mova este cavalo ao redor do tabuleiro
+inteiro, parando em cada espaço apenas
+uma vez.
 !******************************!
 Maravilhoso!
 !******************************!
@@ -1224,41 +1251,45 @@ Que pena!
 !******************************!
 Este tabuleiro é 8 x 8, igual a um tabuleiro
 de xadrez normal. Isso significa que este
-enigma é igual ao Passeio do Cavalo original.
+enigma é igual ao Problema do Cavalo
+original.
 
 Não há dicas para serem dadas aqui!
-Apenas descubra sozinho.
+O melhor a fazer é você achar a
+solução sozinho.
 !******************************!
-O Passeio do Cavalo geralmente envolve
-em retornar o cavalo para o espaço inicial
+O Problema do Cavalo geralmente envolve
+retornar o cavalo para o espaço inicial
 no fim do passeio. Se você está almejando
-isso, então escolher um espaço inicial
+isso, então escolher o espaço inicial
 correto é muito importante. Por que
-você não usa a Função Memo para te
+você não usa a Função de Notas para te
 ajudar?
 !******************************!
-Há muitos pesquisadores ávidos em xadrez
-na Europa e EUA que escrevem papéis bem
-detalhados com soluções bem elegantes de
-enigmas de xadrez. Procurar por desafios
-como esses é mais uma forma de se divertir
-com enigmas de xadrez.
+Há muitos pesquisadores ávidos de xadrez
+na Europa e nos EUA que escrevem artigos
+bem detalhados com soluções bem
+elegantes para enigmas de xadrez.
+Pesquisar por esses recursos é mais
+uma forma de se divertir com enigmas
+de xadrez.
 !******************************!
 [n148.dat]
 <0151>A pontuação de John
 <00><63><58><4D><72><01><16><94><F6><03><01><FF>
-Quatro estudantes fizeram um teste onde cada
-pergunta tinha duas possíveis respostas,
-A e B. Cada pergunta vale 10 pontos, com um
-total de 100 pontos.
+Quatro estudantes fizeram um teste onde
+cada pergunta tinha duas possíveis
+respostas, A e B. Cada pergunta vale 10
+pontos, com um total de 100 pontos.
 
-Os testes dos estudantes foram resultados como
-você vê abaixo, mas o professor esqueceu sobre
-a nota do John. John estava indo para o
-escritório do professor quando Mary o chamou
-de volta, dizendo que daria pra determinar sua
-pontuação usando o resultado dos outros testes.
-Você consegue descobrir a pontuação do John?
+Os testes dos estudantes foram resultados
+como você vê abaixo, mas o professor
+esqueceu sobre a nota do John. John estava
+indo para o escritório do professor quando
+Mary o chamou de volta, dizendo que daria
+pra determinar sua pontuação usando o
+resultado dos outros testes. Você consegue
+descobrir a pontuação de John?
 !******************************!
 Nota 10!
 
@@ -1266,9 +1297,10 @@ Nota 10 pra você, no sentido figurado.
 Infelizmente pro John, a nota foi 60 pontos.
 
 Baseado nos resultados dos três testes,
-você chegaria à conclusão de quatro possíveis
-respostas, como mostrado. Não importa a que
-você escolhesse, a pontuação do John é 60!
+você chegaria à conclusão de quatro
+possíveis respostas, como mostrado.
+Não importa a que você escolhesse,
+a pontuação do John é 60!
 !******************************!
 Que pena!
 
@@ -1276,8 +1308,8 @@ Você precisa diminuir o máximo de
 condições. Este enigma é complicado.
 !******************************!
 Para resolver esse enigma, você precisa
-descobrir quais são as respostas corretas
-das 10 perguntas. A forma mais fácil é
+descobrir quais respostas são corretas
+para as 10 perguntas. A forma mais fácil é
 criar uma tabela mostrando a provável
 resposta certa para cada pergunta,
 compará-las com os resultados do teste
@@ -1289,53 +1321,56 @@ Preste atenção onde as respostas dela
 diferem dos outros.
 !******************************!
 Está achando difícil em encontrar as
-respostas corretas? Usando o senso comum
-pode te ajudar a começar. Se todos os
-quatro alunos responderam uma pergunta
-do mesmo jeito então é bem provável que
-esta seja a resposta correta, não?
+respostas corretas? Usar o bom senso
+pode ser um bom ponto de partida.
+Se todos os quatro alunos responderam
+uma pergunta do mesmo jeito então
+é bem provável que esta seja a
+resposta correta, não?
 !******************************!
 Você deve ter percebido que as quatro
-pessoas deram a mesma resposta em quatro
-perguntas. Não pode estar tudo correto,
-já que lista só fez 30 pontos. Vamos
-assumir que só três estão corretas, então...
+pessoas deram a mesma resposta em
+quatro perguntas. Não pode estar tudo
+correto, já que lista só fez 30 pontos.
+Vamos assumir que só três estão
+corretas, então...
 !******************************!
 [n149.dat]
 <0152>O Torneio de Cartas
 <00><50><48><40><12><01><16><95><F6><03><01><FF>
-Algumas pessoas se encontraram para um torneio
-de duelos de cartas, onde cada participante
-joga uma partida contra cada jogador.
-Monty teve que sair após algumas partidas,
-perdendo o restante do torneio. Um total de
-59 partidas foram jogadas no torneio. Quantas
-partidas o Monty jogou antes de ir embora?
+Algumas pessoas se encontraram para um
+torneio de duelos de cartas, onde cada
+participante joga uma partida contra cada
+jogador. Monty teve que sair após algumas
+partidas, perdendo o restante do torneio.
+Um total de 59 partidas foram jogadas no
+torneio. Quantas partidas o Monty jogou
+antes de ir embora?
 
 O jogo de cartas em questão é pra dois
 jogadores, e nenhuma pessoa jogou com uma
-outra mais de uma vez. Ninguém perdeu nenhuma
-partida além do Monty.
+outra mais de uma vez. Ninguém perdeu
+nenhuma partida além do Monty.
 !******************************!
 Bom trabalho!
 Monty jogou quatro partidas. Primeiro, você
-precisa encontrar o número total de partidas
-já que todos ficaram. Você pode descobrir com
-uma equação como essa aqui. Se haviam 11
+precisa descobrir o número total de partidas
+já que todos ficaram. Você pode descobrir
+com uma equação como essa aqui. Se haviam 11
 pessoas, teriam 55 partidas e se tinham 12
 pessoas, seriam 66. Já que sabemos que
 59 partidas foram feitas, então haviam
 12 pessoas no começo. Quando subtraímos
-as 59 partidas do total de 66, aprendemos
-que Monty perdeu sete partidas. Já que todos
-teriam que jogar naturalmente 11 partidas,
-isso significa que o Monty jogou apenas
-quatro partidas.
+as 59 partidas do total de 66, descobrimos
+que Monty perdeu sete partidas. Já que
+todos teriam que jogar naturalmente
+11 partidas, isso significa que o Monty
+jogou apenas quatro partidas.
 !******************************!
 Que pena!
 
 Isso é um problema de cálculo, mas
-requer muita ingenuidade para resolver.
+requer muita engenhosidade para resolver.
 !******************************!
 Crie uma equação com o número de pessoas
 e o número de partidas como variáveis.
@@ -1375,8 +1410,6 @@ Maravilhoso!
 Se você completou este enigma em 78
 movimentos, pode se considerar como
 um mestre dos enigmas!
-
-
 !******************************!
 Que pena!
 !******************************!
@@ -1385,8 +1418,8 @@ enigma. Você tem que encontrar maneiras
 de encaixar os blocos juntos e abrir um
 pequeno espaço por vez.
 !******************************!
-Você não pode mover a joia para fora de sua
-alcova de primeira. Você deve focar
+Você não pode mover a joia para fora de
+sua alcova de primeira. Você deve focar
 inicialmente em criar espaço para a
 joia poder sair. Uma dica pra você:
 mova a barra vertical em amarelo para
@@ -1419,8 +1452,8 @@ Você consegue!
 <0155>Dia do Lixo
 <00><00><00><00><12><01><19><15><4D><04><02><FF>
 Ponha o lixo no lugar correto. Use a
-Stylus para deslizar os blocos até você
-poder mover o lixo para a lata.
+caneta stylus para deslizar os blocos
+até você poder mover o lixo para a lata.
 !******************************!
 Limpo como sabão!
 
@@ -1428,9 +1461,9 @@ Isso não é ótimo?
 !******************************!
 Que pena!
 !******************************!
-Se você pensa em mover as barras
-verticais de vermelho de uma só
-vez, você ficará bem.
+Se você tiver pensado em mover as barras
+verticais vermelhas como um conjunto,
+você conseguirá desenrolar esse.
 !******************************!
 
 !******************************!
@@ -1464,12 +1497,12 @@ Você fez um erro de cálculo?
 Ou talvez há uma resposta que usa
 menos movimentos que a que você usou?
 !******************************!
-Há bastante soluções se você estiver
-livre para fazer muitos movimentos,
+Há várias soluções se você pudesse
+fazer quantas jogadas quisesse,
 mas você precisa da resposta que
-envolve o menor número possível. E
-apenas os números das duas colunas
-da direita devem se mover.
+envolve o menor número de jogadas
+possível. E apenas os números das
+duas colunas da direita devem se mover.
 !******************************!
 
 !******************************!
@@ -1493,24 +1526,25 @@ da direita devem se mover.
 [n155.dat]
 <0158>Relógios Errados
 <00><00><00><00><11><01><16><9B><F6><03><02><FF>
-Os dois relógios da ilustração abaixo apontam
-exatamente às 12:00. Uma hora depois, um
-relógio marca 01:01 e o outro 12:59. Em
-outras palavras, um relógio está adiantado
-e outro atrasado. Se os dois estão em um
-nível constante um com o outro de atraso
-e adiantamento, quantas horas irá demorar,
-começando ao meio-dia, até que eles se
-encontrem novamente?
+Os dois relógios da ilustração abaixo
+apontam exatamente às 12:00. Uma hora
+depois, um relógio marca 01:01 e o outro
+12:59. Em outras palavras, um relógio está
+adiantado e outro atrasado. Se os dois
+estão em um nível constante um com o outro
+de atraso e adiantamento, quantas horas irá
+demorar, começando ao meio-dia, até que eles
+se encontrem novamente?
 !******************************!
 Resolvido com sucesso!
 
-Irá demorar 360 horas. Assim que um relógio
-ganhar seis horas e outro perder seis, ambos
-relógios mostrarão o mesmo tempo novamente.
-Você precisaria se perguntar por quanto
-tempo iria demorar com o relógio movendo
-um minuto por hora para alcançar seis horas.
+Demorará 360 horas. Assim que um relógio
+ganhar seis horas e outro perder seis,
+ambos os relógios mostrarão o mesmo tempo
+novamente. Você precisaria se perguntar
+por quanto tempo iria demorar com o relógio
+movendo um minuto por hora para alcançar
+seis horas.
 !******************************!
 Que pena!
 
@@ -1546,19 +1580,20 @@ simples cálculo.
 <0160>Corte e Cole
 <00><00><00><00><11><01><09><9D><EF><03><02><FF>
 Dê uma olhada nesse pedaço de madeira dessa
-ilustração. Você consegue cortar seguindo as
-linhas para criar duas partes que se combinam
-e fazer um pedaço novo de madeira com 8
-quadradinhos de altura e largura?
+ilustração. Você consegue cortar seguindo
+as linhas para criar duas partes que se
+combinam e fazer um pedaço novo de madeira
+com 8 quadradinhos de altura e largura?
 
-Por mais que você possa rotacionar os pedaços
-cortados, tenha em mente que você não pode
-virá-los de costas para tentar encaixar.
+Por mais que você possa rotacionar os
+pedaços cortados, tenha em mente que você
+não pode virá-los de costas para tentar
+encaixar.
 !******************************!
 Perfeito!
 
-Sua resposta provavelmente estará parecida
-com algo assim:
+Sua resposta provavelmente será algo
+parecido com isso.
 !******************************!
 Que pena!
 
@@ -1576,11 +1611,11 @@ pedaço feito.
 [n158.dat]
 <0161> Dados Empilhados
 <00><00><00><00><11><01><16><9E><F6><03><02><FF>
-Olhe para esses dados empilhados abaixo. Embora
-você não consiga ver, as faces que tocam os
-outros dados compartilham o mesmo número. Se
-é este o caso, qual número deveria estar neste
-ponto de interrogação?
+Olhe para esses dados empilhados abaixo.
+Embora você não consiga ver, as faces que
+tocam os outros dados compartilham o mesmo
+número. Se é este o caso, qual número
+deveria estar neste ponto de interrogação?
 
 E claramente todos esses dados possuem o
 mesmo layout de números.
@@ -1591,15 +1626,14 @@ A face em questão deve ser um. Você
 precisaria visualizar os números que
 não podia ver e deduzir a posição do
 último dado assim.
-
 !******************************!
 Que pena!
 
 Este enigma requer visualização e
 dedução.
 !******************************!
-Ajuda saber que as somas das faces opostas
-de um dado é sempre sete.
+Ajuda saber que as somas das faces
+opostas de um dado é sempre sete.
 
 Use isso como base na sua
 dedução.
@@ -1611,14 +1645,14 @@ dedução.
 [n159.dat]
 <0162>Papel e Tesoura
 <00><00><00><00><11><01><16><9F><F6><03><02><FF>
-Vamos dizer que você pegou um pedaço quadrado
-de papel e cortou os cantos para fazer o
-maior círculo possível. Mas então você
-percebeu que precisava mesmo de um quadrado
-e cortou as curvas para criar o maior
-quadrado possível. Quantas vezes maior
-o quadrado original é em relação a esse
-que você tem agora?
+Vamos dizer que você pegou um pedaço
+quadrado de papel e cortou os cantos para
+fazer o maior círculo possível. Mas então
+você percebeu que precisava mesmo de um
+quadrado e cortou as curvas para criar o
+maior quadrado possível. Quantas vezes
+o quadrado original é maior, em relação
+a esse que você tem agora?
 !******************************!
 Você entendeu bem!
 
@@ -1658,8 +1692,9 @@ não valores diferentes do exemplo de
 equação acima.
 
 Quais números você poderia usar em A e B
-para tornar a segunda equação verdadeira? Tenha
-em mente que A e B são números diferentes.
+para tornar a segunda equação verdadeira?
+Tenha em mente que A e B são números
+diferentes.
 !******************************!
 Ótimo trabalho!
 
@@ -1676,10 +1711,10 @@ digito da soma resultante seria igual a A.
 
 Já que nenhum número de dígito único
 possa ter uma soma maior que 18, você
-sabe que o número nas dezenas dessa soma
-de B+B deve ser um. O único outro dígito
-que influencia as dezenas nessa solução
-é o A no AB + B.
+sabe que o número nas dezenas dessa
+soma de B+B deve ser um. O único outro
+dígito que influencia as dezenas nessa
+solução é o A no AB + B.
 
 Então, A + 1 deve ser igual a B.
 !******************************!
@@ -1694,20 +1729,21 @@ Os números no diagrama abaixo seguem uma
 certa regra. Algum tipo de manipulação em
 pares dos dados adjacentes é usada para
 gerar o número central abaixo deles. Você
-consegue descobrir qual número vai no espaço
-marcado com um ponto de interrogação?
+consegue descobrir qual número vai no
+espaço marcado com um ponto de
+interrogação?
 
 A regra feita aqui é absoluta, então não
 há exceções.
 !******************************!
 Está certo! A resposta é 16. 
 
-A maneira para encontrar a resposta é pensar
-em todos dígitos dos números no diagrama como
-inteiros de único dígito. Então você soma
-todos eles. Então, 160 e 144 lhe daria
-1 + 6 + 0 + 1 + 4 + 4, que é igual a 16, o
-número abaixo. Esta é a regra.
+A maneira para encontrar a resposta é
+pensar em todos dígitos dos números no
+diagrama como inteiros de único dígito.
+Então você soma todos eles. Então, 160 e 144
+lhe daria 1 + 6 + 0 + 1 + 4 + 4, que é igual
+a 16, o número abaixo. Esta é a regra.
 
 Primeiro, parece que a regra é pegar o
 valor absoluto das diferenças entre dois
@@ -1736,7 +1772,7 @@ a libertar este rato azarado?
 Ufa! Ele está livre!
 
 Tenho certeza que ele irá achar um jeito
-de te agradecer... eventualmente.
+de te agradecer... cedo ou tarde.
 !******************************!
 Que pena!
 !******************************!
@@ -1784,7 +1820,6 @@ diferença em cada, circuladas aqui.
 Que pena!
 
 Dê uma olhada mais de perto nas imagens.
-
 !******************************!
 Nos olhos da galinha.
 
@@ -1839,7 +1874,7 @@ O único jeito de resolver um enigma como
 esse é fazendo manualmente!
 !******************************!
 Tente marcar os territórios usando a
-Função Memo para ter certeza de que
+Função de Notas para ter certeza de que
 você não deixe os adjacentes com a
 mesma cor.
 !******************************!
@@ -1851,13 +1886,13 @@ mesma cor.
 <0170>Uma Vitória Garantida
 <00><00><00><00><11><01><1A><A7><00><04><02><FF>
 Neste jogo, os participantes fazem turnos
-movendo as pedras para um espaço vazio pra
-cima, baixo, esquerda, direita ou diagonalmente.
-O objetivo é alinhar três de suas pedras,
-como em nada e cruzes. Baseado no tabuleiro
-abaixo, há um movimento que o das peças
-brancas pode fazer para garantir vitória
-no turno seguinte.
+movendo as pedras para um espaço vazio
+pra cima, baixo, esquerda, direita ou
+diagonalmente. O objetivo é alinhar três de
+suas pedras, como em nada e cruzes. Baseado
+no tabuleiro abaixo, há um movimento que o
+das peças brancas pode fazer para garantir
+vitória no turno seguinte.
 
 Faça o movimento e toque em #rSubmit#x.
 !******************************!
@@ -1898,19 +1933,21 @@ terá: A, B ou C?
 Muito bem!
 
 Este enigma é divertido de fazer na vida
-real. Irá terminar com um anel bem longo.
+real. Você acaba terminando com um anel
+bem longo.
 
 Tente e veja com quantas torcidas você
-acabará fazendo.
+terá terminado.
 !******************************!
 Que pena!
 
 Sabe, se você tivesse um papel, tesouras
 e um pouco de fita...
 !******************************!
-Pra você saber, torcer antes de formar
-um anel terá um resultado completamente
-diferente que cortar um anel não torcido.
+Sabe, se você torcer uma tira antes
+de um anel se formar, o resultado será
+completamente diferente, comparado a
+cortar um anel não torcido.
 !******************************!
 
 !******************************!
@@ -1933,7 +1970,7 @@ possível está sendo mostrada aqui, mas
 há outras rotas que também dá pra ir
 uma vez em cada ponte. Este é um tipo
 de enigma que se resolve traçando uma
-longa linha sem soltar a stylus.
+longa linha sem soltar a caneta stylus.
 !******************************!
 Que pena!
 
@@ -1954,15 +1991,16 @@ Aqui temos um pentágono com lados iguais.
 Como mostrado na Figura 1, um quadrado com
 lados de mesmo tamanho de um do pentágono
 faz um contorno contra os cinco lados.
-Está rotulada com uma seta apontada pra cima.
-Se você virar o quadrado ao redor do
+Está rotulada com uma seta apontada pra
+cima. Se você virar o quadrado ao redor do
 pentágono como mostrado na Figura 2,
 a seta no quadrado muda de direção.
 
 Usando o diagrama abaixo, descubra qual
 direção a seta estará encarando se você
 continuar a girar no sentido anti-horário
-ao redor do pentágono até a posição original.
+ao redor do pentágono até a posição
+original.
 !******************************!
 Você conseguiu!
 
@@ -1976,13 +2014,13 @@ Que pena!
 Não se desanime. Elabore um raciocínio
 e tente novamente!
 !******************************!
-Este enigma parece ser doloroso de
+Este enigma pode parecer um porre de
 resolver, mas se você seguir o exemplo
 dado e visualizar cada um dos passos,
 realmente verá que não é tão difícil.
 
 Tente esboçar cada rotação do
-quadrado usando a Função Memo.
+quadrado usando a Função de Notas.
 !******************************!
 
 !******************************!
@@ -2055,12 +2093,12 @@ Você consegue ver algum um ou seis?
 [n174.dat]
 <0177>Rato à Solta!
 <00><00><00><00><01><01><19><AE><FF><03><02><FF>
-Oh não, parece que o rato dormiu e ficou
-preso novamente! Enquanto ele estava
-cochilando, os donos da casa encheram
-com vários blocos ao redor dele. Você
-consegue limpar o caminho e ajudar o
-nosso carinha a sair?
+Ah não, parece que o rato dormiu e ficou
+preso de novo! Enquanto ele estava
+cochilando, os donos da casa encheram o
+lugar que ele estava com vários blocos à
+sua volta. Você consegue limpar o caminho
+e ajudar o nosso camaradinha a sair?
 !******************************!
 Finalmente livre!
 
@@ -2073,11 +2111,12 @@ Que pena!
 Há vários espaços vazios nesse enigma,
 então deve estar pensando que será fácil
 mover as coisas por aí, mas limpar o
-caminho pode ser surpreendentemente difícil.
+caminho pode ser surpreendentemente
+difícil.
 
 Para conseguir, você precisará usar
 efetivamente as indentações dos blocos
-certos. Oh, tente levar esse bloco reto
+certos. Ah, tente levar esse bloco reto
 laranja para cima do bloco azul com
 formato de U na parte superior da tela.
 !******************************!
@@ -2110,22 +2149,22 @@ Esse enigma usa uma como ilustração, mas
 basicamente está te pedindo para desenhar
 um formato 3D em um único traço contínuo.
 
-Por mais que o fio A também te deixa desenhar
-em um traço, não lhe permite fazer isso
-quando iniciado pela seta branca. B também
+Embora o fio A também te deixe desenhar o
+cubo em um traço, ele não te deixa fazer isso
+se começado pela seta branca. B também
 está incorreto porque, não importa de onde
 comece, você não conseguirá completar
-o desenho com uma única e contínua linha.
+o desenho com uma única linha contínua.
 !******************************!
 Que pena!
 
 Estude a estrutura desse fio com esmero.
 !******************************!
-Essencialmente, este enigma está te pedindo
-para adicionar um fio em ordem de criar
-uma forma 3D que se possa desenhar sem
-soltar a caneta alguma vez, ou redesenhar
-alguma linha.
+Essencialmente, este enigma está te
+perguntando onde deve adicionar um fio
+para criar uma forma 3D que se possa
+desenhar sem tirar a caneta da página,
+nem redesenhar uma linha.
 
 Duas das alternativas permitem fazer
 isso, mas apenas uma funciona quando
@@ -2231,8 +2270,8 @@ dividido em quatro seções?
 [n179.dat]
 <0182>O Cálculo Gigante
 <00><00><00><00><11><01><16><B3><F6><03><02><FF>
-Fórmulas igual a primeira são familiares
-para os estudantes.
+Fórmulas como a primeira mostrada abaixo
+são bastante familiares para estudantes.
 
 Um dia, um matemático pensou na segunda
 fórmula. Essa fórmula basicamente pegou
@@ -2255,7 +2294,7 @@ número multiplicado por zero é igual a zero!
 Que pena!
 
 Há, é claro, uma resposta bem clara,
-simples e lógia, então dê o seu melhor!
+simples e lógica, então dê o seu melhor!
 !******************************!
 No segmento escondido da fórmula está
 algo muito importante.
@@ -2279,8 +2318,8 @@ terceira da esquerda. É esta qual
 estamos atrás.<''>
 
 Supondo que as joias estão ordenadas
-uniformemente em fileiras e
-colunas, quantas joias há no total?
+uniformemente em fileiras e colunas,
+quantas joias há no total?
 !******************************!
 Deslumbrante!
 
@@ -2293,7 +2332,6 @@ Se você desenhar uma imagem com essa
 descrição, irá se parecer assim. Contudo,
 há cinco fileiras e cinco colunas,
 significando que há 25 joias.
-
 !******************************!
 Que pena!
 
@@ -2315,15 +2353,16 @@ Caminhando por aí, você escuta os vizinhos
 conversando sobre uma família que consiste
 de um casal, um filho e uma filha.
 
-A: <''>A Mary é com certeza mais nova que o Dan.<''>
-B: <''>Diga-me, a Mary é mais velha que a Lisa, não?<''>
-C: <''>Sam é mais nova que o Dan, com certeza.<''>
-D: <''>Não, a Lisa e o Sam não são um casal.<''>
+A: <''>Mary é com certeza mais nova que o Dan.<''>
+B: <''>Me diz, Mary é mais velha que Lisa, não?<''>
+C: <''>Sam é mais nova que Dan, com certeza.<''>
+D: <''>Não, Lisa e Sam não são um casal.<''>
 
 Das quatro afirmações acima, duas são
 verdadeiras e duas são falsas. Descubra
 quais afirmações são as corretas e marque
-as caixas das duas pessoas que estão casadas.
+as caixas das duas pessoas que estão
+casadas.
 !******************************!
 Está certo!
 
@@ -2353,8 +2392,8 @@ As afirmações A e C estão incorretas.
 <0185>Erro de Cálculo
 <00><00><00><00><11><01><16><B6><F6><03><02><FF>
 Mike sempre foi terrível em matemática.
-Pediram para ele multiplicar "um certo número
-por 9 e depois somar 7", mas em vez disso,
+Pediram para ele multiplicar <''>um certo número
+por 9 e depois somar 7<''>, mas em vez disso,
 ele multiplica por 7 e então soma por 9.
 
 Ele depois percebe seu erro e, em pânico,
@@ -2369,12 +2408,12 @@ Muito bem!
 
 O número é o um.
 
-Se você fizer os cálculos, irá
-funcionar.
+Se você fazer as contas, vai ver que
+tudo tá batendo.
 !******************************!
 Que pena!
 
-A resposta não funciona.
+A resposta não faz sentido.
 !******************************!
 Tente criar uma equação.
 
@@ -2390,18 +2429,18 @@ descobrir a resposta...
 <00><00><00><00><51><01><1A><B7><00><04><02><FF>
 Você consegue descobrir o nome de cada
 uma dessas três senhoritas?
-A :<''>Esta mulher próxima de mim é a Judy.<''>
+A: <''>Esta mulher próxima de mim é a Judy.<''>
 B: <''>Eu sou a Ellie. Prazer em conhecê-lo!<''>
 C: <''>Esta mulher próxima de mim? É a Anna.<''>
 
 Lembre-se do que cada senhorita disse para
 te ajudar na dedução de nomes. Há uma
-pegadinha nisso: enquanto a Judy sempre
-é sincera, Ellie mente às vezes e a
-Anna graceja sempre que pode.
-Organize os nomes na parte de baixo da
-tela para que então as placas digam
-corretamente o nome de cada uma delas.
+pegadinha nisso: enquanto a Judy é sempre
+sincera, Ellie mente às vezes e a Anna
+diz lorota sempre que pode. Organize os
+nomes na parte de baixo da tela para que
+então as placas digam corretamente o nome
+de cada uma delas.
 !******************************!
 Está certo!
 
@@ -2467,8 +2506,9 @@ Um leão fugiu de sua jaula no zoológico.
 Parece que você, o tratador, esqueceu
 de trancar a jaula.
 
-Esse leão é uma espécie extremamente perigosa
-e você é a única pessoa restante no zoológico.
+Esse leão é uma espécie extremamente
+perigosa e você é a única pessoa restante
+no zoológico.
 
 Circule o local mais seguro de se esconder
 até a ajuda chegar.
@@ -2488,8 +2528,9 @@ Que pena!
 Tente pensar um pouco mais sobre isso.
 !******************************!
 Não procure um lugar onde o leão não
-possa te encontrar. Em vez disso, procure
-um lugar onde o leão não possa te pegar.
+possa te encontrar. Em vez disso,
+procure um lugar onde o leão não possa
+te pegar.
 !******************************!
 
 !******************************!
@@ -2517,8 +2558,9 @@ Qual padrão combina com aquele do canto
 superior esquerdo? É o A, B ou C?
 
 O padrão do superior esquerdo teve seus
-conteúdos invertidos da esquerda pra direita,
-suas cores trocadas e em preto e branco.
+conteúdos invertidos da esquerda pra
+direita, suas cores trocadas e em preto
+e branco.
 !******************************!
 Na mosca!
 
@@ -2564,8 +2606,9 @@ acertar, no final dá tudo certo!
 !******************************!
 Que pena!
 
-Você provavelmente despercebeu alguma coisa.
-Dê uma boa olhada e tente fazer funcionar!
+Você provavelmente deixou passar alguma
+coisa. Dê uma boa olhada e tente resolver
+de novo!
 !******************************!
 Comece com a carta acima da de paus.
 Já que há uma de paus abaixo, uma de
@@ -2589,38 +2632,38 @@ esta maneira e termine a tabela!
 <00><00><00><00><11><01><05><BE><EB><03><02><FF>
 Uns cientistas de um laboratório de pesquisa
 construíram um robô capaz de limpar longos
-corredores. Por causa do robô ainda não
-estar completo, foi programado para virar
-ou só pra esquerda ou só pra direita. Nos
-cruzamentos também pode ser controlado.
+corredores. Como o robô ainda não está
+completo ainda, ele foi programado para virar
+ou só pra esquerda ou só pra direita. Os
+cruzamentos onde ele dobra também podem
+ser programados.
 
 Os cientistas querem dar ao robô uma rota
-que limpe todas as partes do corredor,
-mas sem limpar nenhuma parte duas vezes.
-De qual ponto o robô deveria começar?
-Escolha de A-E e circule sua resposta.
-O robô pode passar por interseções
-duas vezes.
+que limpe todas as partes do corredor, mas
+sem limpar nenhum lugar duas vezes. De qual
+ponto o robô deveria começar? Escolha de
+A-E e circule sua resposta. O robô pode
+passar por interseções duas vezes.
 !******************************!
 Afirmativo!
 
 O robô deveria começar pelo ponto E e ser
 programado para virar apenas para direita.
-Também pode ser só para a esquerda se começar
-no fim da rota demonstrada aqui. Seja lá
-o que você escolher, ainda é um robô
+Também pode ser só para a esquerda se
+começar no fim da rota demonstrada aqui.
+Seja lá o que você escolher, ainda é um robô
 difícil de usar!
 !******************************!
 Que pena!
 
-Começar por lá não fará o truque.
+Começar por aí não resolve o problema.
 !******************************!
 Você deveria tentar o máximo de rotas
-possíveis. Se você realmente não consegue
-descobrir, há um único lugar diferente
-dos outros.
+possíveis. Se você realmente não
+consegue descobrir, há um único lugar
+diferente dos outros.
 
-É esta a resposta!
+Esse lugar é a resposta!
 !******************************!
 
 !******************************!
@@ -2629,19 +2672,19 @@ dos outros.
 [n191.dat]
 <0194>Burlando o Código
 <00><00><00><00><11><01><0A><BF><53><04><02><FF>
-Descubra o código de quatro dígitos que abre
-esse cofre. Você pode usar os dígitos de 0
-a 5 em sua resposta, mas cada dígito pode ser
-usado apenas uma vez. As luzinhas em cada
-fileira de dígitos são a chave para descobrir
-o código, já que dizem quantos números em
-comum aquela fileira tem com o código. A luz
-branca indica que um dígito está no código, mas
-na posição errada. Uma luz laranja indica que
-o código está no local correto. Toque nos
-dígitos na tela de baixo para mudá-los, e
-toque em #rSubmit#x quando quiser enviar
-sua resposta.
+Descubra o código de quatro dígitos que
+abre esse cofre. Você pode usar os dígitos
+de 0 a 5 em sua resposta, mas cada dígito
+pode ser usado apenas uma vez. As luzinhas
+em cada fileira de dígitos são a chave para
+descobrir o código, já que dizem quantos
+números em comum aquela fileira tem com o
+código. A luz branca indica que um dígito está
+no código, mas na posição errada. Uma luz
+laranja indica que o código está no local
+correto. Toque nos dígitos na tela de baixo
+para mudá-los, e toque em #rSubmit#x quando
+quiser enviar sua resposta.
 !******************************!
 Você arrebentou!
 
@@ -2652,12 +2695,12 @@ Que pena!
 
 Esse aí é bem complicado...
 !******************************!
-Sobre as luzes da terceira fileira, dá
-pra dizer que os quatro dígitos do código
-são 3102. Descobrir a ordem correta é
-só uma questão de checar as outras
-fileiras, embora com um pouco de
-conjeturas também possa funcionar.
+A partir das luzinhas da terceira fileira,
+dá pra notar que os quatro dígitos do
+código são 3102. Descobrir a ordem
+correta é só uma questão de checar as
+outras fileiras, embora um pouquinho de
+adivinhação também funcione aqui.
 !******************************!
 
 !******************************!
@@ -2708,7 +2751,6 @@ conseguiria seria nove.
 Sabendo disso, qual é o menor número que
 dá pra tirar? Lembre-se, apenas os números
 visíveis do lado de cima contam.
-
 !******************************!
 Está certo!
 
@@ -2723,7 +2765,7 @@ Que pena!
 
 Tente pensar em mais possibilidades...
 !******************************!
-Este enigma é... meio malvado.
+Este enigma é... um pouquinho malvado.
 !******************************!
 
 !******************************!
@@ -2790,8 +2832,8 @@ Que pena!
 
 Isso não é divisível por 43!
 !******************************!
-Mexa nos blocos de modos diferentes.
-Talvez você perceberá algo.
+Tente manusear os blocos de jeitos
+diferentes. Talvez você perceba algo.
 !******************************!
 
 !******************************!
@@ -2826,9 +2868,11 @@ Que pena!
 
 Tente uma rota diferente.
 !******************************!
-Dirija até você acertar uma parede, então
-vire para a direita. Continue até acertar
-outra parede... O resto é com você.
+Dirija até você acertar uma parede,
+então vire para a direita. Continue até
+acertar outra parede...
+
+O resto é com você.
 !******************************!
 
 !******************************!
@@ -2890,7 +2934,8 @@ Essas palavras são a chave para abrir
 a Caixa Elísia.
 
 Cabe a você achar uma maneira de abrir a
-caixa e resolver o enigma final dessa história.
+caixa e resolver o enigma final dessa
+história.
 !******************************!
 Maravilhoso!
 
@@ -2901,8 +2946,9 @@ Está na hora de descobrir.
 !******************************!
 Que pena!
 
-Leia o que o Anton disse para o Luke novamente.
-Já diz tudo o que você precisa saber.
+Leia o que o Anton disse para o Luke
+novamente. Já diz tudo o que você precisa
+saber.
 !******************************!
 <''>Quando você e eu nos encontrarmos...<''>
 
@@ -2952,21 +2998,17 @@ conseguir primeiro.
 Comece descobrindo um jeito de levar
 o bloco amarelo de baixo para o
 buraco atualmente ocupado pela chave.
-
-
 !******************************!
 Se você se sentir preso, pode ser
 mais fácil começar tudo de novo.
 
-No começo, mova o bloco amareço para o
+No começo, mova o bloco amarelo para o
 espaço próximo da mão do professor.
 Depois, leve o bloco quadrado da direita
 e mova-o para a esquerda. Após isso,
 você precisará encontrar um jeito de
 mover aquele bloco amarelo para a área
-superiora direita desse enigma.
-
-
+superior direita desse enigma.
 !******************************!
 Assim que completar tudo da Dica 2,
 você deverá ser capaz de trocar a
@@ -2986,7 +3028,8 @@ posicione os números restantes para que
 cada linha vertical, horizontal e diagonal
 com quatro números dê a mesma soma total.
 
-Resolva o quadrado mágico e abra a escotilha!
+Resolva o quadrado mágico e abra a
+escotilha!
 !******************************!
 Muito bem!
 
@@ -3002,17 +3045,18 @@ Pelo menos uma linha de quatro números
 não está somando ao mesmo total de
 todas as outras.
 !******************************!
-Você tem que fazer cada linha horizontal,
-vertical e diagonal de quatro números
-com o mesmo resultado, então você precisa
-descobrir esse resultado primeiro.
+Você tem que fazer com que a somatória
+de cada linha horizontal, vertical e
+diagonal de quatro números dê o mesmo
+valor, então primeiro você precisa
+descobrir que valor é esse.
 
 O total está lá para você descobrir,
-então examine o quadrado até vê-lo.
+então examine o quadrado até achá-lo.
 !******************************!
 Uma linha em diagonal já parece estar
-em lugar. Os números dela somando
-dão 18.
+no lugar certo. A somatória de seus
+números dá 18.
 !******************************!
 Agora que você sabe que cada linha de
 números precisa dar 18, tudo o que se
@@ -3022,7 +3066,7 @@ que começar a encher os espaços no
 quadrado, você terá cada vez menos
 espaços pra lidar.
 
-Preencha uma linha, tenha certeza que
+Preencha uma linha, certifique-se de que
 totaliza 18 e continue trabalhando com
 o que você conseguiu. Você chegará
 na solução mais cedo ou mais tarde.
@@ -3036,15 +3080,15 @@ uma vez para a vila de St. Mystère com o
 Luke e o Professor.
 
 Este enigma é um presente dos residentes
-de St Mystere. Desembaralhe este enigma
+de St. Mystère. Desembaralhe este enigma
 para revelar um retrato do Professor
 Layton e do Luke na primeira aventura
 deles!
 !******************************!
 Muito bem!
 
-Esperamos que você tenha um tempo
-maravilhoso jogando o resto do 
+Esperamos que você se divirta
+bastante jogando o resto do 
 Professor Layton e a Caixa de Pandora.
 !******************************!
 Que pena!

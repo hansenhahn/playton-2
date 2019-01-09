@@ -77,7 +77,7 @@ Visite o Museu Herzen de Novo!
 Volte para o Hotel!
 !******************************!
 [goal_285.txt]
-Head for the North-east Area!
+Vá à Zona Nordeste da Cidade!
 !******************************!
 [goal_290.txt]
 Visite a Mercearia!
@@ -303,7 +303,7 @@ o pernil para o cachorro no beco.
 !******************************!
 [next_310.txt]
 O professor e Luke decidem iniciar
-a procura pelos pedaços da fotografia
+a busca pelos pedaços da fotografia
 pelo beco.
 !******************************!
 [next_320.txt]
@@ -316,7 +316,7 @@ O professor e Luke decidem continuar
 sua investigação na cidade.
 !******************************!
 [next_340.txt]
-O professor e Luke decidem retornoar
+O professor e Luke decidem retornar
 ao hotel.
 !******************************!
 [next_35.txt]
@@ -353,21 +353,22 @@ O professor e Luke decidem explorar
 o Molentary Express.
 !******************************!
 [next_400.txt]
-The professor and Luke decide to
-examine the interior of their guest
-room.
+O professor e Luke decidem examinar
+o interior de seu quarto de
+hóspedes.
 !******************************!
 [next_410.txt]
-The professor and Luke must find
-an escape route!
+O professor e Luke devem achar
+uma rota de fuga!
 !******************************!
 [next_420.txt]
-The professor and Luke have to
-escape from the castle!
+O professor e Luke têm que
+fugir do castelo!
 !******************************!
 [next_430.txt]
-The professor and Luke decide to
-search the castle before leaving.
+O professor e Luke decidem fazer
+uma busca no castelo antes de
+deixá-lo.
 !******************************!
 [next_45.txt]
 O professor e Luke decidem
@@ -431,36 +432,36 @@ Qualquer progresso não salvo
 será perdido.
 !******************************!
 [tx_1000.txt]
-You can't access this
-feature in this demo.
+Não é possível acessar
+esta função nesta demo.
 !******************************!
 [tx_1001.txt]
 Ainda não há enigmas no
 seu Livro de Enigmas.
 !******************************!
 [tx_1100.txt]
-We see that you managed to solve
-%d puzzles while playing the game.
+Notamos que você conseguiu resolver
+%d enigmas enquanto jogava.
 %s
 !******************************!
 [tx_1101.txt]
 Muito bem!
 !******************************!
 [tx_1102.txt]
-Very impressive solving!
+Resolutividade impressionante!
 !******************************!
 [tx_1103.txt]
 Uma performance quase perfeita!
 !******************************!
 [tx_1200.txt]
-The Sweethearts' House has
-been added to Layton's
-Challenges.
+A Casa dos Apaixonados foi
+adicionada aos Desafios de
+Layton.
 !******************************!
 [tx_1201.txt]
-The Puzzle Doctor's House
-has been added to Layton's
-Challenges.
+A Casa do Doutor foi
+adicionada aos Desafios de
+Layton.
 !******************************!
 [tx_1300.txt]
 No momento, não há enigmas na
@@ -569,13 +570,13 @@ Olhe a tela superior para ver
 quem está viajando com você!
 !******************************!
 [tx_219.txt]
-A opção Velho Diário foi 
+A opção Diário Antigo foi 
 adicionada à mala!
 !******************************!
 [tx_220.txt]
 Você conseguiu uma chave do
 diário! Use-a para abrir um
-novo capítulo do Velho Diário!
+novo capítulo do Diário Antigo!
 !******************************!
 [tx_221.txt]
 

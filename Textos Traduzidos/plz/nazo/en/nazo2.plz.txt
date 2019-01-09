@@ -130,18 +130,20 @@ Em seguida, mova a última bolinha à
 esquerda da última linha para o espaço
 que você acabou de deixar livre, segundo
 a dica anterior. Repita o processo
-descrito nestas duas dicas, só que do outro
-lado do triângulo, e mova as bolinhas pelo
-tabuleiro até que as peças no tabuleiro
-fiquem na forma de um pinheiro.
+descrito nestas duas dicas, só que do
+outro lado do triângulo, e mova as
+bolinhas pelo tabuleiro até que as peças
+no tabuleiro fiquem na forma de um
+pinheiro.
 
 O resto do enigma agora é com você.
 !******************************!
 Ei, a Dica 2 não dizia claramente que
-<''>o resto é agora com você<''>? Bom, saiba
-que não dá pra confiar muito em dicas nos
+<''>o resto é agora com você<''>? Bom, saiba que
+não dá pra confiar muito em dicas nos
 enigmas de <''>Desaparecimento<''> que virão!
-Mesmo assim, vou te dar uma dica dessa vez.
+Mesmo assim, vou te dar uma dica dessa
+vez.
 
 Escolha uma das bolas da parte externa
 do pinheiro e salte para cima. Então,
@@ -197,10 +199,11 @@ brainvita, na Índia?
 Ah, só pra você ficar sabendo, a
 Dica 3 também é só de curiosidades.
 !******************************!
-Existem vários jogos cohecidos como
+Existem vários jogos conhecidos como
 "solitaire", alguns usando tabuleiros
 divididos em espaços e outros usando
 cartas de baralho.
+
 A título de informação, desde os
 primórdios dos video games, foram
 criados inúmeros jogos de computador
@@ -331,12 +334,12 @@ Muito bem!
 Que pena!
 !******************************!
 Existem várias soluções para este enigma,
-então antes de começar a queimar neurônios,
-tente se mover por aí de acordo com seu
-próprio conjunto de regras. É bem capaz
-de conseguir resolver só por ir movendo
-a peça de xadrez aleatoriamente.
-
+então antes de começar a queimar
+neurônios, tente se mover por aí
+de acordo com seu próprio conjunto
+de regras. É bem capaz de conseguir
+resolver só por ir movendo a peça de
+xadrez aleatoriamente.
 !******************************!
 Como um plano geral de ataque, comece
 passeando ao redor do perímetro do
@@ -346,14 +349,13 @@ tabuleiro.
 
 Falando nisso, essa é a última dica
 desde enigma. A Dica 3 contém apenas
-trivialidades do assunto.
+curiosidades do assunto.
 !******************************!
 Este é um exemplo do enigma do problema
 do cavalo. Esses enigmas são clássicos,
 mas a profundeza e elegância de suas
 soluções têm os mantido atuais por
 gerações.
-
 !******************************!
 [n107.dat]
 <0108>O Problema do Cavalo 3
@@ -392,13 +394,14 @@ japoneses.
 Se você estiver realmente preso, dê uma
 pausa definindo um objetivo menor. Você
 pode fazer um teste ficando preso no
-menor número de jogadas possível, ou pode
-mover o cavalo de modo que seu trajeto
-tenha a forma de uma letra. Melhor ainda,
-combine esses dois testes. Por exemplo,
-desenhe duas letras Y horizontalmente,
-e depois tente deixar seu cavalo preso
-no menor número de jogadas possível.
+menor número de jogadas possível, ou
+pode mover o cavalo de modo que seu
+trajeto tenha a forma de uma letra.
+Melhor ainda, combine esses dois testes.
+Por exemplo, desenhe duas letras Y
+horizontalmente, e depois tente deixar
+seu cavalo preso no menor número de
+jogadas possível.
 !******************************!
 [n108.dat]
 <0109>Passeando com o Cachorro
@@ -429,9 +432,9 @@ Visto que a filha tem uma vantagem de 10
 metros no começo e o pai dela vai aos poucos
 se aproximando dela numa taxa de um metro
 por segundo, ele a alcançará em 10 segundos.
-O cachorro esta correndo a uma taxa de
-cinco metros por segundo, então a resposta
-tem de ser 50 metros.
+O cachorro está correndo a uma velocidade
+de cinco metros por segundo, então a
+resposta tem de ser 50 metros.
 !******************************!
 Que pena!
 
@@ -496,9 +499,9 @@ O inspetor afirma que virou em um
 cruzamento com uma cafeteria, mas isso
 não quer dizer que ele virou na direção
 da cafeteria que viu. Ao invés disso, o
-que realmente importa é que ele só poderia
-virar uma vez em um cruzamento com uma
-cafeteria.
+que realmente importa é que ele só
+poderia virar uma vez em um cruzamento
+com uma cafeteria.
 !******************************!
 Comece se dirigindo à direita,
 a partir do ponto inicial.
@@ -550,9 +553,10 @@ investigação, o inspetor não teria motivo
 para duvidar que o tira estivesse dizendo
 a verdade.
 !******************************!
-Com meia-luas proibidas, há ma certa 
-lógica que você deve ser capaz de
-achar no meio de toda esta confusão.
+Já que movimentar-se em meia-lua é
+proibido, há uma certa lógica que
+você deve ser capaz de achar
+no meio de toda esta confusão.
 !******************************!
 Sair da delegacia e virar um número
 ímpar de vezes, independentemente do
@@ -565,16 +569,16 @@ horizontalmente a tela.
 [n111.dat]
 <0112>Ligue a Luz
 <00><28><24><20><11><33><0F><6F><F5><03><04><FF>
-No quadro mostrado na imagem na esquerda
+O quadro mostrado na imagem à esquerda
 está ligado na parte de baixo, de modo que
-que firmar os pontos de contatos A e B
-liga a luz.
+que ao ligar os pontos de contatos A e B,
+a luz é ligada.
 
 Agora olhe para o quadro no centro. Esta
 luz tem três pontos de contato: A, B e C.
 Não importa onde você mantém o contato
 entre A e B, B e C ou A e C, a luz continua
-acesa. Nesse sentido, quantos fios devem
+acesa. Nesse caso, quantos fios devem
 estar ligados na parte de baixo do quadro?
 Desenha a solução que exija o menor número
 de ligações. As linhas pontilhadas vermelhas
@@ -674,20 +678,20 @@ essa possibilidade.
 [n113.dat]
 <0114>Compensação Justa
 <00><28><24><20><11><26><1C><71><F6><03><04><FF>
-Três casas ficam em frente ao mesmo campo.
-Os donos de cada uma das três casas, A, B e
-C, decidem trabalhar juntos para semeá-lo.
-Infelizmente, C se machuca bem antes de
-começar a trabalhar, então A e B tiveram
-que fazer por eles mesmos. Para semear
-tudo, A trabalhou por cinco dias e B, quatro.
-
+Três casas ficam em frente a um mesmo
+campo. Os donos de cada uma das três casas,
+A, B e C, decidem trabalhar juntos para
+semeá-lo. Infelizmente, C se machuca bem
+antes de começar a trabalhar, então A e B
+tiveram que fazer por eles mesmos. Para
+semear tudo, A trabalhou por cinco dias
+e B, quatro.
 Sentindo-se culpado, C decidiu pagar a A e B
 pela parte sua do trabalho feita por eles. 
 Como agradecimento, C pagou um total de
 nove moedas, dividido de acordo com o quanto
-cada um trabalhou. Consegue desvendar o
-quanto de moedas A e B receberam cada um?
+cada um trabalhou. Consegue desvendar
+quantas moedas A e B receberam cada?
 !******************************!
 Esperto!
 
@@ -722,20 +726,19 @@ Simplificando, A e B serão pagos pelo
 trabalho que C deveria ter feito e
 acabaram fazendo.
 
-Ao considerar a sua resposta,
-não leve em conta os dias que
-A e B deveriam trabalhar de
-acordo com o acordo original.
-C não os pagaria do próprio
-bolso pelo trabalho que já
-teriam que fazer no começo.
+Ao considerar a sua resposta, não leve
+em conta os dias que A e B deveriam
+trabalhar de acordo com o acordo
+original. C não os pagaria do próprio
+bolso pelo trabalho que já teriam
+que fazer no começo.
 !******************************!
 As moedas devem ser distribuídas com
 base no número de dias que cada pessoa
 trabalhou para cobrir os três dias que C
 deveria ter trabalhado.
 
-A trabalhou dois dias; B, somente um.
+A trabalhou dois dias. B, somente um.
 !******************************!
 [n114.dat]
 <0115>Dígitos Difíceis
@@ -743,13 +746,13 @@ A trabalhou dois dias; B, somente um.
 Duas cartas estão na mesa. 
 
 Cada uma tem um número de um dígito
-diferente escrito em si. Quando
-colocados lado a lado, eles formam um
-número de dois dígitos. Se, então, trocar
-a ordem, poderá se criar um outro número
-de dois dígitos. Somando o total desses
-dois números de dois dígitos, você
-terá um dos valores mostrados abaixo. 
+diferente escrito em si. Quando colocadas
+lado a lado, elas formam um número de dois
+dígitos. Se, então, trocar a ordem, poderá
+se criar um outro número de dois dígitos.
+Somando o total desses dois números de
+dois dígitos, você terá um dos valores
+mostrados abaixo.
 
 Qual é o correto?
 !******************************!
@@ -864,8 +867,9 @@ vindo a música.
 !******************************!
 Como o doutor deu destaque para o
 fato de conseguir ver o nascer do sol,
-parece correto afirmar que o apartamento
-dele fica nos últimos andares do prédio.
+parece correto afirmar que o
+apartamento dele fica nos últimos
+andares do prédio.
 !******************************!
 O doutor comentou sobre ver uma bandeira
 do lado de fora de seu apartamento
@@ -903,8 +907,8 @@ nova não tem chapéu, então claramente é o
 C. Com essas duas escolhas eliminadas, a
 resposta fica clara.
 
-Ah, e caso estiver se peguntando, a irmã mais
-velha é a E, a mais nova, D, e a do B, F.
+Ah, e caso tenha dúvida, a irmã mais velha é
+a E, a mais nova, D, e a esposa do B, F.
 !******************************!
 Que pena!
 
@@ -929,10 +933,8 @@ este enigma fica fácil de resolver.
 [n118.dat]
 <0118>Tirando o Lixo 2
 <00><50><48><40><11><30><19><76><4D><04><04><FF>
-Use a stylus para mover o lixo para a
+Use a caneta stylus para mover o lixo para a
 lata que está na parte inferior da tela.
-
-
 !******************************!
 Ah, agora sim tá bem arrumado!
 
@@ -960,20 +962,18 @@ forma de L que está na fileira de baixo.
 Certifique-se de encaixar o bloco em
 forma de L nesse lugar.
 !******************************!
-
 Em seguida, pegue o bloco em forma de L
 esquecido nas lacunas superiores da
-Dica 1 e arraste-o de volta à sua
-posição original. Agora pegue os dois
-blocos em forma de L que, no começo do
-enigma, estavam no topo da tela, e
-bote-os nas lacunas situadas no canto
-superior esquerdo e direito. Assim que
-esses dois blocos estiverem fora do
-caminho, finalmente você poderá tirar
-o entulho de lixo do seu lugar no topo.
-Agora é só mover esse entulho pra lata
-de lixo!
+Dica 1 e arraste-o de volta à sua posição
+original. Agora pegue os dois blocos em
+forma de L que, no começo do enigma,
+estavam no topo da tela, e bote-os nas
+lacunas situadas no canto superior
+esquerdo e direito. Assim que esses dois
+blocos estiverem fora do caminho,
+finalmente você poderá tirar o entulho de
+lixo do seu lugar no topo. Agora é só
+mover esse entulho pra lata de lixo!
 !******************************!
 [n119.dat]
 <0119>As Moedas Falsas
@@ -990,7 +990,7 @@ para achar o saco cheia de moedas falsas?
 !******************************!
 Você conseguiu!
 
-Só é preciso usar a balança uma única vez..
+Só é preciso usar a balança uma única vez.
 Em cada saco, remova o número de moedas
 indicado pelo número de cada saco. Então
 basta pesar essas quinze moedas uma vez.
@@ -1041,12 +1041,13 @@ de uma só vez, de certo modo?
 Próximos da estação de trem da cidade
 estão quatro edifícios um ao lado do outro.
 Um desses quatro é supostamente o hotel
-local, embora falta uma placa. Mesmo assim,
-se você estudar a área cautelosamente, deverá
-ser capaz de dizer qual dos edifícios é o hotel.
+local, embora falte uma placa. Mesmo assim,
+se você estudar a área cautelosamente,
+deverá ser capaz de dizer qual dos edifícios
+é o hotel.
 
-Você consegue descobrir qual dos quatro
-edifícios é o hotel?
+Você consegue descobrir qual é o hotel,
+dentre os quatro edifícios?
 !******************************!
 Está certo!
 
@@ -1072,34 +1073,34 @@ escondidas em suas vidraças e portas.
 [n61.dat]
 <0062>Cheire as Rosas Novamente
 <00><28><24><20><12><26><18><3D><FE><03><04><FF>
-Ah, nada cheira tão agradável quanto
-rosas recém-colhidas. Consegue
-perfumar a sala com seu olor?
+Ah, nada cheira tão bem quanto rosas
+recém-cortadas. Consegue perfumar a sala
+com sua fragrância?
 
-Toque um quadrado com a Stylus para
-ocupá-lo de uma rosa. O aroma de
-cada flor estende-se a dois quadrados
-adjacentes, mas não atravessa biombos.
+Toque em um quadrado com a caneta stylus
+para colocar uma rosa. A fragrância de cada
+rosa chega a até dois quadrados em cada
+direção, mas não atravessa paredes.
 Caso a fragrância de duas ou mais rosas
-sobreporem-se, o cheiro decorrente será
-exorbitante, então certifique-se de
-mantê-las bastante espaçadas. Toque uma
-rosa já disposta para recolhê-la.
+sobreporem-se, o cheiro resultante será
+insuportável, então certifique-se de
+mantê-las bastante espaçadas. Toque em
+uma rosa existente para removê-la.
 !******************************!
 Humm!
 
 Com essas rosas no lugar, a sala
-toda possui um odor formidável!
+toda possui uma fragrância formidável!
 !******************************!
 Que pena!
 
 Certificou-se de espaçar as rosas
-o bastante para que seus odores não
-se sobreponham?
+o bastante para que suas fragrâncias
+não se sobreponham?
 !******************************!
-Comece colocando uma rosa na
-quina inferior esquerda da sala
-e prossiga por lá.
+Comece colocando uma rosa na quina
+inferior esquerda da sala e prossiga
+por lá.
 !******************************!
 Sabendo onde vai uma rosa, dispor
 de o resto não se deve revelar muito
@@ -1116,8 +1117,8 @@ para completar o enigma.
 [n62.dat]
 <0063>Cartas Numeradas
 <00><19><16><13><12><28><1A><3E><50><04><04><2E>
-Cartas rotuladas de 1 a 6 estão organizadas
-como demonstradas abaixo. Reorganize-as
+Cartas numeradas de 1 a 6 estão organizadas
+como demonstrado abaixo. Reorganize-as
 para que satisfaça as seguintes condições.
 
 1. A soma dos números da fileira de cima
@@ -1159,16 +1160,17 @@ meio de cartas.
 <00><14><12><10><11><28><16><3F><F6><03><04><FF>
 <''>Este vaso possui 101 pedras, cada uma delas
 idênticas em tamanho e formato. Há 50 pedras
-pretas e 51 pedras brancas. Agora, ponha esta
-venda, alcance com a mão e puxe quantas pedras
-quiser, quando terminar, se você removeu um
-número igual de pedras brancas e pretas,
-receberá um número de moedas de ouro iguais
-ao número de pedras que você puxou.<''>
+pretas e 51 pedras brancas. Agora, ponha
+esta venda, estique a mão e pegue quantas
+pedras você quiser. Quando terminar, se
+você tiver removido um número igual de
+pedras brancas e pretas, receberá uma
+quantidade de moedas de ouro igual ao
+número de pedras que você puxou.<''>
 
 Quantas pedras você deveria remover para
-dar a si mesmo a melhor chance de
-conseguir o máximo de dinheiro possível?
+dar a si mesmo a melhor chance de conseguir
+o máximo de dinheiro possível?
 !******************************!
 Muito bem!
 
@@ -1188,11 +1190,11 @@ Que pena!
 
 Em situações como essa, vale mais a pena
 buscar o bolão, então não se contenha!
-
 !******************************!
-Já que as pedras possuem o mesmo tamanho
-e formato, absolutamente não há um jeito
-de diferenciá-las enquanto remove-as.
+Já que as pedras possuem o mesmo
+tamanho e formato, definitivamente
+não há como diferenciá-las enquanto
+remove-as.
 !******************************!
 As chances de ganhar essas moedas são
 de 50/50.
@@ -1221,7 +1223,8 @@ sua pá e corra para o ponto marcado
 como 1, e lá terá o tesouro que tanto
 procura!<''>
 O número 4 já foi preenchido pra você.
-Circule o ponto onde o tesouro está escondido.
+Circule o ponto onde o tesouro está
+escondido.
 !******************************!
 Você conseguiu!
 
@@ -1238,7 +1241,7 @@ Que pena!
 Tem certeza de que cada linha de números
 dá o mesmo total?
 
-Oh, e sobre a soma de cada linha?
+Ah, e sobre a soma de cada linha?
 É a maior soma possível dadas as
 condições?
 !******************************!
@@ -1252,7 +1255,6 @@ dar o mesmo total. Preste uma atenção
 especial nas duas linhas que usam o
 número 4, elas são cruciais para
 resolver este enigma.
- 
 !******************************!
 Foque sua atenção no ponto da extrema
 direita e como ela forma uma linha com
@@ -1264,7 +1266,8 @@ não poderia ser nada maior que 6.
 Com um total como esse, não haveria
 espaço para você colocar o número 6,
 deixando o enigma irresolvível. Então,
-qual deveria ir no ponto da extrema direita?
+qual deveria ir no ponto da extrema
+direita?
 !******************************!
 Quando arrumados apropriadamente, cada
 linha de números podem somar 9 ou 10.
@@ -1274,106 +1277,106 @@ focar para que cada linha tenha como
 soma o número 10.
 !******************************!
 [n65.dat]
-<0066>The Locked Box
+<0066>A Caixa Trancada
 <00><1E><1B><18><11><45><16><41><F6><03><04><FF>
-The box shown below is fitted with a lock
-consisting of two dials. You can't turn the
-blue dial directly, but when you turn the red
-dial, the blue dial moves an equal amount.
-In order to see the relationship between
-the two dials, you try turning the red one
-from its original position, as shown below.
-In order to open the lock, you must turn
-the blue dial to 3, 6, 4 and 1 in that order.
-Since you can't turn the blue dial directly,
-to which numbers must you turn the red dial
-in order to produce the desired numbers on
-the blue dial?
+A caixa mostrada abaixo está trancada por
+dois cadeados de disco. Você não pode girar
+o cadeado azul diretamente, mas quando você
+gira o vermelho, o azul move-se numa
+quantidade igual. Para ver a relação entre
+os dois cadeados, você tenta girar o
+vermelho de sua posição original, como
+mostrado abaixo. Para abrir a trava, você
+deve girar o disco azul para 3, 6, 4 e 1,
+nessa ordem. Já que você não pode girar o
+azul diretamente, quais números você deve
+girar no vermelho para produzir os números
+desejados no cadeado azul?
 !******************************!
-That was tough!
+Esse foi complicado!
 
-The red dial needs to be turned to 2, 7,
-1 and 4 to produce the numbers you need on
-the blue dial.
+O cadeado vermelho precisa ser girado para
+2, 7, 1 e 4 para produzir os números que
+você precisa no azul.
 
-It turns out these two dials actually rotate
-in opposite directions. One way to solve
-this problem is to create a chart with each
-dial's corresponding numbers, like the one
-shown above.
+Acontece que os dois cadeados na verdade
+rotacionam em direções opostas. Uma forma
+de resolver esse problema é criar uma tabela
+com cada número correspondente dos
+cadeados, igual esse demonstrado abaixo.
 !******************************!
-Too bad!
+Que pena!
 
-If you can just work out how the two dials
-turn in relation to one another, the rest is
-a breeze.
+Se você puder descobrir como um cadeado
+gira em relação ao outro, o resto será
+mamão com açúcar.
 !******************************!
-When the red dial reads 0, the blue dial 
-reads 5. When the red dial reads 3, the
-blue dial reads 2.
+Quando o vermelho está no 0, o azul
+está no 5. Quando o vermelho está no
+3, o azul está no 2.
 
-As stated in the puzzle, the distance
-the blue dial moves is equal to the
-distance the red dial moves. When the
-red dial moves from 0 to 3, the blue dial
-moves from 5 to 2. Read that last
-sentence again and think about what it
-says about the relationship between the
-dials.
+Como dito no enigma, a distância que o
+cadeado azul move é igual à distância
+do vermelho. Quando o cadeado vermelho
+é movido do 0 ao 3, o azul move-se do 5
+ao 2. Leia essa última sentença
+novamente e pense no que diz sobre a
+relação entre os cadeados.
 !******************************!
-Did you catch on to what Hint 1 was
-trying to tell you? The red and blue
-dials turn the exact same amount but,
-as you may have noticed, the numbers on
-the dials move in opposite directions.
+Você entendeu sobre o que a Dica 1
+tentou lhe dizer? Os cadeados azul
+e vermelho giram na mesma quantidade,
+mas como você deve ter percebido, os
+números nos cadeados movem-se em
+direções opostas.
 !******************************!
-When you turn the red dial, the blue
-dial moves the same amount in the
-opposite direction.
+Quando você gira o cadeado vermelho,
+o azul move-se na mesma quantidade,
+mas na direção oposta.
 
-All you need to do is construct a quick
-table to show you how numbers on the
-red dial correspond to other numbers on
-the blue dial. Why not try using the
-Memo Function to write the table?
+Tudo o que você precisa fazer é construir
+uma tabela rápida para mostrar como os
+números do cadeado vermelho
+correspondem aos números do cadeado
+azul. Por que você não usa a Função de
+Notas para escrever essa tabela?
 !******************************!
 [n66.dat]
 <0067>A Semana de Trabalho do Sammy
 <00><28><24><20><51><24><16><42><F6><03><04><FF>
-<''>Então, vamos dizer que hoje é meu dia
-de folga. Se ontem não folguei, então
-amanhã poderei folgar novamente. Se, por
-outro lado, eu estivesse de folga ontem,
-então amanhã terei que trabalhar. Agora,
-vamos dizer que eu trabalhei hoje. Que
-porcaria. Se eu não trabalhasse dois dias
-antes de hoje, eu terei que ir ao trabalho
-amanhã. Mas se eu trabalhasse dois dias
-atrás, eu estaria de folga amanhã. Nossa!<''>
+<''>Digamos que hoje eu não trabalhe. Se ontem
+eu não tirei folga, então amanhã não vou ter
+que trabalhar. Por outro lado, se eu não
+tiver ido ao trabalho ontem, então amanhã
+eu vou ter que trabalhar. Agora digamos que
+eu tenha ido ao trabalho hoje. Que porcaria.
+Se não trabalhei há dois dias, vou ter que ir
+trabalhar amanhã. Mas se eu tiver ido ao
+trabalho dois dias atrás, então amanhã
+eu tiro folga. Oww yeah!<''>
 
-Assumindo um padrão de 365 dias por ano
-e ignorando os dias da semana e feriados,
-use o que o Sammy disse a você para descobrir
-o número de dias que ele trabalha em um ano.
+Suponha que o ano tenha 365 dias e não leve
+em conta feriados nem férias. Quantos dias
+por ano Sammy trabalha?
 !******************************!
 Ponto!
 
 A explicação extensa e confusa do Sammy
 pode ter sido difícil de entender, mas o
-cronograma de trabalho é simples. Ele trabalha
-três dias consecutivos, descansa por dois
-e então repete o padrão. Dizendo diferente,
-o Sammy trabalha de três a cada cinco dias.
-3/5 de um ano de 365 dias lhe dá 219
-dia por ano.
+cronograma de trabalho é simples. Ele
+trabalha três dias consecutivos, descansa
+por dois e então repete o padrão. Em outras
+palavras, o Sammy trabalha de três a cada
+cinco dias. 3/5 de um ano de 365 dias lhe dá
+219 dia por ano.
 
 Esse é um acordo muito bom que ele fez.
 !******************************!
 Que pena!
 
-Veja se você não consegue organizar a
-descrição bagunçada do Sammy em algo um
-pouco mais fácil de entender.
+Veja se você não consegue interpretar a
+descrição bagunçada do Sammy, de modo que
+fique um pouco mais fácil de entender.
 !******************************!
 A rotina de trabalho e folga do Sammy
 repete-se a cada cinco dias.
@@ -1391,15 +1394,16 @@ resposta com um simples cálculo.
 <0068>Etiqueta de Chapéu
 <00><19><16><13><11><2A><22><43><EB><03><04><2A>
 Tendo em vista que o Félix lhe pediu para
-entregar um chapéu, você consegue encontrar
-um outro chapéu perdido no padrão abaixo?
-O chapéu pelo qual está procurando será do
-mesmo formato e tamanho como o de cor preta
-mostrado abaixo, mas pode não estar virado
-para a mesma direção que o chapéu de exemplo.
+entregar um chapéu, você consegue
+encontrar um outro chapéu perdido no
+padrão abaixo? O chapéu pelo qual está
+procurando será do mesmo formato e
+tamanho como o de cor preta mostrado
+abaixo, mas pode não estar virado para
+a mesma direção que o chapéu de exemplo.
 
-Use a stylus para contornar sua resposta
-e toque #rEnviar#x.
+Use a caneta stylus para contornar
+sua resposta e toque #rEnviar#x.
 !******************************!
 Mandou bem!
 
@@ -1415,7 +1419,8 @@ acima do padrão.
 
 Esse padrão de linhas cruzadas é complicado
 e pode ser difícil enxergar o que você está
-procurando, mas pode ter certeza de que está lá.
+procurando, mas pode ter certeza
+de que está lá.
 !******************************!
 O formato é idêntico ao do chapéu de
 exemplo, então mesmo se encontrar alguns
@@ -1437,10 +1442,10 @@ esquerdo da imagem.
 <00><19><16><13><12><2A><16><44><F6><03><04><FF>
 O menu que você vê aqui foi dobrado em três
 partes com impressões nos dois lados,
-significando um total de seis páginas. O
-chefe precisa de muitas cópias, mas,
-infelizmente, sua máquina copia apenas em
-um máximo de duas páginas do menu de uma vez.
+significando um total de seis páginas.
+O chefe precisa de muitas cópias, mas,
+infelizmente, sua máquina copia no máximo
+apenas duas páginas do menu por vez.
 Para poupar tempo, você está tentando
 completar uma cópia do menu com o mínimo
 possível de passadas pela máquina.
@@ -1496,11 +1501,14 @@ Que pena!
 
 Tente esse enigma outra vez.
 !******************************!
-Você terá um dia difícil se você começar
-a somar diferentes grupos de joias.
+Você terá um trabalhão danado se ficar
+somando aleatoriamente diferentes
+grupos de joias.
+
 Há um método melhor que você deveria
-fazer. Por que você não começa a somar
-para descobrir o valor total desse colar?
+seguir. Por que você não começa somando
+as joias para descobrir o valor total
+desse colar?
 !******************************!
 O valor total desse colar é de
 <po>7,800. Você quer dividir o colar
@@ -1521,14 +1529,14 @@ outra pedra.
 [n70.dat]
 <0071>Quantos Anos Ela Tem?
 <00><1E><1B><18><12><39><16><46><F6><03><04><3E>
-Um garoto e uma garota estão conversando em
-uma lanchonete do bairro. À espera da bebida,
-o garoto diz:
+Um garoto e uma garota estão conversando
+em uma lanchonete do bairro. À espera da
+bebida, o garoto diz:
 
-Sabe, eu tenho 20 anos, o que é dobro da
+<''>Sabe, eu tenho 20 anos, o que é dobro da
 idade que você tinha quando eu tinha a
 idade que você tem agora... Não é
-interessante?
+interessante?<''>
 
 Como pode ver, este garoto não sabe muito
 ser sucinto, mas, usando o que ele falou,
@@ -1555,17 +1563,14 @@ Comece descobrindo a idade que a garota
 tinha quando o garoto tinha a idade atual
 dela. 
 
-Que relação tem a idade da garota na época
-e a idade atual do garoto?
-
-
+Que relação tem a idade da garota
+na época e a idade atual do garoto?
 !******************************!
 Talvez você já tenha visualizado, mas se
 multiplicar por dois a idade da garota
 quando o garoto tinha a idade atual dela,
 você descobrirá que a idade atual do
 garoto é 20.
-
 !******************************!
 Usando os fatos da Dica 2, você pode se
 assegurar de que a garota tinha 10 anos
@@ -1600,14 +1605,13 @@ A ordem correta é CDBA.
 
 Em C, a iluminação pública ainda estavam
 para ser consolidada, mas em D ela já foi
-finalizada. Em B há um novo edifício na
-parte de trás da imagem e a janela do
-restaurante está quebrada. Finalmente,
-em A, a janela quebrada vista em B foi
-consertada e algumas luzes do letreiro
-do restaurante queimaram. Além disso,
-a porta do estúdio fotográfico foi
-pintada de uma cor diferente.
+finalizada. Em B há um novo edifício na parte
+de trás da imagem e a janela do restaurante
+está quebrada. Finalmente, em A, a janela
+quebrada vista em B foi consertada e algumas
+luzes do letreiro do restaurante queimaram.
+Além disso, a porta do estúdio fotográfico
+foi pintada de uma cor diferente.
 !******************************!
 Que pena!
 
@@ -1642,7 +1646,7 @@ de B.
 [n72.dat]
 <0073>O Mistério das Latas
 <00><1E><1B><18><11><29><02><48><E8><03><04><FF>
-Um número de latas idênticas estão penduradas
+Várias latas idênticas estão penduradas
 em uma árvore. Por mais que todas as latas
 aqui possam parecer vazias, uma está cheia
 de água. Tente descobrir.
@@ -1652,52 +1656,56 @@ de cada graveto e fio.
 !******************************!
 Muito bem feito!
 
-A resposta é A. O maior graveto conecta-se no
-galho no canto da esquerda da parte central
-do graveto. Quatro latas estão penduradas
-em cada canto desse grande graveto, mas por
-causa do fio segurando a árvore está na
-esquerda central, o conjunto de quatro latas
-da esquerda deve ser mais pesada que da direita.
+A resposta é A. O maior graveto conecta-se
+no galho no canto da esquerda da parte
+central do graveto. Quatro latas estão
+penduradas em cada canto desse grande
+graveto, mas devido ao fio segurando a
+árvore estar na esquerda central, o
+conjunto de quatro latas da esquerda
+deve ser mais pesada que o da direita.
 A, B, C e D estão todas suspensas no lado
-esquerdo do graveto. Entretanto, julgando pelo
-número de latas e as posições dos fios, é
-fácil saber que a lata A é a mais pesada.
+esquerdo do graveto. Entretanto, julgando
+pelo número de latas e as posições dos fios,
+é fácil saber que a lata A é a mais pesada.
 !******************************!
 Que pena!
 
-Pense mais sobre esse enigma e tente novamente.
+Pense mais sobre esse enigma
+e tente novamente.
 !******************************!
 Estude cada lata por vez e observe como
 elas estão suspensas, em relação de uma
 a outra.
 !******************************!
-Perceba como o maior graveto está equilibrado
-mesmo que ele esteja conectado na árvore
-pelo ponto esquerdo do centro do graveto.
+Perceba como o maior graveto está
+equilibrado mesmo que ele esteja
+conectado na árvore pelo ponto
+esquerdo do centro do graveto.
 
 Isso mostra que a água deve estar em uma
 das quatro latas suspensas do lado
 esquerdo do grande graveto.
 !******************************!
 Já sabemos que a água está em uma das
-quatro latas da esquerda, então encontrar
-a lata deve ser mamão com açúcar.
+quatro latas da esquerda, então
+encontrar a lata deve ser mamão com
+açúcar.
 
-Apenas veja a posição das quatro latas
-da esquerda e a relação do fio anexando
-as quatro latas com o grande graveto
-acima. Qual lata se parece mais pesada
-que as outras?
+Atente-se apenas à posição das quatro
+latas da esquerda e a relação do fio
+anexando as quatro latas com o graveto
+grande acima. Qual lata se parece mais
+pesada que as outras?
 !******************************!
 [n73.dat]
 <0074>Bloqueando o Cheiro
 <00><1E><1B><18><12><3A><03><49><E9><03><04><18>
 O alho é um ingrediente maravilhoso quando
 usado com moderação, mas o cheiro pode ser
-bem poderoso. Alguém pôs uns dentes de alho
-nesse contêiner e eles realmente estão
-fedendo a sala. Use as duas rolhas abaixo
+bastante forte. Alguém pôs uns dentes de
+alho nesse contêiner e eles realmente estão
+fedendo na sala. Use as duas rolhas abaixo
 para ajudar o nosso amigo a lidar com
 o odor.
 
@@ -1708,22 +1716,23 @@ nada mais que duas rolhas.
 Ah, que alívio!
 
 Cada um dos três buracos no contêiner está
-conectado com os alhos, então não há nenhuma
-maneira de bloqueá-los usando apenas duas
-rolhas. Já que não há forma alguma de conter
-o odor, nosso amigo não teve escolha senão
-entupir suas narinas.
+conectado com os alhos, então não há
+nenhuma maneira de bloqueá-los usando
+apenas duas rolhas. Já que não há forma
+alguma de conter o odor, nosso amigo não
+teve escolha senão entupir suas narinas.
 
 Ainda bem que ele teve bom senso em ficar
-dentro de onde ninguém conseguiria vê-lo assim!
+dentro de onde ninguém conseguiria vê-lo
+assim!
 !******************************!
 Que pena!
 
-Essas rolhas não estão fazendo o truque
-nesses locais escolhidos.
+Essas rolhas não estão fazendo efeito
+nos locais escolhidos.
 !******************************!
 A coisa mais lógica a se fazer primeiro é
-usar a Função Memo para traçar quais
+usar a Função de Notas para traçar quais
 aberturas no contêiner levam para os
 dentes de alho.
 !******************************!
@@ -1747,9 +1756,9 @@ usando apenas duas rolhas.
 <0075>Doces para Cinco
 <00><19><16><13><12><38><09><4A><EF><03><04><28>
 Você tem uma caixa com quatro diferentes
-tipos de doces dispostos em nenhum ordem
+tipos de doces dispostos em nenhuma ordem
 em particular. Seu trabalho é dividir essas
-gostosuras em cinco porções iguais. Para
+guloseimas em cinco porções iguais. Para
 tanto, é preciso se certificar de que cada
 porção contenha exatamente o mesmo número
 e variedade de doces.
@@ -1768,10 +1777,11 @@ Que pena!
 Tente resolver o enigma novamente.
 !******************************!
 Primeiro, conte quantos doces você tem.
-Há quatro tipos de doce. Você só tem cinco
-dos três primeiros tipos, mas 10 do quarto
-tipo. Portanto, é preciso colocar dois do
-quarto tipo em cada uma das cinco porções.
+Há quatro tipos de doce. Você só tem
+cinco dos três primeiros tipos, mas 10 do
+quarto tipo. Portanto, é preciso colocar
+dois do quarto tipo em cada uma das cinco
+porções.
 !******************************!
 Veja os doces que são de um por porção,
 ou seja, doces cujo total seja cinco.
@@ -1785,9 +1795,9 @@ Comece desenhando essas linhas.
 Viu três do mesmo tipo de doces na
 terceira fileira? Os dois doces mais a
 esquerda são parte de uma única porção.
-O terceiro doce dos três e o doce idêntico
-diretamente abaixo dele são parte de uma
-porção diferente.
+O terceiro doce dos três e o doce
+idêntico diretamente abaixo dele são
+parte de uma porção diferente.
 
 Agora que você sabe tudo isso, não deve
 ser mais complicado terminar o enigma.
@@ -1796,12 +1806,12 @@ ser mais complicado terminar o enigma.
 <0076>Topo da Torre
 <00><14><12><10><12><3C><05><4B><EB><03><04><FF>
 Em uma cidade pacata, há uma torre que
-dá pra ver toda a sua extensão.
+dá pra ver toda a extensão do local.
 
-Já que você enxergar todos os edifícios da
+Já que você enxerga todos os edifícios da
 cidade a partir da torre, seria lógico
 pensar que o contrário também se aplica:
-você também pode enxergar a torre, a partir
+você também pode enxergar a torre a partir
 de qualquer um dos edifícios da cidade.
 Porém, segundo o mapa abaixo, há um edifício
 na cidade do qual é claramente impossível
@@ -1891,6 +1901,7 @@ Olhe para as cordas das pontas esquerda
 e direita. Embora ambas possuam enfeites
 de sol e lua, apenas o da ponta direita
 tem uma estrela.
+
 Ao comparar os enfeites nessas duas
 cordas, você provavelmente descobrirá
 quantos sóis e luas são necessárias
@@ -1907,7 +1918,8 @@ as duas cordas próximas à do meio.
 <0078>Um Labirinto de Portas
 <00><19><14><0F><12><47><05><4D><EB><03><04><45>
 Todas as portas no labirinto abrem apenas
-quando empurradas de uma direção, como mostrado.
+quando empurradas de uma direção, como
+mostrado.
 
 No entanto, é impossível passar por cada
 sala enquanto anda pelo labirinto pela
@@ -1918,16 +1930,16 @@ consegue descobrir e circular essa porta?
 !******************************!
 Você conseguiu!
 
-Você tem que passar por cada sala no caminho
-até a saída para resolver o enigma, mas
-ninguém disse que você não poderia passar
-pela mesma sala duas vezes.
+Você tem que passar por cada sala no
+caminho até a saída para resolver o enigma,
+mas ninguém disse que você não poderia
+passar pela mesma sala duas vezes.
 !******************************!
 Que pena!
 
-Use a Função Memo para desenhar sua rota
-proposta enquanto você pensa mais sobre
-o problema.
+Use a Função de Notas para desenhar sua
+rota proposta enquanto você pensa mais
+sobre o problema.
 !******************************!
 Vamos revisar as condições desse enigma.
 Você precisa fazer uma porta abrir na
@@ -1937,7 +1949,6 @@ saída.
 
 Mas ninguém disse que você só poderia
 passar por cada sala uma única vez.
-
 !******************************!
 Começando pela entrada, você logo irá
 se esbarrar na porta que se deve abrir
@@ -1978,8 +1989,8 @@ alavanca ao fundo acertar o botão verde.
 Já que só há duas respostas possíveis para
 este enigma, você talvez tenha simplesmente
 acertado na base da adivinhação, mas
-se pensar bem, com certeza você encontraria
-a solução sozinho!
+se pensar bem, com certeza você
+encontraria a solução sozinho!
 !******************************!
 Que pena!
 
@@ -2038,27 +2049,27 @@ Que pena!
 Há várias formas de resolver esse enigma.
 Uma técnica muito boa é lidar com esses
 blocos com formato de L. Você pode liberar
-um espaço extra movendo esses blocos para
-que eles se encaixem bem com os blocos
-vizinhos.
-
+um espaço extra movendo esses blocos
+para que eles se encaixem bem com os
+blocos vizinhos.
 !******************************!
 Para fazer as duas bolas trocarem de
 lugares, você precisa primeiro mover
-uma bola para fora de seu buraco e deixá-la
-em algum lugar enquanto você move a outra.
-Para fazer isso, libere mais espaço
-levando todos os blocos em formato de L
-para o lado esquerdo ou direito da caixa.
+uma bola para fora de seu buraco e
+deixá-la em algum lugar enquanto você
+move a outra. Para fazer isso, libere mais
+espaço levando todos os blocos em
+formato de L para o lado esquerdo ou
+direito da caixa.
 !******************************!
-Se o método da Dica 2 não está funcionando
-pra você, aqui está outra técnica que
-você pode tentar. Crie um espaço unindo
-os blocos com formato de L juntos, criando
-retângulos. Para fazer isso o seu objetivo
-deve ser mover os blocos com formato de
-L para os cantos opostos da caixa antes
-de combiná-los.
+Se o método da Dica 2 não está
+funcionando pra você, aqui está outra
+técnica que você pode tentar. Crie um
+espaço unindo os blocos com formato de
+L juntos, criando retângulos. Para fazer
+isso o seu objetivo deve ser mover os
+blocos com formato de L para os cantos
+opostos da caixa antes de combiná-los.
 !******************************!
 [n80.dat]
 <0081>O Cofre Antigo
@@ -2070,12 +2081,12 @@ usado uma vez. As luzinhas próximas de cada
 fileira são a chave para descobrir o código,
 dizendo o quanto em comum aquela fileira tem
 com o código. Uma luz branca indica que o
-dígito está no código, mas em um lugar diferente
-na sequência. Uma luz laranja indica um
-dígito que está no código e está na posição
-correta. Toque nos dígitos na tela de baixo
-para mudá-los e então toque em #rEnviar#x
-quando decidir a sua resposta.
+dígito está no código, mas em um lugar
+diferente na sequência. Uma luz laranja
+indica um dígito que está no código e está na
+posição correta. Toque nos dígitos na tela
+de baixo para mudá-los e então toque em
+#rEnviar#x quando decidir a sua resposta.
 !******************************!
 Está certo!
 
@@ -2089,7 +2100,8 @@ Que pena!
 Tente esse enigma outra vez.
 !******************************!
 Comece a descobrir quais números
-pertencem ao código, independente da ordem.
+pertencem ao código, independente
+da ordem.
 !******************************!
 Você já deve ter percebido, mas cada
 dígito no código está na primeira fileira
@@ -2182,33 +2194,33 @@ apenas 15 jogadas!
 !******************************!
 Que pena!
 !******************************!
-Embora você talvez tenha conseguido resolver
-o primeiro enigma de <''>Pilhas de Panquecas<''>
-só movendo as panquecas aleatoriamente pelos
-pratos, vai ter que pensar um pouco mais se
-quiser achar uma solução dessa vez.
+Embora você talvez tenha conseguido
+resolver o primeiro enigma de <''>Pilhas de
+Panquecas<''> só movendo as panquecas
+aleatoriamente pelos pratos, vai ter que
+pensar um pouco mais se quiser achar uma
+solução dessa vez.
 
-Veja se você consegue bolar uma regra que
-lhe permita mover as panquecas de forma mais
-eficiente. 
- 
+Veja se você consegue bolar uma regra
+que lhe permita mover as panquecas de
+forma mais eficiente.
 !******************************!
 Bolar um jeito eficaz de mover a panqueca
-menor é a chave para resolver este enigma,
-porque você não pode colocar nada em cima
-dela. Pense na sequência de jogadas que
-você deve repetir para manter essa
-panquequinha separada por enquanto.
+menor é a chave para resolver este
+enigma, porque você não pode colocar
+nada em cima dela. Pense na sequência
+de jogadas que você deve repetir para
+manter essa panquequinha separada
+por enquanto.
 !******************************!
 Mova a panqueca menor para o prato do
 meio e coloque a segunda panqueca menor
 no prato vermelho.
-Em seguida, mova a panqueca menor para
-cima da panqueca da direita, e traga uma
-nova panqueca pra cá, para ocupar o prato
-do meio. Depois disso, pegue a panqueca
-menor e mova-a para o prato da esquerda.
-
+Depois, mova a panqueca menor para cima
+da panqueca da direita, e traga uma nova
+panqueca pra cá, para ocupar o prato do
+meio. Depois disso, pegue a panqueca menor
+e mova-a para o prato da esquerda.
 Repita este padrão, e enquanto move as
 outras panquecas pelos pratos, você
 conseguirá resolver o enigma sem mais
@@ -2239,12 +2251,13 @@ em cima das panquecas!
 !******************************!
 Que pena!
 !******************************!
-Ainda não consegue resolver? Tente seguir
-as dicas dadas em <''>Pilhas de Panquecas 2<''>.
-Esta é a última dica que você vai ter para
-resolver este enigma, então você estaria
-jogando moeda fora se gastasse uma moeda de dicas
-aqui. Tudo que vai receber são trivialidades,
+Ainda não consegue resolver? Tente
+seguir as dicas dadas em <''>Pilhas de
+Panquecas 2<''>. Esta é a última dica que
+você vai ter para resolver este enigma,
+então você estaria jogando moeda fora
+se gastasse uma moeda de dicas aqui.
+Tudo que vai receber são curiosidades,
 então considere-se avisado!
 !******************************!
 Parece que você decidiu gastar uma moeda
@@ -2254,35 +2267,35 @@ OK então, toma aí pra ti um fato curioso:
 
 Esses enigmas de panquecas são baseados
 num enigma chamado de Torre de Hanói, que
-pode ser resolvido usando um conceito básico
+pode ser resolvido usando um conceito
 em ciências da computação chamado de
 recursividade. Isso pode não ser de muita
 ajuda para você agora, mas ainda sim é
 interessante, não acha?
 !******************************!
-Beleza então, ô <''>rycasso<''>.
-Toma aí pra ti mais fatos curiosos:
+Beleza então, ô <''>ricasso<''>. Agora toma:
 
-Édouard Lucas, um matemático francês tido
-como a mente por trás do problema da Torre
-de Hanói, introduziu este enigma dizendo
-que foi baseado em uma lenda da cultura
-indiana, onde diz-se que o mundo seria
-destruído se alguém resolvesse uma versão
-especial gigantesca desse enigma, de 64
-discos de ouro. Apesar desse mito ser
-super fascinante, muitos acham que foi o
+Édouard Lucas, o matemático francês tido
+como a mente por trás do problema da
+Torre de Hanói, introduziu este enigma
+dizendo que foi baseado em uma lenda da
+cultura indiana, onde diz-se que o mundo
+seria destruído se alguém resolvesse uma
+versão especial gigantesca desse enigma,
+de 64 discos de ouro. Apesar desse mito
+ser fascinante, muitos acham que foi o
 próprio Lucas quem inventou esta lenda.
 !******************************!
 [n84.dat]
 <0085>A Forma que Falta
 <00><1E><14><0A><11><38><02><54><E8><03><04><FF>
-Cinco formas são mostradas em sequência, mas
-a quarta forma está faltando.
+Cinco formas são mostradas em sequência,
+mas a quarta forma está faltando.
 
-Use as quatro formas visíveis para determinar
-qual delas, dentre A, B e C, deve ser inserida
-como a quarta forma da sequência.
+Use as quatro formas visíveis para
+determinar qual delas, dentre A, B e C,
+deve ser inserida como a quarta forma
+da sequência.
 !******************************!
 Acertou!
 
@@ -2320,17 +2333,15 @@ você pode ver, a imagem que deveria estar
 no espaço 1 sumiu. Você consegue desenhar
 a imagem que pertence a esse lugar?
 
-Passe a stylus nos traços-guia para
+Passe a caneta stylus nos traços-guia para
 desenhar a imagem.
-
-
 !******************************!
 Bom trabalho!
 
 A sequência peculiar de imagens é na verdade
-as seis primeiras letras do alfabeto mostradas
-numa fonte de relógio digital e espelhadas
-como mostrado acima.
+as seis primeiras letras do alfabeto
+mostradas numa fonte de relógio digital
+e espelhadas como mostrado acima.
 
 Já que você tinha as letras de B a F, a lógica
 pede que a imagem desaparecida deveria ser
@@ -2377,12 +2388,12 @@ Que pena!
 Confira sua resposta para se certificar
 de que não cometeu nenhum erro.
 !******************************!
-Há uma carta em cima da mesa que pertence
-à fileira na que a de copas está, à
-coluna em que a de paus está, e na
-linha diagonal em que a de ouros está.
+Há uma carta em cima da mesa que
+pertence à fileira na que a de copas
+está, à coluna em que a de paus está, e
+na linha diagonal em que a de ouros está.
 Portanto, você pode concluir seguramente
-que essa carta tem de ser de espadas.
+que essa carta tem que ser de espadas.
 Essa é a logica a qual se precisa seguir
 para resolver o enigma.
 !******************************!
@@ -2390,16 +2401,17 @@ Qual carta você acha que deve ficar no
 canto inferior esquerdo? Essa coluna já
 tem uma de ouros e outra de copas nela e
 há uma de espadas imediatamente à direita
-do espaço, então a carta em questão tem de
-ser uma de paus.
+do espaço, então a carta em questão tem
+que ser uma de paus.
 
-Sabendo disso, você também pode preencher
-o último espaço na coluna mais da esquerda,
-que tem de ser uma de espadas.
+Sabendo disso, você também pode
+preencher o último espaço na coluna mais
+da esquerda, que tem de ser uma de
+espadas.
 !******************************!
 A carta no canto superior direita é uma
-de espadas e a na base dessa mesma coluna
-é uma de copas.
+de espadas e a na base dessa mesma
+coluna é uma de copas.
 
 O resto da resposta depende de você,
 mas não deve ser mais difícil descobrir
@@ -2418,10 +2430,10 @@ O sapo não pode mudar a direção em pleno ar,
 mas ele pode retroceder no caminho entre
 os saltos.
 
-O objetivo desse sapo é aterrissar exatamente
-no espaço verde. Qual é o menor número de
-saltos que ele precisa fazer pra completar
-essa tarefa?
+O objetivo desse sapo é aterrissar
+exatamente no espaço verde. Qual é o menor
+número de saltos que ele precisa fazer pra
+completar essa tarefa?
 !******************************!
 É assim que se faz!
 
@@ -2443,7 +2455,6 @@ frente, dois passos pra trás<''>?
 
 Essa frase é bem útil de se lembrar, mas
 não siga esse conselho tão literalmente.
-
 !******************************!
 O sapo terá que retroceder duas vezes.
 !******************************!
@@ -2455,7 +2466,8 @@ flores de formato circular, cada um com um
 raio de 10 metros. Quando dispostos tal como
 exibido abaixo, é formado um espaço entre
 os canteiros. Você consegue calcular a área,
-em metros quadrados, do espaço de cor vermelha?
+em metros quadrados, do espaço de cor
+vermelha?
 
 Ignore a borda dos canteiros ao calcular
 sua resposta.
@@ -2470,8 +2482,9 @@ como na figura à direita, poderá transformar
 o círculo em um quadrado. Assim, os lados do
 quadrado terão o mesmo comprimento que o
 diâmetro de um canteiro de flores: 20 metros.
-Se você elevar essa medida ao quadrado, obterá
-a área da forma, e consequentemente a resposta.
+Se você elevar essa medida ao quadrado,
+obterá a área da forma, e consequentemente
+a resposta.
 !******************************!
 Que pena!
 
@@ -2518,23 +2531,27 @@ Ache e circule esse esguicho.
 Bom faro!
 
 O esguicho J é basicamente inútil.
-A a I representam uma unidade de um ano cada,
-mostrando números de 1 a 9, e o esguicho do
-meio representa uma unidade de 10 anos.
-Assim, o esguicho J nunca será usado. 
+A a I representam uma unidade de um ano
+cada, mostrando números de 1 a 9, e o
+esguicho do meio representa uma unidade
+de 10 anos. Assim, o esguicho J nunca será
+usado. 
 !******************************!
 Que pena!
 
 Pense melhor sobre o método
 da fonte de dizer a idade.
 !******************************!
-O enigma está pedindo para você encontrar
-um esguicho que é deveras inútil, o que
-significa que ele nunca é usado. Qual seria?
+O enigma está pedindo para você
+encontrar um esguicho que é deveras
+inútil, o que significa que ele nunca
+é usado. Qual seria?
 !******************************!
 Leia atentamente as condições que 
 fazem com que cada esguicho solte 
-água e, então, tente aplicar o que aprendeu. 
+água e, então, tente aplicar o que
+aprendeu.
+
 Por exemplo, pense direito sobre como
 a fonte diria as idades de 10 a 20.
 !******************************!
@@ -2552,7 +2569,8 @@ então...
 <00><1E><1B><18><11><24><09><5A><EF><03><04><FF>
 Um rico barão faleceu, deixando suas terras
 para serem repartidas por seus filhos. Uma
-parte de seu testamento está mostrada abaixo:
+parte de seu testamento está mostrada
+abaixo:
 
 <''>Quero que meus quatro garotos recebam
 cada um uma parte de meu terreno contendo
@@ -2560,8 +2578,8 @@ uma orquídea, uma casa, uma lagoa e um campo
 aberto. Todos devem receber um pedaço de
 terra de mesmo tamanho.<''>
 
-Desenhe linhas usando a stylus para dividir
-o quinhão de cada filho.
+Desenhe linhas usando a caneta stylus para
+dividir o quinhão de cada filho.
 !******************************!
 Bom trabalho!
 
@@ -2572,16 +2590,17 @@ Que pena!
 
 Tente mais uma vez o enigma.
 !******************************!
-Há 16 quadrados a serem divididos por quatro
-pessoas, então cada pessoa deve receber um
-pedaço de terra consistente em quatro quadrados.
+Há 16 quadrados a serem divididos por
+quatro pessoas, então cada pessoa deve
+receber um pedaço de terra consistente
+em quatro quadrados.
 !******************************!
 Desenhe uma linha no meio do mapa
 do topo até embaixo.
 !******************************!
 Em seguida, coloque alguns limites para
-que duas casas não fiquem no mesmo pedaço
-de terra.
+que duas casas não fiquem no mesmo
+pedaço de terra.
 !******************************!
 [n91.dat]
 <0092>Metais Preciosos
@@ -2637,7 +2656,6 @@ deve achar um único mapa de terra
 que valha 10. Ache este mapa e terá
 encontrado a resposta.
 !******************************!
-
 [n92.dat]
 <0093>Quantos Anos Eu Tenho?
 <00><1E><1B><18><11><27><16><5C><F6><03><04><FF>
@@ -2659,16 +2677,17 @@ como ela disse.
 
 Quanto à sua irmã mais velha, ela tem 10 anos.
 É o dobro da idade da garota, e um terço da
-idade de sua mãe. Daqui a cinco anos, a garota
-terá 10 anos, o que é a idade de sua irmã agora.
+idade de sua mãe. Daqui a cinco anos, a
+garota terá 10 anos, o que é a idade de sua
+irmã agora.
 
-As crianças de hoje em dia crescem muito rápido!
+As crianças de hoje em dia crescem rápido!
 !******************************!
 Neca!
 
 Alguém crescidinho que nem você
-já devia conseguir desenrolar esse
-enigma!
+já devia conseguir resolver esse
+enigma sozinho!
 !******************************!
 Quando você tem um enigma como este,
 o que você deve fazer é analisar todas
@@ -2748,12 +2767,12 @@ As letras são A, D e E.
 [n94.dat]
 <0095>Caixa de Livros
 <00><1E><1B><18><11><37><16><5E><F6><03><04><FF>
-A caixa mostrada abaixo tem 30 cm de largura,
-altura e profundidade. Você quer colocar a
-maior quantidade possível de livros dentro
-da caixa. Cada livro tem 20 cm de largura,
-20 cm de comprimento e 10 cm de espessura.
-Quantos livros cabem na caixa?
+A caixa mostrada abaixo tem 30 cm de
+largura, altura e profundidade. Você quer
+colocar a maior quantidade possível de livros
+dentro da caixa. Cada livro tem 20 cm de
+largura, 20 cm de comprimento e 10 cm de
+espessura. Quantos livros cabem na caixa?
 
 Você só pode colocar livros fechados na
 caixa, mas pode posicioná-los como quiser
@@ -2770,10 +2789,11 @@ Que pena!
 Pense em três dimensões para achar a
 solução. 
 !******************************!
-Se tudo o que você tivesse que fazer para
-encontrar a solução fosse contar quantos
-livros consegue empilhar na caixa até
-enchê-la, isso não seria muito divertido.
+Se tudo o que você tivesse que fazer
+para encontrar a solução fosse contar
+quantos livros consegue empilhar na caixa
+até enchê-la, isso não seria muito
+divertido.
 
 Use sua imaginação e pense em três
 dimensões para resolver o enigma.
@@ -2804,9 +2824,9 @@ Que susto! Tem um fantasma na floresta!
 perceber que o espectro flutuando em sua
 frente era apenas uma figura de madeira
 pendurada numa árvore. Quando você olha em
-volta, percebe que há quatro tábuas de madeira
-jogadas na grama. De qual destas tábuas saiu
-o fantasma?
+volta, percebe que há quatro tábuas de
+madeira jogadas na grama. De qual destas
+tábuas saiu o fantasma?
 
 Você tem quatro escolhas: A, B, C ou D.
 A tábua correta pode ter virado quando
@@ -2828,12 +2848,12 @@ começar a ver as diferenças.
 Não esqueça de levar em conta que a tábua
 correta pode ter sido virada.
 !******************************!
-Acha que encontrou a resposta? Tem certeza?
-Bom, só por desencargo de consciência,
-compare seu contorno com o fantasma mais
-uma vez. Não esqueça de dar atenção para
-pequenos detalhes, como o formato de suas
-mãos.
+Acha que encontrou a resposta?
+Tem certeza? Bom, só por desencargo de
+consciência, compare seu contorno com o
+fantasma mais uma vez. Não esqueça de
+dar atenção para pequenos detalhes,
+como o formato de suas mãos.
 !******************************!
 Você deve prestar bastante atenção
 ao tamanho da cauda do fantasma.
@@ -2848,11 +2868,11 @@ bater com o contorno do fantasma.
 [n96.dat]
 <0097>Um Céu Estrelado
 <00><28><24><20><11><4C><1A><60><00><04><04><FF>
-Dizem que as constelações foram descobertas
-pelas civilizações antigas, que observavam
-atentamente o céu estrelado. E para comemorar
-seus feitos, segue abaixo um enigma cheio de
-estrelas.
+Dizem que as constelações foram
+descobertas pelas civilizações antigas, que
+observavam atentamente o céu estrelado.
+E para comemorar seus feitos, segue abaixo
+um enigma cheio de estrelas.
 
 Temos abaixo uma grade de 6 x 6 quadrados
 de céu e estrelas, dividida em 9 blocos
@@ -2873,9 +2893,9 @@ solução que não precisa ter três estrelas.
 !******************************!
 Você tem que encontrar um ponto de apoio
 para começar, e as estrelas que estão
-bloqueadas em seus blocos sem borda devem
-servir. Lembre-se que se uma linha já
-tiver duas estrelas, você só poderá
+bloqueadas em seus blocos sem borda
+devem servir. Lembre-se que se uma linha
+já tiver duas estrelas, você só poderá
 colocar mais uma.
 !******************************!
 A linha superior tem dois blocos sem borda
@@ -2912,7 +2932,7 @@ mover dois objetos ao mesmo tempo.
 
 Para mover os objetos, toque no ícone
 vermelho entre eles e arraste o par de
-itens selecionado com a stylus.
+itens selecionado com a caneta stylus.
 !******************************!
 Muito bem!
 
@@ -2962,12 +2982,13 @@ mover dois objetos ao mesmo tempo.
 
 Para mover os objetos, toque no ícone
 vermelho entre eles e arraste o par de
-itens selecionado com a stylus.
+itens selecionado com a caneta stylus.
 !******************************!
 Muito bem!
 
 Este enigma é baseado em um quebra-cabeça
-muito conhecido no Japão desde o período Edo.
+muito conhecido no Japão desde o
+período Edo.
 !******************************!
 Que pena!
 !******************************!
@@ -2983,19 +3004,21 @@ latas, não deve ser necessário fazer
 mais jogadas do que no enigma anterior.
 !******************************!
 No Japão, o tipo de enigma que está
-jogando é conhecido como o quebra-cabeça
-dos patos-mandarins. Casais de patos-
-mandarins professam muito amor entre si.
-Diz-se que este quebra-cabeça tem este
-nome devido à forma como os casais de
-patos andam sempre juntos.
+jogando é conhecido como o
+quebra-cabeça dos patos-mandarins.
+
+Casais de patos-mandarins professam
+muito amor entre si. Diz-se que este
+quebra-cabeça tem este nome devido
+à forma como os casais de patos andam
+sempre juntos.
 !******************************!
 Aqui mais uma curiosidade divertida
 pra você. Como citado na Dica 2, esses
-enigmas são chamados de "quebra-cabeça
-dos patos-mandarins" por causa do grande
-amor professado entre si, mas parece
-que essas aves trocam de casal
+enigmas são chamados de <''>quebra-cabeça
+dos patos-mandarins<''> por causa do
+grande amor professado entre si, mas
+parece que essas aves trocam de casal
 todo ano!
 
 Isso pode não ajudar com o enigma,
@@ -3004,19 +3027,19 @@ mas não é interessante?
 [n99.dat]
 <0100>A Ponte Frágil
 <00><1E><1B><18><11><4F><21><63><E9><03><04><FF>
-O Luke e o Professor Layton estão parados na
-frente de uma ponte velha e frágil. Com medo
-de cair no abismo abaixo, as pernas do Luke
-ficaram rígidas de medo e ele só pode caminhar
-através da ponte com incrementos de uma ou
-três tábuas por vez. A estreiteza da ponte
-previne o Luke de voltar o caminho que ele
-veio ou mudar o pé que usou antes do último
-passo. Use sua stylus para criar um caminho
-que guie o Luke com segurança através da ponte,
-enquanto evita qualquer buraco nas tábuas. O
-Luke estará seguro quando ele pisar na pegada
-vermelha.
+O Luke e o Professor Layton estão parados
+na frente de uma ponte velha e frágil. Com
+medo de cair no abismo abaixo, as pernas do
+Luke ficaram rígidas de medo e ele só pode
+caminhar através da ponte com incrementos
+de uma ou três tábuas por vez. A estreiteza
+da ponte previne o Luke de voltar o caminho
+que ele veio ou mudar o pé que usou antes do
+último passo. Use sua caneta stylus para
+criar um caminho que guie o Luke com
+segurança através da ponte, enquanto evita
+qualquer buraco nas tábuas. O Luke estará
+seguro quando ele pisar na pegada vermelha.
 !******************************!
 Essa foi uma caminhada bem chique!
 
