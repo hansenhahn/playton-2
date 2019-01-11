@@ -82,8 +82,8 @@ pouco de ar fresco quando paramos.
 [t13_120_600.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:131>Você saiu sozinha?<W> Tá maluca?!<W>
 !------------------------------!
-Lá fora é perigoso. Quem sabe
-as bizarrices que estão a espreita!
+Lá fora é perigoso. Sabe-se lá quais
+bizarrices vão estar à espreita!
 !******************************!
 [t13_120_700.gds]
 <01:00000005><03:9>b1 weep2<03:5>NONE<01:00000003><03:45>Oh, tudo bem, prometo ter mais

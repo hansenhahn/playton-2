@@ -52,7 +52,7 @@ da forma como eu vejo, é seu dever
 ajudar essas pessoas!<W>
 !------------------------------!
 Se conseguir ajudar a todos com
-um cházinho, boas coisas vão
+um chazinho, boas coisas vão
 acontecer.<W> Isso eu prometo.
 !******************************!
 [t30_001_200.gds]
@@ -1301,7 +1301,7 @@ chá refrescante!<Q> Ah, é claro,
 Rainha para Bispo 6. Xeque!
 !******************************!
 [t30_151_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:75>Viu? Um cházinho pode fazer
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:75>Viu? Um chazinho pode fazer
 maravilhas! Até achou sua
 próxima jogada já!
 !******************************!

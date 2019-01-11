@@ -73,12 +73,12 @@ Folsense.
 [t24_023_200.gds]
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:81>Nada transmite tanta tranquilidade
 em um ambiente quanto um buquê de
-flores recém feito.
+rosas recém cortadas.
 !******************************!
 [t24_023_300.gds]
 <01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:85>Com certeza! Aquelas flores do
 Molentary Express me acalmaram
-completamente..
+completamente...
 !******************************!
 [t24_023_400.gds]
 <01:00000001><03:9>b1 smile<03:10>b1 normal<01:00000002><03:170>Ah, sim. Aquelas que o fiscal do trem
@@ -93,7 +93,7 @@ nisto antes.
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:29>Do que está falando, Professor?
 !******************************!
 [t24_023_600.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:91>Luke, lembra-se de quando o vagão
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:91>Luke, lembre-se de quando o vagão
 trocou de trilhos. Percebeu alguma
 coisa na hora?
 !******************************!

@@ -548,7 +548,7 @@ Volte aqui agora mesmo!
 [t16_060_1600.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:84>Peço desculpas, Sr. Beluga, mas
 creio que terei de ficar com
-a caixa por hora.
+a caixa por ora.
 !******************************!
 [t16_060_1700.gds]
 <01:00000009><03:6>shout<03:5>NONE<01:00000002><03:78>Que seja! Como preferir, então! Espero

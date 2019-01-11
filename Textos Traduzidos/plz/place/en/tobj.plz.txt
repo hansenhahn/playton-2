@@ -861,7 +861,7 @@ comprar todas essas
 coisas na rua!
 !******************************!
 [tobj98.txt]
-Será que esse preço
+Será que esse espelho
 é muito caro?
 Melhor ter cuidado.
 !******************************!

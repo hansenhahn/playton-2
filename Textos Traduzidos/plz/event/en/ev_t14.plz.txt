@@ -52,7 +52,7 @@ poderemos encontrar aqui?
 <01:00000005><03:10>b1 notalk<03:5>NONE<01:00000006><03:7>Ugh...
 !******************************!
 [t14_050_200.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:54>Tudo certo com você, Flora?
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:54>Tá tudo bem com você, Flora?
 Você não parece nada bem.
 !******************************!
 [t14_050_300.gds]
@@ -70,8 +70,8 @@ ou qualquer outra coisa indicando
 um hotel por aqui.
 !******************************!
 [t14_050_600.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:89>Mesmo sem sinalização, afirmo
-que um desses prédios ali é um hotel.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:89>Mesmo sem sinalização, afirmo que
+um daqueles edifícios ali é um hotel.
 !******************************!
 [t14_060_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:51>Uma coisa de cada vez. Vamos primeiro
@@ -330,7 +330,7 @@ Depois de uma rápida investigação em
 Dropstone, concluí que esta cidade
 e a Caixa Elísia estão ligadas.<W>
 !------------------------------!
-O Dr. Schrader compilou um monte
+O Dr. Schrader fez um grande compilado
 de informações sobre a Caixa Elísia.<W>
 !------------------------------!
 É mais provável que quem matou o
@@ -419,7 +419,7 @@ mais coisas sobre o livro.
 !******************************!
 [t14_140_1800.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:134>Sim, seria muito bom saber mais
-sobre ele, mas, por hora, vamos
+sobre ele, mas, por ora, vamos
 deixar o livro de lado.<W>
 !------------------------------!
 É hora de visitar o Museu Herzen.
@@ -435,7 +435,7 @@ que nós encontramos.<W>
 !------------------------------!
 Também gostaríamos de saber se você
 já ouviu falar sobre uma antiguidade
-chamada Caixa Elísia?
+chamada Caixa Elísia.
 !******************************!
 [t14_140_300.gds]
 <01:00000019><03:11>b1 normal2<03:5>NONE<01:00000001><03:100>Oh, céus. Lá vamos nós outra vez falar
