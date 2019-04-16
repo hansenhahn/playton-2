@@ -54,7 +54,7 @@ pra criar desculpas, rapaz...
 na cadeia. Venha comigo.
 !******************************!
 [t16_010_1700.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:99>Então foi o condutor! Eu não
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:99>Então foi o fiscal! Eu não
 esperava isso dele, mas pelo menos
 agora podemos respirar aliviados.
 !******************************!
@@ -69,8 +69,7 @@ esta foto rasgada que recuperamos
 do apartamento do doutor...
 !******************************!
 [t16_010_200.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:205>
-Há alguns dias, um renomado arqueólogo,
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:205>Há alguns dias, um renomado arqueólogo,
 o Dr. Andrew Schrader, foi achado
 morto em sua casa, em Londres.<W>
 !------------------------------!
@@ -79,10 +78,9 @@ mas olhem ao redor. É bem possível
 que ele esteja bem ao seu lado.
 !******************************!
 [t16_010_2000.gds]
-<01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:92>
-Ah, então essa é a Caixa Elísia?<W>
-Que chique. E eu adoro a cabra*
-fofinha desenhada em cima!
+<01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:92>Ah, então essa é a Caixa Elísia?<W>
+Que chique. E eu adoro o bode
+fofinho desenhado em cima!
 !******************************!
 [t16_010_2100.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:24>...Que inesperado!<W> Flora...<@s>
@@ -128,7 +126,7 @@ Agora eu vou mostrar como nós,
 da Yard, resolvemos mistérios.
 !******************************!
 [t16_010_520.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:67>O senhor tem 100% de minha
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:67>O senhor tem 100%% de minha
 atenção, Inspetor. Sou seu
 para hipnotizar.
 !******************************!
@@ -188,7 +186,7 @@ está bem aqui diante de nós.
 E seu nome é...
 !******************************!
 [t16_010_900.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:15>Sammy Thunder*!
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:15>Sammy Thunder!
 !******************************!
 [t16_020_100.gds]
 <01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:97>Ah, fala sério, seu polícia. O meu único
@@ -259,7 +257,7 @@ escorregadio!
 [t16_040_1100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:123>Agora tudo ficou claro.<W>
 !------------------------------!
-Se você diz ver uma cabra* nela,
+Se você diz ver um bode nele,
 é porque já viu a verdadeira
 Caixa Elísia.
 !******************************!
@@ -316,16 +314,16 @@ de montar o quebra-cabeça, Luke.
 [t16_040_700.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:87>Inspetor, o emblema que adorna a
 parte de cima da caixa não é um
-sapo, mas sim, uma cabra*.
+sapo, mas sim, um bode.
 !******************************!
 [t16_040_800.gds]
-<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:38>Uma cabra*?<W> Pra mim, não
+<01:00000006><03:12>b2 surprise<03:5>NONE<01:00000001><03:38>Um bode?<W> Pra mim, não
 é, não.
 !******************************!
 [t16_040_900.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:284>Aí é que está. Está faltando
 o pedaço da foto com os olhos
-da cabra*.<W>
+do bode.<W>
 !------------------------------!
 Em seu presente estado, a imagem
 parece um sapo para a maioria.
@@ -333,7 +331,7 @@ Como foi como senhor, Inspetor.<W>
 !------------------------------!
 Flora, querida... se não estou
 enganado, você disse que parecia
-ser uma "cabra fofinha",*, não?
+ser um "bode fofinho", não é?
 !******************************!
 [t16_050_100.gds]
 <01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:63>Maldito seja, Layton!<W> Maldito seja
@@ -341,14 +339,12 @@ você e esse seu chapéu
 espalhafatoso!
 !******************************!
 [t16_050_1000.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:95>
-Eu tenho muitas perguntas pra você,
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:95>Eu tenho muitas perguntas pra você,
 e você vai responder todas após
 voltarmos para Londres!
 !******************************!
 [t16_050_1100.gds]
-<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:70>
-Aonde pensa que vai?!<W>
+<01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:70>Aonde pensa que vai?!<W>
 Ha! Te peguei, seu patife
 escorregadio!
 !******************************!
@@ -382,8 +378,7 @@ a perna, é? Eu ainda te pego!
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:11>Don Paolo!
 !******************************!
 [t16_050_300.gds]
-<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:195>
-Eu cheguei à caixa antes de você,
+<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:195>Eu cheguei à caixa antes de você,
 e, com mais tempo, teria descoberto
 seus segredos antes de você também.<W>
 !------------------------------!
@@ -452,8 +447,7 @@ isso deles.
 é a Caixa Elísia...
 !******************************!
 [t16_055_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>
-Devo admitir que nem suspeitava que
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>Devo admitir que nem suspeitava que
 o Don Paolo estivesse fingindo ser
 a Flora. E por tanto tempo!
 !******************************!
@@ -525,7 +519,7 @@ os planos, Samuel! Já esqueceu
 quem te arranjou esse emprego?
 !******************************!
 [t16_060_1400.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:355>Eu nunca nem quis ser condutor de
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:355>Eu nunca nem quis ser fiscal de
 trem pra começo de conversa!<W>
 !------------------------------!
 Além disso, ficar de assistente é

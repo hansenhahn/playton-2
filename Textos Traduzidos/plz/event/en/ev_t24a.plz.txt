@@ -198,7 +198,7 @@ a acompanharam em sua longa história.
 !******************************!
 [t24_043_100.gds]
 <01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:63>Perfeitamente resolvido. Um cérebro
-como os seus é um verdadeiro artigo
+como o seu é um verdadeiro artigo
 de colecionador!
 !******************************!
 [t24_044_100.gds]
@@ -416,9 +416,9 @@ fosse necessário algum tipo de macete
 complicado.
 !******************************!
 [t24_093_200.gds]
-<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:100>Devem ter maneiras mais simples
+<01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:100>Deve ter maneiras mais simples
 de fazer isso. Tem certeza de que 
-seu chefe está de acordo com isto?
+seu chefe está de acordo?
 !******************************!
 [t24_093_300.gds]
 <01:0000001B><03:11>b1 normal2<03:5>NONE<01:00000001><03:90>Ha ha ha! Ninguém vai notar. Sempre
@@ -539,8 +539,8 @@ entrar e dar uma olhadinha no cabaré?
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:15>Err... Não, eu...
 !******************************!
 [t24_110_300.gds]
-<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:106>Ah, olhe só essas bochechinhas
-corando! Não tem porque ficar
+<01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:106>Ah, olha só essas bochechinhas
+corando! Não tem por que ficar
 acanhado, bonitão!<W>
 !------------------------------!
 Tome, experimente este enigma aqui.
@@ -679,7 +679,7 @@ teria como nos ajudar?
 mais interessante que recebi hoje.<W>
 !------------------------------!
 Eu não tenho nenhuma ração enlatada,
-mas estes restos de pernil vão deixar
+mas esta sobra de pernil vai deixar
 o totó nas nuvens!
 !******************************!
 [t24_140_400.gds]
@@ -725,15 +725,15 @@ que nem eu, é capaz de resolver
 este enigma.<W>
 !------------------------------!
 Tomem. Vocês provaram merecer
-os restos de pernil.
+a sobra de pernil.
 !******************************!
 [t24_143_1200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:22>Você recebeu os restos de pernil.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:22>Você recebeu a sobra de pernil.
 !******************************!
 [t24_144_1300.gds]
 <01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:82>Ei! Não lembram do trato? É só
-resolverem o enigma que os restos
-de pernil serão de vocês.
+resolverem o enigma que a sobra
+de pernil será de vocês.
 !******************************!
 [t24_150_100.gds]
 <01:0000004C><03:5>NONE<03:5>NONE<01:00000003><03:71>A loja do papai fede tanto que se
@@ -1078,7 +1078,7 @@ sabor delas ser divino, é difícil deixar
 o tamanho delas padrão.<W>
 !------------------------------!
 E servi-las acaba dando a maior
-trabalheira porque é preciso empilha-las
+trabalheira porque é preciso empilhá-las
 direitinho.<W> Eu mostro pra vocês.
 !******************************!
 [t24_231_100.gds]

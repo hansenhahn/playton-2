@@ -95,13 +95,13 @@ Revigorante pode fazer muito bem
 à gente, de vez em quando.
 !******************************!
 [ht_005_0.txt]
-Ah, que chá simplesmente esquisito.
+Ah, um chá completamente exótico.
 Há uma profundidade de sabores aqui
 que não se nota em outros chás.
 !******************************!
 [ht_005_1.txt]
-Sério? Caramba, acho que minha tá
-ruim ou algo do tipo. Não consigo
+Sério? Caramba, acho que meu paladar
+tá ruim ou algo do tipo. Não consigo
 notar o que há de tão bom nisso...
 !******************************!
 [ht_005_2.txt]

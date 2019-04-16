@@ -454,14 +454,14 @@ Resolutividade impressionante!
 Uma performance quase perfeita!
 !******************************!
 [tx_1200.txt]
-A Casa dos Apaixonados foi
-adicionada aos Desafios de
+A Casa dos Namorados foi
+adicionada aos Desafios do
 Layton.
 !******************************!
 [tx_1201.txt]
-A Casa do Doutor foi
-adicionada aos Desafios de
-Layton.
+A Casa do Doutor dos Enigmas
+foi adicionada aos Desafios
+do Layton.
 !******************************!
 [tx_1300.txt]
 No momento, não há enigmas na

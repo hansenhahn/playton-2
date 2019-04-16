@@ -60,15 +60,15 @@ No entanto, receio que meu pai não
 esteja de acordo com a ideia disso.
 !******************************!
 [diary_3.txt]
-Meu pai sempre fez o que bem lhe
+Meu pai sempre fez o que bem
 entende, sem se importar com mais
 ninguém. Ele age desse jeito com
 todo mundo, até seus filhos. Não é
-de se admirar que meu irmão mais
+de se admirar que meu irmão mais velho
 se dê tão mal com ele. Apesar de
 tudo, temos que aceitar seus
 caprichos, já que somos futuros
-governantes de Folsense, não podemos
+governantes de Folsense e não podemos
 sair daqui. Nós somos os protetores
 desta cidade, e temos que cuidar dela.
 !******************************!
@@ -211,8 +211,8 @@ antes de seu assassinato.
 Depois de remontar seus pedaços,
 a imagem acaba por ser uma foto
 da Caixa Elísia. Na tampa da caixa
-aparece o emblema sinistro de uma
-cabra, o que é apropriado, dada
+aparece o emblema sinistro de um
+bode, o que é apropriado, dada
 a sinistra reputação da caixa.
 !******************************!
 [ide_4.txt]
@@ -280,7 +280,7 @@ rumores são verdadeiros?
 !******************************!
 [id_10.txt]
 Um símbolo enorme e sinistro, na
-forma de uma cabeça de cabra, está
+forma de uma cabeça de bode, está
 na parte de cima da Caixa Elísia.
 Esse mesmo símbolo pode ser avistado
 na cidade de Folsense. Que conexão
@@ -363,7 +363,7 @@ Herzen?
 A Caixa Elísia
 !******************************!
 [it_10.txt]
-O Emblema de Cabra
+O Emblema de Bode
 !******************************!
 [it_2.txt]
 Um Bilhete Sem Destino
@@ -608,7 +608,7 @@ os lugares que possam ter algum
 tipo de ligação com a Caixa Elísia.
 !******************************!
 [d_19.txt]
-Beluga e Sam, o condutor do trem,
+Beluga e Sam, o fiscal do trem,
 também estão aqui em Folsense.
 Pelo que posso notar, não é a
 primeira vez que eles vêm aqui.
@@ -632,8 +632,8 @@ Luke e eu nos deparamos com um
 livro parecido com um diário. Nele,
 tem vários tipos de travas que me
 impedem de ler a maior parte do seu
-conteúdo. A capa é adornada com uma
-cabra de aparência sinistra, o que
+conteúdo. A capa é adornada com um
+bode de aparência sinistra, o que
 me despertou a curiosidade. Fico me
 perguntando qual o seu significado,
 se é que possui algum.
@@ -722,7 +722,7 @@ isso de grande importância.
 !******************************!
 [d_28.txt]
 Descobri um símbolo enorme similar
-à cabeça de uma cabra, esculpido no
+à cabeça de um bode, esculpido no
 chão do pátio do museu. É idêntico
 ao emblema que adorna o diário que
 encontramos, mas tenho a sensação
@@ -780,10 +780,10 @@ a se debater. No entanto, certamente
 funciona para afastar os clientes.
 !******************************!
 [d_32.txt]
-O dono da mercearia foi gentiu o
-bastante para nos fornecer alguns
-restos de pernil assado, que creio
-que nos será muito úteis. Agora
+O dono da mercearia foi gentil o
+bastante para nos fornecer uma
+sobra de pernil assado, que creio
+que nos será muito útil. Agora
 devemos retornar à área a nordeste
 da cidade. Por sorte, nosso pequeno
 presente será suficiente para
@@ -827,8 +827,8 @@ o local que ele mencionou.
 [d_36.txt]
 Ao recompor a foto, percebi que era
 uma imagem da Caixa Elísia. Em sua
-tampa encrustada de jóias, jazia o
-emblema de cabra que nos é familiar.
+tampa encrustada de joias, jazia o
+emblema de bode que nos é familiar.
 Pouco depois, uma rajada de vento
 levou consigo um dos pedaços da foto,
 mas agora que sei qual é a imagem,
@@ -1233,7 +1233,7 @@ De Volta ao Museu
 Uma Discussão na Fonte
 !******************************!
 [t_28.txt]
-O Símbolo na Forma de Cabra
+O Símbolo na Forma de Bode
 !******************************!
 [t_29.txt]
 A Fotografia Perdida
@@ -2245,7 +2245,7 @@ Sobrinho de Beluga, Sammy
 só quer saber de uma
 coisa: rock 'n roll e metal
 da pesada. De dia, ele é
-apenas um condutor de
+apenas um fiscal de
 trem comum, mas assim que
 ele pega no microfone,
 surge seu alter ego de

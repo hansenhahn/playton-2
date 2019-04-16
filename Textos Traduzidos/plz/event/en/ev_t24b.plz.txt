@@ -103,7 +103,7 @@ a cidade, senhores.
 a sentir fadiga de tanto caminhar pela
 cidade, parem e descansem um pouco.<W>
 !------------------------------!
-Tirar um tempo para descanser de
+Tirar um tempo para descansar de
 vez em quando recupera tanto o corpo
 quanto a mente.
 !******************************!
@@ -292,12 +292,12 @@ Por sorte, agora mesmo me veio
 à cabeça um enigma muito interessante.
 !******************************!
 [t24_381_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:38>Tente reorganizar essas jarras
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:38>Tente reorganizar esses frascos
 e latas.
 !******************************!
 [t24_382_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:55>O que você acha mesmo que tem
-dentro dessas jarras e latas?
+dentro desses frascos e latas?
 !******************************!
 [t24_383_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:139>Bom, o que você acha, Professor?
@@ -322,7 +322,7 @@ deste enigma aqui?
 !******************************!
 [t24_391_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:53>Quer voltar a tentar resolver
-o enigma de jarras e latas?
+o enigma de frascos e latas?
 !******************************!
 [t24_392_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:141>Por incrível que pareça, Sr. Garland
@@ -895,8 +895,8 @@ Qual cachorro?
 !******************************!
 [t24_510_300.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:102>O Inspetor Chelmey teve uma, ahn,
-altercação com um canino, enquanto
-ia à nordeste da cidade.
+confusão com um canino, enquanto seguia
+à nordeste da cidade.
 !******************************!
 [t24_510_400.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:100>Bem, cães podem farejar pessoas
@@ -959,7 +959,7 @@ mas cada pedaço nos deixa mais perto
 da resposta. Temos que pegar todos.
 !******************************!
 [t24_520_600.gds]
-<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:160>Desculpe por terminar com a festa de
+<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:160>Desculpe por acabar com a festa de
 vocês, mas fui eu quem achou este pedaço.<W>
 !------------------------------!
 Se querem isto tanto assim, terão

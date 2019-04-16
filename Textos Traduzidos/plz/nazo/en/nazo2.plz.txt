@@ -5,13 +5,13 @@ Este enigma é um dos clássicos. Siga as
 regras abaixo para completá-lo. Mova
 qualquer uma das bolinhas do tabuleiro,
 cumprindo as condições abaixo:
-<->Para mover uma bolinha, você precisa saltar
+<60>Para mover uma bolinha, você precisa saltar
 sobre outra, sempre na horizontal ou na
 vertical, terminando em um espaço vazio.
 Não pode saltar nas diagonais.
-<->Quando você saltar sobre outra bolinha,
+<60>Quando você saltar sobre outra bolinha,
 esta desaparecerá do tabuleiro.
-<->O enigma acaba quando todas as bolinhas
+<60>O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
 OK, tá bom de tanta regra. Tente resolver.
@@ -51,13 +51,13 @@ Aqui temos uma variação diferente de Resta
 Um, mas as regras são as mesmas. Mova
 qualquer uma das bolinhas do tabuleiro,
 cumprindo as condições abaixo:
-<->Para mover uma bolinha, você precisa saltar
+<60>Para mover uma bolinha, você precisa saltar
 sobre outra, sempre na horizontal ou na
 vertical, terminando em um espaço vazio.
 Não pode saltar nas diagonais.
-<->Quando você saltar sobre outra bolinha,
+<60>Quando você saltar sobre outra bolinha,
 esta desaparecerá do tabuleiro.
-<->O enigma acaba quando todas as bolinhas
+<60>O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
 OK, tá bom de tanta regra. Tente resolvê-lo.
@@ -99,13 +99,13 @@ Hmm, agora tá ficando mais difícil.
 Você pode mover qualquer bolinha no
 tabuleiro abaixo, desde que satisfaça
 as seguintes condições:
-<->Para mover uma bolinha, você precisa saltar
+<60>Para mover uma bolinha, você precisa saltar
 sobre outra, sempre na horizontal ou na
 vertical, terminando em um espaço vazio.
 Não pode saltar nas diagonais.
-<->Quando você saltar sobre outra bolinha,
+<60>Quando você saltar sobre outra bolinha,
 esta desaparecerá do tabuleiro.
-<->O enigma acaba quando todas as bolinhas
+<60>O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
 OK, tá bom de tanta regra. Tente resolvê-lo.
@@ -157,13 +157,13 @@ o resto é realmente com você.
 Você já manja desse enigma. Pode mover
 qualquer bolinha no tabuleiro abaixo, desde
 que satisfaça as seguintes condições:
-<->Para mover uma bolinha, você precisa saltar
+<60>Para mover uma bolinha, você precisa saltar
 sobre outra, sempre na horizontal ou na
 vertical, terminando em um espaço vazio.
 Não pode saltar nas diagonais.
-<->Quando você saltar sobre outra bolinha,
+<60>Quando você saltar sobre outra bolinha,
 esta desaparecerá do tabuleiro.
-<->O enigma acaba quando todas as bolinhas
+<60>O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
 OK, tá bom de tanta regra. Tente resolvê-lo.
@@ -216,13 +216,13 @@ Pode ir se preparando, porque esse aqui vai
 ser difícil. Tal como antes, você pode mover
 qualquer bolinha no tabuleiro abaixo, desde
 que satisfaça as condições a seguir:
-<->Para mover uma bolinha, você precisa saltar
+<60>Para mover uma bolinha, você precisa saltar
 sobre outra, sempre na horizontal ou na
 vertical, terminando em um espaço vazio.
 Não pode saltar nas diagonais.
-<->Quando você saltar sobre outra bolinha,
+<60>Quando você saltar sobre outra bolinha,
 esta desaparecerá do tabuleiro.
-<->O enigma acaba quando todas as bolinhas
+<60>O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
 OK, tá bom de tanta regra. Tente resolvê-lo.
@@ -527,7 +527,7 @@ parece que, pelo menos, um homem estava
 vadiando em serviço. Toque nos números que
 você acha que são suspeitos para marcar X.
 !******************************!
-Mente Afiada!
+Que mente afiada!
 
 Os dois homens que fizeram 105 e 113 viradas
 deviam estar vadiando. Visto que os homens
@@ -627,16 +627,17 @@ Você só precisa desenhar um fio!
 <0113>Uma Pilha de Dados
 <00><1E><1B><17><11><2D><16><70><F6><03><04><29>
 Você empilhou três dados em uma coluna.
-Nos pontos em que os dados se tocam, os
-lados que estão tocando dão até cinco.
+Nos pontos em que os dados se tocam,
+a soma das faces que se encostam é igual
+a cinco.
 
-Se um lado visível do dado inferior estiver
+Se um lado visível do dado da base estiver
 mostrando o número um, qual será o do lado
-superior do dado superior?
+superior do dado do topo?
 
-Os dados são idênticos e todo par de lados
-opostos em cada dado dão até sete, como
-todo qualquer outro dado.
+Os dados são idênticos e assim como em
+qualquer dado, a soma das faces de cada
+par de lados opostos é igual a sete.
 !******************************!
 Isso mesmo!
 
@@ -660,15 +661,14 @@ quatro lados deve ser um número entre
 um e quatro.
 !******************************!
 As opções para o lado superior do dado
-inferior são limitadas. Esse lado pode ser
+da base são limitadas. Esse lado pode ser
 um dois, três ou quatro.
 !******************************!
 Imagine por um minuto que o lado superior
-do dado inferior seja um quatro. Sendo
-assim, então o lado inferior do dado do
-meio tem de ser um, o que faria com que o
-lado superior deste segundo dado fosse
-seis. 
+do dado da base seja quatro. Sendo assim,
+então o lado inferior do dado do meio
+tem de ser um, o que faria com que o lado
+superior deste segundo dado fosse seis. 
 
 Visto que se sabe que os quatro lados em
 contato entre si tem de ser um número
@@ -828,8 +828,8 @@ identificação de onde elas precisam
 estar.
 !******************************!
 Quando remontado corretamente, você
-deverá conseguir ver a cabeça de uma
-cabra de aparência nefasta no meio
+deverá conseguir ver a cabeça de um
+bode de aparência nefasta no meio
 da foto.
 !******************************!
 [n116.dat]
@@ -1445,14 +1445,14 @@ partes com impressões nos dois lados,
 significando um total de seis páginas.
 O chefe precisa de muitas cópias, mas,
 infelizmente, sua máquina copia no máximo
-apenas duas páginas do menu por vez.
-Para poupar tempo, você está tentando
-completar uma cópia do menu com o mínimo
+duas páginas do menu por vez.
+Para poupar tempo, você tenta criar
+uma cópia completa do menu com o mínimo
 possível de passadas pela máquina.
 
 Qual é o menor número de passadas pela
 máquina que você precisa fazer para
-criar uma duplicada completa do menu?
+criar uma cópia completa do menu?
 !******************************!
 Bom trabalho!
 
@@ -1575,11 +1575,11 @@ garoto é 20.
 Usando os fatos da Dica 2, você pode se
 assegurar de que a garota tinha 10 anos
 quando o garoto tinha a idade atual dela.
-De lá  pra cá, X anos se passaram, e o
+De lá para cá, X anos se passaram, e o
 garoto chegou aos 20, enquanto a garota
 chegou na sua idade atual. Se conseguir
 encontrar o número de anos que, somado a
-10 e subtraído se 20, dê a mesma idade,
+10 e subtraído de 20, dê a mesma idade,
 você estará muito perto de achar a idade
 atual da garota.
 
@@ -1722,9 +1722,9 @@ apenas duas rolhas. Já que não há forma
 alguma de conter o odor, nosso amigo não
 teve escolha senão entupir suas narinas.
 
-Ainda bem que ele teve bom senso em ficar
-dentro de onde ninguém conseguiria vê-lo
-assim!
+Ainda bem que ele teve bom senso de
+se esconder em um lugar onde ninguém
+conseguiria vê-lo assim!
 !******************************!
 Que pena!
 
@@ -2178,9 +2178,9 @@ prato azul à esquerda para o prato vermelho
 à direita? Espera aí, não é tão fácil quanto
 parece. Você deve seguir estas regras:
 
-<-> Você só pode mover uma panqueca de cada
+<60> Você só pode mover uma panqueca de cada
 vez.
-<-> Você não pode colocar uma panqueca grande
+<60> Você não pode colocar uma panqueca grande
 em cima de uma pequena.
 
 Você pode usar o prato do centro e mover
@@ -2218,7 +2218,7 @@ meio e coloque a segunda panqueca menor
 no prato vermelho.
 Depois, mova a panqueca menor para cima
 da panqueca da direita, e traga uma nova
-panqueca pra cá, para ocupar o prato do
+panqueca para cá, para ocupar o prato do
 meio. Depois disso, pegue a panqueca menor
 e mova-a para o prato da esquerda.
 Repita este padrão, e enquanto move as
@@ -2236,9 +2236,9 @@ prato azul à esquerda para o prato vermelho
 à direita? Espera aí, não é tão fácil quanto
 parece. Você deve seguir estas regras:
 
-<-> Você só pode mover uma panqueca de cada
+<60> Você só pode mover uma panqueca de cada
 vez.
-<-> Você não pode colocar uma panqueca grande
+<60> Você não pode colocar uma panqueca grande
 em cima de uma pequena.
 
 Você pode usar o prato do centro e mover

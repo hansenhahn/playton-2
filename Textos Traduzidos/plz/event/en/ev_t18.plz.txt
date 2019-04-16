@@ -359,7 +359,7 @@ a dupla decide revisitar o Museu Herzen.
 !******************************!
 [t18_260_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:107>Luke e Layton encontram um grande
-emblema em forma de cabra cravado
+emblema em forma de bode cravado
 no piso em frente ao hotel.
 !******************************!
 [t18_260_200.gds]
@@ -859,14 +859,14 @@ Divirta-se e, mais uma vez,
 meus parabéns!
 !******************************!
 [t18_490_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:64>A Casa do Mestre do Chá* foi adicionada
-aos Desafios do Layton*.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:64>A Casa da Mestra do Chá foi
+adicionada aos Desafios do Layton.
 !******************************!
 [t18_500_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:62>A Casa do Músico* foi adicionada
-aos Desafios do Layton*.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:62>A Casa do Músico foi
+adicionada aos Desafios do Layton.
 !******************************!
 [t18_510_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>A Casa do Amante de Animais* foi adicionada
-aos Desafios do Layton*.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:66>A Casa do Amigo dos Animais foi
+adicionada aos Desafios do Layton.
 !******************************!

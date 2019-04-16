@@ -1,4 +1,4 @@
-<00CE><0000>A Curious Present<FFFF>
+<00CE><0000>Um Presente Misterioso<FFFF>
 !******************************!
 <0001><0001>Mapa do Dr. Schrader<0001>
 !******************************!
@@ -130,7 +130,7 @@
 !******************************!
 <0040><0041>O Mapa Antigo<0006>
 !******************************!
-<0041><0042>The Locked Box<0006>
+<0041><0042>A Caixa Trancada<0006>
 !******************************!
 <0042><0043>A Semana de Trabalho do Sammy<0006>
 !******************************!
@@ -140,29 +140,29 @@
 !******************************!
 <0045><0046>Colar de Joias<0004>
 !******************************!
-<0046><0047>How Old Is She?<0006>
+<0046><0047>Quantos Anos Ela Tem?<0006>
 !******************************!
 <0047><0048>Fotos Embaralhadas<0004>
 !******************************!
-<0048><0049>Can Conundrum<0006>
+<0048><0049>O Mistério das Latas<0006>
 !******************************!
-<0049><004A>Sealing Off the Smell<0006>
+<0049><004A>Bloqueando o Cheiro<0006>
 !******************************!
-<004A><004B>Sweets for Five<0006>
+<004A><004B>Doces para Cinco<0006>
 !******************************!
 <004B><004C>Topo da Torre<0004>
 !******************************!
-<004C><004D>Balancing Ornaments<0006>
+<004C><004D>Enfeites Balançantes<0006>
 !******************************!
-<004D><004E>A Maze of Doors<0006>
+<004D><004E>Um Labirinto de Portas<0006>
 !******************************!
-<004E><004F>The Gear Switch<0006>
+<004E><004F>O Interruptor de Engrenagens<0006>
 !******************************!
-<004F><0050>The Puzzling Lift<0006>
+<004F><0050>O Circuito do Elevador<0006>
 !******************************!
-<0050><0051>The Old Safe<0006>
+<0050><0051>O Cofre Antigo<0006>
 !******************************!
-<0051><0052>Restarting the Lift<0006>
+<0051><0052>Reiniciando o Elevador<0006>
 !******************************!
 <0052><0053>Pilhas de Panquecas 2<0005>
 !******************************!
@@ -170,45 +170,45 @@
 !******************************!
 <0054><0055>A Forma que Falta<0004>
 !******************************!
-<0055><0056>Perplexing Figures<0006>
+<0055><0056>Imagens Perplexas<0006>
 !******************************!
-<0056><0057>Different Suits<0006>
+<0056><0057>Naipes Diferentes<0006>
 !******************************!
-<0057><0058>The Frog's Path<0006>
+<0057><0058>O Trajeto do Sapo<0006>
 !******************************!
 <0058><0059>Festa nos Canteiros de Flores<0006>
 !******************************!
-<0059><005A>The Unusual Fountain<0006>
+<0059><005A>A Fonte Incomum<0006>
 !******************************!
-<005A><005B>Sharing the Wealth<0006>
+<005A><005B>Repartindo a Riqueza<0006>
 !******************************!
-<005B><005C>Precious Metals<0006>
+<005B><005C>Metais Preciosos<0006>
 !******************************!
 <005C><005D>Quantos Anos Eu Tenho?<0006>
 !******************************!
-<005D><005E>Puzzling Cubes<0006>
+<005D><005E>Cubinhos Enigmáticos<0006>
 !******************************!
-<005E><005F>Box of Books<0006>
+<005E><005F>Caixa de Livros<0006>
 !******************************!
-<005F><0060>A Ghostly Puzzle<0006>
+<005F><0060>Um Enigma Fantasmagórico<0006>
 !******************************!
-<0060><0061>A Starry Sky<0006>
+<0060><0061>Um Céu Estrelado<0006>
 !******************************!
-<0061><0062>Jars and Cans 1<0005>
+<0061><0062>Frascos e Latas 1<0005>
 !******************************!
-<0062><0063>Jars and Cans 2<0006>
+<0062><0063>Frascos e Latas 2<0006>
 !******************************!
-<0063><0064>A Rickety Bridge<0006>
+<0063><0064>A Ponte Frágil<0006>
 !******************************!
-<0064><0065>Disappearing Act 1<0006>
+<0064><0065>Desaparecimento 1<0006>
 !******************************!
-<0065><0066>Disappearing Act 2<0006>
+<0065><0066>Desaparecimento 2<0006>
 !******************************!
-<0066><0067>Disappearing Act 3<0006>
+<0066><0067>Desaparecimento 3<0006>
 !******************************!
-<0067><0068>Disappearing Act 4<0006>
+<0067><0068>Desaparecimento 4<0006>
 !******************************!
-<0068><0069>Disappearing Act 5<0006>
+<0068><0069>Desaparecimento 5<0006>
 !******************************!
 <0069><006A>O Problema do Cavalo 1<0005>
 !******************************!
@@ -238,161 +238,161 @@
 !******************************!
 <0077><0077>As Moedas Falsas<0006>
 !******************************!
-<0078><0078>Tug of War<0005>
+<0078><0078>Cabo de Guerra<0005>
 !******************************!
-<0079><0079>Light the Way 1<0006>
+<0079><0079>Iluminando o Caminho 1<0006>
 !******************************!
-<007A><007A>Light the Way 2<0006>
+<007A><007A>Iluminando o Caminho 2<0006>
 !******************************!
-<007B><007B>Light the Way 3<0006>
+<007B><007B>Iluminando o Caminho 3<0006>
 !******************************!
-<007C><007C>UFOs Spotted!<0006>
+<007C><007C>OVNIs Avistados!<0006>
 !******************************!
-<007D><007D>Forest Mushrooms<0006>
+<007D><007D>Cogumelos na Floresta<0006>
 !******************************!
-<007E><007E>Slippery Crossings 1<0006>
+<007E><007E>Caminhada Escorregadia 1<0006>
 !******************************!
-<007F><007F>Slippery Crossings 2<0006>
+<007F><007F>Caminhada Escorregadia 2<0006>
 !******************************!
-<0080><0080>Slippery Crossings 3<0006>
+<0080><0080>Caminhada Escorregadia 3<0006>
 !******************************!
-<0081><0081>The Messy Mole<0006>
+<0081><0081>A Toupeira Desleixada<0006>
 !******************************!
-<0082><0082>The Strange Painting<0006>
+<0082><0082>A Pintura Estranha<0006>
 !******************************!
-<0083><0083>How to Escape?<0006>
+<0083><0083>Como Fugir?<0006>
 !******************************!
-<0084><0084>Sharing Paintings<0006>
+<0084><0084>Dividindo Pinturas<0006>
 !******************************!
-<00CC><0085>Grab the Key<FFFF>
+<00CC><0085>Pegue a Chave<FFFF>
 !******************************!
-<0086><0086>Steam Power<0006>
+<0086><0086>Poder do Vapor<0006>
 !******************************!
-<00CD><0087>The Magic Lock<FFFF>
+<00CD><0087>A Tranca Mágica<FFFF>
 !******************************!
-<0085><0088>The Hidden Door<0006>
+<0085><0088>A Porta Escondida<0006>
 !******************************!
-<0087><0089>One True Sword<0006>
+<0087><0089>A Espada de Verdade<0006>
 !******************************!
-<00CB><008A>The Elysian Box<FFFF>
+<00CB><008A>A Caixa Elísia<FFFF>
 !******************************!
-<0088><008B>Coast to Coast<FFFF>
+<0088><008B>Costa a Costa<FFFF>
 !******************************!
-<0089><008C>One Extra Block<FFFF>
+<0089><008C>Um Bloco Extra<FFFF>
 !******************************!
-<008A><008D>Disappearing Act 6<FFFF>
+<008A><008D>Desaparecimento 6<FFFF>
 !******************************!
-<008B><008E>The Scholar's Life<FFFF>
+<008B><008E>A Vida de um Erudito<FFFF>
 !******************************!
-<008C><008F>Letter Calculations<FFFF>
+<008C><008F>Cálculos Alfabéticos<FFFF>
 !******************************!
-<008D><0090>Super Pancakes<FFFF>
+<008D><0090>Super Panquecas<FFFF>
 !******************************!
-<008E><0091>500 Pearls<FFFF>
+<008E><0091>500 Pérolas<FFFF>
 !******************************!
-<008F><0092>Angles in a Box<FFFF>
+<008F><0092>Ângulos numa Caixa<FFFF>
 !******************************!
-<0090><0093>Sliding Labyrinth<FFFF>
+<0090><0093>Labirinto Deslizante<FFFF>
 !******************************!
-<0091><0094>Eight Cards<FFFF>
+<0091><0094>Oito Cartas<FFFF>
 !******************************!
-<0092><0095>Number Cycle<FFFF>
+<0092><0095>Ciclo Numérico<FFFF>
 !******************************!
-<0093><0096>The Knight's Tour 4<FFFF>
+<0093><0096>O Problema do Cavalo 4<FFFF>
 !******************************!
-<0094><0097>John's Score<FFFF>
+<0094><0097>A pontuação de John<FFFF>
 !******************************!
-<0095><0098>The Card Tournament<FFFF>
+<0095><0098>O Torneio de Cartas<FFFF>
 !******************************!
-<0096><0099>Ultimate Escape<FFFF>
+<0096><0099>A Caixa de Pandora<FFFF>
 !******************************!
 <0097><009A><FFFF>
 !******************************!
-<0098><009B>Sweeping Up<FFFF>
+<0098><009B>Dia do Lixo<FFFF>
 !******************************!
-<0099><009C>Tile Equation<FFFF>
+<0099><009C>Equação de Quadrados<FFFF>
 !******************************!
 <009A><009D><FFFF>
 !******************************!
-<009B><009E>Wrong Clocks<FFFF>
+<009B><009E>Relógios Errados<FFFF>
 !******************************!
 <009C><009F><FFFF>
 !******************************!
-<009D><00A0>Cut and Splice<FFFF>
+<009D><00A0>Corte e Cole<FFFF>
 !******************************!
-<009E><00A1>Stacked Dice<FFFF>
+<009E><00A1>Dados Empilhados<FFFF>
 !******************************!
-<009F><00A2>Paper and Scissors<FFFF>
+<009F><00A2>Papel e Tesoura<FFFF>
 !******************************!
 <00A0><00A3>AB + B = BA<FFFF>
 !******************************!
-<00A1><00A4>What Number?<FFFF>
+<00A1><00A4>Qual é o Número?<FFFF>
 !******************************!
-<00A2><00A5>Mouse Escape!<FFFF>
+<00A2><00A5>A Fuga do Rato!<FFFF>
 !******************************!
 <00A3><00A6><FFFF>
 !******************************!
-<00A4><00A7>Different Chickens<FFFF>
+<00A4><00A7>Galinhas Diferentes<FFFF>
 !******************************!
 <00A5><00A8><FFFF>
 !******************************!
-<00A6><00A9>Territory War<FFFF>
+<00A6><00A9>Território de Guerra<FFFF>
 !******************************!
-<00A7><00AA>A Sure Win<FFFF>
+<00A7><00AA>Uma Vitória Garantida<FFFF>
 !******************************!
-<00A8><00AB>The M<:o>bius Puzzle<FFFF>
+<00A8><00AB>O Enigma de Moebius<FFFF>
 !******************************!
-<00A9><00AC>Too Many Bridges<FFFF>
+<00A9><00AC>Muitas Pontes<FFFF>
 !******************************!
-<00AA><00AD>The Rotating Arrow<FFFF>
+<00AA><00AD>A Seta Rotativa<FFFF>
 !******************************!
-<00AB><00AE>A Row of Dice<FFFF>
+<00AB><00AE>Fileira de Dados<FFFF>
 !******************************!
 <00AC><00AF><FFFF>
 !******************************!
 <00AD><00B0><FFFF>
 !******************************!
-<00AE><00B1>Mouse on the Loose!<FFFF>
+<00AE><00B1>Rato à Solta!<FFFF>
 !******************************!
-<00AF><00B2>The Ant Takes a Walk<FFFF>
+<00AF><00B2>A Passeata da Formiga<FFFF>
 !******************************!
-<00B0><00B3>John and Bill<FFFF>
+<00B0><00B3>John e Bill<FFFF>
 !******************************!
 <00B1><00B4><FFFF>
 !******************************!
-<00B2><00B5>The Tape's Shape<FFFF>
+<00B2><00B5>O Formato da Fita<FFFF>
 !******************************!
-<00B3><00B6>The Long Formula<FFFF>
+<00B3><00B6>O Cálculo Gigante<FFFF>
 !******************************!
-<00B4><00B7>How Many Gems?<FFFF>
+<00B4><00B7>Quantas Joias?<FFFF>
 !******************************!
-<00B5><00B8>Who's Married?<FFFF>
+<00B5><00B8>Quem se Casou?<FFFF>
 !******************************!
-<00B6><00B9>Miscalculation<FFFF>
+<00B6><00B9>Erro de Cálculo<FFFF>
 !******************************!
-<00B7><00BA>Three Ladies<FFFF>
+<00B7><00BA>Três Senhoritas<FFFF>
 !******************************!
 <00B8><00BB><FFFF>
 !******************************!
 <00B9><00BC><FFFF>
 !******************************!
-<00BA><00BD>The Lion's Escape<FFFF>
+<00BA><00BD>A Fuga do Leão<FFFF>
 !******************************!
 <00BB><00BE><FFFF>
 !******************************!
-<00BC><00BF>Pattern Recognition<FFFF>
+<00BC><00BF>Reconhecimento de Padrão<FFFF>
 !******************************!
-<00BD><00C0>Suits in a Row<FFFF>
+<00BD><00C0>Uma Fileira de Naipes<FFFF>
 !******************************!
-<00BE><00C1>The Cleaning Robot<FFFF>
+<00BE><00C1>O Robô de Limpeza<FFFF>
 !******************************!
-<00BF><00C2>Cracking the Code<FFFF>
+<00BF><00C2>Burlando o Código<FFFF>
 !******************************!
 <00C0><00C3><FFFF>
 !******************************!
 <00C1><00C4><FFFF>
 !******************************!
-<00C2><00C5>Crazy Dice<FFFF>
+<00C2><00C5>Dados Malucos<FFFF>
 !******************************!
 <00C3><00C6><FFFF>
 !******************************!
@@ -400,9 +400,9 @@
 !******************************!
 <00C5><00C8><FFFF>
 !******************************!
-<00C6><00C9>Number Tiles<FFFF>
+<00C6><00C9>Blocos Numerados<FFFF>
 !******************************!
-<00C7><00CA>The Bus's Route<FFFF>
+<00C7><00CA>A Rota do Ônibus<FFFF>
 !******************************!
 <00C8><00CB><FFFF>
 !******************************!

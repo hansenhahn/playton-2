@@ -163,7 +163,7 @@ um enorme filão de ouro nos limites
 da cidade, o que fez tudo mudar.<W>
 !------------------------------!
 Folsense cresceu rápido, mas a notícia
-da descoberta do ouro trouxe todo o
+da descoberta do ouro trouxe todo
 tipo de pessoa indesejada pra cidade.<W>
 !------------------------------!
 É uma pena. Esta costumava ser
@@ -1395,7 +1395,7 @@ ataques de vampiros, por precaução.<W>
 !------------------------------!
 Se for preciso, serão sempre
 bem-vindos pra se esconder em minha
-loja. Ela é 100% à prova de vampiros!
+loja. Ela é 100%% à prova de vampiros!
 !******************************!
 [t14_460_100.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:57>Professor! Eu avistei o
@@ -1458,7 +1458,7 @@ fez o dever de casa. Acho que
 você acertou tudinho, meu bem.<W>
 !------------------------------!
 A idade afeta a memória da gente,
-sabe como é. Pode não parecer mas
+sabe como é. Pode não parecer, mas
 eu não sou mais tão novinha assim.
 !******************************!
 [t14_470_400.gds]
@@ -1569,10 +1569,11 @@ de graça, e sempre que quiser.<W>
 Acho que é uma das vantagens de se
 ter sua própria ferrovia, he he.<W>
 !------------------------------!
-Ah, e sempre que eu vejo ele por aí,
-está com esse hippie vestido de fiscal.<W>
+Ah, e sempre que eu vejo ele por
+aí, está com um hippie vestido de
+fiscal de trem.<W>
 !------------------------------!
-E 90% das vezes ele está discutindo
+E 90%% das vezes ele está discutindo
 com o fiscal por algum motivo.<W>
 !------------------------------!
 Parece que está atrás de alguma
@@ -1608,7 +1609,7 @@ assassino, por que não simplesmente
 o prendemos e fim de história?
 !******************************!
 [t14_490_800.gds]
-<01:00000006><03:6>shout<03:5>NONE<01:00000001><03:299>O quê?<W> Barton, ás vezes eu sinto
+<01:00000006><03:6>shout<03:5>NONE<01:00000001><03:299>O quê?<W> Barton, às vezes eu sinto
 que você é o policial mais sem
 visão deste continente.<W>
 !------------------------------!

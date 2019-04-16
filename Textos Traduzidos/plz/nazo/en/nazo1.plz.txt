@@ -2505,14 +2505,13 @@ bilhete é dobrado?
 [n59.dat]
 <0060>O Enigma da Praça
 <00><19><16><13><11><23><06><3B><EC><03><04><FF>
-<''>Então há uma grande e antiga estátua no
+<''>Então há uma estátua grande e antiga no
 meio desta praça. Quando você remove a
 área ocupada pela estátua, a praça parece
 ter um formato de uma rosquinha. O que
 você precisa fazer é dividir essa praça
-em formato de rosquinha em duas partes 
-exatamente idênticas usando tão somente
-uma linha.
+em forma de rosca em duas partes idênticas
+em formato usando tão somente uma linha.
 Ah, e antes de inventar coisa, as linhas
 pontilhadas mostradas abaixo não podem
 ser cortadas, porque são, na verdade,
@@ -2553,9 +2552,9 @@ aqui não é criar duas partes que
 sejam do mesmo tamanho?
 !******************************!
 Se ainda estiver tendo problemas,
-você deve saber que a única linha
-se deve desenhar terá de ser
-desenhada na forma de um círculo.
+saiba que a única linha a se
+desenhar terá de ser forma de um
+círculo.
 
 A pergunta que sobra é sobre onde
 que é para desenhar para que duas

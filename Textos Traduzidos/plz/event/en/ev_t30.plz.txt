@@ -249,7 +249,7 @@ melhor de todos, amor.<W>
 !------------------------------!
 Pra dizer a verdade, há pouco tempo,
 um velho cavalheiro veio à cidade
-com uma caixa repleta de jóias.<W>
+com uma caixa repleta de joias.<W>
 !------------------------------!
 De aparência, não era tão boa pinta
 como você, é claro. Mas eu diria
@@ -305,7 +305,7 @@ tá bom?
 [t30_031_10.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Isso sim é um chá gostoso!<W>
 Joanie dá um sorrisão. Ela parece
-Ele parece recuperada e animada.
+recuperada e animada.
 !******************************!
 [t30_031_100.gds]
 <01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:199>Mmm! Sabe, não estava de todo
@@ -438,7 +438,7 @@ O chá que estou atrás é
 defumado e meio amargo.
 !******************************!
 [t30_043_100.gds]
-<01:00000044><03:9>b1 angry<03:5>NONE<01:00000002><03:68>Faça-nos um favor e volte quando
+<01:00000044><03:9>b1 angry<03:5>NONE<01:00000002><03:68>Faz um favor e volta só quando
 puder fazer meu chá direito.
 !******************************!
 [t30_044_100.gds]
@@ -510,7 +510,7 @@ defumado que lhe falta.
 [t30_053_100.gds]
 <01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:131>Já deu pra trás pra fazer o chá?<W>
 !------------------------------!
-Que vergunha. Mas sei que nessas
+Que vergonha. Mas sei que nessas
 suas xícaras fantásticas aí, o
 chá certo ficaria ótimo.
 !******************************!
@@ -521,7 +521,7 @@ aroma defumado.
 !******************************!
 [t30_060_100.gds]
 <01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:40>Hmm, como era mesmo aquela
-receita mesmo?
+receita?
 !******************************!
 [t30_060_200.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:25>Algum problema, querida?
@@ -1115,7 +1115,7 @@ saboreio. Este chá, meu amigo,
 !------------------------------!
 Como eu trabalho de porteiro no
 melhor restaurante da cidade, tenho
-que estar firme 100% do tempo.<W>
+que estar firme 100%% do tempo.<W>
 !------------------------------!
 Digo, antigamente, até o filho
 do duque e sua noiva costumavam
@@ -1322,7 +1322,7 @@ parado.
 !******************************!
 [t30_152_10.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:70>Infelizmente, o chá que você
-preparou para Gregoriu não serviu.
+preparou para Gregorio não ficou bom.
 !******************************!
 [t30_152_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:101>Desculpe, filhão, mas este chá não

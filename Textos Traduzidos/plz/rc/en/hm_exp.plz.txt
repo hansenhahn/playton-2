@@ -9,7 +9,7 @@ com %d passos! É isso aí!
 [msg_nrm_clear2.txt]
 %s agora vai farejar
 moedas de dica para você!
-Não vá perder essa moeda!
+Fique atento às farejadas!
 !******************************!
 [msg_nrm_fail.txt]
 %s andou %d passos,
