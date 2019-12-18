@@ -744,23 +744,23 @@ para tirar uma foto da área.
 [t18_430_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:192>Para ver um álbum com todas as
 suas fotos, toque no ícone da
-Câmera na Maleta do Professor*.<W>
+Câmera na Mala do Professor.<W>
 !------------------------------!
 Enquanto estiver vendo o álbum,
 toque em qualquer uma das fotos para
-jogar um jogo de ache-as-diferenças* (esse jogo normalmente é conhecido aqui no Brasil como "jogo dos sete erros", mas aqui parecem ser só "três erros"...?).
+jogar um jogo de achar os erros.
 !******************************!
 [t18_430_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:604>O objetivo é achar as diferenças
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:604>O objetivo é achar os erros
 entre a foto na Tela de Toque
 e o lugar de verdade.<W>
 !------------------------------!
 O lugar de verdade fica à mostra na
 tela de cima.<W>
 !------------------------------!
-Toque em lugares que lhe pareçam suspeitos
-para marcá-los com um círculo, e depois
-toque em #rHere!#x para dar sua resposta.<W>
+Toque em lugares que suspeitos para
+marcá-los com um círculo e depois toque
+no botão #rAqui!#x para dar sua resposta.<W>
 !------------------------------!
 Se for a resposta certa, a área
 selecionada ficará marcada com
@@ -770,9 +770,9 @@ Cada foto tem três elementos que
 são sutilmente diferentes daqueles
 encontrados no verdadeiro local.<W>
 !------------------------------!
-Assim que encontrar as três
-diferenças de um lugar, visite a
-área onde a foto foi tirada.<W>
+Assim que encontrar os três erros
+de um lugar, visite a área onde
+a foto foi tirada.<W>
 !------------------------------!
 Toque no local que ficará marcado
 na foto... Quem sabe o que você

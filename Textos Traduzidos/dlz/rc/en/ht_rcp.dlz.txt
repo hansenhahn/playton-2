@@ -22,7 +22,7 @@ Rico em sabor, este chá aquece o
 corpo, melhora a circulação e é
 ideal para início de resfriado.
 !******************************!
-<0004><0066>Reforço Apimentado
+<0004><0066>Cereja Revigorante
 !------------------------------!
 A pitada forte da Pimenta Cereja
 faz deste chá ideal para pôr para
@@ -36,9 +36,9 @@ ideal para adultos perspicazes.
 !******************************!
 <0006><0136>Sonho Apimentado
 !------------------------------!
-Este chá misterioso possui uma
-doce, suave e com um toque
-apimentado.
+Este chá misterioso é doce e
+suave, com um leve toque de
+pimenta.
 !******************************!
 <0007><0147>Trevo Fresco
 !------------------------------!

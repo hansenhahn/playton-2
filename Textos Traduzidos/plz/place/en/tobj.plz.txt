@@ -311,9 +311,8 @@ Parece que há um pouco
 mais de luz lá!
 !******************************!
 [tobj161.txt]
-Cuide-se para que não
-caia dessas escadas,
-Luke.
+Cuide para não cair
+dessas escadas, Luke.
 !******************************!
 [tobj162.txt]
 Por aqui há um grande
@@ -839,7 +838,7 @@ caído a noite...
 !******************************!
 [tobj93.txt]
 Esse caminho parece ter
-sido recém-pavimentado.
+sido recém pavimentado.
 !******************************!
 [tobj94.txt]
 Eu nunca tinha visto
@@ -851,9 +850,9 @@ E não tem um risco
 sequer nele!
 !******************************!
 [tobj96.txt]
-Tsc. Não chega nem perto
-da macieza do sofá do
-trem.
+Tsc. Não chega nem
+perto da maciez do sofá
+do trem.
 !******************************!
 [tobj97.txt]
 Não acredito que dá pra
@@ -866,7 +865,7 @@ Será que esse espelho
 Melhor ter cuidado.
 !******************************!
 [tobj99.txt]
-Esta é uma cadeira ideal
+Esta é a cadeira ideal
 para ler um bom livro.
 !******************************!
 [tobjlist.txt]

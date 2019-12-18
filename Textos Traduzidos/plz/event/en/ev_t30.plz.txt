@@ -8,20 +8,20 @@ espertões que já vi antes!
 [t30_000_300.gds]
 <01:00000022><03:5>NONE<03:5>NONE<01:00000001><03:203>E eu conheço o destino, pois foi
 o que juntou eu, vocês e esse seu
-conjunto de chá festoso aí.<W>
+conjunto de chá maneiríssimo aí.<W>
 !------------------------------!
 Já que estamos reunidos, digo para
 comemorarmos com uma xícara de chá.
-Prepara algo com pra mim, faz favor?
+Prepara algo bom pra mim, faz favor?
 !******************************!
 [t30_000_400.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:33>Quer que nós façamos um chá
-para você?
+pra você?
 !******************************!
 [t30_000_500.gds]
 <01:00000022><03:5>NONE<03:5>NONE<01:00000001><03:286>Isso aí, espertão. Mas nada muito
-exagerado. Uma xícara de Citrus
-Classic vai servir.<W>
+exagerado. Uma xícara de Cítrico
+Clássico vai servir.<W>
 !------------------------------!
 É tão fácil de fazer que até um
 bebê consegue.<W> Um bebê com um
@@ -100,8 +100,8 @@ terá preparado o melhor chá que tem.
 forasteiros, estou correto?
 !******************************!
 [t30_010_200.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:47>De fato está. Como chegou a essa
-dedução?
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:47>Então, tá sim. Como chegou a essa
+conclusão?
 !******************************!
 [t30_010_300.gds]
 <01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:94>Dã-ãhn!<W> Porque também sou. E mais,
@@ -149,7 +149,7 @@ Como diferencio forasteiros de
 moradores locais nessa cidade?
 !******************************!
 [t30_011_300.gds]
-<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:156>Ah, fácil que nem, ãhnn, sentar num
+<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:156>Ah, é mole que nem, ahnn, sentar num
 pudim.<W> Só chegar perto da pessoa...<W>
 e dar uma cheirada nela.<W>
 !------------------------------!
@@ -469,19 +469,19 @@ orelha a orelha surge em Garland.
 Ele parece recuperado e animado.
 !******************************!
 [t30_051_100.gds]
-<01:00000041><03:9>b1 smile<03:5>NONE<01:00000002><03:104>Mmm. Que chá bom, e bebê-lo em
+<01:00000041><03:9>b1 smile<03:5>NONE<01:00000002><03:104>Mmm... Que chá bom! E bebê-lo em
 uma boa xícara de porcelana dessas
 faz ele ficar ainda mais saboroso.
 !******************************!
 [t30_051_200.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:102>Tenho que dizer que é um milagre
-você conseguiu degustar o chá num
+você conseguir degustar o chá num
 lugar fedorento que nem esse.
 !******************************!
 [t30_051_300.gds]
-<01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:244>Eu amo alho, no entanto. É um
-alimento maravilhoso! Ah, e nem
-me fale no bem que ele faz!<W>
+<01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:244>Eu amo alho! É um alimento
+maravilhoso! Ah, e nem me fale sobre
+o bem que ele faz!<W>
 !------------------------------!
 Aqui, veja só essa amostra aqui.
 Guardo isso comigo há 10 anos.<W>
@@ -1075,10 +1075,10 @@ Não vá estragar o chá!
 <01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:9>Ugghh...
 !******************************!
 [t30_130_200.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:29>O que parece estar lhe afligindo?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:29>O que está sentindo, meu bom homem?
 !******************************!
 [t30_130_300.gds]
-<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:171>Todo dia eu fico de pé aqui por horas
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:171>Todo dia eu fico em pé aqui por horas
 e horas. Todo esse tempo em pé faz
 meus joelhos rangerem adoidado.<W>
 !------------------------------!
@@ -1122,8 +1122,8 @@ do duque e sua noiva costumavam
 vir aqui.<W>
 !------------------------------!
 Quando você tem clientes desse
-naipe, o serviço tem que estar
-perfeito assim que eles aparecem.
+naipe, o serviço tem que ser
+perfeito todo o tempo.
 !******************************!
 [t30_131_200.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:30>Uau, a elite de Folsense, hein?

@@ -33,7 +33,7 @@ e vocês simplesmente resolvem
 desistir?<W> Eu, hein.
 !******************************!
 [t24_020_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:24>Mas que flor elegante!
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:24>Mas que bela flor!
 !******************************!
 [t24_020_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:23>E tem um cheirinho tão bom!
@@ -82,8 +82,8 @@ completamente...
 !******************************!
 [t24_023_400.gds]
 <01:00000001><03:9>b1 smile<03:10>b1 normal<01:00000002><03:170>Ah, sim. Aquelas que o fiscal do trem
-deixou para nós em nossas cabines.
-Realmente, eram muito calmantes.<W>
+deixou para nós em nossas cabines
+passavam uma sensação de paz.<W>
 !------------------------------!
 Hmm... Mas é claro! Estava tão
 óbvio... Não sei como não pensei

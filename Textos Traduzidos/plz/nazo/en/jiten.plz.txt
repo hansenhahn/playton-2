@@ -107,7 +107,7 @@ Recepção do Hotel
 Quarto do Hotel
 !******************************!
 [p_39.txt]
-Passarela
+Travessa
 !******************************!
 [p_4.txt]
 Corredor do Prédio

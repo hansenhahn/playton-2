@@ -41,12 +41,12 @@ um filme de terror.
 !******************************!
 [t14_040_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:182>Também acho este lugar perturbador,
-mas não podemos deixar isso atrapalhar
-nossa investigação.<W>
+mas não podemos deixar que isso
+atrapalhe a nossa investigação.<W>
 !------------------------------!
-Quem sabe que informações
-valiosas sobre a Caixa Elísia
-poderemos encontrar aqui?
+Quem sabe que informações valiosas
+sobre a Caixa Elísia poderemos
+encontrar aqui?
 !******************************!
 [t14_050_100.gds]
 <01:00000005><03:10>b1 notalk<03:5>NONE<01:00000006><03:7>Ugh...
@@ -186,7 +186,7 @@ a nossa investigação.
 seguir em frente.
 !******************************!
 [t14_100_100.gds]
-<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:263>Bem vindos a Folsense, onde grandes
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:263>Bem-vindos a Folsense, onde grandes
 sonhos se tornam realidade!<W>
 !------------------------------!
 Quer ficar podre de rico?<W> Em Folsense,
@@ -225,7 +225,7 @@ E aí, curtiram a história?
 [t14_100_400.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:158>Bastante. Contudo, não estamos aqui
 pelo tesouro. Na verdade, estamos atrás
-de um item chamado Caixa Elísia.<W>
+de um objeto chamado Caixa Elísia.<W>
 !------------------------------!
 Outro nome possível para ele
 é Caixa de Pandora.
@@ -233,14 +233,14 @@ Outro nome possível para ele
 [t14_100_500.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:76>Caixa de Pandora? Não é o nome
 de uma novela? Pra ser sincero, não
-tenho como ajudar vocês.
+sei como ajudar vocês.
 !******************************!
 [t14_101_500.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:38>Não, não consigo ajudar vocês.
 !******************************!
 [t14_110_100.gds]
 <01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:164>Guarde minhas palavras, Samuel.
-Está aqui, nesta cidade. Tenho
+Está aqui nesta cidade. Tenho
 certeza disso.<W>
 !------------------------------!
 Vasculhe cada centímetro deste
@@ -267,8 +267,7 @@ dizer alguma coisa sobre ele?
 !******************************!
 [t14_110_1400.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:60>Excelente ideia, Luke. Vamos
-começar nossa investigação
-por lá.
+começar nossa investigação por lá.
 !******************************!
 [t14_110_200.gds]
 <01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:138>Ah, qualé, Tio! Nem tudo o que
@@ -307,7 +306,7 @@ pode ser aquilo?
 [t14_110_800.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Parece ser um estranho tipo de livro.
 Acredito que alguém deixou ele cair
-enquanto andava pela cidade.
+enquanto caminhava pela cidade.
 !******************************!
 [t14_110_900.gds]
 <01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:60>Cruzes! Dá só uma olhada no
@@ -343,8 +342,8 @@ terei encontrado também o culpado.
 !******************************!
 [t14_130_300.gds]
 <01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:95>Uau, essa linha de raciocínio faz sentido!
-Não pensei que o Inspetor Chelmey
-fosse tão esperto.
+Não pensei que o Inspetor Chelmey fosse
+tão esperto.
 !******************************!
 [t14_130_400.gds]
 <01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:32>Ahn? Disse alguma coisa, menino?
@@ -354,7 +353,7 @@ fosse tão esperto.
 !******************************!
 [t14_130_600.gds]
 <01:00000006><03:9>b1 laugh<03:5>NONE<01:00000001><03:146>Bom, porque não tenho tempo
-para papo furado.<W>
+pra papo furado.<W>
 !------------------------------!
 Tenho que capturar um assassino
 e voltar pra Londres. Barton,
@@ -1042,7 +1041,7 @@ depois de escurecer. Dá um trabalho!<W>
 Não é pra menos que todos na
 cidade parecem tão tristes.<W>
 !------------------------------!
-Bom, mais um motivo para eu trazer
+Bom, mais um motivo pra eu trazer
 um pouquinho de alegria pras vidas
 deles com as correspondências.
 !******************************!
@@ -1056,14 +1055,14 @@ a cumprir.<W> Dito isso, hora de
 seguir com o trabalho. Até mais!
 !******************************!
 [t14_380_600.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:82>Ao que parece o nosso amigo
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:82>Ao que parece, o nosso amigo
 carteiro cobre uma vasta área
 em seu ofício.
 !******************************!
 [t14_380_700.gds]
 <01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:130>Mas como ele consegue entregar
 cartas em Dropstone e Folsense
-em um só dia, todo dia?<W>
+num só dia, todos os dias?<W>
 !------------------------------!
 As duas cidades ficam tão longe
 uma da outra, que isso é impossível!
@@ -1096,7 +1095,7 @@ depois de escurecer. Dá um trabalho!<W>
 Não é pra menos que todos aqui
 parecem tão tristes.<W>
 !------------------------------!
-Bom, mais um motivo para eu trazer
+Bom, mais um motivo pra eu trazer
 um pouquinho de alegria pras vidas
 deles com estas correspondências.<W>
 !------------------------------!
@@ -1496,7 +1495,7 @@ seu preguiçoso!
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:104>Ei! É a moça que a gente
 viu na estação de Dropstone.<W>
 !------------------------------!
-Qual era o nome dela mesmo? Katie?<W>
+Qual era o nome dela mesmo? Kitie?<W>
 Não, não era esse...
 !******************************!
 [t14_480_1300.gds]

@@ -5,13 +5,13 @@ Este enigma é um dos clássicos. Siga as
 regras abaixo para completá-lo. Mova
 qualquer uma das bolinhas do tabuleiro,
 cumprindo as condições abaixo:
-<60>Para mover uma bolinha, você precisa saltar
+<60> Para mover uma bolinha, você precisa saltar
 sobre outra, sempre na horizontal ou na
 vertical, terminando em um espaço vazio.
 Não pode saltar nas diagonais.
-<60>Quando você saltar sobre outra bolinha,
+<60> Quando você saltar sobre outra bolinha,
 esta desaparecerá do tabuleiro.
-<60>O enigma acaba quando todas as bolinhas
+<60> O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
 OK, tá bom de tanta regra. Tente resolver.
@@ -51,13 +51,13 @@ Aqui temos uma variação diferente de Resta
 Um, mas as regras são as mesmas. Mova
 qualquer uma das bolinhas do tabuleiro,
 cumprindo as condições abaixo:
-<60>Para mover uma bolinha, você precisa saltar
+<60> Para mover uma bolinha, você precisa saltar
 sobre outra, sempre na horizontal ou na
 vertical, terminando em um espaço vazio.
 Não pode saltar nas diagonais.
-<60>Quando você saltar sobre outra bolinha,
+<60> Quando você saltar sobre outra bolinha,
 esta desaparecerá do tabuleiro.
-<60>O enigma acaba quando todas as bolinhas
+<60> O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
 OK, tá bom de tanta regra. Tente resolvê-lo.
@@ -99,13 +99,13 @@ Hmm, agora tá ficando mais difícil.
 Você pode mover qualquer bolinha no
 tabuleiro abaixo, desde que satisfaça
 as seguintes condições:
-<60>Para mover uma bolinha, você precisa saltar
+<60> Para mover uma bolinha, você precisa saltar
 sobre outra, sempre na horizontal ou na
 vertical, terminando em um espaço vazio.
 Não pode saltar nas diagonais.
-<60>Quando você saltar sobre outra bolinha,
+<60> Quando você saltar sobre outra bolinha,
 esta desaparecerá do tabuleiro.
-<60>O enigma acaba quando todas as bolinhas
+<60> O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
 OK, tá bom de tanta regra. Tente resolvê-lo.
@@ -157,13 +157,13 @@ o resto é realmente com você.
 Você já manja desse enigma. Pode mover
 qualquer bolinha no tabuleiro abaixo, desde
 que satisfaça as seguintes condições:
-<60>Para mover uma bolinha, você precisa saltar
+<60> Para mover uma bolinha, você precisa saltar
 sobre outra, sempre na horizontal ou na
 vertical, terminando em um espaço vazio.
 Não pode saltar nas diagonais.
-<60>Quando você saltar sobre outra bolinha,
+<60> Quando você saltar sobre outra bolinha,
 esta desaparecerá do tabuleiro.
-<60>O enigma acaba quando todas as bolinhas
+<60> O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
 OK, tá bom de tanta regra. Tente resolvê-lo.
@@ -216,13 +216,13 @@ Pode ir se preparando, porque esse aqui vai
 ser difícil. Tal como antes, você pode mover
 qualquer bolinha no tabuleiro abaixo, desde
 que satisfaça as condições a seguir:
-<60>Para mover uma bolinha, você precisa saltar
+<60> Para mover uma bolinha, você precisa saltar
 sobre outra, sempre na horizontal ou na
 vertical, terminando em um espaço vazio.
 Não pode saltar nas diagonais.
-<60>Quando você saltar sobre outra bolinha,
+<60> Quando você saltar sobre outra bolinha,
 esta desaparecerá do tabuleiro.
-<60>O enigma acaba quando todas as bolinhas
+<60> O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
 OK, tá bom de tanta regra. Tente resolvê-lo.
@@ -415,10 +415,10 @@ da coleira e ele corre até o pai. Quando
 chega, o cachorro, então, se vira e vai até
 a garotinha. O cachorro segue fazendo isso
 até que o pai alcança a filha. Se o cachorro
-se move cinco metros por segundo; o pai,
-dois metros por segundo; e a filha, um metro
-por seguindo; qual será a distância que o
-cachorro terá percorrido  até o pai
+se move a cinco metros por segundo, o pai a
+dois metros por segundo, e a filha a um metro
+por segundo, qual será a distância que o
+cachorro terá percorrido até o pai
 finalmente alcançar a filha?
 !******************************!
 Perfeito!
@@ -429,8 +429,8 @@ total.
 O cachorro corre durante todo o tempo
 necessário para o pai alcançar sua filha. 
 Visto que a filha tem uma vantagem de 10
-metros no começo e o pai dela vai aos poucos
-se aproximando dela numa taxa de um metro
+metros no começo e o pai vai aos poucos se
+aproximando dela numa velocidade de um metro
 por segundo, ele a alcançará em 10 segundos.
 O cachorro está correndo a uma velocidade
 de cinco metros por segundo, então a
@@ -445,23 +445,23 @@ Enigmas com explicações longas geralmente
 escondem pegadinhas em seu enunciado.
 Tente não cair nelas.
 
-O pai se move 2 metros por segundo e a
-filha, um metro por segundo; portanto
+O pai se move a 2 metros por segundo e a
+filha a um metro por segundo, portanto
 para cada segundo que passa, a distância
 entre os dois diminui um metro.
 !******************************!
 O pai sai 10 segundos depois de sua filha.
-A filha caminha em uma taxa de um metro
+A filha caminha a uma velocidade de um metro
 por segundo, então ela já está 10 metros
 na frente de seu pai quando este começa
 a andar.
 
 Usando o que você sabe desta dica e da
-anterior, deve já ser possível descobrir
+anterior, já deve ser possível descobrir
 que o pai alcança a filha dele em 10
 segundos.
 !******************************!
-O cachorro corre a uma taxa de
+O cachorro corre a uma velocidade de
 cinco metros por segundo.
 
 O pai alcança sua filha em exatamente
@@ -700,7 +700,7 @@ A recebeu seis moedas e B, três.
 Você pode ter tido vontade de responder
 cinco e seis moedas respectivamente, mas,
 como mostrado acima, isso não é o correto.
-Ambos A e B tiveram que trabalharam três
+Tanto A quanto B tiveram que trabalhar três
 dias para terminar suas partes do trabalho.
 Visto que C queria pagar a A e B por todo o
 trabalho que fizeram por ele, ele tinha que
@@ -978,15 +978,15 @@ mover esse entulho pra lata de lixo!
 [n119.dat]
 <0119>As Moedas Falsas
 <00><1E><1B><18><11><3B><16><77><F6><03><04><FF>
-Há dez moedas em cada uma das cinco sacos
-abaixo. Um desses sacos está cheia de moeda
+Há dez moedas em cada um dos cinco sacos
+abaixo. Um desses sacos está cheio de moeda
 falsas que são mais leves do que as de
 verdade. Uma moeda de verdade pesa dez
 gramas, mas uma falsa pesa uma grama a
 menos. Se você estiver usando uma balança
 que registra até 200 gramas, qual seria o
 menor número de vezes que se poderia usá-la
-para achar o saco cheia de moedas falsas?
+para achar o saco cheio de moedas falsas?
 !******************************!
 Você conseguiu!
 
@@ -1071,10 +1071,10 @@ edifício tem as letras do alfabeto
 escondidas em suas vidraças e portas.
 !******************************!
 [n61.dat]
-<0062>Cheire as Rosas Novamente
+<0062>Cheire as Rosas 2
 <00><28><24><20><12><26><18><3D><FE><03><04><FF>
 Ah, nada cheira tão bem quanto rosas
-recém-cortadas. Consegue perfumar a sala
+recém cortadas. Que tal perfumar a sala
 com sua fragrância?
 
 Toque em um quadrado com a caneta stylus
@@ -1090,7 +1090,7 @@ uma rosa existente para removê-la.
 Humm!
 
 Com essas rosas no lugar, a sala
-toda possui uma fragrância formidável!
+vai ter um cheiro formidável!
 !******************************!
 Que pena!
 
@@ -1393,11 +1393,11 @@ resposta com um simples cálculo.
 [n67.dat]
 <0068>Etiqueta de Chapéu
 <00><19><16><13><11><2A><22><43><EB><03><04><2A>
-Tendo em vista que o Félix lhe pediu para
+Tendo em vista que o Felix lhe pediu para
 entregar um chapéu, você consegue
 encontrar um outro chapéu perdido no
-padrão abaixo? O chapéu pelo qual está
-procurando será do mesmo formato e
+padrão abaixo? O chapéu pelo qual você
+está procurando é do mesmo formato e
 tamanho como o de cor preta mostrado
 abaixo, mas pode não estar virado para
 a mesma direção que o chapéu de exemplo.
@@ -1409,7 +1409,7 @@ Mandou bem!
 
 Bom trabalho em encontrar o chapéu
 escondido! Agora o professor tem que
-dar o chapéu ao Félix!
+dar o chapéu ao Felix!
 !******************************!
 Que pena!
 
@@ -2244,7 +2244,7 @@ em cima de uma pequena.
 Você pode usar o prato do centro e mover
 as panquecas quantas vezes você quiser.
 !******************************!
-Quentinha e recém-saída do forno!
+Quentinha e recém saída do forno!
 
 Agora a única dúvida é: que molho colocar
 em cima das panquecas!
@@ -2459,7 +2459,7 @@ não siga esse conselho tão literalmente.
 O sapo terá que retroceder duas vezes.
 !******************************!
 [n88.dat]
-<0089>Festa nos Canteiros de Flores
+<0089>Canteiros de Flores
 <00><28><24><20><11><29><16><58><F6><03><04><1A>
 Neste jardim, temos quatro canteiros de
 flores de formato circular, cada um com um

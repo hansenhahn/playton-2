@@ -23,7 +23,7 @@ seu objetivo.
 !******************************!
 [msg_nrm_start.txt]
 Nível de Malhação: %d
-Passos pro Próximo Nível: %d
+Passos para o Próximo Nível: %d
 !******************************!
 [msg_slm_clear.txt]
 %s quebrou seu recorde

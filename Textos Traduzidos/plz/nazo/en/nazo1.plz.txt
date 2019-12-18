@@ -2317,11 +2317,11 @@ A resposta está mais clara agora?
 Para conseguir passar por essa porta,
 Luke e Layton devem organizar os símbolos
 de acordo com as seguintes regras:
-<60>A estrela deve estar próxima da lua.
-<60>O X deve ser o segundo de cima para baixo.
-<60>O círculo deve estar em algum lugar
+<60> A estrela deve estar próxima da lua.
+<60> O X deve ser o segundo de cima para baixo.
+<60> O círculo deve estar em algum lugar
 acima do diamante.
-<60>A lua deve estar localizada duas casas
+<60> A lua deve estar localizada duas casas
 abaixo do diamante.
 
 Vamos, tente você mesmo!
@@ -2364,11 +2364,11 @@ você terá símbolos o suficiente para
 resolver o resto desse enigma facilmente.
 !******************************!
 [n56.dat]
-<0057>Cheire as Rosas
+<0057>Cheire as Rosas 1
 <00><1E><1B><18><11><0D><18><38><FE><03><02><FF>
 Ah, não há nada como uma rosa recém
 cortada para revigorar a alma. Você
-Consegue ajudar o Sammy a espalhar a
+consegue ajudar o Sammy a espalhar a
 fragrância das rosas por toda a cabine?
 
 Toque um quadrado com sua caneta stylus

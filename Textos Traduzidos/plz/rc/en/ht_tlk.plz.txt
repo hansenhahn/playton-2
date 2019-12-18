@@ -77,7 +77,7 @@ quentinho por dentro agora!
 !******************************!
 [ht_004_0.txt]
 Aah, tem pimenta! Minha boca
-todinha tá pegando fogo, bicho!
+tá pegando fogo, Professor!
 !******************************!
 [ht_004_1.txt]
 Sim, tem uma dose bem forte de
@@ -86,7 +86,7 @@ apimentado, sem dúvidas.
 !******************************!
 [ht_004_2.txt]
 Até meio que gostei. Tá me fazendo
-sentir bem alegre. Quando eu tiver
+sentir bem alegre. Quando eu estiver
 triste, já sei o que tomar.
 !******************************!
 [ht_004_3.txt]
@@ -336,7 +336,7 @@ desse chá!
 !******************************!
 [ht_106_1.txt]
 Talvez tenhamos inventado sem
-querer um chá que nunca devia
+querer um chá que nunca deviria
 ter existido.
 !******************************!
 [ht_106_2.txt]
@@ -646,7 +646,7 @@ que eu gosto, vou devolver. E não
 se esqueça da Flor de Sonho nele.
 !******************************!
 [ht_hint_22.txt]
-Quero um cha que seja revigorante
+Quero um chá que seja revigorante
 e bom pra curar as mazela. Tem que
 ser forte e defumado, OK?
 !******************************!

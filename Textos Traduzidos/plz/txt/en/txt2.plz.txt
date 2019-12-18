@@ -324,8 +324,8 @@ O professor e Luke decidem verificar
 o interior do apartamento do doutor.
 !******************************!
 [next_350.txt]
-O professor e Luke decidem subir
-para seus quartos de hotel.
+O professor e Luke decidem voltar
+para seu quarto no hotel.
 !******************************!
 [next_360.txt]
 O professor e Luke decidem procurar

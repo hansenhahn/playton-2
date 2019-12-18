@@ -748,7 +748,7 @@ caninos. Bom, vão buscar a solução
 deste enigma! Hi hi hi hi!
 !******************************!
 [t24_492_100.gds]
-<01:00000045><03:9>b1 smlie<03:5>NONE<01:00000003><03:144>Tá, sei que você estão se esforçando
+<01:00000045><03:9>b1 smlie<03:5>NONE<01:00000003><03:144>Tá, sei que vocês estão se esforçando
 pelo menos, mas é melhor que fiquem
 só na cidade.<W>
 !------------------------------!

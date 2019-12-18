@@ -340,14 +340,13 @@ da estação de trem?
 !******************************!
 [id_8.txt]
 Parece que o Sr. Beluga está fazendo
-Sammy trabalhar feito um condenado,
-fazendo-o vasculhar toda a cidade
-em busca de um item desconhecido.
-Não se sabe por que Beluga criou uma
-linha férrea secreta entre Dropstone
-e Folsense, mas está claro que o que
-ele procura é muito importante.
-O que poderia ser?
+o Sammy trabalhar feito um condenado,
+fazendo-o vasculhar a cidade em busca
+de um objeto desconhecido. Não se sabe
+por que Beluga criou uma linha férrea
+secreta entre Dropstone e Folsense,
+mas está claro que o que ele procura
+é muito importante. O que pode ser?
 !******************************!
 [id_9.txt]
 Circulam boatos de que um vampiro
@@ -438,7 +437,7 @@ a flor
 a lâmpada
 !******************************!
 [ham_6.txt]
-a caixa-de-surpresas
+a caixa-surpresa
 !******************************!
 [ham_7.txt]
 a caixa de areia
@@ -857,12 +856,12 @@ Tenho vergonha por não ter percebido
 que havia um impostor tão perto de
 mim. E a pobrezinha da Flora, digo,
 a verdadeira Flora, foi deixada em
-algum galpão lá em Dropstone. Preciso
-resolver esse caso rapidamente, e
+algum celeiro lá em Dropstone. Preciso
+resolver esse caso rapidamente e
 voltar a Dropstone para buscá-la.
 !******************************!
 [d_39.txt]
-Quando estava fugindo do inspetor
+Quando estava fugindo do Inspetor
 Chelmey, Don Paolo deixou a Caixa
 Elísia para trás. Devo confessar que
 não imaginei que a caixa chegaria tão
@@ -3202,7 +3201,7 @@ que carregava consigo,
 ela deixou para trás sua
 vida em Folsense, para
 começar uma nova vida no
-recém-fundado vilarejo
+recém fundado vilarejo
 de Dropstone.
 De natureza gentil e
 sincera, ela era amada
