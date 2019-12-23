@@ -480,7 +480,7 @@ bonitão que encontro na rua.<W>
 !------------------------------!
 Ooh! Mas você é um senhor galanteador,
 não é? Charmoso, elegante e ainda por
-cima tão cavalheiro.<W>
+cima um cavalheiro e tanto.<W>
 !------------------------------!
 Prove que você tem um cérebro por
 trás desse rostinho lindo e talvez eu
@@ -595,7 +595,7 @@ pode-se perceber que não estão em
 ordem cronológica.<W>
 !------------------------------!
 Acha que consegue reorganizá-las
-para voltarem à ordem em que deviam
+para voltarem à ordem em que deveriam
 estar expostas?
 !******************************!
 [t24_121_100.gds]
@@ -622,7 +622,7 @@ essas fotos são tão antigas assim,
 por que parecem tão novas?
 !******************************!
 [t24_123_400.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:60>Agora que o você falou, é verdade...
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:60>Agora que você falou, é verdade...
 Elas parecem bem recentes.
 !******************************!
 [t24_123_500.gds]

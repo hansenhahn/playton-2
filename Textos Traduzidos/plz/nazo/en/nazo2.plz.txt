@@ -885,7 +885,7 @@ casais. Na foto, nenhum dos homens está
 diretamente acima de sua esposa. Das três
 mulheres presentes, duas são irmãs e estão
 sentadas uma perto da outra. O marido da
-irmã mais velha é o homem sem um bigode.
+irmã mais velha é o homem sem bigode.
 Todos no retrato estão usando um chapéu,
 salvo o marido da irmã mais nova. A mulher
 sem parentesco com as outras duas está
@@ -898,7 +898,7 @@ irmãs? Escolha entre A, B ou C.
 Bom trabalho!
 
 A resposta é B. Encontrar a resposta 
-para este caso só exigia uma leitura atenta.
+para este caso só exige uma leitura atenta.
 
 Você sabe que o marido da irmã mais velha
 não tem bigode, então ele tem de ser o A.
@@ -908,7 +908,7 @@ C. Com essas duas escolhas eliminadas, a
 resposta fica clara.
 
 Ah, e caso tenha dúvida, a irmã mais velha é
-a E, a mais nova, D, e a esposa do B, F.
+a E, a mais nova é D, e F é a esposa do B.
 !******************************!
 Que pena!
 
@@ -1494,7 +1494,7 @@ cortes?<''>
 !******************************!
 Está certo!
 
-Cada conjunto de joias valem <po>2,600.
+Cada conjunto de joias vale <po>2,600.
 Nada mau!
 !******************************!
 Que pena!
@@ -1589,13 +1589,13 @@ Então, qual seria o valor de X?
 <0072>Fotos Embaralhadas
 <00><23><1F><1B><12><2B><10><47><F6><03><04><09>
 Quatro fotografias decoram a parede do
-estúdio fotográfico do Joseph. Cada foto
-retrata a mesma área  e foi tirada
+estúdio fotográfico do Joseph. As fotos
+retratam a mesma área e foram tiradas
 exatamente no mesmo período do dia.
-Todavia cada foto foi tirada em datas
+Todavia, cada foto foi tirada em datas
 diferentes, e, se olhar atentamente, você
-pode ser capaz de descobrir em qual cada
-uma foi tirada. Insira sua resposta usando
+será capaz de descobrir em qual ordem elas
+foram tiradas. Insira sua resposta usando
 as letras ligadas a cada imagem, começando
 pela que for a mais cedo, como: ABCD.
 !******************************!
@@ -1603,15 +1603,16 @@ Olhos de águia!
 
 A ordem correta é CDBA.
 
-Em C, a iluminação pública ainda estavam
-para ser consolidada, mas em D ela já foi
-finalizada. Em B há um novo edifício na parte
-de trás da imagem e a janela do restaurante
-está quebrada. Finalmente, em A, a janela
-quebrada vista em B foi consertada e algumas
-luzes do letreiro do restaurante queimaram.
-Além disso, a porta do estúdio fotográfico
-foi pintada de uma cor diferente.
+Em C, a iluminação pública ainda estava
+para ser implementada, mas em D ela já
+foi finalizada. Em B, há um novo edifício
+na parte de trás da imagem e a janela do
+restaurante está quebrada. Finalmente,
+em A, a janela quebrada vista em B foi
+consertada e algumas luzes do letreiro do
+restaurante queimaram. Além disso, a porta
+do estúdio fotográfico foi pintada de
+uma cor diferente.
 !******************************!
 Que pena!
 

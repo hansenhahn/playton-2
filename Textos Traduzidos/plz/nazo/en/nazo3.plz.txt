@@ -359,26 +359,26 @@ objetivo em ordem de alcançá-lo!
 <00><28><24><20><11><3D><05><81><EB><03><04><FF>
 Em um canto da floresta vive uma toupeira
 desleixada bem peculiar. Sua toca está tão
-cheia de lixo que ele finalmente quis arrumar.
-Entretanto, por ser preguiçoso, ele decide
-limpar o lugar enquanto faz a mínima
-quantidade de trabalho possível.
+cheia de lixo que ela finalmente decide
+limpá-la. Entretanto, por ser preguiçosa,
+ele decide limpar o lugar fazendo o mínimo
+esforço possível.
 Para poder pegar todo o lixo em sua toca
 sem passar por nenhum dos túneis duas
 vezes, por qual dos buracos de A até G
 a toupeira deveria começar a limpar?
 Embora passar por qualquer túnel duas
 vezes é proibido, ela pode passar por
-qualquer junção entre túneis quantas
+quaisquer junções entre túneis quantas
 vezes ele quiser.
 !******************************!
 Bom trabalho!
 
-Nosso amiga preguiçosa deveria começar sua
+Nossa amiga preguiçosa deveria começar sua
 limpeza pelo buraco C. Começar sua faxina
-por qualquer outro buraco irá causá-la
-ir em algum outro túnel pelo menos mais
-de uma vez até terminar o trabalho.
+por qualquer outro buraco fará ela passar
+pelos túneis mais de uma vez até terminar
+o trabalho.
 !******************************!
 Que pena!
 

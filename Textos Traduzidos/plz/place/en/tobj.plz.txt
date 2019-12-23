@@ -95,7 +95,8 @@ Duke Herzen.
 !******************************!
 [tobj116.txt]
 Esse é o cartaz mais
-colorido de toda a cidade.
+colorido de toda
+a cidade.
 !******************************!
 [tobj117.txt]
 O que essa engenhoca
@@ -170,7 +171,7 @@ Espero que isso não
 seja parte da alavanca!
 !******************************!
 [tobj131.txt]
-Pra quê será que
+Pra que será que
 esse interruptor serve?
 !******************************!
 [tobj132.txt]
@@ -330,7 +331,7 @@ que passa por baixo da
 torre.
 !******************************!
 [tobj165.txt]
-Me pergunto pra quê
+Me pergunto pra que
 essa câmera enorme
 é usada.
 !******************************!
@@ -340,9 +341,9 @@ cheia de câmeras
 bastante antigas.
 !******************************!
 [tobj167.txt]
-Não é difícil de andar
-por aqui se você tiver
-cuidado.
+Não é difícil andar
+por aqui se você
+tiver cuidado.
 !******************************!
 [tobj168.txt]
 Isso parece algo que
@@ -431,7 +432,7 @@ Será que isso foi
 retirado da mina?
 !******************************!
 [tobj185.txt]
-Pra quê será que
+Pra que será que
 serve esse remédio?
 !******************************!
 [tobj186.txt]

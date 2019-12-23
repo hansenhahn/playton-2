@@ -846,7 +846,7 @@ este enigma pra passar o tempo?
 de novo?
 !******************************!
 [t21_122_100.gds]
-<01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:108>Caramba! Quase cai de tanto tédio.<W>
+<01:00000028><03:10>b1 normal<03:5>NONE<01:00000003><03:108>Caramba! Quase caí de tanto tédio.<W>
 Este emprego paga bem, mas é chato
 de doer.
 !******************************!
@@ -1021,7 +1021,7 @@ um sapato, vai ser como procurar
 uma agulha em um palheiro.
 !******************************!
 [t21_160_300.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:65>Luke e eu ficariámos felizes em
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:65>Luke e eu ficaríamos felizes em
 oferecer nossa ajuda neste caso.
 !******************************!
 [t21_160_400.gds]

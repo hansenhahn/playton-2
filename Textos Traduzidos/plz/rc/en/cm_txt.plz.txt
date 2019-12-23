@@ -1,6 +1,6 @@
 [msg_cam.txt]
 Você montou a câmera!
-Agora pode bater fotos!
+Agora você pode tirar fotos!
 !******************************!
 [msg_pht1.txt]
 Você achou a primeira diferença

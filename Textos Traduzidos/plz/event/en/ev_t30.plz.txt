@@ -183,10 +183,10 @@ me prometeram.
 !******************************!
 [t30_020_100.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:58>Está tudo bem com você, madame?
-Parece estar fatigada.
+Você parece estar cansada.
 !******************************!
 [t30_020_200.gds]
-<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:173>Aah, estava presa em meu próprio
+<01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:173>Aah, eu estava presa em meu próprio
 mundinho, amor.<W>
 !------------------------------!
 Perdão, querido, mas estou um
@@ -217,8 +217,8 @@ xícara de chá. O que me diz?
 !******************************!
 [t30_020_600.gds]
 <01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:217>Aaah, você é um homem preocupado
-com meu coração. Estou desejando
-uma xícara de chá!<W>
+com meu coração. Bem que eu gostaria
+de uma xícara de chá!<W>
 !------------------------------!
 Preciso de algo que me anime, depois
 do dia que tive. Poderia fazer algo
@@ -993,14 +993,14 @@ que possa preparar para mim?
 [t30_120_300.gds]
 <01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:76>O fantasma, é claro! Um deles
 acabou de passar por aqui
-flutuando e falando <''>bú<''>! Eu juro!
+flutuando e falando <''>bu<''>! Eu juro!
 !******************************!
 [t30_120_400.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:29>Droga. Acho que perdi ele.
 !******************************!
 [t30_120_500.gds]
 <01:0000003B><03:9>b1 smile<03:5>NONE<01:00000002><03:179>É a décima segunda vez hoje que ele
-apareceu. Esse deve ser o melhor
+aparece. Esse deve ser o melhor
 ponto pra observar fantasmas.<W>
 !------------------------------!
 Estive aqui por horas! É tudo tão
@@ -1038,14 +1038,14 @@ esse chá tem. Bom trabalho!
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:23>Que bom que você gostou.
 !******************************!
 [t30_121_300.gds]
-<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:168>Ah é. Estava ótimo.<W>
+<01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:168>Ah é! Estava ótimo!<W>
 !------------------------------!
 Me deixem agradecer vocês dizendo
 por onde andam todos os fantasmas
 mais horríveis da cidade.<W>
 !------------------------------!
-Fonsense é bem farta de pontos
-para observar fantasmas!
+Folsense é rica em pontos
+pra observar fantasmas!
 !******************************!
 [t30_121_400.gds]
 <01:00000002><03:8>b4 weep<03:5>NONE<01:00000003><03:55>Obrigado pela oferta, mas já

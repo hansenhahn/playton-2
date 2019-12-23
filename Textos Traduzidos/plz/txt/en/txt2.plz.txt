@@ -394,7 +394,7 @@ procurar pelo elusivo Sr. Anderson.
 !******************************!
 [next_54.txt]
 O professor e Luke decidem visitar
-o vagão-restaurante uma segunda vez.
+o vagão-restaurante pela segunda vez.
 !******************************!
 [next_58.txt]
 O professor e Luke decidem retornar
@@ -542,8 +542,8 @@ pedaços para encontrar!
 !******************************!
 [tx_213.txt]
 Você tirou uma fotografia
-deste local. Algo sobre
-ela parece estranho...
+deste local. Alguma coisa
+nela parece estranho...
 !******************************!
 [tx_214.txt]
 Use o jogo da Câmera na

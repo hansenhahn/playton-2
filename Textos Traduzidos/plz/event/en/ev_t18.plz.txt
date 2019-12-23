@@ -758,7 +758,7 @@ e o lugar de verdade.<W>
 O lugar de verdade fica à mostra na
 tela de cima.<W>
 !------------------------------!
-Toque em lugares que suspeitos para
+Toque em lugares suspeitos para
 marcá-los com um círculo e depois toque
 no botão #rAqui!#x para dar sua resposta.<W>
 !------------------------------!

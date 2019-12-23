@@ -508,11 +508,11 @@ Deve estar fechado.
 !******************************!
 [t14_160_300.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:174>Eu esperava encontrar alguma informação
-útil lá dentro, mas não há sentido ficar
-aqui fora parado esperando.<W>
+útil lá dentro, mas não há sentido em
+ficar aqui fora parado esperando.<W>
 !------------------------------!
-Por enquanto, vamos continuar nossa
-investigação em outro lugar.
+Por enquanto, vamos seguir com
+nossa investigação em outro lugar.
 !******************************!
 [t14_161_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:39>Que saco, o portão ainda está
@@ -534,7 +534,7 @@ dar uma olhada naquele portão.
 [t14_170_400.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:99>Se perdermos enigmas pelo caminho
 durante nossa jornada, saberemos
-onde ir, não é, Luke?
+aonde ir, não é, Luke?
 !******************************!
 [t14_175_100.gds]
 <01:0000000F><03:6>shout<03:5>NONE<01:00000003><03:168>Ahan, decidi montar acampamento
@@ -587,7 +587,7 @@ por aqui. Vamos procurar
 outro caminho.
 !******************************!
 [t14_190_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:8>...Hmm?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:8>... Hmm?
 !******************************!
 [t14_190_200.gds]
 <01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:104>Ahhh, Sr. Beluga, quanto tempo!
@@ -601,7 +601,7 @@ atrás daquela coisa, mas aquele menino
 [t14_190_400.gds]
 <01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:162>Ahh, acalme o coração, querido.
 Não vai querer que apareçam rugas nesse
-seu lindo sombrancelhão, né?<W><W>
+seu lindo sobrancelhão, né?<W><W>
 !------------------------------!
 Então, Sr. Bê, que tal entrar e
 se divertir um pouco?
