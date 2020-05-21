@@ -244,7 +244,7 @@ ver. Melhor não fazer isso de novo.
 !******************************!
 [ht_101_0.txt]
 Este chá tem um cheiro meio, bem,
-engraçado. Tem certeza que podemos
+engraçado. Tem certeza de que podemos
 beber isso, Professor?
 !******************************!
 [ht_101_1.txt]

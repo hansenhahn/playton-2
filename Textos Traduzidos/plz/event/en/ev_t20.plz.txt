@@ -300,7 +300,7 @@ por esta janela, e posso apostar que
 é o nosso culpado!
 !******************************!
 [t20_023_400.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:51>É uma brilhante teoria.
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:51>É uma brilhante hipótese.
 Muito bem, meu garoto.
 !******************************!
 [t20_023_500.gds]

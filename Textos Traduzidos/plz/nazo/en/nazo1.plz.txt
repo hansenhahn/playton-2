@@ -12,7 +12,7 @@ que, além de poder mover, você pode
 remover os pedaços, incluindo aquele que
 já está no centro do mapa.
 !******************************!
-Ótimo trabalho!
+Bom trabalho!
 
 Agora corra para o prédio do doutor!
 !******************************!
@@ -66,7 +66,7 @@ quatro tipos de árvores estão conectados
 em sequência.
 !******************************!
 Se você achar duas árvores do mesmo
-tipo conectadas umas as outras, então
+tipo conectadas umas às outras, então
 você deve separá-las por uma linha.
 
 Isso deve lhe ajudar a começar.
@@ -81,8 +81,8 @@ deve ter o formato de um L.
 A árvore no canto superior esquerdo
 e a que está à direita dela pertencem
 a diferentes pedaços. O mesmo se aplica
-a árvore no canto superior direito e
-aquela diretamente abaixo dela.
+à árvore no canto superior direito e
+àquela diretamente abaixo dela.
 
 Use essas dicas como ponto de partida
 para resolver o resto do enigma.
@@ -325,7 +325,7 @@ ficam claros e vice-versa.
 !******************************!
 Procurar por diferenças entre a imagem
 em preto e branco e cada uma das três
-imagens fará com que você eventualmente
+imagens fará com que você cedo ou tarde
 chegue à resposta. Contudo, há um jeito
 mais fácil.
 
@@ -910,7 +910,7 @@ homem no primeiro plano da pintura.
 !******************************!
 O detalhe que você procura tem a ver
 com o vagão do trem. No momento em
-que encontrá-lo, tenho certeza que
+que encontrá-lo, tenho certeza de que
 irá falar <''>Não tem como abrir isso
 assim!<''>.
 !******************************!
@@ -1020,7 +1020,7 @@ inunda a cuba, permitindo que a verdadeira
 data de fundação de Dropstone, 13/8, seja
 mostrada.
 
-O escultor distrído deve estar aliviado
+O escultor distraído deve estar aliviado
 agora que seu erro foi consertado.
 !******************************!
 Que pena!
@@ -1310,7 +1310,7 @@ em um longo e complexo buraco no chão!
 Na frente do passarinho há três caminhos
 rotulados A, B e C. Qual túnel o passarinho
 deve pegar para conseguir voltar para
-superfície?
+a superfície?
 !******************************!
 Muito bem!
 
@@ -1347,7 +1347,7 @@ ou para o covil da cobra.
 <0037>O Ás do Golfe
 <00><19><16><13><11><19><16><24><F6><03><03><FF>
 Um golfista profissional tem a incrível
-habilidade de tacar a bola à distâncias de
+habilidade de tacar a bola a distâncias de
 3, 5, 7 e 11 metros. Contudo, essas são as
 únicas distâncias que ele consegue tacar
 a bola.
@@ -1457,7 +1457,7 @@ Como aproveitar ao máximo este número
 limitado de travessias?
 !******************************!
 Primeiro, leve os cavalos de uma e duas
-horas ao ponto B e, então, retorna ao
+horas ao ponto B e, então, retorne ao
 ponto A no seu cavalo de uma hora.
 
 Em seguida, leve seus cavalos de quatro
@@ -2006,7 +2006,7 @@ Isso mesmo!
 As vacas A, C e E são Midira. Supondo
 que cada vaca possa ser uma Midira ou uma
 Vidadi e passando pelas afirmações de cada
-vaca,  você eventualmente perceberá que
+vaca,  você cedo ou tarde perceberá que
 todas as afirmações são verdadeiras apenas
 quando A, C e E são Midiras.
 !******************************!
@@ -2064,9 +2064,9 @@ De início, esse enigma pode parecer muito
 complicado, mas não é tão difícil assim.
 
 Se você não conseguir chegar em uma
-solução usando a lógica, apenas movas
+solução usando a lógica, apenas mova
 as panquecas de um lado para o outro e,
-eventualmente, você chegará a uma
+cedo ou tarde, você chegará a uma
 resposta.
 !******************************!
 Você vai estar quase lá quando
@@ -2190,8 +2190,8 @@ horário quanto no sentido anti-horário.
 Muito bem!
 
 Se você começar por esse homem e contar no
-sentido anti-horário, você irá eventualmente
-remover todos os retratos de mulheres.
+sentido anti-horário, cedo ou tarde você
+irá remover todos os retratos de mulheres.
 !******************************!
 Que pena!
 
@@ -2356,12 +2356,13 @@ espaço de cima para baixo.
 acima do diamante.<''>
 
 Se você combinar a condição acima com
-a informação da Dica 2, estará claro
-que o único lugar que você pode colocar
+a informação da Dica 2, estará claro que
+o único lugar em que você pode colocar
 o diamante é no terceiro espaço de cima
 para baixo. Assim que colocar o diamante,
-você terá símbolos o suficiente para
-resolver o resto desse enigma facilmente.
+você terá posicionado símbolos suficientes
+para resolver o resto desse enigma
+facilmente.
 !******************************!
 [n56.dat]
 <0057>Cheire as Rosas 1

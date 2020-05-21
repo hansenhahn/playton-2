@@ -165,7 +165,7 @@ preparou n„o È bem o que Derby
 est· atr·s.
 !******************************!
 [t30_012_100.gds]
-<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:145>D„„, tem certeza que esse È o
+<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:145>D„„, tem certeza de que esse È o
 ch· certo?<W>
 !------------------------------!
 Porque tava achando que fosse algo
@@ -575,7 +575,7 @@ preparou n„o È o que a Marina
 queria.
 !******************************!
 [t30_062_100.gds]
-<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:98>Hmm, tem certeza que esse ch· È
+<01:0000004C><03:10>b1 normal<03:5>NONE<01:00000003><03:98>Hmm, tem certeza de que esse ch· È
 bom pra resfriado? Acho que remÈdio
 tem gosto mais amargo que isso.
 !******************************!
@@ -663,7 +663,7 @@ pra ela.
 !******************************!
 [t30_072_100.gds]
 <01:00000045><03:10>b1 normal<03:5>NONE<01:00000003><03:85>Hm, minhas pernas a-ainda n„o
-param de tremer. Tem certeza que
+param de tremer. Tem certeza de que
 esse c-ch· que me deu funciona?
 !******************************!
 [t30_073_100.gds]

@@ -122,7 +122,7 @@ Praça da Torre
 Rua à Leste
 !******************************!
 [p_43.txt]
-Estúdio de Fotografia
+Estúdio Fotográfico
 !******************************!
 [p_44.txt]
 Restaurante

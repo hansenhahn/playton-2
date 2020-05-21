@@ -797,7 +797,7 @@ Não vão chegar a lugar algum mesmo!
 !******************************!
 [t11_260_150.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:84>Diga-me, você está de alguma
-forma próximo de revelar o mistério
+forma próximo de solucionar o mistério
 sobre a criança desaparecida?
 !******************************!
 [t11_260_200.gds]
@@ -977,7 +977,7 @@ eu fosse com vocês?
 !******************************!
 [t11_320_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:76>O vagão da Madame Babette está
-logo a frente. Vamos devolver seu
+logo à frente. Vamos devolver seu
 cachorro.
 !******************************!
 [t11_330_100.gds]
@@ -1293,7 +1293,7 @@ exige formalidades, não acha?
 [t11_440_100.gds]
 <01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:152>Oh, céus! Não precisa me olhar com
 tanta raiva. Não sabia que senhoras
-vem sempre em primeiro lugar?<W>
+vêm sempre em primeiro lugar?<W>
 !------------------------------!
 Especialmente senhoras de certa classe,
 como - aha ha ha - eu.

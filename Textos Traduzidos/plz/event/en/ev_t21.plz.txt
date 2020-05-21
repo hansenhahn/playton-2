@@ -84,7 +84,7 @@ dar uma olhada no mirante e voltaremos
 ao vagão-restaurante mais tarde.
 !******************************!
 [t21_013_200.gds]
-<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:21>Ótimo! Estou morrendo de fome!
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:21>Maravilha! Estou morrendo de fome!
 !******************************!
 [t21_013_300.gds]
 <01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:77>Oh! Que bom! Nossa mesa está
@@ -140,7 +140,7 @@ dar uma olhada no mirante e voltaremos
 ao vagão-restaurante mais tarde.
 !******************************!
 [t21_014_200.gds]
-<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:21>Ótimo! Estou morrendo de fome!
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:21>Maravilha! Estou morrendo de fome!
 !******************************!
 [t21_014_300.gds]
 <01:0000000B><03:5>NONE<03:5>NONE<01:00000002><03:77>Oh, que bom. Nossa mesa está
@@ -569,7 +569,7 @@ atenção, por isso pense bem.
 [t21_060_100.gds]
 <01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:166>Hrm. Hrrrrm? E que tal...?<W> Não.
 Hmph. Este enigma vai me manter
-acordado à noite toda...<W>
+acordado a noite toda...<W>
 !------------------------------!
 Eita! Desculpe aí por isso. E vocês?
 O que posso fazer por vocês?

@@ -38,7 +38,7 @@ passo de revelar um grande mistério
 relacionado a essa caixa.<W>
 !------------------------------!
 Por enquanto, diremos apenas que tenho
-uma teoria, ainda que não seja capaz
+uma hipótese, ainda que não seja capaz
 de prová-la.
 !******************************!
 [t10_030_502.gds]
@@ -337,8 +337,8 @@ esse artefato.
 isso estivesse atrás da caixa?
 !******************************!
 [t10_140_300.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:155>Uma teoria interessante, Luke, mas
-não passa disso por enquanto.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:155>Uma hipótese interessante, Luke,
+mas não passa disso por enquanto.<W>
 !------------------------------!
 Contudo, temos uma pista para
 entendermos os eventos de hoje. Em

@@ -155,7 +155,7 @@ em nada, só olhem.
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:20>Tcharam! Prontinho.
 !******************************!
 [t24_033_200.gds]
-<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:88>Ah! Ótimo trabalho, meu jovem!
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:88>Ah! Bom trabalho, meu jovem!
 Você tem muita habilidade com
 enigmas para alguém da sua idade.
 !******************************!
@@ -617,8 +617,8 @@ essas, aposto que veríamos em detalhe
 o desenvolvimento da cidade.
 !******************************!
 [t24_123_300.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:102>Teoria interessante, Luke. Mas se
-essas fotos são tão antigas assim,
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:102>Hipótese interessante, Luke. Mas
+se essas fotos são tão antigas assim,
 por que parecem tão novas?
 !******************************!
 [t24_123_400.gds]

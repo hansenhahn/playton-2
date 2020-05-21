@@ -1453,49 +1453,50 @@ Você consegue!
 <00><00><00><00><12><01><19><15><4D><04><02><FF>
 Ponha o lixo no lugar correto. Use a
 caneta stylus para deslizar os blocos
-até você poder mover o lixo para a lata.
+até que seja possível mover o lixo
+para a lata.
 !******************************!
 Limpo como sabão!
 
-Isso não é ótimo?
+Que maravilha, não é mesmo?
 !******************************!
 Que pena!
 !******************************!
-Se você tiver pensado em mover as barras
+Se você considerar mover as barras
 verticais vermelhas como um conjunto,
-você conseguirá desenrolar esse.
+o resto será fácil.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n153.dat]
-<0156>Equação de Quadrados
+<0156>Soma de Quadrados
 <00><00><00><00><12><01><1A><99><00><04><02><FF>
-Abaixo está uma equação de adição usando
-quadrados numerados de 0 a 9. Há só um
-problema: a equação não bate!
-Mova os quadrados para fazer a equação
-funcionar. Apenas a resposta envolvendo
-o menor número de movimentos será aceita.
+Abaixo está uma soma usando quadrados
+numerados de 0 a 9. Só tem um problema:
+a equação não bate! Mova os quadrados
+para corrigir a equação. Apenas a
+resposta envolvendo o menor número de
+movimentos será aceita.
 !******************************!
 Está certo!
 
-Já que o enigma te pede para responder
+Já que o enigma pede para você responder
 com o menor número de movimentos possíveis,
 a única solução correta seria mudar o 0
-pelo o 2 e 5 pelo o 6..
+pelo 2 e o 5 pelo 6...
 
 Claro que se você rotacionar os quadrados,
 haverá uma solução com ainda menos
-movimentos. Talvez você gostaria de
-descobrir essa também?
+movimentos. Por que não tenta descobrir
+essa também?
 !******************************!
 Que pena!
 
-Você fez um erro de cálculo?
-Ou talvez há uma resposta que usa
-menos movimentos que a que você usou?
+Você errou o cálculo?
+Ou talvez haja uma resposta com uma
+quantidade menor de movimentos?
 !******************************!
 Há várias soluções se você pudesse
 fazer quantas jogadas quisesse,
@@ -1526,15 +1527,16 @@ duas colunas da direita devem se mover.
 [n155.dat]
 <0158>Relógios Errados
 <00><00><00><00><11><01><16><9B><F6><03><02><FF>
-Os dois relógios da ilustração abaixo
-apontam exatamente às 12:00. Uma hora
-depois, um relógio marca 01:01 e o outro
-12:59. Em outras palavras, um relógio está
-adiantado e outro atrasado. Se os dois
-estão em um nível constante um com o outro
-de atraso e adiantamento, quantas horas irá
-demorar, começando ao meio-dia, até que eles
-se encontrem novamente?
+Os dois relógios da imagem abaixo
+apontam exatamente 12:00. Uma hora
+depois, um relógio marca 13:01 e o
+outro 12:59. Em outras palavras, um
+relógio está adiantado e outro, atrasado.
+Sabendo que tanto o atraso, quanto
+o adiantamento dos relógios é constante,
+quantas horas irá demorar, partindo do
+meio-dia, para que eles se encontrem
+novamente?
 !******************************!
 Resolvido com sucesso!
 
@@ -1771,7 +1773,7 @@ a libertar este rato azarado?
 !******************************!
 Ufa! Ele está livre!
 
-Tenho certeza que ele irá achar um jeito
+Tenho certeza de que ele irá achar um jeito
 de te agradecer... cedo ou tarde.
 !******************************!
 Que pena!
@@ -2454,7 +2456,7 @@ esta pessoa também não pode ser a Judy.
 Então, você sabe que C deve ser a Judy,
 e assim, B deve ser a Anna.
 Com as duas já identificadas, já
-pode ter certeza que A é a Ellie.
+pode ter certeza de que A é a Ellie.
 !******************************!
 Que pena!
 

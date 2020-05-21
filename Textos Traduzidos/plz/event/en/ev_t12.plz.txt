@@ -386,7 +386,7 @@ os empregados, decidimos dar a ela
 uma despedida feliz.
 !******************************!
 [t12_110_1400.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:80>Estão vocês apoiaram a decisão
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:80>Então vocês apoiaram a decisão
 da garota de sair sozinha?
 Qual a razão disso?
 !******************************!

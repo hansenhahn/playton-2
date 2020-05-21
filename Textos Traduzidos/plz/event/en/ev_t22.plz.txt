@@ -659,7 +659,7 @@ Você já sabe o básico sobre
 o preparo de chás, né?<W>
 !------------------------------!
 Ponha uma medida de cada uma das três
-ervas que lhe dei, pra preparar uma xícara
+ervas que lhe dei pra preparar uma xícara
 do delicioso chá Cítrico Clássico.
 !******************************!
 [t22_093_300.gds]
@@ -857,7 +857,7 @@ enigma aqui.
 <01:00000040><03:5>NONE<03:5>NONE<01:00000002><03:111>Ah, estão prontos pra tentar
 resolver aquele enigma?<W>
 !------------------------------!
-Ótimo. É o tipo de atitude que
+Perfeito. É o tipo de atitude que
 irá lhe abrir portas.
 !******************************!
 [t22_132_100.gds]

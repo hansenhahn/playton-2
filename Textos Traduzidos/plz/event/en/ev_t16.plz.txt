@@ -679,7 +679,7 @@ ser o único caminho que nos resta.
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:23>Entendido, Professor.
 !******************************!
 [t16_070_1800.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:87>Ótimo. Então vamos levá-la para
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:87>Certo. Então vamos levá-la para
 o meu quarto para abrirmos
 ela longe de olhos curiosos.
 !******************************!
@@ -729,7 +729,7 @@ estamos vivos!
 !******************************!
 [t16_100_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:43>O que significa que, ao que parece,
-minha teoria estava certa.
+minha hipótese estava certa.
 !******************************!
 [t16_100_300.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:29>Como assim, Professor?
@@ -1312,7 +1312,7 @@ de árvores, podem parecer fantasmas.
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:16>Acho que o senhor tem razão...
 !******************************!
 [t16_220_800.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Se sente melhor agora?<W> Ótimo.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Se sente melhor agora?<W> Certo.
 Vamos indo, não devemos deixar o
 cocheiro se afastar demais.
 !******************************!
