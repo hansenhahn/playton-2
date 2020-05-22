@@ -582,8 +582,8 @@ com Folha de Oásis, Fruta Vigorosa
 e um toque de Semente Cítrica.
 !******************************!
 [ht_hint_10.txt]
-Ia me cair muito bem uma xícara
-de chá bem picante pra me ajudar
+Cairia muito bem uma xícara
+de chá bem picante para me ajudar
 a espantar essa melancolia.
 !******************************!
 [ht_hint_11.txt]
@@ -671,8 +671,8 @@ um chá que seja SUPER doce, tá?
 !******************************!
 [ht_hint_5.txt]
 Quero um chá que me diga o futuro!
-Nele vai Folha de Oásis, algo
-defumado, e algo ácido.
+Nele vai Folha de Oásis, algo defumado
+e algo ácido.
 !******************************!
 [ht_hint_6.txt]
 Me prepare um chá que seja frutoso

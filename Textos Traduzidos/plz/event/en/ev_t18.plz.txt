@@ -201,7 +201,7 @@ termina sem incidentes.
 !******************************!
 [t18_210_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:95>Ao interrogarem todo o vilarejo,
-o trio reune toda a informação
+o trio reúne toda a informação
 possível sobre a Caixa Elísia.
 !******************************!
 [t18_210_300.gds]
@@ -222,7 +222,7 @@ Flora partem rumo à estação.
 em meio à multidão que enche a área.
 !******************************!
 [t18_220_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:106>Felizmente, Flora logo se reune com
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:106>Felizmente, Flora logo se reúne com
 Layton e Luke. Aliviados, os três
 seguem para a estação.
 !******************************!
@@ -336,7 +336,7 @@ o portão trancado.
 !******************************!
 [t18_256_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:101>Sem terem como entrar, a dupla adia a
-visita ao museu e decidem sair pela cidade
+visita ao museu e decide sair pela cidade
 perguntando sobre a Caixa Elísia.
 !******************************!
 [t18_259_100.gds]

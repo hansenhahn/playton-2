@@ -24,9 +24,9 @@ ideal para início de resfriado.
 !******************************!
 <0004><0066>Cereja Revigorante
 !------------------------------!
-A pitada forte da Pimenta Cereja
-faz deste chá ideal para pôr para
-cima os ânimos de quem tá pra baixo.
+A pitada forte da Pimenta Cereja faz
+deste chá ideal para pôr para cima
+os ânimos de quem está para baixo.
 !******************************!
 <0005><0125>Fruta Amarga
 !------------------------------!

@@ -136,7 +136,7 @@ tão bom que acho que você merece
 uma recompensa.
 !******************************!
 [t24_333_200.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:21>Que tipo de recomensa?
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:21>Que tipo de recompensa?
 !******************************!
 [t24_333_300.gds]
 <01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:327>Das melhores! Uma história!
@@ -146,9 +146,9 @@ Pois bem, há muito tempo, havia
 na cidade outra família tão rica
 quanto os Herzens.<W>
 !------------------------------!
-Mas uma das filhas mais novas
-teve seu coração partido por um
-menino, e decidiu sair da cidade.<W>
+Mas uma das filhas mais novas teve
+seu coração partido por um menino
+e decidiu ir embora da cidade.<W>
 !------------------------------!
 Talvez seja só uma história que
 alguém inventou, mas se for verdade,

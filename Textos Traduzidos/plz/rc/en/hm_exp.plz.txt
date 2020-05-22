@@ -59,7 +59,7 @@ características especiais.
 !******************************!
 [obj_e01.txt]
 É a comida favorita do hamster.
-Quando estiver num raio de três
+Quando estiver em um raio de três
 espaços, ele ignorará todos os
 outros objetos à sua volta e
 irá direto para a fruta.
@@ -74,21 +74,21 @@ para maximizar sua efetividade.
 [obj_e03.txt]
 Seu hamster será atraído por esta
 casinha adorável se ele estiver
-num raio de três espaços do objeto,
+em um raio de três espaços do objeto,
 mas sempre vai ignorá-la caso haja
 alguma maçã por perto.
 !******************************!
 [obj_e04.txt]
 Este tronquinho atrai a atenção do
-hamster se ele estiver num raio de
-três espaços do objeto. Porém, se
+hamster se ele estiver em um raio
+de três espaços do objeto. Porém, se
 uma maçã também estiver nesse mesmo
 raio, o hamster preferirá a fruta.
 !******************************!
 [obj_e05.txt]
 Esta florzinha preciosa atrai a
 atenção do hamster se ele estiver
-num raio de três espaços dela,
+em um raio de três espaços dela,
 embora ele goste muito mais de
 maçãs.
 !******************************!

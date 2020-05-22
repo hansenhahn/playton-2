@@ -1811,7 +1811,7 @@ pouco de espaço.
 [n45.dat]
 <0046>Formato Estranho
 <00><14><0F><0A><11><1A><05><2D><EB><03><03><FF>
-Você tem uma caixa igual a mostrada abaixo.
+Você tem uma caixa igual à mostrada abaixo.
 Usando os cubos brancos como unidade de
 medida, a caixa tem dois cubos de altura,
 três de largura e dois de comprimento.
@@ -1934,7 +1934,7 @@ descreve como o Sr. Anderson estava
 <''>um minuto atrás<''>.
 
 As coisas podem mudar, então não
-se apegue tanto assim da descrição.
+se apegue tanto assim à descrição.
 !******************************!
 O vento na cidade de Dropstone parece
 excepcionalmente forte hoje, não acha?
@@ -1998,7 +1998,7 @@ marcá-las com um X.
 A: D é uma Midira. Eu juro.
 B: Ah, não, C não é uma vaca Vidadi.
 C: Ah, mas A não é Midira mesmo. Não, não.
-D: E é uma Midira se eu já tiver visto uma.
+D: E é uma Midira, disso eu tenho certeza.
 E: B definitivamente não é uma Vidadi.
 !******************************!
 Isso mesmo!
@@ -2229,7 +2229,7 @@ Uma vez que você passa a considerar a cor
 branca da bandeira não pintada nas suas
 possibilidades, você terá portanto quatro
 cores para trabalhar. Se você escolher uma
-cor para parte da esquerda e listar todos
+cor para a parte da esquerda e listar todos
 os padrões possíveis, você terá um total de
 nove variações.
 
@@ -2254,7 +2254,7 @@ criar os padrões.
 !******************************!
 Adicionando o branco nas três tintas
 que você tem, haverão quatro cores que
-serão possíveis de serem usar para
+serão possíveis de serem usadas para
 criar a bandeira.
 
 Imagine, por exemplo, que a parte

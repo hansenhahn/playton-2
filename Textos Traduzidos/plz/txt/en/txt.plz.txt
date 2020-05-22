@@ -6,10 +6,9 @@ tédio total, sua presença mudou
 isso para mim. Por eu ser filho do
 duque, o fato das pessoas ficarem
 me elogiando tanto tem me incomodado.
-Mas esta garota era cheia de
-autenticidade, e me tratou como
-qualquer outra pessoa. Foi uma
-experiência nova. Espero vê-la
+Mas esta garota era muito autêntica
+e me tratou como qualquer outra pessoa.
+Foi uma experiência nova. Espero vê-la
 novamente.
 !******************************!
 [diary_10.txt]
@@ -49,15 +48,15 @@ Ah, minha querida Sophia, tudo que
 desejo é saber sobre você novamente.
 !******************************!
 [diary_2.txt]
-Hoje tive a sorte de me esbarrar
+Hoje tive a sorte de esbarrar
 naquela garota do baile novamente.
 Ela é filha de algum tipo de nobre,
 pelo que se nota. Sua inteligência
-só se compara com sua elegância.
+só é comparável à sua elegância.
 Sendo honesto, acho ela bastante
 atraente, e já comecei a cortejá-la.
 No entanto, receio que meu pai não
-esteja de acordo com a ideia disso.
+esteja de acordo com essa ideia.
 !******************************!
 [diary_3.txt]
 Meu pai sempre fez o que bem
@@ -325,7 +324,7 @@ influente de Dropstone, Sr. Anderson,
 embarcou no Molentary Express.
 Embora várias pessoas do vilarejo
 tenham vindo se despedir, ainda
-sim ela viajou sozinha. Para onde
+assim ela viajou sozinha. Para onde
 Katia está indo, e por que ninguém
 a está acompanhando?
 !******************************!

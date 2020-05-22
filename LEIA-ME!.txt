@@ -1,5 +1,5 @@
 
-Professor Layton e a Caixa de Pandora PT-BR - Beta 4
+Professor Layton e a Caixa de Pandora PT-BR - Beta 9
 
 - Um lançamento Monkeys Traduções e Jacutem Sabão -
 
@@ -16,15 +16,15 @@ Informações sobre a ROM:
 	CRC: DF132837
 
 Sobre a Tradução:
-	Textos:  ?%
-	Imagens: ?%
-	Revisão: ?%
+	Textos:  100%
+	Imagens: 100%
+	Revisão: 50%
 
 Equipe:
 	Responsável: DiegoHH
 	ROMHacking e Programação: DiegoHH
 	Textos da História: DiegoHH, Solid One, Sahgo, Steve Doido, 
-	Textos dos Enigmas: DiegoHH, Gamerulez, Magalicia, Shagohod, Steve Doido
+	Textos dos Enigmas: DiegoHH, Gamerulez, Magalicia, Shagohod, Steve Doido, Solid One
 	Imagens: DiegoHH, Solid One
 
 Notas da Equipe:
@@ -40,14 +40,40 @@ Notas da Equipe:
 	  estão devidamente traduzidos para o português brasileiro.
 
 Notas das Versões:
+	- 20/05/2020 Beta 9
+		* Revisão dos textos da história e jogo
+		* Tradução de mais algumas imagens
+		* Adequação de alguns termos
+	- 15/05/2019 Beta 8
+		* Revisão do capítulo 5
+		* Adequação de alguns termos
+	- 10/01/2019 Beta 7
+		* Correção dos diálogos relacionados ao jogo do chá
+		* Tradução e revisão de todos os enigmas
+		* Tradução de textos pendentes
+	- 30/07/2018 Beta 6
+		* Mais uma revisão ingame do Capítulo 2 e 3
+		* Correção do texto do jogo do Chá
+		* Mais algumas imagens traduzidas
+		* Mais alguns textos traduzidos
+		* Revisão dos enigmas 1 a 58
+	- 26/07/2018 Beta 5
+		* Mais uma revisão ingame do Prólogo e Capítulo 1
+		* Revisão da história secundária do Capítulo 4
+		* Revisão dos enigmas 1 a 46
+		* Tradução dos enigmas do Capítulo 4
+		* Tradução de mais algumas imagens
+		* Correções de bugs envolvendo os Enigmas Semanais
+		** A opção Dicas foi habilitada via alterações na programação do jogo
+		** O enigma W13 não trava mais o jogo quando selecionado
 	- 30/06/2018 Beta 4
 		* Revisão ingame do Prólogo, Capítulo 1 e 2
 		* Tradução de mais alguns textos espalhados pelo jogo.
-		* Tradução do texto dos jogos do Hamster e da Câmera.
+		* Tradução do texto dos jogos do Hamster, da Câmera e do Conjunto de Chá.
 		* Padronização de alguns termos.		
 		* Revisão dos enigmas 1 a 37.
 		* Tradução dos enigmas 27 a 59.
-		* Correção de algumas imagens.
+		* Tradução e correção de algumas imagens.
 		* Correção da largura de alguns caracteres.
 	- 04/06/2018 Beta 3
 		* Revisão ingame do Prólogo e Capítulo 1.
@@ -55,14 +81,14 @@ Notas das Versões:
 		* Revisão dos enigmas 1 a 26.
 		* Tradução e correção de várias imagens.
 		* Correção da largura da maioria dos caracteres.
-	- 29/04/2018 Beta 2:
+	- 29/04/2018 Beta 2
 		* Revisão da história secundária do Capítulo 1 a 3.
 		* Revisão dos enigmas 1 a 7 e 11 a 20.
 		* Tradução dos comentários dos personagens.
 		* Correção de algumas imagens.
 		* Desbloqueio dos enigmas semanais.
 		* Inserção da Splash Screen.
-	- 14/04/2018 Beta 1:
+	- 14/04/2018 Beta 1
 		* Todos os textos da história traduzidos.
 		** História principal do Prólogo, Capítulo 1 a 5 revisadas.
 		** História secundária do Prólogo revisada.

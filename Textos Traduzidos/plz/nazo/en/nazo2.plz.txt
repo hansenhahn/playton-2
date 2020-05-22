@@ -2658,7 +2658,7 @@ que valha 10. Ache este mapa e terá
 encontrado a resposta.
 !******************************!
 [n92.dat]
-<0093>Quantos Anos Eu Tenho?
+<0093>Qual a Minha Idade?
 <00><1E><1B><18><11><27><16><5C><F6><03><04><FF>
 <''>A diferença entre a idade da minha mãe
 e a idade do meu pai é igual à minha idade.
@@ -2667,7 +2667,7 @@ que eu, que também é um terço da idade da
 minha mãe. Daqui a cinco anos, vou ter a
 mesma idade da minha irmã.
 
-Quantos anos eu tenho?<''>
+Qual a minha idade?<''>
 !******************************!
 Ei, nada mau!
 

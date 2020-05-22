@@ -377,7 +377,7 @@ por outra vaca.
 !******************************!
 [t22_043_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:140>Parece que essas duas moças
-trocaram de lugar, enquanto
+trocaram de lugar enquanto
 esperavam o desfile começar.<W>
 !------------------------------!
 Mas agora isso deve deixar
@@ -982,9 +982,9 @@ Também ouvi que ela respeita muito
 seu pai, diferente da maioria dos
 jovens atualmente.<W>
 !------------------------------!
-Esses meninos de hoje em dia gostam
-mais de se vestir como delinquentes,
-ao invés de falar com seus pais!<W>
+Esses jovens de hoje em dia são
+terríveis. Eles discutem com os pais,
+usam as calças caindo... é a treva!<W>
 !------------------------------!
 Ah, desculpe. Exagerei um pouco
 nos meus resmungos. Precisam de
@@ -1251,7 +1251,7 @@ sobre uma caixa! Saca só!
 !******************************!
 [t22_221_100.gds]
 <01:0000003C><03:5>NONE<03:5>NONE<01:00000003><03:106>Ah, ei, é você de novo. Percebo
-pelo seus olhos que quer tentar
+pelos seus olhos que quer tentar
 aquele enigma da caixa de novo!
 !******************************!
 [t22_222_100.gds]

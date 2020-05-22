@@ -552,7 +552,7 @@ Só me resta assumir que sua obsessão
 pela caixa origina-se do excesso de
 tempo e dinheiro em suas mãos.<W>
 !------------------------------!
-Se ver qualquer coisa que possa
+Se vir qualquer coisa que possa
 ajudar nessa investigação, relate
 a mim de imediato, entendido?
 !******************************!
@@ -972,7 +972,7 @@ no trem nunca vão acabar.
 !******************************!
 [t12_282_100.gds]
 <01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:80>Olha aí, você detonou pelo menos
-uns 30 enimas! Quem é a estrela do
+uns 30 enigmas! Quem é a estrela do
 rock agora?
 !******************************!
 [t12_290_100.gds]

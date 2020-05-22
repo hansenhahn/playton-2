@@ -1,6 +1,6 @@
 [t24_000_100.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:220>Vocês estão em Folsense agora,
-crianças, então sonhem e sonhem
+jovens, então sonhem e sonhem
 alto! Porque tudo é possível aqui.<W>
 !------------------------------!
 Tomem, um enigma de boas vindas
@@ -123,7 +123,7 @@ era parte de um plano maior.
 <01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:32>Ah! Mas que bagunça...
 !******************************!
 [t24_030_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:24>Qual o problema, meu bom homem?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:24>Qual o problema, senhor?
 !******************************!
 [t24_030_300.gds]
 <01:00000019><03:10>b1 normal<03:5>NONE<01:00000001><03:256>Eu tinha organizado um conjunto de
@@ -135,7 +135,7 @@ enquanto espanava o pó delas. Como
 estou desastrado hoje...<W>
 !------------------------------!
 Não vou conseguir vendê-las a menos
-que as ponha de volta em sua posição
+que as coloque de volta em sua posição
 original.
 !******************************!
 [t24_030_400.gds]
@@ -495,7 +495,7 @@ meu bem?
 sobre o Sr. Bê, docinho.<W>
 !------------------------------!
 Eu sou dançarina de can can, não
-de "quem é quem". Desculpe, lindo!
+de "quem é quem". Desculpa, lindo!
 !******************************!
 [t24_103_100.gds]
 <01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:268>Ai, gente!... Inteligente e bonito!

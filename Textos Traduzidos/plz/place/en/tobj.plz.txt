@@ -300,8 +300,8 @@ Há tantas coisas
 pra comprar!
 !******************************!
 [tobj159.txt]
-Que tipo de edifício
-é esse?
+Que estilo arquitetônico
+é este?
 !******************************!
 [tobj16.txt]
 O que tem aqui atrás?!@p
@@ -838,7 +838,7 @@ Não me lembro de já ter
 caído a noite...
 !******************************!
 [tobj93.txt]
-Esse caminho parece ter
+Este caminho parece ter
 sido recém pavimentado.
 !******************************!
 [tobj94.txt]

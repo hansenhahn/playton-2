@@ -285,7 +285,7 @@ Acha que poderia me ajudar?
 !******************************!
 [t30_030_200.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:40>Hmm... Como satisfazer essa
-menina doce...
+doce menina...
 !******************************!
 [t30_030_300.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:45>Já sei! Por que não a gente não
@@ -295,7 +295,7 @@ faz uma xícara de chá pra você?
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:20>Excelente ideia, Luke.
 !******************************!
 [t30_030_500.gds]
-<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:144>Chá? Caramba, eu esperava um cupcake
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:144>Chá? Puxa, eu esperava um bolinho
 de chocolate, cheio de açúcar...
 Mas acho que um chá deve ser bom.<W>
 !------------------------------!
@@ -310,11 +310,11 @@ recuperada e animada.
 [t30_031_100.gds]
 <01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:199>Mmm! Sabe, não estava de todo
 ruim. Na verdade, estava muito
-gostoso! Brigadão!<W>
+gostoso! Muito obrigada!<W>
 !------------------------------!
 É a primeira coisa doce que provei
 desde que a mamãe me proibiu de beber
-cola. Ela diz que estraga os dentes.
+refri. Ela diz que estraga os dentes.
 !******************************!
 [t30_032_10.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:63>Infelizmente, Joanie não é muito
@@ -324,7 +324,7 @@ preparou.
 [t30_032_100.gds]
 <01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:99>Não, não, não. Eu quero um chá DOCE!
 Doce que nem mel! Doce a ponto
-de fazer meu dente doer!
+de fazer eu enjoar de doce!
 !******************************!
 [t30_033_100.gds]
 <01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:101>Pfff, se não consegue fazer um
@@ -341,23 +341,22 @@ te pedi antes?
 mais devora-livros do que uma
 traça.<W>
 !------------------------------!
-Acho que vocês não devem saber
-de adivinhas, né?
+Acho que vocês não devem manjar
+de adivinhações, né?
 !******************************!
 [t30_040_200.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:46>Que tipo de adivinhação você
 tem em mente?
 !******************************!
 [t30_040_300.gds]
-<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:84>
-Tem um chá feito com Folha de Oásis
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:84>Tem um chá feito com Folha de Oásis
 que serve pra prever a vida
 amorosa das pessoas.
 !******************************!
 [t30_040_400.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:92>Opa, nunca ouvi falar de um chá
 desses. Professor, vamos tentar
-fazer? Por favorzinho?
+fazer? Diz que sim, vai... sim?
 !******************************!
 [t30_040_500.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:115>Adoro fazer experimentos, Luke.<W>
@@ -769,11 +768,11 @@ me animar esses dias.
 !******************************!
 [t30_090_100.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:67>Algum problema?<W> Você parece
-um tanto conculcado, bom homem.
+um tanto cabisbaixo, meu bom homem.
 !******************************!
 [t30_090_200.gds]
-<01:00000018><03:10>b2 normal<03:5>NONE<01:00000002><03:179>Ah, não se preocupe, senhor. É que
-fico meio lúgubre quando penso em como
+<01:00000018><03:10>b2 normal<03:5>NONE<01:00000002><03:179>Ah, não se preocupe, senhor. É que fico
+meio deprimido quando penso em como
 os negócios vão devagar ultimamente.<W>
 !------------------------------!
 Sendo franco, só de pensar nisso
@@ -804,11 +803,11 @@ gole revela mais sabores. É que nem
 o chá que eu bebia quando criança.<W>
 !------------------------------!
 Antigamente, Duke Herzen visitava
-bastante nosso hotel, e ninguém
+bastante nosso hotel e ninguém
 espalhava rumores sobre vampiros.<W>
 !------------------------------!
 Sim, eram tempos mais simples, mas
-quando você olha pro que o ouro
+quando você olha para o que o ouro
 fez ao povo daqui...<W>
 !------------------------------!
 Bom, digamos que eu prefira optar
@@ -834,13 +833,13 @@ incomodá-lo com meus problemas.
 Por favor não me dê atenção. 
 !******************************!
 [t30_094_100.gds]
-<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:179>Sei que eu deveria levantar um
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:179>Sei que eu deveria abrir um
 sorriso pelos nossos clientes, mas
 não estou com humor para tal.<W>
 !------------------------------!
 Você realmente acha que uma xícara
-de chá trará de volta o meu eu
-animado de antes?<W> Tomara que sim.
+de chá trará de volta o meu eu animado
+de outrora?<W> Espero que sim.
 !******************************!
 [t30_100_100.gds]
 <01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:8>Ânnnnggghh...
