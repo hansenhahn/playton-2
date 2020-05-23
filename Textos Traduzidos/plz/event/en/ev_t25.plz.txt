@@ -5,8 +5,7 @@ Já viu ilustração tão
 convincente de um baile antes?
 !******************************!
 [t25_000_300.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:182>
-Do que vimos deste castelo até
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:182>Do que vimos deste castelo até
 agora, tenho certeza de que o baile
 foi ridiculamente pomposo.<W>
 !------------------------------!
@@ -124,8 +123,7 @@ e desanuviamos nossas cabeças com este
 enigma sobre retratos.
 !******************************!
 [t25_020_900.gds]
-<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:57>
-Um enigma!? É mesmo a hora e o
+<01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:57>Um enigma?! É mesmo a hora e o
 lugar certo para isso, Professor?
 !******************************!
 [t25_021_100.gds]
@@ -134,8 +132,7 @@ certo enigma fantástico que se relaciona
 a diversos trabalhos artísticos.
 !******************************!
 [t25_022_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:82>
-Um vampiro. Um dos que nunca
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:82>Um vampiro. Um dos que nunca
 envelhecem... Um dos *glup* mortos-vivos...
 Será p-p-possível?
 !******************************!
@@ -161,8 +158,7 @@ O chão está num lustrar quase cegante.
 Deve ser facílimo escorregar.
 !******************************!
 [t25_030_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:83>
-Nossa, é verdade! Chega a parecer
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:83>Nossa, é verdade! Chega a parecer
 um espelho. Quem você acha que faz
 toda a lustração?
 !******************************!

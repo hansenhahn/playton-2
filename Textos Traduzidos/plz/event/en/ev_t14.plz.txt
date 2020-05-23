@@ -688,12 +688,12 @@ estão discutindo outra vez.
 !******************************!
 [t14_230_300.gds]
 <01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:108>Nada?<W> Você não tem nem mesmo uma
-pista dela? Pensei ter te dito pra 
+pista dela? Pensei ter te dito para 
 encontrá-la... e rápido!
 !******************************!
 [t14_230_400.gds]
-<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:407>Titio, para de me pressionar. Não é
-fácil sair por aí com você gritando
+<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:407>Titio, dá um tempo. Não é fácil
+sair por aí com você gritando
 nos meus ouvidos o tempo todo.<W>
 !------------------------------!
 Além disso, tem aquele tiozinho
@@ -703,9 +703,9 @@ o detetive.<W>
 Manter a discrição cansa,
 saca o que quero dizer?<W>
 !------------------------------!
-Meus pés estão me mantando
-de tanto caminhar! Que tal
-deixar eu descansar um pouco?<W>
+Meus pés estão me matando de tanto
+dar banda por aí! Que tal deixar eu
+descansar um pouco?<W>
 !------------------------------!
 Sem falar que, se eu for pego
 bisbilhotando por aí...
@@ -745,7 +745,7 @@ no livro que achamos jogado na rua!
 [t14_230_900.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:101>Tem razão. Mas estou certo de já
 ter visto algo parecido com isto em
-algum outro lugar. Mas onde...?
+algum outro lugar. Mas onde?...
 !******************************!
 [t14_240_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>As portas do museu estão bem
@@ -1146,7 +1146,7 @@ zona norte da cidade?
 [t14_395_300.gds]
 <01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:102>Ah, nada de mais. Só umas casas
 bem velhas. Tenho cartas do pessoal
-de Dropstone para entregar por lá.
+de Dropstone pra entregar por lá.
 !******************************!
 [t14_395_400.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:77>Caramba, as pessoas de Dropstone
@@ -1168,7 +1168,7 @@ gosta de correio atrasado!
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>Sr. Parcelle, espera!
 !******************************!
 [t14_395_700.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:41>...Puxa, ele não olhou pra
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:41>... puxa, ele não olhou pra
 trás nem de relance.
 !******************************!
 [t14_395_800.gds]
@@ -1393,7 +1393,7 @@ forasteiros ficarem atentos para
 ataques de vampiros, por precaução.<W>
 !------------------------------!
 Se for preciso, serão sempre
-bem-vindos pra se esconder em minha
+bem-vindos pra se esconderem em minha
 loja. Ela é 100%% à prova de vampiros!
 !******************************!
 [t14_460_100.gds]
@@ -1423,8 +1423,8 @@ Sem sombra de dúvida?
 !******************************!
 [t14_460_500.gds]
 <01:0000001B><03:10>b1 normal<03:5>NONE<01:00000001><03:78>É, é o homem que está na
-fotografia. Eu reconheceria o
-rosto em qualquer lugar.
+foto. Eu reconheceria o rosto em
+qualquer lugar.
 !******************************!
 [t14_460_600.gds]
 <01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:131>Hmph. Isso confirma tudo.
@@ -1526,7 +1526,7 @@ topo da minha lista de suspeitos!
 errado...
 !******************************!
 [t14_480_500.gds]
-<01:00000007><03:10>b1 normal<03:5>NONE<01:00000002><03:31>Er, senhor? Com licença...?
+<01:00000007><03:10>b1 normal<03:5>NONE<01:00000002><03:31>Er, senhor? Com licença?...
 !******************************!
 [t14_480_600.gds]
 <01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:72>O que é, Barton? Não está vendo

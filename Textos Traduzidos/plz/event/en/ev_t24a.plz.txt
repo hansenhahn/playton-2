@@ -823,8 +823,8 @@ a cidade dele!
 A menos que... vocês não sejam
 mesmo lacaios do coisa ruim!<W>
 !------------------------------!
-Já que é assim, é bom seguirem o
-meu conselho e ficarem longe daquele
+Já que é assim, é bom seguirem o meu
+conselho e manterem distância daquele
 castelo lá ao longe.
 !******************************!
 [t24_163_200.gds]
@@ -1161,7 +1161,7 @@ escuto o nome. Bem que eu queria ter
 informações para dar.<W>
 !------------------------------!
 Ah! Mas não posso deixar os visitantes
-da nossa grande cidade saírem assim,
+da nossa querida cidade saírem assim,
 de mãos abanando.<W>
 !------------------------------!
 Aqui! Não é um chaveiro, mas levem
@@ -1185,17 +1185,17 @@ de vocês da Caixa Elísia os trouxe até
 aqui, então vocês deram azar.<W>
 !------------------------------!
 É que vários dos moradores que sabiam
-tudo de Folsense abandonaram
-a cidade faz uns anos já.<W>
+tudo de Folsense abandonaram a cidade
+faz uns anos já.<W>
 !------------------------------!
 Tudo começou com um boato estranho
-que percorreu a cidade como uma doença.
+que varreu a cidade como uma doença.
 !******************************!
 [t24_253_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:112>Então mesmo se este for o lugar
 certo, não há mais a quem perguntar...<W>
 !------------------------------!
-Diga-me, que boato foi este?
+Diga-me, que boato foi esse?
 !******************************!
 [t24_253_300.gds]
 <01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:175>Uma bobagem aí sobre uma maldição...

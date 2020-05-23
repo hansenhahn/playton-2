@@ -386,8 +386,8 @@ fazendo aqui?
 !******************************!
 [t24_410_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>Olá, menino. Estamos procurando pelos
-pedaços de uma fotografia rasgada.
-Chegou a ver algum por aí?
+pedaços de uma foto rasgada. Chegou
+a ver algum por aí?
 !******************************!
 [t24_410_300.gds]
 <01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:183>Sim! O vento trouxe este pedaço
@@ -597,7 +597,7 @@ andar na rua vestido de galinha a
 passar um dia sem jogar xadrez.<W>
 !------------------------------!
 Quer chegar mais e ouvir o que
-eu tenho a dizer?<W> Ótimo!
+eu tenho a dizer?<W> Maravilha!
 Mas só depois de um xadrezinho!
 !******************************!
 [t24_460_200.gds]
@@ -609,7 +609,7 @@ resolver meu enigma de xadrez?
 Veremos então, filho.
 !******************************!
 [t24_462_100.gds]
-<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:87>Só pra você saber que, da próxima vez
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:87>Fique sabendo que, da próxima vez
 que nos encontrarmos, terei algo ainda
 mais difícil pra você.
 !******************************!
@@ -675,7 +675,7 @@ voltassem pro que eram antes.
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:29>Tá pedindo pra sair, filho?
 !******************************!
 [t24_480_100.gds]
-<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:182>Me chamo Gregorio e gosto xadrez
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:182>Me chamo Gregorio e gosto de xadrez
 tanto quanto gato gosta de arranhar
 móveis caros.<W>
 !------------------------------!
@@ -796,8 +796,8 @@ horas?
 !******************************!
 [t24_500_200.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:85>Talvez. Você se importaria de me
-mostrar a fotografia que achamos
-no apartamento do doutor?
+mostrar a foto que achamos no
+apartamento do doutor?
 !******************************!
 [t24_500_300.gds]
 <01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:288>Devo presumir que há uma
@@ -1092,7 +1092,7 @@ meu garoto! Nós- Ah, o que é isso?
 Algo está preso na cerca.
 !******************************!
 [t24_560_500.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:40>É o último pedaço da fotografia!
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:40>É o último pedaço da foto!
 !******************************!
 [t24_560_600.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:95>Agora que recuperamos todos os
@@ -1101,8 +1101,8 @@ remontar a foto.
 !******************************!
 [t24_561_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:100>Que informações estão escondidas
-nesta fotografia? Temos que
-remontá-la de novo.
+nesta foto? Temos que remontá-la
+outra vez.
 !******************************!
 [t24_562_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>

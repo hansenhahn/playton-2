@@ -425,7 +425,7 @@ Gostaria de tentar restaurá-las
 [t24_731_600.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:150>É sempre tocante ver clientes
 mostrarem interesse em minhas
-fotografias.<W>
+fotos.<W>
 !------------------------------!
 Acha que pode me ajudar
 com a ordem dessas fotos?
@@ -457,19 +457,19 @@ Levando em conta suas idades,
 elas estão impecáveis.<W>
 !------------------------------!
 Conte-me, qual é o segredo para
-manter suas fotografias tão vivas?
+manter suas fotos tão vivas?
 !******************************!
 [t24_733_300.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:132>Ha ha! Ou você está me bajulando
 ou está enxergando coisas.<W>
 !------------------------------!
 Não faço nada de especial para
-conservar minha fotografias.
+conservar minha fotos.
 !******************************!
 [t24_733_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:163>Que estranho. Geralmente fotografias
-velhas assim mostraram sinais de
-desgaste com o tempo.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:163>Que estranho. Geralmente fotos velhas
+assim mostraram sinais de desgaste
+com o tempo.<W>
 !------------------------------!
 Bem, quem sabe os métodos de
 preservação não são um segredo
@@ -477,5 +477,5 @@ comercial?
 !******************************!
 [t24_734_500.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:59>Suponho que não vai organizar essas
-fotografias para mim então.
+fotos para mim então.
 !******************************!

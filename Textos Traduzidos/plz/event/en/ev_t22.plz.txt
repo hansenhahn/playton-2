@@ -361,7 +361,7 @@ qual é, no meio de todas essas
 outras? 
 !******************************!
 [t22_040_700.gds]
-<01:00000030><03:8>b2 weep<03:5>NONE<01:00000002><03:36>Meu deus. Isso vai começar
+<01:00000030><03:8>b2 weep<03:5>NONE<01:00000002><03:36>Meu Deus. Isso vai começar
 a ficar feio.
 !******************************!
 [t22_040_800.gds]
@@ -573,7 +573,7 @@ conta desta barraca, jogar não vai
 lhe custar um centavo sequer.
 !******************************!
 [t22_080_100.gds]
-<01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:137>Meu deus, esqueci de colher maçãs
+<01:00000016><03:5>NONE<03:5>NONE<01:00000003><03:137>Meu Deus, esqueci de colher maçãs
 pra refeição de hoje à noite.<W>
 !------------------------------!
 Aliás, isso me lembra de um enigma
@@ -1109,7 +1109,7 @@ tábuas de madeira em mãos. Olha só
 o formato que preciso agora.
 !******************************!
 [t22_191_100.gds]
-<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:99>Graças a deus você voltou. Acho
+<01:00000037><03:5>NONE<03:5>NONE<01:00000003><03:99>Graças a Deus você voltou. Acho
 que não vou conseguir resolver esse
 problema sem a sua ajuda.
 !******************************!
@@ -1482,7 +1482,7 @@ Todos estiveram ralando duro
 pra preparar Dropstone pras
 festividades de hoje.<W>
 !------------------------------!
-Graças a deus vocês salvaram o dia.
+Graças a Deus vocês salvaram o dia.
 Seria uma bagunça se aquele bate-boca
 de antes arruinasse as comemorações.<W>
 !------------------------------!

@@ -1013,13 +1013,13 @@ Não é do feitio de um cavalheiro.
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:25>Tem razão, Professor.
 !******************************!
 [t12_300_100.gds]
-<01:00000015><03:5>NONE<03:5>NONE<01:00000002><03:299>Meu deus. Meu deus. O trem vai
+<01:00000015><03:5>NONE<03:5>NONE<01:00000002><03:299>Meu Deus. Meu Deus. O trem vai
 partir a qualquer minuto e ela
 ainda não chegou.<W>
 !------------------------------!
 Os esforços de todos terão sido em
 vão se ela perder esse trem saindo
-da cidade... Meu deus. Meu deus.<W>
+da cidade... Meu Deus. Meu Deus.<W>
 !------------------------------!
 Talvez as mulheres precisem de mais tempo
 pra se aprontar pra essas coisas. Por

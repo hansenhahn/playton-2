@@ -467,7 +467,7 @@ Caramba, essa combinação passou
 e eu nem vi. Alguém anotou a placa?
 !******************************!
 [ht_211_1.txt]
-O que adicionar agora...?
+O que adicionar agora?...
 !******************************!
 [ht_211_2.txt]
 Dois já eram. Mas com qual

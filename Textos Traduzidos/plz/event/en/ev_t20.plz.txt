@@ -325,8 +325,8 @@ própria?
 na mão do Dr. Schrader.
 !******************************!
 [t20_023_900.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:103>É uma velha fotografia, mas foi
-rasgada em tantos pedaços que é quase
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:103>É uma velha foto, mas foi rasgada
+em tantos pedaços que é quase 
 impossível montar a imagem original.
 !******************************!
 [t20_024_100.gds]

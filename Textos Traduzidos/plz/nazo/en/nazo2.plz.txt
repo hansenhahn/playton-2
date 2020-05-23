@@ -196,7 +196,7 @@ segue um fato curioso. Você sabia que
 "Resta Um" na verdade é conhecido como
 brainvita, na Índia?
 
-Ah, só pra você ficar sabendo, a
+Ah, só pra que você fique sabendo, a
 Dica 3 também é só de curiosidades.
 !******************************!
 Existem vários jogos conhecidos como
@@ -468,7 +468,7 @@ O pai alcança sua filha em exatamente
 10 segundos.
 !******************************!
 [n109.dat]
-<0110>A Rota do Chelmey
+<0110>A Rota de Chelmey
 <00><23><1F><1B><71><25><09><6D><EF><03><04><FF>
 Tente descobrir a rota de Chelmey levando
 em conta aquilo que ele ainda lembra,
@@ -1816,8 +1816,8 @@ você também pode enxergar a torre a partir
 de qualquer um dos edifícios da cidade.
 Porém, segundo o mapa abaixo, há um edifício
 na cidade do qual é claramente impossível
-enxergar o topo da torre, não importa por
-qual janela você estiver olhando.
+enxergar o topo da torre, não importa em
+qual janela você esteja olhando.
 
 Consegue achar este edifício?
 !******************************!
@@ -2817,7 +2817,7 @@ mais eficiente possível é de suma
 importância para resolver este enigma.
 !******************************!
 [n95.dat]
-<0096>Um Enigma Fantasmagórico
+<0096>Um Enigma de Arrepiar
 <00><1E><1B><18><11><2B><02><5F><E8><03><04><2F>
 Que susto! Tem um fantasma na floresta!
 

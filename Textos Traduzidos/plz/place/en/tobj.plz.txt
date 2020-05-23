@@ -359,9 +359,9 @@ Aqui atrás não há lugar
 para esconder nada.
 !******************************!
 [tobj170.txt]
-Realmente precisa de ruas
-com postes, num lugar tão
-bem iluminado assim?
+Será que tão necessário
+postes de luz num lugar
+tão bem iluminado?
 !******************************!
 [tobj171.txt]
 Essa barricada parece

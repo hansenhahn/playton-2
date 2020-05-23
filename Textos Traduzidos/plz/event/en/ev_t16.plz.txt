@@ -224,9 +224,8 @@ chegar, Professor?
 ver a tão almejada Caixa
 Elísia.<W>
 !------------------------------!
-A única prova visual que
-temos dela é esta fotografia
-rasgada.
+A única prova visual que temos dela
+é esta foto rasgada.
 !******************************!
 [t16_020_700.gds]
 <01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:23>E daí? Vá direto ao ponto!
@@ -696,7 +695,7 @@ Mas como saberemos sem abrir
 a caixa para nos certificarmos?
 !******************************!
 [t16_070_300.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>O senhor não está sugerindo que...?!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:27>O senhor não está sugerindo que?!...
 !******************************!
 [t16_070_400.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:54>Estou sim, Luke. Nós temos de abrir

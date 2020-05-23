@@ -798,7 +798,7 @@ a orelha surge em Krantz.
 Ele parece relaxado e animado.
 !******************************!
 [t30_091_100.gds]
-<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:360>Meu deus, que delicioso. Hmm, cada
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:360>Meu Deus, que delicioso. Hmm, cada
 gole revela mais sabores. É que nem
 o chá que eu bebia quando criança.<W>
 !------------------------------!
@@ -948,7 +948,7 @@ de orelha a orelha surge em Joseph.
 Ele parece refrescado e animado.
 !******************************!
 [t30_111_100.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:94>Meu deus! Um chá tão bom assim quase
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:94>Meu Deus! Um chá tão bom assim quase
 me fez pensar em trocar minha caneca
 de café por uma xícara de chá.
 !******************************!
@@ -1262,7 +1262,7 @@ sede, PRA ONTEM! E lembrem-se,
 tem que ser doce!
 !******************************!
 [t30_150_100.gds]
-<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:33>Meu, deus... Mas...que...sede...
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:33>Meu... Deus... Mas...que...sede...
 !******************************!
 [t30_150_200.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:24>Você está bem, senhor?
@@ -1333,7 +1333,7 @@ um impasse com minha sede.
 chá. Xadrez dá muita sede, filho.
 !******************************!
 [t30_154_100.gds]
-<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:95>Graças a deus você voltou para me
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:95>Graças a Deus você voltou para me
 fazer chá. Não consigo continuar
 minha partida de xadrez até lá.
 !******************************!
@@ -1414,7 +1414,7 @@ Ah, e por favor não vá esquecer
 das Sementes Cítricas nele.
 !******************************!
 [t30_170_100.gds]
-<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:27>Deus... Meu deus...
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:27>Deus... Meu Deus...
 !******************************!
 [t30_170_200.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:39>Você está bem? Qual é o problema?
@@ -1662,7 +1662,7 @@ para enfrentar seus problemas!
 preparou para Opal não serviu.
 !******************************!
 [t30_202_100.gds]
-<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:88>Esse chá é muito... pedestre.
+<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:88>Esse chá é muito... sem graça.
 Não me sinto nem um pouco
 diferente de antes.
 !******************************!

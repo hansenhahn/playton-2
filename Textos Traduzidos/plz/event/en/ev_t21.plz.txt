@@ -567,7 +567,7 @@ encontraremos o Tom!
 atenção, por isso pense bem.
 !******************************!
 [t21_060_100.gds]
-<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:166>Hrm. Hrrrrm? E que tal...?<W> Não.
+<01:0000002A><03:5>NONE<03:5>NONE<01:00000002><03:166>Hrm. Hrrrrm? E que tal?...<W> Não.
 Hmph. Este enigma vai me manter
 acordado a noite toda...<W>
 !------------------------------!

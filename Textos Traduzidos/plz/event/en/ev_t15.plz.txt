@@ -177,7 +177,7 @@ está atrás da Caixa Elísia!
 [t15_180_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Seguindo uma trilha de papel
 rasgado, Luke e Layton partem
-em busca da fotografia perdida.
+em busca da foto perdida.
 !******************************!
 [t15_180_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:175>Durante sua busca pelos pedaços
@@ -408,12 +408,12 @@ Procurando alguma coisa?
 !******************************!
 [t15_250_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:100>Estamos, sim. Estamos à procura
-dos pedaços de uma fotografia
-rasgada. Você viu algum?
+dos pedaços de uma foto rasgada.
+Você viu algum?
 !******************************!
 [t15_250_300.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:292>Tão procurando... lixo?
-Tá bom, né...? Acho que eu vi
+Tá bom, né?... Acho que eu vi
 um lá pela entrada da floresta.<W>
 !------------------------------!
 Mas olha, vou te contar -- é
@@ -430,7 +430,7 @@ no castelo Herzen. E agora, vocês.
 [t15_250_500.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:93>Tinha cara de ser grã-fina.
 Aparentava ter, sei lá, 16?<W>
-Então ela não está com vocês...?
+Então ela não está com vocês?...
 !******************************!
 [t15_250_600.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:44>Ele deve estar falando da
@@ -589,7 +589,7 @@ Mas não há por que nos preocuparmos.
 encontrá-la. Vamos em frente, Luke.
 !******************************!
 [t15_290_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:34>Professor, será que este aqui é...?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:34>Professor, será que este aqui é?...
 !******************************!
 [t15_290_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:105>Um pedaço da foto?<W> Acho que sim.
@@ -644,7 +644,7 @@ procurando pistas nele.
 !******************************!
 [t15_330_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:56>Professor, ali! Outro pedaço
-da fotografia!
+da foto!
 !******************************!
 [t15_330_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:80>Ótimo trabalho, Luke. Vou guardar
@@ -653,7 +653,7 @@ outra vez.
 !******************************!
 [t15_340_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Luke, será que aquilo é outro
-pedaço perdido da nossa fotografia?
+pedaço perdido da nossa foto?
 !******************************!
 [t15_340_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:29>É sim! Ótimo trabalho, Professor!
@@ -767,5 +767,5 @@ Disso eu tenho quase certeza.
 [t15_430_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:94>Aquele buldogue tá impedindo a nossa
 saída pelo lado nordeste.<W> Hmm... como
-é que a gente faz pra passar...?
+é que a gente faz pra passar?...
 !******************************!
