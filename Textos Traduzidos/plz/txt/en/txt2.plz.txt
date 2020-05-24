@@ -481,7 +481,7 @@ Enigma W%2d %s
 Você achou um pedaço da
 fotografia! Ainda há %d
 pedaço para encontrar!
-****************************!
+!******************************!
 [tx_1601.txt]
 Você viu %d dicas enquanto
 resolvia este enigma.

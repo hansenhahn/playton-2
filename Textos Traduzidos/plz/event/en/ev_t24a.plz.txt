@@ -15,8 +15,8 @@ que eu dei pra vocês?
 !******************************!
 [t24_002_100.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:103>Folsense, Folsense, tão boa que nem...
-Espera, o quê? Enfim, aqui todos
-os seus sonhos se realizam.
+Espera, que nem o quê? Enfim, aqui
+todos os seus sonhos se realizam.
 !******************************!
 [t24_003_100.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:189>Muita gente vem pra Folsense com

@@ -842,11 +842,11 @@ de chá trará de volta o meu eu animado
 de outrora?<W> Espero que sim.
 !******************************!
 [t30_100_100.gds]
-<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:8>Ânnnnggghh...
+<01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:8>Annnnggghh...
 !******************************!
 [t30_100_200.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:41>Qual seria o seu problema,
-jovem?
+meu jovem?
 !******************************!
 [t30_100_300.gds]
 <01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:87>Ah, estava me estressando com
@@ -1094,7 +1094,7 @@ lhe ajudar a recuperar o ânimo?
 Ficaria feliz em lhe preparar um.
 !******************************!
 [t30_130_500.gds]
-<01:0000001B><03:10>b1 normal<03:5>NONE<01:00000001><03:193>OK, mas devo avisá-lo que trabalhar
+<01:0000001B><03:10>b1 normal<03:5>NONE<01:00000001><03:193>Certo, mas devo avisá-lo que trabalhar
 em um restaurante cinco estrelas
 fez de mim um bebedor exigente.<W>
 !------------------------------!
@@ -1408,7 +1408,7 @@ fazer esse chá que estava falando?
 !******************************!
 [t30_164_100.gds]
 <01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:122>Eu quero um chá leve que não vá
-me deixar de pé à noite, OK?<W>
+me deixar de pé à noite, certo?<W>
 !------------------------------!
 Ah, e por favor não vá esquecer
 das Sementes Cítricas nele.
@@ -1488,7 +1488,7 @@ Ah, nããããooo!
 [t30_174_100.gds]
 <01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:92>Pele saudável requer vitaminas.
 Me prepare algo que tenha uns
-nutrientes rejuvenescedores, OK?
+nutrientes rejuvenescedores, certo?
 !******************************!
 [t30_180_100.gds]
 <01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:110>Tá vendo esses óculos de sol?<W>

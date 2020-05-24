@@ -164,7 +164,7 @@ Museu - Térreo
 Museu - Andar 1
 !******************************!
 [p_56.txt]
-Rua à Oeste
+Rua a Oeste
 !******************************!
 [p_57.txt]
 Cabaré
@@ -191,7 +191,7 @@ Vovó Riddleton
 Cabana dos Enigmas
 !******************************!
 [p_64.txt]
-Cruzamento à Oeste
+Cruzamento a Oeste
 !******************************!
 [p_65.txt]
 

@@ -413,7 +413,7 @@ como prometi.
 [t24_413_200.gds]
 <01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:103>Antigamente tinha muito mais gente
 em Folsense.<W> Mas aí, um dia, todo
-mundo se levantou e foi embora...
+mundo pegou suas coisas foi embora...
 !******************************!
 [t24_414_100.gds]
 <01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:107>Não vou lhes dar este pedaço de foto

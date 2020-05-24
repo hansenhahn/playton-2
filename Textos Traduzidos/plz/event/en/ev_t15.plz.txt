@@ -421,7 +421,7 @@ eu já encontrei hoje.<W>
 !------------------------------!
 Ainda agora eu esbarrei com uma
 garota querendo saber como chegar
-no castelo Herzen. E agora, vocês.
+no Castelo Herzen. E agora, vocês.
 !******************************!
 [t15_250_400.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:17>Uma garota?
@@ -439,9 +439,8 @@ Katia, Professor.
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>É, ela bate com a descrição.
 !******************************!
 [t15_250_800.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:49>Você acha que ela tá
-atrás da fortuna do
-Duque Herzen?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:49>Você acha que ela tá atrás da
+fortuna do Duque Herzen?
 !******************************!
 [t15_250_900.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:260>Não foi a impressão que tive em

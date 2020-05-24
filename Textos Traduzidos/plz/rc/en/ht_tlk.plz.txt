@@ -599,7 +599,7 @@ pouquinho azedo também, é bom.
 [ht_hint_13.txt]
 Algo misterioso seria maravilhoso.
 E por misterioso, eu quero dizer
-doce, suave e apimentado. OK?
+doce, suave e apimentado. Certo?
 !******************************!
 [ht_hint_14.txt]
 Eu aceito um chá suave com uma
@@ -648,7 +648,7 @@ se esqueça da Flor de Sonho nele.
 [ht_hint_22.txt]
 Quero um chá que seja revigorante
 e bom pra curar as mazela. Tem que
-ser forte e defumado, OK?
+ser forte e defumado, certo?
 !******************************!
 [ht_hint_23.txt]
 Para este chá, vai precisar de algo
