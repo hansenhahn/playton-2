@@ -704,8 +704,8 @@ sabe disso ainda.
 se dizer.<W>
 !------------------------------!
 Honestamente, parece que você
-precisa levantar o ânimo. O acha
-de eu lhe preparar um chá?
+precisa levantar o ânimo. O que
+acha de eu lhe preparar um chá?
 !******************************!
 [t30_080_500.gds]
 <01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:180>Bom, não posso dizer não a uma
@@ -733,10 +733,10 @@ tem sua aprovação.
 [t30_081_300.gds]
 <01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:276>Agradecido, rapazes.<W> Mas ouçam,
 sigam esse meu conselho, de um
-velho rapaz que sabe das coisas.<W>
+velho que sabe das coisas.<W>
 !------------------------------!
 Fechar a mina é mais perigoso
-para essa cidade do que qualquer
+pra essa cidade do que qualquer
 vampiro.<W>
 !------------------------------!
 Sem o dinheiro que o ouro traz,
@@ -749,9 +749,9 @@ preparou não é bem o que Dylan
 procura.
 !******************************!
 [t30_082_100.gds]
-<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:182>O que cê fez nesse chá, xarás?
-Tá muito aguado! Fraco demais
-pra um mineiro como eu.<W>
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:182>O que você colocou nesse chá,
+rapaz? Tá muito aguado! Fraco
+demais pra um mineiro como eu.<W>
 !------------------------------!
 Foi mal, garoto. Vai precisar de
 algo muito mais forte pra me
@@ -1430,7 +1430,7 @@ estupenda.
 !******************************!
 [t30_170_500.gds]
 <01:0000003F><03:9>b1 smile<03:5>NONE<01:00000002><03:50>Mas olha só pra essa pele!
-Tá horrível horrível!
+Tá horrível!
 !******************************!
 [t30_170_600.gds]
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:87>Bom, se isso está lhe incomodando
@@ -1445,8 +1445,8 @@ Afinal, ficar me preocupando com
 minha pele só vai piorar as coisas!
 !******************************!
 [t30_171_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:85>Ah, amável! Um brilho rosado volta
-à face de Gertie. Ela parece
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:85>Ah, que lindo! Um brilho rosado
+volta à face de Gertie. Ela parece
 recuperada e animada.
 !******************************!
 [t30_171_100.gds]
@@ -1465,9 +1465,9 @@ se inquietar tanto por causa dela.
 sinto como se subitamente eu
 tivesse envelhecido bastante.<W>
 !------------------------------!
-Digo, obviamente eu ainda sou um
-diva, mas de alguma forma eu ainda
-me sinto mais velha, sabe?
+Quero dizer, obviamente eu ainda sou
+uma diva, mas de alguma forma eu me
+sinto ainda mais velha, sabe?
 !******************************!
 [t30_172_10.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:67>Infelizmente, o chá que você

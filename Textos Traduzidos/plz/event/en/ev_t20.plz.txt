@@ -313,7 +313,7 @@ essa ideia.
 !******************************!
 [t20_023_700.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:156>Shh! Luke, escute. Não acho
-que nosso amigo inspetor será de
+que nosso amigo Inspetor será de
 muita ajuda para nós.<W>
 !------------------------------!
 O que me diz de conduzirmos uma

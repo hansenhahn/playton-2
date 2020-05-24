@@ -378,12 +378,12 @@ questionar Chelmey acerca da
 foto achada na casa do doutor.
 !******************************!
 [t18_270_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Infelizmente, o inspetor parece ter
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Infelizmente, o Inspetor parece ter
 acidentalmente deixado pedaços da
 foto espalhados pela cidade.
 !******************************!
 [t18_270_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Seguindo os passos do inspetor,
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:96>Seguindo os passos do Inspetor,
 a dupla segue para recuperar os
 pedaços desaparecidos da foto.
 !******************************!
@@ -417,7 +417,7 @@ Barton, que lhes conta que Chelmey havia
 identificado o assassino do doutor.
 !******************************!
 [t18_290_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>A pedido do inspetor, Luke e
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:75>A pedido do Inspetor, Luke e
 Layton voltam ao hotel.
 !******************************!
 [t18_300_100.gds]

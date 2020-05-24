@@ -857,7 +857,7 @@ Obrigado.
 [t24_503_300.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:103>Vamos, Luke. Vejamos se podemos
 recuperar os pedaços dessa foto
-refazendo os passos do inspetor.
+refazendo os passos do Inspetor.
 !******************************!
 [t24_503_400.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>O que há de tão importante nessa
@@ -886,7 +886,7 @@ Talvez tenha sido... Hmm...
 !******************************!
 [t24_510_100.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:97>Cá entre nós, mas sabe aquele
-buraco no bolso do inspetor?<W>
+buraco no bolso do Inspetor?<W>
 Um cachorro fez aquilo.
 !******************************!
 [t24_510_200.gds]
@@ -916,13 +916,13 @@ episódios menos amigáveis.
 solução desse enigma, creio eu.
 !******************************!
 [t24_512_100.gds]
-<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:98>O inspetor pode parecer um resmungão,
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:98>O Inspetor pode parecer um resmungão,
 mas nunca vi um homem tão perdidamente
 apaixonado por sua esposa.
 !******************************!
 [t24_513_100.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:184>Muito bem, senhores. Agora, devo
-partir. O inspetor e eu precisamos
+partir. O Inspetor e eu precisamos
 vasculhar a área por mais pistas.<W>
 !------------------------------!
 Cuidem-se quando estiverem nas

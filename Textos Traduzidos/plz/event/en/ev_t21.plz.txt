@@ -509,7 +509,7 @@ Professor...
 [t21_050_1700.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:182>O segundo sapato era um sapato
 esquerdo, igual em todos os aspectos ao
-sapato que o inspetor nos deu.<W>
+sapato que o Inspetor nos deu.<W>
 !------------------------------!
 Se esse estranho par de sapatos
 significar o que penso que significa,
@@ -524,7 +524,7 @@ do Tom, não é, Professor?
 !******************************!
 [t21_050_400.gds]
 <01:00000002><03:9>b1 angry<03:5>NONE<01:00000003><03:95>Isso é estranho... É o mesmo pé 
-que o sapato que o inspetor nos
+que o sapato que o Inspetor nos
 deu mais cedo.
 !******************************!
 [t21_050_500.gds]

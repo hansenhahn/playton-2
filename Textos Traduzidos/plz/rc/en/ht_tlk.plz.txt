@@ -58,7 +58,7 @@ não gostasse de fazer chá!
 !******************************!
 [ht_003_0.txt]
 Este chá parece ser o ideal para
-tirar a frieza de alguém que está
+tirar os arrepios de alguém que está
 pressentindo um resfriado.
 !******************************!
 [ht_003_1.txt]
@@ -176,7 +176,7 @@ Ahhh, sinta só este aroma.
 [ht_009_1.txt]
 Meio que te faz esquecer todos os
 seus problemas por um instante,
-né Professor?
+né, Professor?
 !******************************!
 [ht_009_2.txt]
 Devo confessar que é bem agradável.
@@ -593,7 +593,7 @@ sofisticado para um adulto.
 !******************************!
 [ht_hint_12.txt]
 Posso importuná-lo para me preparar
-algo doce e amargo? Se tiver um
+algo doce e amargo? Se estiver um
 pouquinho azedo também, é bom.
 !******************************!
 [ht_hint_13.txt]
@@ -622,8 +622,8 @@ Cítrica, por favor. Quero um sabor
 suave, e que não me deixe acordado.
 !******************************!
 [ht_hint_18.txt]
-Preciso de vitaminas para clarear
-minha pele! Faça para mim um chá
+Preciso de vitaminas pra clarear
+minha pele! Faça pra mim um chá
 calmante com um monte de vitaminas.
 !******************************!
 [ht_hint_19.txt]

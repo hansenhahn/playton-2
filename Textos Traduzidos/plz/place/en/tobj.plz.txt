@@ -37,8 +37,9 @@ Opa! Esse beco está
 alagado!
 !******************************!
 [tobj105.txt]
-As consequências do
-consumismo são trágicas.
+As consequências
+do consumismo são
+trágicas.
 !******************************!
 [tobj106.txt]
 Está bastante sombrio
@@ -47,7 +48,7 @@ por essas bandas.
 [tobj107.txt]
 Bom... Pelo menos essas
 chaminés fumaçantes são
-reconfortantes.
+silenciosas.
 !******************************!
 [tobj108.txt]
 Eca! Parece que uma cobra

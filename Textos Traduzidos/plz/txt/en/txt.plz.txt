@@ -639,7 +639,7 @@ se é que possui algum.
 [d_21.txt]
 Parece que nos encontramos aqui
 mais uma vez. Acabei de me encontrar
-com o inspetor e o agente Barton.
+com o Inspetor e o agente Barton.
 Chelmey explicou que eles estão na
 cidade em busca de informações sobre
 a Caixa Elísia. Se eu conseguisse
@@ -726,17 +726,17 @@ ao emblema que adorna o diário que
 encontramos, mas tenho a sensação
 de já tê-lo visto em outro lugar.
 Agora tenho várias perguntas a
-fazer ao inspetor. Suponho que ele
+fazer ao Inspetor. Suponho que ele
 esteja esperando por nós no hotel.
 !******************************!
 [d_29.txt]
 Que decepção. Eu queria dar uma
 olhada na fotografia rasgada que
-o inspetor recolheu no apartamento
+o Inspetor recolheu no apartamento
 do doutor, mas parece que ele a
 perdeu. A única forma de voltarmos
 a ver essa foto é refazendo os
-passos do inspetor pela cidade, e
+passos do Inspetor pela cidade, e
 recuperarmos todos os seus pedaços.
 Que inoportuno!
 !******************************!
@@ -2779,7 +2779,7 @@ uma boa pegadinha.
 Depois de abrir a caixa, o
 doutor entra em um coma
 tão profundo que até o
-inspetor acredita que ele
+Inspetor acredita que ele
 faleceu. Por sorte, não é
 esse o caso, e a sua
 recuperação milagrosa

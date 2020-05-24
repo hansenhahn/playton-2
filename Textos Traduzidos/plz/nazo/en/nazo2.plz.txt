@@ -481,21 +481,21 @@ floricultura, e tenho certeza de que
 não andei mais do que o necessário.<''>
 
 Baseado em suas memórias do ocorrido,
-você consegue recriar a rota do inspetor?
+você consegue recriar a rota do Inspetor?
 !******************************!
 Acertou!
 
 Você pode ter descoberto o caminho que
-o inspetor percorreu pela cidade, mas a
+o Inspetor percorreu pela cidade, mas a
 busca pelos pedaços rasgados da foto
 está apenas começando. 
 !******************************!
 Que pena!
 
 Certifique-se de considerar tudo que
-o inspetor lhe contou sobre sua rota.
+o Inspetor lhe contou sobre sua rota.
 !******************************!
-O inspetor afirma que virou em um
+O Inspetor afirma que virou em um
 cruzamento com uma cafeteria, mas isso
 não quer dizer que ele virou na direção
 da cafeteria que viu. Ao invés disso, o
@@ -549,7 +549,7 @@ e tente de novo.
 !******************************!
 Se um dos policiais tivesse dito que virou
 um total de mil vezes no curso de sua
-investigação, o inspetor não teria motivo
+investigação, o Inspetor não teria motivo
 para duvidar que o tira estivesse dizendo
 a verdade.
 !******************************!

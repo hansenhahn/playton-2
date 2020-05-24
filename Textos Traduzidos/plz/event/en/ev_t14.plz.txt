@@ -781,7 +781,7 @@ Obrigado.<W>
 !------------------------------!
 Vamos, Luke. Talvez consigamos
 recuperar os pedaços da foto se
-reproduzirmos os passos do inspetor.
+reproduzirmos os passos do Inspetor.
 !******************************!
 [t14_250_1300.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>O que essa foto tem de
@@ -799,7 +799,7 @@ pro nordeste da cidade!
 !******************************!
 [t14_250_200.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:87>Peço perdão pelo pedido repentino,
-inspetor, mas poderia me mostrar a foto
+Inspetor, mas poderia me mostrar a foto
 que você achou na casa do doutor?
 !******************************!
 [t14_250_300.gds]
@@ -1410,7 +1410,7 @@ que a chave para resolver o mistério
 está aqui, em Folsense.
 !******************************!
 [t14_460_300.gds]
-<01:00000002><03:9>b2 laugh<03:5>NONE<01:00000003><03:82>He he he. É, talvez o inspetor
+<01:00000002><03:9>b2 laugh<03:5>NONE<01:00000003><03:82>He he he. É, talvez o Inspetor
 esteja quase a par da situação,
 pra variar.
 !******************************!
@@ -1439,7 +1439,7 @@ seguirmos em frente!
 atrás do senhor, senhor!
 !******************************!
 [t14_470_100.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:66>Ah! Tô vendo que o inspetor achou
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:66>Ah! Tô vendo que o Inspetor achou
 uma nova vítima pra interrogar.
 !******************************!
 [t14_470_200.gds]
@@ -1651,7 +1651,7 @@ do que a gente diz.
 [t14_500_400.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:101>Infelizmente, não há nada que possamos
 fazer quanto a isso, Luke. Teremos de
-voltar ao inspetor mais tarde.
+voltar ao Inspetor mais tarde.
 !******************************!
 [t14_501_100.gds]
 <01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:408>Vocês. Desculpem, estou ocupado com o
@@ -1696,7 +1696,7 @@ Obrigado.<W>
 [t14_510_300.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:102>Vamos, Luke. Talvez consigamos
 recuperar os pedaços da foto se
-reproduzirmos os passos do inspetor.
+reproduzirmos os passos do Inspetor.
 !******************************!
 [t14_510_400.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>O que essa foto tem de

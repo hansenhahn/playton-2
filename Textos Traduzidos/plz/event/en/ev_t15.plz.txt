@@ -152,9 +152,9 @@ a filha do Sr. Anderson!
 em Folsense?
 !******************************!
 [t15_170_500.gds]
-<01:00000014><03:10>b2 normal<03:5>NONE<01:00000003><03:102>Me desculpem, mas não posso dizer.<W>
-Se me dão licença, tenho de
-voltar à minha busca. Tchau.
+<01:00000014><03:10>b2 normal<03:5>NONE<01:00000003><03:102>Me desculpem, mas não posso
+dizer.<W> Se me dão licença, tenho
+de voltar à minha busca. Tchau.
 !******************************!
 [t15_170_600.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:49>Katia, espera! Busca pelo quê?
@@ -263,7 +263,7 @@ da foto!
 Qual o problema?
 !******************************!
 [t15_220_300.gds]
-<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:164>O inspetor encontrou a pessoa
+<01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:164>O Inspetor encontrou a pessoa
 responsável pelo assassinato
 do Dr. Schrader.<W>
 !------------------------------!
@@ -339,8 +339,8 @@ no limite da cidade.
 !******************************!
 [t15_240_100.gds]
 <01:00000043><03:10>b1 normal<03:5>NONE<01:00000001><03:417>Folsense, a cidade banhada a ouro.<W>
-Era assim que a chamavam
-no meu tempo de menino.<W>
+Era assim que a chamavam no meu
+tempo de menino.<W>
 !------------------------------!
 E eu trabalhava na mina que
 deu à cidade seu apelido, sabe?<W>
@@ -353,8 +353,7 @@ malandrinhos tentando entrar nela
 pra ver se acham alguma coisa.<W>
 !------------------------------!
 Mas sempre voltam de mãos
-vazias. Isso eu garanto,
-rapaz.
+vazias. Isso eu garanto, rapaz.
 !******************************!
 [t15_240_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:78>Nós ouvimos boatos acerca
@@ -632,7 +631,7 @@ instável.
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:203>Tá na mão! <W>&setani 2 b2_normal&
 !------------------------------!
 Eu só queria saber por que o
-inspetor foi inventar de mexer
+Inspetor foi inventar de mexer
 no lixo pra começo de conversa.<W>
 !------------------------------!
 Ele achou mesmo que o assassino
@@ -647,9 +646,9 @@ procurando pistas nele.
 da foto!
 !******************************!
 [t15_330_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:80>Ótimo trabalho, Luke. Vou guardar
-em minha mala para não perdê-lo
-outra vez. 
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:80>Excelente trabalho, Luke. Vou
+guardá-lo em minha mala para não
+perdê-lo outra vez. 
 !******************************!
 [t15_340_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Luke, será que aquilo é outro
@@ -703,7 +702,7 @@ há mais o que encontrar aqui.<W>
 !------------------------------!
 Acho melhor continuarmos a
 a busca em outros lugares que
-o inspetor possa ter visitado.
+o Inspetor possa ter visitado.
 !******************************!
 [t15_400_100.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:20>Achei outro.

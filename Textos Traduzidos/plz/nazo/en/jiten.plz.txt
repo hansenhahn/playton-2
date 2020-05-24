@@ -119,7 +119,7 @@ Antiquário
 Praça da Torre
 !******************************!
 [p_42.txt]
-Rua à Leste
+Rua a Leste
 !******************************!
 [p_43.txt]
 Estúdio Fotográfico
