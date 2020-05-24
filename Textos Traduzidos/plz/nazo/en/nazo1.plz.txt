@@ -2152,7 +2152,7 @@ Pense bem sobre as regras do rapaz em
 relação ao seu chapéu e tente novamente.
 !******************************!
 Comece colocando uma placa indicando
-chuva em cada um dos dia em que nosso
+chuva em cada um dos dias em que nosso
 amigo não usou o chapéu.
 !******************************!
 Após colocar as placas indicando chuva
@@ -2554,13 +2554,13 @@ sejam do mesmo tamanho?
 !******************************!
 Se ainda estiver tendo problemas,
 saiba que a única linha a se
-desenhar terá de ser forma de um
+desenhar terá de ter a forma de um
 círculo.
 
-A pergunta que sobra é sobre onde
-que é para desenhar para que duas
-partes da praça tenham o mesmo formato
-e sejam da mesma proporção da outra.
+A pergunta que sobra é onde se deve
+desenhar para que duas partes da
+praça tenham o mesmo formato e sejam
+da mesma proporção da outra.
 !******************************!
 [n6.dat]
 <0007>Quatro Casais

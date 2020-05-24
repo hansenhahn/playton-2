@@ -110,7 +110,7 @@ viagem no Molentary Express.
 eu diria.
 !******************************!
 [t23_013_700.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:193>Mas de volta a missão.
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:193>Mas de volta à missão.
 Reviramos o lugar e saímos
 de mãos vazias.<W>
 !------------------------------!
@@ -201,7 +201,7 @@ prédios é um hotel.
 !******************************!
 [t23_041_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:70>Primeiro, o mais importante...
-levar a Flora à um hotel onde ela
+levar a Flora a um hotel onde ela
 possa descansar.
 !******************************!
 [t23_044_100.gds]

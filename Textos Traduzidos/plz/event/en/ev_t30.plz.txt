@@ -77,19 +77,19 @@ preparou.
 !******************************!
 [t30_002_100.gds]
 <01:00000022><03:9>b1 angry<03:5>NONE<01:00000001><03:108>Que foi? Falei grego? Falei que eu
-quero uma xícara quente de Citrus
-Classic!<W> Citrus! Classic!<W> É fácil!
+quero uma xícara quente de Cítrico
+Clássico!<W> Cítrico! Clássico!<W> É fácil!
 !******************************!
 [t30_003_100.gds]
 <01:00000022><03:9>b1 angry<03:5>NONE<01:00000001><03:148>Que reação triste é essa? Você
 está apenas começando! Não pode
 desistir agora!<W>
 !------------------------------!
-Olha, o Citrus Classic é um chá
+Olha, o Cítrico Clássico é um chá
 básico. Você consegue.
 !******************************!
 [t30_004_100.gds]
-<01:00000022><03:9>b2 smile<03:5>NONE<01:00000001><03:136>Quer tentar de novo? né? Kehehehe!<W>
+<01:00000022><03:9>b2 smile<03:5>NONE<01:00000001><03:136>Quer tentar de novo, né? Kehehehe!<W>
 !------------------------------!
 Esse é o espírito, amigo. Continue
 praticando, e em pouco tempo você
@@ -288,8 +288,8 @@ Acha que poderia me ajudar?
 doce menina...
 !******************************!
 [t30_030_300.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:45>Já sei! Por que não a gente não
-faz uma xícara de chá pra você?
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:45>Já sei! Por que a gente não faz
+uma xícara de chá pra você?
 !******************************!
 [t30_030_400.gds]
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:20>Excelente ideia, Luke.
@@ -1013,7 +1013,7 @@ e tomar uma xícara de chá?
 !******************************!
 [t30_120_700.gds]
 <01:0000003B><03:10>b1 normal<03:5>NONE<01:00000002><03:262>Parece ótimo! Eu grito que nem uma
-banshee assim que bato o olho num
+matraca assim que bato o olho num
 fantasma. Minha garganta tá seca!<W>
 !------------------------------!
 Mas se vou dar uma pausa pra tomar

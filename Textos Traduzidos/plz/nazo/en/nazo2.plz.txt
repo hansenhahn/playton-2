@@ -475,7 +475,7 @@ em conta aquilo que ele ainda lembra,
 quando estava andando pela cidade.
 
 <''>Entrei em vários cruzamentos, mas só
-em uma que tinha uma cafeteria. Ah, também
+em um tinha uma cafeteria. Ah, também
 passei por uma chapelaria e por uma
 floricultura, e tenho certeza de que
 não andei mais do que o necessário.<''>
@@ -1063,7 +1063,7 @@ Apenas estude os quatro edifícios
 cautelosamente e a resposta se revelará.
 !******************************!
 Com uma segunda olhada, um dos prédios
-tem a palavra <''>HOTEL<''> nela.
+tem a palavra <''>HOTEL<''> nele.
 Você consegue ver?
 !******************************!
 Uma inspeção da cena revela que um
@@ -1102,8 +1102,8 @@ Comece colocando uma rosa na quina
 inferior esquerda da sala e prossiga
 por lá.
 !******************************!
-Sabendo onde vai uma rosa, dispor
-de o resto não se deve revelar muito
+Sabendo onde vai uma rosa, posicionar
+as demais não se deve mostrar muito
 difícil.
 
 Posicione a segunda flor o mais
@@ -1146,13 +1146,13 @@ enigma.
 A soma de todas as cartas é 21.
 
 Sabendo disso, você consegue deduzir que
-a fileira superiora de três cartas na sua
+a fileira superior de três cartas na sua
 solução deve dar 10 como soma, enquanto
-a inferiora deve ter 11 como resultado.
+a inferior deve ter 11 como resultado.
 !******************************!
 A carta 1 pertence à fileira de cima.
 !******************************!
-Ponha a carta carta 4 na coluna do
+Ponha a carta 4 na coluna do
 meio de cartas.
 !******************************!
 [n63.dat]
@@ -1597,7 +1597,7 @@ diferentes, e, se olhar atentamente, você
 será capaz de descobrir em qual ordem elas
 foram tiradas. Insira sua resposta usando
 as letras ligadas a cada imagem, começando
-pela que for a mais cedo, como: ABCD.
+pela que vem primeiro, como: ABCD.
 !******************************!
 Olhos de águia!
 
@@ -1826,7 +1826,7 @@ Bem pensado!
 De dentro da torre, não há como ver o topo
 dela. Você pode até tentar colocar a cabeça
 pra fora de uma janela e olhar pra cima, mas
-ainda sim, não conseguirá enxergar o topo
+ainda assim, não conseguirá enxergar o topo
 da torre.
 !******************************!
 Que pena!
@@ -2271,7 +2271,7 @@ num enigma chamado de Torre de Hanói, que
 pode ser resolvido usando um conceito
 em ciências da computação chamado de
 recursividade. Isso pode não ser de muita
-ajuda para você agora, mas ainda sim é
+ajuda para você agora, mas ainda assim é
 interessante, não acha?
 !******************************!
 Beleza então, ô <''>ricasso<''>. Agora toma:
@@ -2696,7 +2696,7 @@ as informações que tem em mãos, e
 achar as coisas que pode usar.
 A diferença entre as idades dos pais
 dela talvez não vá lhe ajudar. Mas a
-idade de sua irmão pode ser mais útil...
+idade de sua irmã pode ser mais útil...
 !******************************!
 A irmã da garota é duas vezes mais
 velha que ela, e daqui a cinco anos,

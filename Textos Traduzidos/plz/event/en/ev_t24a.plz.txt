@@ -25,7 +25,7 @@ não parece ser o caso de vocês.<W>
 !------------------------------!
 Como alguém que conhece a cidade
 de cabo a rabo, só dou um conselho:
-fiquem longe da floresta à noroeste.
+fiquem longe da floresta a noroeste.
 !******************************!
 [t24_004_100.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:80>Eu aqui tentando ser receptivo
@@ -676,7 +676,7 @@ teria como nos ajudar?
 !******************************!
 [t24_140_300.gds]
 <01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:159>Devo admitir que este é o pedido
-mais interessante que recebi hoje.<W>
+mais estranho que recebi hoje.<W>
 !------------------------------!
 Eu não tenho nenhuma ração enlatada,
 mas esta sobra de pernil vai deixar
@@ -684,7 +684,7 @@ o totó nas nuvens!
 !******************************!
 [t24_140_400.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:65>Parece perfeito. Poderíamos
-levá-los conosco?
+levá-la conosco?
 !******************************!
 [t24_140_500.gds]
 <01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:47>Claro. Só espero que o cãozinho

@@ -333,7 +333,7 @@ Minutos após a chegada do
 Professor Layton, Luke e Flora em
 Folsense, a estação decrépita se
 transforma em um belo edifício
-diante do seus olhos. O que causou
+diante dos seus olhos. O que causou
 essa mudança repentina da aparência
 da estação de trem?
 !******************************!
@@ -646,7 +646,7 @@ a Caixa Elísia. Se eu conseguisse
 fazer ele colaborar comigo, nós lhe
 daríamos as informações necessárias
 imediatamente, mas ele parece estar
-determinado em trabalhar neste caso
+determinado a trabalhar neste caso
 sozinho.
 !******************************!
 [d_22.txt]
@@ -660,7 +660,7 @@ seguida.
 !******************************!
 [d_23.txt]
 Infelizmente, o portão do Museu
-herzen está trancado, e no momento
+Herzen está trancado, e no momento
 não há outra forma de entrar. Não
 sei quando reabrirão suas portas ao
 público, por isso decidi adiar nossa

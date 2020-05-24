@@ -257,7 +257,7 @@ Hm, quero dizer, nada não! Tá tudo bem!
 [t13_171_100.gds]
 <01:00000023><03:5>NONE<03:5>NONE<01:00000001><03:92>Até que enfim, de volta ao trabalho.
 Já faz eras desde a última vez que
-fiz alguma coisa
+fiz alguma coisa.
 !******************************!
 [t13_180_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:51>Céus! Olhe este lugar! É incrível!

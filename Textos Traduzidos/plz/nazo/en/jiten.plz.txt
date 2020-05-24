@@ -128,7 +128,7 @@ Estúdio Fotográfico
 Restaurante
 !******************************!
 [p_45.txt]
-Caminho à Nordeste
+Caminho a Nordeste
 !******************************!
 [p_46.txt]
 Entrada do Beco

@@ -622,8 +622,8 @@ seguir com os olhos!
 !******************************!
 [tobj51.txt]
 Essa cadeira é um pouco
-diferente, mas ainda sim
-é muito estilosa!
+diferente, mas ainda
+assim é muito estilosa!
 !******************************!
 [tobj52.txt]
 Esse é um lugar ideal

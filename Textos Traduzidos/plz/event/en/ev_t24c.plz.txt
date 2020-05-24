@@ -468,7 +468,7 @@ conservar minha fotos.
 !******************************!
 [t24_733_400.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:163>Que estranho. Geralmente fotos velhas
-assim mostraram sinais de desgaste
+assim mostrariam sinais de desgaste
 com o tempo.<W>
 !------------------------------!
 Bem, quem sabe os métodos de

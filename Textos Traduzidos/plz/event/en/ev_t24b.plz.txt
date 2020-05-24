@@ -896,7 +896,7 @@ Qual cachorro?
 [t24_510_300.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:102>O Inspetor Chelmey teve uma, ahn,
 confusão com um canino, enquanto seguia
-à nordeste da cidade.
+a nordeste da cidade.
 !******************************!
 [t24_510_400.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:100>Bem, cães podem farejar pessoas
