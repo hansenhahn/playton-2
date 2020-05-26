@@ -126,7 +126,7 @@ que ainda estamos no caminho certo?
 !******************************!
 [t24_630_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Esta floresta não acaba nunca, e está
-ficando cade vez mais e mais escuro.
+ficando cada vez mais e mais escuro.
 !******************************!
 [t24_630_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:88>Sim, mas felizmente alguém deixou
@@ -205,7 +205,7 @@ antes de prosseguirmos.
 [t24_661_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:92>Nunca vi este tipo de cogumelo antes.
 Me deixe estudá-lo um pouco antes
-de partimos.
+de partirmos.
 !******************************!
 [t24_662_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:98>Tenho aquela estranha sensação de que

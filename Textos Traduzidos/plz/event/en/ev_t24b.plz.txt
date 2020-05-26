@@ -564,7 +564,7 @@ problema?<W>
 !------------------------------!
 Ah, bem... Já que vieram até aqui,
 por que não dão uma mãozinha
-neste enigma que tenho aqui?
+com este enigma que tenho aqui?
 !******************************!
 [t24_451_100.gds]
 <01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:48>Voltaram pra mais? É isso que
@@ -572,7 +572,7 @@ eu gosto de ouvir!
 !******************************!
 [t24_452_100.gds]
 <01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:153>Por que cargas d'água o Duque Herzen
-construiu sua casa tão afastado da
+construiu sua casa tão afastada da
 cidade?<W>
 !------------------------------!
 Mesmo sem vampiros, é tudo tão quieto

@@ -1029,7 +1029,7 @@ Mas o que diabos está acontecendo
 aqui?
 !******************************!
 [t16_180_600.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Puxa, que horrível.  Tanta gente deve
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Puxa, que horrível. Tanta gente deve
 ter ficado doente...
 !******************************!
 [t16_180_700.gds]
@@ -1088,7 +1088,7 @@ grande castelo ao longe e
 falarem com o Duque Anton.
 !******************************!
 [t16_190_1500.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:52>Esse homem, p "Anton". É ele o
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:52>Esse homem, o "Anton". É ele o
 primogênito do antigo duque?
 !******************************!
 [t16_190_1600.gds]
@@ -1381,7 +1381,7 @@ Vamos embora, Luke.
 !******************************!
 [t16_260_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:92>Quanta coisa tem neste lugar...
-Acha que esse aqui é um retrato*
+Acha que esse aqui é um retrato
 do finado duque?
 !******************************!
 [t16_260_200.gds]
@@ -1419,7 +1419,7 @@ envelhecem, não é mesmo?
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Então este é o finado Duque Herzen.
 !******************************!
 [t16_270_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:54>Professor, veja só esta caixa*(case)
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:54>Professor, veja só esta caixa
 de coisas.
 !******************************!
 [t16_270_200.gds]
@@ -1586,7 +1586,7 @@ no castelo.
 !******************************!
 [t16_320_100.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:55>Vejo que o senhor ficou bem
-interessado nessa foto.*
+interessado nessa foto.
 !******************************!
 [t16_320_1000.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:16>Ganância, talvez?
@@ -1628,7 +1628,7 @@ do tempo durante esta nossa conversa.
 Hora de voltar ao trabalho.<W>
 !------------------------------!
 Por favor, sintam-se à vontade
-para estudarem o museuu o
+para estudarem o museu o
 quanto quiserem.
 !******************************!
 [t16_320_1700.gds]
@@ -1644,7 +1644,7 @@ pessoa, não é mesmo, Professor?
 ser?
 !******************************!
 [t16_320_300.gds]
-<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:264>É um retrato*(foto?) de toda a família Herzen,
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:264>É um retrato de toda a família Herzen,
 a responsável pela lendária
 riqueza de Folsense.<W>
 !------------------------------!
@@ -1658,7 +1658,7 @@ Anton, está à direita.
 [t16_320_400.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:96>Esse "Fredrich"... é o Sr. Beluga,
 o fundador e dono do
-Molentary Express*, não?
+Molentary Express, não?
 !******************************!
 [t16_320_500.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:469>Ah, o senhor já o conhece?<W>

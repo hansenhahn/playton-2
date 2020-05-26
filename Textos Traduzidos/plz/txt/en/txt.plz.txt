@@ -109,7 +109,7 @@ nele. Não tenho dúvidas.
 !******************************!
 [diary_7.txt]
 Muitas pessoas na cidade adoeceram
-devido à uma doença sem nome. Diz-se
+devido a uma doença sem nome. Diz-se
 até que uma maldição caiu sob nossa
 cidade. Como o único filho que restou
 para cuidar de Folsense, eu sequer
@@ -817,7 +817,7 @@ Um homem da cidade alega ter visto
 algo que parece ser o último pedaço
 de papel da fotografia, e estava no
 portão no local mais a oeste da
-cidade. Talvez não esteje mais lá,
+cidade. Talvez não esteja mais lá,
 mas antes de procurar outro lugar,
 sinto que seria mais prudente visitar
 o local que ele mencionou.

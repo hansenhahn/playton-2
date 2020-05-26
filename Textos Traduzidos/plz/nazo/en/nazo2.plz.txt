@@ -35,7 +35,7 @@ Pegue a bolinha que está lá embaixo, e
 mova-a para o espaço anteriormente
 ocupado pela bolinha central.
 
-Agora que está bom poucas bolinhas para
+Agora que está com poucas bolinhas para
 eliminar, não deve ser difícil para você
 resolver o restante do enigma.
 !******************************!
@@ -139,8 +139,8 @@ pinheiro.
 O resto do enigma agora é com você.
 !******************************!
 Ei, a Dica 2 não dizia claramente que
-<''>o resto é agora com você<''>? Bom, saiba que
-não dá pra confiar muito em dicas nos
+<''>o resto é agora com você<''>? Bom, saiba
+que não dá pra confiar muito em dicas nos
 enigmas de <''>Desaparecimento<''> que virão!
 Mesmo assim, vou te dar uma dica dessa
 vez.
@@ -450,11 +450,11 @@ filha a um metro por segundo, portanto
 para cada segundo que passa, a distância
 entre os dois diminui um metro.
 !******************************!
-O pai sai 10 segundos depois de sua filha.
-A filha caminha a uma velocidade de um metro
-por segundo, então ela já está 10 metros
-na frente de seu pai quando este começa
-a andar.
+O pai sai 10 segundos depois de sua
+filha. A filha caminha a uma velocidade
+de um metro por segundo, então ela já
+está 10 metros na frente de seu pai
+quando este começa a andar.
 
 Usando o que você sabe desta dica e da
 anterior, já deve ser possível descobrir
@@ -519,7 +519,7 @@ por toda a área mostrada neste mapa.
 Vá pelo trajeto que preferir, mas relate
 quantas vezes você virou no processo.
 Pode virar à esquerda ou à direita,
-mas meia-lua são estritamente proibidas!<''>
+mas retornos são estritamente proibidos!<''>
 
 Os tiras completaram seu turno e voltaram
 para relatar. Julgando pelos seus relatórios,
@@ -2374,7 +2374,7 @@ foram colocadas.
 
 Reorganize as cartas remanescentes para
 que cada coluna vertical, fileira horizontal
-e linha diagonal de quatro cartas contendo
+e linha diagonal de quatro cartas contenha
 uma quarta de cada naipe. Toque uma carta
 para trocar seu naipe.
 !******************************!
@@ -2440,8 +2440,8 @@ completar essa tarefa?
 
 Como mostrado nesse diagrama, se você
 fizer o sapo pular de volta no caminho
-que ele veio duas vezes duas vezes, ele
-pode ir para o espaço verde com 12 saltos.
+que ele veio duas vezes, ele pode ir
+para o espaço verde com 12 saltos.
 !******************************!
 Que pena!
 
@@ -2522,7 +2522,7 @@ Por exemplo, se uma criança de cinco
 anos se aproximasse, a fonte soltaria água
 dos esguichos A, B, C, D e E nessa ordem.
 Para alguém com 15, o esguicho do meio 
-soltaria água, seguida pelas A a E.
+soltaria água, seguido pelos A a E.
 Para alguém com 30, o esguicho do meio
 soltaria água três vezes. Tendo em vista
 o método da fonte de dizer a idade, há
@@ -2611,7 +2611,7 @@ quadrados situado no meio de uma área rica
 em metais preciosos. Os pedaços de cobre
 valem 1, os de prata valem 3 e os de ouro
 valem 5. Você só pode clamar para si cinco
-quadrados de terra, e eles tem que estar
+quadrados de terra, e eles têm que estar
 conectados na horizontal ou na vertical.
 Quadrados na diagonal não contam.
 
@@ -2837,7 +2837,7 @@ Bem notado!
 
 O fantasma foi cortado da tábua B. A tábua
 deve ter virado quando caiu no chão. Todas
-as outras tábuas tem diferenças sutis que
+as outras tábuas têm diferenças sutis que
 as distinguem da correta.
 !******************************!
 Que pena!

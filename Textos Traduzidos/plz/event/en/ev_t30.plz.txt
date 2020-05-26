@@ -907,7 +907,7 @@ time ainda está ganhando.<W>
 !------------------------------!
 Você não conseguiria criar um chá
 adequado para meus gostos adultos
-mesmos.
+mesmo.
 !******************************!
 [t30_104_100.gds]
 <01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:100>Então, fez um chá que eu vá
@@ -975,7 +975,7 @@ mas creio que vou continuar
 com o meu café.
 !******************************!
 [t30_113_100.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:52>Que pena. Todos bebedor de chá
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:52>Que pena. Todo bebedor de chá
 é tão inseguro assim?
 !******************************!
 [t30_114_100.gds]

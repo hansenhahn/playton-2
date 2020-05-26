@@ -212,7 +212,7 @@ Entrada da Mina
 Vagão 2 - Corredor
 !******************************!
 [p_70.txt]
-Sala de Máquinas da Mina
+Sala de Máquinas
 !******************************!
 [p_71.txt]
 Sala da Mina

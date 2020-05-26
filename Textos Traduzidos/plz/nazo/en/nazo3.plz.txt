@@ -368,7 +368,7 @@ sem passar por nenhum dos túneis duas
 vezes, por qual dos buracos de A até G
 a toupeira deveria começar a limpar?
 Embora passar por qualquer túnel duas
-vezes é proibido, ela pode passar por
+vezes seja proibido, ela pode passar por
 quaisquer junções entre túneis quantas
 vezes ele quiser.
 !******************************!
@@ -436,7 +436,7 @@ ser de peculiar sobre esta cena bonita.
 !******************************!
 Muitas coisas sobre a pintura estão
 um pouco sem nexo, mas qual pequeno
-detalhe parece o mais incomum à você?
+detalhe parece o mais incomum a você?
 !******************************!
 Inspecione rigorosamente o casal
 no centro da imagem. A resposta está

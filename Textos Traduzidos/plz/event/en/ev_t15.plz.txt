@@ -402,7 +402,7 @@ vazias. Pode anotar o que eu
 disse.
 !******************************!
 [t15_250_100.gds]
-<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:78>Oi, rapazes. O que os trás aqui?
+<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:78>Oi, rapazes. O que os traz aqui?
 Procurando alguma coisa?
 !******************************!
 [t15_250_200.gds]

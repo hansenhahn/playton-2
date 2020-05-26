@@ -25,7 +25,7 @@ entrem.
 Esta é Folsense?
 !******************************!
 [t17_023_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:181>Creio que sim. O mote a baixo diz
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:181>Creio que sim. O mote abaixo diz
 que a pintura tem 50 anos de idade.<W>
 !------------------------------!
 É mais ou menos idêntica à vista
@@ -192,7 +192,7 @@ forma da gente sair daqui.
 [t17_065_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:193>Nossa busca nos levou ao castelo
 e estamos a ponto de descobrir o
-que matou Dr. Schrader.<W>
+que matou o Dr. Schrader.<W>
 !------------------------------!
 Temos que investigar este lugar
 atentamente, antes de fugirmos.
@@ -273,7 +273,7 @@ toda esta situação? Por acaso
 você é-
 !******************************!
 [t17_080_300.gds]
-<01:00000014><03:9>b1 angry<03:5>NONE<01:00000003><03:49>Não temos tempo! Vocês tem que
+<01:00000014><03:9>b1 angry<03:5>NONE<01:00000003><03:49>Não temos tempo! Vocês têm que
 sair daqui!
 !******************************!
 [t17_110_100.gds]
@@ -699,11 +699,11 @@ ter envelhecido um dia sequer.
 !******************************!
 [t17_280_530.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:266>Então também está intrigado com
-isso, não é?<W>Não consigo entender
+isso, não é?<W> Não consigo entender
 como isso é possível.<W>
 !------------------------------!
 É especialmente estranho, dado que
-Sr. Beluga claramente envelheceu
+o Sr. Beluga claramente envelheceu
 desde que a foto foi tirada.<W>
 !------------------------------!
 Ao que parece, temos que seguir
