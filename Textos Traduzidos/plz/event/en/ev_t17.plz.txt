@@ -2,7 +2,7 @@
 <01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:9>Bem-vindos.
 !******************************!
 [t17_010_200.gds]
-<01:00000001><03:10>b2 normal<03:10>b1 normal<01:00000002><03:213>Perdão me intrometar, mas estamos
+<01:00000001><03:10>b2 normal<03:10>b1 normal<01:00000002><03:213>Perdão me intrometer, mas estamos
 investigando as origens desta
 caixa antiga que temos aqui.<W>
 !------------------------------!
@@ -11,7 +11,7 @@ estar conectado à sua casa
 de alguma forma.<W>
 !------------------------------!
 Você teria tempo para responder
-algumas peguntas?
+algumas perguntas?
 !******************************!
 [t17_010_300.gds]
 <01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:90>Hm.<W>
@@ -353,7 +353,7 @@ cidade é só uma pálida sombra.
 Uma ilusão surgida da ganância.<W>
 !------------------------------!
 Você e Sophia...
-Tudo que vocês conhece mudou
+Tudo o que você conhece mudou
 50 anos atrás.
 !******************************!
 [t17_111_100.gds]
@@ -442,7 +442,7 @@ segunda maneira de abri-la.<W>
 !------------------------------!
 <''>O sol nasce quando nos olhamos,
 e quando o vento soprar, descobrirás
-o meu interior.<''><W>
+o meu coração.<''><W>
 !------------------------------!
 Estas velhas palavras são a chave
 para entender esta caixa e o que ela
@@ -455,7 +455,7 @@ Deixa eu tentar!
 [t17_140_1200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:104><''>O sol nasce quando nos olhamos,
 e quando o vento soprar, descobrirás
-o meu interior.<''><W>
+o meu coração.<''><W>
 !------------------------------!
 Hum...
 !******************************!
@@ -555,8 +555,8 @@ vez, receio que não tenho mais
 forças para fazê-lo.<W>
 !------------------------------!
 Você não imagina quantas vezes
-eu tenho pensado em ti durante
-todos esses anos<W>
+eu pensei em você durante todos
+esses anos.<W>
 !------------------------------!
 Às vezes me pergunto se você
 me odeia pelo que eu fiz.
@@ -662,7 +662,7 @@ que já vi! O Molentary Express
 parece cafona, comparado a isso!
 !******************************!
 [t17_280_200.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:80>É um quarto dígno da família
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:80>É um quarto digno da família
 mais rica e influente de Folsense.
 !******************************!
 [t17_280_300.gds]
@@ -679,9 +679,9 @@ você só não tenha percebido ainda.
 <01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:159>O Anton? Duvido! Ele me pareceu
 um sujeito bastante simpático.<W>
 !------------------------------!
-Espera aí, pensei que não você
-não acreditasse em vampiros.
-Está caçoando de mim, Professor?
+Espera aí, pensei que você não
+acreditasse em vampiros. Está
+caçoando de mim, Professor?
 !******************************!
 [t17_280_510.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:162>De todo modo, agora que falou,

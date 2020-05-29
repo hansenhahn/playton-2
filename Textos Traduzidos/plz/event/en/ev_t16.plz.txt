@@ -1580,7 +1580,7 @@ sua empreitada.
 <01:00000058><03:5>NONE<03:5>NONE<01:00000002><03:137>Vejo que vocês resolveram mais de
 80 enigmas.<W>
 !------------------------------!
-Eu admiro sua perseverança e
+Admiro vossa perseverança e
 declaro-vos dignos de entrarem
 no castelo.
 !******************************!

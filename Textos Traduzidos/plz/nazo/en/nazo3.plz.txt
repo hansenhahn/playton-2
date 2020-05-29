@@ -687,14 +687,14 @@ saiba a resposta...
 [n136.dat]
 <0139>Costa a Costa
 <00><46><3F><38><72><01><16><88><F6><03><02><FF>
-Uma mulher embarca num voo sem parar
+Uma mulher embarca num voo sem escalas
 partindo de Los Angeles às 12:00 e chega em
 Nova York às 20:00. No dia seguinte, a mesma
 mulher sai de Nova York às 12:00 e voa de
 volta para Los Angeles. O voo não foi
 afetado por turbulências aéreas e levou a
 mesma quantidade de tempo para alcançar o
-seu destino como houve no dia anterior.
+seu destino quanto levou no dia anterior.
 A diferença no fuso horário diz que Nova
 York está sempre três horas adiantado, em
 relação à Los Angeles. Consegue descobrir
@@ -720,7 +720,7 @@ Que pena!
 
 Calcular essa diferença de tempo
 problemática pode ser desafiador, mas
-contanto que você se lembrar da lógica por
+contanto que você se lembre da lógica por
 trás disso, irá descobrir a resposta
 correta sem muito trabalho.
 !******************************!
@@ -883,7 +883,7 @@ acima, resume basicamente esse enigma.
 
 Só por curiosidade, um enigma bem similar
 a esse que você resolveu diz estar
-escrito na lápide da tuba do Diofanto,
+escrito na lápide da tumba de Diofanto,
 um famoso matemático da Grécia antiga.
 !******************************!
 Que pena!
@@ -1004,7 +1004,7 @@ nova panqueca da pilha da esquerda e
 mova para o prato do meio. Leia mais
 sobre o que fazer na Dica 2.
 !******************************!
-De onde a Dia 1 parou, ponha a menor
+De onde a Dica 1 parou, ponha a menor
 panqueca em cima da panqueca que está
 no prato do meio. Então, mova a panqueca
 do prato vermelho para a pilha da
@@ -1027,7 +1027,7 @@ no meio do caminho.
 Um mago pede a um viajante uma estranha
 tarefa.
 
-<''>Há 500 pérolas naquela caverna. Eu quero que
+<''>Há 500 pérolas naquela caverna. Quero que
 você vá e traga um certo número de pérolas
 para mim. Esse número te permite dividir as
 pérolas em grupos de 2, 3, 4, 5, 6 ou 7 e
@@ -1148,7 +1148,7 @@ colocar em ordem novamente.
 Cada pedaço dos segmentos de túnel deve
 se encontrar com as partes que são
 adjacentes. As únicas vezes que os
-segmentos podem estar ficar com um lado sem
+segmentos podem estar com um lado sem
 tocar nos outros segmentos são os pontos
 de entrada e saída. Os túneis não podem
 encarar as paredes.
@@ -1197,7 +1197,7 @@ Que pena!
 Talvez você fez um cálculo errado?
 !******************************!
 O número na direita da equação tem
-quatro dígitos, cujo o primeiro é o 1.
+quatro dígitos, cujo primeiro é o 1.
 !******************************!
 O último dígito da resposta é 6.
 !******************************!
@@ -1778,7 +1778,7 @@ de te agradecer... cedo ou tarde.
 !******************************!
 Que pena!
 !******************************!
-Traga o L verde de cabeça pra baixo
+Traga o L verde de cabeça para baixo
 no canto superior esquerdo para o mesmo
 nível que o bloco azul superior.
 Assim que limpar o caminho, arraste
@@ -2928,9 +2928,9 @@ O resto é com você.
 [n203.dat]
 <0138>A Caixa Elísia
 <00><3C><36><30><12><81><12><CB><55><04><04><FF>
-<''>O sol irá se pôr quando você e eu nos
-encontrarmos e quando o vento soprar,
-você conhecerá meu coração.<''>
+<''>O sol nasce quando nos olhamos,
+e quando o vento soprar, descobrirás
+o meu coração.<''>
 
 Essas palavras são a chave para abrir
 a Caixa Elísia.
@@ -2952,13 +2952,13 @@ Leia o que o Anton disse para o Luke
 novamente. Já diz tudo o que você precisa
 saber.
 !******************************!
-<''>Quando você e eu nos encontrarmos...<''>
+<''>Quando nos olhamos...<''>
 
 As duas pessoas nesta caixa estão de
 costas uma da outra. Talvez tenha
 algum jeito de fazê-las virarem.
 !******************************!
-<''>O sol irá se pôr...<''>
+<''>O sol nasce...<''>
 
 O sol aqui está bem abaixo da caixa.
 Assim que as duas pessoas se encararem,

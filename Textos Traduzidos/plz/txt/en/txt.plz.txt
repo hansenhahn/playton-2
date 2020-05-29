@@ -265,7 +265,7 @@ família Herzen. Para isso, ele
 dedicou-se a capturar todos os
 que vinham ao castelo, e depois
 os deixavam fugir, depois de
-terem lhes assustado o bastante.
+ter lhes assustado o bastante.
 !******************************!
 [id_1.txt]
 A Caixa Elísia é uma antiguidade
@@ -1561,7 +1561,7 @@ que ter visitantes é sempre
 prazeroso.
 !******************************!
 [m15_26.txt]
-Com certeza você teve
+Com certeza vocês tiveram
 uma longa viagem.
 !******************************!
 [m15_27.txt]
@@ -1938,7 +1938,7 @@ Você me perdoa por fazê-la esperar
 um pouco mais, minha querida?
 !******************************!
 [m21_25.txt]
-Aonde quer que ela esteja, certamente
+Onde quer que ela esteja, certamente
 ela está muito feliz por nós.
 !******************************!
 [m21_3.txt]
@@ -2075,7 +2075,7 @@ A jornada que nos aguarda
 pode ser perigosa.
 !******************************!
 [m6_14.txt]
-Huh?
+Hã?
 !******************************!
 [m6_15.txt]
 É por isso que você terá

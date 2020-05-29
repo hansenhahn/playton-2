@@ -791,10 +791,10 @@ um total de 138 enigmas.<W>
 !------------------------------!
 Se ainda não tiver resolvido
 todos eles, tente encontrá-los e
-fazê-lo.
+resolvê-los.
 !******************************!
 [t18_450_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:275>Confira também a seção de "Bonuses"*.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:275>Confira também a seção "Bônus".
 Lá você poderá liberar mais conteúdo
 ao cumprir certos critérios.<W>
 !------------------------------!
@@ -827,8 +827,8 @@ jogo. Meus parabéns!
 !******************************!
 [t18_460_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:190>Para mais diversão, confira a seção
-Top Secret* e os Enigmas Semanais
-na seção de Bonuses.<W>
+Ultrassecreto e os Enigmas Semanais
+na seção Bônus.<W>
 !------------------------------!
 Não se esqueça de explorar tudinho.
 Divirta-se e, mais uma vez,
@@ -851,8 +851,8 @@ os enigmas do modo história do
 jogo. Meus parabéns!<W>
 !------------------------------!
 Para mais diversão, confira a seção
-Top Secret* e os Enigmas Semanais
-na seção de Bonuses.<W>
+Ultrassecreto e os Enigmas Semanais
+na seção Bônus.<W>
 !------------------------------!
 Não se esqueça de explorar tudinho.
 Divirta-se e, mais uma vez,

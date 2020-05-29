@@ -1,7 +1,7 @@
 [t25_000_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:98>Aquela é uma pintura fascinante.<W>
 !------------------------------!
-Já viu ilustração tão
+Já viu uma ilustração tão
 convincente de um baile antes?
 !******************************!
 [t25_000_300.gds]

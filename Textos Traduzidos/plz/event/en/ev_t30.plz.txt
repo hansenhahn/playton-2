@@ -1296,7 +1296,7 @@ sua próxima jogada!
 !******************************!
 [t30_151_100.gds]
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:87>Ahhh, essa sim foi uma xícara de
-chá refrescante!<Q> Ah, é claro,
+chá refrescante!<W> Ah, é claro,
 Rainha para Bispo 6. Xeque!
 !******************************!
 [t30_151_200.gds]
@@ -1531,7 +1531,7 @@ final. Estou adorando! E, sabe,
 acho que minha visão melhorou.<W>
 !------------------------------!
 Valeu pelo chá. Realmente me foi
-uma mão na roda.<W>&setani 1 b1_normal&Hã.
+uma mão na roda.<W>&setani 1 b1_normal& Hã.
 Argh, de novo não!
 !******************************!
 [t30_181_200.gds]
@@ -1791,11 +1791,11 @@ Neste, se dizia que comemorava
 e a faísca de um novo<''>.<W>
 !------------------------------!
 Infelizmente, os ingredientes
-desde chá fascinante parecem ter
+desse chá fascinante parecem ter
 se perdido com o tempo.<W>
 !------------------------------!
 Ah, o que eu não daria para ter
-uma chance de saboriar esta
+uma chance de saborear essa
 bebida histórica...<W>&setani 1 b1_normal2&
 !------------------------------!
 Suponho que isso seja impossível

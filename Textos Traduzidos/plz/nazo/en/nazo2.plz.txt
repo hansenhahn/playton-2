@@ -348,7 +348,7 @@ a hora, vá em direção ao centro do
 tabuleiro.
 
 Falando nisso, essa é a última dica
-desde enigma. A Dica 3 contém apenas
+desse enigma. A Dica 3 contém apenas
 curiosidades do assunto.
 !******************************!
 Este é um exemplo do enigma do problema
