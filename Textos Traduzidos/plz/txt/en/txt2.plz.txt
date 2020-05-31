@@ -565,7 +565,7 @@ Olhe a tela superior para ver
 quem está viajando com você!
 !******************************!
 [tx_218.txt]
-Flora deixou o grupo por agora!
+Flora deixou o grupo por ora!
 Olhe a tela superior para ver
 quem está viajando com você!
 !******************************!

@@ -617,7 +617,7 @@ mais difícil pra você.
 <01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:315>Muito bem, filho.<W>
 !------------------------------!
 Tem muito mais de onde eu venho,
-mas por agora relaxe um pouco
+mas por ora relaxe um pouco
 e ouça o que tenho a contar.<W>
 !------------------------------!
 Nos velhos tempos, esta cidade era
@@ -1068,7 +1068,7 @@ já estão aquecidos e à espera de vocês,
 para quando decidirem dormir.
 !******************************!
 [t24_554_100.gds]
-<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:20>Terminaram por agora, senhores?
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:20>Terminaram por ora, senhores?
 !******************************!
 [t24_560_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:100>Que lugar mais assustador. Acha

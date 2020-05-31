@@ -269,7 +269,7 @@ Bom...
 !******************************!
 [ht_102_2.txt]
 Ahn, Professor? Acho que vou
-provocar.
+vomitar.
 !******************************!
 [ht_102_3.txt]
 Não estou surpreso. Este não é o
@@ -336,7 +336,7 @@ desse chá!
 !******************************!
 [ht_106_1.txt]
 Talvez tenhamos inventado sem
-querer um chá que nunca deviria
+querer um chá que nunca deveria
 ter existido.
 !******************************!
 [ht_106_2.txt]
