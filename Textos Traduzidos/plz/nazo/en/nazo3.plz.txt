@@ -1862,7 +1862,7 @@ pode fazer fronteira com outro território
 de mesma cor. Se o território A é vermelho
 e B é azul, qual cor é território C?
 
-Circule a cor do rei e toque em #rSubmit#x
+Circule a cor do rei e toque em #rEnviar#x
 para inserir sua resposta.
 !******************************!
 Está certo!
@@ -1896,7 +1896,7 @@ no tabuleiro abaixo, há um movimento que o
 das peças brancas pode fazer para garantir
 vitória no turno seguinte.
 
-Faça o movimento e toque em #rSubmit#x.
+Faça o movimento e toque em #rEnviar#x.
 !******************************!
 Brilhante!
 
@@ -2685,7 +2685,7 @@ código. A luz branca indica que um dígito está
 no código, mas na posição errada. Uma luz
 laranja indica que o código está no local
 correto. Toque nos dígitos na tela de baixo
-para mudá-los, e toque em #rSubmit#x quando
+para mudá-los, e toque em #rEnviar#x quando
 quiser enviar sua resposta.
 !******************************!
 Você arrebentou!

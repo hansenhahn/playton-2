@@ -1417,7 +1417,7 @@ Professor, o que foi isso?
 Vamos!
 !******************************!
 [m12_5.txt]
-Oh, céus...
+Céus...
 !******************************!
 [m12_6.txt]
 O que foi isso?
@@ -2563,7 +2563,7 @@ que cria todas as suas
 vacas com carinho e
 afeto, muito embora, por
 alguma razão, várias de
-suas vacas não gostam
+suas vacas não gostem
 dele. Mesmo assim, Oscar
 cuida tão bem delas que
 todas possuem um pelo
@@ -2738,9 +2738,9 @@ vilarejo.
 !******************************!
 [chr_47.txt]
 Kostya é um velho senhor
-estava por perto no dia
-em que Dropstone foi
-fundado, e tem morado lá
+que estava por perto no
+dia em que Dropstone foi
+fundada, e tem morado lá
 desde então. Antes disso,
 ele morava em Folsense e,
 por causa disso, ouvir
@@ -2908,11 +2908,11 @@ antiquário da cidade,
 e fica animado na hora
 quando vê objetos com
 significado histórico ou
-histórias pessoas. Itens
+histórias pessoais. Itens
 cujo único significado é
 seu valor monetário
-geralmente não o
-interessam muito.
+geralmente não são do
+seu interesse.
 !******************************!
 [chr_6.txt]
 Anton é o atual duque de

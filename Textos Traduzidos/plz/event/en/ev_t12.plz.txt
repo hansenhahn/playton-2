@@ -676,9 +676,9 @@ competidores.
 algum lugar, né?
 !******************************!
 [t12_150_500.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>De fato. Me pergunto qual dos
-cavalheiros aqui é o homem
-que estamos atrás.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>De fato. Qual desses cavalheiros
+aqui é o homem de quem estamos
+atrás?
 !******************************!
 [t12_150_600.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:103>Ops, parece que aqueles dois
@@ -790,10 +790,10 @@ com as coisas, senão podemos lhe
 deixar pra trás sem querer.
 !******************************!
 [t12_190_600.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:126>Uau! O que é aquilo? Aah, e olha,
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:126>Uau! O que é aquilo? E olha,
 tem outro bem ali...<W>
 !------------------------------!
-...Ahn?<W>
+... Hã?<W>
 !------------------------------!
 Professor?<W> Luke?<W>
 Aonde vocês foram?
@@ -805,7 +805,7 @@ Aonde vocês foram?
 <01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:35>Ah, não!<W> Professor, a Flora sumiu!
 !******************************!
 [t12_200_1000.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:23>Ah? O que você ouviu?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:23>É mesmo? O que você ouviu?
 !******************************!
 [t12_200_1100.gds]
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:221>Que um homem chamado Romie
@@ -819,7 +819,7 @@ Ouvi de uma pessoa que ele esteve
 perambulando pela estação.
 !******************************!
 [t12_200_1200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:89>Estas são novidades bem interessantes.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:89>Essas são novidades bem interessantes.
 Vamos até a estação e ver se achamos
 esse tal Romie.
 !******************************!
@@ -828,10 +828,10 @@ esse tal Romie.
 que você conseguiu são fantásticas.
 !******************************!
 [t12_200_1400.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:34>Hi hi hi. Ohh, não foi nada.
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:34>Hi hi hi. Ahh, não foi nada.
 !******************************!
 [t12_200_200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:92>Oh, céus. Talvez tenhamos nos
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:92>Céus. Talvez tenhamos nos
 separado na multidão lá atrás.
 Vamos refazer nossos passos.
 !******************************!
@@ -907,7 +907,7 @@ Se vê-la, poderia por favor dizer a ela
 que seu pai deseja que volte para casa?<W>
 !------------------------------!
 Se um cavalheiro elegante como
-você entregar esta mensagem,
+você entregar essa mensagem,
 talvez ela o escute.
 !******************************!
 [t12_220_600.gds]

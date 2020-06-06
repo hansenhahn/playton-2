@@ -1205,7 +1205,7 @@ tempo, então, hum, peço pra que
 se sente e espere.
 !******************************!
 [t11_400_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>Entendo.<W> Posso ajudar em
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>Entendi.<W> Posso ajudar em
 alguma coisa?
 !******************************!
 [t11_400_500.gds]

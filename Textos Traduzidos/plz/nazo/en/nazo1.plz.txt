@@ -1473,7 +1473,7 @@ seus cavalos ao ponto B.
 <00><1E><1B><18><11><1D><0A><26><4E><04><03><FF>
 A, B e C começaram com suas camisas e calças
 com a mesma cor. A vestia vermelho, B vestia
-azul e C vestia branco. Eles foram então
+azul e C vestia branco. Eles foram, então,
 vendados e trocaram peças de roupa entre
 si. Após tirarem suas vendas, foi isso o que
 eles disseram:
@@ -1968,8 +1968,8 @@ houver alguém do outro lado da linha.
 Que pena!
 
 Se você quisesse ostentar sua mais nova
-aquisição, qual destes objetos seria
-o mais complicado de ser fazer isso?
+aquisição, qual desses objetos seria
+o mais complicado de se fazer isso?
 !******************************!
 Quem não iria querer ostentar seu carro
 ou televisão novos um pouco?
@@ -2004,11 +2004,12 @@ E: B definitivamente não é uma Vidadi.
 Isso mesmo!
 
 As vacas A, C e E são Midira. Supondo
-que cada vaca possa ser uma Midira ou uma
-Vidadi e passando pelas afirmações de cada
-vaca,  você cedo ou tarde perceberá que
-todas as afirmações são verdadeiras apenas
-quando A, C e E são Midiras.
+que cada vaca possa ser uma Midira ou
+uma Vidadi e passando pelas afirmações
+de cada vaca, você cedo ou tarde
+perceberá que todas as afirmações são
+verdadeiras apenas quando A, C e E
+são Midiras.
 !******************************!
 Que pena!
 
@@ -2227,7 +2228,7 @@ Muito bem pensado!
 
 Uma vez que você passa a considerar a cor
 branca da bandeira não pintada nas suas
-possibilidades, você terá portanto quatro
+possibilidades, você terá, portanto, quatro
 cores para trabalhar. Se você escolher uma
 cor para a parte da esquerda e listar todos
 os padrões possíveis, você terá um total de
@@ -2235,7 +2236,7 @@ nove variações.
 
 Multiplique esse número por quatro, que
 representa o total de cores à sua
-disposição para chegar a resposta de
+disposição, para chegar à resposta de
 36 variações.
 !******************************!
 Que pena!
@@ -2253,7 +2254,7 @@ outra cor que você pode usar para
 criar os padrões.
 !******************************!
 Adicionando o branco nas três tintas
-que você tem, haverão quatro cores que
+que você tem, haverá quatro cores que
 serão possíveis de serem usadas para
 criar a bandeira.
 

@@ -133,16 +133,17 @@ procura?<W> Fascinante. Diga-me,
 qual o paradeiro atual da Sophia?
 !******************************!
 [t22_033_1100.gds]
-<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:190>Ela... ela nos deixou ano passado.
+<01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:190>Ela... Ela nos deixou ano passado.
 Em seus últimos dias, passou um bom
 tempo só em seu quarto, escrevendo.<W>
 !------------------------------!
-Lamentavelmente, nunca soube
-a razão dela querer pôr as mãos
+Lamentavelmente, eu nunca soube
+a razão de ela querer pôr as mãos
 naquela caixa.
 !******************************!
 [t22_033_1200.gds]
-<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:32>Entendo. Sinto muito por sua perda.
+<01:00000001><03:9>b1 angry<03:5>NONE<01:00000002><03:32>Entendi. Sinto muito por
+sua perda.
 !******************************!
 [t22_033_1300.gds]
 <01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:180>Obrigado. Bem, minha mãe talvez
@@ -226,7 +227,7 @@ amigos viemos a este belo lugar em
 busca da Caixa Elísia.<W>
 !------------------------------!
 Imaginei que um homem influente
-como você poderia saber de algo
+como o senhor poderia saber de algo
 sobre o assunto.
 !******************************!
 [t22_033_400.gds]
@@ -259,7 +260,7 @@ minha sogra, Sophia.<W>
 !------------------------------!
 Ela fundou este vilarejo há uns anos.
 A pessoa mais amada que já conheci.
-E inteligente, também.
+E inteligente também.
 !******************************!
 [t22_033_900.gds]
 <01:00000055><03:10>b1 normal<03:5>NONE<01:00000002><03:261>Casei-me com alguém de sua família,
@@ -267,7 +268,7 @@ mas ela me tratava como se fosse
 sangue do seu sangue.<W>
 !------------------------------!
 Como eu nunca conheci minha própria
-mãe, suponho que seja justo dizer que
+mãe, imagino que seja justo dizer que
 a Sophia é minha mãe verdadeira.<W>
 !------------------------------!
 Mesmo após minha esposa ter
@@ -319,7 +320,7 @@ dar uma mão aqui?
 <01:00000012><03:5>NONE<03:5>NONE<01:00000002><03:14>Muuuu? Muuuu!
 !******************************!
 [t22_040_1600.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:7>Entendo.
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:7>Entendi.
 !******************************!
 [t22_040_1700.gds]
 <01:00000012><03:5>NONE<03:5>NONE<01:00000002><03:23>Mmmmuuuuuuuu! Muu muu.
@@ -950,7 +951,7 @@ Regra número dois?<W> Lantejoulas
 são para profissionais.<W>
 !------------------------------!
 Mas com esse seu sobretudo, você
-está super chique. Nem os clubes mais
+está superchique. Nem os clubes mais
 seletos o expulsariam. Eu garanto!
 !******************************!
 [t22_154_100.gds]
@@ -1276,7 +1277,7 @@ ia perguntar pra outro.
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:9>Entendo...
 !******************************!
 [t22_224_100.gds]
-<01:0000003C><03:5>NONE<03:5>NONE<01:00000003><03:102>Ei, que que há? Pensei que quisesse
+<01:0000003C><03:5>NONE<03:5>NONE<01:00000003><03:102>Mas o que é isso? Pensei que quisesse
 resolver meu enigma. Sabe, aquele
 da caixa e tal?
 !******************************!

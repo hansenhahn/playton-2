@@ -56,7 +56,7 @@ comecei a sentir sono...
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:117>Muito bem, vocês dois, agora não
 é hora para brincadeiras...<W>&setani 1 b1_angry&
 !------------------------------!
-Oh, céus... Também estou me
+Céus... Também estou me
 sentindo cansado.
 !******************************!
 [t13_120_100.gds]
