@@ -511,8 +511,8 @@ caixa?<W> Eu já tô de saco
 cheio de ficar bancando o espião!
 !******************************!
 [t16_060_1300.gds]
-<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:103>Não OUSE me dizer como executar meus
-os planos, Samuel! Já esqueceu
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:103>Não OUSE me dizer como executar
+meus planos, Samuel! Já esqueceu
 quem te arranjou esse emprego?
 !******************************!
 [t16_060_1400.gds]

@@ -1718,7 +1718,7 @@ ou abaixo de um dos cantos.
 <00><19><13><0D><11><20><16><2B><F6><03><03><FF>
 Três elásticos estão emaranhados juntos
 a uma corda vermelha onde foi dado um nó
-folgado. Você consegue descobrir quanto
+folgado. Você consegue descobrir quantos
 elásticos serão pegos pelo nó quando as
 extremidades da corda vermelha forem
 puxadas?

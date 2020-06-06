@@ -556,7 +556,7 @@ embarcou sozinha em nosso trem. Estou
 convencido de que era ninguém menos
 que a filha do Sr. Anderson, Katia.
 Embora fosse viajar sozinha, ela não
-parecia ter nenhuma receio sobre
+parecia ter nenhum receio sobre
 isso. Não, ela parecia bastante
 determinada. No entanto, fico
 pensando... Por que ela viajaria
@@ -637,9 +637,9 @@ perguntando qual o seu significado,
 se é que possui algum.
 !******************************!
 [d_21.txt]
-Parece que nos encontramos aqui
-mais uma vez. Acabei de me encontrar
-com o Inspetor e o agente Barton.
+Parece que todos deram um jeito de 
+chegar a Folsense. Acabei de encontrar
+o Inspetor Chelmey e o Agente Barton.
 Chelmey explicou que eles estão na
 cidade em busca de informações sobre
 a Caixa Elísia. Se eu conseguisse

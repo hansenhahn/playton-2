@@ -173,8 +173,8 @@ Beleza!
 A única condição para resolver esses enigmas
 era eliminando todas as bolinhas do tabuleiro
 exceto por uma, mas a verdadeira solução
-desse enigma requer que você elimine a
-bolinha posicionada no espaço central.
+desse enigma requer que você termine com uma
+das bolinhas posicionada no espaço central.
 
 Talvez isso lhe sirva de incentivo para
 revisitar alguns desses enigmas de

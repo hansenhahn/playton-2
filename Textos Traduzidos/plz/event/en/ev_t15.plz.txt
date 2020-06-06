@@ -474,7 +474,7 @@ acharem o museu aberto.
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:33>Ah, é um pedaço da foto!
 !******************************!
 [t15_260_1100.gds]
-<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:83>Vocês estava atrás disso?<W>
+<01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:83>Vocês estavam atrás disto?<W>
 Bom, podem ficar! Eu insisto.
 !******************************!
 [t15_260_200.gds]

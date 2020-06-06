@@ -641,8 +641,8 @@ mínimo. Certamente essa enorme
 mansão pertence ao Sr. Anderson.
 !******************************!
 [t12_140_300.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Então foi pra lá que o Inspetor
-Chelmey e seu assistente foram,
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Então era lá que o Inspetor
+Chelmey e seu assistente estavam,
 certo?
 !******************************!
 [t12_140_400.gds]
@@ -720,19 +720,19 @@ têm sido os objetos de minha pesquisa
 há anos.<W>
 !------------------------------!
 Até onde sei dizer, esse artefato
-que está atrás, a Caixa Elísia,
+de que está atrás, a Caixa Elísia,
 também está ligada a essa cidade.
 !******************************!
 [t12_160_500.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:58>Uau! Então quando podemos ir
-a este lugar? Como chegamos lá?
+a esse lugar? Como chegamos lá?
 !******************************!
 [t12_160_600.gds]
 <01:00000013><03:9>b1 smile<03:5>NONE<01:00000001><03:277>É... Esse é o detalhe que ainda
 não consegui determinar. <W>
 !------------------------------!
 Talvez você sussurra uma senha
-dentro do trem e SUOOISH, o trem
+dentro do trem e PUUFFFF, o trem
 segue rumo a uma nova direção.<W>
 !------------------------------!
 De todo modo, talvez seja algo do
@@ -919,15 +919,16 @@ eu não seja de muita ajuda.
 <01:00000055><03:5>NONE<03:5>NONE<01:00000002><03:122>Katia é minha - não, nossa - 
 filha única.<W>
 !------------------------------!
-Ela é tudo pra mim e estarei
-pra sempre em débito com você,
+Ela é tudo pra mim e estarei pra
+sempre em débito com o senhor,
 se puder me ajudar.
 !******************************!
 [t12_220_800.gds]
-<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:45>Imagino que pessoa é essa Katia.
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:45>Como será que é a Katia?
 !******************************!
 [t12_220_900.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:126>Seu palpite é tão bom quanto o meu.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:126>Seu palpite é tão bom
+quanto o meu.<W>
 !------------------------------!
 Mas a julgar pela sua família e
 criação, eu imagino que ela seja
@@ -953,8 +954,8 @@ na querida filha do Sr. Anderson.
 <01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:42>Quanta gente se despedindo dela!
 !******************************!
 [t12_260_400.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:73>Considerando o tamanho da festa,
-duvido que ela esteja apenas
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:73>Considerando a quantidade de pessoas
+presentes, duvido que ela esteja apenas
 tirando férias.
 !******************************!
 [t12_280_100.gds]

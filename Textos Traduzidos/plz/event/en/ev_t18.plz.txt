@@ -564,8 +564,8 @@ Layton tiveram um sonho perturbador
 com um baile fantasmagórico.<W>
 !------------------------------!
 Ao acordarem, ficaram horrorizados
-ao se verem amarrados em um
-quarto estranho e íngreme.
+ao se verem amarrados em um quarto
+estranho e úmido.
 !******************************!
 [t18_370_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Seu sequestrador, Anton,
@@ -573,7 +573,7 @@ logo deixou o quarto, dando a Luke
 e Layton a chance de escaparem.
 !******************************!
 [t18_370_300.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Sabendo que Anton estava prestes a voltar,
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:104>Sabendo que Anton estava para voltar,
 os dois partiram em busca de uma forma
 de sair do castelo assim que possível.
 !******************************!
@@ -814,8 +814,8 @@ voltará ao Castelo Herzen, logo
 antes da luta contra Anton.<W>
 !------------------------------!
 A partir desse ponto você estará livre
-para voltar à cidade e procurar por
-itens e enigmas que tenha deixado passar.
+para voltar à cidade e procurar por itens
+e enigmas que tenha deixado para trás.
 !******************************!
 [t18_460_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:152>Esperamos que tenha gostado de

@@ -757,7 +757,7 @@ algo um pouco mais desafiador
 para você, Luke.<W>
 !------------------------------!
 Bom, deixarei isso para a próxima
-vez. Por agora, vamo continuar
+vez. Por ora, vamos continuar
 nossa caminhada pelo vilarejo.
 !******************************!
 [t22_114_100.gds]
@@ -1276,7 +1276,7 @@ ia perguntar pra outro.
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:9>Entendo...
 !******************************!
 [t22_224_100.gds]
-<01:0000003C><03:5>NONE<03:5>NONE<01:00000003><03:102>Ei, quê que há? Pensei que quisesse
+<01:0000003C><03:5>NONE<03:5>NONE<01:00000003><03:102>Ei, que que há? Pensei que quisesse
 resolver meu enigma. Sabe, aquele
 da caixa e tal?
 !******************************!
@@ -1511,8 +1511,8 @@ bolar um enigma decente!
 essa belezura sem solução.
 !******************************!
 [t22_290_100.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:174>Como o festival está tratando
-vocês, chapas?<W> Bem legal, né!<W>
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:174>Como o festival está tratando mesmo
+vocês, chapas?<W> Bem legal, né?!<W>
 !------------------------------!
 O trem ainda não está pronto pra
 partir, então enquanto esperam, vou

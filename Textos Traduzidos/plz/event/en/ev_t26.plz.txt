@@ -8,7 +8,8 @@
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>De volta a resolver este enigma, não é?
 !******************************!
 [t26_003_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:25>Expertamente resolvido, meu garoto!
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:25>Resolvido com perfeição,
+meu garoto!
 !******************************!
 [t26_004_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:27>Tendo dificuldades?
@@ -42,7 +43,7 @@ a qual se volta de novo e de novo.
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:21>Muito bom, meu jovem!
 !******************************!
 [t26_024_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:16>Busilíos?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:16>Tendo problemas?
 !******************************!
 [t26_030_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Aqui, olhe este enigma.

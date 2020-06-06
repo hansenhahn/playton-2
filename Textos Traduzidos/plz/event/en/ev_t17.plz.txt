@@ -216,11 +216,11 @@ caixa Elísia. Temos que continuar.
  Não
 !******************************!
 [t17_070_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:25>Ah, isso parece-
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:25>Ah, aquela parece ser-
 !******************************!
 [t17_070_1000.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:93>Loucura?<W> Receio não ter entendido.
-Por favor seja honesto conosco.
+Por favor seja honesta conosco.
 O que está havendo aqui?
 !******************************!
 [t17_070_1100.gds]
@@ -329,16 +329,16 @@ mentes.
 Professor?
 !******************************!
 [t17_110_600.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:286>Embora as imagens de Folsense que
-vimos tenham 50 anos, a cidade que
-vemos é idêntica à Folsense de hoje.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:286>As fotos que vimos de Folsense
+têm 50 anos, e, ainda assim,
+nada mudou nesse período.<W>
 !------------------------------!
 Cidade nenhuma permanece a mesma
 por 50 longos anos.<W>
 !------------------------------!
 As fotos que vimos na estação
-moldou nossa ideia da Folsense
-que veríamos.<W>
+influenciaram a forma como nossa
+imaginação nos apresentaria Folsense.<W>
 !------------------------------!
 A Folsense de 50 anos atrás...
 !******************************!
@@ -363,13 +363,11 @@ Não permitirei!
 !******************************!
 [t17_111_200.gds]
 <01:00000020><03:5>NONE<03:5>NONE<01:00000003><03:79>Esta cidade inteira está
-amaldiçoada.<W>
-!------------------------------!
-Se permanecermos aqui, todos os
-meus entes queridos vão morrer.
+amaldiçoada. Se ficarmos aqui, todos 
+aqueles que amo irão morrer.
 !******************************!
 [t17_111_300.gds]
-<01:00000021><03:9>b1 angry<03:5>NONE<01:00000002><03:82>Não sou um ente querido seu,
+<01:00000021><03:9>b1 angry<03:5>NONE<01:00000002><03:82>Não sou amado por você,
 Sophia? Fique comigo e juntos
 reconstruiremos Folsense.
 !******************************!
@@ -380,7 +378,7 @@ de mim mais do que você.
 !******************************!
 [t17_111_500.gds]
 <01:00000021><03:8>b1 weep<03:5>NONE<01:00000002><03:72>Esta é a verdadeira razão pela
-qual quer ir embora? Porque
+qual quer ir embora? Por que
 há outra pessoa?
 !******************************!
 [t17_112_100.gds]
@@ -483,7 +481,7 @@ apesar de tudo!
 no fim das contas.
 !******************************!
 [t17_140_400.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:349>Sim, Luke, não há maldição aqui.<W>
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:349>Não, Luke. Não há maldição aqui.<W>
 !------------------------------!
 Porém, suspeito que, no minério
 usado para criar esta caixa, há

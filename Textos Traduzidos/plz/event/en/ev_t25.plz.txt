@@ -69,7 +69,7 @@ talvez seja possível eu me libertar.
 !******************************!
 [t25_013_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:96>Podemos estar livres, mas não
-é hora de ficarmos parados.
+é hora de ficarmos parados.<W>
 !------------------------------!
 Devemos encontrar uma maneira de
 fugir, e rápido!
@@ -182,8 +182,9 @@ para aliviar e descansar a mente.
 nos deter ou coisa do tipo?
 !******************************!
 [t25_030_700.gds]
-<01:0000001D><03:9>b1 laugh<03:5>NONE<01:00000002><03:439>Detê-los?<W> Jovem amo, não tenho nem a
-mais ofuscada percepção sobre o que está falando.<W>
+<01:0000001D><03:9>b1 laugh<03:5>NONE<01:00000002><03:439>Detê-los?<W> Jovem amo, não tenho
+a menor ideia sobre o que está
+falando.<W>
 !------------------------------!
 Agora onde eu estava?<W>
 Ah sim, aquele enigma.<W>
@@ -224,7 +225,8 @@ na calada da noite.
 Boa noite para você.
 !******************************!
 [t25_033_300.gds]
-<01:0000001D><03:9>b1 laugh<03:5>NONE<01:00000002><03:33>Hum. Hummm. Sim. E para os senhores também.
+<01:0000001D><03:9>b1 laugh<03:5>NONE<01:00000002><03:33>Hum. Hummm. Sim. E para
+os senhores também.
 !******************************!
 [t25_034_100.gds]
 <01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:99>Ah, vejo que estão bastante cansados.
@@ -280,8 +282,8 @@ apreciar a obra do minerador.
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:126>Ah sim, tens toda a razão, meu rapaz.<W>
 !------------------------------!
 Humm... creio que possamos abrir
-a porta a nossa cime se fizermos
-a caldeira volta a funcionar.
+a porta lá de cima se fizermos
+a caldeira voltar a funcionar.
 !******************************!
 [t25_041_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>Se fizermos a caldeira funcionar,
@@ -292,9 +294,9 @@ a porta acima deverá se abrir.
 inativa há um bom tempo.
 !******************************!
 [t25_043_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:85>Bom trabalho, meu jovem. Agora, para
-a cima e para a fora. Não vejo outra
-saída daqui.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:85>Bom trabalho, meu jovem. Agora, não
+vejo outra opção além de subir e
+dar o fora daqui.
 !******************************!
 [t25_044_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:85>Se não abrirmos aquela porta

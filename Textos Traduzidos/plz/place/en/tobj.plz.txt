@@ -332,9 +332,8 @@ que passa por baixo da
 torre.
 !******************************!
 [tobj165.txt]
-Me pergunto pra que
-essa câmera enorme
-é usada.
+Pra que será que essa
+câmera enorme é usada?
 !******************************!
 [tobj166.txt]
 Essa vitrine está
@@ -416,8 +415,9 @@ precise vestir essas
 coisas!
 !******************************!
 [tobj181.txt]
-Algum desses objetos
-podem ser bem perigosos.
+Alguns desses
+objetos podem ser
+bem perigosos.
 !******************************!
 [tobj182.txt]
 A iluminação aqui é tão
@@ -740,8 +740,8 @@ Mas que... bancada.
 !******************************!
 [tobj74.txt]
 Caminhos de terra como
-esses são raros de se ver
-esses dias em Londres.
+esses são raros de se
+ver lá em Londres.
 !******************************!
 [tobj75.txt]
 A cidade está toda

@@ -567,9 +567,9 @@ onde você acha que a porta está escondida.
 !******************************!
 Excelente!
 
-Os quadrados com estrelas contidas
-unicamente dentro delas foram uma
-seta que aponta para a porta escondida!
+Os quadrados que possuem uma única
+estrela ao centro formam uma seta que
+aponta para a porta escondida!
 !******************************!
 Que pena!
 
@@ -935,7 +935,7 @@ declarar A com valor de 8, B com valor de 7
 e C com valor de 4.
 
 Essa equação pode ser ameaçadora no
-começo, mas se você deixar em mente
+começo, mas se você ter em mente
 que os valores potenciais de A são
 limitados, tudo começa a se encaixar!
 
@@ -2554,7 +2554,7 @@ te pegar.
 
 !******************************!
 [n188.dat]
-<0191>Reconhecimento de Padrão
+<0191>Reconhecendo Padrões
 <00><00><00><00><11><01><02><BC><E8><03><02><FF>
 Qual padrão combina com aquele do canto
 superior esquerdo? É o A, B ou C?
@@ -2743,8 +2743,8 @@ adivinhação também funcione aqui.
 <00><00><00><00><11><01><16><C2><F6><03><02><FF>
 Há dois dados, A e B. As imagens mostram
 cada dado com dois ângulos diferentes.
-Talvez o criador estava planejando algo,
-mas os pontos de cada face estão
+Talvez o criador estivesse planejando
+algo, mas os pontos de cada face estão
 completamente aleatórios. Você consegue
 ver todas as faces aqui, então se rolasse
 os dois dados, o maior número que você
@@ -2844,7 +2844,7 @@ diferentes. Talvez você perceba algo.
 [n199.dat]
 <0202>A Rota do Ônibus
 <00><00><00><00><11><01><09><C7><EF><03><02><FF>
-Um ônibus bem largo se aproxima da cidade
+Um ônibus bem largo se aproxima da cidade.
 Já que as ruas desta cidade são bem
 estreitas, o ônibus só pode virar nas
 esquinas onde não há prédios e só

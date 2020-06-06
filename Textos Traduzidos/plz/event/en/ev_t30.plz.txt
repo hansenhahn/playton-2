@@ -400,7 +400,7 @@ praquele pobre rapaz.
 !******************************!
 [t30_041_400.gds]
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:51>Que rapaz? De quem estamos
-espiar a vida amorosa?
+espiando a vida amorosa?
 !******************************!
 [t30_041_500.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:148>Do vampiro que mora no final da
@@ -1530,9 +1530,8 @@ Ele parece recuperado e animado.
 final. Estou adorando! E, sabe,
 acho que minha visão melhorou.<W>
 !------------------------------!
-Valeu pelo chá. Realmente me foi
-uma mão na roda.<W>&setani 1 b1_normal& Hã.
-Argh, de novo não!
+Valeu pelo chá. Foi realmente uma mão
+na roda.<W>&setani 1 b1_normal& Hã. Argh, de novo não!
 !******************************!
 [t30_181_200.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:28>Qual é o problema agora, senhor?

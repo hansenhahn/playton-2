@@ -380,7 +380,7 @@
 !******************************!
 <00BB><00BE><FFFF>
 !******************************!
-<00BC><00BF>Reconhecimento de Padrão<FFFF>
+<00BC><00BF>Reconhecendo Padrões<FFFF>
 !******************************!
 <00BD><00C0>Uma Fileira de Naipes<FFFF>
 !******************************!
