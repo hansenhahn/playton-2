@@ -86,13 +86,13 @@ Lá fora é perigoso. Sabe-se lá quais
 bizarrices vão estar à espreita!
 !******************************!
 [t13_120_700.gds]
-<01:00000005><03:9>b1 weep2<03:5>NONE<01:00000003><03:45>Oh, tudo bem, prometo ter mais
+<01:00000005><03:9>b1 weep2<03:5>NONE<01:00000003><03:45>Ah, tudo bem, prometo ter mais
 cuidado a partir de agora.
 !******************************!
 [t13_120_800.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:192>Meça sua voz, Luke. Um cavalheiro
-deve sempre lembrar de tratar uma
-dama com respeito e gentileza.<W>
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:192>Meça suas palavras, Luke. Um cavalheiro
+deve sempre lembrar de tratar uma dama
+com respeito e gentileza.<W>
 !------------------------------!
 Bom, agora que estamos todos juntos
 novamente, por que não descemos do
@@ -114,7 +114,7 @@ a caixa está conectada a uma
 estranha cidade...<W>
 !------------------------------!
 Uma cidade fantasma que não aparece
-em nenhuma mapa humano.<W> Isto lhe
+em nenhuma mapa humano.<W> Isso lhe
 parece familiar?
 !******************************!
 [t13_130_300.gds]
@@ -187,11 +187,11 @@ do quão solitário seria.
 !******************************!
 [t13_150_200.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:85>Não se preocupe, ele está indo bem!
-Vai estar em forma logo logo!
+Vai estar em forma logo, logo!
 !******************************!
 [t13_150_300.gds]
 <01:0000000E><03:5>NONE<03:5>NONE<01:00000002><03:244>É muito bom ouvir isso.
-Não me decepcione, certo?<W>
+Não me decepcione, tudo bem?<W>
 !------------------------------!
 No mais, estava para fechar a cozinha
 e descansar até chegarmos a Luxenbelle.<W>
@@ -216,7 +216,7 @@ Visite-nos mais tarde.
 [t13_160_300.gds]
 <01:0000000D><03:5>NONE<03:5>NONE<01:00000002><03:333>Sim. Como pode ver, em nosso caminho
 até Luxenbelle, iremos passar por um
-longo e escuro túnel.<W>
+túnel longo e escuro.<W>
 !------------------------------!
 Enquanto estivermos no túnel, nenhuma
 das belas vistas que tanto agradam

@@ -92,7 +92,7 @@ Professor.
 !******************************!
 [t24_620_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:170>Sim, sem nenhuma iluminação, não creio
-que sejamos capaz de prosseguir.<W>
+que sejamos capazes de prosseguir.<W>
 !------------------------------!
 Mas o que temos aqui?<W>
 Luke, estamos com sorte! Acho
@@ -228,7 +228,7 @@ sair desta floresta macabra logo.
 [t24_670_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:102>Realmente. Está tão frio que o
 lago inteiro congelou...<W>
-Ah! Tive uma idea para um atalho.
+Ah! Tive uma ideia para um atalho.
 !******************************!
 [t24_671_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>Tenho certeza de que vamos

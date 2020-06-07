@@ -529,8 +529,8 @@ Sr. Anderson no local de realização
 do desfile das vacas. Aparentemente,
 sua sogra estava procurando pela
 Caixa Elísia antes de falecer, apesar
-do Sr. Anderson não saber por que ela
-estava atrás da caixa. Está se
+de o Sr. Anderson não saber por que
+ela estava atrás da caixa. Está se
 tornando cada vez mais evidente que
 a Caixa Elísia e Dropstone têm algum
 tipo de conexão, apesar de eu não
@@ -567,7 +567,7 @@ Enquanto estávamos no vagão de
 luxo do Molentary Express, Luke,
 Flora e eu caímos num sono profundo.
 Luke diz que sonhou com um dos
-vagões do trem sendo trocados.
+vagões do trem sendo trocado.
 Será que o estrondo que eu ouvi
 enquanto dormia foi do som produzido
 pela troca dos vagões?
@@ -582,7 +582,7 @@ tinha certeza de que a próxima
 parada era em Luxenbelle. Parece que
 o vagão no qual dormimos realmente
 trocou de trilhos e foi o único do
-trem a chegar neste novo destino.
+trem a chegar nesse novo destino.
 !******************************!
 [d_17.txt]
 Assim que saímos do trem que parou
@@ -1380,7 +1380,7 @@ Mas onde, Professor?
 Saquei!
 !******************************!
 [m11_1.txt]
-Suponho então que já estamos
+Imagino então que já estamos
 prestes a chegar no destino.
 !******************************!
 [m11_2.txt]

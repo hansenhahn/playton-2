@@ -543,7 +543,7 @@ pedaços para encontrar!
 [tx_213.txt]
 Você tirou uma fotografia
 deste local. Alguma coisa
-nela parece estranho...
+nela parece estranha...
 !******************************!
 [tx_214.txt]
 Use o jogo da Câmera na

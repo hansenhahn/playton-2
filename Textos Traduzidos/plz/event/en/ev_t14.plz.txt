@@ -12,7 +12,7 @@
 cidade.
 !******************************!
 [t14_010_500.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:111>Isso mesmo e, julgando pela
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:111>Isso mesmo. E, julgando pela
 aparência, devem ter, no mínimo,
 uns 30 anos de idade.
 !******************************!

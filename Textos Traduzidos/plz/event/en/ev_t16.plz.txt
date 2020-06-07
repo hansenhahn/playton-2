@@ -1047,7 +1047,7 @@ a mina reconsidere a ideia.
 !******************************!
 [t16_180_800.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:74>Que estranho. Esse último trecho
-estava datado de aproxidamente
+estava datado de aproximadamente
 50 anos atrás...
 !******************************!
 [t16_180_900.gds]
@@ -1245,8 +1245,8 @@ fenômeno que caía sobre as fotos
 tiradas dentro de Folsense.
 !******************************!
 [t16_190_900.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:154>De fato, apontei. Apenas uma das
-várias coisas curiosidades que
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:154>De fato, apontei. Apenas uma
+das várias coisas curiosas que
 testemunhamos nesta cidade.<W>
 !------------------------------!
 É como se toda a cidade de
@@ -1294,9 +1294,9 @@ macabro...
 f-f-fantasma na f-f-floresta!
 !******************************!
 [t16_220_400.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:102>Luke, por favor. Você sabe muito
-bem que fantasmas não existem.
-Deve ter confundido com uma outra coisa.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:102>Luke, por favor. Você sabe muito bem
+que fantasmas não existem. Deve ter
+confundido com uma outra coisa.
 !******************************!
 [t16_220_500.gds]
 <01:00000002><03:8>b4 weep<03:5>NONE<01:00000003><03:43>Mas eu  j-juro que v-vi,

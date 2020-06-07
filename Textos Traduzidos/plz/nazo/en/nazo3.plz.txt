@@ -231,7 +231,7 @@ caminho.
 <00><14><12><10><11><4D><1B><7E><01><04><04><FF>
 O lago na frente do professor está
 congelado. O gelo é grosso o bastante para
-fica em cima, mas tão escorregadio que
+ficar em cima, mas tão escorregadio que
 andar em qualquer direção fará ele
 deslizar incontrolavelmente naquela direção
 até acertar uma parede. Enquanto ele
@@ -272,7 +272,7 @@ duas paredes.
 <00><1E><1B><18><12><4D><1B><7F><01><04><04><FF>
 O lago na frente do professor está
 congelado. O gelo é grosso o bastante para
-fica em cima, mas tão escorregadio que
+ficar em cima, mas tão escorregadio que
 andar em qualquer direção fará ele
 deslizar incontrolavelmente naquela direção
 até acertar uma parede. Enquanto ele
@@ -309,7 +309,7 @@ do lago pra chegar aonde precisa.
 <00><28><24><20><11><4D><1B><80><01><04><04><FF>
 O lago na frente do professor está
 congelado. O gelo é grosso o bastante para
-fica em cima, mas tão escorregadio que
+ficar em cima, mas tão escorregadio que
 andar em qualquer direção fará ele
 deslizar incontrolavelmente naquela direção
 até acertar uma parede. Enquanto ele

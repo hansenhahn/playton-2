@@ -180,7 +180,7 @@ que você acertou em cheio, Luke.
 tão macabra quanto parece!
 !******************************!
 [t23_024_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>É... eu devo estar dormindo...
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:35>É... Eu devo estar dormindo...
 !******************************!
 [t23_033_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>Dê outra olhada, Luke.

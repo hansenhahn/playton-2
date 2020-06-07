@@ -538,7 +538,7 @@ Esta toalha de mesa
 !******************************!
 [tobj35.txt]
 As taças de vidro têm
-intrincadas gravuras.
+gravuras intrincadas.
 !******************************!
 [tobj36.txt]
 Posso apostar que
