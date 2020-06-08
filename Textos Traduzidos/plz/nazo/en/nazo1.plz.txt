@@ -7,8 +7,8 @@ pedaços. Mova os pedaços com a sua caneta
 stylus e coloque-os nos lugares certos
 para completar o mapa!
 
-Pode parecer simples, mas não esqueça de
-que, além de poder mover, você pode
+Pode parecer simples, mas não se esqueça
+de que, além de poder mover, você pode
 remover os pedaços, incluindo aquele que
 já está no centro do mapa.
 !******************************!
@@ -1352,12 +1352,12 @@ habilidade de tacar a bola a distâncias de
 únicas distâncias que ele consegue tacar
 a bola.
 
-Neste momento, nosso golfista está a
+Nesse momento, nosso golfista está a
 20 metros do buraco. Qual o número mínimo
 de tacadas que ele precisa dar para colocar
 a bola no buraco?
 
-Não esqueça de que se a tacada for muito
+Não se esqueça de que se a tacada for muito
 forte, a bola passará por cima do buraco.
 !******************************!
 Bom trabalho!
@@ -1422,7 +1422,7 @@ Primeiramente, leve os cavalos de uma e
 duas horas. Depois retorne com o cavalo
 de uma hora. Então leve os cavalos de
 quatro e seis horas e retorne com o de
-duas horas. Neste momento, você terá
+duas horas. Nesse momento, você terá
 movido cavalos por onze horas - três na
 primeira vez e oito na segunda.
 
@@ -1453,7 +1453,7 @@ do ponto A ao B no menor tempo possível,
 você precisará ir até o ponto B três
 vezes e retornar ao ponto A duas vezes.
 
-Como aproveitar ao máximo este número
+Como aproveitar ao máximo esse número
 limitado de travessias?
 !******************************!
 Primeiro, leve os cavalos de uma e duas
@@ -1464,7 +1464,7 @@ Em seguida, leve seus cavalos de quatro
 e seis horas até o ponto B e retorne ao
 ponto A com o cavalo de duas horas.
 
-Este método reduz ao mínimo o tempo
+Esse método reduz ao mínimo o tempo
 total necessário para mover todos os
 seus cavalos ao ponto B.
 !******************************!
@@ -1529,7 +1529,7 @@ como um guia, remonte o padrão da caixa
 colocando os quadrados na vista desdobrada
 da caixa.
 
-Não esqueça de que cada quadrado precisa
+Não se esqueça de que cada quadrado precisa
 ir no local correto e apontar para a direção
 correta, então talvez você tenha que girar
 os quadrados com a sua caneta stylus.
@@ -1546,7 +1546,7 @@ se estivesse desdobrada.
 !******************************!
 Em um primeiro momento, você sabe apenas
 a posição e orientação do quadrado com
-a espada, então pensa onde os outros
+a espada, então pense onde os outros
 quadrados devem ir examinando a imagem
 inferior da caixa à esquerda.
 !******************************!
@@ -1631,7 +1631,7 @@ D e outra peça de formato idêntico
 também dariam um cubo.
 !******************************!
 Você tem apenas duas opções possíveis
-neste momento.
+nesse momento.
 
 Escolha aquela que pareça menos provável
 de se encaixar com a sua outra metade.
@@ -1698,8 +1698,8 @@ acontece.
 Assim como no primeiro enigma de cortar
 tábuas, você precisa cortar a tábua em
 dois pedaços para criar uma nova forma.
-Não esqueça de que para combinar esses
-dois pedaços em um retângulo, os
+Não se esqueça de que para combinar
+esses dois pedaços em um retângulo, os
 pequenos buracos e saliências dos
 pedaços devem encaixar perfeitamente.
 !******************************!

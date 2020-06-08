@@ -22,7 +22,7 @@ juntar suas coisas e trancar
 sua mala antes de saírmos por aí?
 !******************************!
 [t11_045_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:84>Luke, não esqueça de que estamos
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:84>Luke, não se esqueça de que estamos
 atrás da Caixa Elísia, então não vá se
 perder por aí.
 !******************************!

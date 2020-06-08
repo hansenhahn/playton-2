@@ -1831,7 +1831,7 @@ da torre.
 !******************************!
 Que pena!
 
-Não esqueça de que está procurando por
+Não se esqueça de que está procurando por
 um edifício onde a vista do topo da torre
 é bloqueada.
 !******************************!
@@ -2846,14 +2846,14 @@ Todas as tábuas podem parecer iguais a
 princípio, mas se olhar com atenção, vai
 começar a ver as diferenças.
 
-Não esqueça de levar em conta que a tábua
-correta pode ter sido virada.
+Não se esqueça de levar em conta que a
+tábua correta pode ter sido virada.
 !******************************!
 Acha que encontrou a resposta?
 Tem certeza? Bom, só por desencargo de
 consciência, compare seu contorno com o
-fantasma mais uma vez. Não esqueça de
-dar atenção para pequenos detalhes,
+fantasma mais uma vez. Não se esqueça
+de dar atenção para pequenos detalhes,
 como o formato de suas mãos.
 !******************************!
 Você deve prestar bastante atenção
@@ -3010,7 +3010,7 @@ quebra-cabeça dos patos-mandarins.
 
 Casais de patos-mandarins professam
 muito amor entre si. Diz-se que este
-quebra-cabeça tem este nome devido
+quebra-cabeça tem esse nome devido
 à forma como os casais de patos andam
 sempre juntos.
 !******************************!

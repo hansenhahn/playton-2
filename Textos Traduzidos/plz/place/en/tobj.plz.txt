@@ -252,8 +252,8 @@ Se ao menos eu
 estivesse de férias.
 !******************************!
 [tobj148.txt]
-Me pergunto o que está
-crescendo neste campo.
+O que será que está
+crescendo neste campo?
 !******************************!
 [tobj149.txt]
 Certamente há muitos
@@ -753,9 +753,9 @@ barracas montadas bem
 ali!
 !******************************!
 [tobj77.txt]
-Parece que a maioria das
-festividades estão
-centradas aqui. 
+Parece que a maior parte
+das festividades esta
+centrada aqui. 
 !******************************!
 [tobj78.txt]
 É uma casa pequena, mas

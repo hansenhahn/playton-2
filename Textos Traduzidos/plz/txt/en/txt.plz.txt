@@ -1439,7 +1439,7 @@ Sinto desapontar, mas ele não
 Na mosca...
 !******************************!
 [m13_10.txt]
-só pode ser VOCÊ aí!
+... só pode ser VOCÊ aí!
 !******************************!
 [m13_11.txt]
 
@@ -2273,7 +2273,7 @@ Chester, o maitre do
 restaurante. Seu
 compromisso com o serviço
 de restaurante de seus
-clientes  tem contribuído
+clientes tem contribuído
 bastante à reputação
 magnífica do Molentary
 Express.
@@ -2296,7 +2296,7 @@ junto de seu cão, Tom.
 Esse cão pequenino é o
 bichinho de estimação de
 Babette. Como ele cresceu
-em luxo e abundância, ele
+em luxo e abundância,
 Tom tem sido por vezes
 travesso, causando
 confusão àqueles à sua
@@ -2312,7 +2312,7 @@ proprietária da casa
 noturna de Folsense, o
 lugar preferido de Beluga
 para relaxar. Ela é dona
-de várias joalharias, mas
+de várias joalherias, mas
 a maioria delas acabam
 indo parar na loja local
 de antiquários mais
@@ -2323,7 +2323,7 @@ Do topo de sua torre,
 Geoff está sempre alerta
 para qualquer possível
 ataque do vampiro. Até
-mesmo as passoas mais
+mesmo as pessoas mais
 excêntricas de Folsense
 consideram Geoff alguém
 excêntrico. Alguns dizem
@@ -2339,9 +2339,10 @@ de alho. O fedor do lugar
 já fez vários clientes
 fazerem seu mercantil
 em outro lugar, e ainda
-sim a quantidade de alho
-em sua loja só aumenta
-a cada dia que passa.
+assim a quantidade de
+alho em sua loja só
+aumenta a cada dia que
+passa.
 !******************************!
 [chr_19.txt]
 Apesar de seu aspecto

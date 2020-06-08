@@ -1032,7 +1032,7 @@ você vá e traga um certo número de pérolas
 para mim. Esse número te permite dividir as
 pérolas em grupos de 2, 3, 4, 5, 6 ou 7 e
 sempre terá uma pérola restante. Traga-me
-este número de pérolas e você poderá ficar
+esse número de pérolas e você poderá ficar
 com todas para si!<''>
 
 O viajante se esforça, mas o número de
@@ -1282,8 +1282,8 @@ cada pergunta tinha duas possíveis
 respostas, A e B. Cada pergunta vale 10
 pontos, com um total de 100 pontos.
 
-Os testes dos estudantes foram resultados
-como você vê abaixo, mas o professor
+Os resultados dos testes dos estudantes
+estão apresentados abaixo, mas o professor
 esqueceu sobre a nota do John. John estava
 indo para o escritório do professor quando
 Mary o chamou de volta, dizendo que daria
@@ -1395,7 +1395,7 @@ Agora basta pensar!
 [n150.dat]
 <0153>A Caixa de Pandora
 <00><63><58><4D><02><01><19><96><FF><03><01><FF>
-Neste último enigma, é um jogo de escapar
+Este último enigma é um jogo de escapar
 onde você precisa mover a joia rosa para
 o encaixe circular na parte de baixo.
 
@@ -2197,7 +2197,7 @@ Está certo!
 
 Se o John tiver seis e o Bill nove, então
 em três anos o Bill terá o dobro da idade
-atual do John, e em nove antos o Bill terá
+atual do John, e em nove anos o Bill terá
 o triplo da idade atual do John.
 
 Você poderia usar várias equações para
@@ -2241,14 +2241,15 @@ dos dois garotos.
 [n178.dat]
 <0181>O Formato da Fita
 <00><00><00><00><11><01><05><B2><EB><03><02><FF>
-Dois pedaços de fita de mesmo comprimento e
-largura estão em formato de anéis e então
-presas entre si no ponto P como mostrado.
+Dois pedaços de fita de mesmo comprimento
+e largura estão em formato de anéis e
+presos entre si no ponto P como mostrado.
 
 Se você fosse cortar os dois pedaços
 seguindo as linhas pontilhadas, quais das
-quatro formas abaixo se formaria? Escolha
-uma resposta de A até D circulando-a.
+quatro formas abaixo seria formada?
+Escolha uma resposta de A até D
+circulando-a.
 !******************************!
 Incrível!
 
@@ -2308,15 +2309,15 @@ algo muito importante.
 [n180.dat]
 <0183>Quantas Joias?
 <00><00><00><00><11><01><16><B4><F6><03><02><FF>
-A seguir é uma conversa entre dois
-ladrões sorrateiro:
+A seguir temos uma conversa entre dois
+ladrões sorrateiros:
 
 <''>Hã? Então de todas essas joias em
 exposição na joalheria, apenas uma é real?<''>
 
 <''>Exato. É a quarta de cima, a segunda
 de baixo, a terceira da direita e a
-terceira da esquerda. É esta qual
+terceira da esquerda. É dessa que
 estamos atrás.<''>
 
 Supondo que as joias estão ordenadas
@@ -2376,7 +2377,7 @@ A resposta é revelada quando você testa
 cada afirmação. Se B fosse falsa, então
 A, C e D podem potencialmente ser
 falsas ou corretas. E se D estivesse
-incorreta, ambos B e C também
+incorreta, ambas B e C também
 deveriam estar incorretas.
 !******************************!
 Que pena!
@@ -2577,7 +2578,7 @@ Dê uma olhada mais de perto!
 Primeiro, tente olhar para os centros
 dos padrões.
 
-A parte realmente difícil é as
+A parte realmente difícil são as
 diferenças dos triângulos nas bordas.
 Olhe atentamente para os tons de cinza!
 !******************************!

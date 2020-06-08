@@ -467,7 +467,7 @@ humilde vilarejo?
 [t12_110_400.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:103>Eu e meus companheiros estamos atrás
 de um artefato conhecido como Caixa
-Elísia. Já ouviu este nome antes?
+Elísia. Já ouviu esse nome antes?
 !******************************!
 [t12_110_500.gds]
 <01:00000016><03:9>b1 smile<03:5>NONE<01:00000003><03:102>Hmm, não creio ter ouvido.<W> Mas o

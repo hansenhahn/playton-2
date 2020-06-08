@@ -553,7 +553,7 @@ Flora! Podemos tentar juntos!
 Querem continuar brincando?
 !******************************!
 [t22_072_100.gds]
-<01:00000010><03:5>NONE<03:5>NONE<01:00000001><03:128>Em épocas festivas como estas,
+<01:00000010><03:5>NONE<03:5>NONE<01:00000001><03:128>Em épocas festivas como esta,
 o melhor a fazer é relaxar.<W>
 !------------------------------!
 Acreditem em mim. Se não forem 
@@ -767,7 +767,8 @@ informações dadas e em pouco tempo
 você chegará à resposta.
 !******************************!
 [t22_120_100.gds]
-<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:320>Olá, bom ver você de novo.<W>
+<01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:320>Olá! É muito bom ver você
+outra vez.<W>
 !------------------------------!
 Me diga, o que está achando do
 festival?<W> Não se esqueça de
@@ -898,7 +899,7 @@ parecem estar de bom humor.<W>
 !------------------------------!
 Hmm, parece a hora perfeita para
 um enigma rápido. Veja se consegue
-resolver esse aqui.
+resolver este aqui.
 !******************************!
 [t22_141_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:53>Tente resolver de novo o enigma
@@ -1274,7 +1275,7 @@ não faço nem ideia. Se eu fosse você,
 ia perguntar pra outro.
 !******************************!
 [t22_223_400.gds]
-<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:9>Entendo...
+<01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:9>Tudo bem...
 !******************************!
 [t22_224_100.gds]
 <01:0000003C><03:5>NONE<03:5>NONE<01:00000003><03:102>Mas o que é isso? Pensei que quisesse
@@ -1434,7 +1435,7 @@ de Dropstone.<W>
 !------------------------------!
 Tenho um palpite de que algo
 estranho deve ter acontecido aqui
-antes do vilarejo ser fundado.
+antes de o vilarejo ser fundado.
 !******************************!
 [t22_273_100.gds]
 <01:0000003D><03:5>NONE<03:5>NONE<01:00000003><03:151>Habilmente resolvido! Ah, isso

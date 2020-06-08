@@ -1,23 +1,22 @@
 [t16_010_100.gds]
-<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:150>Ah, Sr. Layton. Fico feliz de ver
-que o senhor enfim se
-juntou a nós.<W>
+<01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:150>Ah, Sr. Layton. Fico feliz em ver
+que o senhor enfim se juntou a nós.<W>
 !------------------------------!
 Agora que o senhor está aqui,
-estão reunidos todos os suspeitos
-do assassinato do Dr. Schrader.
+todos os suspeitos do assassinato
+do Dr. Schrader estão reunidos.
 !******************************!
 [t16_010_1000.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:34>É o quê?! Você só pode tá brincando,
-maninho!
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:34>É o quê?! Você só pode tá
+brincando, maninho!
 !******************************!
 [t16_010_1100.gds]
 <01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:241>Eu sei que o Sr. Beluga lhe
 mandou vasculhar cada canto da
 cidade em busca da Caixa Elísia.<W>
 !------------------------------!
-Ele o fez trabalhar dobrado... não,
-triplicado, e você ficou
+Ele o fez trabalhar dobrado...
+não, triplicado, e você ficou
 ressentido com o tratamento.<W>
 !------------------------------!
 Por isso decidiu passar a
@@ -26,8 +25,7 @@ ele tanto queria antes dele.
 !******************************!
 [t16_010_1200.gds]
 <01:00000009><03:6>shout<03:5>NONE<01:00000002><03:67>Isso é um ultraje! Samuel,
-o que tem a dizer em
-sua defesa?
+o que tem a dizer em sua defesa?
 !******************************!
 [t16_010_1300.gds]
 <01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:49>Isso aí é calúnia! Tão me
@@ -79,11 +77,11 @@ que ele esteja bem ao seu lado.
 !******************************!
 [t16_010_2000.gds]
 <01:00000005><03:10>b1 normal<03:5>NONE<01:00000003><03:92>Ah, então essa é a Caixa Elísia?<W>
-Que chique. E eu adoro o bode
-fofinho desenhado em cima!
+Que chique. Adorei o bode fofinho
+desenhado em cima!
 !******************************!
 [t16_010_2100.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:24>...Que inesperado!<W> Flora...<@s>
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:24>... Por esse eu não esperava!<W> Flora...<@s>
 !******************************!
 [t16_010_2200.gds]
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:5>Hmm?
@@ -94,7 +92,7 @@ alguma coisa aqui não se encaixava,
 e graças a você, ela ficou clara.
 !******************************!
 [t16_010_2400.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:30>É mesmo?<W> O quê, Professor?
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:30>É mesmo?<W> O que, Professor?
 !******************************!
 [t16_010_300.gds]
 <01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:102>Um suspeito? Eu?<W> Não sejam ridículos!
@@ -115,29 +113,29 @@ o responsável esteja aqui.
 investigação foi um verdadeiro triunfo
 de trabalho policial, Inspetor.<W>
 !------------------------------!
-Pois então diga-me: que fatos
-o senhor reuniu nestes
-últimos dias?
+Pois então diga-me: que fatos o
+senhor reuniu nestes últimos dias?
 !******************************!
 [t16_010_510.gds]
-<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:87>He he... atenção aqui, Layton.
+<01:00000006><03:9>b2 laugh<03:5>NONE<01:00000001><03:87>He he... Atenção aqui, Layton.
 Agora eu vou mostrar como nós,
 da Yard, resolvemos mistérios.
 !******************************!
 [t16_010_520.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:67>O senhor tem 100%% de minha
-atenção, Inspetor. Sou todo ouvidos.
+atenção, Inspetor. Sou todo
+ouvidos.
 !******************************!
 [t16_010_530.gds]
 <01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:513>Eu descobri a existência
 de Folsense através das provas
 encontradas na casa do doutor.<W>
 !------------------------------!
-De acordo com suas anotações, o
-Schrader passou bastante tempo nesta
-cidade em busca da Caixa Elísia.<W>
+De acordo com suas anotações,
+o Dr. Schrader passou bastante tempo
+nesta cidade em busca da Caixa Elísia.<W>
 !------------------------------!
-E assim que soube que ele morreu
+E assim que eu soube que ele morreu
 logo após voltar a Londres, tudo
 ficou claro.<W>
 !------------------------------!
@@ -188,7 +186,7 @@ E seu nome é...
 !******************************!
 [t16_020_100.gds]
 <01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:97>Ah, fala sério, seu polícia. O meu único
-crime é botar rock no mundo, e
+crime é levar o rock ao mundo, e
 isso não é crime! AI! Me solta!
 !******************************!
 [t16_020_1000.gds]
@@ -221,8 +219,7 @@ chegar, Professor?
 !******************************!
 [t16_020_600.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:156>Ninguém nesta sala chegou a
-ver a tão almejada Caixa
-Elísia.<W>
+ver a tão almejada Caixa Elísia.<W>
 !------------------------------!
 A única prova visual que temos dela
 é esta foto rasgada.
@@ -331,14 +328,14 @@ enganado, você disse que parecia
 ser um "bode fofinho", não é?
 !******************************!
 [t16_050_100.gds]
-<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:63>Maldito seja, Layton!<W> Maldito seja
-você e esse seu chapéu
+<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:63>Maldito seja, Layton!<W> Maldito
+seja você e esse seu chapéu
 espalhafatoso!
 !******************************!
 [t16_050_1000.gds]
 <01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:95>Eu tenho muitas perguntas pra você,
 e você vai responder todas após
-voltarmos para Londres!
+voltarmos pra Londres!
 !******************************!
 [t16_050_1100.gds]
 <01:00000006><03:9>b2 angry<03:5>NONE<01:00000001><03:70>Aonde pensa que vai?!<W>
@@ -444,8 +441,8 @@ isso deles.
 é a Caixa Elísia...
 !******************************!
 [t16_055_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>Devo admitir que nem suspeitava que
-o Don Paolo estivesse fingindo ser
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:90>Devo admitir que nem suspeitava de
+que o Don Paolo estivesse fingindo ser
 a Flora. E por tanto tempo!
 !******************************!
 [t16_055_300.gds]
@@ -464,7 +461,7 @@ pensar naquilo que o Don Paolo
 disse sobre o Dr. Schrader.<W>
 !------------------------------!
 Pelo jeito que ele falou, não parecia
-que tinha sido ele quem matou o Doutor.<W>
+que tinha sido ele quem matou o doutor.<W>
 Mas se não foi ele, quem foi?
 !******************************!
 [t16_055_600.gds]
@@ -487,9 +484,8 @@ Professor! Olha!
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:20>Ora, pois veja só!
 !******************************!
 [t16_055_900.gds]
-<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:80>O Don Paolo deve tê-la deixado
-cair enquanto fugia do
-Inspetor Chelmey!
+<01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:80>O Don Paolo deve tê-la deixado cair
+enquanto fugia do Inspetor Chelmey!
 !******************************!
 [t16_060_100.gds]
 <01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:76>Enfim, a caixa. Dentro dela, a chave
@@ -506,8 +502,8 @@ receio não poder deixá-lo ficar
 com a caixa, senhor.
 !******************************!
 [t16_060_1200.gds]
-<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:105>Aí, tio, que tal a gente desistir dessa
-caixa?<W> Eu já tô de saco
+<01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:105>Aí, tio, que tal a gente desistir
+dessa caixa?<W> Eu já tô de saco
 cheio de ficar bancando o espião!
 !******************************!
 [t16_060_1300.gds]
@@ -532,8 +528,8 @@ pro trem do rock e seguir os
 trilhos até o topo!<W> YEEEEEEEAH!
 !******************************!
 [t16_060_1500.gds]
-<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:73>Hrrm?! Samuel, que absurdo é esse
-que você está falando?
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:73>Hrrm?! Samuel, que absurdo
+é esse que você está falando?
 Volte aqui agora mesmo!
 !******************************!
 [t16_060_1600.gds]
@@ -566,7 +562,7 @@ segredo da fortuna dos Herzens!<W>
 !------------------------------!
 E uma vez que eu tenho o sangue
 deles em minhas veias, a caixa
-deve ser passada para mim. Somente.
+deve ser passada somente pra mim.
 !******************************!
 [t16_060_600.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:58>Bom, isso muda as coisas.
@@ -616,7 +612,7 @@ Vai ver foi mesmo a Caixa
 Elísia que matou ele.
 !******************************!
 [t16_070_1000.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Quem é esta pessoa?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Quem é essa pessoa?
 !******************************!
 [t16_070_1100.gds]
 <01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:189>Eu... não posso falar mais do que isso.
@@ -718,7 +714,7 @@ descobrir mais sobre ela. Por que
 ela é tão importante para você?
 !******************************!
 [t16_070_900.gds]
-<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:105>D-desculpe. Eu não posso dizer.<W>
+<01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:105>D-Desculpe. Eu não posso dizer.<W>
 Mas preciso entregar a caixa pra...
 pra alguém importante. Eu preciso.
 !******************************!
