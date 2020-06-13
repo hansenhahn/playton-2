@@ -154,7 +154,7 @@ o resto é realmente com você.
 [n103.dat]
 <0104>Desaparecimento 4
 <00><2D><28><23><01><38><1D><8A><02><04><04><FF>
-Você já manja desse enigma. Pode mover
+Você já manja deste enigma. Pode mover
 qualquer bolinha no tabuleiro abaixo, desde
 que satisfaça as seguintes condições:
 <60> Para mover uma bolinha, você precisa saltar
@@ -173,7 +173,7 @@ Beleza!
 A única condição para resolver esses enigmas
 era eliminando todas as bolinhas do tabuleiro
 exceto por uma, mas a verdadeira solução
-desse enigma requer que você termine com uma
+deste enigma requer que você termine com uma
 das bolinhas posicionada no espaço central.
 
 Talvez isso lhe sirva de incentivo para
@@ -348,7 +348,7 @@ a hora, vá em direção ao centro do
 tabuleiro.
 
 Falando nisso, essa é a última dica
-desse enigma. A Dica 3 contém apenas
+deste enigma. A Dica 3 contém apenas
 curiosidades do assunto.
 !******************************!
 Este é um exemplo do enigma do problema
@@ -635,7 +635,7 @@ Se um lado visível do dado da base estiver
 mostrando o número um, qual será o do lado
 superior do dado do topo?
 
-Os dados são idênticos e assim como em
+Os dados são idênticos e, assim como em
 qualquer dado, a soma das faces de cada
 par de lados opostos é igual a sete.
 !******************************!
@@ -1056,7 +1056,7 @@ prédio C formam a palavra HOTEL.
 !******************************!
 Que pena!
 
-Estude a área cautelosamente e assim
+Estude a área cautelosamente e, assim,
 você descobrirá o hotel logo, logo.
 !******************************!
 Apenas estude os quatro edifícios
@@ -1082,7 +1082,7 @@ para colocar uma rosa. A fragrância de cada
 rosa chega a até dois quadrados em cada
 direção, mas não atravessa paredes.
 Caso a fragrância de duas ou mais rosas
-sobreporem-se, o cheiro resultante será
+sobreponham-se, o cheiro resultante será
 insuportável, então certifique-se de
 mantê-las bastante espaçadas. Toque em
 uma rosa existente para removê-la.
@@ -1942,7 +1942,7 @@ Use a Função de Notas para desenhar sua
 rota proposta enquanto você pensa mais
 sobre o problema.
 !******************************!
-Vamos revisar as condições desse enigma.
+Vamos revisar as condições deste enigma.
 Você precisa fazer uma porta abrir na
 direção oposta e se deve passar por
 todas as salas no seu trajeto para a
@@ -2282,7 +2282,7 @@ Torre de Hanói, introduziu este enigma
 dizendo que foi baseado em uma lenda da
 cultura indiana, onde diz-se que o mundo
 seria destruído se alguém resolvesse uma
-versão especial gigantesca desse enigma,
+versão especial gigantesca deste enigma,
 de 64 discos de ouro. Apesar desse mito
 ser fascinante, muitos acham que foi o
 próprio Lucas quem inventou esta lenda.
@@ -2499,7 +2499,7 @@ este enigma!
 Se você desenhar linhas retas
 perpendiculares dentro do espaço
 que há entre os canteiros, verá que
-forma um quadrado!
+forma-se um quadrado!
 !******************************!
 Desenhe um conjunto de linhas diagonais
 que vão de cada ponto onde dois canteiros
@@ -2509,7 +2509,7 @@ canteiros). Isso deve dividir o espaço
 central em quatro partes que, se
 encaixadas num canteiro, faz ele mudar
 de forma. Que forma seria essa, e como
-ela impacta na resolução desse enigma?
+ela impacta na resolução deste enigma?
 !******************************!
 [n89.dat]
 <0090>A Fonte Incomum
@@ -2741,7 +2741,7 @@ da adivinhação! Você precisa chegar à sua
 resposta usando a lógica. É assim que esse
 tipo de enigma funciona.
 !******************************!
-A resposta desse enigma não vai
+A resposta deste enigma não vai
 simplesmente surgir na sua cabeça
 depois que você se deparar com um
 fato importante. Você vai ter que
@@ -2957,7 +2957,7 @@ evite essas duas últimas dicas!
 !******************************!
 Esse é um dos enigmas típicos que
 existem praticamente desde sempre.
-Há diversas variações desse enigma
+Há diversas variações deste enigma
 pelo globo, sendo inclusive relatado
 em épocas remotas, como o período
 Edo japonês.

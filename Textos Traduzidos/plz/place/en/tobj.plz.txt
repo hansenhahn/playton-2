@@ -21,7 +21,7 @@ Uma lagosta agora ia
 cair muito bem!
 !******************************!
 [tobj101.txt]
-Este telhado é uma
+Esse telhado é uma
 obra de arte.
 !******************************!
 [tobj102.txt]
@@ -313,7 +313,7 @@ Parece que há um pouco
 mais de luz lá!
 !******************************!
 [tobj161.txt]
-Cuide para não cair
+Cuidado para não cair
 dessas escadas, Luke.
 !******************************!
 [tobj162.txt]

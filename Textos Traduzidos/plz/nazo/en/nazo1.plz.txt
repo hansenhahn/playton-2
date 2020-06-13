@@ -2362,7 +2362,7 @@ o único lugar em que você pode colocar
 o diamante é no terceiro espaço de cima
 para baixo. Assim que colocar o diamante,
 você terá posicionado símbolos suficientes
-para resolver o resto desse enigma
+para resolver o resto deste enigma
 facilmente.
 !******************************!
 [n56.dat]

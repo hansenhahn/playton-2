@@ -937,7 +937,7 @@ do local render uma explicação para
 essa inconsistência.<W> Sigamos, Luke.
 !******************************!
 [t16_180_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:32>Olha só isso aqui, Professor.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:32>Olha só isto aqui, Professor.
 !******************************!
 [t16_180_1000.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:59>De fato... ou pelo menos, foi

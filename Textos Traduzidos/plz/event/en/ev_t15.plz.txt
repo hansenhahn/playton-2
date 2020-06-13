@@ -325,7 +325,7 @@ proteção!
 !******************************!
 [t15_230_800.gds]
 <01:0000004B><03:5>NONE<03:5>NONE<01:00000003><03:96>Ei, eu tenho uma pergunta pra vocês
-dois. Sabem o que é isso aqui?
+dois. Sabem o que é isto aqui?
 O vento trouxe até aqui.
 !******************************!
 [t15_230_900.gds]

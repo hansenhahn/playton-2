@@ -4,12 +4,12 @@ conheci uma garota adorável. Embora
 essas festas geralmente sejam um
 tédio total, sua presença mudou
 isso para mim. Por eu ser filho do
-duque, o fato das pessoas ficarem
+duque, o fato de as pessoas ficarem
 me elogiando tanto tem me incomodado.
-Mas esta garota era muito autêntica
-e me tratou como qualquer outra pessoa.
-Foi uma experiência nova. Espero vê-la
-novamente.
+Mas essa garota era muito autêntica
+e me tratou como qualquer outra
+pessoa. Foi uma experiência nova.
+Espero vê-la novamente.
 !******************************!
 [diary_10.txt]
 Meu pai adoeceu devido àquela doença
@@ -600,10 +600,11 @@ ela possa ficar para descansar.
 Assim que encontramos um hotel
 adequado, Flora decidiu ficar lá
 para descansar enquanto Luke e eu
-começamos a investigação da cidade.
-Nossa primeira missão é localizar
-os lugares que possam ter algum
-tipo de ligação com a Caixa Elísia.
+nos preparávamos para investigar
+a cidade. Nossa primeira missão
+é localizar os lugares que possam
+ter algum tipo de ligação com
+a Caixa Elísia.
 !******************************!
 [d_19.txt]
 Beluga e Sam, o fiscal do trem,

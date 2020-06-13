@@ -81,7 +81,7 @@ encontrar um hotel para a Flora.
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:39>Como você está, Flora? Melhorou?
 !******************************!
 [t14_070_200.gds]
-<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:75>Um pouquinho... acho que se eu dormir
+<01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:75>Um pouquinho... Acho que se eu dormir
 um pouco, vou acordar nova em folha.
 !******************************!
 [t14_070_300.gds]
@@ -244,8 +244,8 @@ Está aqui nesta cidade. Tenho
 certeza disso.<W>
 !------------------------------!
 Vasculhe cada centímetro deste
-lugar e traga-o para mim assim
-que o encontrar, combinado?
+lugar e traga-a pra mim assim
+que encontrá-la, combinado?
 !******************************!
 [t14_110_1000.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:69>Deixe-me ver.<W> O símbolo parece
@@ -256,7 +256,7 @@ ter o formato de um bode.
 O que está escrito dentro dele?
 !******************************!
 [t14_110_1200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:112>É difícil dizer. Com tantas trancas, só
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:112>É difícil dizer. Com tantas travas, só
 consigo ler uma parte...<W> Estou intrigado
 com este símbolo...
 !******************************!
@@ -282,9 +282,9 @@ um monte de baboseira.
 peça? Posso jurar que ouvi você dizendo
 que minhas informações estão erradas!<W>
 !------------------------------!
-Você não está em posição para questionar
-sobre este assunto. Agora, vá logo e
-comece a procurar!
+Você não está em posição para
+questionar sobre esse assunto. Agora,
+vá logo e comece a procurar!
 !******************************!
 [t14_110_400.gds]
 <01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:48>Tá, tá... Não precisa gritar.
@@ -304,8 +304,8 @@ estão atrás de alguma coisa.
 pode ser aquilo?
 !******************************!
 [t14_110_800.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Parece ser um estranho tipo de livro.
-Acredito que alguém deixou ele cair
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:87>Parece ser um tipo estranho de livro.
+Acredito que alguém o deixou cair
 enquanto caminhava pela cidade.
 !******************************!
 [t14_110_900.gds]
@@ -367,7 +367,7 @@ vamos indo.
 por algo em particular?
 !******************************!
 [t14_140_1000.gds]
-<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:103>Isto tudo é de grande ajuda. Obrigado
+<01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:103>Isso tudo é de grande ajuda. Obrigado
 pelo conselho. Certamente iremos visitar
 o museu.
 !******************************!
@@ -429,7 +429,7 @@ estamos aqui hoje para
 fazer compras.<W>
 !------------------------------!
 Mas gostaríamos de fazer algumas
-perguntas. Primeiro, há esse livro
+perguntas. Primeiro, há este livro
 que nós encontramos.<W>
 !------------------------------!
 Também gostaríamos de saber se você
@@ -454,13 +454,13 @@ saber se alguém estava vasculhando a
 cidade atrás da caixa.
 !******************************!
 [t14_140_600.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:42>Hmm... Você pode descrever esta
-jovem?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:42>Hmm... Você pode descrever
+essa jovem?
 !******************************!
 [t14_140_700.gds]
-<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:524>Oh, ela era bonita. Ela não era
-daqui, mas seu rosto parecia de
-alguma forma familiar.<W>
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:524>Ah, ela era bonita. Ela não era
+daqui, mas seu rosto parecia, de
+alguma forma, familiar.<W>
 !------------------------------!
 Ah, e os detetives, bem, eles disseram
 que estavam aqui em uma investigação

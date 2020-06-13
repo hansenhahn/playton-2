@@ -38,10 +38,10 @@ Ele parece recuperado e animado.
 !******************************!
 [t30_001_100.gds]
 <01:00000022><03:9>b2 smile<03:5>NONE<01:00000001><03:396>Kehehehe. Nada mal essa xícara
-de chá que você faz, menino.<W>
+de chá que você fez, menino.<W>
 !------------------------------!
 Mas claro, não teria conseguido
-sem minha expertise, então não
+sem a minha receita, então não
 vá se achando não.<W>
 !------------------------------!
 Sabe, essa cidade tá cheia de
@@ -61,9 +61,9 @@ acha? Quanta coisa boa pode ser
 feita só com uma xícara de chá?
 !******************************!
 [t30_001_300.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:88>Ah, de fato um bocado, Luke. Um
-cavalheiro nunca subestima a força
-de uma xícara de chá quente.
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:88>Um bocado, Luke. Um cavalheiro
+nunca subestima a força de uma
+xícara de chá quente.
 !******************************!
 [t30_001_400.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:92>Hmm, bom, quando você fala dessa
@@ -1923,8 +1923,8 @@ Jogamos baralho e trocamos assunto.
 Ele veio à cidade investigar
 algo por aqui.<W>
 !------------------------------!
-Me pergunto se ele chegou a
-encontrar o que procurava.
+Será que ele chegou a
+encontrar o que procurava?
 !******************************!
 [t30_232_10.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:67>Infelizmente, o chá que você

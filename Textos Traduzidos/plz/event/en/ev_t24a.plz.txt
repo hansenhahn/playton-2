@@ -98,7 +98,7 @@ trocou de trilhos. Percebeu alguma
 coisa na hora?
 !******************************!
 [t24_023_700.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:101>Bem... pra ser sincero, não lembro de
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:101>Bem... Pra ser sincero, não me lembro de
 muita coisa. Eu apaguei por um momento,
 então está tudo meio borrado.
 !******************************!

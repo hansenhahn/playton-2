@@ -913,7 +913,7 @@ episódios menos amigáveis.
 !******************************!
 [t24_511_100.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:56>Você já estava pensando na
-solução desse enigma, creio eu.
+solução deste enigma, creio eu.
 !******************************!
 [t24_512_100.gds]
 <01:00000007><03:5>NONE<03:5>NONE<01:00000002><03:98>O Inspetor pode parecer um resmungão,

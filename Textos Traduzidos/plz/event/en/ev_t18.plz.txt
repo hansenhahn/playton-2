@@ -164,7 +164,7 @@ obstruindo os trilhos.
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:157>Com os trilhos livres novamente,
 Layton e os demais voltam ao trem.<W>
 !------------------------------!
-E assim eles seguem rumo à sua próxima
+E, assim, eles seguem rumo à sua próxima
 parada, o pequeno vilarejo de Dropstone.
 !******************************!
 [t18_190_100.gds]

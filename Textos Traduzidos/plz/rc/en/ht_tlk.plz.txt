@@ -290,8 +290,7 @@ indigno quanto este chá.
 !******************************!
 [ht_103_3.txt]
 Tudo parecia estar indo bem.
-Me pergunto onde foi que deu
-errado.
+Onde será que eu errei?
 !******************************!
 [ht_104_0.txt]
 Professor, tá saindo... espuma
@@ -383,7 +382,7 @@ era para ser possível beber.
 Err... Não pra mim, valeu.
 !******************************!
 [ht_109_0.txt]
-Professor, isso aqui não tem cara
+Professor, isto aqui não tem cara
 de chá mesmo. Se eu não soubesse
 da receita, juraria que era lama.
 !******************************!

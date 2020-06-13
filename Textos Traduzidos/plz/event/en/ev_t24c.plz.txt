@@ -476,6 +476,6 @@ preservação não são um segredo
 comercial?
 !******************************!
 [t24_734_500.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:59>Suponho que não vai organizar essas
-fotos para mim então.
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:59>Desistiu de organizar essas
+fotos para mim?
 !******************************!

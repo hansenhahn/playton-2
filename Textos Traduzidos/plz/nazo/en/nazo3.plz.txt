@@ -1873,7 +1873,7 @@ C deve ser azul.
 Que pena!
 
 O único jeito de resolver um enigma como
-esse é fazendo manualmente!
+este é fazendo manualmente!
 !******************************!
 Tente marcar os territórios usando a
 Função de Notas para ter certeza de que
@@ -3011,7 +3011,7 @@ Depois, leve o bloco quadrado da direita
 e mova-o para a esquerda. Após isso,
 você precisará encontrar um jeito de
 mover aquele bloco amarelo para a área
-superior direita desse enigma.
+superior direita deste enigma.
 !******************************!
 Assim que completar tudo da Dica 2,
 você deverá ser capaz de trocar a
