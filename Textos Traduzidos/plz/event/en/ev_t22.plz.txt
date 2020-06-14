@@ -463,7 +463,7 @@ Ah, mas há algo um pouco estranho
 nessa pintura.
 !******************************!
 [t22_050_300.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:35>HÃ£? O que quer dizer, Professor?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:35>Hã? O que quer dizer, Professor?
 !******************************!
 [t22_051_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:63>Deixa eu ver se consigo descobrir

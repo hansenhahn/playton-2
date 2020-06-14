@@ -1262,13 +1262,13 @@ sede, PRA ONTEM! E lembrem-se,
 tem que ser doce!
 !******************************!
 [t30_150_100.gds]
-<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:33>Meu... Deus... Mas...que...sede...
+<01:0000004E><03:5>NONE<03:5>NONE<01:00000002><03:33>Meu... Deus... Mas... que... sede...
 !******************************!
 [t30_150_200.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:24>Você está bem, senhor?
 !******************************!
 [t30_150_300.gds]
-<01:0000004E><03:10>b1 normal<03:5>NONE<01:00000002><03:201>Para ser franco, já estive melhor,
+<01:0000004E><03:10>b1 normal<03:5>NONE<01:00000002><03:201>Pra ser franco, já estive melhor,
 filho.<W> Sou Gregorio, e gosto de
 xadrez que nem porco gosta de lama.<W>
 !------------------------------!
@@ -1290,7 +1290,7 @@ refrescado, pensar na sua próxima
 jogada será bem mais fácil.
 !******************************!
 [t30_151_10.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:71>Xequemate! Gregorio parece
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:71>Xeque-mate! Gregorio parece
 refrescado e pronto para fazer
 sua próxima jogada!
 !******************************!
@@ -1316,8 +1316,8 @@ O mais peculiar é que não foi
 desenvolvida nenhuma estratégia
 nova nos últimos 50 anos.<W>
 !------------------------------!
-É quase como se o tempo tivesse
-parado.
+É quase como se o tempo
+tivesse parado.
 !******************************!
 [t30_152_10.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:70>Infelizmente, o chá que você

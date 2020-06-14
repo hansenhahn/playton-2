@@ -128,7 +128,7 @@ ficar por aqui?
 louquinho. Nada bom, cara.
 !******************************!
 [t23_020_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:52>HÃ£? O que está acontecendo lá fora?<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:52>Hã? O que está acontecendo lá fora?<W>
 Estou... sonhando?
 !******************************!
 [t23_023_100.gds]

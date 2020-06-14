@@ -757,8 +757,8 @@ Herzen constantemente nos concedia
 a honra de hospedá-lo em nosso hotel.<W>
 !------------------------------!
 Tenho boas memórias da gentileza
-que ele me mostrava, mesmo quando
-eu ainda era um mero camareiro.<W>
+dele comigo, mesmo quando eu ainda
+era um mero camareiro.<W>
 !------------------------------!
 Quando o Duque ainda estava
 entre nós, a cidade era cheia de
@@ -777,7 +777,7 @@ Ele teve algum outro filho?
 irmão do Sr. Beluga quem herdou
 o título de duque.<W>
 !------------------------------!
-E isso é tudo que eu sei quanto
+E isso é tudo o que eu sei quanto
 ao caso. Mas ouvi falar que
 o duque atual é bem jovem.<W>
 !------------------------------!
@@ -795,7 +795,7 @@ ninguém na cidade liga pra quem
 ele é ou pro que anda fazendo.
 !******************************!
 [t16_121_100.gds]
-<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:138>Dá pra acreditar no Sr. Beluga?<W>
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:138>Dá para acreditar no Sr. Beluga?<W>
 Abandona Folsense e depois
 volta sem um pingo de remorso.<W>
 !------------------------------!
@@ -818,28 +818,28 @@ por lá que ajudem na investigação?<W>
 Não esqueçam de ir lá conferir!
 !******************************!
 [t16_130_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:172>Obrigado Sam! Por um segundo a
-situação lá ficou bem
-tensa, não foi mesmo?!<W>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:172>Obrigado Sam! A situação ficou bem
+tensa lá por um segundo, não foi
+mesmo?!<W>
 !------------------------------!
-Eu ainda tô processando
-aquela revelação de que
-o Sr. Beluga é um Herzen.
+Eu ainda tô processando aquela
+revelação de que o Sr. Beluga é
+um Herzen.
 !******************************!
 [t16_130_300.gds]
 <01:00000008><03:5>NONE<03:5>NONE<01:00000002><03:426>Pois é! O meu tio nunca falou
 muito sobre o assunto.<W>
 !------------------------------!
 Tudo que eu sabia é que ele e o
-pai, o duque, tiveram uma briga,
-e que por isso ele foi embora.<W>
+pai, o duque, tiveram uma briga
+e que, por isso, ele foi embora.<W>
 !------------------------------!
 Mas ele falava direto sobre o
 irmão que largou aqui. Dava pra
 ver que gostava bastante dele.<W>
 !------------------------------!
 Só que agora parece que é
-aquele vampirão sinistro que
+aquele vampirão sinistro quem
 anda mandando no castelo.<W>
 !------------------------------!
 Não é legal dizer isso, mas duvido

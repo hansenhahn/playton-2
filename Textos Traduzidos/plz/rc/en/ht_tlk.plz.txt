@@ -44,7 +44,7 @@ sutil de frutosidade e fumosidade.
 [ht_002_1.txt]
 Ouvi dizer que você consegue usar
 as folhas de chá dessa mistura
-para prever sua vida amorosa.
+pra prever sua vida amorosa.
 !******************************!
 [ht_002_2.txt]
 Estou impressionado, Luke. É de
@@ -204,7 +204,7 @@ e beber o meu também.
 !******************************!
 [ht_010_3.txt]
 Lamento ouvir que o tom defumado
-do Flor de Cinzas não é do seu
+da Flor de Cinzas não é do seu
 agrado, Luke.
 !******************************!
 [ht_011_0.txt]
@@ -222,7 +222,7 @@ como esse, não é, Professor?
 !******************************!
 [ht_011_3.txt]
 De fato, meu garoto.
-Bom, considere-me mistificado...
+Bom, estou sem palavras...
 !******************************!
 [ht_100_0.txt]
 Ah, céus...

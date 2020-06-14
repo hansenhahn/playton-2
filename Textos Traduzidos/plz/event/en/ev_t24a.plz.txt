@@ -352,7 +352,7 @@ estranhos com quem já me deparei.
 lhe dei um chapéu.
 !******************************!
 [t24_083_200.gds]
-<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:5>HÃ£?
+<01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:5>Hã?
 !******************************!
 [t24_083_300.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:58>Err... Professor, eu não acho que
@@ -1083,7 +1083,7 @@ direitinho.<W> Eu mostro pra vocês.
 !******************************!
 [t24_231_100.gds]
 <01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:81>Você não conseguiu dar conta desse
-monte de panqueca, hÃ£? Sei exatamente
+monte de panqueca, hã? Sei exatamente
 como se sente.
 !******************************!
 [t24_232_100.gds]

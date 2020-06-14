@@ -759,9 +759,9 @@ Folsense não é flor que se cheire.
 <01:00000045><03:9>b1 smlie<03:5>NONE<01:00000003><03:207>Aaah! Belo trabalho esse que
 vocês dois fizeram.<W>
 !------------------------------!
-Vocês podem correr por aí que nem 
-cães, mas, no fim das contas, não
-são tão inúteis, né?<W>
+Vocês até podem correr por aí que
+nem cães, mas, no fim das contas,
+não são tão inúteis, né?<W>
 !------------------------------!
 Se vocês gostam tanto de correr por
 aí, não vou impedi-los. Aliás, é até

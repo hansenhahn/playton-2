@@ -74,7 +74,7 @@ envelope, junto à carta do doutor.
 tentar abrir a porta.
 !******************************!
 [t20_010_900.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:82>HÃ£?<W> Estranho. Parece que
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:82>Hã?<W> Estranho. Parece que
 nenhuma destas chaves abre essa
 fechadura.
 !******************************!

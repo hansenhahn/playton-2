@@ -404,7 +404,7 @@ seu cavalo preso no menor número de
 jogadas possível.
 !******************************!
 [n108.dat]
-<0109>Passeando com o Cachorro
+<0109>Passeando com o Cão
 <00><32><2D><28><11><40><16><6C><F6><03><04><1B>
 Uma garotinha leva seu cachorro para
 passear com o pai dela. A garotinha começa
