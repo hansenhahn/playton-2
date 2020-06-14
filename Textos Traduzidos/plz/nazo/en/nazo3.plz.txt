@@ -805,7 +805,7 @@ Assim que as peças ficarem juntas, a
 resposta se tornará clara.
 !******************************!
 [n138.dat]
-<0141>Desaparecimento 6
+<0141>Resta Um 6
 <00><63><58><4D><01><01><1D><8A><02><04><02><FF>
 Igual nas vezes anteriores, você pode mover
 qualquer bolinha no tabuleiro, contanto que

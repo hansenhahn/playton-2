@@ -478,9 +478,8 @@ a dupla voltou às ruas para verem o que
 mais podiam descobrir. 
 !******************************!
 [t18_330_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:73>O Professor Layton e Luke abriram
-a Caixa Elísia sem sofrer nenhum
-mal.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:73>O Professor Layton e Luke abriram a
+Caixa Elísia sem sofrerem nenhum mal.
 !******************************!
 [t18_330_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:90>Após abrirem a caixa, a dupla voltou
@@ -497,9 +496,8 @@ sua busca por fatos relacionados
 à Caixa Elísia.
 !******************************!
 [t18_335_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:73>O Professor Layton e Luke abriram
-a Caixa Elísia sem sofrer nenhum
-mal.
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:73>O Professor Layton e Luke abriram a
+Caixa Elísia sem sofrerem nenhum mal.
 !******************************!
 [t18_335_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:90>Após abrirem a caixa, a dupla voltou

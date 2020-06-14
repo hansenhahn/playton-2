@@ -856,8 +856,8 @@ pra achar umas informações de
 primeira por lá!
 !******************************!
 [t16_140_100.gds]
-<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:352>Bem-vindos, meus amigos. Meu
-nome é Grinko, e eu sou o
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:352>Bem-vindos, meus amigos.
+Meu nome é Grinko, e eu sou o
 curador do Museu Herzen.<W>
 !------------------------------!
 Temos uma vasta coleção de
@@ -1393,16 +1393,16 @@ quem é esse vampiro de que a
 cidade toda não para de falar?
 !******************************!
 [t16_260_400.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:120>O Sam havia dito que o Sr.
-Beluga tinha um irmão mais
-velho aqui na cidade.<W>
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:120>O Sam havia dito que o
+Sr. Beluga tinha um irmão
+mais velho aqui na cidade.<W>
 !------------------------------!
 Acredito que seja ele o centro
 de todos esses boatos.
 !******************************!
 [t16_260_500.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:140>Mas pra ser irmão mais velho do
-Sr. Beluga, ele teria que ser
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:140>Mas pra ser irmão mais velho
+do Sr. Beluga, ele teria que ser
 já bem velhinho agora.<W>
 !------------------------------!
 Ah, se bem que vampiros não
@@ -1440,13 +1440,11 @@ construído para celebrar suas
 conquistas, então, devo concordar.
 !******************************!
 [t16_280_300.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:60>Mas... espera aí. Eu achei
-que era o Sr. Beluga o
-dono deste lugar!
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:60>Mas... espera aí. Eu achei que era
+o Sr. Beluga o dono deste lugar!
 !******************************!
 [t16_280_400.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:32>Acredito que seja isso mesmo,
-sim.
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:32>Acredito que seja isso mesmo.
 !******************************!
 [t16_280_500.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:90>Quer dizer então que ele construiu
@@ -1582,14 +1580,14 @@ no castelo.
 !******************************!
 [t16_320_100.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:55>Vejo que o senhor ficou bem
-interessado nessa foto.
+interessado nessa pintura.
 !******************************!
 [t16_320_1000.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:16>Ganância, talvez?
 !******************************!
 [t16_320_1100.gds]
-<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:92>Bom, sim, isso também.<W> Mas havia uma
-outra coisa, algo maior do que
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:92>Bom, sim, isso também.<W> Mas havia
+uma outra coisa, algo maior do que
 ganância, que infestava seu coração.
 !******************************!
 [t16_320_1200.gds]
@@ -1597,7 +1595,7 @@ ganância, que infestava seu coração.
 ter sido?
 !******************************!
 [t16_320_1300.gds]
-<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:140>Eu... Não, acho melhor deixarmos
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:140>Eu... Não, acho melhor encerrarmos
 esta conversa por aqui.<W>
 !------------------------------!
 Não cabe a mim fazer pressupostos
@@ -1605,7 +1603,7 @@ sobre o que se passa nos corações
 dos outros.
 !******************************!
 [t16_320_1400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:68>É claro.<W> Mas por favor, me diga uma
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:68>É claro.<W> Mas, por favor, me diga uma
 coisa, se puder. Onde está o
 Anton agora?
 !******************************!
@@ -1628,9 +1626,9 @@ para estudarem o museu o
 quanto quiserem.
 !******************************!
 [t16_320_1700.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:62>Parece que dinheiro só não resolve
-todos os problemas de uma
-pessoa, não é mesmo, Professor?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:62>Parece que só dinheiro não resolve
+todos os problemas de uma pessoa,
+não é mesmo, Professor?
 !******************************!
 [t16_320_1800.gds]
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:6>Mm...
@@ -1640,34 +1638,34 @@ pessoa, não é mesmo, Professor?
 ser?
 !******************************!
 [t16_320_300.gds]
-<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:264>É um retrato de toda a família Herzen,
-a responsável pela lendária
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:264>É um retrato de toda a família
+Herzen, a responsável pela lendária
 riqueza de Folsense.<W>
 !------------------------------!
 O cavalheiro mais velho à
 esquerda é o Duque Herzen.<W>
 !------------------------------!
 Seu filho mais novo, Fredrich,
-está no meio; e seu primogênito,
+está no meio e seu primogênito,
 Anton, está à direita.
 !******************************!
 [t16_320_400.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:96>Esse "Fredrich"... é o Sr. Beluga,
-o fundador e dono do
-Molentary Express, não?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:96>Esse "Fredrich"... Por acaso não
+é o Sr. Beluga, o fundador e dono
+do Molentary Express?
 !******************************!
 [t16_320_500.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:469>Ah, o senhor já o conhece?<W>
 !------------------------------!
 Bom, além de ser proprietário
-ferroviário o Fredrich é um bom
-amigo meu, e dono deste museu.<W>
+da ferrovia, o Fredrich é um bom
+amigo meu, e é dono deste museu.<W>
 !------------------------------!
 Na verdade, é uma história triste.
 Ele desfez todos os laços com o
 pai e deixou a cidade 50 anos atrás.<W>
 !------------------------------!
-E com ele levou uma pequena parte
+E, com ele, levou uma pequena parte
 do tesouro Herzen e o utilizou
 para financiar sua ferrovia.<W>
 !------------------------------!
@@ -1693,18 +1691,18 @@ família Herzen?
 foram irmãos muito próximos.<W>
 !------------------------------!
 Mas depois daquele dia fatídico,
-a relação deles com o pai
-nunca mais foi a mesma...
+a relação deles com o pai nunca
+mais foi a mesma...
 !******************************!
 [t16_320_800.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:24>Que dia, senhor?
 !******************************!
 [t16_320_900.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:153>O dia em que o Duque Herzen descobriu
-a mina de ouro que trouxe
-tanta riqueza para Folsense.<W>
+a mina de ouro que trouxe tanta
+riqueza para Folsense.<W>
 !------------------------------!
 Ele se tornou um homem completamente
-diferente depois disso. Alguma
-coisa havia mudado ele.
+diferente depois disso. Alguma coisa
+havia mudado ele.
 !******************************!

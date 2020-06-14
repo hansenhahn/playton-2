@@ -173,7 +173,7 @@ de chá não me comove tanto.<W>
 !------------------------------!
 Não é muito, mas permita-me
 compartilhar este enigma com você.
-É o que posso fazer pra agradecer.
+É o que posso fazer para agradecer.
 !******************************!
 [t24_341_100.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:83>Vocês dois gostam de enigmas, não é?
@@ -187,11 +187,11 @@ que assombram nossa cidade.
 !******************************!
 [t24_343_100.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:199>Muito bem. Acho que vocês têm o
-que é preciso pra chegar ao fundo
+que é preciso para chegar ao fundo
 do que está acontecendo na cidade.<W>
 !------------------------------!
 Não creio ter muito a oferecer
-pra ajudá-los, mas estarei
+para ajudá-los, mas estarei
 torcendo por vocês.
 !******************************!
 [t24_344_100.gds]

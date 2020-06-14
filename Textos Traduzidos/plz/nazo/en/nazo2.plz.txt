@@ -1,5 +1,5 @@
 [n100.dat]
-<0101>Desaparecimento 1
+<0101>Resta Um 1
 <00><1E><1B><18><01><29><1D><8A><02><04><04><FF>
 Este enigma é um dos clássicos. Siga as
 regras abaixo para completá-lo. Mova
@@ -45,7 +45,7 @@ se você conseguirá resolver o enigma
 ou não.
 !******************************!
 [n101.dat]
-<0102>Desaparecimento 2
+<0102>Resta Um 2
 <00><23><1F><1B><01><2D><1D><8A><02><04><04><2D>
 Aqui temos uma variação diferente de Resta
 Um, mas as regras são as mesmas. Mova
@@ -93,7 +93,7 @@ na primeira jogada.
 O resto do enigma é com você.
 !******************************!
 [n102.dat]
-<0103>Desaparecimento 3
+<0103>Resta Um 3
 <00><28><24><20><01><23><1D><8A><02><04><04><2E>
 Hmm, agora tá ficando mais difícil.
 Você pode mover qualquer bolinha no
@@ -152,7 +152,7 @@ superior da árvore. OK, dessa vez,
 o resto é realmente com você.
 !******************************!
 [n103.dat]
-<0104>Desaparecimento 4
+<0104>Resta Um 4
 <00><2D><28><23><01><38><1D><8A><02><04><04><FF>
 Você já manja deste enigma. Pode mover
 qualquer bolinha no tabuleiro abaixo, desde
@@ -210,7 +210,7 @@ criados inúmeros jogos de computador
 nesse mesmo estilo.
 !******************************!
 [n104.dat]
-<0105>Desaparecimento 5
+<0105>Resta Um 5
 <00><3C><36><30><01><44><1D><8A><02><04><04><FF>
 Pode ir se preparando, porque esse aqui vai
 ser difícil. Tal como antes, você pode mover

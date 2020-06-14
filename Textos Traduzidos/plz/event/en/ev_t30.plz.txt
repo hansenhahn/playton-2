@@ -1804,7 +1804,7 @@ agora. Tsc...
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:105>Não necessariamente, bom homem.<W>
 !------------------------------!
 Talvez possamos usar ingredientes
-modernos para recriar este chá
+modernos para recriar esse chá
 lendário.
 !******************************!
 [t30_220_500.gds]
@@ -1829,8 +1829,8 @@ de beber um chá lendário!
 preparou para Grinko não serviu.
 !******************************!
 [t30_222_100.gds]
-<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:197>Oras, suponho que seja mesmo
-impossível recriar este chá
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:197>Ora, suponho que seja mesmo
+impossível recriar esse chá
 sem os ingredientes antigos.<W>
 !------------------------------!
 Desculpe dizer isso, mas não havia
@@ -1860,7 +1860,7 @@ cafeteria na cidade que preparava
 o mais incrível chá que há.<W>
 !------------------------------!
 Digo, as pessoas vinham à Folsense
-aos montes para provar este chá
+aos montes para provar esse chá
 maravilhoso, como era chamado.
 !******************************!
 [t30_230_400.gds]
