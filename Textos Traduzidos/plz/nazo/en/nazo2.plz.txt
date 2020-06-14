@@ -2933,7 +2933,7 @@ mover dois objetos ao mesmo tempo.
 
 Para mover os objetos, toque no ícone
 vermelho entre eles e arraste o par de
-itens selecionado com a caneta stylus.
+objetos selecionado com a caneta stylus.
 !******************************!
 Muito bem!
 
@@ -2983,7 +2983,7 @@ mover dois objetos ao mesmo tempo.
 
 Para mover os objetos, toque no ícone
 vermelho entre eles e arraste o par de
-itens selecionado com a caneta stylus.
+objetos selecionado com a caneta stylus.
 !******************************!
 Muito bem!
 
@@ -3028,7 +3028,7 @@ mas não é interessante?
 [n99.dat]
 <0100>A Ponte Frágil
 <00><1E><1B><18><11><4F><21><63><E9><03><04><FF>
-O Luke e o Professor Layton estão parados
+Luke e o Professor Layton estão parados
 na frente de uma ponte velha e frágil. Com
 medo de cair no abismo abaixo, as pernas do
 Luke ficaram rígidas de medo e ele só pode

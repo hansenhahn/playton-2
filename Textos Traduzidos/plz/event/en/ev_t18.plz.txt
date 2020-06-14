@@ -446,7 +446,7 @@ Enfim, estavam prestes a descobrir
 os segredos que ela guardava.
 !******************************!
 [t18_310_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>O Professor Layton e o Luke,
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>O Professor Layton e Luke,
 arriscando suas vidas, abriram
 a Caixa Elísia.
 !******************************!
@@ -463,7 +463,7 @@ Para desvendar esses novos mistérios,
 a dupla voltou às ruas de Folsense.
 !******************************!
 [t18_320_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>O Professor Layton e o Luke,
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:82>O Professor Layton e Luke,
 arriscando suas vidas, abriram
 a Caixa Elísia.
 !******************************!
@@ -478,7 +478,7 @@ a dupla voltou às ruas para verem
 o que mais podiam aprender. 
 !******************************!
 [t18_330_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:73>O Professor Layton e o Luke abriram
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:73>O Professor Layton e Luke abriram
 a Caixa Elísia sem sofrer nenhum
 mal.
 !******************************!
@@ -497,7 +497,7 @@ sua busca por fatos relacionados
 à Caixa Elísia.
 !******************************!
 [t18_335_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:73>O Professor Layton e o Luke abriram
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:73>O Professor Layton e Luke abriram
 a Caixa Elísia sem sofrer nenhum
 mal.
 !******************************!
@@ -579,7 +579,7 @@ de sair do castelo assim que possível.
 !******************************!
 [t18_380_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Fugindo do interior do castelo,
-o Professor Layton e o Luke enfim
+o Professor Layton e Luke enfim
 chegaram à saída.
 !******************************!
 [t18_380_200.gds]
@@ -813,9 +813,9 @@ Ao escolher continuar o jogo, você
 voltará ao Castelo Herzen, logo
 antes da luta contra Anton.<W>
 !------------------------------!
-A partir desse ponto você estará livre
-para voltar à cidade e procurar por itens
-e enigmas que tenha deixado para trás.
+A partir desse ponto, você estará livre
+para voltar à cidade e procurar por
+enigmas que tenham ficado para trás.
 !******************************!
 [t18_460_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:152>Esperamos que tenha gostado de

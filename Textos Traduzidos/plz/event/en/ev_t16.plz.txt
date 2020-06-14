@@ -737,7 +737,7 @@ Preciso confirmar minhas suspeitas.
 [t16_120_100.gds]
 <01:00000018><03:9>b2 smile<03:10>b2 normal<01:00000002><03:95>Boa noite, senhores. Peço
 perdão pelo meu comportamento de
-agora há pouco. Foi muito impróprio.
+agora há pouco. Foi inapropriado.
 !******************************!
 [t16_120_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:152>Não há com o que se preocupar.

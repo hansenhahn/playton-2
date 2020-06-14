@@ -2909,12 +2909,12 @@ Dawson administra o
 antiquário da cidade,
 e fica animado na hora
 quando vê objetos com
-significado histórico ou
-histórias pessoais. Itens
-cujo único significado é
-seu valor monetário
-geralmente não são do
-seu interesse.
+significado histórico
+ou histórias pessoais.
+Objetos cujo único
+significado é seu valor
+monetário geralmente não
+são do seu interesse.
 !******************************!
 [chr_6.txt]
 Anton é o atual duque de

@@ -1571,9 +1571,9 @@ perna ruim.
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:31>Posso ajudá-lo em algo?
 !******************************!
 [t30_190_300.gds]
-<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:101>Tenho todos esses itens para
-avaliar, mas estou com tanta fadiga
-que não consigo avançar em nada.
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:101>Tenho todos esses objetos para
+avaliar, mas estou tão cansado que
+não consigo avançar em nada.
 !******************************!
 [t30_190_400.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:160>Você parece estar com uma

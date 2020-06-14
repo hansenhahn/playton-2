@@ -80,7 +80,7 @@ de vidro bonito desse, que
 atire a primeira pedra.
 !******************************!
 [tobj113.txt]
-Apenas os itens mais
+Apenas os objetos mais
 valiosos estão sendo
 exibidos aqui.
 !******************************!

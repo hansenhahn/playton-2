@@ -110,8 +110,8 @@ parar até encostar em outro objeto.
 Brincar na caixa de areia sempre
 faz o hamster dar um salto em
 direção a uma piscina, ignorando
-todos os itens por perto. Saltos
-não contam como passos.
+todos os objetos por perto.
+Saltos não contam como passos.
 !******************************!
 [obj_e09.txt]
 Depois de brincar na caixa de
