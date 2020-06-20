@@ -336,7 +336,7 @@ Se incomoda de deixar o
 seu chapéu comigo?
 !******************************!
 [t24_080_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>Entendo. O senhor está dizendo que só
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:69>Entendi. O senhor está dizendo que só
 podemos entrar se eu lhe der este chapéu?
 !******************************!
 [t24_081_100.gds]
@@ -494,7 +494,7 @@ meu bem?
 <01:0000001C><03:5>NONE<03:5>NONE<01:00000003><03:114>Não tenho mais nada pra falar
 sobre o Sr. Bê, docinho.<W>
 !------------------------------!
-Eu sou dançarina de can can, não
+Eu sou dançarina de cancan, não
 de "quem é quem". Desculpa, lindo!
 !******************************!
 [t24_103_100.gds]
@@ -507,8 +507,8 @@ atrás de alguma coisa, mas é claro
 que eu não sei o que é essa coisa.<W>
 !------------------------------!
 Acho que ele não está tendo muita sorte.
-Toda vez que eu vejo ele por aqui, ele
-está de mau humor.
+Toda vez que eu o vejo por aqui, ele está
+de mau humor.
 !******************************!
 [t24_103_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:92>Ele chegou a falar sobre o que estava
@@ -794,7 +794,7 @@ que veio daqui.
 !******************************!
 [t24_160_500.gds]
 <01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:201>Não adianta tentar me enganar,
-mocinho! Eu conheço muito bem estas
+mocinho! Eu conheço muito bem essas
 mentiras de vampiro!<W>
 !------------------------------!
 Se querem mesmo me convencer de que
@@ -1173,7 +1173,7 @@ de Folsense.
 resolveu o enigma da última vez.
 !******************************!
 [t24_252_100.gds]
-<01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:103>Este boato assolou a cidade uns
+<01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:103>Esse boato assolou a cidade uns
 anos atrás, mas não consigo lembrar
 exatamente quando foi.
 !******************************!
@@ -1199,7 +1199,7 @@ Diga-me, que boato foi esse?
 !******************************!
 [t24_253_300.gds]
 <01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:175>Uma bobagem aí sobre uma maldição...
-pra ser franco, não estou muito certo
+Pra ser franco, não estou muito certo
 do que se tratava.<W>
 !------------------------------!
 Mas às vezes penso onde foram

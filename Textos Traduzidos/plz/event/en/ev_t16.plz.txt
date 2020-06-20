@@ -916,7 +916,7 @@ De nada adianta continuarmos
 a especular. Vamos entrar.
 !******************************!
 [t16_170_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:32>Eca! Esse lugar tem cheiro
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:32>Eca! Este lugar tem cheiro
 de ovo podre!
 !******************************!
 [t16_170_200.gds]

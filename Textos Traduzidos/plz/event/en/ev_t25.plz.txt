@@ -86,7 +86,7 @@ família Herzen, cheio de vida.
 !******************************!
 [t25_020_300.gds]
 <01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:65>Você quer dizer o vampiro-chefe
-da família Herzen, cheio de morto!
+da família Herzen, cheio de morte!
 !******************************!
 [t25_020_400.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:11>Estranho...
@@ -104,7 +104,7 @@ O homem e seu retrato são praticamente
 idênticos.
 !******************************!
 [t25_020_700.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:144>Entendo onde quer chegar. Ele
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:144>Entendo aonde quer chegar. Ele
 não envelhece...<W>
 !------------------------------!
 Então ele deve ser mesmo vampiro!

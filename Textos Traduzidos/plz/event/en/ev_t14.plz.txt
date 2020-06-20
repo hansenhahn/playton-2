@@ -537,7 +537,7 @@ durante nossa jornada, saberemos
 aonde ir, não é, Luke?
 !******************************!
 [t14_175_100.gds]
-<01:0000000F><03:6>shout<03:5>NONE<01:00000003><03:168>Ahan, decidi montar acampamento
+<01:0000000F><03:6>shout<03:5>NONE<01:00000003><03:168>Aham, decidi montar acampamento
 nesta cidade. Bem, o que acharam?<W>
 Nada mal, né?<W>
 !------------------------------!
@@ -726,7 +726,7 @@ quem abriu o portão?
 !******************************!
 [t14_230_700.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:209>Não posso afirmar, mas ao que parece,
-apesar do portão estar aberto, o museu
+apesar de o portão estar aberto, o museu
 permanece fechado.<W>
 !------------------------------!
 Mas vamos deixar essa discussão de
@@ -876,7 +876,7 @@ esperar o Museu Herzen abrir.
 fosse uma boa ideia a gente
 voltar ao museu agora.<W>
 !------------------------------!
-Nunca se sabe... vai que abriram
+Nunca se sabe... Vai que abriram
 ele enquanto a gente tava ocupado?
 !******************************!
 [t14_290_400.gds]
@@ -898,7 +898,7 @@ esperar o Museu Herzen abrir.
 fosse uma boa ideia a gente
 voltar ao museu agora.<W>
 !------------------------------!
-Nunca se sabe... vai que abriram 
+Nunca se sabe... Vai que abriram 
 ele enquanto a gente tava ocupado?
 !******************************!
 [t14_291_400.gds]
@@ -920,7 +920,7 @@ esperar o Museu Herzen abrir.
 fosse uma boa ideia a gente
 voltar ao museu agora.<W>
 !------------------------------!
-Nunca se sabe... vai que abriram
+Nunca se sabe... Vai que abriram
 ele enquanto a gente tava ocupado?
 !******************************!
 [t14_292_400.gds]
@@ -942,7 +942,7 @@ esperar o Museu Herzen abrir.
 fosse uma boa ideia a gente
 revisitar o museu.<W>
 !------------------------------!
-Nunca se sabe... vai que abriram
+Nunca se sabe... Vai que abriram
 ele enquanto a gente tava
 ocupado?
 !******************************!
@@ -1388,8 +1388,8 @@ mas melhor prevenir do que
 remediar, né?
 !******************************!
 [t14_451_100.gds]
-<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:182>De qualquer forma, é bom vocês
-forasteiros ficarem atentos para
+<01:00000041><03:5>NONE<03:5>NONE<01:00000002><03:182>De qualquer forma, é bom vocês,
+forasteiros, ficarem atentos para
 ataques de vampiros, por precaução.<W>
 !------------------------------!
 Se for preciso, serão sempre
@@ -1568,9 +1568,9 @@ de graça, e sempre que quiser.<W>
 Acho que é uma das vantagens de se
 ter sua própria ferrovia, he he.<W>
 !------------------------------!
-Ah, e sempre que eu vejo ele por
-aí, está com um hippie vestido de
-fiscal de trem.<W>
+Ah, e sempre que eu o vejo por aí,
+está com um hippie vestido de fiscal
+de trem.<W>
 !------------------------------!
 E 90%% das vezes ele está discutindo
 com o fiscal por algum motivo.<W>

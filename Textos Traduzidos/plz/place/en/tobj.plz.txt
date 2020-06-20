@@ -233,7 +233,7 @@ parecem ter sido muito
 bem polidas.
 !******************************!
 [tobj144.txt]
-Esse lugar também está
+Este lugar também está
 coberto dessa névoa de
 alho.
 !******************************!
@@ -359,7 +359,7 @@ Aqui atrás não há lugar
 para esconder nada.
 !******************************!
 [tobj170.txt]
-Será que tão necessário
+Será que é tão necessário
 postes de luz num lugar
 tão bem iluminado?
 !******************************!

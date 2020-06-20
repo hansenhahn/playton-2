@@ -396,7 +396,7 @@ realizar os desejos da finada avó
 da jovem mestra.
 !******************************!
 [t12_110_1600.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:63>Entendo. Que mal lhe pergunte,
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:63>Entendi. Que mal lhe pergunte,
 quais seriam esses desejos?
 !******************************!
 [t12_110_1700.gds]
@@ -486,7 +486,7 @@ um único residente em nosso vilarejo
 que não conheça o Sr. Anderson.
 !******************************!
 [t12_110_800.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:89>Entendo. Bem, se possível, ficaríamos
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:89>Entendi. Bem, se possível, ficaríamos
 gratos se nos conseguisse uma
 audiência com o Sr. Anderson.
 !******************************!

@@ -124,7 +124,7 @@ estava trancada quando eu e o Luke
 entramos.
 !******************************!
 [t20_020_1700.gds]
-<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:188>Entendo. Então a porta, a única entrada
+<01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:188>Entendi. Então a porta, a única entrada
 pra este apartamento no oitavo andar,
 estava trancada.<W>
 !------------------------------!

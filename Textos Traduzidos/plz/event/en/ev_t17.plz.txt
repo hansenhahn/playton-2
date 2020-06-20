@@ -186,8 +186,8 @@ e clareamos nossas ideias com
 este enigma?
 !******************************!
 [t17_065_100.gds]
-<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:56>Professor, acho que achei uma
-forma da gente sair daqui.
+<01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:56>Professor, acho que encontrei
+uma forma da gente sair daqui.
 !******************************!
 [t17_065_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:193>Nossa busca nos levou ao castelo
@@ -260,9 +260,9 @@ Além do mais, agora vocês devem
 concentrar seus esforços em
 escapar.<W>
 !------------------------------!
-Se protelarem aqui, a loucura
-os pegará antes mesmo de se
-darem conta.
+Se ficarem perdendo tempo aqui,
+a loucura os pegará antes mesmo
+de se darem conta.
 !******************************!
 [t17_080_100.gds]
 <01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:31>Sei onde está a saída. Sigam-me.

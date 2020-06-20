@@ -827,7 +827,7 @@ droga da minha calça!
 !******************************!
 [t24_500_800.gds]
 <01:00000006><03:10>b1 normal<03:5>NONE<01:00000001><03:172>Estive perdendo por aí os pedaços dessa
-foto sem nem perceber! Isso... isso
+foto sem nem perceber! Isso... Isso
 é um ponto baixo na minha carreira.<W>
 !------------------------------!
 Parece que tudo que restou da foto
@@ -900,7 +900,7 @@ a nordeste da cidade.
 !******************************!
 [t24_510_400.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:100>Bem, cães podem farejar pessoas
-rudes, sabia? Isto só prova que
+rudes, sabia? Isso só prova que
 ele precisa ser mais legal!
 !******************************!
 [t24_510_500.gds]
@@ -1122,7 +1122,7 @@ de fama e felicidade?
 [t24_580_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:95>Na verdade, estamos procurando
 por um objeto chamado Caixa Elísia.
-Esse nome lhe soa familiar?
+Esse nome lhe parece familiar?
 !******************************!
 [t24_580_300.gds]
 <01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:89>Opa, que nome fantástico! Obrigada!

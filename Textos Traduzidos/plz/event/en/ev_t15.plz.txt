@@ -56,7 +56,7 @@ Acho que nos deixará passar se
 arranjarmos um lanchinho pra ele.
 !******************************!
 [t15_040_500.gds]
-<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:130>Entendo. Lembro de ter visto
+<01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:130>Entendi. Lembro de ter visto
 uma mercearia abaixo da torre.<W>
 !------------------------------!
 Estou certo de que lá encontraremos

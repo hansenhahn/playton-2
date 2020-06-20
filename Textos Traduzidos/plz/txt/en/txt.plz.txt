@@ -720,7 +720,7 @@ suas palavras duras, ele considera
 isso de grande importância.
 !******************************!
 [d_28.txt]
-Descobri um símbolo enorme similar
+Descobri um símbolo enorme, similar
 à cabeça de um bode, esculpido no
 chão do pátio do museu. É idêntico
 ao emblema que adorna o diário que
@@ -1753,7 +1753,7 @@ Seu corpo não vai suportar.
 O que disse?
 !******************************!
 [m18_15.txt]
-Eu não entendo.
+Eu não entendi.
 !******************************!
 [m18_16.txt]
 Sophia, querida...

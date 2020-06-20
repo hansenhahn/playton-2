@@ -100,26 +100,26 @@ terá preparado o melhor chá que tem.
 forasteiros, estou correto?
 !******************************!
 [t30_010_200.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:47>Então, tá sim. Como chegou a essa
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:47>Somos sim. Como chegou a essa
 conclusão?
 !******************************!
 [t30_010_300.gds]
-<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:94>Dã-ãhn!<W> Porque também sou. E mais,
-sei um truque pra descobrir quem
+<01:0000004A><03:9>b1 smile<03:5>NONE<01:00000002><03:94>Dã-ãhn!<W> Porque também sou. Eu sei um
+truque infalível pra descobrir quem
 é morador local, e quem não é.
 !******************************!
 [t30_010_400.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:60>Opa, parece útil! Pode me ensinar
-como é que se faz também?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:60>Hmmm, interessante! Pode me ensinar
+como é que se faz isso?
 !******************************!
 [t30_010_500.gds]
-<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:180>Dãã... tá, por que não.<W> Mas não de
-graça!<W> Te contar, tô me sentindo
+<01:0000004A><03:10>b1 normal<03:5>NONE<01:00000002><03:180>Dãã... tá, por que não.<W> Mas não vai ser
+de graça!<W> Quer saber, tô me sentindo
 meio pra baixo ultimamente.<W>
 !------------------------------!
 Se conseguir fazer eu voltar a
-ficar <''>rú rú rú<''> de novo,
-te mostro como se faz.
+ficar de boas outra vez, te mostro
+como se faz.
 !******************************!
 [t30_010_600.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:100>Bom, imagino que talvez consigamos
@@ -157,7 +157,7 @@ Parece que a maioria dos
 forasteiros tem cheiro de rosas.
 !******************************!
 [t30_011_400.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:9>Entendo...
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:9>Entendi...
 !******************************!
 [t30_012_10.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:70>Infelizmente, o chá que você
@@ -1018,10 +1018,10 @@ fantasma. Minha garganta tá seca!<W>
 !------------------------------!
 Mas se vou dar uma pausa pra tomar
 chá, vamos fazer um chazinho
-misterioso.<W> WooooOOOoooo!<W>
+misterioso.<W> Booooohhhhhh!<W>
 !------------------------------!
-Aham... Quer dizer que eu gosto
-de algo doce e meio incomum.
+Aham... O que eu quero dizer é que
+eu gosto de algo doce e meio incomum.
 !******************************!
 [t30_121_10.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:87>Delicioso! Um sorriso de orelha
@@ -1053,7 +1053,7 @@ estou assustado até a gota!
 [t30_122_10.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:71>Infelizmente, o chá que você
 preparou para Clarice não atende
-bem o gosto dela.
+bem ao gosto dela.
 !******************************!
 [t30_122_100.gds]
 <01:0000003B><03:5>NONE<03:5>NONE<01:00000002><03:69>Não consigo detectar nenhum
@@ -1197,7 +1197,7 @@ coisinha a mais pra dar o gostinho
 defumado que mata a sede de vez!
 !******************************!
 [t30_140_800.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:93>Entendo.<W> Creio que nós podemos
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:93>Entendi.<W> Creio que nós podemos
 lhe fazer algo que se aproxime
 do sabor deste chá.
 !******************************!

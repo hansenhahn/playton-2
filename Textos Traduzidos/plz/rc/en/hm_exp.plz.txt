@@ -101,7 +101,7 @@ paredes ou em outro objeto.
 !******************************!
 [obj_e07.txt]
 Quando o hamster se encosta nessa
-caixa, um boneco salta fora dela,
+caixa, um boneco salta para fora dela,
 dando um susto no hamster e fazendo
 ele correr na direção oposta sem
 parar até encostar em outro objeto.

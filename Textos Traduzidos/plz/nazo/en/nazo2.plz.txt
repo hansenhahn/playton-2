@@ -1486,15 +1486,15 @@ não é muito do meu gosto. Decidi vendê-lo,
 mas, quando eu estava prestes a calcular o
 preço um dia desses, percebi algo estranho.
 
-Cada pedra vale um valor diferente, mas há
-uma maneira de quebrar o colar em três
-menores que possuam todas o mesmo valor.
+Cada pedra tem um valor diferente, mas
+há uma maneira de quebrar o colar em três
+pedaços menores de mesmo valor.
 Você consegue descobrir onde fazer os
 cortes?<''>
 !******************************!
 Está certo!
 
-Cada conjunto de joias vale <po>2,600.
+Cada pedaço do colar vale <po>2,600.
 Nada mau!
 !******************************!
 Que pena!
@@ -1512,14 +1512,15 @@ desse colar?
 !******************************!
 O valor total desse colar é de
 <po>7,800. Você quer dividir o colar
-em três seções de valores iguais, então
-cada seção do colar na sua solução
-precisa ter o valor de <po>2,600.
+em três pedaços de valores iguais,
+então cada pedaço do colar precisa
+ter o valor de <po>2,600.
 !******************************!
-Nenhum conjunto de joias terá mais de
-uma pedra que valha <po>1000 ou mais.
-Coincidentemente, cada uma dessas três
-pedras formará um fim de cada conjunto.
+Nenhum pedaço do colar terá mais de
+uma das três pedras que valem <po>1000
+ou mais. Coincidentemente, cada uma
+dessas três pedras demarca o fim de
+um pedaço do colar.
 
 Agora tudo o que você precisa fazer é
 descobrir qual lado de cada pedra que
@@ -1806,8 +1807,8 @@ ser mais complicado terminar o enigma.
 [n75.dat]
 <0076>Topo da Torre
 <00><14><12><10><12><3C><05><4B><EB><03><04><FF>
-Em uma cidade pacata, há uma torre que
-dá pra ver toda a extensão do local.
+Em uma cidade pacata, há uma torre na qual
+é possível ter uma vista completa da região.
 
 Já que você enxerga todos os edifícios da
 cidade a partir da torre, seria lógico
@@ -1835,12 +1836,12 @@ Não se esqueça de que está procurando por
 um edifício onde a vista do topo da torre
 é bloqueada.
 !******************************!
-Está procurando por algum edifício que
-bloqueie a vista de outro, em relação
+Você está procurando por algum edifício
+que bloqueie a vista de outro em relação
 à torre?
 
 Hmm, não parece que exista algum
-edifício como esse, pela cidade.
+edifício como esse pela cidade.
 !******************************!
 Você precisa achar um edifício do qual
 o topo da torre não possa ser visto.
@@ -2291,7 +2292,7 @@ próprio Lucas quem inventou esta lenda.
 <0085>A Forma que Falta
 <00><1E><14><0A><11><38><02><54><E8><03><04><FF>
 Cinco formas são mostradas em sequência,
-mas a quarta forma está faltando.
+mas está faltando a quarta forma.
 
 Use as quatro formas visíveis para
 determinar qual delas, dentre A, B e C,
@@ -2640,21 +2641,21 @@ mapa de terra de cinco quadrados que
 possua dois minérios de ouro nele?
 Infelizmente, isso parece improvável.
 !******************************!
-Infelizmente, não dá pra achar um
+Infelizmente, não dá para achar um
 mapa de terra com cinco quadrados
 de terra que contenha dois minérios
 de ouro.
 
 Porém, deve ser fácil achar um mapa
 de terra que possua dois minérios de
-prata. Mas lembre-se que sua maior
+prata. Mas lembre-se de que sua maior
 prioridade é alcançar o maior valor
 total.
 !******************************!
 Cobre vale 1, prata vale 3 e ouro
 vale 5. Dados esses valores, você
 deve achar um único mapa de terra
-que valha 10. Ache este mapa e terá
+que valha 10. Ache esse mapa e terá
 encontrado a resposta.
 !******************************!
 [n92.dat]
