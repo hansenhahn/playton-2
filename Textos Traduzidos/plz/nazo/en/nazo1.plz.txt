@@ -1730,10 +1730,10 @@ for esticada.
 !******************************!
 Bem pensado!
 
-Nenhum elástico ficará de fato preso no
-nó que será feito. Quando você puxar a
-corda vermelha, um elástico irá cair e
-os demais ficarão pendurados na corda
+Nenhum elástico ficará preso no nó que
+será feito. Quando você puxar a corda
+vermelha, um elástico irá cair e os
+demais ficarão pendurados na corda
 vermelha, mas livres do nó.
 !******************************!
 Que pena!

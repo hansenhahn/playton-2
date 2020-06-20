@@ -723,7 +723,7 @@ na cabine errada! Eu e minha esposa
 estamos aqui!
 !******************************!
 [t11_250_1000.gds]
-<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:81>Detesto dizer isso, mas parece
+<01:00000002><03:9>b2 angry<03:5>NONE<01:00000003><03:81>Detesto dizer isto, mas parece
 que nossa pista esfriou, Professor.
 !******************************!
 [t11_250_1100.gds]

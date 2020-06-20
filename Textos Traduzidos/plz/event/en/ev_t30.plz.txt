@@ -261,7 +261,7 @@ me dar um oi, ouviu? Hi hi hi.
 !******************************!
 [t30_022_10.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:58>Infelizmente, o chá que você fez
-não foi do gosto de Vera.
+não foi do gosto da Vera.
 !******************************!
 [t30_022_100.gds]
 <01:0000001C><03:9>b1 smile<03:5>NONE<01:00000003><03:99>Puxa vida, dá pra pintar parede
@@ -429,7 +429,7 @@ de chá pra prever isso.
 !******************************!
 [t30_042_10.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:58>Infelizmente, o chá que você
-preparou não é do gosto de Rory.
+preparou não é do gosto do Rory.
 !******************************!
 [t30_042_100.gds]
 <01:00000044><03:9>b1 angry<03:5>NONE<01:00000002><03:75>Nah, você fez tudo errado.
@@ -1086,8 +1086,8 @@ a fazer intervalos no meio do
 turno ou algo similar. 
 !******************************!
 [t30_130_400.gds]
-<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:142>Ser um porteiro de fato parece
-ser um trabalho exaustivo.<W>
+<01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:142>De fato, ser um porteiro parece
+ser mesmo um trabalho exaustivo.<W>
 !------------------------------!
 Será que uma xícara de chá não vai
 lhe ajudar a recuperar o ânimo?
@@ -1105,7 +1105,7 @@ pimenta, serei um homem feliz.
 [t30_131_10.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:79>Esse sim é um chá bom! Felix parece
 recuperado e pronto para dar
-uns chutes de karatê.
+uns chutes de caratê.
 !******************************!
 [t30_131_100.gds]
 <01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:379>Eu conheço um bom chá quando o
@@ -1149,8 +1149,8 @@ o devido efeito.
 !******************************!
 [t30_133_100.gds]
 <01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:99>Não os culpo por desistir. Afinal,
-o chá que estou atrás de fato
-requer um preparo complexo.
+o chá que estou atrás requer um
+preparo complexo.
 !******************************!
 [t30_134_100.gds]
 <01:0000001B><03:5>NONE<03:5>NONE<01:00000001><03:102>Um chá suave e levemente apimentado
@@ -1213,8 +1213,8 @@ pra fazer vampiros darem no pé.
 !******************************!
 [t30_141_100.gds]
 <01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:209>Hmm, ah é, isso sim tá no ponto!
-Tenho que te dar o braço a torcer,
-pois você de fato salvou meu dia.<W>
+Tenho que dar o braço a torcer, pois
+você salvou meu dia.<W>
 !------------------------------!
 Fez um bem enorme para as pessoas
 desta cidade. Estarão a salvo
@@ -1599,8 +1599,7 @@ Ele parece recuperado e animado.
 !******************************!
 [t30_192_10.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:62>Infelizmente, o chá que você
-preparou não foi do gosto de
-Dawson.
+preparou não foi do gosto do Dawson.
 !******************************!
 [t30_192_100.gds]
 <01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:92>Hmm, não creio que este chá seja
@@ -1833,7 +1832,7 @@ preparou para Grinko não serviu.
 impossível recriar esse chá
 sem os ingredientes antigos.<W>
 !------------------------------!
-Desculpe dizer isso, mas não havia
+Desculpe dizer isto, mas não havia
 nada milagroso nessa xícara de chá
 mediana que acabei de tomar.
 !******************************!

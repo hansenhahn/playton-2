@@ -198,7 +198,7 @@ Por que não tenta resolvê-lo?
 !******************************!
 [t21_023_200.gds]
 <01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:163>Bem, você não esperava menos,
-não é, Professor?<W> Heh heh heh!<W>
+não é, Professor?<W> He he he!<W>
 !------------------------------!
 Uau! Está tão bom aqui que
 quase esqueci que deveríamos estar

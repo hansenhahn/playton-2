@@ -621,8 +621,8 @@ mas por ora relaxe um pouco
 e ouça o que tenho a contar.<W>
 !------------------------------!
 Nos velhos tempos, esta cidade era
-cheia de famílias aristocratas, mas
-um dia de repente todas se foram.<W>
+cheia de famílias aristocratas, mas um
+dia, de repente, todas foram embora.<W>
 !------------------------------!
 A família Herzen é, basicamente, a
 única família de classe alta que
@@ -1012,7 +1012,7 @@ E aí, meu chapa, qual é a jogada?
 O que pensa que vai achar aqui
 em Folsense?<W>
 !------------------------------!
-Não quero soar sinistro, mas
+Não quero parecer sinistro, mas
 há verdades que é melhor não
 desenterrar.<W> Sacou?
 !******************************!

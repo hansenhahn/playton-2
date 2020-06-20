@@ -166,7 +166,7 @@ sonolento. U······hhh...
 !******************************!
 [ht_008_3.txt]
 Suponho que seja mais uma prova de
-seu efeito relaxante. De fato È -
+seu efeito relaxante. De fato, È -
 u····hh - bem potente, n„o È?
 !******************************!
 [ht_009_0.txt]
@@ -233,7 +233,7 @@ ter essa aparÍncia t„o... err,
 marrom e sem graÁa?
 !******************************!
 [ht_100_2.txt]
-Odeio ter que dizer isso, mas È
+Odeio ter que dizer isto, mas È
 melhor ser franco sobre esta bebida.
 Est· completamente intrag·vel.
 !******************************!
@@ -297,7 +297,7 @@ Professor, t· saindo... espuma
 desse ch·!
 !******************************!
 [ht_104_1.txt]
-Ah, cÈus. Suponho que È um sinal
+Ah, cÈus. Imagino que seja um sinal
 claro de que este ch· n„o est·
 adequado para o consumo humano.
 !******************************!
@@ -351,7 +351,7 @@ e nunca mais prepar·-la.
 Professor... este ch· È... peculiar.
 !******************************!
 [ht_107_1.txt]
-Admito: n„o consigo encontrar um
+Confessor n„o conseguir encontrar um
 termo mais apropriado para esta
 mistura que n„o seja "peculiar".
 !******************************!

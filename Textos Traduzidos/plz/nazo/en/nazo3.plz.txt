@@ -18,9 +18,10 @@ Toque em um cavalo e adicione ao time.
 !******************************!
 Muito bem!
 
-Claro que outras possibilidades possam
-funcionar, mas a única certeza de que dará
-empate com essas informações é o cavalo D.
+Claro que outras combinações poderiam
+funcionar, mas o único cavalo que com
+certeza garantirá um empate, dada as
+informações disponíveis, é o cavalo D.
 !******************************!
 Que pena!
 
@@ -362,15 +363,15 @@ desleixada bem peculiar. Sua toca está tão
 cheia de lixo que ela finalmente decide
 limpá-la. Entretanto, por ser preguiçosa,
 ele decide limpar o lugar fazendo o mínimo
-esforço possível.
+de esforço possível.
 Para poder pegar todo o lixo em sua toca
 sem passar por nenhum dos túneis duas
 vezes, por qual dos buracos de A até G
 a toupeira deveria começar a limpar?
 Embora passar por qualquer túnel duas
 vezes seja proibido, ela pode passar por
-quaisquer junções entre túneis quantas
-vezes ele quiser.
+qualquer cruzamento entre túneis quantas
+vezes ela quiser.
 !******************************!
 Bom trabalho!
 
@@ -388,7 +389,7 @@ túnel duas ou mais vezes.
 
 E ela não sente vontade de fazer isso.
 !******************************!
-Use a Função de Notas para traçar
+Use a função Notas para traçar
 caminhos potenciais que a toupeira pode
 seguir.
 !******************************!
@@ -396,10 +397,10 @@ Você viu a junção de três caminhos bem
 acima do buraco F? Lá é onde a toupeira
 irá parar quando ela pegar o último
 pedaço de lixo. Encontre um curso que
-a fará concluir sua limpeza nesta última
+a fará concluir sua limpeza nessa última
 localização.
 !******************************!
-Procure por um buraco que leva para
+Procure por um buraco que leve para
 um número estranho de rotas separadas.
 !******************************!
 [n130.dat]

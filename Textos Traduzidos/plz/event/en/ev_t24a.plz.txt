@@ -1,6 +1,6 @@
 [t24_000_100.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:220>Vocês estão em Folsense agora,
-jovens, então sonhem e sonhem
+jovens, então sonhem, e sonhem
 alto! Porque tudo é possível aqui.<W>
 !------------------------------!
 Tomem, um enigma de boas vindas
@@ -160,7 +160,7 @@ Você tem muita habilidade com
 enigmas para alguém da sua idade.
 !******************************!
 [t24_033_300.gds]
-<01:00000002><03:9>b4 laugh<03:5>NONE<01:00000003><03:28>Ah! Obrigado. He heh.
+<01:00000002><03:9>b4 laugh<03:5>NONE<01:00000003><03:28>Ah! Obrigado. He he.
 !******************************!
 [t24_034_100.gds]
 <01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:99>O que foi, o enigma é difícil demais
@@ -567,7 +567,7 @@ aqui, sabe?
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:14>Esperto? E-eu?
 !******************************!
 [t24_113_300.gds]
-<01:0000001C><03:11>b1 normal2<03:5>NONE<01:00000003><03:95>Ai, que graça! Corando de novo!
+<01:0000001C><03:11>b1 normal2<03:5>NONE<01:00000003><03:95>Ai, que gracinha! Corando de novo!
 Você é um amorzinho.<W> Volte quando
 quiser, meu bem!
 !******************************!

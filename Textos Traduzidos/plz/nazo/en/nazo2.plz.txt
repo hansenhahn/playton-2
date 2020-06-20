@@ -556,7 +556,7 @@ a verdade.
 Já que movimentar-se em meia-lua é
 proibido, há uma certa lógica que
 você deve ser capaz de achar
-no meio de toda esta confusão.
+no meio de toda essa confusão.
 !******************************!
 Sair da delegacia e virar um número
 ímpar de vezes, independentemente do
@@ -662,13 +662,13 @@ um e quatro.
 !******************************!
 As opções para o lado superior do dado
 da base são limitadas. Esse lado pode ser
-um dois, três ou quatro.
+apenas dois, três ou quatro.
 !******************************!
 Imagine por um minuto que o lado superior
 do dado da base seja quatro. Sendo assim,
 então o lado inferior do dado do meio
 tem de ser um, o que faria com que o lado
-superior deste segundo dado fosse seis. 
+superior desse segundo dado fosse seis. 
 
 Visto que se sabe que os quatro lados em
 contato entre si tem de ser um número
@@ -979,9 +979,9 @@ mover esse entulho pra lata de lixo!
 <0119>As Moedas Falsas
 <00><1E><1B><18><11><3B><16><77><F6><03><04><FF>
 Há dez moedas em cada um dos cinco sacos
-abaixo. Um desses sacos está cheio de moeda
-falsas que são mais leves do que as de
-verdade. Uma moeda de verdade pesa dez
+abaixo. Um desses sacos está cheio de
+moedas falsas que são mais leves do que as
+de verdade. Uma moeda de verdade pesa dez
 gramas, mas uma falsa pesa uma grama a
 menos. Se você estiver usando uma balança
 que registra até 200 gramas, qual seria o
@@ -1023,10 +1023,10 @@ tentasse pesar todas os sacos de uma
 só vez, acabaria ultrapassando o
 limite de registro da balança.
 !******************************!
-A Dica 2 deu a ideia de pesar todas os
+A Dica 2 deu a ideia de pesar todos os
 sacos de uma só vez. Há dez moedas de
 10 gramas em cada um dos cinco sacos,
-dando um total de 500 gramas. Contudo
+dando um total de 500 gramas. Contudo,
 apenas um saco contém moedas falsas,
 então o peso, na verdade, é menor do
 que isso.
@@ -1162,11 +1162,11 @@ meio de cartas.
 idênticas em tamanho e formato. Há 50 pedras
 pretas e 51 pedras brancas. Agora, ponha
 esta venda, estique a mão e pegue quantas
-pedras você quiser. Quando terminar, se
-você tiver removido um número igual de
-pedras brancas e pretas, receberá uma
-quantidade de moedas de ouro igual ao
-número de pedras que você puxou.<''>
+pedras você quiser. Quando terminar, você
+receberá uma quantidade de moedas de ouro
+igual ao número de pedras que você puxou,
+mas apenas se o número de pedras brancas e
+pretas removidas for igual.<''>
 
 Quantas pedras você deveria remover para
 dar a si mesmo a melhor chance de conseguir
@@ -1175,7 +1175,7 @@ o máximo de dinheiro possível?
 Muito bem!
 
 Se você remover 100 pedras do vaso, apenas
-uma permanecerá dentro. Se esta pedra
+uma permanecerá dentro. Se essa pedra
 restante for branca, significa que você
 removeu com sucesso 50 pedras de cada cor.
 Claro que, remover apenas duas pedras
@@ -1188,8 +1188,8 @@ por apenas duas pedras.
 !******************************!
 Que pena!
 
-Em situações como essa, vale mais a pena
-buscar o bolão, então não se contenha!
+Em situações como essa, o negócio é
+apostar com tudo, então não se contenha!
 !******************************!
 Já que as pedras possuem o mesmo
 tamanho e formato, definitivamente
@@ -1199,7 +1199,7 @@ remove-as.
 As chances de ganhar essas moedas são
 de 50/50.
 
-Não há jeito algum de certificar que
+Não há garantia alguma de que
 você ganhará as moedas.
 !******************************!
 Vamos pensar sobre isso por um momento.
@@ -1746,12 +1746,12 @@ alho é bem estranho...
 
 Então como conter o odor?
 !******************************!
-Já que você está permitido a usar apenas
+Já que a você é permitido usar apenas
 duas rolhas, você não pode bloquear todas
 as três aberturas no contêiner.
 
 Você terá que descobrir outro par de
-aberturas que podem ser bloqueadas
+aberturas que possam ser bloqueadas
 usando apenas duas rolhas.
 !******************************!
 [n74.dat]
@@ -2822,12 +2822,12 @@ importância para resolver este enigma.
 <00><1E><1B><18><11><2B><02><5F><E8><03><04><2F>
 Que susto! Tem um fantasma na floresta!
 
-...Ou pelo menos era o que você pensava, até
+... Ou pelo menos era o que você pensava, até
 perceber que o espectro flutuando em sua
 frente era apenas uma figura de madeira
 pendurada numa árvore. Quando você olha em
 volta, percebe que há quatro tábuas de
-madeira jogadas na grama. De qual destas
+madeira jogadas na grama. De qual dessas
 tábuas saiu o fantasma?
 
 Você tem quatro escolhas: A, B, C ou D.
@@ -2854,7 +2854,7 @@ Acha que encontrou a resposta?
 Tem certeza? Bom, só por desencargo de
 consciência, compare seu contorno com o
 fantasma mais uma vez. Não se esqueça
-de dar atenção para pequenos detalhes,
+de dar atenção para os pequenos detalhes,
 como o formato de suas mãos.
 !******************************!
 Você deve prestar bastante atenção

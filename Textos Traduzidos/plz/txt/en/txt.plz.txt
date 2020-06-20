@@ -681,7 +681,7 @@ que ele ataque os cidadãos. Geoff
 até mesmo adornou a torre com vários
 tipos de engenhocas que ele acredita
 manter o vampiro longe. Fico me
-perguntando se há de fato alguma
+perguntando se há, de fato, alguma
 verdade em sua história.
 !******************************!
 [d_25.txt]
@@ -764,8 +764,8 @@ a única passagem que leva a essa
 área. De acordo com Luke, o cão
 quer algo para comer, então teremos
 que visitar a mercearia e encontrar
-algo para dar a esta criatura
-agastada.
+algo para dar a essa criatura
+rabugenta.
 !******************************!
 [d_31.txt]
 Para se proteger do vampiro que
@@ -1471,8 +1471,8 @@ Quem devia estar de algemas?
 Não é óbvio?
 !******************************!
 [m13_7.txt]
-Se o criminoso de fato está
-agora entre nós...
+Se o criminoso está agora
+entre nós...
 !******************************!
 [m13_8.txt]
 Ele ou ela seria o único de nós
@@ -2590,8 +2590,8 @@ Gabe sabe tudo sobre
 cozinha e é o melhor
 chef de toda Dropstone.
 Seus pratos são tão
-requintados de fato,
-que as pessoas celebram
+requintados, que as
+pessoas celebram
 festas só para poder
 saboreá-los. Ele também
 é o marido amoroso de

@@ -17,7 +17,7 @@ mais do que ela quer.
 !******************************!
 [t15_020_600.gds]
 <01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:54>Ops! É verdade. Que falta de
-educação, a minha. Desculpa, Flora.
+educação a minha. Desculpa, Flora.
 !******************************!
 [t15_020_700.gds]
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:130>Ah, não se preocupe.<W>
@@ -591,8 +591,8 @@ encontrá-la. Vamos em frente, Luke.
 !******************************!
 [t15_290_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:105>Um pedaço da foto?<W> Acho que sim.
-Muito perspicaz, Luke. Guardarei
-ele na mala, por precaução.
+Muito perspicaz, Luke. Irei guardá-lo
+na mala, por precaução.
 !******************************!
 [t15_300_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:59>Luke, está vendo este pedaço
@@ -661,7 +661,7 @@ pedaço perdido da nossa foto?
 da foto!
 !******************************!
 [t15_350_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:38>Excelente. Guardarei
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:38>Excelente. Irei guardá-lo
 juntamente aos demais.
 !******************************!
 [t15_360_100.gds]
@@ -764,6 +764,6 @@ Disso eu tenho quase certeza.
 !******************************!
 [t15_430_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:94>Aquele buldogue tá impedindo a nossa
-saída pelo lado nordeste.<W> Hmm... como
-é que a gente faz pra passar?...
+saída pelo lado nordeste.<W> Hmm... Como
+vamos fazer pra passar?...
 !******************************!

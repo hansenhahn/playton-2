@@ -119,7 +119,7 @@ apartamento do doutor?
 !******************************!
 [tobj120.txt]
 O que foi isso?!
-Ah, heh heh... Foi só
+Ah, he he... Foi só
 o meu reflexo!
 !******************************!
 [tobj121.txt]

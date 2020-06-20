@@ -1179,7 +1179,7 @@ concentrar em nossa investigação.
 [t14_400_100.gds]
 <01:00000031><03:5>NONE<03:5>NONE<01:00000002><03:91>Olá de novo, meus amigos. Sou
 eu, seu amigo carteiro, Parcelle,
-ao seu dispôr.
+ao seu dispor.
 !******************************!
 [t14_400_200.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:71>Oi, Sr. Parcelle. Por que o
