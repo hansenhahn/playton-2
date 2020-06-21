@@ -203,7 +203,7 @@ Cruzamento a Oeste
 Portão Quebrado
 !******************************!
 [p_68.txt]
-Bifurcação na Estrada
+Caminho em Y 
 !******************************!
 [p_69.txt]
 Entrada da Mina

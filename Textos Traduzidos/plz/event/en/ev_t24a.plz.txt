@@ -261,8 +261,9 @@ enigma secreto aqui.
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:1>
 !******************************!
 [t24_063_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:61>Você parece estar tendo bastante
-dificuldade com este enigma, Professor!
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:61>Por um minuto, achei que você não
+fosse conseguir resolver este enigma,
+Professor!
 !******************************!
 [t24_064_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:69>Deve ser difícil mesmo, pra dar dor de
@@ -276,11 +277,11 @@ achar aquilo lá que tavam procurando?
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:153>Está tudo nos conformes.
 Obrigado por perguntar.<W>
 !------------------------------!
-Ah! Mas Sam... sendo o fiscal, não tem 
+Ah! Mas Sam... Sendo o fiscal, não tem 
 problema você estar tão longe do trem?
 !******************************!
 [t24_070_300.gds]
-<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:356>Pfft, affe, cara. Que mané trem.
+<01:00000008><03:9>b1 angry<03:5>NONE<01:00000002><03:356>Pff, affe, cara. Que mané trem.
 Mesmo que eu ligasse pra isso, hoje
 é meu dia de folga.<W>
 !------------------------------!
@@ -316,7 +317,7 @@ Sabe de uma coisa? O chefe é um cara
 de muita sorte. Quero dizer, tem até
 o próprio trem!<W>
 !------------------------------!
-Enquanto isso, olhe a gente aqui,
+Enquanto isso, olha a gente aqui,
 no meio do nada, procurando pelo
 tesouro de um velhote aí.<W>
 !------------------------------!
@@ -1131,13 +1132,13 @@ mas aí as minhas panquecas ficariam
 com gosto de puro alho.
 !******************************!
 [t24_243_100.gds]
-<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:197>Fantástico! É a primeira vez
-que vejo alguém fazendo panquecas
+<01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:197>Fantástico! É a primeira vez que
+vejo alguém fazendo panquecas
 com tanta delicadeza!<W>
 !------------------------------!
 Qualquer outra pessoa que tentasse
 empilhá-las assim já estaria coberta
-de massa a esta altura.
+de massa a essa altura.
 !******************************!
 [t24_244_100.gds]
 <01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:54>Ah, entendi! Estão cheios demais

@@ -28,7 +28,7 @@ Passos para o Próximo Nível: %d
 [msg_slm_clear.txt]
 %s quebrou seu recorde
 anterior andando %d passos!
-Caraca, como ele tá orgulhoso!
+Olha como ele está orgulhoso!
 !******************************!
 [msg_slm_even.txt]
 %s andou %d passos,
@@ -46,7 +46,7 @@ mas não conseguiu quebrar
 seu recorde anterior.
 !******************************!
 [msg_slm_start.txt]
-Bota esse hamster pra andar!
+Bote esse hamster para andar!
 Tente fazer ele andar
 mais de %d passos!
 !******************************!
@@ -123,7 +123,7 @@ Saltos não contam como passos.
 [obj_e10.txt]
 O trampolim faz o hamster pular
 dois passos para frente e, ao
-aterrissar, ele corre pra frente
+aterrissar, ele corre para frente
 até encostar em algo. Se ele cair
 em cima de um objeto, este some.
 !******************************!

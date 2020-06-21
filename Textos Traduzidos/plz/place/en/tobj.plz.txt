@@ -135,8 +135,8 @@ A luz está quebrada.
 Como isso aconteceu?
 !******************************!
 [tobj124.txt]
-Opa! Parece que isso pode
-quebrar a qualquer
+Opa! Parece que isso
+pode quebrar a qualquer
 momento!
 !******************************!
 [tobj125.txt]
@@ -146,21 +146,21 @@ algum lugar arrepiante.
 !******************************!
 [tobj126.txt]
 Há de se dizer que esse
-objeto não foi usado por
-ninguém, há um tempo.
+objeto não é usado por
+alguém há algum tempo.
 !******************************!
 [tobj127.txt]
 Sem esta lâmpada,
 ia ficar um breu aqui!
 !******************************!
 [tobj128.txt]
-Pergunto-me qual
-substância continha
-nesse cano.
+Que tipo de substância
+corria por esses canos?
 !******************************!
 [tobj129.txt]
-O que será que esse
-medidor estava medindo?
+O que será que
+esse medidor estava
+medindo?
 !******************************!
 [tobj13.txt]
 Não há nada aqui.
@@ -438,7 +438,7 @@ serve esse remédio?
 !******************************!
 [tobj186.txt]
 Sinto como se algo fosse
-saltar daí a qualquer
+saltar dali a qualquer
 minuto...
 !******************************!
 [tobj187.txt]

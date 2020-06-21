@@ -36,14 +36,14 @@ meu bom senhor?<W>
 !------------------------------!
 Ultimamente tem ocorrido certos
 problemas na minha família e, para
-ser franca, isto é demais para mim.
+ser franca, isso é demais para mim.
 !******************************!
 [t24_310_200.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:32>Mas é claro. Por favor, continue.
 !******************************!
 [t24_310_300.gds]
 <01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:172>Algumas semanas atrás, nosso
-advogado apresentou o conteúdo
+advogado revelou o conteúdo
 do testamento do meu sogro.<W>
 !------------------------------!
 No entanto, a maneira à qual ele exigiu
@@ -311,9 +311,9 @@ enigma fez o fedor de alho diminuir.
 deste enigma?
 !******************************!
 [t24_390_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:100>Olha só! Algumas dessas latas e
-garrafas contém outras coisas
-além de alho! Dá pra acreditar?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:100>Olha só! Alguns desses frascos e
+latas contém outras coisas além de
+alho! Dá pra acreditar?
 !******************************!
 [t24_390_200.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:87>Tudo aqui parece estar em ordem.
@@ -558,7 +558,7 @@ Acredite em mim, sei do que falo.
 <01:00000049><03:5>NONE<03:5>NONE<01:00000002><03:27>Não gostou do meu enigma?
 !******************************!
 [t24_450_100.gds]
-<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:155>Ei! Esta encruzilhada aqui é o
+<01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:155>Ei! Esta bifurcação aqui é o
 meu território! Qual é o seu
 problema?<W>
 !------------------------------!

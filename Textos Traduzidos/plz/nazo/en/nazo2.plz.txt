@@ -1342,7 +1342,7 @@ azul. Por que você não usa a Função de
 Notas para escrever essa tabela?
 !******************************!
 [n66.dat]
-<0067>A Semana de Trabalho do Sammy
+<0067>A Escala do Sammy
 <00><28><24><20><51><24><16><42><F6><03><04><FF>
 <''>Digamos que hoje eu não trabalhe. Se ontem
 eu não tirei folga, então amanhã não vou ter
@@ -1969,7 +1969,7 @@ A porta de cima da primeira sala
 está ótima do jeito que está.
 !******************************!
 [n78.dat]
-<0079>O Interruptor de Engrenagens
+<0079>Mecanismo Intrincado
 <00><14><0A><05><11><46><02><4E><E8><03><04><FF>
 O botão que abre a porta à sua frente está
 dentro dessa máquina, então não dá para

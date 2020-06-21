@@ -890,7 +890,7 @@ Castelo Herzen no intuito de
 desvendarem a verdade.
 !******************************!
 [t16_160_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Esta deve ser a mina sobre a
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Essa deve ser a mina sobre a
 qual ouvimos falar, Professor.
 !******************************!
 [t16_160_200.gds]
@@ -1536,7 +1536,7 @@ Vão. Desejamo-lhes sorte em
 sua empreitada.
 !******************************!
 [t16_310_500.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:48>O-o senhor acha que quem
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:48>O-O senhor acha que quem
 falou isso foi o vampiro?
 !******************************!
 [t16_310_600.gds]
