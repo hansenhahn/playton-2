@@ -96,9 +96,9 @@ mostra um desenho que ele fez.
 <''>Digamos que a imagem tenha uma área total
 de 10. Você consegue identificar o quanto da
 imagem é feita de nuvens e o quanto é de
-céu? Não pense que você vai ter que
-adivinhar a resposta. Há um #rmétodo simples#x
-que você pode usar para achar a solução.<''>
+céu? Não pense que você terá que adivinhar
+a resposta. Há um #rmétodo simples#x que você
+pode usar para achar a solução.<''>
 
 Quanto da área é céu e quanto é nuvem?
 !******************************!

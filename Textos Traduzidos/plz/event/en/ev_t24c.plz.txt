@@ -152,13 +152,13 @@ vamos andando.
 !******************************!
 [t24_640_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:87>Professor, odeio ter que repetir
-isto, mas acho que precisamos de
+isso, mas acho que precisamos de
 mais um pouco de luz aqui.
 !******************************!
 [t24_640_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:76>Certo então, vamos ver se
-podemos usar esta lanterna para
-encontrar os nossos pertences.
+podemos usar esta lanterna
+iluminar nosso caminho.
 !******************************!
 [t24_641_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:50>Precisamos iluminar o caminho antes

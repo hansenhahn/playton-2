@@ -172,8 +172,8 @@ Espero que isso não
 seja parte da alavanca!
 !******************************!
 [tobj131.txt]
-Pra que será que
-esse interruptor serve?
+Pra que será que serve
+esse interruptor?
 !******************************!
 [tobj132.txt]
 Essa abóbada parece ser
@@ -184,8 +184,9 @@ Esse andar tem cheiro
 de mofo. Blergh!
 !******************************!
 [tobj134.txt]
-Essas trepadeiras tão
-me dando um medo danado.
+Essas trepadeiras
+tão me dando um
+medo danado.
 !******************************!
 [tobj135.txt]
 Mesmo sem essa estátua
@@ -373,7 +374,7 @@ toda empoeirada.
 !******************************!
 [tobj173.txt]
 Se não fosse por esta
-lâmpada, não daria para
+lâmpada, não daria pra
 ver nada.
 !******************************!
 [tobj174.txt]

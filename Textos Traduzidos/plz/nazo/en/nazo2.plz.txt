@@ -1917,7 +1917,7 @@ estrela, você deve conseguir comparar
 as duas cordas próximas à do meio.
 !******************************!
 [n77.dat]
-<0078>Um Labirinto de Portas
+<0078>Labirinto de Portas
 <00><19><14><0F><12><47><05><4D><EB><03><04><45>
 Todas as portas no labirinto abrem apenas
 quando empurradas de uma direção, como
@@ -2199,7 +2199,7 @@ Que pena!
 Embora você talvez tenha conseguido
 resolver o primeiro enigma de <''>Pilhas de
 Panquecas<''> só movendo as panquecas
-aleatoriamente pelos pratos, vai ter que
+aleatoriamente pelos pratos, você terá que
 pensar um pouco mais se quiser achar uma
 solução dessa vez.
 
@@ -2223,7 +2223,7 @@ da panqueca da direita, e traga uma nova
 panqueca para cá, para ocupar o prato do
 meio. Depois disso, pegue a panqueca menor
 e mova-a para o prato da esquerda.
-Repita este padrão, e enquanto move as
+Repita esse padrão, e enquanto move as
 outras panquecas pelos pratos, você
 conseguirá resolver o enigma sem mais
 delongas.
@@ -2340,13 +2340,13 @@ desenhar a imagem.
 !******************************!
 Bom trabalho!
 
-A sequência peculiar de imagens é na verdade
+A sequência peculiar de imagens é, na verdade,ss
 as seis primeiras letras do alfabeto
 mostradas numa fonte de relógio digital
 e espelhadas como mostrado acima.
 
 Já que você tinha as letras de B a F, a lógica
-pede que a imagem desaparecida deveria ser
+pede que a imagem desaparecida fosse ser
 uma versão espelhada da letra A.
 !******************************!
 Que pena!
@@ -2362,7 +2362,7 @@ cada imagem.
 !******************************!
 Considerando o padrão ocorrendo nas
 formas, a primeira imagem corresponde
-a letra A.
+à letra A.
 !******************************!
 [n86.dat]
 <0087>Naipes Diferentes
@@ -2745,7 +2745,7 @@ tipo de enigma funciona.
 A resposta deste enigma não vai
 simplesmente surgir na sua cabeça
 depois que você se deparar com um
-fato importante. Você vai ter que
+fato importante. Você terá que
 chegar até ela usando a lógica.
 
 Observe que as três faces ocultas do

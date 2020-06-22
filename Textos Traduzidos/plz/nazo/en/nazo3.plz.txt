@@ -228,7 +228,7 @@ Além disso, não se precisa usar cada
 caminho.
 !******************************!
 [n126.dat]
-<0126>Caminhada Escorregadia 1
+<0126>Deslizando no Gelo 1
 <00><14><12><10><11><4D><1B><7E><01><04><04><FF>
 O lago na frente do professor está
 congelado. O gelo é grosso o bastante para
@@ -269,7 +269,7 @@ direto ao lado mais ao leste dessas
 duas paredes. 
 !******************************!
 [n127.dat]
-<0127>Caminhada Escorregadia 2
+<0127>Deslizando no Gelo 2
 <00><1E><1B><18><12><4D><1B><7F><01><04><04><FF>
 O lago na frente do professor está
 congelado. O gelo é grosso o bastante para
@@ -306,7 +306,7 @@ equivalente de duas voltas ao redor
 do lago pra chegar aonde precisa.
 !******************************!
 [n128.dat]
-<0128>Caminhada Escorregadia 3
+<0128>Deslizando no Gelo 3
 <00><28><24><20><11><4D><1B><80><01><04><04><FF>
 O lago na frente do professor está
 congelado. O gelo é grosso o bastante para
@@ -828,7 +828,7 @@ Resolvido com maestria!
 Que pena!
 !******************************!
 Você tem um monte de bolinhas em mãos
-pra eliminar, então vai ter que fazer
+para eliminar, então você terá que fazer
 vários saltos. É bom ter certeza de não
 estar fazendo movimentos aleatórios,
 senão vai acabar preso antes de

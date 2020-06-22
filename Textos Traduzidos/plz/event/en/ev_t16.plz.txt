@@ -940,12 +940,12 @@ essa inconsistência.<W> Sigamos, Luke.
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:32>Olha só isto aqui, Professor.
 !******************************!
 [t16_180_1000.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:59>De fato... ou pelo menos, foi
-isso que nos contaram. Mas
-venho aqui pensando...
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:59>De fato... Ou pelo menos, foi
+isso que nos contaram.
+Mas venho aqui pensando...
 !******************************!
 [t16_180_1100.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:290>Tanto este diário quanto o Grinko apontam
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:290>Tanto o diário quanto o Grinko apontam
 para a existência de uma ligação entre
 a Caixa e o que aconteceu na mina.<W>
 !------------------------------!
@@ -959,8 +959,8 @@ para todas as nossas dúvidas.
 !******************************!
 [t16_180_1200.gds]
 <01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:79>Mas então... Quer dizer que a gente
-vai ter que visitar aquele
-castelo macabro pessoalmente?
+terá que visitar aquele castelo
+macabro pessoalmente?
 !******************************!
 [t16_180_1300.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:62>Ha ha ha! Está dizendo que
@@ -988,7 +988,7 @@ coisa que procurávamos, Luke!<W>
 !------------------------------!
 Talvez ele nos dê mais detalhes
 sobre o que se passou por aqui.
-Vamos ler o que nele está escrito.
+Vamos ler o que está escrito nele.
 !******************************!
 [t16_180_300.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:353>Escavamos um mineral esquisito que
@@ -1013,16 +1013,16 @@ Mas eu achei que essa aqui era
 uma mina de ouro.
 !******************************!
 [t16_180_500.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:239>Desde que achamos aquele minério maldito,
-as pessoas andam caindo vítimas
-de uma doença misteriosa.<W>
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:239>Desde que achamos aquele minério
+maldito, as pessoas andam caindo
+vítimas de uma doença misteriosa.<W>
 !------------------------------!
 A cidade está tão cheia de enfermos
 que metade da mão-de-obra da mina
 não está mais vindo pro trabalho.<W>
 !------------------------------!
-Mas o que diabos está acontecendo
-aqui?
+Mas o que diabos está
+acontecendo aqui?
 !******************************!
 [t16_180_600.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:66>Puxa, que horrível. Tanta gente deve
@@ -1034,10 +1034,10 @@ prosperidade estão contados. Esta
 cidade está amaldiçoada e em ruínas.<W>
 !------------------------------!
 Creio eu que estejamos há poucos
-dias de fechar esta mina
-maldita para sempre.<W>
+dias de fechar essa mina maldita
+pra sempre.<W>
 !------------------------------!
-Deixo este diário aqui para que
+Deixo este diário aqui pra que
 qualquer um que pense em reabrir
 a mina reconsidere a ideia.
 !******************************!
@@ -1067,9 +1067,9 @@ amaldiçoada.
 mas posso garantir que o passado
 da cidade faz jus à palavra.<W>
 !------------------------------!
-Talvez a maldição seja uma
-punição que devemos encarar
-pelos grandes erros de nosso passado.<W>
+Talvez a maldição seja uma punição
+que devemos encarar pelos grandes
+erros de nosso passado.<W>
 !------------------------------!
 Mas todo pesadelo uma hora termina,
 e acredito que falta pouco para
@@ -1116,18 +1116,17 @@ ouvidos do Duque Anton.
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:69>Se o senhor acredita que isso
 resolverá o problema, então sim,
 nós visitaremos o castelo.
-
 !******************************!
 [t16_190_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:31>Er... O que o senhor está fazendo
-aqui?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:31>Er... O que o senhor está
+fazendo aqui?
 !******************************!
 [t16_190_2000.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:154>É, vejam com seus próprios olhos
 o que esta cidade se tornou.<W>
 !------------------------------!
 Talvez assim nós alcancemos a luz
-no fim deste túnel escuro que
+no fim desse túnel escuro que
 há tanto estamos atravessando.
 !******************************!
 [t16_190_2100.gds]
@@ -1144,8 +1143,8 @@ E essa nossa conversa com o
 fotógrafo só fez foi levantar
 mais perguntas.<W>
 !------------------------------!
-O que aconteceu 50 anos atrás?<W> E
-o que é que tá acontecendo
+O que aconteceu 50 anos atrás?<W>
+E o que é que tá acontecendo
 naquele castelo, afinal de contas? 
 !******************************!
 [t16_190_2300.gds]
@@ -1158,7 +1157,7 @@ trás disso, nossas perguntas sobre a
 Caixa Elísia também serão respondidas.
 !******************************!
 [t16_190_2400.gds]
-<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:122>Mas como faremos para entrar
+<01:00000002><03:10>b1 normal<03:5>NONE<01:00000003><03:122>Mas como faremos pra entrar
 no castelo, Professor?<W>
 !------------------------------!
 Não parece ser o tipo de lugar
@@ -1195,17 +1194,16 @@ vamos indo, então?
 !******************************!
 [t16_190_300.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:73>Calma, Luke... senhor. Se me
-permite a grosseria: o que o
+permite a grosseria, o que o
 traz a um lugar como este?
 !******************************!
 [t16_190_3000.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:65>Estou pronto quando o senhor estiver,
-Professor. É só mostrar o
-caminho!
+Professor. É só mostrar o caminho!
 !******************************!
 [t16_190_400.gds]
-<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:281>Bom... vou ser sincero com o senhor:
-eu venho... er, espionando vocês
+<01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:281>Bom... Vou ser sincero com o senhor.
+Eu venho... er, espionando vocês
 já há um bom tempo.<W>
 !------------------------------!
 Vocês dois já realizaram bastante
@@ -1217,7 +1215,7 @@ posso mais esconder de vocês
 a verdade por trás deste lugar.
 !******************************!
 [t16_190_500.gds]
-<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:30>...Aonde o senhor quer chegar?
+<01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:30>... Aonde o senhor quer chegar?
 !******************************!
 [t16_190_600.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:139>Vocês viram o meu estúdio. Todas
@@ -1266,9 +1264,9 @@ Vamos nos esconder, rápido!
 tá aberto!
 !******************************!
 [t16_210_500.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:100>E não fomos captados! Se
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:100>E não fomos notados! Se
 pretendemos entrar, esta é nossa
-única chance. Vamos depressa!
+única chance. Vamos, depressa!
 !******************************!
 [t16_220_100.gds]
 <01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:115>A gente tem mesmo que
@@ -1295,13 +1293,13 @@ que fantasmas não existem. Deve ter
 confundido com uma outra coisa.
 !******************************!
 [t16_220_500.gds]
-<01:00000002><03:8>b4 weep<03:5>NONE<01:00000003><03:43>Mas eu  j-juro que v-vi,
+<01:00000002><03:8>b4 weep<03:5>NONE<01:00000003><03:43>Mas eu j-juro que v-vi,
 Professor!
 !******************************!
 [t16_220_600.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:104>Respire fundo, Luke. Quando se está arisco,
-até coisas inofensivas, como galhos
-de árvores, podem parecer fantasmas.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:104>Respire fundo, Luke. Quando se está
+nervoso, até coisas inofensivas, como
+galhos, podem parecer fantasmas.
 !******************************!
 [t16_220_700.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:16>Acho que o senhor tem razão...
@@ -1328,7 +1326,7 @@ parecia bem convencido!
 [t16_230_1200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:94>É o que viemos descobrir. Só mais
 alguns metros e poderemos confirmar
-sua validez pessoalmente.
+sua veracidade pessoalmente.
 !******************************!
 [t16_230_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:32>Está se sentindo nervoso

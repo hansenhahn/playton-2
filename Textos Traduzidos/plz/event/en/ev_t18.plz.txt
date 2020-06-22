@@ -515,7 +515,7 @@ família Herzen graças ao museu e ao
 diário de um minerador que encontraram.
 !******************************!
 [t18_340_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:54>Esta nova informação revelou
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:54>Essa nova informação revelou
 vários novos fatos inacreditáveis.
 !******************************!
 [t18_340_300.gds]
@@ -529,7 +529,7 @@ a família Herzen através do museu e do
 diário que recuperaram de um minerador.
 !******************************!
 [t18_350_200.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:54>Esta nova informação revelou
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:54>Essa nova informação revelou
 vários novos fatos inacreditáveis.
 !******************************!
 [t18_350_300.gds]

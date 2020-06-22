@@ -662,7 +662,7 @@ da foto!
 !******************************!
 [t15_350_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:38>Excelente. Irei guardá-lo
-juntamente aos demais.
+juntamente com os demais.
 !******************************!
 [t15_360_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Ah, acho que é um pedaço da
