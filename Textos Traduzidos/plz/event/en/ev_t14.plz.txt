@@ -202,7 +202,7 @@ grana dos Herzen. Acertei?
 !******************************!
 [t14_100_300.gds]
 <01:00000044><03:9>b1 angry<03:5>NONE<01:00000002><03:101>Vocês vieram até aqui e não 
-sabem sobre a fortuna dos Herzen?<W>
+sabem sobre a fortuna dos Herzens?<W>
 Essa é boa, amigo.
 !******************************!
 [t14_100_320.gds]

@@ -384,7 +384,7 @@ orelha a orelha surge em Rory.
 Ele parece recuperado e contente.
 !******************************!
 [t30_041_100.gds]
-<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:123>Ah é, isso aqui vai muito bem.<W>
+<01:00000044><03:10>b1 normal<03:5>NONE<01:00000002><03:123>Ah!... Isso aqui vai muito bem.<W>
 !------------------------------!
 Vê como as folhas do chá estão
 posicionadas?<W> Estão tentando
@@ -396,15 +396,15 @@ enxergar?
 !******************************!
 [t30_041_300.gds]
 <01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:45>Hmm, não parece ser coisa boa
-praquele pobre rapaz.
+para aquele pobre rapaz.
 !******************************!
 [t30_041_400.gds]
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:51>Que rapaz? De quem estamos
 espiando a vida amorosa?
 !******************************!
 [t30_041_500.gds]
-<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:148>Do vampiro que mora no final da
-cidade. Ouvi dizer que ele está
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:148>Do vampiro que mora na extremidade
+da cidade. Ouvi dizer que ele está
 apaixonado por uma garota humana.<W>
 !------------------------------!
 Decidi ver como esse relacionamento
@@ -419,8 +419,8 @@ até ele sucumbir à tentação e
 beber o sangue dela.
 !******************************!
 [t30_041_700.gds]
-<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:72>Certamente. Ah é, bem como eu
-pensei, isso vai terminar em
+<01:00000044><03:5>NONE<03:5>NONE<01:00000002><03:72>Certamente. É bem como eu
+pensei... Isso vai terminar em
 lágrimas.
 !******************************!
 [t30_041_800.gds]
@@ -475,7 +475,7 @@ faz ele ficar ainda mais saboroso.
 [t30_051_200.gds]
 <01:00000002><03:9>b1 smile<03:5>NONE<01:00000003><03:102>Tenho que dizer que é um milagre
 você conseguir degustar o chá num
-lugar fedorento que nem esse.
+lugar fedorento que nem este.
 !******************************!
 [t30_051_300.gds]
 <01:00000041><03:10>b1_normal<03:5>NONE<01:00000002><03:244>Eu amo alho! É um alimento
@@ -486,7 +486,7 @@ Aqui, veja só esta amostra aqui.
 Guardo isso comigo há 10 anos.<W>
 !------------------------------!
 Uma cheirada é suficiente pra
-mandar vampiros bem pra longe.
+mandar vampiros pra bem longe.
 !******************************!
 [t30_051_400.gds]
 <01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:148>Fala desse alho de 10 anos?
@@ -1212,7 +1212,7 @@ recuperado e animado... e pronto
 para fazer vampiros darem no pé.
 !******************************!
 [t30_141_100.gds]
-<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:209>Hmm, ah é, isso sim tá no ponto!
+<01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:209>Hmm, ah!... Isso sim tá no ponto!
 Tenho que dar o braço a torcer, pois
 você salvou meu dia.<W>
 !------------------------------!
@@ -1869,11 +1869,11 @@ lugar e tanto.
 <01:00000048><03:10>b1 normal<03:5>NONE<01:00000002><03:156>Com certeza era!<W>
 !------------------------------!
 Sabe, parece que você conhece uma
-ou duas coisas de chá.<W>
+ou outra coisa sobre chás.<W>
 !------------------------------!
 Será que você não poderia
 preparar esse chá maravilhoso
-para eu beber?
+pra eu beber?
 !******************************!
 [t30_230_600.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:77>Certamente é um desafio que
@@ -1900,13 +1900,13 @@ Eu e meus amigos jogávamos baralho
 até tarde da noite, bebendo esse
 chá uma xícara atrás da outra.<W>
 !------------------------------!
-Não tinha certeza se você sabia
+Não tinha certeza de se você sabia
 fazer, mas você realmente provou
 seu valor pra mim. Valeu, amigo!
 !******************************!
 [t30_231_200.gds]
 <01:00000001><03:9>b4 smile<03:5>NONE<01:00000002><03:40>Estou feliz por ter lhe sido
-útil, bom homem.
+útil, meu caro.
 !******************************!
 [t30_231_300.gds]
 <01:00000048><03:11>b1 normal2<03:5>NONE<01:00000002><03:368>Você tem mente afiada, mas não é
@@ -1944,14 +1944,14 @@ tão fácil de se fazer.
 !******************************!
 [t30_234_100.gds]
 <01:00000048><03:5>NONE<03:5>NONE<01:00000002><03:273>Esse chá era coisa de outro mundo,
-pode ter certeza. Mesmo agora eu
-me lembro do sabor. Mmm mmm.<W>
+pode ter certeza. Ainda hoje eu
+me lembro do sabor. Hmm mmm.<W>
 !------------------------------!
-Não me lembro o que vinha nesse
+Não lembro o que vinha nesse
 chá, mas parecia uma mistura
 bem maluca.<W>
 !------------------------------!
-Só o que me lembro é que o último
+Só o que lembro é que o último
 ingrediente que o dono da cafeteria
 colocava era algo apimentado.
 !******************************!

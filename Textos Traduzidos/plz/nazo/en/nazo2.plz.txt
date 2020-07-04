@@ -113,7 +113,7 @@ OK, tá bom de tanta regra. Tente resolvê-lo.
 Bom trabalho!
 
 Este jogo é comumente jogado em dois tipos
-diferentes de tabuleiros: Inglês e Francês.
+diferentes de tabuleiros: inglês e francês.
 O enigma que acabou de jogar usava um
 tabuleiro de estilo inglês.
 !******************************!
@@ -126,7 +126,7 @@ mãozinha aqui.
 Comece eliminando a terceira bolinha,
 da esquerda pra direita, na última linha.
 !******************************!
-Em seguida, mova a última bolinha à
+Em seguida, mova a última bolinha para a
 esquerda da última linha para o espaço
 que você acabou de deixar livre, segundo
 a dica anterior. Repita o processo
@@ -148,7 +148,7 @@ vez.
 Escolha uma das bolas da parte externa
 do pinheiro e salte para cima. Então,
 desse ponto, salte por cima da parte
-superior da árvore. OK, dessa vez,
+superior da árvore. OK, desta vez,
 o resto é realmente com você.
 !******************************!
 [n103.dat]
@@ -171,7 +171,7 @@ OK, tá bom de tanta regra. Tente resolvê-lo.
 Beleza!
 
 A única condição para resolver esses enigmas
-era eliminando todas as bolinhas do tabuleiro
+era eliminar todas as bolinhas do tabuleiro
 exceto por uma, mas a verdadeira solução
 deste enigma requer que você termine com uma
 das bolinhas posicionada no espaço central.
@@ -347,9 +347,9 @@ tabuleiro e, assim que sentir que chegou
 a hora, vá em direção ao centro do
 tabuleiro.
 
-Falando nisso, essa é a última dica
+Falando nisso, esta é a última dica
 deste enigma. A Dica 3 contém apenas
-curiosidades do assunto.
+uma curiosidade do assunto.
 !******************************!
 Este é um exemplo do enigma do problema
 do cavalo. Esses enigmas são clássicos,
@@ -1019,7 +1019,7 @@ muito interessante, não acha?
 !******************************!
 Pense em como cumprir seu objetivo
 em menos de cinco pesagens. Se você
-tentasse pesar todas os sacos de uma
+tentasse pesar todos os sacos de uma
 só vez, acabaria ultrapassando o
 limite de registro da balança.
 !******************************!
@@ -2246,10 +2246,10 @@ em cima de uma pequena.
 Você pode usar o prato do centro e mover
 as panquecas quantas vezes você quiser.
 !******************************!
-Quentinha e recém saída do forno!
+Quentinha e recém-saída do forno!
 
 Agora a única dúvida é: que molho colocar
-em cima das panquecas!
+em cima das panquecas?!
 !******************************!
 Que pena!
 !******************************!
@@ -2279,14 +2279,14 @@ Beleza então, ô <''>ricasso<''>. Agora toma:
 
 Édouard Lucas, o matemático francês tido
 como a mente por trás do problema da
-Torre de Hanói, introduziu este enigma
+Torre de Hanói, introduziu esse enigma
 dizendo que foi baseado em uma lenda da
 cultura indiana, onde diz-se que o mundo
 seria destruído se alguém resolvesse uma
 versão especial gigantesca deste enigma,
 de 64 discos de ouro. Apesar desse mito
 ser fascinante, muitos acham que foi o
-próprio Lucas quem inventou esta lenda.
+próprio Lucas quem inventou essa lenda.
 !******************************!
 [n84.dat]
 <0085>A Forma que Falta
@@ -3010,7 +3010,7 @@ jogando é conhecido como o
 quebra-cabeça dos patos-mandarins.
 
 Casais de patos-mandarins professam
-muito amor entre si. Diz-se que este
+muito amor entre si. Diz-se que esse
 quebra-cabeça tem esse nome devido
 à forma como os casais de patos andam
 sempre juntos.

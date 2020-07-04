@@ -329,7 +329,7 @@ o enigma de frascos e latas?
 possui uns gêneros alimentícios bem
 incomuns à venda aqui.<W>
 !------------------------------!
-Infelizmente, todas os seus
+Infelizmente, todos os seus
 produtos possuem um sabor bem
 picante.
 !******************************!
@@ -706,9 +706,9 @@ na cidade ousaria revelar!<W>
 Alguns anos atrás, algo terrível
 aconteceu aqui na cidade.<W>
 !------------------------------!
-As pessoas de Folsense começaram
-a cair que nem moscas, como se todos
-tivessem pego uma doença misteriosa.
+As pessoas de Folsense começaram a cair
+que nem moscas, como se todos tivessem
+pegado uma doença misteriosa.
 !******************************!
 [t24_483_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:56>Alguém descobriu a fonte dessa
@@ -723,7 +723,7 @@ deixaram a cidade assim que a
 notícia da doença se espalhou.<W>
 !------------------------------!
 Mas isso é tudo que tinha pra falar
-deste assunto. Vocês resolveram todos
+desse assunto. Vocês resolveram todos
 os meus enigmas e estou cansado.<W>
 !------------------------------!
 Vou voltar pro meu jogo.

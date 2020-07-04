@@ -189,7 +189,7 @@ ou dois goles? O que uma xícara de
 chá é capaz de fazer é fascinante!
 !******************************!
 [ht_010_0.txt]
-Um... Que cheiro é este?
+Hmm... Que cheiro é este?
 É meio... tosco.
 !******************************!
 [ht_010_1.txt]

@@ -1299,6 +1299,6 @@ Especialmente senhoras de certa classe,
 como - aha ha ha - eu.
 !******************************!
 [t11_440_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>Não tenho certeza se <''>classe<''>
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:67>Não tenho certeza de se <''>classe<''>
 é a palavra que ela queria usar aqui.
 !******************************!

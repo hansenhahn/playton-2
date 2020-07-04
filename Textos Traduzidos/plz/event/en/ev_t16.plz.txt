@@ -109,9 +109,9 @@ sendo assim, não há dúvida de que
 o responsável esteja aqui.
 !******************************!
 [t16_010_500.gds]
-<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:157>Tenho certeza de que montar esta
+<01:00000009><03:5>NONE<03:5>NONE<01:00000002><03:157>Tenho certeza de que liderar esta
 investigação foi um verdadeiro triunfo
-de trabalho policial, Inspetor.<W>
+do trabalho da polícia, Inspetor.<W>
 !------------------------------!
 Pois então diga-me: que fatos o
 senhor reuniu nestes últimos dias?
@@ -265,7 +265,7 @@ Caixa Elísia.
 <01:00000005><03:9>b4 laugh<03:5>NONE<01:00000003><03:160>He he he he he! A ha ha ha
 ha ha!<W>
 !------------------------------!
-Nyé he he! Muito perspicaz,
+Mua ha ha! Muito perspicaz,
 Layton!<W>
 !------------------------------!
 Com certeza está se achando
@@ -321,9 +321,9 @@ do bode.<W>
 !------------------------------!
 Em seu presente estado, a imagem
 parece um sapo para a maioria.
-Como foi como senhor, Inspetor.<W>
+Como foi com o senhor, Inspetor.<W>
 !------------------------------!
-Flora, querida... se não estou
+Flora, querida... Se não estou
 enganado, você disse que parecia
 ser um "bode fofinho", não é?
 !******************************!
@@ -349,14 +349,14 @@ eu consigo ser!
 !******************************!
 [t16_050_1300.gds]
 <01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:58>ARGH!<W> Não fique aí parado!
-Este rato está fugindo!
+Esse rato está fugindo!
 !******************************!
 [t16_050_1400.gds]
-<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:134>Nyé he he! Tolo! Achou mesmo que
-um molóide lerdo como você
+<01:0000000A><03:5>NONE<03:5>NONE<01:00000002><03:134>Mua ha ha! Tolo! Achou mesmo que
+um moloide lerdo como você
 seria capaz de me pegar?<W>
 !------------------------------!
-Adeus, Layton. Nyé he he he!
+Adeus, Layton. Mua ha ha!
 !******************************!
 [t16_050_1500.gds]
 <01:00000001><03:10>b1 notalk<03:5>NONE<01:00000005><03:7>Mmm...
@@ -376,7 +376,7 @@ a perna, é? Eu ainda te pego!
 e, com mais tempo, teria descoberto
 seus segredos antes de você também.<W>
 !------------------------------!
-E claro, a fortuna Herzen
+E claro, a fortuna dos Herzens
 seria toda minha.<W> Mas isso
 já são águas passadas.
 !******************************!
@@ -387,7 +387,7 @@ Caixa Elísia esse tempo todo!
 [t16_050_500.gds]
 <01:0000000A><03:9>b1 laugh<03:5>NONE<01:00000002><03:308>Outra dedução brilhante do aprendiz
 de Layton. Nota-se que aprendeu
-com o melhor. Nyé heh!<W>
+com o melhor. Mua ha ha!<W>
 !------------------------------!
 Mas é isso mesmo, rapazinho.
 Eu a roubei daquele velho tolo
@@ -566,7 +566,7 @@ deve ser passada somente pra mim.
 !******************************!
 [t16_060_600.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:58>Bom, isso muda as coisas.
-Creio que teremos de-
+Creio que teremos de--
 !******************************!
 [t16_060_700.gds]
 <01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:133>Sr. Beluga, está ouvindo o
@@ -577,7 +577,7 @@ a essa caixa do que eu... ou do que
 qualquer outra pessoa nesta sala.
 !******************************!
 [t16_060_800.gds]
-<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:100>Escute aqui, porteiro! Isso aqui
+<01:00000009><03:6>shout<03:5>NONE<01:00000002><03:100>Escute aqui, porteiro! Isto aqui
 não é da sua conta, e eu sugiro
 que feche essa sua matraca já!
 !******************************!
@@ -741,7 +741,7 @@ agora há pouco. Foi inapropriado.
 !******************************!
 [t16_120_200.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:152>Não há com o que se preocupar.
-Na verdade, o seu testemunho foi
+Na verdade, o seu depoimento foi
 de extrema valia para nós.<W>
 !------------------------------!
 A julgar pelo modo como falou,
@@ -1410,7 +1410,7 @@ envelhecem, não é mesmo?
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:36>Hmm... Não sou capaz de opinar.
 !******************************!
 [t16_261_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Então este é o finado Duque Herzen.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Então esse é o finado Duque Herzen.
 !******************************!
 [t16_270_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:54>Professor, veja só esta caixa
@@ -1435,7 +1435,7 @@ Deve ser o Duque Herzen.
 [t16_280_200.gds]
 <01:00000001><03:9>b3 smile<03:5>NONE<01:00000002><03:100>Este museu inteiro parece ter sido
 construído para celebrar suas
-conquistas, então, devo concordar.
+conquistas, então devo concordar.
 !******************************!
 [t16_280_300.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:60>Mas... espera aí. Eu achei que era
@@ -1596,7 +1596,7 @@ ter sido?
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:140>Eu... Não, acho melhor encerrarmos
 esta conversa por aqui.<W>
 !------------------------------!
-Não cabe a mim fazer pressupostos
+Não cabe a mim fazer pressuposições
 sobre o que se passa nos corações
 dos outros.
 !******************************!

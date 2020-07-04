@@ -479,7 +479,7 @@ isso sequer percebeu o erro.
 nessa imagem!
 !******************************!
 [t22_054_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:57>Hmm... Não tenho certeza se
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:57>Hmm... Não tenho certeza de se
 o que vejo é mesmo fora do
 comum.
 !******************************!

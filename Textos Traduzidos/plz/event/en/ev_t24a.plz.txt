@@ -1108,7 +1108,7 @@ não se discute...
 !******************************!
 [t24_240_100.gds]
 <01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:231>Voltaram pra ver mais uma vez
-a minha magia culinária em ação?<W>
+a minha culinária mágica em ação?<W>
 !------------------------------!
 Eu ando preparando panquecas na
 velocidade da luz. Agora tem mais
