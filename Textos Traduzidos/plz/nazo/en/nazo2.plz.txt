@@ -580,7 +580,7 @@ Não importa onde você mantém o contato
 entre A e B, B e C ou A e C, a luz continua
 acesa. Nesse caso, quantos fios devem
 estar ligados na parte de baixo do quadro?
-Desenha a solução que exija o menor número
+Desenhe a solução que exija o menor número
 de ligações. As linhas pontilhadas vermelhas
 indicam um fio já conhecido.
 !******************************!
@@ -818,7 +818,7 @@ pelas bordas externas do enigma primeiro.
 A margem branca em volta de algumas
 partes representam a borda da foto.
 !******************************!
-Quando você colocar todas todas as
+Quando você colocar todas as
 partes em uma porção da borda, somente
 restará mais quatro partes para lidar.
 
@@ -1212,7 +1212,7 @@ mesmas: 50/50.
 <0065>O Mapa Antigo
 <00><19><16><13><11><28><05><40><EB><03><04><FF>
 Um mapa antigo retrata pontos possíveis
-de uma vasta fortuna junto com essas
+de uma vasta fortuna junto com estas
 direções:
 <''>Inscreva os números de 1 a 6 nos espaços
 vazios para que cada conjunto de números
@@ -1222,7 +1222,7 @@ a condição descrita acima. Então pegue
 sua pá e corra para o ponto marcado
 como 1, e lá terá o tesouro que tanto
 procura!<''>
-O número 4 já foi preenchido pra você.
+O número 4 já foi preenchido para você.
 Circule o ponto onde o tesouro está
 escondido.
 !******************************!
@@ -1265,12 +1265,12 @@ Se você inserir um número pequeno como
 não poderia ser nada maior que 6.
 Com um total como esse, não haveria
 espaço para você colocar o número 6,
-deixando o enigma irresolvível. Então,
+deixando o enigma sem solução. Então,
 qual deveria ir no ponto da extrema
 direita?
 !******************************!
 Quando arrumados apropriadamente, cada
-linha de números podem somar 9 ou 10.
+linha de números pode somar 9 ou 10.
 O enigma pede para você usar a maior
 soma possível, então você sabe que deve
 focar para que cada linha tenha como
@@ -1338,7 +1338,7 @@ Tudo o que você precisa fazer é construir
 uma tabela rápida para mostrar como os
 números do cadeado vermelho
 correspondem aos números do cadeado
-azul. Por que você não usa a Função de
+azul. Por que você não usa a função
 Notas para escrever essa tabela?
 !******************************!
 [n66.dat]
@@ -1656,7 +1656,7 @@ de água. Tente descobrir.
 Enquanto deduz sua resposta, ignore o peso
 de cada graveto e fio.
 !******************************!
-Muito bem feito!
+Muito bem!
 
 A resposta é A. O maior graveto conecta-se
 no galho no canto da esquerda da parte
@@ -1665,7 +1665,7 @@ penduradas em cada canto desse grande
 graveto, mas devido ao fio segurando a
 árvore estar na esquerda central, o
 conjunto de quatro latas da esquerda
-deve ser mais pesada que o da direita.
+deve ser mais pesado que o da direita.
 A, B, C e D estão todas suspensas no lado
 esquerdo do graveto. Entretanto, julgando
 pelo número de latas e as posições dos fios,
@@ -1734,7 +1734,7 @@ Essas rolhas não estão fazendo efeito
 nos locais escolhidos.
 !******************************!
 A coisa mais lógica a se fazer primeiro é
-usar a Função de Notas para traçar quais
+usar a função Notas para traçar quais
 aberturas no contêiner levam para os
 dentes de alho.
 !******************************!
@@ -1939,7 +1939,7 @@ passar pela mesma sala duas vezes.
 !******************************!
 Que pena!
 
-Use a Função de Notas para desenhar sua
+Use a função Notas para desenhar sua
 rota proposta enquanto você pensa mais
 sobre o problema.
 !******************************!
@@ -2008,7 +2008,7 @@ Quando uma engrenagem roda junto com
 outra, as duas devem girar em direções
 opostas.
 
-Use a Função de Notas para memorizar
+Use a função Notas para memorizar
 a direção do giro de cada engrenagem.
 !******************************!
 A engrenagem na parte inferior tem
@@ -2896,7 +2896,7 @@ solução que não precisa ter três estrelas.
 Você tem que encontrar um ponto de apoio
 para começar, e as estrelas que estão
 bloqueadas em seus blocos sem borda
-devem servir. Lembre-se que se uma linha
+devem servir. Lembre-se de que se uma linha
 já tiver duas estrelas, você só poderá
 colocar mais uma.
 !******************************!
@@ -2929,8 +2929,8 @@ Uma série de frascos e latas estão neste
 balcão. Sua tarefa é colocá-los de modo
 que todos os frascos estejam juntos em
 um lado e as latas no outro. Porém, ao
-fazê-lo, lembre-se que sempre tem que
-mover dois objetos ao mesmo tempo.
+fazê-lo, lembre-se de que sempre tem que
+mover um par de objetos ao mesmo tempo.
 
 Para mover os objetos, toque no ícone
 vermelho entre eles e arraste o par de
@@ -2953,7 +2953,7 @@ Já que esse enigma é relativamente
 simples, não espere mais dicas. Se você
 gastar mais moedas, receberá apenas
 curiosidades sobre esse tipo de enigma.
-Por isso, se tiver com poucas moedas,
+Por isso, se estiver com poucas moedas,
 evite essas duas últimas dicas!
 !******************************!
 Esse é um dos enigmas típicos que
@@ -2979,8 +2979,8 @@ mais. Tal como antes, o que você precisa
 fazer é colocar esses objetos de forma que
 todos os frascos sejam agrupados de um
 lado, e as latas do outro. Porém, ao
-fazê-lo, lembre-se que sempre tem que
-mover dois objetos ao mesmo tempo.
+fazê-lo, lembre-se de que sempre tem que
+mover um par de objetos ao mesmo tempo.
 
 Para mover os objetos, toque no ícone
 vermelho entre eles e arraste o par de

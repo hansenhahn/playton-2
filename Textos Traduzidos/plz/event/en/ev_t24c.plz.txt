@@ -190,7 +190,7 @@ não foi resolvido.
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:24>Este daqui foi difícil.
 !******************************!
 [t24_654_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Este enigma não foi moleza,
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:50>Este enigma não é moleza não,
 com certeza.
 !******************************!
 [t24_660_100.gds]

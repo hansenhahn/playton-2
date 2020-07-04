@@ -680,7 +680,7 @@ pra o-o-ontem!
 !******************************!
 [t30_080_100.gds]
 <01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:104>Tudo bem aí, rapazes. Que tipo de
-lugar Folsense parece ser pra vocês
+lugar Folsense parece ser pra vocês,
 forasteiros? Estou curioso.
 !******************************!
 [t30_080_200.gds]
@@ -693,10 +693,10 @@ dizer que é bonito, tipo, então
 tô de acordo com você.<W>
 !------------------------------!
 Mas agora que a mina foi desativada,
-podemos dar tchau à fonte de renda
+podemos dar adeus à fonte de renda
 da cidade, e ao meu emprego.<W>
 !------------------------------!
-Essa cidade tá morrendo. Só não
+Esta cidade tá morrendo. Só não
 sabe disso ainda.
 !******************************!
 [t30_080_400.gds]
@@ -732,11 +732,11 @@ tem sua aprovação.
 !******************************!
 [t30_081_300.gds]
 <01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:276>Agradecido, rapazes.<W> Mas ouçam,
-sigam esse meu conselho, de um
+sigam este meu conselho, de um
 velho que sabe das coisas.<W>
 !------------------------------!
 Fechar a mina é mais perigoso
-pra essa cidade do que qualquer
+pra esta cidade do que qualquer
 vampiro.<W>
 !------------------------------!
 Sem o dinheiro que o ouro traz,
@@ -758,13 +758,13 @@ algo muito mais forte pra me
 acertar.
 !******************************!
 [t30_083_100.gds]
-<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:76>Cê promete e agora não cumpre, é?
-Vocês forasteiros são todos iguais!
+<01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:76>Você promete e agora não cumpre, é?
+Vocês, forasteiros, são todos iguais!
 !******************************!
 [t30_084_100.gds]
 <01:00000043><03:5>NONE<03:5>NONE<01:00000001><03:81>Forte e apimentado, rapazes.
 Preciso de algo potente pra
-me animar esses dias.
+me animar pros próximos dias.
 !******************************!
 [t30_090_100.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:67>Algum problema?<W> Você parece
@@ -1381,15 +1381,15 @@ mas agora estou super relaxado!
 dar seu chá, então deixa eu te
 contar um segredo em troca.<W>
 !------------------------------!
-A maioria das pessoas dizem para
-ficar longe da floresta pois é
+A maioria das pessoas dizem pra
+ficar longe da floresta por ser
 assustadora, mas eu sei um truque.<W>
 !------------------------------!
-Desde que você diga a si mesmo
-que nada assustador irá acontecer
-na floresta, não irá!<W>
+Se você disser a si mesmo que nada
+assustador irá acontecer na floresta,
+então nada irá acontecer!<W>
 !------------------------------!
-As pessoas só vêem assombrações
+As pessoas só veem assombrações
 na floresta porque estão com medo.
 É estranho, mas é verdade.
 !******************************!
@@ -1407,9 +1407,9 @@ fazer esse chá que estava falando?
 !******************************!
 [t30_164_100.gds]
 <01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:122>Eu quero um chá leve que não vá
-me deixar de pé à noite, certo?<W>
+me deixar de pé à noite, tudo bem?<W>
 !------------------------------!
-Ah, e por favor não vá esquecer
+Ah, e, por favor, não vá se esquecer
 das Sementes Cítricas nele.
 !******************************!
 [t30_170_100.gds]
@@ -1486,8 +1486,8 @@ Ah, nããããooo!
 !******************************!
 [t30_174_100.gds]
 <01:0000003F><03:5>NONE<03:5>NONE<01:00000002><03:92>Pele saudável requer vitaminas.
-Me prepare algo que tenha uns
-nutrientes rejuvenescedores, certo?
+Me prepare algo que tenha nutrientes
+rejuvenescedores, tudo bem?
 !******************************!
 [t30_180_100.gds]
 <01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:110>Tá vendo este óculos de sol?<W>

@@ -1588,7 +1588,7 @@ todo sobre essa tal Caixa Elísia.
 Até onde eu sei, é só uma caixa!
 !******************************!
 [t14_490_500.gds]
-<01:00000007><03:10>b1 normal<03:5>NONE<01:00000002><03:98>Inspetor? Perdoe interrompê-lo,
+<01:00000007><03:10>b1 normal<03:5>NONE<01:00000002><03:98>Inspetor? Perdoe-me a interrupção,
 senhor, mas recebi uma resposta da
 central. O álibi dele confere.
 !******************************!

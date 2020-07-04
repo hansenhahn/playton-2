@@ -1088,7 +1088,7 @@ quem vive nessa região é um vampiro.
 !******************************!
 [t24_560_400.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:99>Ha ha! Mostre um pouco de coragem,
-meu garoto! Nós- Ah, o que é isso?
+meu garoto! Nós-- Ah, o que é isso?
 Algo está preso na cerca.
 !******************************!
 [t24_560_500.gds]

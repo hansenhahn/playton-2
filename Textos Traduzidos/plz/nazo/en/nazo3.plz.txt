@@ -164,7 +164,7 @@ Quatro OVNIs foram avistados no céu à noite!
 
 Parece como se fossem quatro formas
 distintas flutuando no céu, mas cada uma
-delas é na verdade feita de quatro partes
+delas é, na verdade, feita de quatro partes
 idênticas.
 
 Quais das formas seguintes foi a base
@@ -172,7 +172,7 @@ feita para criar todas essas formas?
 !******************************!
 Está certo!
 
-É a C. Então significa que não haviam
+É a C. Então significa que não havia
 quatro OVNIs no céu à noite afinal...
 Haviam 16!
 
@@ -180,10 +180,10 @@ Que perturbador.
 !******************************!
 Que pena!
 
-Usar a Função de Notas poderá te ajudar
-em fazer esse enigma funcionar.
+Usar a função Notas poderá lhe ajudar
+a fazer esse enigma funcionar.
 !******************************!
-Use a Função de Notas para tentar criar
+Use a função Notas para tentar criar
 os OVNIs usando cada parte possível.
 !******************************!
 Tente fazer o OVNI da direita com
@@ -485,7 +485,7 @@ está enrolada entre as estacas.
 !******************************!
 Sua melhor aposta aqui é ver como
 a corda está enrolada ao redor das
-estacas. Tente usar a Função de Notas
+estacas. Tente usar a função Notas
 para traçar um caminho em que a
 corda passa.
 !******************************!
@@ -1264,7 +1264,7 @@ retornar o cavalo para o espaço inicial
 no fim do passeio. Se você está almejando
 isso, então escolher o espaço inicial
 correto é muito importante. Por que
-você não usa a Função de Notas para te
+você não usa a função Notas para te
 ajudar?
 !******************************!
 Há muitos pesquisadores ávidos de xadrez
@@ -1877,7 +1877,7 @@ O único jeito de resolver um enigma como
 este é fazendo manualmente!
 !******************************!
 Tente marcar os territórios usando a
-Função de Notas para ter certeza de que
+função Notas para ter certeza de que
 você não deixe os adjacentes com a
 mesma cor.
 !******************************!
@@ -2023,7 +2023,7 @@ dado e visualizar cada um dos passos,
 realmente verá que não é tão difícil.
 
 Tente esboçar cada rotação do
-quadrado usando a Função de Notas.
+quadrado usando a função Notas.
 !******************************!
 
 !******************************!

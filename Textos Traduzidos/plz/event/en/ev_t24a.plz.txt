@@ -207,8 +207,8 @@ desafio deste enigma ancestral?<W>
 Que pena ouvir isso.
 !******************************!
 [t24_050_100.gds]
-<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:429>Hmm uhmmm, as ervas neste chá são
-divinas.<W>
+<01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:429>Uhmmm... As ervas neste chá são
+divinas!<W>
 !------------------------------!
 Sejam folhas de chá ou antiguidades,
 artigos de qualidade nunca deixam de
@@ -223,7 +223,7 @@ páginas vem alimentando imaginações
 há várias gerações.<W>
 !------------------------------!
 Ainda não acreditam?<W> Deem uma olhada,
-então. É o tipo de coisa... tem que ver
+então. É o tipo de coisa que tem que ver
 para crer, não é?
 !******************************!
 [t24_051_100.gds]
@@ -654,8 +654,8 @@ agora eu acabo ficando cansado super
 rápido. Será que eu tô ficando velho?
 !******************************!
 [t24_133_100.gds]
-<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:176>Ah... sabia que esse enigma ia ser
-fácil demais pro senhor, mas também,
+<01:00000046><03:5>NONE<03:5>NONE<01:00000003><03:176>Ah... Sabia que esse enigma ia ser
+fácil demais pro senhor. Mas também,
 né? Eu ainda sou criança.<W>
 !------------------------------!
 Eu não conheço nenhum enigma mais
@@ -753,7 +753,7 @@ eu não fico.<W> Eu divido com vocês.
 !******************************!
 [t24_152_100.gds]
 <01:0000004C><03:5>NONE<03:5>NONE<01:00000003><03:100>A loja do papai tem umas coisas bem
-legais... Só não esqueçam de tampar
+legais... Só não se esqueçam de tampar
 o nariz quando entrarem nela!
 !******************************!
 [t24_153_100.gds]

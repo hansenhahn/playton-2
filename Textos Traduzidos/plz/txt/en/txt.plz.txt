@@ -804,8 +804,8 @@ este?
 Acabei de descobrir que o curador
 do Museu Herzen esteve por aí, em
 busca de algo sob ordens do dono
-do museu. Isso explica o motivo do
-lugar estar fechado por todo esse
+do museu. Isso explica o motivo de
+o lugar estar fechado por todo esse
 tempo.
 
 E o que é ainda mais interessante,
@@ -838,13 +838,13 @@ que há entre a caixa e esta cidade.
 [d_37.txt]
 Após ter visto a foto por inteiro,
 Luke e eu estávamos nos preparando
-para voltar a nossa investigação,
+para voltar à nossa investigação,
 quando o agente Barton nos encontrou.
 Aparentemente, a pessoa por trás da
 morte de Dr. Schrader foi encontrada,
 e nossa presença é solicitada no
 hotel. Estou ansioso para continuar
-com minha investigação, mas suponho
+com minha investigação, mas imagino
 que não seja prudente desafiar as
 autoridades numa situação como esta.
 !******************************!
@@ -3249,7 +3249,7 @@ A Enigmina Quatro tem um
 infeliz costume de se
 meter nas conversas de
 todos à sua volta. Alguns
-vêem-na como intrometida,
+veem-na como intrometida,
 mas ela só está tentando
 ser amigável.
 !******************************!

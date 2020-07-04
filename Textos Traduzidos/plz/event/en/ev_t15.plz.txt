@@ -197,7 +197,7 @@ completam a foto rasgada.
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:19>Puxa, Professor...
 !******************************!
 [t15_200_1000.gds]
-<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:105>Sem este pedaço, o enigma fica
+<01:00000002><03:8>b3 weep<03:5>NONE<01:00000003><03:105>Sem esse pedaço, o enigma fica
 tão diferente.<W> Menos intimidador
 e mais... parecido com um sapo.
 !******************************!
@@ -243,7 +243,7 @@ o que eles têm a dizer.
 [t15_200_700.gds]
 <01:00000002><03:9>b3 smile<03:5>NONE<01:00000003><03:110>Acho uma boa ideia. E quem
 sabe? Talvez a foto ajude
-eles a se lembrarem de-<W>&setani 2 b1_shout&
+eles a se lembrarem de--<W>&setani 2 b1_shout&
 !------------------------------!
 Droga!
 !******************************!
@@ -415,8 +415,8 @@ Você viu algum?
 Tá bom, né?... Acho que eu vi
 um lá pela entrada da floresta.<W>
 !------------------------------!
-Mas olha, vou te contar -- é
-incrível quantos forasteiros
+Mas olha, vou te contar...
+É incrível quantos forasteiros
 eu já encontrei hoje.<W>
 !------------------------------!
 Ainda agora eu esbarrei com uma

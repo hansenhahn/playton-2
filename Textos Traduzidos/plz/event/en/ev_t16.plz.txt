@@ -1,6 +1,6 @@
 [t16_010_100.gds]
 <01:00000006><03:5>NONE<03:5>NONE<01:00000001><03:150>Ah, Sr. Layton. Fico feliz em ver
-que o senhor enfim se juntou a nós.<W>
+que o senhor, enfim, se juntou a nós.<W>
 !------------------------------!
 Agora que o senhor está aqui,
 todos os suspeitos do assassinato
