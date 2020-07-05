@@ -1,0 +1,15 @@
+Escrever um hash qualquer
+Tentar validar
+Fazer um dump da memória
+Buscar o hash digitado na memória
+
+Vai estar no endereço 0x21fc0c4
+
+Em 020f01b4 é lido o valor esperado
+Em 020f01b8 é lido o valor escrito
+Em 020f01bc é feito a comparação
+Trocar por cmp r1,r1 ao invés de cmp r1,r0
+
+O valor esperado encontra-se salvo em 027E36F8
+
+Overlay 0011

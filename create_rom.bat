@@ -41,6 +41,7 @@ copy "Arquivos Gerais\banner.bin" "ROM Modificada\PLAYTON2" /B/Y
 copy "Arquivos Gerais\y9.bin" "ROM Modificada\PLAYTON2" /B/Y
 copy "Arquivos Gerais\utility.bin" "ROM Modificada\PLAYTON2\data\dwc" /B/Y
 copy "Arquivos Gerais\overlay_0002.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y
+copy "Arquivos Gerais\overlay_0011.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y
 copy "Arquivos Gerais\overlay_0019.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y
 copy "Arquivos Gerais\overlay_0023.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y
 copy "Arquivos Gerais\overlay_0027.bin" "ROM Modificada\PLAYTON2\overlay" /B/Y
