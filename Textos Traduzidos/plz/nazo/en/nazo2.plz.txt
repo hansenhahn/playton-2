@@ -237,16 +237,16 @@ Neste caso, pode-se considerar que vários
 saltos consecutivos feitos com uma única
 bolinha contam como uma única jogada. Se
 tiver com tempinho livre em mãos, por que
-não tenta esse enigma novamente e vê com
+não tenta este enigma novamente e vê com
 quantos passos você consegue resolvê-lo?
 !******************************!
 Que pena!
 !******************************!
 Com certeza é mais legal tentar
-resolver esse aqui sozinho...
+resolver este aqui sozinho...
 
-...Tá, tá bom, vou te dar uma dica, mas
-só uma. Não comece esse enigma movendo
+... Tá, tá bom, vou te dar uma dica, mas
+só uma. Não comece este enigma movendo
 uma bolinha em direção ao espaço central.
 Em vez disso, seu primeiro objetivo é
 mover as peças de modo que você consiga
@@ -1299,11 +1299,11 @@ O cadeado vermelho precisa ser girado para
 2, 7, 1 e 4 para produzir os números que
 você precisa no azul.
 
-Acontece que os dois cadeados na verdade
+Acontece que os dois cadeados, na verdade,
 rotacionam em direções opostas. Uma forma
 de resolver esse problema é criar uma tabela
 com cada número correspondente dos
-cadeados, igual esse demonstrado abaixo.
+cadeados, igual a esse demonstrado acima.
 !******************************!
 Que pena!
 
@@ -1319,7 +1319,7 @@ Como dito no enigma, a distância que o
 cadeado azul move é igual à distância
 do vermelho. Quando o cadeado vermelho
 é movido do 0 ao 3, o azul move-se do 5
-ao 2. Leia essa última sentença
+ao 2. Leia essa última frase
 novamente e pense no que diz sobre a
 relação entre os cadeados.
 !******************************!
@@ -1870,7 +1870,7 @@ enfeite pesado, e dois enfeites leves
 pesam o mesmo que um enfeite médio.
 
 Pegue um dos três enfeites no retângulo
-abaixo, e coloque-o no espaço com uma <''>?<''>
+abaixo e coloque-o no espaço com uma <''>?<''>
 para recuperar o equilíbrio da barra.
 !******************************!
 Bom trabalho!
@@ -1906,7 +1906,7 @@ tem uma estrela.
 
 Ao comparar os enfeites nessas duas
 cordas, você provavelmente descobrirá
-quantos sóis e luas são necessárias
+quantos sóis e luas são necessários
 para igualar o peso de uma estrela.
 !******************************!
 Uma única estrela pesa o mesmo que
@@ -1956,7 +1956,7 @@ Começando pela entrada, você logo irá
 se esbarrar na porta que se deve abrir
 pelo lado oposto. Então, para proceder,
 uma das primeiras portas que você irá
-se encontrar terá que ser aberta na
+se deparar terá que ser aberta na
 direção oposta.
 
 Entre a porta de cima da primeira sala e
@@ -2016,7 +2016,7 @@ que girar em sentido horário para
 acertar o interruptor, então a placa
 logo acima dela terá que se mover para
 a direita. Entendeu? Agora continue por
-esta linha de raciocínio seguindo de
+essa linha de raciocínio seguindo de
 baixo, rumo à alavanca em cima.
 !******************************!
 A placa debaixo das três engrenagens
@@ -2043,7 +2043,7 @@ Então, com quantos movimentos você
 completou essa tarefa? Se você conseguiu
 com 12, pode se dar um tapa nas costas!
 
-Ah... Escute! Ouviu aquilo? Parece que
+Ah... Escute! Ouviu isso? Parece que
 o elevador está funcionando novamente.
 !******************************!
 Que pena!
@@ -2056,7 +2056,7 @@ para que eles se encaixem bem com os
 blocos vizinhos.
 !******************************!
 Para fazer as duas bolas trocarem de
-lugares, você precisa primeiro mover
+lugar, você precisa primeiro mover
 uma bola para fora de seu buraco e
 deixá-la em algum lugar enquanto você
 move a outra. Para fazer isso, libere mais
@@ -2115,7 +2115,7 @@ Olhe na terceira fileira de dígitos.
 Você consegue ver que dois dígitos
 estão certos no código e na posição
 correta. Já que você sabe que o código
-usa 4, 1, 5 e 0, você já pode assumir
+usa 4, 1, 5 e 0, você já pode presumir
 que o 0 e 1 dessa fileira fazem parte
 do código e na posição certa.
 
@@ -2142,9 +2142,8 @@ O elevador está funcionando de novo!
 !******************************!
 Que pena!
 
-Certificou-se de ligar o fio positivos
-(+) e o negativo (-) aos fios de mesma
-carga?
+Certificou-se de ligar os fios positivo (+)
+e negativo (-) aos fios de mesma carga?
 !******************************!
 Você precisa ligar fios com o mesmo
 símbolo. Logo, + vai com + e - vai
@@ -2417,7 +2416,7 @@ coluna é uma de copas.
 
 O resto da resposta depende de você,
 mas não deve ser mais difícil descobrir
-deste ponto agora.
+desse ponto agora.
 !******************************!
 [n87.dat]
 <0088>O Trajeto do Sapo
@@ -2757,11 +2756,11 @@ visíveis.
 Se ninguém tivesse apagado as letras do
 cubo, todas as faces à direita do cubo
 maior teriam letras C. Note que todas
-as quatro letras C não estão orientadas
+as quatro letras C não apontam
 na mesma direção.
 !******************************!
 Você descobriu quais letras estão
-nas faces não-visíveis do cubinho
+nas faces não visíveis do cubinho
 desletrado?
 
 As letras são A, D e E.

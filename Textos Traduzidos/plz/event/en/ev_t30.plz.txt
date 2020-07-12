@@ -332,7 +332,7 @@ chá doce, diga logo. Não precisa
 fingir que sabe.
 !******************************!
 [t30_034_100.gds]
-<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:64>Entãão, dessa vez você preparou
+<01:0000004B><03:10>b1 normal<03:5>NONE<01:00000003><03:64>Entãão, desta vez você preparou
 pra mim um chá doce que nem eu
 te pedi antes?
 !******************************!
@@ -789,7 +789,7 @@ com o que isso faz com seu humor.
 !******************************!
 [t30_090_400.gds]
 <01:00000018><03:9>b2 smile<03:5>NONE<01:00000002><03:83>Eu adoraria. Talvez algo apimentado
-me cure desse meu estado de
+me cure deste meu estado de
 melancolia.
 !******************************!
 [t30_091_10.gds]
@@ -828,9 +828,9 @@ não vão voltar a ser como eram
 antigamente, anos atrás...
 !******************************!
 [t30_093_100.gds]
-<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:91>Ah, descolpe, senhor. Não queria
+<01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:91>Ah, desculpe, senhor. Não queria
 incomodá-lo com meus problemas.
-Por favor não me dê atenção. 
+Por favor, não me dê atenção. 
 !******************************!
 [t30_094_100.gds]
 <01:00000018><03:5>NONE<03:5>NONE<01:00000002><03:179>Sei que eu deveria abrir um
@@ -1530,7 +1530,7 @@ final. Estou adorando! E, sabe,
 acho que minha visão melhorou.<W>
 !------------------------------!
 Valeu pelo chá. Foi realmente uma mão
-na roda.<W>&setani 1 b1_normal& Hã. Argh, de novo não!
+na roda.<W>&setani 1 b1_normal& Argh, de novo não!
 !******************************!
 [t30_181_200.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:28>Qual é o problema agora, senhor?
@@ -1547,7 +1547,7 @@ fez para Ray não serviu.
 [t30_182_100.gds]
 <01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:102>Psh, estava muito a fim, mas esse
 chá é pra neném. Não tem o gostinho
-apimentado que estou atrás.
+apimentado de que estou atrás.
 !******************************!
 [t30_183_100.gds]
 <01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:152>Ei, ei, ei, calmaí! Pra onde
@@ -1560,7 +1560,7 @@ preparar um chá.
 [t30_184_100.gds]
 <01:0000004D><03:5>NONE<03:5>NONE<01:00000002><03:96>Minha vista está cansada e eu preciso
 relaxar. Me dá um chá, e não esquece
-do gostinho apimentado.
+o gostinho apimentado.
 !******************************!
 [t30_190_100.gds]
 <01:00000019><03:5>NONE<03:5>NONE<01:00000001><03:29>Isso sim é que chamo de
@@ -1783,7 +1783,7 @@ desse tipo.
 <01:0000002D><03:5>NONE<03:11>b1 normal2<01:00000001><03:386>Li um documento sobre um tipo
 de chá muito especial.<W>
 !------------------------------!
-Neste, se dizia que comemorava
+Nesse, se dizia que comemorava
 <''>o fim de um grande incêndio,
 e a faísca de um novo<''>.<W>
 !------------------------------!
@@ -1795,11 +1795,11 @@ Ah, o que eu não daria para ter
 uma chance de saborear essa
 bebida histórica...<W>&setani 1 b1_normal2&
 !------------------------------!
-Suponho que isso seja impossível
+Imagino que isso seja impossível
 agora. Tsc...
 !******************************!
 [t30_220_400.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:105>Não necessariamente, bom homem.<W>
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:105>Não necessariamente, meu bom homem.<W>
 !------------------------------!
 Talvez possamos usar ingredientes
 modernos para recriar esse chá
@@ -1827,7 +1827,7 @@ de beber um chá lendário!
 preparou para Grinko não serviu.
 !******************************!
 [t30_222_100.gds]
-<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:197>Ora, suponho que seja mesmo
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:197>Ora, imagino que seja mesmo
 impossível recriar esse chá
 sem os ingredientes antigos.<W>
 !------------------------------!
@@ -1836,7 +1836,7 @@ nada milagroso nessa xícara de chá
 mediana que acabei de tomar.
 !******************************!
 [t30_223_100.gds]
-<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:98>Suponho que esse seja o problema
+<01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:98>Imagino que esse seja o problema
 dessas lendas. Você nunca consegue
 ver, ou saborear, por conta própria.
 !******************************!

@@ -78,7 +78,7 @@ porque estava escuro... certo?
 !******************************!
 Que pena!
 !******************************!
-O número mínimo de lâmpadas que você
+O número mínimo de lâmpadas de que você
 precisa é quatro.
 !******************************!
 Os caminhos diretos são mais fáceis de
@@ -113,7 +113,7 @@ porque estava escuro... certo?
 !******************************!
 Que pena!
 !******************************!
-O número mínimo de lâmpadas que você
+O número mínimo de lâmpadas de que você
 precisa é cinco.
 !******************************!
 As estradas em diagonal precisam de três
@@ -146,7 +146,7 @@ porque estava escuro... certo?
 !******************************!
 Que pena!
 !******************************!
-O número mínimo de lâmpadas que você
+O número mínimo de lâmpadas de que você
 precisa é cinco.
 !******************************!
 Há seis caminhos horizontais e seis
@@ -1385,7 +1385,7 @@ jogadores menos um, e então dividir esse
 produto por dois. Se houvessem três
 pessoas, haveriam três partidas.
 Se houvesse quatro pessoas, haveriam
-seis partidas. Você pode assumir das
+seis partidas. Você pode presumir das
 condições dadas que se ninguém tivesse
 saído, o número mínimo de partidas
 ainda teria que ser pelo menos 60.

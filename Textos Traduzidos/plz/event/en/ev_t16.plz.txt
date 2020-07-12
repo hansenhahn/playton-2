@@ -940,7 +940,7 @@ essa inconsistência.<W> Sigamos, Luke.
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:32>Olha só isto aqui, Professor.
 !******************************!
 [t16_180_1000.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:59>De fato... Ou pelo menos, foi
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:59>De fato... Ou, pelo menos, foi
 isso que nos contaram.
 Mas venho aqui pensando...
 !******************************!
@@ -1009,8 +1009,8 @@ Aposto a minha vida nisso.
 !******************************!
 [t16_180_400.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:74>Um outro tipo de metal precioso?<W>
-Mas eu achei que essa aqui era
-uma mina de ouro.
+Mas eu achei que aqui fosse uma
+mina de ouro.
 !******************************!
 [t16_180_500.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:239>Desde que achamos aquele minério
@@ -1080,8 +1080,8 @@ acordarmos.
 !******************************!
 [t16_190_1400.gds]
 <01:0000001A><03:5>NONE<03:5>NONE<01:00000002><03:86>Aconselho vocês a irem àquele
-grande castelo ao longe e
-falarem com o Duque Anton.
+grande castelo ao longe e falarem
+com o Duque Anton.
 !******************************!
 [t16_190_1500.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:52>Esse homem, o "Anton". É ele o
@@ -1193,7 +1193,7 @@ nossa porta de entrada!
 vamos indo, então?
 !******************************!
 [t16_190_300.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:73>Calma, Luke... senhor. Se me
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:73>Calma, Luke... Senhor, se me
 permite a grosseria, o que o
 traz a um lugar como este?
 !******************************!
@@ -1493,7 +1493,7 @@ diários para documentar o
 que se passava lá embaixo.<W>
 !------------------------------!
 Se conseguirem achar um deles,
-terão um relato de primeira mão
+terão um relato em primeira mão
 do que se sucedeu por lá.
 !******************************!
 [t16_300_600.gds]

@@ -177,7 +177,7 @@ compartilhar este enigma com você.
 !******************************!
 [t24_341_100.gds]
 <01:0000002D><03:5>NONE<03:5>NONE<01:00000001><03:83>Vocês dois gostam de enigmas, não é?
-Pois bem, espero que gostem desse,
+Pois bem, espero que gostem deste,
 meus amigos.
 !******************************!
 [t24_342_100.gds]
@@ -266,7 +266,7 @@ então.
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:35>Ah, olha! Achei um enigma escondido!
 !******************************!
 [t24_371_100.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:37>Dessa vez você não vai ganhar
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:37>Desta vez você não vai ganhar
 de mim, enigma!
 !******************************!
 [t24_372_100.gds]

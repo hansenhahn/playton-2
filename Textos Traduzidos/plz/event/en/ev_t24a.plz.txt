@@ -889,9 +889,9 @@ parar aqui?<W> Era para eu estar
 em um trem rumo ao Egito.
 !******************************!
 [t24_173_100.gds]
-<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:109>Ah, wunderbar! Muito arigatô, mein amie!
-Agora que estou mais calmo, posso enfim
-sair desta tumba empoeirada.
+<01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:109>Ah, wunderbar! Muito arigatô, mein
+amie! Agora que estou mais calmo, posso,
+enfim, sair desta tumba empoeirada.
 !******************************!
 [t24_174_100.gds]
 <01:0000004F><03:5>NONE<03:5>NONE<01:00000002><03:84>Dios mio... vou acabar virando
@@ -915,7 +915,7 @@ cuidado?
 aqui também resolveram este enigma.
 !******************************!
 [t24_182_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>Se isto tiver mesmo acontecido, eram
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>Se isso tiver mesmo acontecido, eram
 pessoas bem inteligentes.
 !******************************!
 [t24_183_100.gds]
@@ -981,8 +981,8 @@ a energia no elevador.
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:109>Vejamos...<W>
 !------------------------------!
 Hmm, entendi. Siga as instruções
-na placa de circuito, Luke. Isto deverá
-resolver nosso problema.
+na placa de circuito, Luke. Isso
+deverá resolver nosso problema.
 !******************************!
 [t24_201_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:67>Podemos usar esta placa de circuito

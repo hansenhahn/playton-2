@@ -180,7 +180,7 @@ Essa abóbada parece ser
 quase impenetrável.
 !******************************!
 [tobj133.txt]
-Esse andar tem cheiro
+Este andar tem cheiro
 de mofo. Blergh!
 !******************************!
 [tobj134.txt]
@@ -190,7 +190,7 @@ medo danado.
 !******************************!
 [tobj135.txt]
 Mesmo sem essa estátua
-horrível, esse lugar já
+horrível, este lugar já
 seria assustador.
 !******************************!
 [tobj136.txt]
@@ -841,7 +841,7 @@ caído a noite...
 !******************************!
 [tobj93.txt]
 Este caminho parece ter
-sido recém pavimentado.
+sido recém-pavimentado.
 !******************************!
 [tobj94.txt]
 Eu nunca tinha visto

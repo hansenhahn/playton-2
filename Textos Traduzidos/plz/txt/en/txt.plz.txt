@@ -191,7 +191,7 @@ abriram. Essas visões são a origem
 dos rumores da maldição.
 !******************************!
 [ide_10.txt]
-O símbolo na verdade é o brasão
+O símbolo, na verdade, é o brasão
 da família Herzen, que já governou
 a cidade de Folsense. É evidente
 que a família Herzen e a Caixa
@@ -926,7 +926,7 @@ primeira mão sobre a história da
 cidade, talvez consiga entender
 melhor a Caixa Elísia. Mas como eu
 poderia encontrar um desses diários?
-Suponho que Luke e eu teremos que
+Creio que eu e o Luke teremos que
 visitar a mina por conta própria.
 !******************************!
 [d_44.txt]
