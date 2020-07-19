@@ -641,7 +641,7 @@ bifurcação dos canos, vá para cima.
 [n135.dat]
 <0137>A Espada de Verdade
 <00><32><28><1E><11><51><05><87><EB><03><04><FF>
-<''>O verdadeiro guerreiro sempre mantém
+<''>Um verdadeiro guerreiro sempre tem
 sua espada em mãos.<''>
 
 Essas foram as últimas palavras para o
@@ -654,7 +654,7 @@ escolhida!
 !******************************!
 Muito bem!
 
-<''>O verdadeiro guerreiro sempre mantém
+<''>Um verdadeiro guerreiro sempre tem
 sua espada em mãos.<''>
 
 As palavras do Anton eram uma dica sutil
@@ -665,7 +665,7 @@ aquela na mão do traje de armadura!
 Que pena!
 
 As palavras do Anton eram uma dica
-pra você. Pense o que elas significam!
+para você. Pense o que elas significam!
 !******************************!
 Consegue imaginar o professor usando
 uma espada curvada? Não parece
@@ -2931,7 +2931,7 @@ O resto é com você.
 <0138>A Caixa Elísia
 <00><3C><36><30><12><81><12><CB><55><04><04><FF>
 <''>O sol nasce quando nos olhamos,
-e quando o vento soprar, descobrirás
+e, quando o vento soprar, descobrirás
 o meu coração.<''>
 
 Essas palavras são a chave para abrir
@@ -2967,13 +2967,13 @@ Assim que as duas pessoas se encararem,
 você deverá ser capaz de levá-lo para
 o céu.
 !******************************!
-<''>E quando o vento soprar...<''>
+<''>E, quando o vento soprar...<''>
 
 E como você deve ter percebido, quando
 o sol está no alto, um buraquinho
-apareceu. Parece que a próxima coisa
+aparece. Parece que a próxima coisa
 que você precisa fazer é deixar uma
-brisa passar por esta abertura.
+brisa passar por essa abertura.
 
 Não se incomode em usar sua caneta
 agora. Em vez disso, use seu próprio

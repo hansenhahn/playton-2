@@ -220,13 +220,13 @@ caixa Elísia. Temos que continuar.
 !******************************!
 [t17_070_1000.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:93>Loucura?<W> Receio não ter entendido.
-Por favor seja honesta conosco.
+Por favor, seja honesta conosco.
 O que está havendo aqui?
 !******************************!
 [t17_070_1100.gds]
 <01:00000014><03:5>NONE<03:5>NONE<01:00000003><03:107>Muito bem. Explicarei tudo, mas
 primeiro precisa ficar o mais longe
-possível desse castelo. Rápido!
+possível deste castelo. Rápido!
 !******************************!
 [t17_070_200.gds]
 <01:00000002><03:9>b4 angry<03:5>NONE<01:00000003><03:8>Katia?!
@@ -313,7 +313,7 @@ ficasse extremamente suscetível a
 qualquer tipo de sugestão mental.<W>
 !------------------------------!
 As visões apavorantes vistas em
-Folsense então espalharam-se, assim
+Folsense, então, espalharam-se, assim
 criando sua sinistra reputação.
 !******************************!
 [t17_110_460.gds]
@@ -377,9 +377,9 @@ alguém que eu amo, e que precisa
 de mim mais do que você.
 !******************************!
 [t17_111_500.gds]
-<01:00000021><03:8>b1 weep<03:5>NONE<01:00000002><03:72>Esta é a verdadeira razão pela
-qual quer ir embora? Por que
-há outra pessoa?
+<01:00000021><03:8>b1 weep<03:5>NONE<01:00000002><03:72>Essa é a verdadeira razão pela
+qual quer ir embora? Por que há
+outra pessoa?
 !******************************!
 [t17_112_100.gds]
 <01:0000001E><03:9>b2 weep2<03:5>NONE<01:00000002><03:47>Eu confiei em Sophia, e ela me
@@ -439,10 +439,10 @@ devolver isto a você.
 segunda maneira de abri-la.<W>
 !------------------------------!
 <''>O sol nasce quando nos olhamos,
-e quando o vento soprar, descobrirás
+e, quando o vento soprar, descobrirás
 o meu coração.<''><W>
 !------------------------------!
-Estas velhas palavras são a chave
+Essas velhas palavras são a chave
 para entender esta caixa e o que ela
 significa. Compreende, garoto?
 !******************************!
@@ -452,7 +452,7 @@ Deixa eu tentar!
 !******************************!
 [t17_140_1200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:104><''>O sol nasce quando nos olhamos,
-e quando o vento soprar, descobrirás
+e, quando o vento soprar, descobrirás
 o meu coração.<''><W>
 !------------------------------!
 Hum...
@@ -492,12 +492,12 @@ O mesmo gás que levou esta cidade
 que tentaram abrir a caixa.<W>
 !------------------------------!
 Aqueles que abriram a caixa
-encontraram a morte, e com isso,
+encontraram a morte e, com isso,
 cumpriram suas próprias predições.
 !******************************!
 [t17_140_500.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:46>Suponho que era só uma caixa
-comum, então.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:46>Acho que era só uma caixa
+comum, no fim das contas.
 !******************************!
 [t17_140_600.gds]
 <01:0000001F><03:9>b1 smile<03:5>NONE<01:00000002><03:96>Ah, está longe de ser comum, eu
@@ -545,7 +545,7 @@ A caixa deve ter chegado a ela
 apesar de tudo!
 !******************************!
 [t17_160_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:296>Querido Anton, como passa?
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:296>Querido Anton, como tem passado?
 Eu recebi sua carta.<W>
 !------------------------------!
 Apesar de eu ansiar vê-lo outra
@@ -585,7 +585,7 @@ Apesar de eu ter lhe abandonado
 por todos esses anos, isso deu-lhe
 a chance de conhecê-la.<W>
 !------------------------------!
-Sua mãe morreu pouco depois da filha
+Sua mãe morreu pouco depois de a filha
 nascer, mas Katia cresceu e se tornou
 uma jovem meiga e saudável.<W>
 !------------------------------!

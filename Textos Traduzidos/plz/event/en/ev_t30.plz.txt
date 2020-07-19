@@ -1664,7 +1664,7 @@ Não me sinto nem um pouco
 diferente de antes.
 !******************************!
 [t30_203_100.gds]
-<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:143>Oh, por favor não se incomode
+<01:00000029><03:5>NONE<03:5>NONE<01:00000002><03:143>Oh, por favor, não se incomode
 com minha situação.<W>
 !------------------------------!
 No fim, suponho que isso seja
@@ -1775,7 +1775,7 @@ revia um inventário antigo do
 castelo, descobri algo.
 !******************************!
 [t30_220_200.gds]
-<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:80>Interessante. Por favor continue.
+<01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:80>Interessante. Por favor, continue.
 Tenho uma queda por assuntos
 desse tipo.
 !******************************!

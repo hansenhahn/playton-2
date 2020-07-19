@@ -1566,7 +1566,7 @@ Com certeza vocês tiveram
 uma longa viagem.
 !******************************!
 [m15_27.txt]
-Então por favor,
+Então, por favor,
 passem a noite aqui.
 !******************************!
 [m15_28.txt]
@@ -1721,7 +1721,7 @@ Não pode ser!
 Ah, o quanto eu esperei!
 !******************************!
 [m17_6.txt]
-Já faz tantíssimo tempo...
+Já faz tanto tempo...
 !******************************!
 [m17_8.txt]
 Professor, você sabe do que
@@ -1738,13 +1738,13 @@ tanta habilidade, Sr. Layton.
 LAAAAYTON!
 !******************************!
 [m18_10.txt]
-O que aconteceu a mim?
+O que aconteceu comigo?
 !******************************!
 [m18_11.txt]
 Você está bem?
 !******************************!
 [m18_12.txt]
-Por favor pare, meu avô.
+Por favor, pare, vovô.
 !******************************!
 [m18_13.txt]
 Seu corpo não vai suportar.
@@ -1802,7 +1802,7 @@ Não, não pode ser!
 
 !******************************!
 [m19_11.txt]
-Vamos, meu avô!
+Vamos, vovô!
 !******************************!
 [m19_12.txt]
 Temos que sair daqui.
@@ -1817,7 +1817,7 @@ Cuidado!
 JÁ BASTA DE SUAS MENTIRAS!
 !******************************!
 [m19_3.txt]
-Meu avô, não! Por favor pare!
+Vovô, não! Por favor, pare!
 !******************************!
 [m19_4.txt]
 Oh!
@@ -1894,10 +1894,10 @@ Então, qual é a história por trás
 dessa Caixa Elísia?
 !******************************!
 [m21_0.txt]
-Meu avô...
+Vovô...
 !******************************!
 [m21_1.txt]
-"Avô"? Sim, é verdade.
+"Vovô"? Sim, é verdade.
 !******************************!
 [m21_10.txt]
 Em vez disso, meu amor por Sophia
@@ -1928,7 +1928,7 @@ Há alguem que preciso conhecer
 melhor primeiro.
 !******************************!
 [m21_2.txt]
-Isso soa bastante bem.
+Isso tem um bom som.
 !******************************!
 [m21_21.txt]
 Você me perdoa por fazê-la esperar
@@ -1958,7 +1958,7 @@ Já faz tanto tempo.
 !******************************!
 [m21_8.txt]
 Tanto tempo, na verdade, que eu
-tinha me esquecido o que é o amor.
+tinha esquecido o que é o amor.
 !******************************!
 [m22_0.txt]
 
@@ -1967,7 +1967,7 @@ tinha me esquecido o que é o amor.
 Adeus!
 !******************************!
 [m23_0.txt]
-Venham ver esse artigo
+Venham ver este artigo
 de jornal, vocês dois.
 !******************************!
 [m23_1.txt]

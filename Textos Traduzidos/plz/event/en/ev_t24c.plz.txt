@@ -214,7 +214,7 @@ algo assustador pode pular dos arbustos
 !******************************!
 [t24_663_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:74>Agora que a sua curiosidade
-foi satisfeita, podemos por favor
+foi satisfeita, podemos, por favor,
 ir em frente, Professor?
 !******************************!
 [t24_664_100.gds]

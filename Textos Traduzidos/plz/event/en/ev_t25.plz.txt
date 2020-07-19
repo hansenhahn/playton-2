@@ -133,9 +133,9 @@ certo enigma fantástico que se relaciona
 a diversos trabalhos artísticos.
 !******************************!
 [t25_022_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:82>Um vampiro. Um dos que nunca
-envelhecem... Um dos *glup* mortos-vivos...
-Será p-p-possível?
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:82>Um vampiro. Um dos que nunca envelhecem...
+Um dos, glup, mortos-vivos... Será
+p-p-possível?
 !******************************!
 [t25_023_100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:140>Ora, foi divertido, não foi, Luke?<W>
@@ -214,7 +214,7 @@ logo atrás de vocês, caros hóspedes.
 <01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:182>Resolvido com destreza, meus amos.<W>
 !------------------------------!
 Agora que chegaram à resposta,
-poderiam por favor voltar aos
+poderiam, por favor, voltar aos
 seus aposentos?<W>
 !------------------------------!
 Esses corredores velhos podem
