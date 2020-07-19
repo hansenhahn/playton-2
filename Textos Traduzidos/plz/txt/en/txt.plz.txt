@@ -988,7 +988,7 @@ refeição presa em sua teia, Anton
 falou de preparativos que tinha que
 fazer antes de nos levar para o
 jantar! Luke e eu temos que nos
-libertar dessas cordas antes dele
+libertar dessas cordas antes de ele
 voltar, ou então...
 !******************************!
 [d_49.txt]
@@ -1001,7 +1001,7 @@ esperava-se que tivesse tempo mais
 que suficiente para fazer um nó
 mais apropriado... Mas chega desse
 assunto, já que é melhor Luke e eu
-nos concentrarmos em fugir desse
+nos concentrarmos em fugir deste
 lugar.
 !******************************!
 [d_5.txt]
@@ -1494,11 +1494,11 @@ Não posso olhar!
 Hã?
 !******************************!
 [m15_0.txt]
-Uau! Esse lugar é realmente
+Uau! Este lugar é realmente
 do balacobaco!
 !******************************!
 [m15_1.txt]
-De fato, Luke. Esse castelo
+De fato, Luke. Este castelo
 é extremamente impressionante.
 !******************************!
 [m15_10.txt]
@@ -1540,7 +1540,7 @@ Por aqui, por favor.
 !******************************!
 [m15_20.txt]
 Bom, pode culpar o meu
-mal gosto então.
+mau gosto então.
 !******************************!
 [m15_21.txt]
 Sabe,
@@ -1554,7 +1554,7 @@ Talvez não. Ainda é difícil
 de dizer.
 !******************************!
 [m15_24.txt]
-Desculpe por não ser de muita,
+Desculpe por não ser de muita
 ajuda, apesar de lhes confessar
 !******************************!
 [m15_25.txt]
@@ -1587,11 +1587,11 @@ Enão, se eu entendi corretamente,
 !******************************!
 [m15_6.txt]
 está dizendo que as pessoas
-tem medo da caixa
+têm medo da caixa
 !******************************!
 [m15_7.txt]
 porque acreditam que ela mata
-qualquer um que a abre? 
+qualquer um que a abra? 
 !******************************!
 [m15_8.txt]
 <HOLD>

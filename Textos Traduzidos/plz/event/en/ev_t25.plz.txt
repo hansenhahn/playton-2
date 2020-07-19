@@ -14,7 +14,8 @@ um enigma rápido e então vamos
 direto para a cama, está bom?
 !******************************!
 [t25_001_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:31>Não poderia tentar o enigma novamente?
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:31>Quer tentar resolver o enigma
+novamente?
 !******************************!
 [t25_002_100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:55>As pinceladas neste retrato
@@ -23,7 +24,7 @@ são simplesmente magníficas.
 [t25_003_100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:110>Com certeza uma imagem marcante.<W>
 !------------------------------!
-...Ah, o que é isto? Luke, diga-me,
+... Ah, o que é isto? Luke, diga-me,
 estes dois te parecem familiares?
 !******************************!
 [t25_003_200.gds]
@@ -120,7 +121,7 @@ resolveu nada.<W>
 !------------------------------!
 Por que não aproveitamos a oportunidade
 e desanuviamos nossas cabeças com este
-enigma sobre retratos.
+enigma sobre retratos?
 !******************************!
 [t25_020_900.gds]
 <01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:57>Um enigma?! É mesmo a hora e o
@@ -137,25 +138,25 @@ envelhecem... Um dos *glup* mortos-vivos...
 Será p-p-possível?
 !******************************!
 [t25_023_100.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:140>Ora, foi divertido, não é, Luke?<W>
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:140>Ora, foi divertido, não foi, Luke?<W>
 !------------------------------!
 Podia não parecer o momento mais
 apropriado para um enigma, mas manter-se
 calmo nessas situações é indispensável.
 !******************************!
 [t25_023_200.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:101>Agradeço a intenção, Professor,
-mas no momento resolver enigmas é a
-última coisa passando pela minha cabeça.
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:101>Agradeço a intenção, Professor, mas, no
+momento, resolver enigmas é a última
+coisa passando pela minha cabeça.
 !******************************!
 [t25_024_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:42>Temos que sair correndo,
 Professor!
 !******************************!
 [t25_030_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:91>Cautela ao passo, Luke.
-O chão está num lustrar quase cegante.
-Deve ser facílimo escorregar.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:91>Cuidado onde pisa, Luke. O chão está tão
+encerado que posso até ver meu reflexo
+nele. Deve ser facílimo escorregar.
 !******************************!
 [t25_030_200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:83>Nossa, é verdade! Chega a parecer
@@ -166,7 +167,7 @@ toda a lustração?
 <01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:23>Este seria eu, amo.
 !******************************!
 [t25_030_400.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:22>Iic! É o mordomo!
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:22>Ain! É o mordomo!
 !******************************!
 [t25_030_500.gds]
 <01:0000001D><03:9>b1 smile<03:5>NONE<01:00000002><03:212>Sim, certamente. Não pretendo ser
@@ -221,7 +222,7 @@ dar bastantes calafrios
 na calada da noite.
 !******************************!
 [t25_033_200.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:44>Manterei isso em conta.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:44>Levarei isso em conta.
 Boa noite para você.
 !******************************!
 [t25_033_300.gds]
@@ -230,7 +231,7 @@ os senhores também.
 !******************************!
 [t25_034_100.gds]
 <01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:99>Ah, vejo que estão bastante cansados.
-Peço que me dêem licença. Não
+Peço que me deem licença. Não
 pretendia detê-los por tanto tempo...
 !******************************!
 [t25_040_100.gds]
@@ -255,7 +256,7 @@ enorme no piso do castelo.
 !******************************!
 [t25_040_400.gds]
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:193>Então é por isso que faz tanto
-frio nesse lugar.<W>
+frio neste lugar.<W>
 !------------------------------!
 Ah, olhe para aquela fumaça
 bizarra saindo do buraco!<W>
@@ -279,10 +280,10 @@ acho que seja a melhor hora para
 apreciar a obra do minerador.
 !******************************!
 [t25_040_700.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:126>Ah sim, tens toda a razão, meu rapaz.<W>
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:126>Ah, sim, tem toda a razão, meu rapaz.<W>
 !------------------------------!
-Humm... creio que possamos abrir
-a porta lá de cima se fizermos
+Humm... Creio que possamos abrir
+a porta acima de nós se fizermos
 a caldeira voltar a funcionar.
 !******************************!
 [t25_041_100.gds]
@@ -300,7 +301,7 @@ dar o fora daqui.
 !******************************!
 [t25_044_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:85>Se não abrirmos aquela porta
-logo logo, o Anton nos fará ração
+logo, o Anton nos transformará em ração
 de vampiro!
 !******************************!
 [t25_054_100.gds]

@@ -16,7 +16,7 @@ algumas perguntas?
 [t17_010_300.gds]
 <01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:90>Hm.<W>
 !------------------------------!
-Acho que é melhor tratarem este
+Acho que é melhor tratarem esse
 assunto com o mestre. Por favor,
 entrem.
 !******************************!
@@ -25,7 +25,7 @@ entrem.
 Esta é Folsense?
 !******************************!
 [t17_023_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:181>Creio que sim. O mote abaixo diz
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:181>Creio que sim. A descrição abaixo diz
 que a pintura tem 50 anos de idade.<W>
 !------------------------------!
 É mais ou menos idêntica à vista
@@ -49,7 +49,7 @@ seja uma boa hora para descansarmos.
 !******************************!
 [t17_026_200.gds]
 <01:00000002><03:8>b1 weep<03:5>NONE<01:00000003><03:54>É, uma boa noite de sono
-cai bem. Boa noite, Professor.
+cairia bem. Boa noite, Professor.
 !******************************!
 [t17_040_100.gds]
 <01:0000001E><03:5>NONE<03:5>NONE<01:00000002><03:92>Ah, maravilha, estão acordados.
@@ -187,7 +187,7 @@ este enigma?
 !******************************!
 [t17_065_100.gds]
 <01:00000002><03:9>b2 smile<03:5>NONE<01:00000003><03:56>Professor, acho que encontrei
-uma forma da gente sair daqui.
+uma forma de a gente sair daqui.
 !******************************!
 [t17_065_200.gds]
 <01:00000001><03:10>b2 normal<03:5>NONE<01:00000002><03:193>Nossa busca nos levou ao castelo
@@ -195,7 +195,7 @@ e estamos a ponto de descobrir o
 que matou o Dr. Schrader.<W>
 !------------------------------!
 Temos que investigar este lugar
-atentamente, antes de fugirmos.
+atentamente antes de fugirmos.
 Vejamos o que mais há aqui. 
 !******************************!
 [t17_065_300.gds]
@@ -655,9 +655,9 @@ Vamos descer daqui, e ver o que
 mais podemos achar.
 !******************************!
 [t17_280_100.gds]
-<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:98>Uau! Esse é o quarto mais chique
+<01:00000002><03:9>b4 smile<03:5>NONE<01:00000003><03:98>Uau! Este é o quarto mais chique
 que já vi! O Molentary Express
-parece cafona, comparado a isso!
+parece cafona comparado a isso!
 !******************************!
 [t17_280_200.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:80>É um quarto digno da família
@@ -666,7 +666,7 @@ mais rica e influente de Folsense.
 [t17_280_300.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:91>Acho difícil acreditar que um
 lugar tão deslumbrante como este
-tem um vampiro à espreita.
+tenha um vampiro à espreita.
 !******************************!
 [t17_280_400.gds]
 <01:00000001><03:9>b2 smile<03:5>NONE<01:00000002><03:99>Ah, nunca se sabe, Luke. Talvez o
@@ -691,8 +691,8 @@ vimos no Museu Herzen?<W>
 Anton estava nela, né?
 !******************************!
 [t17_280_520.gds]
-<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:86>O ponto é: a foto foi tirada há
-50 anos, mas Anton não parece
+<01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:86>O ponto é que a foto foi tirada há
+50 anos, mas o Anton não parece
 ter envelhecido um dia sequer.
 !******************************!
 [t17_280_530.gds]
@@ -700,7 +700,7 @@ ter envelhecido um dia sequer.
 isso, não é?<W> Não consigo entender
 como isso é possível.<W>
 !------------------------------!
-É especialmente estranho, dado que
+É ainda mais estranho, visto que
 o Sr. Beluga claramente envelheceu
 desde que a foto foi tirada.<W>
 !------------------------------!
@@ -713,7 +713,7 @@ seu castelo.
 Layton agindo de novo!
 !******************************!
 [t17_280_600.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:134>Suponho que sim, apesar de não
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:134>Acho que sim, apesar de não
 achá-la assim tão famosa.<W>
 !------------------------------!
 Por que não começamos explorando

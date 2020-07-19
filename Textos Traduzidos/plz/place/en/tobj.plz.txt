@@ -412,7 +412,7 @@ Eca, que nojo!
 !******************************!
 [tobj180.txt]
 Espero que eu nunca
-precise vestir essas
+precise usar essas
 coisas!
 !******************************!
 [tobj181.txt]

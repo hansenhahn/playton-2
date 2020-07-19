@@ -410,9 +410,9 @@ O casal nessa obra parece estar dançando
 em pleno ar, voando impossivelmente próximo
 do candelabro. Mas, quando visto
 corretamente, não há nada realmente de
-estranho sobre a pintura. Se você olhar
-mais de perto, uma área peculiar da pintura
-entrega a razão da imagem ser tão estranha.
+estranho sobre a pintura. Se você olhar mais
+de perto, uma área peculiar da pintura entrega
+a razão de a imagem ser tão estranha.
 
 Encontre essa área peculiar e circule-a
 para descobrir a verdade.
@@ -427,13 +427,13 @@ chão do salão de baile!
 
 Talvez os dois jovens pareciam tão
 felizes juntos que o pintor não
-queria arruinar a dança encarando
-diretamente a eles.
+queria arruinar a dança encarando-os
+diretamente.
 !******************************!
 Que pena!
 
 Certamente é difícil de ver o que parece
-ser de peculiar sobre esta cena bonita.
+ser de peculiar sobre essa cena bonita.
 !******************************!
 Muitas coisas sobre a pintura estão
 um pouco sem nexo, mas qual pequeno
@@ -480,7 +480,7 @@ essa estaca!
 !******************************!
 Que pena!
 
-Realmente tente estudar como a corda
+Tente realmente estudar como a corda
 está enrolada entre as estacas.
 !******************************!
 Sua melhor aposta aqui é ver como
@@ -494,13 +494,13 @@ O homem precisa remover apenas uma
 !******************************!
 Os dois caminhos da corda que saem da
 frente do homem formam um laço gigante.
-Pense quais estacas estão localizadas
+Pense em quais estacas estão localizadas
 dentro do laço e quais estão fora
 do laço.
 
 Todas as estacas da metade da esquerda
-da imagem parecem que provavelmente
-podem ficar do jeito que está.
+da imagem parecem que podem provavelmente
+ficar do jeito que estão.
 !******************************!
 [n132.dat]
 <0132>Dividindo Pinturas
@@ -553,13 +553,13 @@ uma só pintura.
 [n133.dat]
 <0136>A Porta Escondida
 <00><28><24><20><11><53><17><85><FD><03><04><FF>
-<''>Dizendo sobre as portas,
+<''>Começando das portas,
 marcadas e nada tortas,
 
 um caminho irá aparecer,
-marcante e claro de ver,
+marcante e claro de se ver,
 
-feito de estrelas brilhantes,
+feito de estrelas de luz brilhantes,
 cada uma apenas em um quadrante.<''>
 
 Essas frases foram ditas para apontar
@@ -577,19 +577,19 @@ Que pena!
 Pense no que exatamente o ditado está
 lhe dizendo para fazer.
 !******************************!
-<''>Dizendo sobre as portas,
+<''>Começando das portas,
 marcadas e nada tortas,<''>
 
 As portas em questão estão localizadas
 na porção inferior direita da imagem.
 
-Mas o que exatamente se deve fazer
-por lá?
+Mas o que exatamente começa a
+fazer de lá?
 !******************************!
-<''>...um caminho irá aparecer,
-marcante e claro de ver,
+<''>... um caminho irá aparecer,
+marcante e claro de se ver,
 
-feito de estrelas brilhantes,
+feito de estrelas de luz brilhantes,
 cada uma apenas em um quadrante.<''>
 
 Para simplificar esse trecho, as estrelas
@@ -598,11 +598,11 @@ em quadrados individuais irão te
 guiar para a porta escondida.
 !******************************!
 Se você marcar todos os quadrados
-que possuem uma única estrela, irão
-formar uma seta no chão.
+que possuem uma única estrela, eles 
+irão formar uma seta no chão.
 
-O quadrado que essa seta aponta é
-a localização da porta escondida.
+O quadrado para o qual essa seta aponta
+é a localização da porta escondida.
 !******************************!
 [n134.dat]
 <0134>Poder do Vapor
@@ -2985,7 +2985,7 @@ bastante para o sol se mexer.
 <00><3C><36><30><01><54><19><CC><FF><03><04><47>
 A chave para a porta está presa atrás
 de uns blocos. Deslize a chave para a mão
-do professor para que então os dois possam
+do professor para que, então, os dois possam
 fugir!
 !******************************!
 Ótimo trabalho!
@@ -3046,7 +3046,7 @@ Agora, rumo à liberdade!
 Que pena!
 
 Pelo menos uma linha de quatro números
-não está somando ao mesmo total de
+não está somando o mesmo total de
 todas as outras.
 !******************************!
 Você tem que fazer com que a somatória
@@ -3068,7 +3068,7 @@ precisa fazer é encher os espaços
 vazios com os números corretos. Assim
 que começar a encher os espaços no
 quadrado, você terá cada vez menos
-espaços pra lidar.
+espaços para lidar.
 
 Preencha uma linha, certifique-se de que
 totaliza 18 e continue trabalhando com

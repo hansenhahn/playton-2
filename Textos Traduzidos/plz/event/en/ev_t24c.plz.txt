@@ -333,7 +333,7 @@ alcançá-la agora.
 !******************************!
 [t24_711_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:63>Uma vez com a chave em mãos,
-e estaremos livres. Tenho certeza.
+estaremos livres. Tenho certeza.
 !******************************!
 [t24_713_100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:64>E aí está. A porta está destrancada.

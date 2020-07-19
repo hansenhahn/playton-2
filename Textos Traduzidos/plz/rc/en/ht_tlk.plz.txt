@@ -208,8 +208,7 @@ da Flor de Cinzas não é do seu
 agrado, Luke.
 !******************************!
 [ht_011_0.txt]
-Uau! Esse chá é do balacobaco!
-
+Uau! Este chá é do balacobaco!
 !******************************!
 [ht_011_1.txt]
 Concordo, Luke. Estou estupefato

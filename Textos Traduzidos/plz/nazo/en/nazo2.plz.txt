@@ -2426,7 +2426,7 @@ diagrama abaixo. Esse carinha tem um pulo
 incomum. Seu primeiro salto avança um espaço,
 seu segundo salto avança dois espaços e seu
 terceiro salto avança três espaços. Após
-seu terceiro salvo, ele repete esse padrão.
+seu terceiro salto, ele repete esse padrão.
 O sapo não pode mudar a direção em pleno ar,
 mas ele pode retroceder no caminho entre
 os saltos.
