@@ -249,7 +249,7 @@ fãs da série do Professor Layton!<W>
 !------------------------------!
 Temos um presente especial para
 você que esperamos que goste!<W>
-Diverta-se!
+Divirta-se!
 !******************************!
 [t26_503_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:246>E então, gostou de seu
