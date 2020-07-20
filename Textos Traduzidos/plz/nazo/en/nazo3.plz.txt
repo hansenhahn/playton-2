@@ -408,7 +408,7 @@ um número estranho de rotas separadas.
 <00><1E><1B><18><12><56><05><82><EB><03><04><FF>
 O casal nessa obra parece estar dançando
 em pleno ar, voando impossivelmente próximo
-do candelabro. Mas, quando visto
+do lustre. Mas, quando visto
 corretamente, não há nada realmente de
 estranho sobre a pintura. Se você olhar mais
 de perto, uma área peculiar da pintura entrega
@@ -1775,7 +1775,7 @@ a libertar este rato azarado?
 Ufa! Ele está livre!
 
 Tenho certeza de que ele irá achar um jeito
-de te agradecer... cedo ou tarde.
+de lhe agradecer... cedo ou tarde.
 !******************************!
 Que pena!
 !******************************!

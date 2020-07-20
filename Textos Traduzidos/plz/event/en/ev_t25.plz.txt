@@ -11,21 +11,21 @@ foi ridiculamente pomposo.<W>
 !------------------------------!
 Céus, está ficando tarde. Só mais
 um enigma rápido e então vamos
-direto para a cama, está bom?
+direto para a cama, está bem?
 !******************************!
 [t25_001_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:31>Quer tentar resolver o enigma
 novamente?
 !******************************!
 [t25_002_100.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:55>As pinceladas neste retrato
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:55>As pinceladas nesta pintura
 são simplesmente magníficas.
 !******************************!
 [t25_003_100.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:110>Com certeza uma imagem marcante.<W>
 !------------------------------!
 ... Ah, o que é isto? Luke, diga-me,
-estes dois te parecem familiares?
+esses dois lhe parecem familiares?
 !******************************!
 [t25_003_200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:99>Parece o Anton do lado da...
@@ -70,7 +70,7 @@ talvez seja possível eu me libertar.
 !******************************!
 [t25_013_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:96>Podemos estar livres, mas não
-é hora de ficarmos parados.<W>
+é hora para ficarmos parados.<W>
 !------------------------------!
 Devemos encontrar uma maneira de
 fugir, e rápido!
@@ -125,7 +125,7 @@ enigma sobre retratos?
 !******************************!
 [t25_020_900.gds]
 <01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:57>Um enigma?! É mesmo a hora e o
-lugar certo para isso, Professor?
+lugar certo pra isso, Professor?
 !******************************!
 [t25_021_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:88>...<W> Como eu ia dizendo, sei de um
@@ -141,7 +141,7 @@ p-p-possível?
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:140>Ora, foi divertido, não foi, Luke?<W>
 !------------------------------!
 Podia não parecer o momento mais
-apropriado para um enigma, mas manter-se
+adequado para um enigma, mas manter-se
 calmo nessas situações é indispensável.
 !******************************!
 [t25_023_200.gds]
@@ -160,11 +160,11 @@ nele. Deve ser facílimo escorregar.
 !******************************!
 [t25_030_200.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:83>Nossa, é verdade! Chega a parecer
-um espelho. Quem você acha que faz
-toda a lustração?
+um espelho. Quem você acha que
+encera ele?
 !******************************!
 [t25_030_300.gds]
-<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:23>Este seria eu, amo.
+<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:23>Este seria eu, jovem amo.
 !******************************!
 [t25_030_400.gds]
 <01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:22>Ain! É o mordomo!
@@ -187,7 +187,7 @@ nos deter ou coisa do tipo?
 a menor ideia sobre o que está
 falando.<W>
 !------------------------------!
-Agora onde eu estava?<W>
+Agora, onde eu estava?<W>
 Ah sim, aquele enigma.<W>
 !------------------------------!
 Este corredor possui uma porta
@@ -195,8 +195,8 @@ oculta, mas, para minha infelicidade,
 esqueci onde ela está.<W>
 !------------------------------!
 No entanto, me recordo de um velho
-enigma que os servos costumavam
-proferir, para lembrar o local da porta.<W>
+enigma que os criados costumavam
+contar, para lembrar o local da porta.<W>
 !------------------------------!
 Vou lhes compartilhar este enigma,
 e seu dever, queridos hóspedes,
@@ -207,7 +207,7 @@ será descobrir onde a porta está.
 corredor velho. Consegue encontrá-la?
 !******************************!
 [t25_032_100.gds]
-<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:65>Hum. Hummm. Ótimo. A saída está
+<01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:65>Hum. Hummm. Muito bem. A saída está
 logo atrás de vocês, caros hóspedes.
 !******************************!
 [t25_033_100.gds]
@@ -218,8 +218,8 @@ poderiam, por favor, voltar aos
 seus aposentos?<W>
 !------------------------------!
 Esses corredores velhos podem
-dar bastantes calafrios
-na calada da noite.
+dar bastantes calafrios na calada
+da noite.
 !******************************!
 [t25_033_200.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:44>Levarei isso em conta.
@@ -242,7 +242,7 @@ castelo. Por algum motivo, porém,
 não está sendo usada.
 !******************************!
 [t25_040_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:77>E o que deduz sobre as outras
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:77>E o que você acha das outras
 engenhocas? São todas enormes!
 !******************************!
 [t25_040_300.gds]
@@ -251,8 +251,8 @@ que este equipamento foi usado
 para minerar ouro.<W>
 !------------------------------!
 Provavelmente é o mesmo equipamento
-usado para criar aquele buraco
-enorme no piso do castelo.
+usado para criar aquele buraco enorme
+no piso do castelo.
 !******************************!
 [t25_040_400.gds]
 <01:00000002><03:10>b3 normal<03:5>NONE<01:00000003><03:193>Então é por isso que faz tanto
@@ -268,11 +268,11 @@ Aposto que respirá-la fará horrores
 [t25_040_500.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:168>A pessoa que cavou este buraco
 deve ser um perito manuseando
-essa maquinaria.<W>
+esse maquinário.<W>
 !------------------------------!
-Uma cavada mal colocada
-faria com que todo o alicerce
-desmoronasse.
+Um pequeno erro de cálculo e
+os alicerces, que sustentam o buraco,
+desmoronariam por completo.
 !******************************!
 [t25_040_600.gds]
 <01:00000002><03:9>b3 angry<03:5>NONE<01:00000003><03:93>Não querendo ser grosso, mas não
@@ -280,7 +280,8 @@ acho que seja a melhor hora para
 apreciar a obra do minerador.
 !******************************!
 [t25_040_700.gds]
-<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:126>Ah, sim, tem toda a razão, meu rapaz.<W>
+<01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:126>Ah, sim, tem toda a razão,
+meu rapaz.<W>
 !------------------------------!
 Humm... Creio que possamos abrir
 a porta acima de nós se fizermos
@@ -295,9 +296,9 @@ a porta acima deverá se abrir.
 inativa há um bom tempo.
 !******************************!
 [t25_043_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:85>Bom trabalho, meu jovem. Agora, não
-vejo outra opção além de subir e
-dar o fora daqui.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:85>Bom trabalho, meu rapaz. Agora, não
+vejo outra opção além de subir e dar
+o fora daqui.
 !******************************!
 [t25_044_100.gds]
 <01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:85>Se não abrirmos aquela porta

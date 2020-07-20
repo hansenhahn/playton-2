@@ -1529,7 +1529,7 @@ O emblema pomposo que mencionou
 não era bem do meu agrado.
 !******************************!
 [m15_18.txt]
-Pessoalmente, acho isso
+Pessoalmente, acho ele
 muito espetacular.
 !******************************!
 [m15_19.txt]
@@ -1583,7 +1583,7 @@ Sim. Agora mesmo, Mestre.
 Bem-vindos à minha casa.
 !******************************!
 [m15_5.txt]
-Enão, se eu entendi corretamente,
+Então, se eu entendi corretamente,
 !******************************!
 [m15_6.txt]
 está dizendo que as pessoas
@@ -1672,8 +1672,7 @@ Não mesmo.
 <HOLD>
 !******************************!
 [m17_19.txt]
-Receio não ter entendido
-por certo.
+Receio não ter entendido.
 !******************************!
 [m17_2.txt]
 
@@ -1924,7 +1923,7 @@ Terei que adiar meu retorno ao
 seu lado por um tempo.
 !******************************!
 [m21_19.txt]
-Há alguem que preciso conhecer
+Há alguém que preciso conhecer
 melhor primeiro.
 !******************************!
 [m21_2.txt]
@@ -1998,7 +1997,7 @@ no final das contas!
 Vamos visitá-lo assim que voltarmos.
 !******************************!
 [m23_5.txt]
-Ah, mas isso vai chocar
+Ah, mas isso vai conflitar
 !******************************!
 [m23_7.txt]
 com o simpósio que você tem
@@ -2146,7 +2145,7 @@ dela o seu orgulhoso dono.
 Chelmey comete muitos erros, mas
 nesse aqui ele se superou. Nem
 mesmo Barton conseguiu ocultar
-o que pensava nessa vez.
+o que pensava dessa vez.
 !******************************!
 [art_6.txt]
 Luke e Precious se divertem muito
@@ -2184,7 +2183,7 @@ Um Hamster no Paraíso
 Um Encontro Repentino
 !******************************!
 [art_t_4.txt]
-A Bovina Ganhadora
+A Vaca Vencedora
 !******************************!
 [art_t_5.txt]
 A Gafe de Chelmey
@@ -2199,7 +2198,7 @@ Um Cão Feliz
 Crescendo em Dropstone
 !******************************!
 [art_t_9.txt]
-Um Balé para Recordar
+Um Baile para Recordar
 !******************************!
 [chr_0.txt]
 Suas duas paixões são
@@ -3347,7 +3346,7 @@ Música Tema do Professor Layton
 Enigmas - Remixado
 !******************************!
 [music_10.txt]
-Música Tema do Don Paulo
+Música Tema do Don Paolo
 !******************************!
 [music_11.txt]
 A Floresta Negra

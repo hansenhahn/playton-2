@@ -40,7 +40,7 @@ meu garoto!
 a qual se volta de novo e de novo.
 !******************************!
 [t26_023_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:21>Muito bom, meu jovem!
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:21>Muito bom, meu rapaz!
 !******************************!
 [t26_024_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:16>Tendo problemas?
@@ -243,7 +243,7 @@ Demonstrou grande perspicácia!
 mostrando-se deveras problemático.
 !******************************!
 [t26_500_100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:181>Ah, olá! Acabou de entrar num
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:181>Ah, olá! Você acabou de acessar um
 cantinho secreto exclusivo para os
 fãs da série do Professor Layton!<W>
 !------------------------------!

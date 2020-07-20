@@ -1,5 +1,5 @@
 
-Professor Layton e a Caixa de Pandora PT-BR - Beta 9
+Professor Layton e a Caixa de Pandora PT-BR - Beta 10
 
 - Um lançamento Monkeys Traduções e Jacutem Sabão -
 
@@ -18,13 +18,12 @@ Informações sobre a ROM:
 Sobre a Tradução:
 	Textos:  100%
 	Imagens: 100%
-	Revisão: 50%
+	Revisão: 100%
 
 Equipe:
 	Responsável: DiegoHH
 	ROMHacking e Programação: DiegoHH
-	Textos da História: DiegoHH, Solid One, Sahgo, Steve Doido, 
-	Textos dos Enigmas: DiegoHH, Gamerulez, Magalicia, Shagohod, Steve Doido, Solid One
+	Textos: DiegoHH, Solid One, Sahgo, Steve Doido, Gamerulez, Magalicia, Shagohod
 	Imagens: DiegoHH, Solid One
 
 Notas da Equipe:
@@ -40,8 +39,17 @@ Notas da Equipe:
 	  estão devidamente traduzidos para o português brasileiro.
 
 Notas das Versões:
+	- Release 1
+		* Revisão de todos os textos da história e enigmas
+		* Revisão de todas as imagens
+		* Tradução dos créditos
+		* Desbloqueio da porta oculta
+	- 29/05/2020 Beta 10
+		* Revisão dos textos da história e enigmas
+		* Correção do layout do teclado
+		* Tradução das imagens relacionadas à última carta do Luke
 	- 20/05/2020 Beta 9
-		* Revisão dos textos da história e jogo
+		* Revisão dos textos da história e enigmas
 		* Tradução de mais algumas imagens
 		* Adequação de alguns termos
 	- 15/05/2019 Beta 8
@@ -97,6 +105,7 @@ Notas das Versões:
 
 Contato:	
 	E-mail: hansen.hahn@gmail.com
+	GitHub: https://github.com/hansenhahn
 	Pelo FURT: http://www.romhacking.net.br
 	Canal FURT/RHBR no Discord: https://discord.gg/keJkKWk
 
@@ -108,5 +117,5 @@ Licença de Uso:
 	http://creativecommons.org/licenses/by-nc-nd/3.0/ ou mande uma carta para:
 	Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
 
+	LEIA-ME por DiegoHH <hansen.hahn@gmail.com>
 
-								LEIA-ME por DiegoHH <hansen.hahn@gmail.com>	

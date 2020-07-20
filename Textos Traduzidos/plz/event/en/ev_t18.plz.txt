@@ -562,12 +562,12 @@ Layton tiveram um sonho perturbador
 com um baile fantasmagórico.<W>
 !------------------------------!
 Ao acordarem, ficaram horrorizados
-ao se verem amarrados em um quarto
+ao se verem amarrados em um local
 estranho e úmido.
 !******************************!
 [t18_370_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:100>Seu sequestrador, Anton,
-logo deixou o quarto, dando a Luke
+logo deixou o local, dando a Luke
 e Layton a chance de escaparem.
 !******************************!
 [t18_370_300.gds]

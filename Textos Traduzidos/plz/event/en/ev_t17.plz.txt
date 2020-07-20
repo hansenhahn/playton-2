@@ -2,7 +2,7 @@
 <01:0000001D><03:5>NONE<03:5>NONE<01:00000002><03:9>Bem-vindos.
 !******************************!
 [t17_010_200.gds]
-<01:00000001><03:10>b2 normal<03:10>b1 normal<01:00000002><03:213>Perdão me intrometer, mas estamos
+<01:00000001><03:10>b2 normal<03:10>b1 normal<01:00000002><03:213>Peço perdão pela invasão, mas estamos
 investigando as origens desta
 caixa antiga que temos aqui.<W>
 !------------------------------!
@@ -208,7 +208,7 @@ as costas e fugir. Não agora.<W>
 !------------------------------!
 Estamos muito perto de descobrir
 a verdade sobre Folsense e a
-caixa Elísia. Temos que continuar.
+Caixa Elísia. Temos que continuar.
 !******************************!
 [t17_067_100.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:27>Regressar à cidade?
@@ -285,12 +285,12 @@ Olhe para mim! Eu sou muito
 jovem para ser avô de alguém!
 !******************************!
 [t17_110_300.gds]
-<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:153>Mas o que vê à sua volta não é
-real. É apenas uma ilusão criada
+<01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:153>Mas o que você vê à sua volta não
+é real. É apenas uma ilusão criada
 por sua própria mente.<W>
 !------------------------------!
 Sua juventude é parte de tal
-ilusão. A verdade é que, bom...
+ilusão. A verdade é que, bem...
 !******************************!
 [t17_110_400.gds]
 <01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:196>Por favor, permita-me.<W>
@@ -321,8 +321,8 @@ criando sua sinistra reputação.
 vemos diante de nós, nem seus
 habitantes, existem de fato.<W>
 !------------------------------!
-Isso tudo é uma criação de nossas
-mentes.
+Isso tudo é uma criação de
+nossas mentes.
 !******************************!
 [t17_110_500.gds]
 <01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:41>Como você chegou nessa conclusão,
@@ -344,8 +344,8 @@ A Folsense de 50 anos atrás...
 !******************************!
 [t17_110_700.gds]
 <01:0000001E><03:8>b2 weep<03:5>NONE<01:00000002><03:57>Basta já com essa loucura.
-Folsense é verídica...
-Eu sou verídico!...
+Folsense é real...
+Eu sou real!...
 !******************************!
 [t17_110_800.gds]
 <01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:158>Nada disso é real, vovô. Esta
@@ -390,7 +390,7 @@ deixou por outro!
 ela sempre me falava de você,
 mesmo em seus últimos dias.<W>
 !------------------------------!
-Ela nunca deixou de te amar.
+Ela nunca deixou de amar você.
 !******************************!
 [t17_112_200.gds]
 <01:00000014><03:8>b2 weep<03:5>NONE<01:00000003><03:64>Você entendeu tudo errado,
@@ -590,7 +590,7 @@ nascer, mas Katia cresceu e se tornou
 uma jovem meiga e saudável.<W>
 !------------------------------!
 Sempre que a via sorrir,
-lembrava-me de ti.<W>
+lembrava-me de você.<W>
 !------------------------------!
 Com ela por perto, eu jamais
 poderia me esquecer de você.
@@ -604,7 +604,7 @@ E agora, apesar de minha hora final
 estar se aproximando, gosto de pensar
 que nos veremos novamente no além.<W>
 !------------------------------!
-A ideia de ver o teu rosto
+A ideia de ver o seu rosto
 aquece-me o coração.<W>
 !------------------------------!
 Cuide-se e seja feliz, meu querido

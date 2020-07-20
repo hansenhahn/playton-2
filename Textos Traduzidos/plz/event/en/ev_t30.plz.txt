@@ -846,7 +846,7 @@ de outrora?<W> Espero que sim.
 !******************************!
 [t30_100_200.gds]
 <01:00000001><03:10>b4 normal<03:5>NONE<01:00000002><03:41>Qual seria o seu problema,
-meu jovem?
+meu rapaz?
 !******************************!
 [t30_100_300.gds]
 <01:00000047><03:5>NONE<03:5>NONE<01:00000003><03:87>Ah, estava me estressando com

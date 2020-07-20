@@ -389,7 +389,7 @@ Odeio isso!
 !******************************!
 [tobj176.txt]
 Vejo um enorme
-candelabro lá dentro!
+lustre lá dentro!
 !******************************!
 [tobj177.txt]
 Uau! Este corredor é tão
