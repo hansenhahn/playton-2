@@ -636,12 +636,12 @@ Você resolveu o enigma
 "%s"!
 !******************************!
 [tx_701.txt]
-Você resolveu o enigma sem olhar
+Você resolveu o enigma sem usar
 uma única dica! Bom trabalho!
 !******************************!
 [tx_702.txt]
-Você viu %d dicas enquanto
-resolvia o enigma.
+Você usou %d dicas para
+resolver o enigma.
 !******************************!
 [tx_800.txt]
 Código de Erro: %d

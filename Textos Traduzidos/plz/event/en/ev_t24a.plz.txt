@@ -1025,7 +1025,7 @@ mas creio ser capaz de achar uma
 forma de abri-lo.
 !******************************!
 [t24_212_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:57>Não há mais nada  o que fazer aqui.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:57>Não há mais nada o que fazer aqui.
 Vamos voltar para a cidade.
 !******************************!
 [t24_213_100.gds]

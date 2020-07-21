@@ -2369,7 +2369,7 @@ facilmente.
 <0057>Cheire as Rosas 1
 <00><1E><1B><18><11><0D><18><38><FE><03><02><FF>
 Ah, não há nada como uma rosa recém
-cortada para revigorar a alma. Você
+colhida para revigorar a alma. Você
 consegue ajudar o Sammy a espalhar a
 fragrância das rosas por toda a cabine?
 
@@ -2399,11 +2399,12 @@ Aqui vai uma dica útil.
 Comece pelos cantos da cabine.
 !******************************!
 Coloque uma rosa no canto inferior
-direito da cabine, e então pense onde
-o restante deve ficar.
+direito da cabine e, então, imagine
+onde as outras devem ser colocadas.
 !******************************!
-Para resolver este enigma, você deve
-pôr as rosas em cinco lugares diferentes.
+Para resolver este enigma, você
+deve pôr as rosas em cinco lugares
+diferentes.
 !******************************!
 [n57.dat]
 <0058>No Túnel
@@ -2445,7 +2446,7 @@ trilho inferior para o trilho superior.
 Mova o vagão de sua escolha para o trilho
 secundário e depois retire todos os
 vagões que estão bloqueando seu caminho
-ao trilho superior. Após isso, é mera
+para o trilho superior. Após isso, é mera
 questão de levar os vagões do trilho
 secundário para o local designado.
 !******************************!
@@ -2495,7 +2496,7 @@ de cada conjunto de números.
 A metade superior do conjunto de
 números de cima e a metade inferior do
 conjunto de números de baixo irão se
-conectar,  revelando uma série de letras.
+conectar, revelando uma série de letras.
 !******************************!
 A palavra <''>FOLSENSE<''> está escrita
 no bilhete.
@@ -2507,61 +2508,65 @@ bilhete é dobrado?
 [n59.dat]
 <0060>O Enigma da Praça
 <00><19><16><13><11><23><06><3B><EC><03><04><FF>
-<''>Então há uma estátua grande e antiga no
+<''>Há uma estátua grande e antiga no 
 meio desta praça. Quando você remove a
-área ocupada pela estátua, a praça parece
-ter um formato de uma rosquinha. O que
-você precisa fazer é dividir essa praça
+área ocupada pela estátua, a praça acaba
+ficando com um formato de rosca. O que
+você precisa fazer é dividir esta praça
 em forma de rosca em duas partes idênticas
-em formato usando tão somente uma linha.
-Ah, e antes de inventar coisa, as linhas
-pontilhadas mostradas abaixo não podem
-ser cortadas, porque são, na verdade,
+em formato usando tão somente uma linha.<''>
+
+<''>Ah, e antes de inventar coisa, as linhas
+pontilhadas mostradas abaixo não servem
+como resposta, já que são, na verdade,
 duas linhas.<''>
+
 Desenhe sua resposta na Tela de Toque.
 !******************************!
 Isso!
 
 Se você desenhar um círculo em volta da
 praça afastado um terço do meio dela,
-sua linha se dividirá em duas partes com
-formatos iguais e diretamente proporcionais.
-Em termos geométricos, formatos assim são
-conhecidos como figuras similares.
+a linha desenhada dividirá ela em duas
+partes com formatos iguais e diretamente
+proporcionais. Em termos da geometria,
+formatos assim são conhecidos como
+figuras similares.
 !******************************!
 Que pena!
 
 Concentre-se no termo <''>uma linha<''>.
 Há uma dica em algum lugar nele.
 !******************************!
-Na ilustração de exemplo, a praça foi
+No desenho de exemplo, a praça foi
 dividida por duas linhas, o que faz
 da resposta inválida.
 
 O fato de você precisar usar somente
 uma única linha para resolver o enigma
-é a chave. Já que só se pode usar uma,
-você sabe que não resolverá somente
-desenhando linhas pelo meio da praça.
+é a chave. Já que só se pode usar uma
+linha, então você já sabe que não
+resolverá o enigma somente desenhando
+linhas atravessando o meio da praça.
 !******************************!
-Mesmo se tiver evitado desenhar sua linha
-pelo meio da praça, nenhuma linha reta irá
-dividir a praça em duas partes exatamente
-iguais.
+Mesmo se você evitar desenhar sua
+linha atravessando o meio da praça,
+nenhuma linha reta irá dividir a praça
+em duas partes exatamente iguais.
 
-A propósito, reparou que o objetivo
-aqui não é criar duas partes que
-sejam do mesmo tamanho?
+A propósito, você percebeu que o
+objetivo aqui não é criar duas partes
+que sejam do mesmo tamanho?
 !******************************!
-Se ainda estiver tendo problemas,
-saiba que a única linha a se
-desenhar terá de ter a forma de um
-círculo.
+Se você ainda estiver tendo problemas,
+saiba que a única linha que você
+precisará desenhar terá de ter a forma
+de um círculo.
 
-A pergunta que sobra é onde se deve
-desenhar para que duas partes da
+A pergunta que resta é onde se deve
+desenhar para que as duas partes da
 praça tenham o mesmo formato e sejam
-da mesma proporção da outra.
+da mesma proporção uma da outra.
 !******************************!
 [n6.dat]
 <0007>Quatro Casais

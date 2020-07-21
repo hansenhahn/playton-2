@@ -373,7 +373,7 @@ interesse pela foto recuperada na casa
 do Dr. Schrader.
 !******************************!
 [t18_270_100.gds]
-<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Layton e  Luke voltam ao hotel para
+<01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:93>Layton e Luke voltam ao hotel para
 questionar Chelmey acerca da
 foto achada na casa do doutor.
 !******************************!

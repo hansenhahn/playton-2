@@ -997,7 +997,7 @@ basta pesar essas quinze moedas uma vez.
 
 Se todas as moedas fossem de verdade, o
 peso total seria de 150 gramas, mas você
-acabará com um peso menor que isso.  A
+acabará com um peso menor que isso. A
 diferença entre o peso registrado e os
 150 gramas corresponde ao número de
 moedas falsas no saco.
@@ -2557,7 +2557,7 @@ Por exemplo, pense direito sobre como
 a fonte diria as idades de 10 a 20.
 !******************************!
 O Esguicho A informa 1 ano de idade.
-A e B, dois. A, B e C, três.  A, B, C e D,
+A e B, dois. A, B e C, três. A, B, C e D,
 quatro, e por aí vai.
 
 Logo, se os esguichos A a I soltarem
