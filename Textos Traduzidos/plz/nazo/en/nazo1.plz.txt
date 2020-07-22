@@ -2368,10 +2368,10 @@ facilmente.
 [n56.dat]
 <0057>Cheire as Rosas 1
 <00><1E><1B><18><11><0D><18><38><FE><03><02><FF>
-Ah, não há nada como uma rosa recém
-colhida para revigorar a alma. Você
-consegue ajudar o Sammy a espalhar a
-fragrância das rosas por toda a cabine?
+Ah, nada como uma rosa recém-colhida para
+revigorar a alma. Você consegue ajudar
+o Sammy a espalhar a fragrância das rosas
+por toda a cabine?
 
 Toque um quadrado com sua caneta stylus
 para colocar uma rosa. A fragrância de cada

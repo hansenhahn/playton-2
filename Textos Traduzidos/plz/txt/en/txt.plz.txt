@@ -469,7 +469,7 @@ Flor Tônica
 Pimenta Cereja
 !******************************!
 [herb_7.txt]
-Capim Seco
+Cavalhinho Seco
 !******************************!
 [item_0.txt]
 O Sapato do Tom
@@ -2138,8 +2138,8 @@ esse disfarce não engana ninguém.
 [art_4.txt]
 Aqui temos a vaca ganhadora do
 desfile das vacas do Aniversário
-de 50 anos de Dropstone, e ao lado
-dela o seu orgulhoso dono.
+de 50 anos de Dropstone, e, ao lado
+dela, o seu orgulhoso dono.
 !******************************!
 [art_5.txt]
 Chelmey comete muitos erros, mas
@@ -3119,7 +3119,7 @@ comer.
 !******************************!
 [chr_74.txt]
 O dono do Molentary
-Express é Sr. Beluga, o
+Express é o Sr. Beluga, o
 magnata das ferrovias.
 O trem é famoso pelo seu
 luxo, assim ganhando o
@@ -3385,7 +3385,7 @@ Suspense
 A Cidade de Dropstone
 !******************************!
 [music_6.txt]
-Uma Atmosfera Inquieta
+Um Clima Inquietante
 !******************************!
 [music_7.txt]
 Folsense

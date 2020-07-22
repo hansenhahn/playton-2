@@ -1060,21 +1060,22 @@ Estude a área cautelosamente e, assim,
 você descobrirá o hotel logo, logo.
 !******************************!
 Apenas estude os quatro edifícios
-cautelosamente e a resposta se revelará.
+cautelosamente e a resposta será
+revelada.
 !******************************!
-Com uma segunda olhada, um dos prédios
-tem a palavra <''>HOTEL<''> nele.
-Você consegue ver?
+Olhando novamente, um dos prédios
+tem a palavra <''>HOTEL<''> escrita nele.
+Você conseguiu ver?
 !******************************!
-Uma inspeção da cena revela que um
-edifício tem as letras do alfabeto
-escondidas em suas vidraças e portas.
+Se inspecionar a cena, verá que um
+dos edifícios tem letras do alfabeto
+desenhadas em suas vidraças e portas.
 !******************************!
 [n61.dat]
 <0062>Cheire as Rosas 2
 <00><28><24><20><12><26><18><3D><FE><03><04><FF>
 Ah, nada cheira tão bem quanto rosas
-recém cortadas. Que tal perfumar a sala
+recém-cortadas. Que tal perfumar a sala
 com sua fragrância?
 
 Toque em um quadrado com a caneta stylus
@@ -1098,9 +1099,9 @@ Certificou-se de espaçar as rosas
 o bastante para que suas fragrâncias
 não se sobreponham?
 !******************************!
-Comece colocando uma rosa na quina
-inferior esquerda da sala e prossiga
-por lá.
+Comece colocando uma rosa no canto
+inferior esquerdo da sala e prossiga
+de lá.
 !******************************!
 Sabendo onde vai uma rosa, posicionar
 as demais não se deve mostrar muito
@@ -1111,62 +1112,62 @@ perto possível da do canto inferior
 esquerdo sem que os seus cheiros
 se sobreponham.
 !******************************!
-Ao todo, precisa pôr sete rosas
-para completar o enigma.
+Ao todo, você precisa posicionar sete
+rosas para completar o enigma.
 !******************************!
 [n62.dat]
 <0063>Cartas Numeradas
 <00><19><16><13><12><28><1A><3E><50><04><04><2E>
-Cartas numeradas de 1 a 6 estão organizadas
-como demonstrado abaixo. Reorganize-as
-para que satisfaça as seguintes condições.
+Cartas numeradas de 1 a 6 estão
+organizadas como demonstrado abaixo.
+Reorganize-as para que satisfaçam as
+seguintes condições.
 
-1. A soma dos números da fileira de cima
-deve ser menos um da soma dos números da
-fileira de baixo.
+1. A soma dos números da fileira superior
+deve ser igual a soma dos números da
+fileira inferior menos um.
 2. As duas cartas da coluna da direita
-devem dar cinco como soma.
+devem somar cinco.
 3. A carta 5 deve estar imediatamente na
-esquerda da carta de número 4.
-4. A carta 1 deve estar posta na coluna
-da esquerda.
+esquerda da carta 4.
+4. A carta 1 deve estar posicionada na
+coluna da esquerda.
 !******************************!
 Bom trabalho!
 
-Esse é um daqueles enigmas onde as
+Este é um daqueles enigmas onde as
 respostas tornam-se claras contanto que
 você se lembre das condições que foram
 dadas a você.
 !******************************!
 Que pena!
 
-Pense mais sobre as condições desse
+Pense mais sobre as condições deste
 enigma.
 !******************************!
 A soma de todas as cartas é 21.
 
-Sabendo disso, você consegue deduzir que
-a fileira superior de três cartas na sua
-solução deve dar 10 como soma, enquanto
-a inferior deve ter 11 como resultado.
+Sabendo disso, você consegue deduzir
+que a fileira superior de três cartas
+na sua solução deve somar 10, enquanto
+a inferior deve somar 11.
 !******************************!
-A carta 1 pertence à fileira de cima.
+A carta 1 pertence à fileira superior.
 !******************************!
-Ponha a carta 4 na coluna do
-meio de cartas.
+Ponha a carta 4 na coluna do meio.
 !******************************!
 [n63.dat]
 <0064>Pedras em um Vaso
 <00><14><12><10><11><28><16><3F><F6><03><04><FF>
-<''>Este vaso possui 101 pedras, cada uma delas
-idênticas em tamanho e formato. Há 50 pedras
-pretas e 51 pedras brancas. Agora, ponha
-esta venda, estique a mão e pegue quantas
-pedras você quiser. Quando terminar, você
-receberá uma quantidade de moedas de ouro
-igual ao número de pedras que você puxou,
-mas apenas se o número de pedras brancas e
-pretas removidas for igual.<''>
+<''>Este vaso possui 101 pedras, cada uma
+delas idênticas em tamanho e forma. Há 50
+pedras pretas e 51 pedras brancas. Agora,
+ponha esta venda, estique a mão e pegue
+quantas pedras você quiser. Quando terminar,
+você receberá uma quantidade de moedas de
+ouro igual ao número de pedras que você
+puxou, mas apenas se o número de pedras
+brancas e pretas removidas for igual.<''>
 
 Quantas pedras você deveria remover para
 dar a si mesmo a melhor chance de conseguir
@@ -1188,13 +1189,14 @@ por apenas duas pedras.
 !******************************!
 Que pena!
 
-Em situações como essa, o negócio é
-apostar com tudo, então não se contenha!
+Em situações como essa, o negócio
+é apostar com tudo, então não se
+contenha!
 !******************************!
 Já que as pedras possuem o mesmo
-tamanho e formato, definitivamente
+tamanho e forma, definitivamente
 não há como diferenciá-las enquanto
-remove-as.
+você remove-as.
 !******************************!
 As chances de ganhar essas moedas são
 de 50/50.
@@ -1202,28 +1204,29 @@ de 50/50.
 Não há garantia alguma de que
 você ganhará as moedas.
 !******************************!
-Vamos pensar sobre isso por um momento.
+Vamos pensar sobre isso por um
+momento.
 
-Tanto faz se você puxar 2 ou 100 pedras,
-suas chances de ganhar o ouro serão as
-mesmas: 50/50.
+Tanto faz se você puxar 2 ou 100
+pedras, suas chances de ganhar o
+ouro serão as mesmas: 50/50.
 !******************************!
 [n64.dat]
 <0065>O Mapa Antigo
 <00><19><16><13><11><28><05><40><EB><03><04><FF>
-Um mapa antigo retrata pontos possíveis
+Um mapa antigo aponta possíveis locais
 de uma vasta fortuna junto com estas
 direções:
 <''>Inscreva os números de 1 a 6 nos espaços
 vazios para que cada conjunto de números
 de uma linha reta dê a mesma soma.
 A soma deve ser a maior possível dada
-a condição descrita acima. Então pegue
-sua pá e corra para o ponto marcado
+a condição descrita acima. Então, pegue
+sua pá e corra para o local marcado
 como 1, e lá terá o tesouro que tanto
 procura!<''>
 O número 4 já foi preenchido para você.
-Circule o ponto onde o tesouro está
+Circule o local onde o tesouro está
 escondido.
 !******************************!
 Você conseguiu!
@@ -1231,10 +1234,10 @@ Você conseguiu!
 O tesouro está enterrado exatamente
 no centro do mapa.
 
-A soma que você precisava fazer era com 10.
+O que você precisava fazer era somar 10.
 Você poderia organizar os números para
-que cada linha desse o total de nove,
-mas essa não é a maior soma possível.
+que cada linha somasse nove, mas essa
+não é a maior soma possível.
 !******************************!
 Que pena!
 
@@ -1247,27 +1250,26 @@ condições?
 !******************************!
 O número 4 já está no lugar, então sua
 tarefa será decidir onde os números 1,
-2, 3, 5 e 6 irão estar.
+2, 3, 5 e 6 deverão ser colocados.
 
-Lembre-se, seu objetivo é fazer cada
-conjunto de números em uma linha reta
-dar o mesmo total. Preste uma atenção
-especial nas duas linhas que usam o
-número 4, elas são cruciais para
-resolver este enigma.
+Lembre-se de que seu objetivo é fazer
+com que a soma de cada conjunto de números 
+em uma linha reta resultem no mesmo valor.
+Preste uma atenção especial nas duas
+linhas que usam o número 4, já que elas
+são cruciais para resolver este enigma.
 !******************************!
-Foque sua atenção no ponto da extrema
-direita e como ela forma uma linha com
+Foque sua atenção no local da extrema
+direita e como ele forma uma linha com
 o número 4.
 
 Se você inserir um número pequeno como
-1 ou 2 aqui, o total da linha inteira
-não poderia ser nada maior que 6.
-Com um total como esse, não haveria
-espaço para você colocar o número 6,
-deixando o enigma sem solução. Então,
-qual deveria ir no ponto da extrema
-direita?
+1 ou 2 aqui, a soma da linha inteira
+não poderá ser maior do que 6. Com um
+valor como esse, não haverá espaço para
+você colocar o número 6, deixando o enigma
+sem solução. Então, qual número deverá ir
+no local da extrema direita?
 !******************************!
 Quando arrumados apropriadamente, cada
 linha de números pode somar 9 ou 10.
@@ -1282,18 +1284,17 @@ soma o número 10.
 A caixa mostrada abaixo está trancada por
 dois cadeados de disco. Você não pode girar
 o cadeado azul diretamente, mas quando você
-gira o vermelho, o azul move-se numa
-quantidade igual. Para ver a relação entre
-os dois cadeados, você tenta girar o
-vermelho de sua posição original, como
-mostrado abaixo. Para abrir a trava, você
-deve girar o disco azul para 3, 6, 4 e 1,
-nessa ordem. Já que você não pode girar o
-azul diretamente, quais números você deve
-girar no vermelho para produzir os números
-desejados no cadeado azul?
+gira o vermelho, o azul gira da mesma forma.
+Para ver a relação entre os dois cadeados,
+você tenta girar o vermelho de sua posição
+original, como mostrado abaixo. Para abrir
+a trava, você deve girar o disco azul para
+3, 6, 4 e 1, nessa ordem. Já que você não
+pode girar o azul diretamente, quais números
+você deve girar no vermelho para produzir os
+números desejados no cadeado azul?
 !******************************!
-Esse foi complicado!
+Este foi complicado!
 
 O cadeado vermelho precisa ser girado para
 2, 7, 1 e 4 para produzir os números que
@@ -1301,9 +1302,9 @@ você precisa no azul.
 
 Acontece que os dois cadeados, na verdade,
 rotacionam em direções opostas. Uma forma
-de resolver esse problema é criar uma tabela
-com cada número correspondente dos
-cadeados, igual a esse demonstrado acima.
+de resolver este enigma é criar uma tabela
+com os números correspondentes de cada
+cadeado, igual a essa demonstrada acima.
 !******************************!
 Que pena!
 
@@ -1316,25 +1317,24 @@ está no 5. Quando o vermelho está no
 3, o azul está no 2.
 
 Como dito no enigma, a distância que o
-cadeado azul move é igual à distância
+cadeado azul gira é igual à distância
 do vermelho. Quando o cadeado vermelho
-é movido do 0 ao 3, o azul move-se do 5
-ao 2. Leia essa última frase
-novamente e pense no que diz sobre a
-relação entre os cadeados.
+gira do 0 ao 3, o azul gira do 5 ao 2.
+Leia essa última frase novamente e pense
+sobre a relação entre os cadeados.
 !******************************!
 Você entendeu sobre o que a Dica 1
 tentou lhe dizer? Os cadeados azul
-e vermelho giram na mesma quantidade,
-mas como você deve ter percebido, os
+e vermelho giram da mesma forma, mas,
+como você deve ter percebido, os
 números nos cadeados movem-se em
 direções opostas.
 !******************************!
 Quando você gira o cadeado vermelho,
-o azul move-se na mesma quantidade,
+o azul gira na mesma quantidade,
 mas na direção oposta.
 
-Tudo o que você precisa fazer é construir
+Tudo o que você precisa fazer é montar
 uma tabela rápida para mostrar como os
 números do cadeado vermelho
 correspondem aos números do cadeado

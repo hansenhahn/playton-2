@@ -251,7 +251,7 @@ Portão do Castelo
 Salão Principal
 !******************************!
 [p_82.txt]
-Salão do Primeiro Andar
+Corredor
 !******************************!
 [p_83.txt]
 Sala de Jantar
