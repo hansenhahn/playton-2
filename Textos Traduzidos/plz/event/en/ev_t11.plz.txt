@@ -1004,7 +1004,7 @@ generosa, mas eu insisto!
 [t11_330_1300.gds]
 <01:00000001><03:9>b1 smile<03:5>NONE<01:00000002><03:113>Bem, mistério resolvido.<W>
 !------------------------------!
-E com isso, vamos voltar para nossa
+E, com isso, vamos voltar para nossa
 cabine e tirar um merecido descanso.
 !******************************!
 [t11_330_1400.gds]

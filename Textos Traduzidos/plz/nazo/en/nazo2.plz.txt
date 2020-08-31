@@ -1355,40 +1355,40 @@ trabalhar amanhã. Mas se eu tiver ido ao
 trabalho dois dias atrás, então amanhã
 eu tiro folga. Oww yeah!<''>
 
-Suponha que o ano tenha 365 dias e não leve
-em conta feriados nem férias. Quantos dias
-por ano Sammy trabalha?
+Suponha que o ano tenha 365 dias e ignore
+fins de semana e feriadoss. Quantos dias
+por ano o Sammy trabalha?
 !******************************!
-Ponto!
+Feito!
 
 A explicação extensa e confusa do Sammy
-pode ter sido difícil de entender, mas o
-cronograma de trabalho é simples. Ele
-trabalha três dias consecutivos, descansa
-por dois e então repete o padrão. Em outras
-palavras, o Sammy trabalha de três a cada
-cinco dias. 3/5 de um ano de 365 dias lhe dá
-219 dia por ano.
+pode ter sido difícil de entender, mas a
+escala de trabalho é simples. Ele trabalha
+três dias consecutivos, descansa por dois
+e então repete o padrão. Em outras palavras,
+o Sammy trabalha em três de cada grupo de
+cinco dias. 3/5 de um ano de 365 dias são
+219 dias por ano.
 
-Esse é um acordo muito bom que ele fez.
+Muito bom esse acordo que ele fez.
 !******************************!
 Que pena!
 
-Veja se você não consegue interpretar a
-descrição bagunçada do Sammy, de modo que
+Tente organizar a descrição maluca
+do Sammy de outro jeito, de modo que
 fique um pouco mais fácil de entender.
 !******************************!
 A rotina de trabalho e folga do Sammy
 repete-se a cada cinco dias.
 !******************************!
-O cronograma do Sammy é um ciclo que
+O escala do Sammy é um ciclo que
 consiste de três dias de trabalho
 seguidos por dois dias de folga.
 !******************************!
 O Sammy trabalha 3/5 dos dias do ano.
-Com esse fato na ponta da sua língua,
-você poderá ser capaz de encontrar a
-resposta com um simples cálculo.
+Sabendo isso, você poderá ser capaz
+de encontrar a resposta com um simples
+cálculo.
 !******************************!
 [n67.dat]
 <0068>Etiqueta de Chapéu
@@ -1398,7 +1398,7 @@ entregar um chapéu, você consegue
 encontrar um outro chapéu perdido no
 padrão abaixo? O chapéu pelo qual você
 está procurando é do mesmo formato e
-tamanho como o de cor preta mostrado
+tamanho que o de cor preta mostrado
 abaixo, mas pode não estar virado para
 a mesma direção que o chapéu de exemplo.
 
@@ -1457,16 +1457,16 @@ criar uma cópia completa do menu?
 Bom trabalho!
 
 Se você dobrar e copiar o menu como
-demonstrado abaixo, você pode fazer uma
-duplicada completa do menu com apenas
+demonstrado acima, você poderá fazer
+uma cópia completa do menu com apenas]
 três passadas pela máquina.
 !******************************!
 Que pena!
 
 Tente esse enigma outra vez.
 !******************************!
-Dobre criativamente e copie duas
-páginas por vez.
+Seja criativo com a dobradura e copie
+duas páginas por vez.
 !******************************!
 Não é porque a dobra deixa o menu
 em dois lados separados que você
@@ -1479,9 +1479,9 @@ de um jeito que garanta que você
 não copie nenhuma página duas vezes.
 !******************************!
 [n69.dat]
-<0070>Colar de Joias
+<0070>O Colar de Joias
 <00><1E><1B><18><71><39><0F><45><F5><03><04><FF>
-<''>Eu tenho esse colar antigo que na verdade
+<''>Eu tenho este colar antigo que, na verdade,
 não é muito do meu gosto. Decidi vendê-lo,
 mas, quando eu estava prestes a calcular o
 preço um dia desses, percebi algo estranho.
@@ -1534,14 +1534,14 @@ Um garoto e uma garota estão conversando
 em uma lanchonete do bairro. À espera da
 bebida, o garoto diz:
 
-<''>Sabe, eu tenho 20 anos, o que é dobro da
-idade que você tinha quando eu tinha a
+<''>Sabe, eu tenho 20 anos, o que é o dobro
+da idade que você tinha quando eu tinha a
 idade que você tem agora... Não é
 interessante?<''>
 
-Como pode ver, este garoto não sabe muito
-ser sucinto, mas, usando o que ele falou,
-você consegue descobrir a idade da garota?
+Como pode ver, este garoto não sabe ser
+sucinto, mas, usando o que ele falou, você
+consegue descobrir a idade da garota?
 !******************************!
 Boa!
 
@@ -1549,7 +1549,7 @@ Uma leitura atenta do enigma mostra que
 quando o garoto tinha a idade atual da
 garota, a idade dela era a metade da idade
 atual do garoto. A idade atual do garoto
-é 20, e a metade disso é 10, então a
+é 20 e a metade disso é 10, então a
 garota só poderia ter 10 na época.
 
 Assim que perceber isso, fica óbvio que a
@@ -1557,7 +1557,7 @@ garota só pode ter 15 atualmente.
 !******************************!
 Que pena!
 
-Decida um numero por onde começar seu
+Escolha um numero por onde começar seu
 raciocínio e continue a partir daí.
 !******************************!
 Comece descobrindo a idade que a garota
@@ -1567,7 +1567,7 @@ dela.
 Que relação tem a idade da garota
 na época e a idade atual do garoto?
 !******************************!
-Talvez você já tenha visualizado, mas se
+Talvez você já tenha percebido, mas se
 multiplicar por dois a idade da garota
 quando o garoto tinha a idade atual dela,
 você descobrirá que a idade atual do
@@ -1584,7 +1584,7 @@ encontrar o número de anos que, somado a
 você estará muito perto de achar a idade
 atual da garota.
 
-Então, qual seria o valor de X?
+Então, qual é o valor de X?
 !******************************!
 [n71.dat]
 <0072>Fotos Embaralhadas
@@ -1592,10 +1592,10 @@ Então, qual seria o valor de X?
 Quatro fotografias decoram a parede do
 estúdio fotográfico do Joseph. As fotos
 retratam a mesma área e foram tiradas
-exatamente no mesmo período do dia.
-Todavia, cada foto foi tirada em datas
-diferentes, e, se olhar atentamente, você
-será capaz de descobrir em qual ordem elas
+exatamente na mesma hora do dia. Todavia,
+as fotos foram tiradas em datas diferentes,
+e, se você olhar atentamente, você será
+capaz de descobrir em qual ordem elas
 foram tiradas. Insira sua resposta usando
 as letras ligadas a cada imagem, começando
 pela que vem primeiro, como: ABCD.
@@ -1607,7 +1607,7 @@ A ordem correta é CDBA.
 Em C, a iluminação pública ainda estava
 para ser implementada, mas em D ela já
 foi finalizada. Em B, há um novo edifício
-na parte de trás da imagem e a janela do
+na parte de trás da foto e a janela do
 restaurante está quebrada. Finalmente,
 em A, a janela quebrada vista em B foi
 consertada e algumas luzes do letreiro do
@@ -1617,31 +1617,31 @@ uma cor diferente.
 !******************************!
 Que pena!
 
-Examine as quatro imagens de novo no
+Examine as quatro fotos de novo no
 caso de ter perdido algum detalhe
 importante.
 !******************************!
 Comece analisando todas as quatro
-imagens para localizar as diferenças
+fotos para localizar as diferenças
 entre elas.
 
 Por exemplo, talvez os edifícios
 estejam diferentes em algumas fotos...
 !******************************!
-A foto C é a única onde as escadas não
-estão iluminadas, porque não há
+A foto C é a única onde as escadas
+não estão iluminadas, porque não há
 iluminação pública visível nela.
 
-As fotos C e D estão ambas sem aquele
-grande edifício laranja no fundo. Em
-contraste, o edifício e a iluminação
-pública estão visíveis nas fotos A e B.
+As fotos C e D estão sem aquele grande
+edifício laranja no fundo. Por outro
+lado, o edifício e a iluminação pública
+estão visíveis nas fotos A e B.
 !******************************!
 A porta do estúdio fotográfico está da
 mesma cor em todas as fotos, exceto na
 foto A. Além disso, na foto B, uma das
 janelas do restaurante está quebrada.
-Todavia a janela está consertada em A,
+Todavia, a janela está consertada em A,
 então esta deve ter sido tirada depois
 de B.
 !******************************!
@@ -1651,15 +1651,15 @@ de B.
 Várias latas idênticas estão penduradas
 em uma árvore. Por mais que todas as latas
 aqui possam parecer vazias, uma está cheia
-de água. Tente descobrir.
+de água. Tente descobrir qual.
 
-Enquanto deduz sua resposta, ignore o peso
-de cada graveto e fio.
+Não leve em consideração o peso de cada
+fio e graveto em sua resposta.
 !******************************!
 Muito bem!
 
 A resposta é A. O maior graveto conecta-se
-no galho no canto da esquerda da parte
+à arvore no canto da esquerda da parte
 central do graveto. Quatro latas estão
 penduradas em cada canto desse grande
 graveto, mas devido ao fio segurando a
@@ -1677,17 +1677,16 @@ Pense mais sobre esse enigma
 e tente novamente.
 !******************************!
 Estude cada lata por vez e observe como
-elas estão suspensas, em relação de uma
+elas estão suspensas em relação uma com
 a outra.
 !******************************!
 Perceba como o maior graveto está
-equilibrado mesmo que ele esteja
-conectado na árvore pelo ponto
-esquerdo do centro do graveto.
+equilibrado mesmo que ele não esteja
+conectado à arvore pelo ponto central.
 
-Isso mostra que a água deve estar em uma
-das quatro latas suspensas do lado
-esquerdo do grande graveto.
+Isso mostra que a água deve estar em
+uma das quatro latas suspensas do lado
+esquerdo do maior graveto.
 !******************************!
 Já sabemos que a água está em uma das
 quatro latas da esquerda, então
@@ -1696,8 +1695,8 @@ açúcar.
 
 Atente-se apenas à posição das quatro
 latas da esquerda e a relação do fio
-anexando as quatro latas com o graveto
-grande acima. Qual lata se parece mais
+segurando as quatro latas com o graveto
+maior acima. Qual lata se parece mais
 pesada que as outras?
 !******************************!
 [n73.dat]
@@ -1706,7 +1705,7 @@ pesada que as outras?
 O alho é um ingrediente maravilhoso quando
 usado com moderação, mas o cheiro pode ser
 bastante forte. Alguém pôs uns dentes de
-alho nesse contêiner e eles realmente estão
+alho nessa garrafa e eles realmente estão
 fedendo na sala. Use as duas rolhas abaixo
 para ajudar o nosso amigo a lidar com
 o odor.
@@ -1717,7 +1716,7 @@ nada mais que duas rolhas.
 !******************************!
 Ah, que alívio!
 
-Cada um dos três buracos no contêiner está
+Cada um dos três buracos na garrafa está
 conectado com os alhos, então não há
 nenhuma maneira de bloqueá-los usando
 apenas duas rolhas. Já que não há forma
@@ -1735,20 +1734,20 @@ nos locais escolhidos.
 !******************************!
 A coisa mais lógica a se fazer primeiro é
 usar a função Notas para traçar quais
-aberturas no contêiner levam para os
+aberturas na garrafa levam para os
 dentes de alho.
 !******************************!
 Hã? Algo parece estranho, você diz?
 
 Bem, sim, o fato de que todas as três
-aberturas do contêiner conectam-se ao
+aberturas da garrafa conectam-se ao
 alho é bem estranho...
 
-Então como conter o odor?
+Então, como conter o odor?
 !******************************!
 Já que a você é permitido usar apenas
-duas rolhas, você não pode bloquear todas
-as três aberturas no contêiner.
+duas rolhas, você não pode bloquear
+todas as três aberturas na garrafa.
 
 Você terá que descobrir outro par de
 aberturas que possam ser bloqueadas

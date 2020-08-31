@@ -2,7 +2,7 @@
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:1>
 !******************************!
 [t18_020_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:192>E com isso, parece que você completou
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:192>E, com isso, parece que você completou
 todos os enigmas do jogo.
 Meus parabéns!<W>
 !------------------------------!
@@ -590,7 +590,7 @@ o lugar antes de irem embora.
 castelo era a chave para os mistérios
 por trás de Folsense e da Caixa Elísia.<W>
 !------------------------------!
-E com isso, Layton e Luke
+E, com isso, Layton e Luke
 começaram uma investigação
 cuidadosa da área.
 !******************************!
