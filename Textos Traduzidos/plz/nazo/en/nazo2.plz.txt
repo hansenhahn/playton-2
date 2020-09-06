@@ -1778,18 +1778,18 @@ Que pena!
 Tente resolver o enigma novamente.
 !******************************!
 Primeiro, conte quantos doces você tem.
-Há quatro tipos de doce. Você só tem
-cinco dos três primeiros tipos, mas 10 do
-quarto tipo. Portanto, é preciso colocar
-dois do quarto tipo em cada uma das cinco
-porções.
+Há quatro tipos de doces. Você tem
+cinco doces dos três primeiros tipos,
+mas 10 doces do quarto tipo. Portanto,
+é preciso colocar dois doces do quarto
+tipo em cada uma das cinco porções.
 !******************************!
 Veja os doces que são de um por porção,
 ou seja, doces cujo total seja cinco.
-Se achar dois desses doces próximos um
-do outro, você pode desenhar uma linha
-entre eles, visto que não podem ficar na
-mesma porção. 
+Se você achar dois desses doces próximos
+um do outro, você pode desenhar uma
+linha entre eles, visto que não podem
+ficar na mesma porção. 
 
 Comece desenhando essas linhas.
 !******************************!
@@ -1810,13 +1810,13 @@ Em uma cidade pacata, há uma torre na qual
 é possível ter uma vista completa da região.
 
 Já que você enxerga todos os edifícios da
-cidade a partir da torre, seria lógico
-pensar que o contrário também se aplica:
-você também pode enxergar a torre a partir
+cidade a partir da torre, é lógico pensar
+que o contrário também se aplica: você
+também pode enxergar a torre a partir
 de qualquer um dos edifícios da cidade.
 Porém, segundo o mapa abaixo, há um edifício
 na cidade do qual é claramente impossível
-enxergar o topo da torre, não importa em
+enxergar o topo da torre, não importa de
 qual janela você esteja olhando.
 
 Consegue achar este edifício?
@@ -1825,7 +1825,7 @@ Bem pensado!
 
 De dentro da torre, não há como ver o topo
 dela. Você pode até tentar colocar a cabeça
-pra fora de uma janela e olhar pra cima, mas
+para fora da janela e olhar para cima, mas,
 ainda assim, não conseguirá enxergar o topo
 da torre.
 !******************************!
@@ -1851,7 +1851,7 @@ lado de fora da torre.
 !******************************!
 Há um edifício do qual você com
 certeza não conseguirá ver o lado
-de fora da torre. E achá-lo será
+de fora da torre. E achá-lo é
 mais óbvio do que você imagina.
 !******************************!
 [n76.dat]
@@ -1862,15 +1862,15 @@ em uma barra de metal, e fizeram com que
 a barra ficasse desequilibrada.
 
 O espaço que há entre as cinco cordas
-dos enfeites é igual, e cada tipo de
+dos enfeites é igual e cada tipo de
 enfeite tem um peso diferente. Três
 enfeites leves pesam o mesmo que um
 enfeite pesado, e dois enfeites leves
 pesam o mesmo que um enfeite médio.
 
 Pegue um dos três enfeites no retângulo
-abaixo e coloque-o no espaço com uma <''>?<''>
-para recuperar o equilíbrio da barra.
+abaixo e coloque-o no espaço com um <''>?<''>
+para colocar a barra em equilíbrio.
 !******************************!
 Bom trabalho!
 
@@ -1878,11 +1878,11 @@ O enfeite de lua crescente tem o peso
 certo para equilibrar as coisas. Um único
 enfeite de estrela pesa o mesmo que um
 sol e uma lua juntos. A corda de enfeites
-que deveria compensar a da <''>?<''> não tem
-nenhum enfeite de estrela, mas se você
+que deveria compensar a corda com <''>?<''> não
+tem nenhum enfeite de estrela, mas se você
 comparar os enfeites como mostrado acima,
-verá qual é o que tem que colocar na <''>?<''>
-para equilibrar o conjunto.
+verá qual enfeite você tem que colocar no
+<''>?<''> para equilibrar o conjunto.
 !******************************!
 Que pena!
 
@@ -1919,19 +1919,20 @@ as duas cordas próximas à do meio.
 <0078>Labirinto de Portas
 <00><19><14><0F><12><47><05><4D><EB><03><04><45>
 Todas as portas no labirinto abrem apenas
-quando empurradas de uma direção, como
-mostrado.
+quando empurradas em uma direção, como
+mostrado abaixo.
 
 No entanto, é impossível passar por cada
-sala enquanto anda pelo labirinto pela
-entrada até a saída. Entretanto, esse feito
-só é possível se uma das portas pudesse ser
-aberta na direção oposta. Por acaso você
-consegue descobrir e circular essa porta?
+sala do labirinto começando pela entrada
+e terminando na saída. Entretanto, esse
+feito é possível se uma das portas puder
+ser aberta na direção oposta. Por acaso
+você consegue descobrir e circular essa
+porta?
 !******************************!
 Você conseguiu!
 
-Você tem que passar por cada sala no
+Você tinha que passar por cada sala no
 caminho até a saída para resolver o enigma,
 mas ninguém disse que você não poderia
 passar pela mesma sala duas vezes.
@@ -1944,16 +1945,15 @@ sobre o problema.
 !******************************!
 Vamos revisar as condições deste enigma.
 Você precisa fazer uma porta abrir na
-direção oposta e se deve passar por
-todas as salas no seu trajeto para a
-saída.
+direção oposta e passar por todas as
+salas no seu trajeto até a saída.
 
-Mas ninguém disse que você só poderia
+Mas ninguém disse que você só pode
 passar por cada sala uma única vez.
 !******************************!
 Começando pela entrada, você logo irá
-se esbarrar na porta que se deve abrir
-pelo lado oposto. Então, para proceder,
+encontrar a porta que você deverá abrir
+na outra direção. Então, para continuar,
 uma das primeiras portas que você irá
 se deparar terá que ser aberta na
 direção oposta.
@@ -1975,7 +1975,7 @@ dentro dessa máquina, então não dá para
 apertá-lo diretamente. Porém, se puxar uma
 das alavancas esquerda ou direita, você
 moverá várias engrenagens e mecanismos na
-máquina, permitindo assim que o botão ao
+máquina, permitindo assim que o botão no
 fundo seja pressionado.
 
 Para apertar o botão verde, você deve
@@ -1989,9 +1989,9 @@ alavanca ao fundo acertar o botão verde.
 
 Já que só há duas respostas possíveis para
 este enigma, você talvez tenha simplesmente
-acertado na base da adivinhação, mas
-se pensar bem, com certeza você
-encontraria a solução sozinho!
+acertado na base da adivinhação, mas se
+pensasse bem, você com certeza chegaria
+na solução!
 !******************************!
 Que pena!
 
@@ -2007,8 +2007,8 @@ Quando uma engrenagem roda junto com
 outra, as duas devem girar em direções
 opostas.
 
-Use a função Notas para memorizar
-a direção do giro de cada engrenagem.
+Use a função Notas para memorizar a
+direção da rotação de cada engrenagem.
 !******************************!
 A engrenagem na parte inferior tem
 que girar em sentido horário para
