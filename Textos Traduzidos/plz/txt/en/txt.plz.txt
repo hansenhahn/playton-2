@@ -2271,12 +2271,12 @@ Molentary Express, você
 provavelmente verá
 Chester, o maitre do
 restaurante. Seu
-compromisso com o serviço
-de restaurante de seus
-clientes tem contribuído
-bastante à reputação
-magnífica do Molentary
-Express.
+comprometimento com o
+bom atendimento aos
+clientes do restaurante
+contribuiu com a
+magnífica reputação
+do Molentary Express.
 !******************************!
 [chr_14.txt]
 Babette é a esposa
@@ -2285,12 +2285,12 @@ Seu objetivo na vida é
 convencer as pessoas ao
 seu redor de que ela
 merece tratamento
-especial. Como ela é fã
-de longa data do vagão-
-restaurante do Molentary
-Express, é com frequência
-que pode-se vê-la lá,
-junto de seu cão, Tom.
+especial. Fã de longa data
+do vagão-restaurante do
+Molentary Express, é de
+se esperar encontrá-la
+com frequência lá, junto
+de seu cão, Tom.
 !******************************!
 [chr_15.txt]
 Esse cão pequenino é o
@@ -2365,9 +2365,9 @@ Express. No seu tempo
 livre, ela gosta de
 cozinhar, embora a maior
 parte de seus esforços
-na cozinha tenham gerado
-o infeliz efeito de revirar
-o estômago das pessoas.
+na cozinha tenham 
+embrulhado o estômago
+das pessoas.
 !******************************!
 [chr_20.txt]
 Jacques é o mordomo da
@@ -2637,15 +2637,16 @@ ainda mais crítico quanto
 aos chapéus das pessoas.
 !******************************!
 [chr_4.txt]
-Um cientista brilhante que
-se considera arqui-inimigo
-de Layton, Don Paolo se
-disfarça de Flora para
-obter informações e
-semear o caos. Sem o
-conhecimento de Layton,
-Don Paolo também foi
-aluno de Dr. Schrader.
+Um cientista brilhante
+que se considera
+arqui-inimigo de Layton,
+Don Paolo se disfarça de
+Flora para obter
+informações e semear o
+caos. Sem o conhecimento
+de Layton, Don Paolo
+também foi aluno do Dr.
+Schrader.
 !******************************!
 [chr_40.txt]
 Laurel é uma fazendeira
@@ -2786,8 +2787,8 @@ esse o caso, e a sua
 recuperação milagrosa
 certamente será falada
 em diversas publicações
-médicas, nos anos a
-seguir.
+médicas nos anos
+seguintes.
 !******************************!
 [chr_50.txt]
 Rory é o jovem que você
@@ -2917,8 +2918,8 @@ são do seu interesse.
 !******************************!
 [chr_6.txt]
 Anton é o atual duque de
-Folsense, e durante anos
-correu o boato de que ele
+Folsense e, durante anos,
+correu o boato de que
 era um vampiro. Cinquenta
 anos atrás, Anton se
 separou de seu grande
