@@ -1458,7 +1458,7 @@ Bom trabalho!
 
 Se você dobrar e copiar o menu como
 demonstrado acima, você poderá fazer
-uma cópia completa do menu com apenas]
+uma cópia completa do menu com apenas
 três passadas pela máquina.
 !******************************!
 Que pena!
@@ -2033,61 +2033,61 @@ alavanca no topo!
 O circuito do elevador contém um enigma.
 De acordo com as instruções, você precisa
 fazer a bola azul e a vermelha trocarem
-de lugares para restaurar a energia do
+de lugar para restaurar a energia do
 elevador. Você aceita a tarefa?
 !******************************!
 Bom trabalho!
 
 Então, com quantos movimentos você
 completou essa tarefa? Se você conseguiu
-com 12, pode se dar um tapa nas costas!
+com 12, está de parabéns!
 
 Ah... Escute! Ouviu isso? Parece que
 o elevador está funcionando novamente.
 !******************************!
 Que pena!
 !******************************!
-Há várias formas de resolver esse enigma.
-Uma técnica muito boa é lidar com esses
-blocos com formato de L. Você pode liberar
-um espaço extra movendo esses blocos
-para que eles se encaixem bem com os
-blocos vizinhos.
+Há várias formas de resolver esse
+enigma. Uma técnica muito boa é lidar
+com os blocos na forma de L. Você pode
+liberar um espaço extra movendo esses
+blocos de modo que eles se encaixem 
+perfeitamente com os blocos vizinhos.
 !******************************!
 Para fazer as duas bolas trocarem de
 lugar, você precisa primeiro mover
 uma bola para fora de seu buraco e
 deixá-la em algum lugar enquanto você
-move a outra. Para fazer isso, libere mais
-espaço levando todos os blocos em
-formato de L para o lado esquerdo ou
+move a outra. Para fazer isso, libere
+mais espaço levando todos os blocos em
+forma de L para o lado esquerdo ou
 direito da caixa.
 !******************************!
 Se o método da Dica 2 não está
-funcionando pra você, aqui está outra
+funcionando para você, aqui está outra
 técnica que você pode tentar. Crie um
-espaço unindo os blocos com formato de
+espaço unindo os blocos com forma de
 L juntos, criando retângulos. Para fazer
-isso o seu objetivo deve ser mover os
-blocos com formato de L para os cantos
+isso, o seu objetivo deve ser mover os
+blocos com forma de L para os cantos
 opostos da caixa antes de combiná-los.
 !******************************!
 [n80.dat]
 <0081>O Cofre Antigo
 <00><32><2D><28><11><49><0A><50><53><04><04><FF>
-Descubra a senha de quatro dígitos que abre
-o cofre. Você pode usar os dígitos de 0 a 5
-em sua resposta, mas cada dígito só pode ser
-usado uma vez. As luzinhas próximas de cada
-fileira são a chave para descobrir o código,
-dizendo o quanto em comum aquela fileira tem
-com o código. Uma luz branca indica que o
-dígito está no código, mas em um lugar
-diferente na sequência. Uma luz laranja
-indica um dígito que está no código e está na
-posição correta. Toque nos dígitos na tela
-de baixo para mudá-los e então toque em
-#rEnviar#x quando decidir a sua resposta.
+Descubra a senha de quatro dígitos que
+abre o cofre. Você pode usar os dígitos de
+0 a 5 em sua resposta, mas cada dígito só
+pode ser usado uma vez. As luzes próximas de
+cada fileira são a chave para descobrir o
+código, dizendo o quanto em comum aquela
+fileira tem com o código. Uma luz branca
+indica que o dígito está no código, mas em
+um lugar diferente na sequência. Uma luz
+laranja indica um dígito que está no código
+e está na posição correta. Toque nos dígitos
+na tela de baixo para mudá-los e então toque
+em #rEnviar#x quando decidir a sua resposta.
 !******************************!
 Está certo!
 
@@ -2106,8 +2106,8 @@ da ordem.
 !******************************!
 Você já deve ter percebido, mas cada
 dígito no código está na primeira fileira
-de dígitos. Dois dos dígitos no 4150 estão
-até no lugar correto.
+de dígitos. Dois dos dígitos no número
+4150 estão inclusive no lugar certo.
 !******************************!
 Olhe na terceira fileira de dígitos.
 
@@ -2124,10 +2124,10 @@ Agora descubra onde o 4 e 5 vão ficar.
 <0082>Reiniciando o Elevador
 <00><1E><1B><18><11><49><0F><51><F5><03><04><FF>
 Os fios que conectam o elevador ao botão
-que o controla de alguma forma foram
-danificados. Todavia, se conseguir ligar
-os fios negativos (-) e positivos (+) em
-cima aos fios com a mesma carga abaixo,
+que o controla foram, de alguma forma,
+danificados. Todavia, se você conseguir
+ligar os fios negativos (-) e positivos (+)
+em cima aos fios de mesma carga abaixo,
 você poderá consertar o elevador. Para
 isso, desenhe linhas entre os conjuntos
 de terminais. Desenhe duas linhas para
@@ -2157,8 +2157,8 @@ que estão conectados a alguma outra
 resposta viáveis.
 
 No grupo de cima de fios, o mais à
-direita e o terceiro da direita vão
-para fora da tela.
+direita e o terceiro da direita para
+a esquerda vão para fora da tela.
 !******************************!
 O terminal mais à esquerda no conjunto
 de quatro na parte de cima está
@@ -2173,13 +2173,12 @@ outros três terminais necessários.
 <00><1E><1B><18><01><2E><0D><05><F3><03><04><30>
 Aqui vai um enigma saboroso para você.
 
-Você consegue mover a pilha de panquecas do
-prato azul à esquerda para o prato vermelho
-à direita? Espera aí, não é tão fácil quanto
-parece. Você deve seguir estas regras:
-
-<60> Você só pode mover uma panqueca de cada
-vez.
+Você consegue mover a pilha de panquecas
+do prato azul à esquerda para o prato
+vermelho à direita? Espere aí, não é tão
+fácil quanto parece. Você deve seguir
+estas regras:
+<60> Você só pode mover uma panqueca por vez.
 <60> Você não pode colocar uma panqueca grande
 em cima de uma pequena.
 
@@ -2197,17 +2196,17 @@ Que pena!
 Embora você talvez tenha conseguido
 resolver o primeiro enigma de <''>Pilhas de
 Panquecas<''> só movendo as panquecas
-aleatoriamente pelos pratos, você terá que
-pensar um pouco mais se quiser achar uma
-solução dessa vez.
+aleatoriamente pelos pratos, você terá
+que pensar um pouco mais se quiser achar
+uma solução dessa vez.
 
-Veja se você consegue bolar uma regra
-que lhe permita mover as panquecas de
-forma mais eficiente.
+Veja se você consegue pensar em uma
+regra que lhe permita mover as panquecas
+de forma mais eficiente.
 !******************************!
-Bolar um jeito eficaz de mover a panqueca
-menor é a chave para resolver este
-enigma, porque você não pode colocar
+Pensar em um jeito eficiente de mover a
+panqueca menor é a chave para resolver
+este enigma, porque você não pode colocar
 nada em cima dela. Pense na sequência
 de jogadas que você deve repetir para
 manter essa panquequinha separada
@@ -2215,29 +2214,27 @@ por enquanto.
 !******************************!
 Mova a panqueca menor para o prato do
 meio e coloque a segunda panqueca menor
-no prato vermelho.
-Depois, mova a panqueca menor para cima
-da panqueca da direita, e traga uma nova
-panqueca para cá, para ocupar o prato do
-meio. Depois disso, pegue a panqueca menor
-e mova-a para o prato da esquerda.
-Repita esse padrão, e enquanto move as
-outras panquecas pelos pratos, você
-conseguirá resolver o enigma sem mais
-delongas.
+no prato vermelho. Depois, mova a
+panqueca menor para cima da panqueca da
+direita, e traga uma nova panqueca para
+cá, para ocupar o prato do meio. Depois
+disso, pegue a panqueca menor e mova-a
+para o prato da esquerda. Repita esse
+padrão e, enquanto move as outras
+panquecas pelos pratos, você conseguirá
+resolver o enigma sem mais delongas.
 !******************************!
 [n83.dat]
 <0084>Pilhas de Panquecas 3
 <00><28><24><20><01><2E><0D><05><F3><03><04><FF>
 Aqui vai um enigma saboroso para você.
 
-Você consegue mover a pilha de panquecas do
-prato azul à esquerda para o prato vermelho
-à direita? Espera aí, não é tão fácil quanto
-parece. Você deve seguir estas regras:
-
-<60> Você só pode mover uma panqueca de cada
-vez.
+Você consegue mover a pilha de panquecas
+do prato azul à esquerda para o prato
+vermelho à direita? Espere aí, não é tão
+fácil quanto parece. Você deve seguir
+estas regras:
+<60> Você só pode mover uma panqueca por vez.
 <60> Você não pode colocar uma panqueca grande
 em cima de uma pequena.
 
@@ -2255,25 +2252,25 @@ Ainda não consegue resolver? Tente
 seguir as dicas dadas em <''>Pilhas de
 Panquecas 2<''>. Esta é a última dica que
 você vai ter para resolver este enigma,
-então você estaria jogando moeda fora
-se gastasse uma moeda de dicas aqui.
-Tudo que vai receber são curiosidades,
-então considere-se avisado!
+então você estará desperdiçando suas
+moedas se usar uma moeda de dicas aqui.
+Tudo o que vai receber são curiosidades,
+então, considere-se avisado!
 !******************************!
 Parece que você decidiu gastar uma moeda
 de dica mesmo assim. Deve ser legal ter
-moeda de dica sobrando pra torrar!
-OK então, toma aí pra ti um fato curioso:
+moedas de dica sobrando para torrar!
+Tudo bem, aí vai um fato curioso:
 
 Esses enigmas de panquecas são baseados
-num enigma chamado de Torre de Hanói, que
-pode ser resolvido usando um conceito
+em um enigma chamado de Torre de Hanói,
+que pode ser resolvido usando um conceito
 em ciências da computação chamado de
 recursividade. Isso pode não ser de muita
 ajuda para você agora, mas ainda assim é
 interessante, não acha?
 !******************************!
-Beleza então, ô <''>ricasso<''>. Agora toma:
+Certo então, <''>ricaço<''>. Lá vai:
 
 Édouard Lucas, o matemático francês tido
 como a mente por trás do problema da
@@ -2312,9 +2309,9 @@ Que pena!
 Olhe para a estrutura tridimensional
 de cada forma.
 !******************************!
-Gire cada forma em 90 graus para
-obter uma nova perspectiva que
-o ajudará a resolver o enigma.
+Gire cada forma em 90 graus para ter
+uma outra perspectiva, que será
+fundamental para resolver o enigma.
 !******************************!
 Se olhar com atenção, talvez você
 perceba que as formas estão escondendo
@@ -2338,14 +2335,15 @@ desenhar a imagem.
 !******************************!
 Bom trabalho!
 
-A sequência peculiar de imagens é, na verdade,ss
-as seis primeiras letras do alfabeto
-mostradas numa fonte de relógio digital
-e espelhadas como mostrado acima.
+A sequência peculiar de imagens é, na
+verdade, as seis primeiras letras do
+alfabeto mostradas em uma fonte de sete
+segmentos e espelhadas como mostrado
+acima.
 
-Já que você tinha as letras de B a F, a lógica
-pede que a imagem desaparecida fosse ser
-uma versão espelhada da letra A.
+Já que você tinha as letras de B a F, é
+lógico deduzir que a imagem desaparecida
+fosse ser uma versão espelhada da letra A.
 !******************************!
 Que pena!
 
@@ -2374,28 +2372,29 @@ foram colocadas.
 Reorganize as cartas remanescentes para
 que cada coluna vertical, fileira horizontal
 e linha diagonal de quatro cartas contenha
-uma quarta de cada naipe. Toque uma carta
+um tipo de cada naipe. Toque uma carta
 para trocar seu naipe.
 !******************************!
 Bom trabalho!
 
-Esse de agora fez seu cérebro sair fumaça?
-É um ótimo enigma para se montar com
-cartas reais e compartilhar com os amigos.
+Este enigma fez sair fumaça do seu
+cérebro? Ele é um ótimo enigma para se
+montar com cartas reais e desafiar
+seus amigos.
 !******************************!
 Que pena!
 
 Confira sua resposta para se certificar
 de que não cometeu nenhum erro.
 !******************************!
-Há uma carta em cima da mesa que
-pertence à fileira na que a de copas
-está, à coluna em que a de paus está, e
-na linha diagonal em que a de ouros está.
-Portanto, você pode concluir seguramente
-que essa carta tem que ser de espadas.
-Essa é a logica a qual se precisa seguir
-para resolver o enigma.
+Há uma carta na mesa que pertence
+à fileira onde está a de copas, à
+coluna onde está a de paus, e à linha
+diagonal onde está a de ouros. Portanto,
+você pode com certeza concluir que essa
+carta tem que ser de espadas. Essa é a
+lógica a qual você precisa seguir para
+resolver o enigma.
 !******************************!
 Qual carta você acha que deve ficar no
 canto inferior esquerdo? Essa coluna já
@@ -2409,13 +2408,13 @@ preencher o último espaço na coluna mais
 da esquerda, que tem de ser uma de
 espadas.
 !******************************!
-A carta no canto superior direita é uma
+A carta no canto superior direito é uma
 de espadas e a na base dessa mesma
 coluna é uma de copas.
 
 O resto da resposta depende de você,
 mas não deve ser mais difícil descobrir
-desse ponto agora.
+a partir de agora.
 !******************************!
 [n87.dat]
 <0088>O Trajeto do Sapo
@@ -2432,15 +2431,15 @@ os saltos.
 
 O objetivo desse sapo é aterrissar
 exatamente no espaço verde. Qual é o menor
-número de saltos que ele precisa fazer pra
+número de saltos que ele precisa fazer para
 completar essa tarefa?
 !******************************!
 É assim que se faz!
 
 Como mostrado nesse diagrama, se você
 fizer o sapo pular de volta no caminho
-que ele veio duas vezes, ele pode ir
-para o espaço verde com 12 saltos.
+que ele veio duas vezes, ele pode chegar
+ao espaço verde com 12 saltos.
 !******************************!
 Que pena!
 
@@ -2450,8 +2449,8 @@ A solução para esse enigma requer que
 o sapo volte o caminho que ele veio
 um certo número de vezes.
 !******************************!
-Já ouviu falar do ditado <''>um passo pra
-frente, dois passos pra trás<''>?
+Já ouviu falar do ditado <''>um passo para
+frente, dois passos para trás<''>?
 
 Essa frase é bem útil de se lembrar, mas
 não siga esse conselho tão literalmente.
@@ -2463,11 +2462,11 @@ O sapo terá que retroceder duas vezes.
 <00><28><24><20><11><29><16><58><F6><03><04><1A>
 Neste jardim, temos quatro canteiros de
 flores de formato circular, cada um com um
-raio de 10 metros. Quando dispostos tal como
-exibido abaixo, é formado um espaço entre
-os canteiros. Você consegue calcular a área,
-em metros quadrados, do espaço de cor
-vermelha?
+raio de 10 metros. Quando dispostos tal
+como mostrado abaixo, é formado um espaço
+entre os canteiros. Você consegue calcular
+a área, em metros quadrados, do espaço de
+cor vermelha?
 
 Ignore a borda dos canteiros ao calcular
 sua resposta.
@@ -2478,13 +2477,13 @@ A seção vermelha possui uma área de 400
 metros quadrados. Se você dividir o espaço
 entre os canteiros em quatro seções e
 colocar essas peças ao redor do círculo,
-como na figura à direita, poderá transformar
-o círculo em um quadrado. Assim, os lados do
-quadrado terão o mesmo comprimento que o
-diâmetro de um canteiro de flores: 20 metros.
-Se você elevar essa medida ao quadrado,
-obterá a área da forma, e consequentemente
-a resposta.
+como na figura à direita, poderá
+transformar o círculo em um quadrado.
+Assim, os lados do quadrado terão o mesmo
+comprimento que o diâmetro de um canteiro
+de flores: 20 metros. Se você elevar essa
+medida ao quadrado, obterá a área da forma,
+e consequentemente a resposta.
 !******************************!
 Que pena!
 
@@ -2498,24 +2497,24 @@ este enigma!
 Se você desenhar linhas retas
 perpendiculares dentro do espaço
 que há entre os canteiros, verá que
-forma-se um quadrado!
+elas formam um quadrado!
 !******************************!
 Desenhe um conjunto de linhas diagonais
-que vão de cada ponto onde dois canteiros
+que vão dos ponto onde dois canteiros
 se encostam, até o centro do diagrama
 (o ponto central entre todos os quatro
 canteiros). Isso deve dividir o espaço
 central em quatro partes que, se
-encaixadas num canteiro, faz ele mudar
+encaixadas em um canteiro, faz ele mudar
 de forma. Que forma seria essa, e como
 ela impacta na resolução deste enigma?
 !******************************!
 [n89.dat]
 <0090>A Fonte Incomum
 <00><14><12><10><11><34><05><59><EB><03><04><FF>
-Uma fonte mostrada abaixo tem uma
-habilidade incomum de dizer a idade
-daqueles que se aproximam dela.
+A fonte mostrada abaixo tem um jeito
+incomum de dizer a idade daqueles que
+se aproximam dela.
 
 Por exemplo, se uma criança de cinco
 anos se aproximasse, a fonte soltaria água
@@ -2525,8 +2524,8 @@ soltaria água, seguido pelos A a E.
 Para alguém com 30, o esguicho do meio
 soltaria água três vezes. Tendo em vista
 o método da fonte de dizer a idade, há
-um esguicho deveras inútil na fonte.
-Ache e circule esse esguicho.
+um esguicho inútil na fonte. Ache e
+circule esse esguicho.
 !******************************!
 Bom faro!
 
@@ -2543,9 +2542,9 @@ Pense melhor sobre o método
 da fonte de dizer a idade.
 !******************************!
 O enigma está pedindo para você
-encontrar um esguicho que é deveras
-inútil, o que significa que ele nunca
-é usado. Qual seria?
+encontrar um esguicho que é inútil,
+o que significa que ele nunca é
+usado. Qual seria?
 !******************************!
 Leia atentamente as condições que 
 fazem com que cada esguicho solte 
