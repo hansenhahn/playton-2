@@ -2130,13 +2130,13 @@ chef Macaroon. Não é à toa que
 ele come tanto.
 !******************************!
 [art_3.txt]
-Uma garota desconhecida se esbarra
+Uma garota desconhecida esbarra
 com Luke e Layton no trem. Eles
 deviam estar distraídos, porque
 esse disfarce não engana ninguém.
 !******************************!
 [art_4.txt]
-Aqui temos a vaca ganhadora do
+Aqui temos a vaca vencedora do
 desfile das vacas do Aniversário
 de 50 anos de Dropstone, e, ao lado
 dela, o seu orgulhoso dono.
@@ -2156,10 +2156,10 @@ dá tão bem com os animais? Au au!
 Quem culparia Precious por avançar
 em cima de um pedaço de pernil tão
 suculento desses? Ahh, como ele
-tá feliz!
+está feliz!
 !******************************!
 [art_8.txt]
-Katia, mais jovem, brinca num dia
+Katia, mais jovem, brinca em um dia
 ensolarado em Dropstone. A mulher
 brincando com ela também deve lhe
 ser familiar.

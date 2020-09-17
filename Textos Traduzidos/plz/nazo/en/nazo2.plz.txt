@@ -14,22 +14,21 @@ esta desaparecerá do tabuleiro.
 <60> O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
-OK, tá bom de tanta regra. Tente resolver.
+Chega de tanta regra. Tente resolver.
 !******************************!
 Muito bem!
 
 Essa é uma variação de um enigma conhecido
-como "Resta Um". Como o nome sugere, a
-versão tradicional desse jogo é jogada com
-peças que você insere em buracos no
-tabuleiro.
+como "Resta Um". A versão tradicional
+deste jogo é jogada com peças que você
+insere em buracos no tabuleiro.
 !******************************!
 Que pena!
 !******************************!
-Comece pegando a bolinha que está bem
-no meio da "cruz" no tabuleiro, e saltando
-por cima da bolinha que está imediatamente
-à sua esquerda, ou direita.
+Comece pegando a bolinha que está
+bem no meio da "cruz" no tabuleiro, e
+saltando por cima da bolinha que está
+imediatamente à sua esquerda, ou direita.
 !******************************!
 Pegue a bolinha que está lá embaixo, e
 mova-a para o espaço anteriormente
@@ -41,8 +40,7 @@ resolver o restante do enigma.
 !******************************!
 Com enigmas desse tipo, sua primeira
 jogada geralmente é a que vai determinar
-se você conseguirá resolver o enigma
-ou não.
+se você vai resolver o enigma ou não.
 !******************************!
 [n101.dat]
 <0102>Resta Um 2
@@ -60,9 +58,9 @@ esta desaparecerá do tabuleiro.
 <60> O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
-OK, tá bom de tanta regra. Tente resolvê-lo.
+Chega de tanta regra. Tente resolvê-lo.
 !******************************!
-Cê sacou a solução!
+Você sacou a solução!
 
 Resta Um é um enigma com uma longa história.
 Dizem que se tornou popular por volta do
@@ -2573,7 +2571,7 @@ abaixo:
 
 <''>Quero que meus quatro garotos recebam
 cada um uma parte de meu terreno contendo
-uma orquídea, uma casa, uma lagoa e um campo
+uma árvore, uma casa, uma lagoa e um campo
 aberto. Todos devem receber um pedaço de
 terra de mesmo tamanho.<''>
 
@@ -2591,8 +2589,8 @@ Tente mais uma vez o enigma.
 !******************************!
 Há 16 quadrados a serem divididos por
 quatro pessoas, então cada pessoa deve
-receber um pedaço de terra consistente
-em quatro quadrados.
+receber um pedaço de terra de quatro
+quadrados.
 !******************************!
 Desenhe uma linha no meio do mapa
 do topo até embaixo.
@@ -2626,10 +2624,10 @@ possível, dadas as condições do enigma.
 !******************************!
 Que pena!
 
-Neca, não é isso não.
+É, não é isso não.
 !******************************!
 O minério de ouro vale 5 vezes mais
-que o de cobre, então concentre em
+que o de cobre, então concentre-se em
 clamar quadrados com esse tipo de
 metal.
 
@@ -2674,18 +2672,18 @@ tem 30, implicando dizer que a diferença
 de idade dos dois é igual à idade da garota,
 como ela disse.
 
-Quanto à sua irmã mais velha, ela tem 10 anos.
-É o dobro da idade da garota, e um terço da
-idade de sua mãe. Daqui a cinco anos, a
-garota terá 10 anos, o que é a idade de sua
-irmã agora.
+Quanto à sua irmã mais velha, ela tem 10
+anos. É o dobro da idade da garota, e um
+terço da idade de sua mãe. Daqui a cinco
+anos, a garota terá 10 anos, o que é a
+idade de sua irmã agora.
 
 As crianças de hoje em dia crescem rápido!
 !******************************!
-Neca!
+Não!
 
 Alguém crescidinho que nem você
-já devia conseguir resolver esse
+já devia conseguir resolver este
 enigma sozinho!
 !******************************!
 Quando você tem um enigma como este,
@@ -2697,7 +2695,7 @@ dela talvez não vá lhe ajudar. Mas a
 idade de sua irmã pode ser mais útil...
 !******************************!
 A irmã da garota é duas vezes mais
-velha que ela, e daqui a cinco anos,
+velha que ela e, daqui a cinco anos,
 a garota terá a idade que sua irmã
 tem hoje.
 !******************************!
@@ -2722,7 +2720,7 @@ todos os cubinhos, que não estão visíveis,
 estão encostadas numa face da mesma letra
 que a de outro cubo.
 
-Sabendo disso, consegue descobrir qual
+Sabendo disso, vocÊ consegue descobrir qual
 letra pertence à face apontada pela seta?
 Sua resposta será uma letra, de A a F.
 !******************************!
@@ -2741,8 +2739,7 @@ tipo de enigma funciona.
 !******************************!
 A resposta deste enigma não vai
 simplesmente surgir na sua cabeça
-depois que você se deparar com um
-fato importante. Você terá que
+após uma epifania. Você terá que
 chegar até ela usando a lógica.
 
 Observe que as três faces ocultas do
@@ -2780,8 +2777,8 @@ dentro dela.
 Muito legal!
 
 Se colocar os livros tal como mostrado
-abaixo, caberão nada mais e nada menos
-que seis livros nela!
+acima, caberão nada mais e nada menos
+do que seis livros nela!
 !******************************!
 Que pena!
 
@@ -2807,7 +2804,7 @@ sobrando nos dois lados. Aliás, isso não
 !******************************!
 Mesmo se você posicionar três livros na
 vertical dentro da caixa e usar mais dois
-pra ocupar todo o espaço restante que
+para ocupar todo o espaço restante que
 puder, ainda terá um bom espaço
 desperdiçado em mãos. Organizar os
 livros usando o espaço da caixa da forma
@@ -2819,11 +2816,11 @@ importância para resolver este enigma.
 <00><1E><1B><18><11><2B><02><5F><E8><03><04><2F>
 Que susto! Tem um fantasma na floresta!
 
-... Ou pelo menos era o que você pensava, até
-perceber que o espectro flutuando em sua
-frente era apenas uma figura de madeira
-pendurada numa árvore. Quando você olha em
-volta, percebe que há quatro tábuas de
+... Ou pelo menos era o que você pensava,
+até perceber que o espectro flutuando na
+sua frente era apenas uma figura de madeira
+pendurada em uma árvore. Quando você olha
+em volta, percebe que há quatro tábuas de
 madeira jogadas na grama. De qual dessas
 tábuas saiu o fantasma?
 
@@ -2851,13 +2848,13 @@ Acha que encontrou a resposta?
 Tem certeza? Bom, só por desencargo de
 consciência, compare seu contorno com o
 fantasma mais uma vez. Não se esqueça
-de dar atenção para os pequenos detalhes,
-como o formato de suas mãos.
+de dar atenção para os pequenos
+detalhes, como o formato de suas mãos.
 !******************************!
 Você deve prestar bastante atenção
 ao tamanho da cauda do fantasma.
 !******************************!
-Tome nota da direção que os braços
+Tome nota da direção em que os braços
 do fantasma devem estar!
 
 Ah, e caso não saiba, a tábua que está
@@ -2890,12 +2887,12 @@ Que pena!
 Há pelo menos uma linha ou coluna em sua
 solução que não precisa ter três estrelas.
 !******************************!
-Você tem que encontrar um ponto de apoio
-para começar, e as estrelas que estão
-bloqueadas em seus blocos sem borda
-devem servir. Lembre-se de que se uma linha
-já tiver duas estrelas, você só poderá
-colocar mais uma.
+Você tem que encontrar um ponto de
+apoio para começar, e as estrelas que
+estão bloqueadas em seus blocos sem
+borda devem servir. Lembre-se de que
+se uma linha já tiver duas estrelas,
+você só poderá colocar mais uma.
 !******************************!
 A linha superior tem dois blocos sem borda
 que não podem ser movidos. Dentro desses
@@ -2923,7 +2920,7 @@ como na sua direita.
 <0098>Frascos e Latas 1
 <00><19><16><13><11><3A><1E><61><03><04><04><FF>
 Uma série de frascos e latas estão neste
-balcão. Sua tarefa é colocá-los de modo
+balcão. Sua tarefa é arranjá-los de modo
 que todos os frascos estejam juntos em
 um lado e as latas no outro. Porém, ao
 fazê-lo, lembre-se de que sempre tem que
@@ -2935,9 +2932,10 @@ objetos selecionado com a caneta stylus.
 !******************************!
 Muito bem!
 
-Agora os frascos e latas estão organizados
-bem direitinho. Quem dera se ao menos
-as pessoas fossem mais organizadas...
+Agora os frascos e latas estão
+organizados bem direitinho. Quem
+dera se ao menos as pessoas fossem
+mais organizadas...
 !******************************!
 Que pena!
 !******************************!
@@ -2973,9 +2971,9 @@ de prata e de ouro.
 Mas o que temos aqui? Outro enigma de
 frascos e latas! E desta vez, há ainda
 mais. Tal como antes, o que você precisa
-fazer é colocar esses objetos de forma que
-todos os frascos sejam agrupados de um
-lado, e as latas do outro. Porém, ao
+fazer é arranjar esses objetos de forma
+que todos os frascos sejam agrupados de
+um lado e as latas do outro. Porém, ao
 fazê-lo, lembre-se de que sempre tem que
 mover um par de objetos ao mesmo tempo.
 
@@ -2985,9 +2983,9 @@ objetos selecionado com a caneta stylus.
 !******************************!
 Muito bem!
 
-Este enigma é baseado em um quebra-cabeça
-muito conhecido no Japão desde o
-período Edo.
+Este enigma é baseado em um
+quebra-cabeça muito conhecido no
+Japão desde o período Edo.
 !******************************!
 Que pena!
 !******************************!
@@ -3040,21 +3038,21 @@ segurança através da ponte, enquanto evita
 qualquer buraco nas tábuas. O Luke estará
 seguro quando ele pisar na pegada vermelha.
 !******************************!
-Essa foi uma caminhada bem chique!
+Essa foi uma caminhada bem diferente!
 
-O nono passo que escolher deixará o Luke
-em segurança após atravessar da ponte.
+O nono passo que você deu fez o Luke
+atravessar a ponte em segurança.
 !******************************!
 Que pena!
 
 Olha onde pisa!
 !******************************!
 O primeiro passo que o Luke deve dar
-é com o seu pé esquerdo.
+é com o pé esquerdo.
 !******************************!
 O último passo que o Luke deve dar é
-com o seu pé esquerdo. O penúltimo
-passo o deixará a uma tábua de distância.
+com o pé esquerdo. O penúltimo passo
+deixará a uma tábua de distância.
 !******************************!
 O nono passo do Luke o levará para
 o objetivo.
