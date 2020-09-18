@@ -93,7 +93,7 @@ O resto do enigma é com você.
 [n102.dat]
 <0103>Resta Um 3
 <00><28><24><20><01><23><1D><8A><02><04><04><2E>
-Hmm, agora tá ficando mais difícil.
+Hmm, agora está ficando mais difícil.
 Você pode mover qualquer bolinha no
 tabuleiro abaixo, desde que satisfaça
 as seguintes condições:
@@ -106,7 +106,7 @@ esta desaparecerá do tabuleiro.
 <60> O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
-OK, tá bom de tanta regra. Tente resolvê-lo.
+Chega de tanta regra. Tente resolvê-lo.
 !******************************!
 Bom trabalho!
 
@@ -117,14 +117,14 @@ tabuleiro de estilo inglês.
 !******************************!
 Que pena!
 !******************************!
-Eita, esses enigmas estão mesmo ficando
-difíceis. Segue uma dica pra te dar uma
+É, esses enigmas estão mesmo ficando
+difíceis. Segue uma dica para te dar uma
 mãozinha aqui.
 
 Comece eliminando a terceira bolinha,
-da esquerda pra direita, na última linha.
+da esquerda para direita, na última linha.
 !******************************!
-Em seguida, mova a última bolinha para a
+Em seguida, mova a última bolinha da
 esquerda da última linha para o espaço
 que você acabou de deixar livre, segundo
 a dica anterior. Repita o processo
@@ -137,16 +137,16 @@ pinheiro.
 O resto do enigma agora é com você.
 !******************************!
 Ei, a Dica 2 não dizia claramente que
-<''>o resto é agora com você<''>? Bom, saiba
-que não dá pra confiar muito em dicas nos
-enigmas de <''>Desaparecimento<''> que virão!
+<''>o resto agora é com você<''>? Bom, saiba
+que não dá para confiar muito em dicas nos
+enigmas de <''>Resta Um<''> que virão!
 Mesmo assim, vou te dar uma dica dessa
 vez.
 
 Escolha uma das bolas da parte externa
 do pinheiro e salte para cima. Então,
 desse ponto, salte por cima da parte
-superior da árvore. OK, desta vez,
+superior da árvore. Certo, desta vez,
 o resto é realmente com você.
 !******************************!
 [n103.dat]
@@ -164,9 +164,9 @@ esta desaparecerá do tabuleiro.
 <60> O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
-OK, tá bom de tanta regra. Tente resolvê-lo.
+Chega de tanta regra. Tente resolvê-lo.
 !******************************!
-Beleza!
+Excelente!
 
 A única condição para resolver esses enigmas
 era eliminar todas as bolinhas do tabuleiro
@@ -183,18 +183,18 @@ Que pena!
 Esses enigmas são bem mais divertidos
 quando você tenta achar a solução deles
 sozinho. Não vá depender das Dicas 2 e 3
-pra resolver o enigma pra você.
+para resolver o enigma para você.
 
-Comece o enigma pegando a bolinha no
-centro da segunda linha, e movendo-a
+Comece o enigma pegando a bolinha
+no centro da segunda linha e mova-a
 para cima.
 !******************************!
-Não tem mais dicas pra dar! Em vez disso,
+Não tem mais dicas para dar! Em vez disso,
 segue um fato curioso. Você sabia que
 "Resta Um" na verdade é conhecido como
 brainvita, na Índia?
 
-Ah, só pra que você fique sabendo, a
+Ah, só para que você fique sabendo, a
 Dica 3 também é só de curiosidades.
 !******************************!
 Existem vários jogos conhecidos como
@@ -210,7 +210,7 @@ nesse mesmo estilo.
 [n104.dat]
 <0105>Resta Um 5
 <00><3C><36><30><01><44><1D><8A><02><04><04><FF>
-Pode ir se preparando, porque esse aqui vai
+Pode ir se preparando, porque este aqui vai
 ser difícil. Tal como antes, você pode mover
 qualquer bolinha no tabuleiro abaixo, desde
 que satisfaça as condições a seguir:
@@ -223,7 +223,7 @@ esta desaparecerá do tabuleiro.
 <60> O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
-OK, tá bom de tanta regra. Tente resolvê-lo.
+Chega de tanta regra. Tente resolvê-lo.
 !******************************!
 Muito bem feito!
 
@@ -250,7 +250,7 @@ Em vez disso, seu primeiro objetivo é
 mover as peças de modo que você consiga
 se livrar de uma dessas quatro bolinhas
 situadas nas extremidades do losango.
-Mas de onde começar?
+Mas por onde começar?
 !******************************!
 Tá, tá, vou te dar outra dica.
 
@@ -265,7 +265,7 @@ Se seguir a Dica 2 e continuar fazendo
 jogadas sozinho, você conseguirá fazer
 com que as bolinhas restantes fiquem em
 uma forma que é quase igual ao pinheiro
-que viu em <''>Desaparecimento 3<''>. Use o que
+que viu em <''>Resta Um 3<''>. Use o que
 aprendeu nesse enigma para terminar o
 restante.
 !******************************!
@@ -276,14 +276,13 @@ Leve o cavalo em um passeio ao redor do
 tabuleiro.
 
 No xadrez, os cavalos se movem dois espaços
-para frente, e um espaço perpendicular a
+para frente e um espaço perpendicular a
 cada jogada. A direção inicial pode ser
 para cima, baixo, esquerda ou direita.
 
 Mova este cavalo ao redor do tabuleiro
 inteiro, parando em cada espaço apenas
 uma vez. 
-
 !******************************!
 Muito bem!
 
@@ -319,28 +318,28 @@ Leve o cavalo em um passeio ao redor do
 tabuleiro.
 
 No xadrez, os cavalos se movem dois espaços
-para frente, e um espaço perpendicular a
+para frente e um espaço perpendicular a
 cada jogada. A direção inicial pode ser
 para cima, baixo, esquerda ou direita.
 
 Mova este cavalo ao redor do tabuleiro
 inteiro, parando em cada espaço apenas
-uma vez.
+uma vez. 
 !******************************!
 Muito bem!
 !******************************!
 Que pena!
 !******************************!
 Existem várias soluções para este enigma,
-então antes de começar a queimar
-neurônios, tente se mover por aí
+então, antes de começar a queimar
+neurônios, tente mover o cavalo por aí
 de acordo com seu próprio conjunto
-de regras. É bem capaz de conseguir
+de regras. É bem capaz de você conseguir
 resolver só por ir movendo a peça de
 xadrez aleatoriamente.
 !******************************!
 Como um plano geral de ataque, comece
-passeando ao redor do perímetro do
+passeando ao redor da borda do
 tabuleiro e, assim que sentir que chegou
 a hora, vá em direção ao centro do
 tabuleiro.
@@ -362,7 +361,7 @@ Leve o cavalo em um passeio ao redor do
 tabuleiro.
 
 No xadrez, os cavalos se movem dois espaços
-para frente, e um espaço perpendicular a
+para frente e um espaço perpendicular a
 cada jogada. A direção inicial pode ser
 para cima, baixo, esquerda ou direita.
 
@@ -414,7 +413,7 @@ chega, o cachorro, então, se vira e vai até
 a garotinha. O cachorro segue fazendo isso
 até que o pai alcança a filha. Se o cachorro
 se move a cinco metros por segundo, o pai a
-dois metros por segundo, e a filha a um metro
+dois metros por segundo e a filha a um metro
 por segundo, qual será a distância que o
 cachorro terá percorrido até o pai
 finalmente alcançar a filha?
@@ -521,7 +520,7 @@ mas retornos são estritamente proibidos!<''>
 
 Os tiras completaram seu turno e voltaram
 para relatar. Julgando pelos seus relatórios,
-parece que, pelo menos, um homem estava
+parece que um homem, pelo menos, estava
 vadiando em serviço. Toque nos números que
 você acha que são suspeitos para marcar X.
 !******************************!
@@ -568,12 +567,12 @@ horizontalmente a tela.
 <0112>Ligue a Luz
 <00><28><24><20><11><33><0F><6F><F5><03><04><FF>
 O quadro mostrado na imagem à esquerda
-está ligado na parte de baixo, de modo que
-que ao ligar os pontos de contatos A e B,
-a luz é ligada.
+está ligado na parte de baixo de modo que,
+ao ligar os pontos de contatos A e B, a luz
+é ligada.
 
-Agora olhe para o quadro no centro. Esta
-luz tem três pontos de contato: A, B e C.
+Agora olhe para o quadro no centro. Este
+quadro tem três pontos de contato: A, B e C.
 Não importa onde você mantém o contato
 entre A e B, B e C ou A e C, a luz continua
 acesa. Nesse caso, quantos fios devem
@@ -584,9 +583,9 @@ indicam um fio já conhecido.
 !******************************!
 Ideia brilhante!
 
-Tudo o que realmente se precisa fazer
+Tudo o que realmente você precisa fazer
 é ligar essa lâmpada a uma bateria. 
-O enigma o informa que a luz fica acesa
+O enigma informa que a luz fica acesa
 independentemente da combinação dos
 pontos de contato. 
 
@@ -639,9 +638,10 @@ par de lados opostos é igual a sete.
 !******************************!
 Isso mesmo!
 
-Haja vista que você sabe que a soma de cada
-par de lados opostos dá sete, você consegue
-facilmente diminuir as possibilidades. 
+Haja vista que você sabe que a soma de
+cada par de lados opostos dá sete, você
+consegue facilmente diminuir as
+possibilidades. 
 
 Pensando de forma inteligente, como
 detalhado acima, você logo chegará à

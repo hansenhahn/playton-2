@@ -661,14 +661,14 @@ dentro da carcaça da câmera.
 [t18_410_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:430>Controle a posição e o sentido
 das peças dentro da câmera com
-a sua stylus.<W>
+a sua caneta stylus.<W>
 !------------------------------!
 Toque no centro de uma peça
 e arraste para movê-la.<W>
 !------------------------------!
-Para rotacionar uma peça, toque
-em uma de suas extremidades e
-arraste a stylus como um círculo.<W>
+Para rotacionar uma peça, toque em
+uma de suas extremidades e arraste
+a caneta stylus como um círculo.<W>
 !------------------------------!
 A câmera estará consertada após
 reunir e posicionar corretamente as
@@ -687,8 +687,9 @@ Os objetos à sua disposição são
 mostrados na parte superior da
 Tela de Toque.<W>
 !------------------------------!
-Arraste os objetos com a stylus e
-posicione-os no parquinho do hamster.
+Arraste os objetos com a caneta
+stylus e posicione-os no parquinho
+do hamster.
 !******************************!
 [t18_420_200.gds]
 <01:00000000><03:5>NONE<03:5>NONE<01:00000002><03:406>O hamster é atraído por qualquer

@@ -180,8 +180,8 @@ sempre que precisar acessá-la!
 antes.<W> Quer ouvir uma informação útil?<W>&setani 46 b1_smile&
 !------------------------------!
 Muito bem. Vê aquela caixa de correio
-ali?<W> Pode tocá-la com a sua stylus
-pra mim?
+ali?<W> Pode tocá-la com a sua caneta
+stylus pra mim?
 !******************************!
 [t10_051_100.gds]
 <01:0000002E><03:9>b1 smile<03:5>NONE<01:00000002><03:57>O que está esperando, chapa?<W>
@@ -194,8 +194,8 @@ Você é um rosto novo. Quer ouvir uma
 informação fresquinha, senhor? <W>&setani 46 b1_smile&
 !------------------------------!
 Vê aquela caixa de correio ali?<W>
-Poderia tocá-la com sua stylus
-pra mim?
+Poderia tocá-la com sua caneta
+stylus pra mim?
 !******************************!
 [t10_070_100.gds]
 <01:0000002E><03:5>NONE<03:5>NONE<01:00000002><03:97>Ei, estou tentando lhe dar umas
@@ -220,8 +220,9 @@ Elas estão espalhadas por todos
 os cantos, o que quer dizer que você
 deve procurá-las a todo momento.<W>
 !------------------------------!
-Use sua stylus para tocar qualquer
-coisa que pareça suspeita, beleza?<W>
+Use sua caneta stylus para tocar
+qualquer coisa que pareça suspeita,
+beleza?<W>
 !------------------------------!
 Bem, era tudo o que eu tinha pra lhe
 dizer. Até mais ver, senhor.
