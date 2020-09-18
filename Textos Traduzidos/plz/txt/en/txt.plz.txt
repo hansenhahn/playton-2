@@ -2295,28 +2295,27 @@ de seu cão, Tom.
 [chr_15.txt]
 Esse cão pequenino é o
 bichinho de estimação de
-Babette. Como ele cresceu
-em luxo e abundância,
-Tom tem sido por vezes
-travesso, causando
-confusão àqueles à sua
-volta. Apesar de ser o
-"menino dos olhos" de
-Babette, ele não parece
-ser tão apegado à sua
-dona.
+Babette. Como ele foi
+criado no luxo e na
+abundância, Tom tem sido
+por vezes travesso,
+causando confusão
+àqueles à sua volta.
+Apesar de ser o "menino
+dos olhos" de Babette,
+ele não parece ser tão
+apegado à sua dona.
 !******************************!
 [chr_16.txt]
 Vera é a glamorosa
 proprietária da casa
 noturna de Folsense, o
-lugar preferido de Beluga
+local preferido de Beluga
 para relaxar. Ela é dona
-de várias joalherias, mas
-a maioria delas acabam
-indo parar na loja local
-de antiquários mais
-próxima.
+de várias joias, mas
+a maioria delas acaba
+parando no antiquário
+da cidade.
 !******************************!
 [chr_17.txt]
 Do topo de sua torre,
@@ -2337,7 +2336,7 @@ tanto medo de vampiros
 que ele encheu sua loja
 de alho. O fedor do lugar
 já fez vários clientes
-fazerem seu mercantil
+fazerem suas compras
 em outro lugar, e ainda
 assim a quantidade de
 alho em sua loja só
@@ -2354,8 +2353,8 @@ castelo, Nigel vive o dia
 todo ocupado. Em seu
 tempo livre, ele gosta de
 desopilar esfregando as
-banheiras do castelo para
-limpá-las.
+banheiras do castelo
+para limpá-las.
 !******************************!
 [chr_2.txt]
 Filha única de uma família
@@ -2396,13 +2395,12 @@ o seu supervisor dá
 de vez em quando.
 !******************************!
 [chr_22.txt]
-Grousley é mais um, dentre
+Grousley é mais um dentre
 os vários passageiros do
 Molentary Express.
-Embora, analisando-o pela
-sua excentricidade, não
-pareça ser, Grousley na
-verdade é um renomado
+Embora seu jeito de ser
+diga o contrário, ele é,
+na verdade, um renomado
 artista e amigo de Beluga.
 Ele se inspira olhando
 para as paisagens que vê
@@ -2423,9 +2421,9 @@ sempre de pé, desafiando
 a gravidade.
 !******************************!
 [chr_24.txt]
-Há um jeito infantil e meio
-sem noção em Capone e
-como ele se comporta,
+Há um jeito infantil e
+meio sem noção em Capone
+e como ele se comporta,
 conforme demonstrado
 pelas informações
 questionáveis que ele
@@ -2453,9 +2451,7 @@ viajando sozinha para
 visitar sua avó. Para a
 sua idade, Lili possui um
 modo muito maduro de
-pensar. Seu charme foi
-capaz de encantar vários
-funcionários do trem.
+pensar.
 !******************************!
 [chr_27.txt]
 Sally sonha em morar numa
@@ -2466,18 +2462,15 @@ lanches no Molentary
 Express, oferecendo um
 monte de guloseimas
 apetitosas aos
-passageiros do trem,
-desinteressados. É bem
-comum ela ser vista
-gracejando com Steve.
+passageiros do trem.
 !******************************!
 [chr_28.txt]
 Durante o dia, Marjorie
-trabalha como professora
-em Dropstone, como você
+é professora em
+Dropstone, como você
 pode ter adivinhado por
 sua aparência formal e
-sapatos sensíveis. Já de
+responsável. Já de
 noite, Marjorie gosta de
 descontrair escrevendo
 uma série de populares
@@ -2488,13 +2481,13 @@ Conrad é um estudante
 universitário que nasceu
 em Dropstone. O seu maior
 exemplo a seguir é
-Marjorie, e ele tenta
+Marjorie e ele tenta
 imitá-la de todas as
 formas possíveis. Ele diz
 gostar de ler de tudo,
 mas provavelmente é só
 porque ele ouviu Marjorie
-dizer uma vez.
+dizer isso uma vez.
 !******************************!
 [chr_3.txt]
 A mera menção de seu
@@ -2512,12 +2505,13 @@ sua amada esposa faz.
 Karla é uma mulher muito
 rica, com um desejo
 ardente de explorar
-todos os cantos do mundo.
-Infelizmente, ela entra em
-pânico ao voar em aviões
-ou avistar talheres de
-plástico, e é por isso que
-ela só viaja em um trem de
+todos os cantos do
+mundo. Infelizmente, ela
+entra em pânico ao voar
+em aviões ou avistar
+talheres de plástico,
+e é por isso que ela só
+viaja em trens de
 primeira classe.
 !******************************!
 [chr_31.txt]
@@ -2540,11 +2534,12 @@ Sr. Anderson, a maior
 obrigação de Dorothea
 é cuidar de Katia, embora
 ambas tenham quase que
-a mesma idade. Talvez seja
-por causa das idades
-parecidas que Katia
-confia em Dorothea para
-contar seus segredos.
+a mesma idade. Talvez
+seja por causa das
+idades parecidas que
+Katia  confia em
+Dorothea para contar
+seus segredos.
 !******************************!
 [chr_33.txt]
 Clabber é fazendeiro e
@@ -2572,13 +2567,14 @@ lustroso digno de todos
 os prêmios.
 !******************************!
 [chr_35.txt]
-Layton e Luke conheceram
-Nick no desfile das
-vacas, onde ele lhes
-contou sobre uma figura
-influente em Dropstone.
-Ele adora conversar com
-todo mundo que encontra,
+Layton e Luke
+conheceram Nick no
+desfile das vacas, onde
+ele lhes contou sobre
+uma figura influente em
+Dropstone. Ele adora
+conversar com todo
+mundo que encontra,
 então é comum ele atuar
 como guia turístico da
 cidade para visitantes
@@ -2634,7 +2630,7 @@ entanto, a maior parte do
 que ele veste é medíocre
 e desinteressante. Ele é
 ainda mais crítico quanto
-aos chapéus das pessoas.
+ao chapéu das pessoas.
 !******************************!
 [chr_4.txt]
 Um cientista brilhante
@@ -2665,14 +2661,15 @@ se chama Tweets.
 Este carteiro corajoso
 trabalha principalmente
 em Dropstone, mas também
-entrega, sem medo, cartas
-até mesmo na longínqua
-Folsense. Parcelle é
-conhecido pelo seu
-otimismo e sua dedicação
-ao trabalho. Seu lema é
-"Entregar sorrisos a
-cada carta entregue".
+entrega, sem medo,
+cartas até mesmo na
+longínqua Folsense.
+Parcelle é conhecido
+pelo seu otimismo e sua
+dedicação ao trabalho.
+Seu lema é "Entregar
+sorrisos a cada carta
+entregue".
 !******************************!
 [chr_42.txt]
 A natureza descuidada de
@@ -2688,12 +2685,12 @@ festival juntos.
 !******************************!
 [chr_43.txt]
 Albert acredita ser um
-especialista em tudo o que
-tem a ver com Dropstone,
+especialista em tudo
+relacionado a Dropstone,
 mas não está a par da
 verdade por trás das
-origens de Dropstone.
-Albert sonha em se tornar
+origens da cidade. 
+Albert sonha em virar
 professor algum dia. Ou
 talvez um especialista na
 história de Dropstone.
@@ -2733,8 +2730,8 @@ mas como seu foco está
 sempre no cliente, ele
 raramente faz com que
 o negócio das barracas
-seja lucrativo. Pelo menos
-ele sempre é adorado
+seja lucrativo. Pelo
+menos, ele é adorado
 pelas crianças do
 vilarejo.
 !******************************!
@@ -2818,15 +2815,15 @@ sempre com frio.
 [chr_52.txt]
 Damon é aquele carinha
 de roupa legal que ensina
-como encontrar moedas de
-dica em um canto de
+como encontrar moedas
+de dica em um canto de
 Londres. Embora sua
 aparência urbana leve a
 crer que ele mora em um
 bairro nobre, é quase
 certo que na verdade ele
-seja de algum subúrbio da
-cidade.
+seja de algum subúrbio
+da cidade.
 !******************************!
 [chr_53.txt]
 Felix trabalha como
@@ -2837,7 +2834,7 @@ chiques de Folsense. Ele
 norma de não usar chapéu
 dentro do restaurante,
 mas a ironia da situação
-é que Felix na verdade
+é que Felix, na verdade,
 tem a maior coleção de
 chapéus da cidade.
 !******************************!
@@ -2883,12 +2880,13 @@ mais difícil de aguentar.
 [chr_57.txt]
 Olson é um homem normal
 que não atrai muita
-atenção das pessoas. Sua
-vista é tão ruim que,
+atenção das pessoas.
+Sua vista é tão ruim que,
 mesmo com os óculos, a
-ilusão de Folsense poderia
-desaparecer e ele sequer
-perceberia a diferença.
+ilusão de Folsense
+poderia desaparecer e
+ele sequer perceberia
+a diferença.
 !******************************!
 [chr_58.txt]
 Derby é uma das raras
@@ -2960,14 +2958,14 @@ O trabalho principal
 de Grinko é servir de
 curador do Museu Herzen,
 mas seu empregador,
-Beluga, comumente o manda
-procurar por pistas da
-Caixa Elísia na cidade.
-Grinko é uma das poucas
-pessoas na cidade que
-compreende totalmente
-vários dos segredos da
-cidade.
+Beluga, comumente o
+manda procurar por
+pistas da Caixa Elísia
+na cidade. Grinko é uma
+das poucas pessoas na
+cidade que compreende
+totalmente os vários
+segredos dela.
 !******************************!
 [chr_63.txt]
 Marina é a filha do
@@ -2977,8 +2975,8 @@ tiver alguma dúvida do
 parentesco dos dois, é
 só dar uma olhada nos
 lanches que ela carrega
-consigo. Também tem
-cheiro de alho.
+consigo. Também cheiram
+a alho.
 !******************************!
 [chr_64.txt]
 Uma dentre os poucos
@@ -2997,11 +2995,13 @@ mostarda que usa.
 Ray anda pela periferia
 da cidade à noite, usando
 óculos escuros. Ele gosta
-de parecer um cara durão,
-mas quando ele tira os
-óculos, ele fica tão tímido
-que tem vergonha até de
-atravessar a rua sozinho.
+de parecer um cara
+durão, mas quando tira
+os óculos, ele fica tão
+envergonhado que tem
+vergonha até mesmo de
+atravessar a rua
+sozinho.
 !******************************!
 [chr_66.txt]
 Apareceram muitos fãs de
@@ -3066,17 +3066,18 @@ Sophia, para Anton, seu
 avô.
 !******************************!
 [chr_70.txt]
-Um homem de contradições,
+Um homem curioso,
 Pavel é um aventureiro
 imprudente sem senso de
 direção. Ele estava a
 caminho do Egito quando,
-de algum modo, acabou indo
-parar em Folsense. Ele tem
-um dom de se meter em
-lugares proibidos, mas
-não faz ideia de como
-consegue essas proezas.
+de algum modo, acabou
+parando em Folsense.
+Ele tem o dom de se
+meter em lugares
+proibidos, mas não faz
+ideia de como consegue
+essas proezas.
 !******************************!
 [chr_71.txt]
 A Vovó Riddleton é
