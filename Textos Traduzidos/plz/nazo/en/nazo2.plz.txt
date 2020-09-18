@@ -681,11 +681,11 @@ campo. Os donos de cada uma das três casas,
 A, B e C, decidem trabalhar juntos para
 semeá-lo. Infelizmente, C se machuca bem
 antes de começar a trabalhar, então A e B
-tiveram que fazer por eles mesmos. Para
+têm que fazer por eles mesmos. Para
 semear tudo, A trabalhou por cinco dias
 e B, quatro.
 Sentindo-se culpado, C decidiu pagar a A e B
-pela parte sua do trabalho feita por eles. 
+pela sua parte do trabalho feita por eles. 
 Como agradecimento, C pagou um total de
 nove moedas, dividido de acordo com o quanto
 cada um trabalhou. Consegue desvendar
@@ -789,8 +789,8 @@ dá um total que é um múltiplo de 11?
 <0116>A Foto Rasgada
 <00><3C><36><30><12><43><12><73><50><04><04><FF>
 O Professor Layton e o Luke finalmente
-caçaram todas as 16 partes dessa foto
-singular. Remonte-as para revelar o 
+caçaram todas as 16 partes desta foto
+singular. Remonte-a para revelar o 
 conteúdo da imagem! 
 
 Gire uma parte ao tocar um lado.
@@ -910,7 +910,8 @@ a E, a mais nova é D, e F é a esposa do B.
 !******************************!
 Que pena!
 
-Certifique-se de ler as pistas corretamente!
+Certifique-se de ler as pistas
+corretamente!
 !******************************!
 Não há necessidade de decifrar os
 relacionamentos de cada pessoa no
@@ -931,21 +932,21 @@ este enigma fica fácil de resolver.
 [n118.dat]
 <0118>Tirando o Lixo 2
 <00><50><48><40><11><30><19><76><4D><04><04><FF>
-Use a caneta stylus para mover o lixo para a
-lata que está na parte inferior da tela.
+Use a caneta stylus para mover o lixo para
+a lata que está na parte inferior da tela.
 !******************************!
-Ah, agora sim tá bem arrumado!
+Ah, agora sim está bem arrumado!
 
 Faça sua parte para manter a sua
 cidade limpa!
 !******************************!
 Que pena!
 !******************************!
-Não tá conseguindo limpar o caminho,
+Não está conseguindo limpar o caminho,
 por mais que tente?
 
 Comece movendo os blocos para que você
-possa obter um desses blocos em forma
+possa liberar um desses blocos em forma
 de L no fundo e tente colocá-lo em uma
 das lacunas superiores. Encontre uma
 lacuna que se encaixe na parte mais longa
@@ -983,8 +984,9 @@ de verdade. Uma moeda de verdade pesa dez
 gramas, mas uma falsa pesa uma grama a
 menos. Se você estiver usando uma balança
 que registra até 200 gramas, qual seria o
-menor número de vezes que se poderia usá-la
-para achar o saco cheio de moedas falsas?
+menor número de vezes que você teria que
+usá-la para achar o saco cheio de moedas
+falsas?
 !******************************!
 Você conseguiu!
 
