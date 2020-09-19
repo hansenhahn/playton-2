@@ -477,7 +477,7 @@ apesar de tudo!
 <01:0000001F><03:5>NONE<03:5>NONE<01:00000002><03:11>Obrigado.
 !******************************!
 [t17_140_300.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:38>Então, a caixa não era amaldiçoada
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:38>Então a caixa não era amaldiçoada
 no fim das contas.
 !******************************!
 [t17_140_400.gds]

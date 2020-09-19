@@ -1268,7 +1268,7 @@ Se você inserir um número pequeno como
 não poderá ser maior do que 6. Com um
 valor como esse, não haverá espaço para
 você colocar o número 6, deixando o enigma
-sem solução. Então, qual número deverá ir
+sem solução. Então qual número deverá ir
 no local da extrema direita?
 !******************************!
 Quando arrumados apropriadamente, cada
@@ -1584,7 +1584,7 @@ encontrar o número de anos que, somado a
 você estará muito perto de achar a idade
 atual da garota.
 
-Então, qual é o valor de X?
+Então qual é o valor de X?
 !******************************!
 [n71.dat]
 <0072>Fotos Embaralhadas
@@ -1743,7 +1743,7 @@ Bem, sim, o fato de que todas as três
 aberturas da garrafa conectam-se ao
 alho é bem estranho...
 
-Então, como conter o odor?
+Então como conter o odor?
 !******************************!
 Já que a você é permitido usar apenas
 duas rolhas, você não pode bloquear
@@ -2038,7 +2038,7 @@ elevador. Você aceita a tarefa?
 !******************************!
 Bom trabalho!
 
-Então, com quantos movimentos você
+Então com quantos movimentos você
 completou essa tarefa? Se você conseguiu
 com 12, está de parabéns!
 
@@ -2913,7 +2913,7 @@ ser movidos.
 A coluna esquerda menor nessa seção
 tem apenas uma estrela bloqueada, e
 o mesmo vale para a coluna direita
-menor. Então, o bloco grande que deve
+menor. Então o bloco grande que deve
 ser movido para cá tem que ter duas
 estrelas tanto na sua linha esquerda
 como na sua direita.

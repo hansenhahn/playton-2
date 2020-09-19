@@ -204,7 +204,7 @@ venenoso que parece que
 dá pra sentir de longe!
 !******************************!
 [tobj138.txt]
-O Castelo dos Herzen
+O Castelo Herzen
 está bem ali.
 !******************************!
 [tobj139.txt]
@@ -225,7 +225,7 @@ não olhar para baixo...
 !******************************!
 [tobj142.txt]
 Não esperava que
-o Castelo dos Herzen
+o Castelo Herzen
 fosse tão grande.
 !******************************!
 [tobj143.txt]

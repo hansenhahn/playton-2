@@ -69,7 +69,7 @@ estrada. Use a menor quantidade de lâmpadas
 que for possível para iluminar todos os
 caminhos.
 
-Então, onde as lâmpadas devem ficar?
+Então onde as lâmpadas devem ficar?
 !******************************!
 Bom trabalho!
 
@@ -104,7 +104,7 @@ estrada. Use a menor quantidade de lâmpadas
 que for possível para iluminar todos os
 caminhos.
 
-Então, onde as lâmpadas devem ficar?
+Então onde as lâmpadas devem ficar?
 !******************************!
 Bom trabalho!
 
@@ -136,7 +136,7 @@ estrada. Use a menor quantidade de lâmpadas
 que for possível para iluminar todos os
 caminhos.
 
-Então, onde as lâmpadas devem ficar?
+Então onde as lâmpadas devem ficar?
 !******************************!
 Bom trabalho!
 
@@ -740,7 +740,7 @@ deverá ser 15:00 em Nova York.
 Levando em consideração as diferenças
 de horário, o avião saiu de Los Angeles
 às 15:00 em horário de Nova York e
-aterrissou às 20:00. Então, o voo em
+aterrissou às 20:00. Então o voo em
 si deve ter levado cinco horas.
 !******************************!
 A diferença no horário tem o efeito
@@ -869,7 +869,7 @@ lápide de um matemático famoso.
 
 <''>Seguindo o 1/6 da minha vida que passei
 como criança, passei 1/12 da minha vida como
-um jovem. Então, 1/7 da minha vida depois, me
+um jovem. Então 1/7 da minha vida depois, me
 casei. Cinco anos depois me casei, e fui
 abençoado com uma criança, mas infelizmente,
 ela viveu apenas metade do tempo que eu
@@ -1001,7 +1001,7 @@ maneira:
 
 Mova a menor panqueca para cima do prato
 do meio, então mova a segunda menor
-panqueca para o prato vermelho. Então,
+panqueca para o prato vermelho. Então
 empilhe a menor panqueca para cima
 daquela da direita. Agora pegue uma
 nova panqueca da pilha da esquerda e
@@ -1010,7 +1010,7 @@ sobre o que fazer na Dica 2.
 !******************************!
 De onde a Dica 1 parou, ponha a menor
 panqueca em cima da panqueca que está
-no prato do meio. Então, mova a panqueca
+no prato do meio. Então mova a panqueca
 do prato vermelho para a pilha da
 esquerda. Agora traga a menor panqueca
 que você tem para cima da pilha de
@@ -1747,7 +1747,7 @@ Está certo! A resposta é 16.
 A maneira para encontrar a resposta é
 pensar em todos dígitos dos números no
 diagrama como inteiros de único dígito.
-Então você soma todos eles. Então, 160 e 144
+Então você soma todos eles. Então 160 e 144
 lhe daria 1 + 6 + 0 + 1 + 4 + 4, que é igual
 a 16, o número abaixo. Esta é a regra.
 
@@ -2458,7 +2458,7 @@ que A não pode ser a nossa amiga honesta
 Judy. B alega ser Ellie, então sabemos que
 esta pessoa também não pode ser a Judy.
 
-Então, você sabe que C deve ser a Judy,
+Então você sabe que C deve ser a Judy,
 e assim, B deve ser a Anna.
 Com as duas já identificadas, já
 pode ter certeza de que A é a Ellie.

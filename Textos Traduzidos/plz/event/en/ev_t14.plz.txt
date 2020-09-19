@@ -195,10 +195,10 @@ criança!<W>
 !------------------------------!
 Deixe-me adivinhar... vocês vieram até
 aqui para colocar as mãos num pouco da
-grana dos Herzen. Acertei?
+grana dos Herzens. Acertei?
 !******************************!
 [t14_100_200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:19>O que é a grana dos Herzen?
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:19>O que é a grana dos Herzens?
 !******************************!
 [t14_100_300.gds]
 <01:00000044><03:9>b1 angry<03:5>NONE<01:00000002><03:101>Vocês vieram até aqui e não 

@@ -63,7 +63,7 @@ Meu pai sempre fez o que bem
 entende, sem se importar com mais
 ninguém. Ele age desse jeito com
 todo mundo, até seus filhos. Não é
-de se admirar que meu irmão mais velho
+de se admirar que meu irmão mais novo
 se dê tão mal com ele. Apesar de
 tudo, temos que aceitar seus
 caprichos, já que somos futuros
@@ -84,17 +84,18 @@ achar que nunca vou entender aquele
 homem.
 !******************************!
 [diary_5.txt]
-Encontramos um novo minério enterrado.
-Meu pai acredita que podemos
-refiná-lo e criar um tipo de metal
-muito valioso. Eu duvido que nós
-consigamos transformar esse negócio,
-que parece uma pedra, em algo de
-valor. Mas isso não impediu meu pai.
-A escavação já chegou a tal ponto
-que formou um buraco gigantesco sob
-o castelo. Começo a prever que ele
-pode acabar caindo abismo abaixo.
+Encontramos um novo minério
+enterrado. Meu pai acredita que
+podemos refiná-lo e criar um tipo
+de metal muito valioso. Eu duvido
+que nós consigamos transformar
+esse negócio, que parece uma pedra,
+em algo de valor. Mas isso não
+impediu meu pai. A escavação já
+chegou a tal ponto que formou um
+buraco gigantesco sob o castelo.
+Começo a achar que ele pode acabar
+caindo abismo abaixo.
 !******************************!
 [diary_6.txt]
 Hoje é um dia fabuloso! Finalmente,
@@ -221,7 +222,7 @@ um cientista notável que afirma
 ser o arqui-inimigo do Professor
 Layton. Em sua busca pela fortuna
 associada a este artefato, ele
-disfarçou-se como Flora e se
+disfarçou-se de Flora e se
 juntou a Layton e Luke.
 !******************************!
 [ide_5.txt]
@@ -354,7 +355,7 @@ cidade. Aterrorizados por causa
 disso, sequer uma vivalma em
 Folsense atreveu-se a chegar perto
 do castelo. Será que um vampiro
-realmente vive no castelo de
+realmente vive no Castelo
 Herzen?
 !******************************!
 [it_1.txt]
@@ -544,7 +545,7 @@ ouvidos sobre uma misteriosa cidade
 fantasma acessível apenas pelo
 Molentary Express. Assim que
 voltarmos ao trem, eu gostaria de
-examiná-lo exaustivamente para ver
+examiná-los exaustivamente para ver
 se há algum resquício de verdade
 nesses rumores.
 !******************************!
@@ -565,7 +566,7 @@ sozinha, e para onde ela iria?
 [d_15.txt]
 Enquanto estávamos no vagão de
 luxo do Molentary Express, Luke,
-Flora e eu caímos num sono profundo.
+Flora e eu caímos em um sono profundo.
 Luke diz que sonhou com um dos
 vagões do trem sendo trocado.
 Será que o estrondo que eu ouvi
@@ -587,7 +588,7 @@ trem a chegar nesse novo destino.
 [d_17.txt]
 Assim que saímos do trem que parou
 em Folsense, Flora começou a se
-sentir mal. Eu imagino que a causa
+sentir mal. Eu acho que a causa
 de seu desconforto era simplesmente
 o cansaço causado por longas horas
 de viagem. Embora eu esteja ansioso
@@ -655,13 +656,11 @@ Ao conversar com um lojista local,
 soubemos de uma instituição conhecida
 como o Museu Herzen. Acredito que lá
 encontraremos informações de vital
-importância sobre a Caixa Elísia,
-e planejo visitar o local logo em
-seguida.
+importância sobre a Caixa Elísia.
 !******************************!
 [d_23.txt]
 Infelizmente, o portão do Museu
-Herzen está trancado, e no momento
+Herzen está trancado e, no momento,
 não há outra forma de entrar. Não
 sei quando reabrirão suas portas ao
 público, por isso decidi adiar nossa
@@ -698,7 +697,7 @@ técnica especial para preservá-las.
 !******************************!
 [d_26.txt]
 Minhas conversas com o povo de
-Folsense em sua maioria acabaram não
+Folsense, em sua maioria, acabaram não
 nos dando pista alguma. O termo
 "Caixa de Pandora" não parece ser
 estranho a alguns cidadãos daqui,
@@ -715,7 +714,7 @@ nós vimos o Sr. Beluga e Sam envoltos
 em uma discussão acalorada. Imagino
 que foram eles que abriram a porta.
 Parece que o Sr. Beluga também está
-em busca dessa caixa, e a julgar por
+em busca dessa caixa e, a julgar por
 suas palavras duras, ele considera
 isso de grande importância.
 !******************************!
@@ -738,7 +737,7 @@ do doutor, mas parece que ele a
 perdeu. A única forma de voltarmos
 a ver essa foto é refazendo os
 passos do Inspetor pela cidade, e
-recuperarmos todos os seus pedaços.
+recuperar todos os seus pedaços.
 Que inoportuno!
 !******************************!
 [d_3.txt]
@@ -761,7 +760,7 @@ esperando recuperar os pedaços da
 foto sem mais incidentes, mas um
 cão enorme e mal-humorado bloqueou
 a única passagem que leva a essa
-área. De acordo com Luke, o cão
+área. De acordo com o Luke, o cão
 quer algo para comer, então teremos
 que visitar a mercearia e encontrar
 algo para dar a essa criatura
@@ -774,7 +773,7 @@ da mercearia cobriu sua loja com uma
 quantidade enorme de alho. O cheiro
 na loja é o equivalente olfativo de
 um tapa na cara. Se o alho funciona
-ou não pra afastar vampiros, é algo
+ou não para afastar vampiros, é algo
 a se debater. No entanto, certamente
 funciona para afastar os clientes.
 !******************************!
@@ -839,7 +838,7 @@ que há entre a caixa e esta cidade.
 Após ter visto a foto por inteiro,
 Luke e eu estávamos nos preparando
 para voltar à nossa investigação,
-quando o agente Barton nos encontrou.
+quando o Agente Barton nos encontrou.
 Aparentemente, a pessoa por trás da
 morte de Dr. Schrader foi encontrada,
 e nossa presença é solicitada no
@@ -851,7 +850,7 @@ autoridades numa situação como essa.
 [d_38.txt]
 Foi um grande choque para mim
 descobrir que Don Paolo estava
-disfarçado como Flora por um tempo.
+disfarçado de Flora por um tempo.
 Tenho vergonha por não ter percebido
 que havia um impostor tão perto de
 mim. E a pobrezinha da Flora, digo,
@@ -883,18 +882,18 @@ muito tempo. É hora de voltar à
 investigação da Caixa Elísia.
 !******************************!
 [d_40.txt]
-Até onde entendi, Sr. Beluga veio
+Até onde entendi, o Sr. Beluga veio
 à cidade em busca da Caixa Elísia,
 acreditando que isso seria a chave
 para levá-lo à grande fortuna dos
-Herzens. Katia também parece ter vindo
-à cidade em busca da caixa. Ainda
-estou intrigado quanto ao porquê de
-tantas pessoas estarem atrás dessa
-caixa. Receio que, para responder a
-essa pergunta, simplesmente terei de
-abrir a caixa e ver com os próprios
-olhos.
+Herzens. Katia também parece ter
+vindo à cidade em busca da caixa.
+Ainda estou intrigado quanto ao
+porquê de tantas pessoas estarem
+atrás dessa caixa. Receio que, para
+responder a essa pergunta,
+simplesmente terei de abrir a caixa
+e ver com meus próprios olhos.
 !******************************!
 [d_41.txt]
 Depois de reunir coragem suficiente,
@@ -951,7 +950,7 @@ que compõe esse mistério. Mas algumas
 perguntas ainda me escapam. Para
 respondê-las, Luke e eu temos apenas
 uma opção: ir em direção ao
-Castelo de Herzen.
+Castelo Herzen.
 !******************************!
 [d_46.txt]
 Luke alega ter visto um fantasma
@@ -966,16 +965,17 @@ com o rumor sobre a maldição na
 cidade.
 !******************************!
 [d_47.txt]
-Anton, o atual duque do Castelo de
+Anton, o atual duque do Castelo
 Herzen, convidou-nos para o seu lar
 e ofereceu comida e bebida. Perguntei
 a ele sobre a Caixa Elísia, mas tudo
 o que ele me disse é que não sabe
 muito sobre essa relíquia. Não acho
 que pressioná-lo mais adiantaria na
-busca por mais informações. Anton se
-ofereceu para passarmos a noite, e
-acho que vamos aceitar sua oferta.
+busca por mais informações. Anton
+ofereceu os cômodos do castelo para
+passarmos a noite, e acho que vamos
+aceitar sua oferta.
 !******************************!
 [d_48.txt]
 Eu acordei de um pesadelo para em
@@ -1022,7 +1022,7 @@ sob o castelo, Luke e eu nos
 deparamos com algumas máquinas
 idênticas às que vimos lá na mina.
 Acredito que o castelo e a mina
-estão conectados através desta
+estejam conectados através desta
 zona subterrânea. Agora não tenho
 tempo para continuar explorando,
 mas podemos ter encontrado o
@@ -1043,10 +1043,10 @@ deixar o castelo.
 !******************************!
 [d_52.txt]
 Imagine a minha surpresa ao
-encontrar Katia aqui no Castelo de
+encontrar Katia aqui no Castelo
 Herzen! Não sei dos motivos dela
 estar aqui, mas tenho a sensação de
-que há uma relação entre os Herzen
+que há uma relação entre os Herzens
 e essa garota. E ainda há a questão
 da pintura que vimos no quarto de
 hóspedes. Nela continha uma jovem
@@ -1085,11 +1085,11 @@ acreditar que esta cidade em ruínas
 estava cheia de vida. Parece que
 rastros do mesmo gás também eram
 emitidos pela Caixa Elísia, fazendo
-com que aqueles que a abrirem
+com que aqueles que a abrissem
 tivessem delírios, e até mesmo a
 comparassem com a de Pandora. Foi
 esse gás que originou as lendas
-acerca da caixa, e de Folsense.
+acerca da caixa e de Folsense.
 !******************************!
 [d_56.txt]
 Agora que as ruínas do castelo
@@ -1099,7 +1099,7 @@ revelando o verdadeiro Anton, que
 era um homem velho em seus últimos
 anos de vida. Quando eu devolvi a
 caixa, ele nos disse que havia outra
-maneira de abrir a Caixa Elísia, e
+maneira de abrir a Caixa Elísia e,
 após dar a Luke uma pista um tanto
 enigmática, pediu-lhe para abri-la.
 Parece que estamos prestes a
@@ -1132,12 +1132,12 @@ As pistas que coletamos durante
 nossa busca me levam a crer que
 há uma grande possibilidade de que
 Tom na verdade seja um cão, e não
-uma criancinha como havíamos achado
+uma criancinha como havíamos pensado
 originalmente. Agora que penso nisso,
-acho que me lembro de uma jovem que
-carregava um cachorrinho em seus
-braços. Preciso encontrá-la para
-confirmar minhas suspeitas.
+acho que lembro de ter visto uma
+jovem carregando um cachorrinho
+em seus braços. Preciso encontrá-la
+para confirmar minhas suspeitas.
 !******************************!
 [d_7.txt]
 Descobrimos que a jovem garota que
@@ -1163,7 +1163,7 @@ nos trilhos.
 Nosso trem está atualmente parado
 em um pequeno e pitoresco vilarejo
 chamado Dropstone. O vilarejo está
-atualmente comemorando seu 50o
+atualmente comemorando seu 50º
 aniversário e está transbordando
 de agitação. Já que temos algumas
 horas antes de sair novamente,
@@ -1202,7 +1202,7 @@ Em Busca de Hospedagem
 Explorando Folsense
 !******************************!
 [t_19.txt]
-O que Busca Um Milionário
+O Que Busca um Milionário
 !******************************!
 [t_2.txt]
 Um Cruzeiro Sobre Trilhos
@@ -1301,7 +1301,7 @@ Uma Noite no Castelo Herzen
 Uma Situação Desastrosa
 !******************************!
 [t_49.txt]
-Saindo das Cordas
+Desamarrando as Cordas
 !******************************!
 [t_5.txt]
 Procurando pelo Tom
@@ -1316,7 +1316,7 @@ Fugindo do Castelo Herzen
 Reunidos com Katia
 !******************************!
 [t_53.txt]
-Loucura de Anton
+A Loucura de Anton
 !******************************!
 [t_54.txt]
 Katia Revela a Verdade
@@ -1889,7 +1889,7 @@ aos seus modos.
 Não importa a ocasião.
 !******************************!
 [m1_9.txt]
-Então, qual é a história por trás
+Então qual é a história por trás
 dessa Caixa Elísia?
 !******************************!
 [m21_0.txt]
@@ -2008,7 +2008,7 @@ com o simpósio que você tem
 agendado amanhã em Londres.
 !******************************!
 [m23_9.txt]
-Bem então, simplesmente terei
+Bem, então, simplesmente terei
 de cancelar.
 !******************************!
 [m3_0.txt]
@@ -2384,7 +2384,7 @@ emocionante.
 !******************************!
 [chr_21.txt]
 Apesar de sua aparência,
-o agente Barton, que é
+o Agente Barton, que é
 assistente do Inspetor
 Chelmey, só tem 27 anos.
 Apesar de ser difícil

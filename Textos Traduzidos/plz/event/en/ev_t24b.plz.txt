@@ -241,7 +241,7 @@ sobre esta foto que tirei.
 quer se aproximar da floresta.<W>
 !------------------------------!
 Há um caminho que leva você até
-o Castelo de Herzen, mas o seu
+o Castelo Herzen, mas o seu
 portão está trancado.
 !******************************!
 [t24_363_100.gds]

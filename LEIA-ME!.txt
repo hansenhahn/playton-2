@@ -1,5 +1,5 @@
 
-Professor Layton e a Caixa de Pandora PT-BR - Beta 10
+Professor Layton e a Caixa de Pandora PT-BR - Release 1
 
 - Um lançamento Monkeys Traduções e Jacutem Sabão -
 
@@ -10,10 +10,10 @@ mistério por trás de uma estranha caixa que dizem matar quem a abrir. (Wikipedia
 =============================================================================
 
 Informações sobre a ROM:
-	Nome Original: 4215 - Professor Layton and Pandora's Box (EU)(BAHAMUT).nds
-	Idioma Original: Inglês
+	Nome Original:    4215 - Professor Layton and Pandora's Box (EU)(BAHAMUT).nds
+	Idioma Original:  Inglês
 	Idioma Traduzido: Português Brasileiro
-	CRC: DF132837
+	CRC:              DF132837
 
 Sobre a Tradução:
 	Textos:  100%
@@ -22,9 +22,9 @@ Sobre a Tradução:
 
 Equipe:
 	Responsável: DiegoHH
-	ROMHacking e Programação: DiegoHH
-	Textos: DiegoHH, Solid One, Sahgo, Steve Doido, Gamerulez, Magalicia, Shagohod
-	Imagens: DiegoHH, Solid One
+	Programação: DiegoHH
+	Textos:      DiegoHH, Solid One, Sahgo, Steve Doido, Gamerulez, Magall, Shagohod
+	Imagens:     DiegoHH, Solid One
 
 Notas da Equipe:
 	- Pelo fato do jogo se passar numa Inglaterra fictícia, os nomes das personagens
@@ -39,11 +39,11 @@ Notas da Equipe:
 	  estão devidamente traduzidos para o português brasileiro.
 
 Notas das Versões:
-	- Release 1
+	- 20/09/2020 Release 1
 		* Revisão de todos os textos da história e enigmas
 		* Revisão de todas as imagens
 		* Tradução dos créditos
-		* Desbloqueio da porta oculta
+		* Desbloqueio da Porta Oculta de St. Mystère
 	- 29/05/2020 Beta 10
 		* Revisão dos textos da história e enigmas
 		* Correção do layout do teclado
@@ -105,9 +105,8 @@ Notas das Versões:
 
 Contato:	
 	E-mail: hansen.hahn@gmail.com
-	GitHub: https://github.com/hansenhahn
+	GitHub: https://github.com/hansenhahn/playton-2
 	Pelo FURT: http://www.romhacking.net.br
-	Canal FURT/RHBR no Discord: https://discord.gg/keJkKWk
 
 Licença de Uso:
 	A presente obra encontra-se licenciada sob a licença
