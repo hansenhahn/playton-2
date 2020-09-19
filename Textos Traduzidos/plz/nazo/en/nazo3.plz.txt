@@ -63,7 +63,7 @@ Use isso para criar um novo time.
 <0121>Iluminando o Caminho 1
 <00><14><12><10><01><4B><1F><79><04><04><04><FF>
 Use lâmpadas para iluminar os caminhos da
-floresta escura! Para cada lâmpada, sua luz
+floresta escura! A luz de cada lâmpada
 alcança até o fim da reta de qualquer
 estrada. Use a menor quantidade de lâmpadas
 que for possível para iluminar todos os
@@ -98,7 +98,7 @@ cantos possíveis.
 <0122>Iluminando o Caminho 2
 <00><1E><1B><18><02><4B><1F><7A><04><04><04><FF>
 Use lâmpadas para iluminar os caminhos da
-floresta escura! Para cada lâmpada, sua luz
+floresta escura! A luz de cada lâmpada
 alcança até o fim da reta de qualquer
 estrada. Use a menor quantidade de lâmpadas
 que for possível para iluminar todos os
@@ -119,9 +119,8 @@ precisa é cinco.
 As estradas em diagonal precisam de três
 lâmpadas, então pense nelas primeiro.
 Tenha certeza de não bagunçar o
-posicionamento das lâmpadas que
-iluminam os caminhos horizontais
-e verticais.
+posicionamento das lâmpadas que iluminam
+os caminhos horizontais e verticais.
 !******************************!
 As duas lâmpadas não usadas para
 iluminar as diagonais irão em uma
@@ -131,7 +130,7 @@ das bifurcações em T e cantos.
 <0123>Iluminando o Caminho 3
 <00><28><24><20><02><4C><1F><7B><04><04><04><FF>
 Use lâmpadas para iluminar os caminhos da
-floresta escura! Para cada lâmpada, sua luz
+floresta escura! A luz de cada lâmpada
 alcança até o fim da reta de qualquer
 estrada. Use a menor quantidade de lâmpadas
 que for possível para iluminar todos os
@@ -147,7 +146,7 @@ porque estava escuro... certo?
 Que pena!
 !******************************!
 O número mínimo de lâmpadas de que você
-precisa é cinco.
+precisa é seis.
 !******************************!
 Há seis caminhos horizontais e seis
 verticais, então você sabe que precisa
@@ -160,9 +159,10 @@ precisa de uma lâmpada.
 [n124.dat]
 <0124>OVNIs Avistados!
 <00><1E><14><0A><12><31><02><7C><E8><03><04><FF>
-Quatro OVNIs foram avistados no céu à noite!
+Quatro OVNIs foram avistados no céu
+à noite!
 
-Parece como se fossem quatro formas
+Parecem como se fossem quatro formas
 distintas flutuando no céu, mas cada uma
 delas é, na verdade, feita de quatro partes
 idênticas.
@@ -172,7 +172,7 @@ feita para criar todas essas formas?
 !******************************!
 Está certo!
 
-É a C. Então significa que não havia
+É a C. Então significa que não haviam
 quatro OVNIs no céu à noite afinal...
 Haviam 16!
 
@@ -201,13 +201,13 @@ enquanto caminha. Cada área circular do
 mapa contém cogumelos.
 
 Você não vai querer passar muito tempo
-nesta floresta assustadora, então encontre
-a rota mais rápida que visita cada área
-apenas uma vez.
+nesta floresta assustadora, então
+encontre a rota mais rápida que visita
+cada área apenas uma vez.
 !******************************!
 Cogumelástico!
 
-Você claramente percebeu que não se
+Você claramente percebeu que não
 precisa usar cada caminho.
 !******************************!
 Que pena!
@@ -221,10 +221,10 @@ Alcance a saída pela direita.
 !******************************!
 Não desista!
 
-As dicas 1 e 2 devem ter encurtado
-o curso pra você significantemente. 
+As Dicas 1 e 2 devem ter encurtado
+o curso para você significantemente. 
 
-Além disso, não se precisa usar cada
+Além disso, você não precisa usar cada
 caminho.
 !******************************!
 [n126.dat]
@@ -252,19 +252,19 @@ Mas você não pode parar agora!
 Que pena!
 !******************************!
 Quando bater na primeira parede,
-vá pra direita!
+vá para direita!
 !******************************!
-Após ir pra direita como descrito na
+Após ir para direita como descrito na
 Dica 1, irá bater em outra parede. Não
 tente ir para o objetivo por lá.
 !******************************!
 Para alcançar o objetivo, deve primeiro
-parar numa posição diretamente abaixo
+parar em uma posição diretamente abaixo
 dele.
 
 Há duas paredes pequenas alinhando o
 caminho que leva direto ao objetivo.
-Leve o professor num curso que vá
+Leve o professor em um curso que vá
 direto ao lado mais ao leste dessas
 duas paredes. 
 !******************************!
@@ -295,15 +295,15 @@ real, tenha certeza de passar longe disso.
 Que pena!
 !******************************!
 Na primeira parede que acertar,
-vá pra esquerda.
+vá para esquerda.
 !******************************!
 Seu próximo movimento deve ser em
 direção ao topo da tela.
 !******************************!
 Não fique impaciente quando estiver
 patinando por aí. Deve demorar o
-equivalente de duas voltas ao redor
-do lago pra chegar aonde precisa.
+equivalente a duas voltas ao redor
+do lago para chegar aonde precisa.
 !******************************!
 [n128.dat]
 <0128>Deslizando no Gelo 3
@@ -323,19 +323,20 @@ lago escorregadio até o objetivo?
 !******************************!
 Excelente!
 
-Esteja contente que o professor não seja
-um patinador de gelo profissional. Tudo bem,
-seria mais fácil ele ter dado a volta no lago,
-mas você ficaria sem enigma por causa disso.
+Fique contente que o professor não é
+um patinador de gelo profissional. Tudo
+bem, seria mais fácil ele ter dado a volta
+no lago, mas você ficaria sem enigma por
+causa disso.
 !******************************!
 Que pena!
 !******************************!
 Pegue a direita na primeira parede
-que você se chocará.
+que você bater.
 !******************************!
 O número de paredes pode fazer esse
 enigma bem ameaçador, mas pense assim:
-o quão maior o número de barreiras
+o quão maior o número de paredes
 no seu caminho, mais opções você
 terá para trabalhar.
 
@@ -344,13 +345,13 @@ atual no gelo para diminuir o número
 de possibilidades.
 !******************************!
 Para conseguir alcançar o objetivo, você
-deve parar numa posição diretamente
+deve parar em uma posição diretamente
 abaixo.
 
 Mas considerando a natureza complicada
 do curso, você terá mais sorte começando
 pelo objetivo e pensando no caminho de
-trás pra frente. Faça isso, e em breve
+trás para frente. Faça isso e, em breve,
 verá que você precisa posicionar o
 professor três espaços abaixo do
 objetivo em ordem de alcançá-lo!
@@ -362,7 +363,7 @@ Em um canto da floresta vive uma toupeira
 desleixada bem peculiar. Sua toca está tão
 cheia de lixo que ela finalmente decide
 limpá-la. Entretanto, por ser preguiçosa,
-ele decide limpar o lugar fazendo o mínimo
+ela decide limpar o lugar fazendo o mínimo
 de esforço possível.
 Para poder pegar todo o lixo em sua toca
 sem passar por nenhum dos túneis duas
@@ -407,12 +408,13 @@ um número estranho de rotas separadas.
 <0130>A Pintura Estranha
 <00><1E><1B><18><12><56><05><82><EB><03><04><FF>
 O casal nessa obra parece estar dançando
-em pleno ar, voando impossivelmente próximo
-do lustre. Mas, quando visto
+em pleno ar, voando impossivelmente
+próximo do lustre. Mas, quando visto
 corretamente, não há nada realmente de
-estranho sobre a pintura. Se você olhar mais
-de perto, uma área peculiar da pintura entrega
-a razão de a imagem ser tão estranha.
+estranho sobre a pintura. Se você olhar
+mais de perto, uma área peculiar da
+pintura entrega a razão de a imagem
+ser tão estranha.
 
 Encontre essa área peculiar e circule-a
 para descobrir a verdade.
@@ -425,9 +427,9 @@ Parece que a cena dessa pintura não é
 do baile em si, mas sim do reflexo do
 chão do salão de baile!
 
-Talvez os dois jovens pareciam tão
+Talvez os dois jovens parecessem tão
 felizes juntos que o pintor não
-queria arruinar a dança encarando-os
+quis arruinar a dança encarando-os
 diretamente.
 !******************************!
 Que pena!
@@ -448,8 +450,8 @@ então naturalmente você deve estar
 curioso sobre o que tem abaixo deles.
 
 Olhe nos pés deles. Há algo estranho
-acontecendo onde os dois pés
-encontram o chão...
+acontecendo onde os dois pés encontram
+o chão...
 
 Conseguiu ver?
 !******************************!
@@ -474,9 +476,8 @@ Você conseguiu!
 Marque a área circulada pela corda e
 de repente esse enigma ficará mais fácil.
 Só há uma estaca que precisa ser removida
-para o homem fazer a sua fuga.
-É melhor ele correr e soltar logo
-essa estaca!
+para o homem fazer a sua fuga. É melhor
+ele correr e soltar logo essa estaca!
 !******************************!
 Que pena!
 
@@ -499,8 +500,8 @@ dentro do laço e quais estão fora
 do laço.
 
 Todas as estacas da metade da esquerda
-da imagem parecem que podem provavelmente
-ficar do jeito que estão.
+da imagem parecem que podem ficar do
+jeito que estão.
 !******************************!
 [n132.dat]
 <0132>Dividindo Pinturas
@@ -513,7 +514,7 @@ do irmão mais novo. Para terem certeza do
 valor das pinturas, os irmãos chamaram um
 avaliador, que avaliou cada pintura como
 demonstrado abaixo. Para seus serviços,
-foi prometido ao avaliador uma pintura que
+foi prometido ao avaliador a pintura que
 restar após os irmãos dividirem as obras de
 acordo com o desejo de seus pais.
 
@@ -530,13 +531,13 @@ O irmão mais jovem terá uma única pintura
 que vale <po>60,000, metade do que seu irmão
 conseguirá.
 
-No final, o avaliador levará pra casa
+No final, o avaliador levará para casa
 a pintura mais cara de todas. Nossa, isso
 foi bem conveniente!
 !******************************!
 Que pena!
 
-Talvez você deveria pensar nos
+Talvez você devesse pensar nos
 cálculos mais uma vez.
 !******************************!
 O avaliador será bem remunerado pelo
@@ -559,7 +560,7 @@ marcadas e nada tortas,
 um caminho irá aparecer,
 marcante e claro de se ver,
 
-feito de estrelas de luz brilhantes,
+feito de estrelas de luz brilhante,
 cada uma apenas em um quadrante.<''>
 
 Essas frases foram ditas para apontar
@@ -589,13 +590,13 @@ fazer de lá?
 <''>... um caminho irá aparecer,
 marcante e claro de se ver,
 
-feito de estrelas de luz brilhantes,
+feito de estrelas de luz brilhante,
 cada uma apenas em um quadrante.<''>
 
 Para simplificar esse trecho, as estrelas
 no chão que estão completamente isoladas
-em quadrados individuais irão te
-guiar para a porta escondida.
+em quadrados individuais irão guiar
+você para a porta escondida.
 !******************************!
 Se você marcar todos os quadrados
 que possuem uma única estrela, eles 
@@ -612,9 +613,10 @@ enviar vapor da caldeira para a área 2,
 mas não para 1 ou 3?
 
 Todas as válvulas começam fechadas.
-Responda usando a solução que pede o
-menor número de válvulas abertas.
-Toque numa válvula para abrir ou fechá-la.
+Responda usando a solução que pede
+o menor número de válvulas abertas.
+Toque em uma válvula para abrir ou
+fechá-la.
 !******************************!
 Muito bem!
 
@@ -626,7 +628,7 @@ Que pena!
 Tem certeza de que um pouco do vapor não
 foi para as áreas 1 ou 3?
 !******************************!
-Porções de canos conectados com o 2
+Pedaços de canos conectados com o 2
 também vão para 1 e 3. Tenha certeza de
 que você não abra nenhuma das válvulas
 que levam vapor para essas outras áreas.
@@ -634,7 +636,7 @@ que levam vapor para essas outras áreas.
 Na solução, o vapor vem do cano
 central que existe na caldeira.
 !******************************!
-A solução para esse enigma pede que
+A solução para este enigma pede que
 você abra três válvulas. Na primeira
 bifurcação dos canos, vá para cima.
 !******************************!
@@ -644,10 +646,11 @@ bifurcação dos canos, vá para cima.
 <''>Um verdadeiro guerreiro sempre tem
 sua espada em mãos.<''>
 
-Essas foram as últimas palavras para o
-Professor Layton antes de começar o duelo.
-Você consegue encontrar a verdadeira
-espada no meio da coleção do Anton?
+Essas foram as últimas palavras do Anton
+para o Professor Layton antes de começar
+o duelo. Você consegue encontrar a
+verdadeira espada no meio da coleção
+do Anton?
 
 Circule a área para sacar sua arma
 escolhida!
@@ -658,7 +661,7 @@ Muito bem!
 sua espada em mãos.<''>
 
 As palavras do Anton eram uma dica sutil
-que todas as espadas na parede são
+de que todas as espadas na parede são
 enfeites. A única espada de verdade é
 aquela na mão do traje de armadura! 
 !******************************!
@@ -683,7 +686,7 @@ Alguém na imagem tem uma espada
 <''>em mãos<''>?
 
 Talvez algum dos trajes de armadura
-saiba a resposta...
+tenha a resposta...
 !******************************!
 [n136.dat]
 <0139>Costa a Costa
@@ -2930,7 +2933,7 @@ O resto é com você.
 [n203.dat]
 <0138>A Caixa Elísia
 <00><3C><36><30><12><81><12><CB><55><04><04><FF>
-<''>O sol nasce quando nos olhamos,
+<''>Quando nos olhamos, o sol nasce
 e, quando o vento soprar, descobrirás
 o meu coração.<''>
 
@@ -2969,7 +2972,7 @@ o céu.
 !******************************!
 <''>E, quando o vento soprar...<''>
 
-E como você deve ter percebido, quando
+E, como você deve ter percebido, quando
 o sol está no alto, um buraquinho
 aparece. Parece que a próxima coisa
 que você precisa fazer é deixar uma
@@ -2985,8 +2988,8 @@ bastante para o sol se mexer.
 <00><3C><36><30><01><54><19><CC><FF><03><04><47>
 A chave para a porta está presa atrás
 de uns blocos. Deslize a chave para a mão
-do professor para que, então, os dois possam
-fugir!
+do professor para que, então, os dois
+possam fugir!
 !******************************!
 Ótimo trabalho!
 
@@ -2996,7 +2999,7 @@ finalmente sair dessa sala!
 Que pena!
 !******************************!
 Antes que você comece a mover as coisas
-por aí, foque no que se precisa
+por aí, foque no que você precisa
 conseguir primeiro.
 
 Comece descobrindo um jeito de levar
@@ -3008,7 +3011,7 @@ mais fácil começar tudo de novo.
 
 No começo, mova o bloco amarelo para o
 espaço próximo da mão do professor.
-Depois, leve o bloco quadrado da direita
+Depois, pegue o bloco quadrado da direita
 e mova-o para a esquerda. Após isso,
 você precisará encontrar um jeito de
 mover aquele bloco amarelo para a área
@@ -3052,11 +3055,11 @@ todas as outras.
 Você tem que fazer com que a somatória
 de cada linha horizontal, vertical e
 diagonal de quatro números dê o mesmo
-valor, então primeiro você precisa
+valor, então, primeiro você precisa
 descobrir que valor é esse.
 
 O total está lá para você descobrir,
-então examine o quadrado até achá-lo.
+então, examine o quadrado até achá-lo.
 !******************************!
 Uma linha em diagonal já parece estar
 no lugar certo. A somatória de seus

@@ -438,7 +438,7 @@ devolver isto a você.
 <01:0000001F><03:9>b1 smile<03:5>NONE<01:00000002><03:262>Ah, bom, na realidade há uma
 segunda maneira de abri-la.<W>
 !------------------------------!
-<''>O sol nasce quando nos olhamos,
+<''>Quando nos olhamos, o sol nasce
 e, quando o vento soprar, descobrirás
 o meu coração.<''><W>
 !------------------------------!
@@ -451,7 +451,7 @@ significa. Compreende, garoto?
 Deixa eu tentar!
 !******************************!
 [t17_140_1200.gds]
-<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:104><''>O sol nasce quando nos olhamos,
+<01:00000002><03:10>b2 normal<03:5>NONE<01:00000003><03:104><''>Quando nos olhamos, o sol nasce
 e, quando o vento soprar, descobrirás
 o meu coração.<''><W>
 !------------------------------!
