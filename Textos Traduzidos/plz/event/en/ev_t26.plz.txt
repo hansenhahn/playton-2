@@ -1,5 +1,5 @@
 [t26_000_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:21>Dê uma experimentada neste.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:21>Experimente este.
 !******************************!
 [t26_001_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Pronto para tentar novamente?
@@ -24,7 +24,8 @@ meu garoto!
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:46>Não deu para evitar resolvê-lo, deu?
 !******************************!
 [t26_013_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:35>Genial! Sabia que era capaz de resolvê-lo.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:35>Genial! Sabia que era capaz de
+resolvê-lo.
 !******************************!
 [t26_014_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:43>Este enigma não é mole, é?
@@ -36,8 +37,8 @@ meu garoto!
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:20>Pronto para tentar novamente?
 !******************************!
 [t26_022_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:65>O traço de um bom enigma é ser um
-a qual se volta de novo e de novo.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:65>Um bom enigma é aquele a qual se
+volta de novo e de novo.
 !******************************!
 [t26_023_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:21>Muito bom, meu rapaz!
@@ -55,7 +56,8 @@ a qual se volta de novo e de novo.
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:34>Se importaria de resolver novamente?
 !******************************!
 [t26_033_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:43>Muito bom, Luke. Eu sabia que conseguiria!
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:43>Muito bem, Luke. Eu sabia que
+conseguiria!
 !******************************!
 [t26_034_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>Este enigma é uma noz difícil de quebrar.
@@ -87,8 +89,8 @@ que eu esperasse menos de você.
 não é?
 !******************************!
 [t26_053_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:59>Devo dizer, estou impressionado com
-suas habilidades, meu menino.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:59>Devo dizer que estou impressionado
+com suas habilidades, meu garoto.
 !******************************!
 [t26_054_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>Este enigma está dando uma bela luta.
@@ -104,8 +106,8 @@ suas habilidades, meu menino.
 enigma, consegue?
 !******************************!
 [t26_063_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:44>Bem feito, Luke.
-Eu sabia que tinha a garra!
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:44>Muito bem, Luke.
+Eu sabia que você conseguiria!
 !******************************!
 [t26_064_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:28>Você parece empacado.
@@ -120,11 +122,11 @@ Eu sabia que tinha a garra!
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:51>Não pôde resisitir resolvê-lo, pôde?
 !******************************!
 [t26_073_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:60>Maravilhoso, meu menino. Suas habilidades
-estão melhorando a toda hora.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:60>Maravilhoso, meu garoto. Suas
+habilidades estão cada vez melhores.
 !******************************!
 [t26_074_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>Este é bem dificultoso,
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:42>Este é bem difícil,
 não é?
 !******************************!
 [t26_080_100.gds]
@@ -174,11 +176,12 @@ tanto intratável, não é?
 fácil.
 !******************************!
 [t26_104_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:64>Não deixe isso te incomodar, meu garoto.
-Todos empacam de vez em quando.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:64>Não deixe isso lhe incomodar, meu
+garoto. Todos empacam de vez em
+quando.
 !******************************!
 [t26_110_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:40>Luke, meu menino, dê uma olhada
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:40>Luke, meu garoto, dê uma olhada
 neste.
 !******************************!
 [t26_111_100.gds]
@@ -189,7 +192,8 @@ neste.
 revisitar.
 !******************************!
 [t26_113_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:35>Maravilhoso. Eu sabia que era capaz disso!
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:35>Maravilhoso. Eu sabia que era
+capaz disso!
 !******************************!
 [t26_114_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:40>Este enigma não é canja, é?

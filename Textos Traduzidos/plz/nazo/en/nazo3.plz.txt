@@ -691,7 +691,7 @@ tenha a resposta...
 [n136.dat]
 <0139>Costa a Costa
 <00><46><3F><38><72><01><16><88><F6><03><02><FF>
-Uma mulher embarca num voo sem escalas
+Uma mulher embarca em um voo sem escalas
 partindo de Los Angeles às 12:00 e chega em
 Nova York às 20:00. No dia seguinte, a mesma
 mulher sai de Nova York às 12:00 e voa de
@@ -700,10 +700,10 @@ afetado por turbulências aéreas e levou a
 mesma quantidade de tempo para alcançar o
 seu destino quanto levou no dia anterior.
 A diferença no fuso horário diz que Nova
-York está sempre três horas adiantado, em
-relação à Los Angeles. Consegue descobrir
-que horas o avião chega de volta em
-Los Angeles?
+York está sempre três horas adiantado em
+relação à Los Angeles. Você consegue
+descobrir que horas o avião chega de
+volta em Los Angeles?
 #rDê sua resposta em notação de 24 horas.#x
 !******************************!
 Bom trabalho!
@@ -717,21 +717,21 @@ duração do voo deve ser de cinco horas.
 O voo de volta a Los Angeles também leva
 cinco horas, significando que chegou às
 17:00 no horário de Nova York. Calcule a
-diferença de tempo pra saber o horário
+diferença de tempo para saber o horário
 de chegada do avião em Los Angeles: 14:00.
 !******************************!
 Que pena!
 
 Calcular essa diferença de tempo
 problemática pode ser desafiador, mas
-contanto que você se lembre da lógica por
-trás disso, irá descobrir a resposta
+contanto que você se lembre da lógica
+por trás disso, irá descobrir a resposta
 correta sem muito trabalho.
 !******************************!
 Pense sobre a rotação da Terra.
-O horário nas localidades mais para o
-leste são adiantadas que as para
-o oeste.
+O horário nas localidades mais ao
+leste estão adiantadas em relação às
+localidades mais ao oeste.
 
 Assim, dado uma diferença de três
 horas, quando for 12:00 em Los Angeles,
@@ -744,7 +744,7 @@ aterrissou às 20:00. Então o voo em
 si deve ter levado cinco horas.
 !******************************!
 A diferença no horário tem o efeito
-reverso no voo retornando em
+reverso no voo retornando de
 Los Angeles.
 
 Se o avião para Los Angeles saiu de Nova
@@ -758,24 +758,24 @@ saiu às 09:00 no horário de Los Angeles.
 O diagrama abaixo mostra uma estrutura
 feita de 28 blocos. Desses blocos, 27 formam
 um cubo perfeito, com um bloco restante
-sentado em cima pra fora de todo o resto.
+colocado em cima dos demais.
 
 Abaixo desse diagrama estão os mesmos 28
 blocos, mas dessa vez o cubo foi separado
-em cinco pedaços. Consegue descobrir qual
-dos pedaços, de A até E, contém o único
+em cinco pedaços. Você consegue descobrir
+qual dos pedaços, de A até E, contém o único
 bloco que fica sobre todos os outros?
 
 Assuma que todos os cinco pedaços se
-encaixam juntos como mostrado e não
-pode ser rotacionado de sua direção atual.
+encaixam juntos como mostrado e não podem
+ser rotacionados de sua direção atual.
 !******************************!
 Ótima visão!
 
-O B contém bloco 28.
+O B contém o bloco 28.
 
 Você foi capaz de visualizar todas as
-cinco peças reformando a estrutura
+cinco peças formando a estrutura
 original?
 !******************************!
 Que pena!
@@ -789,21 +789,22 @@ bloco inferior esquerdo iria sair
 para fora do cubo. D não deve ser
 a resposta correta.
 
-Lembre-se, cada pedaço está preso
+Lembre-se, cada pedaço está travado
 em sua direção atual e não pode ser
 rotacionado.
 !******************************!
 Se o bloco que você procura fosse o
-topo do C, então D seria forçado pra
+topo do C, então D seria forçado para
 fora da estrutura quando todas as
 peças forem postas juntas.
 
 O pedaço C não pode ser a resposta.
 !******************************!
 O pedaço D forma a parte do lado
-esquerdo frontal do cubo largo. Use essa
-informação para começar a reconstrução
-da estrutura na sua cabeça.
+esquerdo frontal do cubo maior.
+Use essa informação para começar
+a reconstrução da estrutura na sua
+cabeça.
 
 Assim que as peças ficarem juntas, a
 resposta se tornará clara.
@@ -814,7 +815,6 @@ resposta se tornará clara.
 Igual nas vezes anteriores, você pode mover
 qualquer bolinha no tabuleiro, contanto que
 satisfaça as seguintes instruções:
-
 <60> Para mover uma bolinha, você precisa saltar
 sobre outra, sempre na horizontal ou na
 vertical, terminando em um espaço vazio.
@@ -824,7 +824,7 @@ esta desaparecerá do tabuleiro.
 <60> O enigma acaba quando todas as bolinhas
 desaparecem, exceto uma.
 
-OK, tá bom de tanta regra. Tente resolvê-lo.
+Chega de tanta regra. Tente resolver.
 !******************************!
 Resolvido com maestria!
 !******************************!
@@ -844,14 +844,14 @@ alcançá-las depois.
 !******************************!
 À medida que o número de bolinhas
 do tabuleiro vai diminuindo, as que
-restarem ficarão num formato de
+restarem ficarão em um formato de
 tabuleiro que você já resolveu antes.
 
-Se já chegou até aqui, esse enigma já
-tá no papo pra você.
+Se já chegou até aqui, este enigma já
+está no papo pra você.
 !******************************!
 Desculpe, mas não tem mais dicas para
-serem dadas pra resolver esse enigma.
+serem dadas para resolver este enigma.
 
 Você talvez tenha ouvido falar que os
 maiores jogadores de <''>Resta Um<''> não dão
@@ -859,49 +859,49 @@ esses enigmas por completo até que a
 última bolinha acabe no espaço central.
 
 Mas um passo de cada vez. Vamos terminar
-esse enigma primeiro.
+este enigma primeiro.
 !******************************!
 [n139.dat]
 <0142>A Vida de um Erudito
 <00><3C><36><30><12><01><16><8B><F6><03><03><FF>
-As seguintes palavras estão escritas numa
+As seguintes palavras estão escritas na
 lápide de um matemático famoso.
 
-<''>Seguindo o 1/6 da minha vida que passei
-como criança, passei 1/12 da minha vida como
-um jovem. Então 1/7 da minha vida depois, me
-casei. Cinco anos depois me casei, e fui
-abençoado com uma criança, mas infelizmente,
+<''>Após passar 1/6 da minha vida como
+criança, passei 1/12 da minha vida como um
+jovem. Então 1/7 da minha vida depois, me
+casei. Cinco anos depois de me casar, fui
+abençoado com uma criança, mas, infelizmente,
 ela viveu apenas metade do tempo que eu
 estava vivo antes de falecer. Hoje, quatro
 anos após sua morte, partirei deste mundo.<''>
 
-Consegue descobrir por quantos anos esse
-matemático viveu?
+Você consegue descobrir por quantos anos
+esse matemático viveu?
 !******************************!
 Muito bem!
 
 O matemático esteve vivo por 84 anos.
-Elaborando uma equação linear, amostrado
-acima, resume basicamente esse enigma.
+Elaborando uma equação linear, como
+mostrada acima, resume bem este enigma.
 
 Só por curiosidade, um enigma bem similar
-a esse que você resolveu diz estar
+a este que você resolveu diz estar
 escrito na lápide da tumba de Diofanto,
 um famoso matemático da Grécia antiga.
 !******************************!
 Que pena!
 
-Esse enigma frita um pouco o cérebro,
+Este enigma frita um pouco o cérebro,
 mas aguente firme.
 !******************************!
 Tente elaborar uma equação linear
-onde a vida do matemático em anos se
-iguala a x.
+onde a vida do matemático em anos
+é igual a x.
 !******************************!
 Você prefere não usar matemática
-avançada para resolver esse enigma?
-Não tema, você também pode resolver esse
+avançada para resolver este enigma?
+Não tema, você também pode resolver este
 enigma sem usar uma equação linear.
 
 Somando juntos 1/6, 1/12, 1/7 e 1/2
@@ -912,37 +912,35 @@ quatro anos de duração. Você pode
 encontrar a resposta usando apenas
 essa informação.
 !******************************!
-O menor denominador comum de 1/2,
-1/6, 1/7 e 1/12 parece ser a mesma
-duração da vida do matemático
-expressada em anos.
+O menor denominador comum de 2, 6,
+7 e 12 parece ser igual a duração da
+vida do matemático expressa em anos.
 !******************************!
 [n140.dat]
 <0143>Cálculos Alfabéticos
 <00><3C><36><30><12><01><1A><8C><00><04><03><FF>
-Se você pegar o problema 11 x 11 = 121 e
+Se você pegar a equação 11 x 11 = 121 e
 substituir os 1s com As e os 2s com Bs,
-conseguirá AA x AA = ABA.
+terá AA x AA = ABA.
 
 Uma equação de letras similar a essa seria
-AA x AA = BBCC. Consegue descobrir quanto
-vale A, B e C na equação acima? Os
-valores de A e B podem ter mudado ou
-não do primeiro exemplo.
+AA x AA = BBCC. Você consegue descobrir
+quanto valem A, B e C na equação acima?
+Os valores de A e B podem ter ou não
+mudado em relaçao ao primeiro exemplo.
 !******************************!
 Que mente afiada!
 
 88 x 88 = 7744
 
-Os números funcionam perfeitamente se você
-declarar A com valor de 8, B com valor de 7
-e C com valor de 4.
+Os números funcionam perfeitamente se
+você declarar A com valor de 8, B com
+valor de 7 e C com valor de 4.
 
 Essa equação pode ser ameaçadora no
 começo, mas se você ter em mente
 que os valores potenciais de A são
 limitados, tudo começa a se encaixar!
-
 !******************************!
 Que pena!
 
@@ -950,14 +948,13 @@ Tente pensar melhor sobre os cálculos
 mais uma vez.
 !******************************!
 Cada letra é representada por um único
-dígito, então as possibilidades para
-cada letra poder representar são
-bem limitadas.
+número, então as possibilidades para
+cada letra são bem limitadas.
 !******************************!
 Se você começar a substituir o A por 1 e
 fazer seu caminho por todos os outros
-possíveis dígitos para A, irá encontrar
-sua resposta bem cedo. E ainda mais, se
+possíveis números, irá encontrar sua
+resposta bem cedo. E ainda mais, se
 você usar uma calculadora, tentar cada
 possibilidade irá demorar um minuto ou
 dois no máximo.
@@ -965,23 +962,22 @@ dois no máximo.
 Mas, se puder, tente resolver usando
 apenas sua cabeça.
 !******************************!
-Tente substituir cada dígito por A e
-mude em ordem crescente, como detalhado
-na Dica 2. Irá encontrar a resposta
+Tente substituir A por cada número e
+em ordem crescente, como detalhado na
+Dica 2. Você irá encontrar a resposta
 na última metade de sua busca. 
 !******************************!
 [n141.dat]
 <0144>Super Panquecas
 <00><63><58><4D><02><01><0D><05><F3><03><03><FF>
-Toma aí um enigma gostoso pra você.
+Aqui vai um enigma saboroso para você.
 
-Você consegue mover a pilha de panquecas do
-prato azul à esquerda para o prato vermelho
-à direita? Espera aí, não é tão fácil quanto
-parece. Você deve seguir estas regras:
-
-<60> Você só pode mover uma panqueca de cada
-vez.
+Você consegue mover a pilha de panquecas
+do prato azul à esquerda para o prato
+vermelho à direita? Espere aí, não é tão
+fácil quanto parece. Você deve seguir
+estas regras:
+<60> Você só pode mover uma panqueca por vez.
 <60> Você não pode colocar uma panqueca grande
 em cima de uma pequena.
 
@@ -1015,8 +1011,7 @@ do prato vermelho para a pilha da
 esquerda. Agora traga a menor panqueca
 que você tem para cima da pilha de
 panquecas da esquerda.
-
-Você pode resolver esse enigma repetindo
+Você pode resolver este enigma repetindo
 o processo demonstrado nas Dicas 1 e 2
 enquanto põe panquecas cada vez maiores,
 mas não é muito eficiente.
@@ -1033,15 +1028,15 @@ tarefa.
 
 <''>Há 500 pérolas naquela caverna. Quero que
 você vá e traga um certo número de pérolas
-para mim. Esse número te permite dividir as
+para mim. Esse número permite dividir as
 pérolas em grupos de 2, 3, 4, 5, 6 ou 7 e
-sempre terá uma pérola restante. Traga-me
-esse número de pérolas e você poderá ficar
+sempre sobrará uma pérola. Traga-me esse
+número de pérolas e você poderá ficar
 com todas para si!<''>
 
 O viajante se esforça, mas o número de
-de pérolas que ele traz não é divisível por
-grupos de 4. Quantas pérolas ele trouxe?
+pérolas que ele traz não é divisível
+por 4. Quantas pérolas ele trouxe?
 !******************************!
 Brilhante!
 A resposta é 211 pérolas. O número do
@@ -1050,43 +1045,43 @@ mais que o número que é divisível por 2,
 3, 5, 6 e 7. O jeito mais rápido de encontrar
 o número seria fazer uma lista de múltiplos
 de 7 até o limite de 500 e então ver se esses
-números são também divisíveis pelo os outros
+números são também divisíveis pelos outros
 números. Isso levaria um bom tempo, a menos
 se você percebesse que qualquer número
 divisível por 6 também é divisível por 2 e
-3, então você tem apenas que comparar com 6
-e 5. Imagine só se o viajante tivesse trazido
-421 pérolas...
+3, então você tem apenas que comparar com
+6 e 5. Imagine só se o viajante tivesse
+trazido 421 pérolas...
 !******************************!
 Que pena!
 
 Este enigma parece ser doloroso resolver,
-mas se você tiver tempo pra calcular tudo,
-não terá nada de difícil sobre isso. E
-há jeitos de reduzir a quantidade de
+mas se você tiver tempo para calcular,
+não terá nada de difícil sobre isso.
+E há jeitos de reduzir a quantidade de
 cálculos que você precisa fazer.
 !******************************!
 Vamos reduzir o diálogo do mago um pouco.
-Se sempre restará uma pérola quando
-dividido pelo os números de 2 a 7, então
-foi pedido ao viajante para encontrar um
-número que possa ser dividido
+Se sempre vai sobrar uma pérola quando
+dividido pelos números de 2 a 7, então
+foi pedido ao viajante para encontrar
+um número que possa ser dividido
 perfeitamente por esses números,
-com um adicionado no final.
+acrescentado de um.
 
-Não se esqueça que a resposta dele falha
-levando em conta com o número 4.
+Não se esqueça que a resposta do
+viajante falha com o número 4.
 !******************************!
 O número do viajante deve ter um a mais
 e deve ser divisível por 2, 3, 5, 6 e 7.
-Isso significa precisa adicionar mais um no
-múltiplo de todos esses números.
-Descobrir parece difícil, mas há jeitos de
-deixar mais fácil. O maior número, 7, terá
-a menor quantidade de múltiplos entre
-1 e 500, então você deveria começar a
-trabalhar com esses múltiplos e então ver
-quais são divisíveis pelo os outros
+Isso quer dizer que você precisa somar um
+ao múltiplo de todos esses números. Parece
+difícil, mas há um jeito de simplificar
+as coisas. O maior número, 7, terá a
+menor quantidade de múltiplos entre 1
+e 500, então você deveria começar a
+trabalhar com esses múltiplos e então
+ver quais são divisíveis pelos outros
 números.
 !******************************!
 Se você está achando muito cansativo
@@ -1094,7 +1089,7 @@ descobrir os múltiplos comuns desses
 números da lista, há um pequeno truque.
 
 Qualquer número que é divisível por 6
-também é um múltiplo de 2 e 3.
+também é divisível por 2 e 3.
 !******************************!
 [n143.dat]
 <0146>Ângulos numa Caixa
@@ -1147,24 +1142,24 @@ não acha?
 <00><50><48><40><12><01><19><90><FF><03><02><FF>
 Este mapa ilustra um labirinto subterrâneo,
 mas está todo bagunçado, então cabe a você
-colocar em ordem novamente.
+colocá-lo em ordem novamente.
 
-Cada pedaço dos segmentos de túnel deve
-se encontrar com as partes que são
-adjacentes. As únicas vezes que os
-segmentos podem estar com um lado sem
-tocar nos outros segmentos são os pontos
-de entrada e saída. Os túneis não podem
-encarar as paredes.
+Cada segmento do túnel deve ser
+conectado a outro segmento do túnel.
+Os únicos pontos em que os segmentos
+podem estar com um lado sem tocar nos
+outros segmentos são os pontos de
+entrada e saída. Os túneis não podem
+tocar nas paredes.
 
-Deslize as peças por aí e veja se
-conseguirá resolver o enigma!
+Deslize as peças e veja se você
+consegue resolver o enigma!
 !******************************!
 Muito bem!
 
 Ver quais peças se conectam com as outras
-é fácil, mas colocar todas elas em uma
-só pode ser difícil.
+é fácil, mas colocar todas elas nos locais
+corretos pode ser bem difícil.
 !******************************!
 Que pena!
 !******************************!
