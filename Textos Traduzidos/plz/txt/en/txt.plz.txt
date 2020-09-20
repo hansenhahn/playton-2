@@ -3134,17 +3134,17 @@ que leva à Folsense.
 !******************************!
 [chr_75.txt]
 O Enigmano Um se anima
-bastante com enigmas. Ele
-tem muita energia e um
-enorme bigode. No passado
-ele era muito atlético
-e popular entre as
-mulheres. Agora ele
+bastante com enigmas.
+Ele tem muita energia e
+um enorme bigode. No
+passado, ele era muito
+atlético e popular entre
+as mulheres. Agora ele
 ganhou uns quilos, mas
-ainda sabe como usar suas
-poses atléticas para
-dar um toque extra aos
-enigmas.
+ainda sabe como usar
+suas poses atléticas
+para dar um toque extra
+aos enigmas.
 !******************************!
 [chr_76.txt]
 Famoso pela sua barba
@@ -3153,8 +3153,8 @@ espessa, o Enigmano Dois
 grupo. Ele é um artista
 nato, capaz de várias
 proezas distintas. Você
-raramente o verá sem sua
-vassoura e outros
+raramente o verá sem
+sua vassoura e outros
 equipamentos.
 !******************************!
 [chr_77.txt]
@@ -3176,11 +3176,12 @@ enigmano é cercada por
 mistério. Alguns dizem que
 ele domina os enigmas das
 sombras, embora ninguém
-saiba ao certo. O Enigmano
-Quatro é extremamente
-inteligente, e venceria
-qualquer pessoa em uma
-batalha de intelectos.
+saiba ao certo.
+O Enigmano Quatro é
+extremamente inteligente,
+e venceria qualquer
+pessoa em uma batalha de
+intelectos.
 !******************************!
 [chr_79.txt]
 O Enigmano Cinco acredita
@@ -3212,13 +3213,13 @@ por todos.
 [chr_80.txt]
 A Enigmina Um é quem mais
 conhece a moda e suas
-tendências mais recentes.
-Uma das tendências é
-dizer para as pessoas a
-frase "entrou por um
-ouvido e saiu pelo outro",
-o que tem sido o que ela
-mais tem dito ultimamente.
+tendências. Uma das
+tendências é dizer para
+as pessoas a frase
+"entrou por um ouvido e
+saiu pelo outro", o que
+tem sido o que ela mais
+tem dito ultimamente.
 !******************************!
 [chr_81.txt]
 A Enigmina Dois tem uma
@@ -3234,48 +3235,51 @@ diplomata.
 !******************************!
 [chr_82.txt]
 A Enigmina Três é a mais
-responsável do grupo, e
+responsável do grupo e
 sempre tenta contribuir
 com a comunidade. No
-futuro, ela gostaria de
-ser professora de música,
-mas tem um porém: ela tem
-um ouvido tão terrível
-que não consegue acertar
-uma nota, o que é uma
-pena.
+futuro, ela gostariade
+ser professora de
+música, mas tem um
+porém: ela tem um ouvido
+tão terrível, que não
+consegue acertar uma
+nota, o que é uma pena.
 !******************************!
 [chr_83.txt]
-A Enigmina Quatro tem um
-infeliz costume de se
-meter nas conversas de
-todos à sua volta. Alguns
-veem-na como intrometida,
-mas ela só está tentando
-ser amigável.
+A Enigmina Quatro tem
+o infeliz costume de se
+meter nas conversas 
+de todos à sua volta.
+Alguns veem-na como
+intrometida, mas ela só
+está tentando ser
+amigável.
 !******************************!
 [chr_84.txt]
 Em um mar de estranheza,
-a Enigmina Cinco acaba por
-ser a mulher mais normal
-de todas. Ela é boa em
-se divertir em quase toda
-situação, não importa o
-quão mundana for. Ela
-acredita que seu maior
-ponto forte é seu bom
-gosto por acessórios.
+a Enigmina Cinco acaba
+por ser a mulher mais
+normal de todas. Ela é
+boa em se divertir em
+quase toda situação, não
+importa o quão mundana
+for. Ela acredita que
+seu maior ponto forte é
+o seu bom gosto por
+acessórios.
 !******************************!
 [chr_85.txt]
 Flora deve ter pensado
 que um cachecol e um
-óculos de sol seria o
+óculos de sol seriam o
 suficiente para esconder
 sua identidade. Claro,
-qualquer um que a conhece
-devia tê-la reconhecido
-no mesmo instante, mas
-por alguma razão incomum,
+qualquer um que a
+conhece deve tê-la
+reconhecido no mesmo
+instante, mas, por
+alguma razão incomum,
 nem Layton e nem Luke
 perceberam seu disfarce.
 !******************************!
@@ -3296,30 +3300,32 @@ dela foi imitado.
 [chr_87.txt]
 Duke Herzen é o pai de
 Anton e Beluga, e também
-é o homem que descobriu a
-mina de ouro de Folsense
-e enriqueceu a cidade.
-Inflexível e teimoso, ele
-nunca se deu bem com
-seus filhos, mas sempre
-tentava fazer o que
-achava melhor para eles.
+é o homem que descobriu
+a mina de ouro de
+Folsense e enriqueceu a
+cidade. Inflexível e
+teimoso, ele nunca se
+deu bem com seus filhos,
+mas sempre tentava
+fazer o que achava
+melhor para eles.
 !******************************!
 [chr_88.txt]
-Winston é o chofer devoto
-da família Anderson. Ao
-ver Katia indo embora em
-sua jornada à Folsense,
+Winston é o chofer
+devoto da família
+Anderson. Ao ver Katia
+indo embora em sua
+jornada à Folsense,
 imagina-se que ele tenha
 sentido uma pontada de
 ciúme, embora irracional,
 por sua decisão de viajar
-de trem ao invés de ir de
-carro.
+de trem ao invés de ir
+de carro.
 !******************************!
 [chr_89.txt]
-O orgulho e alegria de
-Layton é um ode ao design
+O orgulho de Layton
+é uma ode ao design
 clássico, envolto em um
 metal vermelho brilhoso.
 Ele mantém o carro em
