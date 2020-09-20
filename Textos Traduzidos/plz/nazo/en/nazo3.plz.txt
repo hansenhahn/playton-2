@@ -181,7 +181,7 @@ Que perturbador.
 Que pena!
 
 Usar a função Notas poderá lhe ajudar
-a fazer esse enigma funcionar.
+a fazer este enigma funcionar.
 !******************************!
 Use a função Notas para tentar criar
 os OVNIs usando cada parte possível.
@@ -473,8 +473,8 @@ nas estacas para marcá-las com um X.
 !******************************!
 Você conseguiu!
 
-Marque a área circulada pela corda e
-de repente esse enigma ficará mais fácil.
+Marque a área circulada pela corda e,
+de repente, este enigma ficará mais fácil.
 Só há uma estaca que precisa ser removida
 para o homem fazer a sua fuga. É melhor
 ele correr e soltar logo essa estaca!
@@ -1072,10 +1072,10 @@ acrescentado de um.
 Não se esqueça que a resposta do
 viajante falha com o número 4.
 !******************************!
-O número do viajante deve ter um a mais
-e deve ser divisível por 2, 3, 5, 6 e 7.
-Isso quer dizer que você precisa somar um
-ao múltiplo de todos esses números. Parece
+O número do viajante deve ter um a mais e
+deve ser divisível por 2, 3, 5, 6 e 7. Isso
+quer dizer que você precisa somar um ao
+múltiplo de todos esses números. Parece
 difícil, mas há um jeito de simplificar
 as coisas. O maior número, 7, terá a
 menor quantidade de múltiplos entre 1
@@ -1193,7 +1193,8 @@ A resposta é 582 x 3 = 1746.
 !******************************!
 Que pena!
 
-Talvez você fez um cálculo errado?
+Talvez você tenha feito
+algum cálculo errado?
 !******************************!
 O número na direita da equação tem
 quatro dígitos, cujo primeiro é o 1.
@@ -1206,13 +1207,13 @@ O dígito único que multiplica é 3.
 <0149>Ciclo Numérico
 <00><46><3F><38><12><01><16><92><F6><03><04><FF>
 Há um padrão nesse ciclo de números.
-Qual número deveria ir no lugar desse
+Qual número deve ir no lugar desse
 ponto de interrogação?
 !******************************!
 Está certo!
 
-É o 89. Eleve ao quadrado cada dígito de
-um número e então adicione esses valores
+É o 89. Eleve ao quadrado cada dígito
+de um número e então some esses valores
 para descobrir o próximo número do ciclo.
 !******************************!
 Que pena!
@@ -1236,7 +1237,7 @@ Leve o cavalo em um passeio ao redor do
 tabuleiro.
 
 No xadrez, os cavalos se movem dois espaços
-para frente, e um espaço perpendicular a
+para frente e um espaço perpendicular a
 cada jogada. A direção inicial pode ser
 para cima, baixo, esquerda ou direita.
 
@@ -1248,10 +1249,10 @@ Maravilhoso!
 !******************************!
 Que pena!
 !******************************!
-Este tabuleiro é 8 x 8, igual a um tabuleiro
-de xadrez normal. Isso significa que este
-enigma é igual ao Problema do Cavalo
-original.
+Este tabuleiro é 8 x 8, igual a um
+tabuleiro de xadrez normal. Isso
+significa que este enigma é igual ao
+Problema do Cavalo original.
 
 Não há dicas para serem dadas aqui!
 O melhor a fazer é você achar a
@@ -1260,21 +1261,21 @@ solução sozinho.
 O Problema do Cavalo geralmente envolve
 retornar o cavalo para o espaço inicial
 no fim do passeio. Se você está almejando
-isso, então escolher o espaço inicial
-correto é muito importante. Por que
+isso, então escolher o primeiro movimento
+corretamente é muito importante. Por que
 você não usa a função Notas para te
 ajudar?
 !******************************!
-Há muitos pesquisadores ávidos de xadrez
-na Europa e nos EUA que escrevem artigos
-bem detalhados com soluções bem
-elegantes para enigmas de xadrez.
-Pesquisar por esses recursos é mais
-uma forma de se divertir com enigmas
-de xadrez.
+Há muitos pesquisadores ávidos por
+xadrez na Europa e nos EUA que
+escrevem artigos bem detalhados com
+soluções bem elegantes para enigmas
+de xadrez. Pesquisar por esses
+artigos é mais uma forma de se
+divertir com enigmas de xadrez.
 !******************************!
 [n148.dat]
-<0151>A pontuação de John
+<0151>A Pontuação de John
 <00><63><58><4D><72><01><16><94><F6><03><01><FF>
 Quatro estudantes fizeram um teste onde
 cada pergunta tinha duas possíveis
@@ -1286,14 +1287,15 @@ estão apresentados abaixo, mas o professor
 esqueceu sobre a nota do John. John estava
 indo para o escritório do professor quando
 Mary o chamou de volta, dizendo que daria
-pra determinar sua pontuação usando o
+para determinar sua pontuação usando o
 resultado dos outros testes. Você consegue
 descobrir a pontuação de John?
 !******************************!
 Nota 10!
 
-Nota 10 pra você, no sentido figurado.
-Infelizmente pro John, a nota foi 60 pontos.
+Nota 10 para você, no sentido figurado.
+Infelizmente para o John, a nota foi
+60 pontos.
 
 Baseado nos resultados dos três testes,
 você chegaria à conclusão de quatro
@@ -1306,15 +1308,15 @@ Que pena!
 Você precisa diminuir o máximo de
 condições. Este enigma é complicado.
 !******************************!
-Para resolver esse enigma, você precisa
+Para resolver este enigma, você precisa
 descobrir quais respostas são corretas
-para as 10 perguntas. A forma mais fácil é
-criar uma tabela mostrando a provável
+para as 10 perguntas. A forma mais fácil
+é criar uma tabela mostrando a provável
 resposta certa para cada pergunta,
 compará-las com os resultados do teste
 para que combine com as notas de cada
 pessoa. Já que Mary acertou sete
-perguntas, as respostas dela deve ser
+perguntas, as respostas dela devem ser
 o pontapé inicial para criar o gabarito.
 Preste atenção onde as respostas dela
 diferem dos outros.
@@ -1323,14 +1325,14 @@ Está achando difícil em encontrar as
 respostas corretas? Usar o bom senso
 pode ser um bom ponto de partida.
 Se todos os quatro alunos responderam
-uma pergunta do mesmo jeito então
+uma pergunta do mesmo jeito, então
 é bem provável que esta seja a
 resposta correta, não?
 !******************************!
 Você deve ter percebido que as quatro
 pessoas deram a mesma resposta em
 quatro perguntas. Não pode estar tudo
-correto, já que lista só fez 30 pontos.
+correto, já que Lisa só fez 30 pontos.
 Vamos assumir que só três estão
 corretas, então...
 !******************************!
@@ -1346,7 +1348,7 @@ Um total de 59 partidas foram jogadas no
 torneio. Quantas partidas o Monty jogou
 antes de ir embora?
 
-O jogo de cartas em questão é pra dois
+O jogo de cartas em questão é para dois
 jogadores, e nenhuma pessoa jogou com uma
 outra mais de uma vez. Ninguém perdeu
 nenhuma partida além do Monty.
@@ -1371,20 +1373,20 @@ Que pena!
 Isso é um problema de cálculo, mas
 requer muita engenhosidade para resolver.
 !******************************!
-Crie uma equação com o número de pessoas
-e o número de partidas como variáveis.
-Será um ótimo pontapé inicial para
-se começar.
+Crie uma equação com o número de
+pessoas e o número de partidas como
+variáveis. Será um ótimo pontapé
+inicial para se começar.
 !******************************!
 Para criar uma equação para o número de
 partidas, você precisaria multiplicar
-o número de jogadores pelo o número de
+o número de jogadores pelo número de
 jogadores menos um, e então dividir esse
 produto por dois. Se houvessem três
 pessoas, haveriam três partidas.
 Se houvesse quatro pessoas, haveriam
 seis partidas. Você pode presumir das
-condições dadas que se ninguém tivesse
+condições dadas que, se ninguém tivesse
 saído, o número mínimo de partidas
 ainda teria que ser pelo menos 60.
 !******************************!
@@ -1398,7 +1400,7 @@ Este último enigma é um jogo de escapar
 onde você precisa mover a joia rosa para
 o encaixe circular na parte de baixo.
 
-Mas cuidado! Porque essa caixa de
+Mas cuidado, porque essa caixa de
 pandora não deixará você fugir tão
 facilmente!
 
@@ -1406,8 +1408,8 @@ Aguente firme e tente!
 !******************************!
 Maravilhoso!
 
-Se você completou este enigma em 78
-movimentos, pode se considerar como
+Se você completou este enigma em
+78 movimentos, pode se considerar
 um mestre dos enigmas!
 !******************************!
 Que pena!
@@ -1420,13 +1422,13 @@ pequeno espaço por vez.
 Você não pode mover a joia para fora de
 sua alcova de primeira. Você deve focar
 inicialmente em criar espaço para a
-joia poder sair. Uma dica pra você:
+joia poder sair. Uma dica para você:
 mova a barra vertical em amarelo para
 a metade superior do enigma.
 !******************************!
 Aqui está sua última dica. Você nunca
 precisará mover a peça de cruz mais
-pra direita além do centro do enigma.
+para direita além do centro do enigma.
 Em outras palavras, a joia tem que se
 mover em sentido horário no enigma.
 
@@ -2109,7 +2111,7 @@ como agradecimento.
 !******************************!
 Que pena!
 !******************************!
-Há vários espaços vazios nesse enigma,
+Há vários espaços vazios neste enigma,
 então deve estar pensando que será fácil
 mover as coisas por aí, mas limpar o
 caminho pode ser surpreendentemente
@@ -2146,7 +2148,7 @@ Bom trabalho!
 
 A resposta é C.
 
-Esse enigma usa uma como ilustração, mas
+Este enigma usa uma como ilustração, mas
 basicamente está te pedindo para desenhar
 um formato 3D em um único traço contínuo.
 
@@ -3076,7 +3078,7 @@ na solução mais cedo ou mais tarde.
 [n206.dat]
 <0000>Um Presente Misterioso
 <00><00><00><00><01><01><19><CE><FF><03><02><FF>
-Se está jogando esse enigma agora, então
+Se está jogando este enigma agora, então
 você provavelmente já viajou pelo menos
 uma vez para a vila de St. Mystère com o
 Luke e o Professor.

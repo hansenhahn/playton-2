@@ -2061,7 +2061,7 @@ em 1883.
 !******************************!
 
 !******************************!
-De início, esse enigma pode parecer muito
+De início, este enigma pode parecer muito
 complicado, mas não é tão difícil assim.
 
 Se você não conseguir chegar em uma
@@ -2241,7 +2241,7 @@ disposição, para chegar à resposta de
 !******************************!
 Que pena!
 
-Tente resolver esse enigma mais uma vez.
+Tente resolver este enigma mais uma vez.
 !******************************!
 Você tem três tintas para usar na
 bandeira, mas isso não significa que

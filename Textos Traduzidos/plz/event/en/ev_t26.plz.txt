@@ -172,8 +172,8 @@ tanto intratável, não é?
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:33>De volta para resolvê-lo, não é?
 !******************************!
 [t26_103_100.gds]
-<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:45>Estou impressionado! Fez este parecer
-fácil.
+<01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:45>Estou impressionado! Você fez este
+enigma parecer fácil.
 !******************************!
 [t26_104_100.gds]
 <01:00000001><03:5>NONE<03:5>NONE<01:00000002><03:64>Não deixe isso lhe incomodar, meu
