@@ -1535,17 +1535,17 @@ outro 12:59. Em outras palavras, um
 relógio está adiantado e outro, atrasado.
 Sabendo que tanto o atraso, quanto
 o adiantamento dos relógios é constante,
-quantas horas irá demorar, partindo do
+quantas horas irá levar, partindo do
 meio-dia, para que eles se encontrem
 novamente?
 !******************************!
-Resolvido com sucesso!
+Muito bem!
 
 Demorará 360 horas. Assim que um relógio
 ganhar seis horas e outro perder seis,
 ambos os relógios mostrarão o mesmo tempo
-novamente. Você precisaria se perguntar
-por quanto tempo iria demorar com o relógio
+novamente. Você precisa se perguntar
+quanto tempo irá levar com o relógio
 movendo um minuto por hora para alcançar
 seis horas.
 !******************************!
@@ -1557,8 +1557,8 @@ que eles estarão apontando?
 !******************************!
 A próxima vez que os relógios estiverem
 iguais, não estarão apontando nas 12:00.
-Assim que perceber isso, será apenas um
-simples cálculo.
+Assim que você perceber isso, será
+apenas um simples cálculo.
 !******************************!
 
 !******************************!
@@ -1582,10 +1582,10 @@ simples cálculo.
 [n157.dat]
 <0160>Corte e Cole
 <00><00><00><00><11><01><09><9D><EF><03><02><FF>
-Dê uma olhada nesse pedaço de madeira dessa
+Dê uma olhada no pedaço de madeira dessa
 ilustração. Você consegue cortar seguindo
 as linhas para criar duas partes que se
-combinam e fazer um pedaço novo de madeira
+combinam e montem um pedaço novo de madeira
 com 8 quadradinhos de altura e largura?
 
 Por mais que você possa rotacionar os
@@ -1600,35 +1600,35 @@ parecido com isso.
 !******************************!
 Que pena!
 
-Dê uma olhada melhor no pedaço que você
-está cortando.
+Dê uma olhada melhor no pedaço que
+você está cortando.
 !******************************!
-Esse dois quadrados que estão pra fora
-na direita são parte de uma borda do
-pedaço feito.
+Esse dois quadrados que estão para
+fora no lado direito são parte de
+uma borda do novo pedaço montado.
 !******************************!
 
 !******************************!
 
 !******************************!
 [n158.dat]
-<0161> Dados Empilhados
+<0161>Dados Empilhados
 <00><00><00><00><11><01><16><9E><F6><03><02><FF>
-Olhe para esses dados empilhados abaixo.
+Olhe para os dados empilhados abaixo.
 Embora você não consiga ver, as faces que
 tocam os outros dados compartilham o mesmo
 número. Se é este o caso, qual número
 deveria estar neste ponto de interrogação?
 
-E claramente todos esses dados possuem o
-mesmo layout de números.
+Obviamente, todos os dados possuem a mesma 
+isposição dos números.
 !******************************!
 Você conseguiu!
 
 A face em questão deve ser um. Você
-precisaria visualizar os números que
-não podia ver e deduzir a posição do
-último dado assim.
+precisa imaginar os números que
+você não pode ver e, a partir disso,
+deduzir a posição do último dado.
 !******************************!
 Que pena!
 
@@ -1638,8 +1638,8 @@ dedução.
 Ajuda saber que as somas das faces
 opostas de um dado é sempre sete.
 
-Use isso como base na sua
-dedução.
+Use isso como ponto de partida
+para chegar à resposta.
 !******************************!
 
 !******************************!
@@ -1650,11 +1650,11 @@ dedução.
 <00><00><00><00><11><01><16><9F><F6><03><02><FF>
 Vamos dizer que você pegou um pedaço
 quadrado de papel e cortou os cantos para
-fazer o maior círculo possível. Mas então
-você percebeu que precisava mesmo de um
-quadrado e cortou as curvas para criar o
-maior quadrado possível. Quantas vezes
-o quadrado original é maior, em relação
+fazer o maior círculo possível. Então
+você percebeu que precisava mesmo era de
+um quadrado e cortou as curvas para criar
+o maior quadrado possível. Quantas vezes
+o quadrado original é maior em relação
 a esse que você tem agora?
 !******************************!
 Você entendeu bem!
@@ -1674,8 +1674,8 @@ que você cortou.
 
 Se você então cortar o maior quadrado
 possível desse círculo, qual seria a
-relação do diâmetro do círculo a
-esse novo quadrado?
+relação do diâmetro do círculo e esse
+novo quadrado?
 !******************************!
 
 !******************************!
@@ -1702,20 +1702,20 @@ diferentes.
 Ótimo trabalho!
 
 Se você substituir o A por 8 e o B por
-9, então a equação será verdadeira porque
-89 + 9 = 98.
+9, então a equação será verdadeira, uma
+vez que 89 + 9 = 98.
 !******************************!
 Que pena!
 
 Tire um tempo para descobrir.
 !******************************!
-Se você somasse B e B juntos, o último
-digito da soma resultante seria igual a A.
+Se você somar B e B juntos, o último
+digito da soma resultante será igual a A.
 
-Já que nenhum número de dígito único
-possa ter uma soma maior que 18, você
-sabe que o número nas dezenas dessa
-soma de B+B deve ser um. O único outro
+Já que a soma de dois número com apenas
+um dígito nunca pode ser maior que 18, 
+então o número nas dezenas da soma
+de B+B deve ser um. O único outro
 dígito que influencia as dezenas nessa
 solução é o A no AB + B.
 
@@ -1729,23 +1729,21 @@ Então, A + 1 deve ser igual a B.
 <0164>Qual é o Número?
 <00><00><00><00><11><01><16><A1><F6><03><02><FF>
 Os números no diagrama abaixo seguem uma
-certa regra. Algum tipo de manipulação em
-pares dos dados adjacentes é usada para
-gerar o número central abaixo deles. Você
-consegue descobrir qual número vai no
-espaço marcado com um ponto de
-interrogação?
+certa regra. Algum tipo de manipulação nos
+números adjacentes é usada para gerar o
+número central logo abaixo deles. Você
+consegue descobrir qual número vai no local
+marcado com um ponto de interrogação?
 
-A regra feita aqui é absoluta, então não
-há exceções.
+Não há exceções à regra!
 !******************************!
 Está certo! A resposta é 16. 
 
 A maneira para encontrar a resposta é
-pensar em todos dígitos dos números no
-diagrama como inteiros de único dígito.
-Então você soma todos eles. Então 160 e 144
-lhe daria 1 + 6 + 0 + 1 + 4 + 4, que é igual
+pensar em todos os dígitos dos números no
+diagrama como inteiros de um dígito.
+Então você soma todos eles. Logo, 160 e 144
+resulta em 1 + 6 + 0 + 1 + 4 + 4, que é igual
 a 16, o número abaixo. Esta é a regra.
 
 Primeiro, parece que a regra é pegar o
@@ -1755,7 +1753,7 @@ que isso não irá funcionar.
 !******************************!
 Que pena!
 
-Pense sobre todas as possibilidades.
+Pense em todas as possibilidades.
 !******************************!
 Subtração? Não, não é isso.
 
