@@ -1766,9 +1766,9 @@ Você precisa somar.
 [n162.dat]
 <0165>A Fuga do Rato!
 <00><00><00><00><01><01><19><A2><FF><03><02><FF>
-Este pobre rato dormiu e acordou preso por
-um punhado de blocos. Você consegue ajudar
-a libertar este rato azarado?
+Este pobre rato dormiu e acordou preso
+por um punhado de blocos. Você consegue
+libertar este rato azarado?
 !******************************!
 Ufa! Ele está livre!
 
@@ -1805,13 +1805,12 @@ o bloco azul para cima.
 [n164.dat]
 <0167>Galinhas Diferentes
 <00><00><00><00><11><01><02><A4><E8><03><02><FF>
-Hora de brincar de <''>ache as diferenças<''>!
+Hora de brincar de <''>ache o erro<''>!
 De A, B e C, qual desses painéis é idêntico
 ao painel da esquerda?
 
 O painel na esquerda é uma imagem negativa
-em preto e branco, e está invertida da
-esquerda pra direita.
+em preto e branco e espelhada.
 !******************************!
 Bem atento!
 
@@ -1822,9 +1821,9 @@ Que pena!
 
 Dê uma olhada mais de perto nas imagens.
 !******************************!
-Nos olhos da galinha.
+Os olhos de uma galinha.
 
-Na direção que um pintinho encara.
+A direção que um pintinho encara.
 
 São nessas coisas que você deveria
 estar prestando atenção!
@@ -1849,35 +1848,35 @@ estar prestando atenção!
 
 !******************************!
 [n166.dat]
-<0169>Território de Guerra
+<0169>Guerra de Territórios
 <00><00><00><00><11><01><05><A6><EB><03><02><FF>
-Três reis ficaram confusos numa disputa
-de território sobre uma terra mostrada
-abaixo. Eles decidiram dividir a terra
-a colorindo de vermelho, azul e amarelo
-devido às suas cores nacionais. A regra
-para a divisão é que cada território não
-pode fazer fronteira com outro território
-de mesma cor. Se o território A é vermelho
-e B é azul, qual cor é território C?
+Três reis estão presos em uma disputa em
+relação à área mostrado abaixo. Eles
+decidiram dividir a área colorindo-a de
+vermelho, azul e amarelo, que são as suas
+cores nacionais. A regra para a divisão é
+que cada território não pode fazer fronteira
+com outro território de mesma cor. Se o
+território A é vermelho e B é azul, qual cor
+é o território C?
 
 Circule a cor do rei e toque em #rEnviar#x
 para inserir sua resposta.
 !******************************!
 Está certo!
 
-Se você dividir as áreas corretamente,
+Se você dividir a área corretamente,
 C deve ser azul.
 !******************************!
 Que pena!
 
-O único jeito de resolver um enigma como
-este é fazendo manualmente!
+O único jeito de resolver um enigma
+como este é fazendo manualmente!
 !******************************!
-Tente marcar os territórios usando a
-função Notas para ter certeza de que
-você não deixe os adjacentes com a
-mesma cor.
+Tente marcar os territórios usando
+a função Notas para ter certeza de
+que você não deixará territórios
+adjacentes da mesma cor.
 !******************************!
 
 !******************************!
@@ -1886,14 +1885,15 @@ mesma cor.
 [n167.dat]
 <0170>Uma Vitória Garantida
 <00><00><00><00><11><01><1A><A7><00><04><02><FF>
-Neste jogo, os participantes fazem turnos
-movendo as pedras para um espaço vazio
-pra cima, baixo, esquerda, direita ou
-diagonalmente. O objetivo é alinhar três de
-suas pedras, como em nada e cruzes. Baseado
-no tabuleiro abaixo, há um movimento que o
-das peças brancas pode fazer para garantir
-vitória no turno seguinte.
+Neste jogo, os participantes movem as
+pedras para um espaço vazio para cima,
+baixo, esquerda, direita ou diagonalmente,
+a cada turno. O objetivo é alinhar três de
+suas pedras, como em um jogo da velha.
+Baseado no tabuleiro abaixo, há um
+movimento que o jogador das peças brancas
+pode fazer para garantir vitória no turno
+seguinte.
 
 Faça o movimento e toque em #rEnviar#x.
 !******************************!
@@ -1906,11 +1906,11 @@ Que pena!
 Tente novamente!
 !******************************!
 Do jeito que está, as peças pretas estão
-a um movimento da vitória, se você não
+a um movimento da vitória. Se você não
 bloquear esse movimento, irá perder.
 
-Consegue ver agora onde a pedra branca
-precisa ir?
+Você consegue ver agora aonde a pedra
+branca precisa ser colocada?
 !******************************!
 
 !******************************!
@@ -1921,11 +1921,11 @@ precisa ir?
 <00><00><00><00><11><01><02><A8><E8><03><02><FF>
 Torcendo uma tira fina de papel uma vez e
 usando uma fita para formar um anel com ela,
-dá pra fazer um anel com uma superfície
-contínua. Se você começasse a desenhar uma
-linha em um lado, irá eventualmente cobrir
-ambos os lados e iriam se conectar entre si.
-Este é a famosa fita de Moebius.
+você pode criar um anel com uma superfície
+contínua. Se você começar a desenhar uma
+linha em um lado, ela irá eventualmente cobrir
+ambos os lados e irá se conectar nela mesma.
+Esta é a famosa fita de Moebius.
 
 Agora, se você cortar essa linha com uma
 tesoura, qual desses formatos o papel
@@ -1945,10 +1945,10 @@ Que pena!
 Sabe, se você tivesse um papel, tesouras
 e um pouco de fita...
 !******************************!
-Sabe, se você torcer uma tira antes
-de um anel se formar, o resultado será
-completamente diferente, comparado a
-cortar um anel não torcido.
+Sabe, se você torcer a tira antes
+de criar o anel, o resultado será
+completamente diferente se comparado
+a cortar um anel não torcido.
 !******************************!
 
 !******************************!
