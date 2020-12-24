@@ -4,3 +4,5 @@ A fonte usada para a tradução dos textos normais é:
 * Anti-aliasing ON
 * Hinting Leve
 * Distância entre caracteres 0
+
+Os créditos traduzidos estão com problemas

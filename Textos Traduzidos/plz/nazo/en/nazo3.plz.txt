@@ -1968,7 +1968,7 @@ Está certo!
 
 Você teria que começar no A. Uma rota
 possível está sendo mostrada aqui, mas
-há outras rotas que também dá pra ir
+há outras rotas que também dá para ir
 uma vez em cada ponte. Este é um tipo
 de enigma que se resolve traçando uma
 longa linha sem soltar a caneta stylus.
@@ -1978,8 +1978,8 @@ Que pena!
 Tente outra rota.
 !******************************!
 O segredo é o número de pontes
-conectadas em cada ponto. Dê uma
-boa olhada nisso.
+conectadas em cada ponto.
+Dê uma boa olhada nisso.
 !******************************!
 
 !******************************!
@@ -1992,28 +1992,28 @@ Aqui temos um pentágono com lados iguais.
 Como mostrado na Figura 1, um quadrado com
 lados de mesmo tamanho de um do pentágono
 faz um contorno contra os cinco lados.
-Está rotulada com uma seta apontada pra
+Está rotulada com uma seta apontada para
 cima. Se você virar o quadrado ao redor do
 pentágono como mostrado na Figura 2,
 a seta no quadrado muda de direção.
 
-Usando o diagrama abaixo, descubra qual
-direção a seta estará encarando se você
-continuar a girar no sentido anti-horário
-ao redor do pentágono até a posição
-original.
+Usando o diagrama abaixo, descubra para
+qual direção a seta estará encarando 
+se você continuar a girar no sentido
+anti-horário ao redor do pentágono
+até a posição original.
 !******************************!
 Você conseguiu!
 
 Não há nada de difícil sobre este
 enigma, mas requer que você tenha uma
-mente criativa antes de alcançar este
+mente criativa antes de alcançar esse
 resultado.
 !******************************!
 Que pena!
 
-Não se desanime. Elabore um raciocínio
-e tente novamente!
+Não se desanime.  
+Elabore um raciocínio e tente novamente!
 !******************************!
 Este enigma pode parecer um porre de
 resolver, mas se você seguir o exemplo
@@ -2094,14 +2094,14 @@ Você consegue ver algum um ou seis?
 [n174.dat]
 <0177>Rato à Solta!
 <00><00><00><00><01><01><19><AE><FF><03><02><FF>
-Ah não, parece que o rato dormiu e ficou
+Ah, não, parece que o rato dormiu e ficou
 preso de novo! Enquanto ele estava
 cochilando, os donos da casa encheram o
 lugar que ele estava com vários blocos à
 sua volta. Você consegue limpar o caminho
 e ajudar o nosso camaradinha a sair?
 !******************************!
-Finalmente livre!
+Enfim, liberdade!
 
 É a segunda vez que você salva esse rato.
 Talvez ele deveria te dar um queijinho
@@ -2116,7 +2116,7 @@ caminho pode ser surpreendentemente
 difícil.
 
 Para conseguir, você precisará usar
-efetivamente as indentações dos blocos
+efetivamente os recortes dos blocos
 certos. Ah, tente levar esse bloco reto
 laranja para cima do bloco azul com
 formato de U na parte superior da tela.
@@ -2130,32 +2130,33 @@ formato de U na parte superior da tela.
 <00><00><00><00><11><01><02><AF><E8><03><02><FF>
 Um cubo de fios está abaixo, com uma formiga
 sentada no ponto abaixo da seta branca.
-Começando se sua posição atual, a formiga
+Começando de sua posição atual, a formiga
 quer caminhar em cada fio do cubo, mas sem
-atravessar uma extensão do fio duas vezes.
-Para fazer isso, precisa adicionar um único
-fio nesse cubo.
+atravessar uma extensão de fio duas vezes.
+Para fazer isso, precisa-se adicionar um
+único fio nesse cubo.
 
 Em qual área de A, B ou C você deveria
 adicionar o fio para tornar isso possível?
-Saiba que a formiga pode passar em qualquer
-ponto onde dois ou mais fios se encontram
-quantas vezes quiser. Escolha uma letra.
+Saiba que a formiga pode passar quantas
+vezes quiserem qualquer ponto onde dois 
+ou mais fios se encontram quantas vezes
+quiser. Escolha uma letra.
 !******************************!
 Bom trabalho!
 
 A resposta é C.
 
-Este enigma usa uma como ilustração, mas
-basicamente está te pedindo para desenhar
-um formato 3D em um único traço contínuo.
-
-Embora o fio A também te deixe desenhar o
-cubo em um traço, ele não te deixa fazer isso
-se começado pela seta branca. B também
-está incorreto porque, não importa de onde
-comece, você não conseguirá completar
-o desenho com uma única linha contínua.
+Este enigma usa uma formiga como recurso
+visual, mas basicamente está te pedindo 
+para desenhar uma forma 3D em um único
+traço contínuo. Embora o fio A também te
+deixe desenhar o cubo em um traço, ele não
+te deixa fazer isso se começado pela seta
+branca. B também está incorreto, porque
+não importa de onde comece, você não
+conseguirá completar o desenho com
+uma única linha contínua.
 !******************************!
 Que pena!
 
@@ -2181,15 +2182,15 @@ se começa pelo ponto da seta branca.
 John e Bill estavam brincando no parque
 e então começaram a conversar.
 
-<''>Ei, Bill! Daqui a três anos, você terá
-o dobro da minha idade atual, né?<''> Diz
-John.
+<''>Ei, Bill! Daqui a três anos, você terá o
+dobro da minha idade atual, né?<''>, diz John.
+
 Bill pausa por um momento e responde:
 <''>Bem, olha só! Quando eu tiver o dobro
 da idade que tenho agora, terei o triplo
 da sua idade atual. Loucura, não acha?<''>
 
-Quantos anos eles têm? Só pra você saber,
+Quantos anos eles têm? Só para você saber,
 nenhum deles chegaram nos 10 anos ainda.
 !******************************!
 Está certo!
@@ -2208,8 +2209,7 @@ possuem discussões bem avançadas.
 !******************************!
 Que pena!
 
-Os números que você escolheu não
-funcionam.
+Os números que você escolheu não funcionam.
 !******************************!
 Já que ambos os garotos possuem menos
 de 10 anos, há poucas combinações de
@@ -2241,7 +2241,7 @@ dos dois garotos.
 <0181>O Formato da Fita
 <00><00><00><00><11><01><05><B2><EB><03><02><FF>
 Dois pedaços de fita de mesmo comprimento
-e largura estão em formato de anéis e
+e largura estão em formato de anel e
 presos entre si no ponto P como mostrado.
 
 Se você fosse cortar os dois pedaços
@@ -2254,13 +2254,12 @@ Incrível!
 
 A resposta correta é D.
 
-Parece ser um absurdo, mas tente
-fazer em casa.
+Parece ser um absurdo,
+mas tente fazer em casa.
 !******************************!
 Que pena!
 
-Esse daí é difícil de visualizar
-mentalmente.
+Esse daí é difícil de visualizar mentalmente.
 !******************************!
 Você percebeu que o ponto P estaria
 dividido em quatro seções?
@@ -2278,7 +2277,7 @@ são bastante familiares para estudantes.
 Um dia, um matemático pensou na segunda
 fórmula. Essa fórmula basicamente pegou
 todas as letras do alfabeto, subtraiu por
-x, e então os multiplicou todos juntos.
+x, e então as multiplicou todas juntas.
 Já que a fórmula era muito extensa, o
 matemático usou <''>...<''> para indicar
 uma parte da fórmula. Logo depois, ele
@@ -2327,12 +2326,12 @@ Deslumbrante!
 
 <''>Exato. É a quarta de cima, a segunda
 de baixo, a terceira da direita e a
-terceira da esquerda. É esta qual
+terceira da esquerda. É dessa que
 estamos atrás.<''>
 
 Se você desenhar uma imagem com essa
-descrição, irá se parecer assim. Contudo,
-há cinco fileiras e cinco colunas,
+descrição, irá se parecer assim. 
+Contudo, há cinco fileiras e cinco colunas,
 significando que há 25 joias.
 !******************************!
 Que pena!
@@ -2355,22 +2354,22 @@ Caminhando por aí, você escuta os vizinhos
 conversando sobre uma família que consiste
 de um casal, um filho e uma filha.
 
-A: <''>Mary é com certeza mais nova que o Dan.<''>
-B: <''>Me diz, Mary é mais velha que Lisa, não?<''>
-C: <''>Sam é mais nova que Dan, com certeza.<''>
-D: <''>Não, Lisa e Sam não são um casal.<''>
+A: <''>É fato que a Mary é mais nova que o Dan.<''>
+B: <''>Aí, A Mary é mais velha que a Lisa, não?<''>
+C: <''>O Sam é mais novo que o Dan, certeza.<''>
+D: <''>Não, a Lisa e o Sam não são um casal.<''>
 
 Das quatro afirmações acima, duas são
 verdadeiras e duas são falsas. Descubra
-quais afirmações são as corretas e marque
+quais afirmações são as reais e marque
 as caixas das duas pessoas que estão
 casadas.
 !******************************!
 Está certo!
 
 O Sam e a Mary são o casal.
-A e C são mentiras, enquanto B e D
-são afirmações precisas.
+A e C são mentiras, enquanto 
+B e D são afirmações precisas.
 
 A resposta é revelada quando você testa
 cada afirmação. Se B fosse falsa, então
@@ -2393,25 +2392,25 @@ As afirmações A e C estão incorretas.
 [n182.dat]
 <0185>Erro de Cálculo
 <00><00><00><00><11><01><16><B6><F6><03><02><FF>
-Mike sempre foi terrível em matemática.
+O Mike sempre foi terrível em matemática.
 Pediram para ele multiplicar <''>um certo número
-por 9 e depois somar 7<''>, mas em vez disso,
-ele multiplica por 7 e então soma por 9.
+por 9 e depois somar com 7<''>, mas em vez disso,
+ele multiplica por 7 e então soma com 9.
 
 Ele depois percebe seu erro e, em pânico,
-tenta o problema novamente. Quando ele
-faz o problema corretamente, entretanto,
-acaba conseguindo o mesmo resultado
-que ele fez pela primeira vez.
+tenta resolver o problema novamente.
+Quando resolve o problema corretamente,
+entretanto, ele acaba conseguindo o 
+mesmo resultado que deu da primeira vez.
 
-Qual "certo número" é esse?
+Quue "certo número" é esse?
 !******************************!
 Muito bem!
 
 O número é o um.
 
-Se você fazer as contas, vai ver que
-tudo tá batendo.
+Se você fizer as contas,
+verá que tudo dá certo.
 !******************************!
 Que pena!
 
@@ -2419,8 +2418,8 @@ A resposta não faz sentido.
 !******************************!
 Tente criar uma equação.
 
-Mas você pode usar sua intuição para
-descobrir a resposta...
+Mas você pode usar sua intuição
+para descobrir a resposta...
 !******************************!
 
 !******************************!
@@ -2430,15 +2429,15 @@ descobrir a resposta...
 <0186>Três Senhoritas
 <00><00><00><00><51><01><1A><B7><00><04><02><FF>
 Você consegue descobrir o nome de cada
-uma dessas três senhoritas?
+uma dessas três mulheres?
 A: <''>Esta mulher próxima de mim é a Judy.<''>
 B: <''>Eu sou a Ellie. Prazer em conhecê-lo!<''>
 C: <''>Esta mulher próxima de mim? É a Anna.<''>
 
-Lembre-se do que cada senhorita disse para
+Lembre-se do que cada mulher disse para
 te ajudar na dedução de nomes. Há uma
 pegadinha nisso: enquanto a Judy é sempre
-sincera, Ellie mente às vezes e a Anna
+sincera, a Ellie mente às vezes e a Anna
 diz lorota sempre que pode. Organize os
 nomes na parte de baixo da tela para que
 então as placas digam corretamente o nome
@@ -2454,18 +2453,18 @@ Judy. B alega ser Ellie, então sabemos que
 esta pessoa também não pode ser a Judy.
 
 Então você sabe que C deve ser a Judy,
-e assim, B deve ser a Anna.
-Com as duas já identificadas, já
-pode ter certeza de que A é a Ellie.
+e assim, B deve ser a Anna. Com as duas
+já identificadas, já pode ter certeza
+de que A é a Ellie.
 !******************************!
 Que pena!
 
-Pense logicamente sobre as pistas
-que você recebeu.
+Pense logicamente sobre as pistas que você
+recebeu.
 !******************************!
-As outras duas senhoritas ficam falando
-sobre a B. Quem ela deve ser? Lembre-se
-que a Judy nunca mente.
+As outras duas mulheres ficam falando
+sobre a B. Quem ela deve ser?
+Lembre-se de que a Judy nunca mente.
 !******************************!
 
 !******************************!
@@ -2505,12 +2504,12 @@ que a Judy nunca mente.
 <0189>A Fuga do Leão
 <00><00><00><00><11><01><05><BA><EB><03><02><FF>
 Um leão fugiu de sua jaula no zoológico.
-Parece que você, o tratador, esqueceu
+Parece que você, o tratador, esqueceu-se
 de trancar a jaula.
 
 Esse leão é uma espécie extremamente
-perigosa e você é a única pessoa restante
-no zoológico.
+perigosa e você é a única pessoa
+restante no zoológico.
 
 Circule o local mais seguro de se esconder
 até a ajuda chegar.
@@ -2559,26 +2558,27 @@ te pegar.
 Qual padrão combina com aquele do canto
 superior esquerdo? É o A, B ou C?
 
-O padrão do superior esquerdo teve seus
-conteúdos invertidos da esquerda pra
-direita, suas cores trocadas e em preto
-e branco.
+O padrão do canto superior esquerdo teve
+seu conteúdo invertido da esquerda para a
+direita, e suas cores invertidas e trocadas
+para preto e branco.
 !******************************!
 Na mosca!
 
-A resposta é a B. As áreas circuladas
-em A e C são diferentes do padrão
-preto e branco.
+A resposta é a B.
+
+As áreas circuladas em A e C são
+diferentes do padrão preto e branco.
 !******************************!
 Que pena!
 
 Dê uma olhada mais de perto!
 !******************************!
-Primeiro, tente olhar para os centros
-dos padrões.
+Primeiro, tente olhar para o centro
+de cada padrão.
 
 A parte realmente difícil são as
-diferenças dos triângulos nas bordas.
+diferenças nos triângulos das bordas.
 Olhe atentamente para os tons de cinza!
 !******************************!
 
@@ -2594,10 +2594,10 @@ As cartas estão organizadas em uma tabela
 4 x 4 mostrada abaixo, e três cartas já
 foram postas.
 
-Organize as cartas restantes para que cada
-coluna vertical, linha horizontal e
+Organize as cartas restantes para que 
+cada coluna vertical, fileira horizontal e
 linha diagonal de quatro cartas possuam
-uma de cada naipe. Toque em uma carta
+um de cada naipe. Toque em uma carta
 para colocá-la em um espaço.
 !******************************!
 Você conseguiu!
@@ -2615,15 +2615,16 @@ de novo!
 Comece com a carta acima da de paus.
 Já que há uma de paus abaixo, uma de
 copas na diagonal e uma de espada na
-sua direita, deve ser ouro nesta. A
-carta na esquerda dessa tem uma de ouro
-e uma de espada na mesma linha e uma
-de copas acima dela, então será paus.
+sua direita, deve ser ouro nesta. 
+A carta à esquerda dessa tem uma de 
+ouro e uma de espada na mesma linha e 
+uma de copas acima dela, então será paus.
 
-Três de quatro cartas da segunda fileira
-estão em posição, então deve saber que
-a última deve ser copas. Prossiga com
-esta maneira e termine a tabela!
+Três de quatro cartas da segunda 
+fileira estão em posição, então deve
+saber que a última tem de ser copas. 
+
+Prossiga dessa maneira e termine a tabela!
 !******************************!
 
 !******************************!
@@ -2635,26 +2636,27 @@ esta maneira e termine a tabela!
 Uns cientistas de um laboratório de pesquisa
 construíram um robô capaz de limpar longos
 corredores. Como o robô ainda não está
-completo ainda, ele foi programado para virar
-ou só pra esquerda ou só pra direita. Os
-cruzamentos onde ele dobra também podem
-ser programados.
+completo, ele foi programado para virar
+ou só à esquerda ou só à direita.
+Os cruzamentos onde ele dobra também
+podem ser programados.
 
 Os cientistas querem dar ao robô uma rota
 que limpe todas as partes do corredor, mas
 sem limpar nenhum lugar duas vezes. De qual
 ponto o robô deveria começar? Escolha de
-A-E e circule sua resposta. O robô pode
+A a E e circule sua resposta. O robô pode
 passar por interseções duas vezes.
 !******************************!
 Afirmativo!
 
 O robô deveria começar pelo ponto E e ser
-programado para virar apenas para direita.
+programado para virar apenas à direita.
 Também pode ser só para a esquerda se
 começar no fim da rota demonstrada aqui.
-Seja lá o que você escolher, ainda é um robô
-difícil de usar!
+
+Seja lá o que você escolher,
+ainda é um robô difícil de usar!
 !******************************!
 Que pena!
 
@@ -2681,12 +2683,12 @@ pode ser usado apenas uma vez. As luzinhas
 em cada fileira de dígitos são a chave para
 descobrir o código, já que dizem quantos
 números em comum aquela fileira tem com o
-código. A luz branca indica que um dígito está
-no código, mas na posição errada. Uma luz
-laranja indica que o código está no local
+código. A luz branca indica que um dígito 
+está no código, mas na posição errada. Uma
+luz laranja indica que o código está no local
 correto. Toque nos dígitos na tela de baixo
-para mudá-los, e toque em #rEnviar#x quando
-quiser enviar sua resposta.
+para mudá-los, e toque em #rEnviar#x 
+quando quiser enviar sua resposta.
 !******************************!
 Você arrebentou!
 
@@ -2698,7 +2700,7 @@ Que pena!
 Esse aí é bem complicado...
 !******************************!
 A partir das luzinhas da terceira fileira,
-dá pra notar que os quatro dígitos do
+dá para notar que os quatro dígitos do
 código são 3102. Descobrir a ordem
 correta é só uma questão de checar as
 outras fileiras, embora um pouquinho de
@@ -2750,18 +2752,19 @@ ver todas as faces aqui, então se rolasse
 os dois dados, o maior número que você
 conseguiria seria nove.
 
-Sabendo disso, qual é o menor número que
-dá pra tirar? Lembre-se, apenas os números
-visíveis do lado de cima contam.
+Sabendo disso, qual é o menor número 
+que dá para tirar? Lembre-se, apenas 
+os números visíveis do lado de cima contam.
 !******************************!
 Está certo!
 
 Os dados não precisam estar alinhados igual
 na imagem. Mas se você posicionar os dados
 igual na imagem mostrada aqui, conseguirá
-o menor número possível: Um! Claro, é pouco
-provável que alguém conseguiria rolar
-e conseguir fazer isso naturalmente...
+o menor número possível: um! 
+
+Claro, é pouco provável que alguém
+consiga rolar e fazer isso naturalmente...
 !******************************!
 Que pena!
 
@@ -2821,13 +2824,13 @@ Este enigma é... um pouquinho malvado.
 [n198.dat]
 <0201>Blocos Numerados
 <00><00><00><00><11><01><12><C6><F8><03><02><FF>
-Reorganize os três blocos para que então
+Reorganize os três blocos para que, então,
 eles mostrem um número divisível por 43.
 !******************************!
 Bem afiado!
 
 Assim que perceber que o seis pode ficar
-de cabeça pra baixo pra formar um nove,
+de cabeça para baixo e formar um nove,
 você pode fazer o 129.
 !******************************!
 Que pena!
@@ -2845,13 +2848,13 @@ diferentes. Talvez você perceba algo.
 <0202>A Rota do Ônibus
 <00><00><00><00><11><01><09><C7><EF><03><02><FF>
 Um ônibus bem largo se aproxima da cidade.
-Já que as ruas desta cidade são bem
+Já que as ruas dessa cidade são bem
 estreitas, o ônibus só pode virar nas
 esquinas onde não há prédios e só
 na direção que a esquina permitir.
 
 O ônibus chega do sul, então você consegue
-descobrir a menor rota pro ônibus se ele
+descobrir a menor rota ao ônibus se ele
 quiser sair para o leste? Trace uma linha
 do ponto inicial para o objetivo.
 !******************************!
@@ -2871,8 +2874,8 @@ Que pena!
 Tente uma rota diferente.
 !******************************!
 Dirija até você acertar uma parede,
-então vire para a direita. Continue até
-acertar outra parede...
+então vire para a direita.
+Continue até acertar outra parede...
 
 O resto é com você.
 !******************************!
@@ -2928,15 +2931,15 @@ O resto é com você.
 [n203.dat]
 <0138>A Caixa Elísia
 <00><3C><36><30><12><81><12><CB><55><04><04><FF>
-<''>Quando nos olhamos, o sol nasce
-e, quando o vento soprar, descobrirás
+<''>Quando nos olhamos, o sol nasce e,
+quando o vento soprar, descobrirás
 o meu coração.<''>
 
 Essas palavras são a chave para abrir
 a Caixa Elísia.
 
-Cabe a você achar uma maneira de abrir a
-caixa e resolver o enigma final dessa
+Cabe a você achar uma maneira de abrir
+a caixa e resolver o enigma final dessa
 história.
 !******************************!
 Maravilhoso!
@@ -2948,9 +2951,8 @@ Está na hora de descobrir.
 !******************************!
 Que pena!
 
-Leia o que o Anton disse para o Luke
-novamente. Já diz tudo o que você precisa
-saber.
+Leia o que o Anton disse ao Luke novamente. 
+Já diz tudo do que você precisa saber.
 !******************************!
 <''>Quando nos olhamos...<''>
 
@@ -3027,7 +3029,7 @@ posicionada no espaço de baixo.
 Parece que a tranca aqui é algum tipo de
 quadrado mágico. Para conseguir resolvê-lo,
 posicione os números restantes para que
-cada linha vertical, horizontal e diagonal
+cada linha vertical, horizontal, e diagonal
 com quatro números dê a mesma soma total.
 
 Resolva o quadrado mágico e abra a
@@ -3048,13 +3050,13 @@ não está somando o mesmo total de
 todas as outras.
 !******************************!
 Você tem que fazer com que a somatória
-de cada linha horizontal, vertical e
+de cada linha horizontal, vertical, e
 diagonal de quatro números dê o mesmo
-valor, então, primeiro você precisa
+valor, então, primeiro, você precisa
 descobrir que valor é esse.
 
 O total está lá para você descobrir,
-então, examine o quadrado até achá-lo.
+então examine o quadrado até achá-lo.
 !******************************!
 Uma linha em diagonal já parece estar
 no lugar certo. A somatória de seus
@@ -3069,7 +3071,7 @@ quadrado, você terá cada vez menos
 espaços para lidar.
 
 Preencha uma linha, certifique-se de que
-totaliza 18 e continue trabalhando com
+totaliza 18, e continue trabalhando com
 o que você conseguiu. Você chegará
 na solução mais cedo ou mais tarde.
 !******************************!
@@ -3090,7 +3092,7 @@ deles!
 Muito bem!
 
 Esperamos que você se divirta
-bastante jogando o resto do 
+bastante jogando o resto de
 Professor Layton e a Caixa de Pandora.
 !******************************!
 Que pena!
@@ -3099,12 +3101,12 @@ Não desista! Continue neste enigma
 e você irá resolvê-lo logo, logo.
 !******************************!
 Este enigma é uma variação do clássico
-quebra-cabeça de deslizar de 15 peças
+quebra-cabeças de deslizar de 15 peças
 que você já deve ter visto em uma loja
 de brinquedos.
 
 Não é uma versão particularmente
-difícil deste enigma, então relaxe,
+difícil desse enigma, então relaxe,
 vá com calma... e divirta-se!
 !******************************!
 

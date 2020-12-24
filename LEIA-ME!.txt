@@ -17,7 +17,7 @@ Informações sobre a ROM:
 
 Sobre a Tradução:
 	Textos:  100%
-	Imagens: 100%
+	Imagens: 99%
 	Revisão: 100%
 
 Equipe:
@@ -39,11 +39,12 @@ Notas da Equipe:
 	  estão devidamente traduzidos para o português brasileiro.
 
 Notas das Versões:
-	- 20/09/2020 Release 1
+	- 24/12/2020 Release 1
 		* Revisão de todos os textos da história e enigmas
 		* Revisão de todas as imagens
 		* Tradução dos créditos
 		* Desbloqueio da Porta Oculta de St. Mystère
+		* As imagens de crédito permanecem em inglês por problemas na execução ingame. Será visto em uma nova revisão.
 	- 29/05/2020 Beta 10
 		* Revisão dos textos da história e enigmas
 		* Correção do layout do teclado
