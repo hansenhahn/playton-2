@@ -1927,7 +1927,7 @@ Há alguém que preciso conhecer
 melhor primeiro.
 !******************************!
 [m21_2.txt]
-Isso tem um bom som.
+Isso soa bem.
 !******************************!
 [m21_21.txt]
 Você me perdoa por fazê-la esperar

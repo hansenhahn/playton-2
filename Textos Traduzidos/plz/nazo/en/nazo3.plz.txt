@@ -2355,7 +2355,7 @@ conversando sobre uma família que consiste
 de um casal, um filho e uma filha.
 
 A: <''>É fato que a Mary é mais nova que o Dan.<''>
-B: <''>Aí, A Mary é mais velha que a Lisa, não?<''>
+B: <''>Aí, a Mary é mais velha que a Lisa, não?<''>
 C: <''>O Sam é mais novo que o Dan, certeza.<''>
 D: <''>Não, a Lisa e o Sam não são um casal.<''>
 

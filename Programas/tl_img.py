@@ -24,7 +24,16 @@ __version__ = "2.0"
 PATH = r'../ROM Original/Splitted/LAYTON2/data_lt2'
 
 UNPACK_INPUT_PATH = r'../Imagens Originais'
-PACK_OUTPUT_PATH = r'../Arquivos Gerados'    
+PACK_OUTPUT_PATH = r'../Arquivos Gerados'
+
+# Os creditos finais utilizam duas background para simular a rolagem da tela
+# Não é possível usar o tamanho generico de 0xE0 cores nesse caso
+Ending = "ending"
+EndingColormapSize = { "00.arc.bmp" : 0x02, "01.arc.bmp" : 0x20, "02.arc.bmp" : 0x10, "03.arc.bmp" : 0x10, "04.arc.bmp" : 0x10, "05.arc.bmp" : 0x10, "06.arc.bmp" : 0x20, 
+"07.arc.bmp" : 0x20, "08.arc.bmp" : 0x10, "09.arc.bmp" : 0x10, "10.arc.bmp" : 0x10, "11.arc.bmp" : 0x10, "12.arc.bmp" : 0x20, "13.arc.bmp" : 0x20, "14.arc.bmp" : 0x10, 
+"15.arc.bmp" : 0x10, "16.arc.bmp" : 0x10, "17.arc.bmp" : 0x10, "18.arc.bmp" : 0x10, "19.arc.bmp" : 0x10, "20.arc.bmp" : 0x10, "21.arc.bmp" : 0x20, "22.arc.bmp" : 0x10, 
+"23.arc.bmp" : 0x10, "24.arc.bmp" : 0x10, "25.arc.bmp" : 0x10, "26.arc.bmp" : 0x10, "27.arc.bmp" : 0x10, "28.arc.bmp" : 0x10, "29.arc.bmp" : 0x10, "30.arc.bmp" : 0x10, 
+"31.arc.bmp" : 0x10, "32.arc.bmp" : 0x10, "33.arc.bmp" : 0x10, "34.arc.bmp" : 0x10, "35.arc.bmp" : 0x02 }
 
 def gba2tuple(fd):
     rgb = struct.unpack('<H', fd.read(2))[0] & 0x7FFF
@@ -152,8 +161,12 @@ def packBackground( src, dst ):
                     
                 temp = open('temp', 'w+b')
                 # Escrita do arquivo tempor?rio:
-                temp.write(struct.pack('<L', 0xE0))#len(colormap)))
-                for x in range(0xE0):#colormap:
+                if Ending in name:
+                    colormapsize = EndingColormapSize[os.path.basename(name)] 
+                else:
+                    colormapsize = 0xe0
+                temp.write(struct.pack('<L', colormapsize))#len(colormap)))
+                for x in range(colormapsize):#colormap:
                     temp.write(tuple2gba(colormap[x]))
                 temp.write(struct.pack('<L', len(tilelist)))
                 tileset.tofile(temp)
