@@ -470,7 +470,7 @@ Flor Tônica
 Pimenta Cereja
 !******************************!
 [herb_7.txt]
-Cavalhinho Seco
+Cavalinho Seco
 !******************************!
 [item_0.txt]
 O Sapato do Tom

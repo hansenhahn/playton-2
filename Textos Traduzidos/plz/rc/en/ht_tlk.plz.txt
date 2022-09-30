@@ -350,7 +350,7 @@ e nunca mais prepará-la.
 Professor... este chá é... peculiar.
 !******************************!
 [ht_107_1.txt]
-Confessor não conseguir encontrar um
+Confesso não conseguir encontrar um
 termo mais apropriado para esta
 mistura que não seja "peculiar".
 !******************************!

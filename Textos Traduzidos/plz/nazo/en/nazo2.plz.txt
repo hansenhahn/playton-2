@@ -2500,7 +2500,7 @@ que há entre os canteiros, verá que
 elas formam um quadrado!
 !******************************!
 Desenhe um conjunto de linhas diagonais
-que vão dos ponto onde dois canteiros
+que vão dos pontos onde dois canteiros
 se encostam, até o centro do diagrama
 (o ponto central entre todos os quatro
 canteiros). Isso deve dividir o espaço

@@ -81,7 +81,7 @@ Que chique. Adorei o bode fofinho
 desenhado em cima!
 !******************************!
 [t16_010_2100.gds]
-<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:24>... Por esse eu não esperava!<W> Flora...<@s>
+<01:00000001><03:10>b1 normal<03:5>NONE<01:00000002><03:24>... Por essa eu não esperava!<W> Flora...<@s>
 !******************************!
 [t16_010_2200.gds]
 <01:00000005><03:5>NONE<03:5>NONE<01:00000003><03:5>Hmm?

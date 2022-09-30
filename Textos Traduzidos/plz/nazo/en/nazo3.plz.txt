@@ -1621,7 +1621,7 @@ número. Se é este o caso, qual número
 deveria estar neste ponto de interrogação?
 
 Obviamente, todos os dados possuem a mesma 
-isposição dos números.
+disposição dos números.
 !******************************!
 Você conseguiu!
 
@@ -1710,9 +1710,9 @@ Que pena!
 Tire um tempo para descobrir.
 !******************************!
 Se você somar B e B juntos, o último
-digito da soma resultante será igual a A.
+dígito da soma resultante será igual a A.
 
-Já que a soma de dois número com apenas
+Já que a soma de dois números com apenas
 um dígito nunca pode ser maior que 18, 
 então o número nas dezenas da soma
 de B+B deve ser um. O único outro
