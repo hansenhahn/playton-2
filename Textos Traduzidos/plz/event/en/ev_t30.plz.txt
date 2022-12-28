@@ -1162,7 +1162,7 @@ fazer algo que dê conta do recado?
 Estamos todos encrencados agora!
 !******************************!
 [t30_140_200.gds]
-<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:29>Ah, não! O-O que está havendo? 
+<01:00000002><03:10>b4 normal<03:5>NONE<01:00000003><03:29>Ah, não! O-o que está havendo? 
 !******************************!
 [t30_140_300.gds]
 <01:00000042><03:5>NONE<03:5>NONE<01:00000001><03:212>É o meu chá! Não está doce mesmo!

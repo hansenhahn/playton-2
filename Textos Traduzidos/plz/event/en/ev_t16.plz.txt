@@ -1319,7 +1319,7 @@ se espalhado por toda a
 população de Folsense.
 !******************************!
 [t16_230_1100.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:102>O-O senhor acha que ele pode ser...
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:102>O-o senhor acha que ele pode ser...
 mais do que um boato? O Sr. Parcelle
 parecia bem convencido!
 !******************************!
@@ -1534,7 +1534,7 @@ Vão. Desejamo-lhes sorte em
 sua empreitada.
 !******************************!
 [t16_310_500.gds]
-<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:48>O-O senhor acha que quem
+<01:00000002><03:5>NONE<03:5>NONE<01:00000003><03:48>O-o senhor acha que quem
 falou isso foi o vampiro?
 !******************************!
 [t16_310_600.gds]

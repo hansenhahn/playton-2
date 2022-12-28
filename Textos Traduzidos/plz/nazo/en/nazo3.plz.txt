@@ -1855,10 +1855,10 @@ relação à área mostrado abaixo. Eles
 decidiram dividir a área colorindo-a de
 vermelho, azul e amarelo, que são as suas
 cores nacionais. A regra para a divisão é
-que cada território não pode fazer fronteira
-com outro território de mesma cor. Se o
-território A é vermelho e B é azul, qual cor
-é o território C?
+que cada território não pode fazer
+fronteira com outro território de mesma
+cor. Se o território A é vermelho e B
+é azul, qual cor é o território C?
 
 Circule a cor do rei e toque em #rEnviar#x
 para inserir sua resposta.

@@ -168,11 +168,12 @@ Chega de tanta regra. Tente resolvê-lo.
 !******************************!
 Excelente!
 
-A única condição para resolver esses enigmas
-era eliminar todas as bolinhas do tabuleiro
-exceto por uma, mas a verdadeira solução
-deste enigma requer que você termine com uma
-das bolinhas posicionada no espaço central.
+A única condição para resolver esses
+enigmas era eliminar todas as bolinhas
+do tabuleiro exceto por uma, mas a
+verdadeira solução deste enigma requer
+que você termine com uma das bolinhas
+posicionada no espaço central.
 
 Talvez isso lhe sirva de incentivo para
 revisitar alguns desses enigmas de
@@ -1356,7 +1357,7 @@ trabalho dois dias atrás, então amanhã
 eu tiro folga. Oww yeah!<''>
 
 Suponha que o ano tenha 365 dias e ignore
-fins de semana e feriadoss. Quantos dias
+fins de semana e feriados. Quantos dias
 por ano o Sammy trabalha?
 !******************************!
 Feito!
@@ -1381,7 +1382,7 @@ fique um pouco mais fácil de entender.
 A rotina de trabalho e folga do Sammy
 repete-se a cada cinco dias.
 !******************************!
-O escala do Sammy é um ciclo que
+A escala do Sammy é um ciclo que
 consiste de três dias de trabalho
 seguidos por dois dias de folga.
 !******************************!
