@@ -2128,39 +2128,38 @@ formato de U na parte superior da tela.
 [n175.dat]
 <0178>A Passeata da Formiga
 <00><00><00><00><11><01><02><AF><E8><03><02><FF>
-Um cubo de fios está abaixo, com uma formiga
-sentada no ponto abaixo da seta branca.
+Abaixo temos um cubo de fios com uma formiga
+parada onde aponta a seta branca.
 Começando de sua posição atual, a formiga
 quer caminhar em cada fio do cubo, mas sem
 atravessar uma extensão de fio duas vezes.
-Para fazer isso, precisa-se adicionar um
-único fio nesse cubo.
+Para fazer isso, você precisa adicionar
+um único fio nesse cubo.
 
-Em qual área de A, B ou C você deveria
+Em qual área nomeadas A, B ou C você deve
 adicionar o fio para tornar isso possível?
 Saiba que a formiga pode passar quantas
-vezes quiserem qualquer ponto onde dois 
-ou mais fios se encontram quantas vezes
-quiser. Escolha uma letra.
+vezes quiser nos pontos onde dois ou mais
+fios se encontram. Escolha uma letra.
 !******************************!
-Bom trabalho!
-
-A resposta é C.
+Bom trabalho! A resposta é C.
 
 Este enigma usa uma formiga como recurso
-visual, mas basicamente está te pedindo 
-para desenhar uma forma 3D em um único
-traço contínuo. Embora o fio A também te
-deixe desenhar o cubo em um traço, ele não
-te deixa fazer isso se começado pela seta
-branca. B também está incorreto, porque
-não importa de onde comece, você não
+visual, mas basicamente está pedindo
+para você desenhar uma forma 3D em um
+único traço contínuo. Embora o fio A
+também permita desenhar o cubo em um
+traço, não será possível fazer isso se
+você começar o desenho pela seta branca.
+B também está incorreto porque não
+importa de onde comece, você não
 conseguirá completar o desenho com
 uma única linha contínua.
 !******************************!
 Que pena!
 
-Estude a estrutura desse fio com esmero.
+Estude a estrutura desse fio com
+cuidado.
 !******************************!
 Essencialmente, este enigma está te
 perguntando onde deve adicionar um fio
@@ -2392,10 +2391,11 @@ As afirmações A e C estão incorretas.
 [n182.dat]
 <0185>Erro de Cálculo
 <00><00><00><00><11><01><16><B6><F6><03><02><FF>
-O Mike sempre foi terrível em matemática.
-Pediram para ele multiplicar <''>um certo número
-por 9 e depois somar com 7<''>, mas em vez disso,
-ele multiplica por 7 e então soma com 9.
+Mike sempre foi terrível em matemática.
+Pediram para ele multiplicar <''>um certo
+número por 9 e depois somar com 7<''>, mas
+em vez disso, ele multiplica por 7 e então
+soma com 9.
 
 Ele depois percebe seu erro e, em pânico,
 tenta resolver o problema novamente.
@@ -2403,7 +2403,7 @@ Quando resolve o problema corretamente,
 entretanto, ele acaba conseguindo o 
 mesmo resultado que deu da primeira vez.
 
-Quue "certo número" é esse?
+Que <''>certo número<''> é esse?
 !******************************!
 Muito bem!
 
@@ -2623,8 +2623,7 @@ uma de copas acima dela, então será paus.
 Três de quatro cartas da segunda 
 fileira estão em posição, então deve
 saber que a última tem de ser copas. 
-
-Prossiga dessa maneira e termine a tabela!
+Continue assim e termine a tabela!
 !******************************!
 
 !******************************!
