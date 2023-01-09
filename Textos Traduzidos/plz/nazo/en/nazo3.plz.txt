@@ -744,7 +744,7 @@ aterrissou às 20:00. Então o voo em
 si deve ter levado cinco horas.
 !******************************!
 A diferença no horário tem o efeito
-reverso no voo retornando de
+reverso no voo retornando para
 Los Angeles.
 
 Se o avião para Los Angeles saiu de Nova
